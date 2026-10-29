@@ -12,7 +12,7 @@
  */
 
 import { normalizeAnswer } from './normalize.ts';
-import { CATEGORIES } from './types.ts';
+import { CATEGORIES, FAMILIARITY_BASES } from './types.ts';
 import type { QuestionBank } from './types.ts';
 
 export interface ValidationIssue {
@@ -117,8 +117,8 @@ export function validateQuestionBank(data: unknown): ValidationResult {
 
       if (!isNonEmptyString(a['canonical'])) add(`${ap}.canonical`, 'must be a non-empty string');
       if (!isNonEmptyString(a['evidence'])) add(`${ap}.evidence`, 'must be a non-empty string');
-      if (a['familiarityBasis'] !== 'curated-estimate' && a['familiarityBasis'] !== 'signal-model') {
-        add(`${ap}.familiarityBasis`, 'must be "curated-estimate" or "signal-model"');
+      if (!(FAMILIARITY_BASES as readonly unknown[]).includes(a['familiarityBasis'])) {
+        add(`${ap}.familiarityBasis`, `must be one of ${FAMILIARITY_BASES.join(', ')}`);
       }
 
       const fam = a['familiarity'];

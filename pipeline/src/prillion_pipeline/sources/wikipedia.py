@@ -6,13 +6,13 @@ tables. A source that quietly omits the data is worse than one that fails,
 because the generator would fill the gap from memory.
 """
 
-import re
 from datetime import date
 from html.parser import HTMLParser
 from urllib.parse import quote
 
 import httpx
 
+from ..text import slugify
 from .base import Document, SourceError
 
 API_URL = "https://en.wikipedia.org/w/api.php"
@@ -34,10 +34,6 @@ _BLOCK_TAGS = frozenset({"p", "div", "li", "ul", "ol", "h1", "h3", "h4", "h5", "
 _DROPPED_SECTIONS = frozenset(
     {"references", "external links", "see also", "notes", "further reading", "bibliography", "footnotes"}
 )
-
-
-def slugify(title: str) -> str:
-    return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
 
 
 class _TextExtractor(HTMLParser):

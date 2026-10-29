@@ -15,11 +15,13 @@ import csv
 import gzip
 import os
 import time
-import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 
 import httpx
+
+# Case, accents and punctuation must not stop "Hanu-Man" matching "HanuMan".
+from ..text import normalize_key as normalize_title
 
 DATASETS_URL = "https://datasets.imdbws.com/"
 RATINGS_FILE = "title.ratings.tsv.gz"
@@ -38,13 +40,6 @@ class ImdbTitle:
     year: int | None
     votes: int
     rating: float
-
-
-def normalize_title(text: str) -> str:
-    """Case, accents and punctuation must not stop "Hanu-Man" matching "HanuMan"."""
-    decomposed = unicodedata.normalize("NFKD", text)
-    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
-    return "".join(c for c in stripped.lower() if c.isalnum())
 
 
 def _is_fresh(path: Path, max_age: float, now: float) -> bool:

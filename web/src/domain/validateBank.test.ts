@@ -137,6 +137,26 @@ describe('validateQuestionBank: malformed input', () => {
     }
   });
 
+  it('accepts every documented familiarityBasis and rejects anything else', () => {
+    for (const basis of ['curated-estimate', 'llm-estimate', 'signal-model'] as const) {
+      const q = makeQuestion('basis', {
+        answers: [
+          makeAnswer('a', { familiarity: 0.5, familiarityBasis: basis }),
+          makeAnswer('b', { familiarity: 0.5 }),
+        ],
+      });
+      expect(issuesFor(bankOf(q)), basis).toEqual([]);
+    }
+
+    const bad = makeQuestion('basis', {
+      answers: [
+        makeAnswer('a', { familiarity: 0.5, familiarityBasis: 'vibes' as never }),
+        makeAnswer('b', { familiarity: 0.5 }),
+      ],
+    });
+    expect(issuesFor(bankOf(bad)).some((i) => i.includes('familiarityBasis: must be one of'))).toBe(true);
+  });
+
   it('rejects a closed set whose familiarity does not sum to ~1', () => {
     const q = makeQuestion('sum', {
       answers: [makeAnswer('a', { familiarity: 0.5 }), makeAnswer('b', { familiarity: 0.1 })],

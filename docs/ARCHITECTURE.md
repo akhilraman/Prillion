@@ -94,7 +94,7 @@ The first seed bank had 2-4 valid answers per question, so most priors landed in
 1. **M1 (done):** Domain engine, seed bank, tests.
 2. **M2 (done):** Playable solo UI: category select, round, countdown HUD, reveal, results, play history.
 3. **M3 (in progress):** CI (GitHub Actions, done) + branch protection + deployment (Vercel). Done when a failing test blocks a merge and `main` has a live URL.
-4. **M4:** Python content pipeline with review queue, built in slices: (1) manual single-topic run producing a candidate file; (2) scheduled GitHub Actions run that opens a review PR (never writes to the live bank directly); (3) topic discovery, dedupe, signal-based rarity.
+4. **M4 (in progress):** Python content pipeline with review queue, built in slices: (1) manual single-topic run producing a candidate file (built: Wikipedia and IMDb sources, grounded LLM generation with a verbatim-quote check, the web app's own gate as the publish check; see `pipeline/README.md`); (2) scheduled GitHub Actions run that opens a review PR (never writes to the live bank directly); (3) topic discovery, dedupe, signal-based rarity.
 5. **M5:** Supabase backend, server-authoritative scoring, leaderboards.
 6. **M6:** Multiplayer rooms.
 7. Visual polish (pixel art, depth parallax, sound) interleaved after M2.

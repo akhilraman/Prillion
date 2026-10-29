@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from prillion-pipeline!")
+from .cli import entrypoint as main
+
+__all__ = ["main"]
