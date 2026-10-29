@@ -17,6 +17,7 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "check:candidate": "node scripts/check-candidate.ts",
+    "check:bank": "node scripts/check-bank.ts src/content/seed-bank.json",
     "check": "npm run typecheck && npm run lint && npm run format:check && npm run test"
   },
   "dependencies": {
