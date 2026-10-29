@@ -64,7 +64,7 @@ Outputs: `candidates/<id>.json` on success. `candidates/<id>.failed.json` if gro
 
 ### Working through the topic queue
 
-`topics.json` is the reviewed list of what the pipeline may generate (id, category, Wikipedia pages, brief). Edit it in a PR; nothing else decides topics yet.
+`topics.json` is the reviewed list of what the pipeline may generate (id, category, Wikipedia pages, brief). Edit it in a PR; nothing else decides topics yet. **Order matters:** `run-all` works through the file top to bottom and `--max-new` stops after N, so keep the queue interleaved across categories to make each batch balanced.
 
 ```
 uv run --env-file ../.env prillion-pipeline run-all --dry-run          # free
