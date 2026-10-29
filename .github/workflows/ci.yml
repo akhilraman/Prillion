@@ -1,0 +1,46 @@
+name: CI
+
+# Runs on every pull request and on every push to main.
+# The single required check for branch protection is the job named "check".
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+# A newer push to the same branch makes the older, still-running run pointless.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+# Least privilege: this workflow only needs to read the repository.
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: web/.nvmrc
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      # `npm ci` installs exactly what package-lock.json says and fails if the
+      # lockfile and package.json disagree. `npm install` can silently change it.
+      - name: Install dependencies
+        run: npm ci
+
+      # typecheck + lint + format check + unit/UI tests (includes the seed-bank contract tests)
+      - name: Check
+        run: npm run check
+
+      # Proves the production bundle builds, which is what Vercel will run.
+      - name: Build
+        run: npm run build
