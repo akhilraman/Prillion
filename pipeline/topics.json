@@ -3,38 +3,402 @@
     {
       "id": "space-saturn-moons",
       "category": "space",
-      "pages": ["Moons of Saturn"],
+      "pages": [
+        "Moons of Saturn"
+      ],
       "brief": "Name a moon of Saturn."
     },
     {
       "id": "space-jupiter-moons",
       "category": "space",
-      "pages": ["Moons of Jupiter"],
+      "pages": [
+        "Moons of Jupiter"
+      ],
       "brief": "Name an officially named moon of Jupiter. Only moons with an IAU-approved proper name count; leave out unnamed moons that have only a provisional designation such as S/2011 J 4."
     },
     {
       "id": "us-pop-nba-mvps-gen",
       "category": "us-pop",
-      "pages": ["NBA Most Valuable Player Award"],
+      "pages": [
+        "NBA Most Valuable Player Award"
+      ],
       "brief": "Name a player who has won the NBA Most Valuable Player award."
     },
     {
       "id": "us-pop-best-picture-winners",
       "category": "us-pop",
-      "pages": ["Academy Award for Best Picture"],
+      "pages": [
+        "Academy Award for Best Picture"
+      ],
       "brief": "Name a film that has won the Academy Award for Best Picture."
     },
     {
       "id": "tollywood-100-crore-gen",
       "category": "tollywood",
-      "pages": ["List of highest-grossing Telugu films"],
+      "pages": [
+        "List of highest-grossing Telugu films"
+      ],
       "brief": "Name a Telugu film that grossed over 100 crore rupees worldwide, according to the ranking table."
     },
     {
       "id": "tollywood-filmfare-best-film",
       "category": "tollywood",
-      "pages": ["Filmfare Award for Best Film – Telugu"],
+      "pages": [
+        "Filmfare Award for Best Film – Telugu"
+      ],
       "brief": "Name a film that has won the Filmfare Award for Best Film – Telugu."
+    },
+    {
+      "id": "tollywood-mahesh-babu-films",
+      "category": "tollywood",
+      "pages": [
+        "Mahesh Babu filmography"
+      ],
+      "brief": "Name a movie starring Mahesh Babu."
+    },
+    {
+      "id": "space-moon-landing-conspiracy",
+      "category": "space",
+      "pages": [
+        "Moon landing conspiracy theories"
+      ],
+      "brief": "Name a claim conspiracy theorists make to argue the Moon landings were faked."
+    },
+    {
+      "id": "us-pop-drake-songs",
+      "category": "us-pop",
+      "pages": [
+        "List of songs recorded by Drake"
+      ],
+      "brief": "Name a Drake song."
+    },
+    {
+      "id": "tollywood-allu-arjun-films",
+      "category": "tollywood",
+      "pages": [
+        "Allu Arjun filmography"
+      ],
+      "brief": "Name a movie starring Allu Arjun."
+    },
+    {
+      "id": "space-ufo-sightings",
+      "category": "space",
+      "pages": [
+        "List of reported UFO sightings"
+      ],
+      "brief": "Name a famous reported UFO sighting or incident."
+    },
+    {
+      "id": "us-pop-drake-albums",
+      "category": "us-pop",
+      "pages": [
+        "Drake discography"
+      ],
+      "brief": "Name a Drake album or mixtape."
+    },
+    {
+      "id": "tollywood-chiranjeevi-films",
+      "category": "tollywood",
+      "pages": [
+        "Chiranjeevi filmography"
+      ],
+      "brief": "Name a movie starring Chiranjeevi."
+    },
+    {
+      "id": "space-star-wars-planets",
+      "category": "space",
+      "pages": [
+        "List of Star Wars planets and moons"
+      ],
+      "brief": "Name a planet or moon from Star Wars."
+    },
+    {
+      "id": "us-pop-drake-kendrick-feud",
+      "category": "us-pop",
+      "pages": [
+        "Drake Kendrick Lamar feud"
+      ],
+      "brief": "Name a song released during the Drake and Kendrick Lamar feud."
+    },
+    {
+      "id": "tollywood-ntr-jr-films",
+      "category": "tollywood",
+      "pages": [
+        "N. T. Rama Rao Jr. filmography"
+      ],
+      "brief": "Name a movie starring Jr NTR."
+    },
+    {
+      "id": "space-fictional-spacecraft",
+      "category": "space",
+      "pages": [
+        "List of fictional spacecraft"
+      ],
+      "brief": "Name a fictional spacecraft or starship from a movie, TV show or game."
+    },
+    {
+      "id": "us-pop-diss-tracks",
+      "category": "us-pop",
+      "pages": [
+        "List of diss tracks"
+      ],
+      "brief": "Name a famous diss track."
+    },
+    {
+      "id": "tollywood-ram-charan-films",
+      "category": "tollywood",
+      "pages": [
+        "Ram Charan filmography"
+      ],
+      "brief": "Name a movie starring Ram Charan."
+    },
+    {
+      "id": "space-uranus-moons",
+      "category": "space",
+      "pages": [
+        "Moons of Uranus"
+      ],
+      "brief": "Name a moon of Uranus."
+    },
+    {
+      "id": "us-pop-kanye-songs",
+      "category": "us-pop",
+      "pages": [
+        "List of songs recorded by Kanye West"
+      ],
+      "brief": "Name a Kanye West song."
+    },
+    {
+      "id": "tollywood-pawan-kalyan-films",
+      "category": "tollywood",
+      "pages": [
+        "Pawan Kalyan filmography"
+      ],
+      "brief": "Name a movie starring Pawan Kalyan."
+    },
+    {
+      "id": "space-mars-missions",
+      "category": "space",
+      "pages": [
+        "List of missions to Mars"
+      ],
+      "brief": "Name a spacecraft, lander or rover sent to Mars."
+    },
+    {
+      "id": "us-pop-eminem-songs",
+      "category": "us-pop",
+      "pages": [
+        "List of songs recorded by Eminem"
+      ],
+      "brief": "Name an Eminem song."
+    },
+    {
+      "id": "tollywood-nagarjuna-films",
+      "category": "tollywood",
+      "pages": [
+        "Nagarjuna filmography"
+      ],
+      "brief": "Name a movie starring Nagarjuna."
+    },
+    {
+      "id": "space-space-telescopes",
+      "category": "space",
+      "pages": [
+        "List of space telescopes"
+      ],
+      "brief": "Name a space telescope."
+    },
+    {
+      "id": "us-pop-kendrick-songs",
+      "category": "us-pop",
+      "pages": [
+        "List of songs recorded by Kendrick Lamar"
+      ],
+      "brief": "Name a Kendrick Lamar song."
+    },
+    {
+      "id": "tollywood-anushka-films",
+      "category": "tollywood",
+      "pages": [
+        "Anushka Shetty filmography"
+      ],
+      "brief": "Name a movie starring Anushka Shetty."
+    },
+    {
+      "id": "us-pop-travis-scott-discography",
+      "category": "us-pop",
+      "pages": [
+        "Travis Scott discography"
+      ],
+      "brief": "Name a Travis Scott album, mixtape or single."
+    },
+    {
+      "id": "tollywood-samantha-films",
+      "category": "tollywood",
+      "pages": [
+        "Samantha Ruth Prabhu filmography"
+      ],
+      "brief": "Name a movie starring Samantha."
+    },
+    {
+      "id": "us-pop-rappers",
+      "category": "us-pop",
+      "pages": [
+        "List of hip-hop musicians"
+      ],
+      "brief": "Name a rapper."
+    },
+    {
+      "id": "tollywood-telugu-films-2024",
+      "category": "tollywood",
+      "pages": [
+        "List of Telugu films of 2024"
+      ],
+      "brief": "Name a Telugu film released in 2024."
+    },
+    {
+      "id": "us-pop-nba-finals-mvps",
+      "category": "us-pop",
+      "pages": [
+        "NBA Finals Most Valuable Player Award"
+      ],
+      "brief": "Name a player who has won NBA Finals MVP."
+    },
+    {
+      "id": "us-pop-nba-first-overall-picks",
+      "category": "us-pop",
+      "pages": [
+        "List of first overall NBA draft picks"
+      ],
+      "brief": "Name a player who was picked first overall in the NBA draft."
+    },
+    {
+      "id": "us-pop-nba-slam-dunk-champions",
+      "category": "us-pop",
+      "pages": [
+        "NBA Slam Dunk Contest"
+      ],
+      "brief": "Name a player who has won the NBA Slam Dunk Contest."
+    },
+    {
+      "id": "us-pop-nba-scoring-leaders",
+      "category": "us-pop",
+      "pages": [
+        "List of National Basketball Association career scoring leaders"
+      ],
+      "brief": "Name one of the NBA's all-time leading scorers."
+    },
+    {
+      "id": "us-pop-nba-all-star-mvps",
+      "category": "us-pop",
+      "pages": [
+        "NBA All-Star Game Most Valuable Player Award"
+      ],
+      "brief": "Name a player who has won the NBA All-Star Game MVP."
+    },
+    {
+      "id": "us-pop-internet-phenomena",
+      "category": "us-pop",
+      "pages": [
+        "List of Internet phenomena"
+      ],
+      "brief": "Name an internet meme or viral phenomenon."
+    },
+    {
+      "id": "us-pop-viral-videos",
+      "category": "us-pop",
+      "pages": [
+        "List of viral videos"
+      ],
+      "brief": "Name a viral video."
+    },
+    {
+      "id": "us-pop-celebrity-death-hoaxes",
+      "category": "us-pop",
+      "pages": [
+        "Celebrity death hoax"
+      ],
+      "brief": "Name a celebrity who was the subject of a false death hoax."
+    },
+    {
+      "id": "us-pop-urban-legends",
+      "category": "us-pop",
+      "pages": [
+        "List of urban legends"
+      ],
+      "brief": "Name a famous urban legend."
+    },
+    {
+      "id": "us-pop-mandela-effect",
+      "category": "us-pop",
+      "pages": [
+        "Mandela effect"
+      ],
+      "brief": "Name something many people famously misremember (a Mandela effect)."
+    },
+    {
+      "id": "us-pop-hoaxes",
+      "category": "us-pop",
+      "pages": [
+        "List of hoaxes"
+      ],
+      "brief": "Name a famous hoax."
+    },
+    {
+      "id": "us-pop-internet-slang",
+      "category": "us-pop",
+      "pages": [
+        "List of Internet slang"
+      ],
+      "brief": "Name a piece of internet slang."
+    },
+    {
+      "id": "us-pop-youtube-channels",
+      "category": "us-pop",
+      "pages": [
+        "List of most-subscribed YouTube channels"
+      ],
+      "brief": "Name one of the most-subscribed YouTube channels."
+    },
+    {
+      "id": "us-pop-youtube-videos",
+      "category": "us-pop",
+      "pages": [
+        "List of most-viewed YouTube videos"
+      ],
+      "brief": "Name one of the most-viewed YouTube videos ever."
+    },
+    {
+      "id": "us-pop-gen1-pokemon",
+      "category": "us-pop",
+      "pages": [
+        "List of generation I Pokémon"
+      ],
+      "brief": "Name one of the original 151 Pokémon."
+    },
+    {
+      "id": "us-pop-disney-villains",
+      "category": "us-pop",
+      "pages": [
+        "List of Disney villain characters"
+      ],
+      "brief": "Name a Disney villain."
+    },
+    {
+      "id": "us-pop-simpsons-characters",
+      "category": "us-pop",
+      "pages": [
+        "List of The Simpsons characters"
+      ],
+      "brief": "Name a character from The Simpsons."
+    },
+    {
+      "id": "us-pop-best-selling-video-games",
+      "category": "us-pop",
+      "pages": [
+        "List of best-selling video games"
+      ],
+      "brief": "Name one of the best-selling video games of all time."
     }
   ]
 }
