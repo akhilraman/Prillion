@@ -30,6 +30,25 @@ export function makeQuestion(id: string, overrides: Partial<Question> = {}): Que
   };
 }
 
+/** A publishable ai-knowledge question: no sources, an open set with criteria, a rarity spread. */
+export function makeAiQuestion(id: string, overrides: Partial<Question> = {}): Question {
+  const answers = Array.from({ length: 12 }, (_, i) =>
+    makeAnswer(`a${i}`, {
+      familiarity: Math.max(0.006, 0.2 * 0.7 ** i),
+      familiarityBasis: 'llm-estimate',
+      sourceIds: [],
+    }),
+  );
+  return makeQuestion(id, {
+    basis: 'ai-knowledge',
+    answerSet: 'open',
+    criteria: 'Any widely documented example.',
+    sources: [],
+    answers,
+    ...overrides,
+  });
+}
+
 export function makeBank(perCategory: Record<Category, number>): Question[] {
   const out: Question[] = [];
   for (const category of Object.keys(perCategory) as Category[]) {

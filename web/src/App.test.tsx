@@ -6,7 +6,7 @@ import App from './App.tsx';
 import type { BankLoad } from './content/loadBank.ts';
 import { DEFAULT_SECONDS_PER_QUESTION } from './domain/round.ts';
 import { DEFAULT_ROUND_LENGTH as N } from './domain/selection.ts';
-import { makeBank } from './domain/testFixtures.ts';
+import { makeAiQuestion, makeBank } from './domain/testFixtures.ts';
 import { HISTORY_KEY } from './storage/playHistory.ts';
 
 const questions = makeBank({ tollywood: 4, space: 20, 'us-pop': 4 });
@@ -57,6 +57,32 @@ describe('question criteria', () => {
     render(<App bank={{ ok: true, questions: makeBank({ tollywood: 0, space: 1, 'us-pop': 0 }) }} />);
     await user.click(screen.getByRole('button', { name: /^space/i }));
     expect(screen.queryByText('What counts:')).not.toBeInTheDocument();
+  });
+});
+
+describe('ai-knowledge questions', () => {
+  const aiBank: BankLoad = {
+    ok: true,
+    questions: [makeAiQuestion('space-meme', { category: 'space' })],
+  };
+
+  it('labels the question as AI knowledge and shows an honest note instead of sources', async () => {
+    const user = userEvent.setup();
+    render(<App bank={aiBank} />);
+    await user.click(screen.getByRole('button', { name: /^space/i }));
+
+    expect(screen.getByText(/AI knowledge · not source-checked/)).toBeInTheDocument();
+
+    await user.type(screen.getByLabelText('Your answer'), 'a0{Enter}');
+    expect(screen.getByText(/come from AI knowledge, not a cited source/)).toBeInTheDocument();
+    expect(screen.queryByText(/^Sources:/)).not.toBeInTheDocument();
+  });
+
+  it('does not label a sourced question', async () => {
+    const user = userEvent.setup();
+    render(<App bank={bank} />);
+    await user.click(screen.getByRole('button', { name: /^space/i }));
+    expect(screen.queryByText(/AI knowledge/)).not.toBeInTheDocument();
   });
 });
 

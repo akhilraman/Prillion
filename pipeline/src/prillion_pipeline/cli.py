@@ -129,6 +129,11 @@ def _parser() -> argparse.ArgumentParser:
         "--replace", action="store_true", help="allow replacing a live question that has the same id"
     )
     promote_cmd.add_argument(
+        "--allow-ai-knowledge",
+        action="store_true",
+        help="also allow AI-knowledge questions (no cited sources). Only after a human checked each answer",
+    )
+    promote_cmd.add_argument(
         "--dry-run", action="store_true", help="validate the resulting bank but do not write it"
     )
     return parser
@@ -276,6 +281,7 @@ def _promote(args: argparse.Namespace, bank_gate: GateRunner, today: date, out: 
             gate=bank_gate,
             replace=args.replace,
             dry_run=args.dry_run,
+            allow_ai_knowledge=args.allow_ai_knowledge,
         )
     except BankRejected as exc:
         out(f"error: {exc}")

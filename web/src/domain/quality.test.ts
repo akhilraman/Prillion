@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { checkQuestionQuality, MAX_TOP_SHARE, MIN_ANSWERS } from './quality.ts';
-import { makeAnswer, makeQuestion } from './testFixtures.ts';
+import { makeAiQuestion, makeAnswer, makeQuestion } from './testFixtures.ts';
 
 /** n answers with a geometric popularity decay, which spreads over all four tiers. */
 function wideQuestion(n: number, overrides = {}) {
@@ -47,5 +47,49 @@ describe('checkQuestionQuality', () => {
     expect(codes(q)).toEqual(
       expect.arrayContaining(['too-few-answers', 'missing-criteria', 'too-few-tiers']),
     );
+  });
+
+  describe('ai-knowledge questions', () => {
+    it('accepts a well-formed one', () => {
+      expect(checkQuestionQuality(makeAiQuestion('meme'))).toEqual([]);
+    });
+
+    it('must be an open set: no source means no claim of completeness', () => {
+      expect(codes(makeAiQuestion('meme', { answerSet: 'closed' }))).toContain('ai-closed-set');
+    });
+
+    it('is not checked for the closed-set rule when it is a sourced question', () => {
+      expect(codes(wideQuestion(14, { answerSet: 'closed' }))).not.toContain('ai-closed-set');
+    });
+
+    it.each([
+      ['the prompt', { prompt: 'Name a celebrity who was allegedly arrested at a party.' }],
+      ['the explanation', { explanation: 'He was accused of cheating.' }],
+      ['the criteria', { criteria: 'Anyone involved in a leaked photo scandal.' }],
+    ])('rejects a sensitive term in %s', (_where, overrides) => {
+      expect(codes(makeAiQuestion('rumour', overrides))).toContain('sensitive-term');
+    });
+
+    it('rejects a sensitive term hidden in an alias or evidence', () => {
+      const q = makeAiQuestion('rumour');
+      q.answers[3]!.aliases = ['the sex tape one'];
+      expect(codes(q)).toContain('sensitive-term');
+
+      const r = makeAiQuestion('rumour');
+      r.answers[2]!.evidence = 'Fans accused him of lip-syncing.';
+      expect(codes(r)).toContain('sensitive-term');
+    });
+
+    it('does not apply the term scan to sourced questions (a document backs those)', () => {
+      const q = wideQuestion(14, { prompt: 'Name someone who was convicted at the Nuremberg trials.' });
+      expect(codes(q)).not.toContain('sensitive-term');
+    });
+
+    it('does not trip on innocent words that merely contain a term', () => {
+      const q = makeAiQuestion('memes', {
+        prompt: 'Name a meme about the Grapevine or a drape of rapeseed.',
+      });
+      expect(codes(q)).not.toContain('sensitive-term');
+    });
   });
 });

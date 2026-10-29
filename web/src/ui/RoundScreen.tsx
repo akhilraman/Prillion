@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import type { RoundState } from '../domain/round.ts';
 import { totalPoints } from '../domain/round.ts';
+import { isAiKnowledge } from '../domain/types.ts';
 import type { RoundNotice } from '../game/useRound.ts';
 import { AnswerForm } from './AnswerForm.tsx';
 import { CATEGORY_LABELS, headlineFor } from './labels.ts';
@@ -91,6 +92,10 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
         <p className="question-card__category">
           {CATEGORY_LABELS[question.category]} · prompt {index + 1} of {total}
         </p>
+        {isAiKnowledge(question) && (
+          // Honest labelling: this question has no cited source, so say so before the player answers.
+          <p className="ai-tag">AI knowledge · not source-checked</p>
+        )}
         <h1 id="prompt" className="question-card__prompt">
           {question.prompt}
         </h1>

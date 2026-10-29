@@ -12,7 +12,7 @@
  */
 
 import { normalizeAnswer } from './normalize.ts';
-import { CATEGORIES, FAMILIARITY_BASES } from './types.ts';
+import { CATEGORIES, FAMILIARITY_BASES, KNOWLEDGE_BASES } from './types.ts';
 import type { QuestionBank } from './types.ts';
 
 export interface ValidationIssue {
@@ -72,9 +72,20 @@ export function validateQuestionBank(data: unknown): ValidationResult {
       add(`${qp}.approvedOn`, 'must be an ISO date (YYYY-MM-DD)');
     }
 
+    // ---- knowledge basis
+    if (q['basis'] !== undefined && !(KNOWLEDGE_BASES as readonly unknown[]).includes(q['basis'])) {
+      add(`${qp}.basis`, `if present, must be one of ${KNOWLEDGE_BASES.join(', ')}`);
+    }
+    const aiKnowledge = q['basis'] === 'ai-knowledge';
+
     // ---- sources
     const sourceIds = new Set<string>();
-    if (!Array.isArray(q['sources']) || q['sources'].length === 0) {
+    if (aiKnowledge) {
+      // Written from model memory: there is nothing to cite, and a made-up citation is worse than none.
+      if (!Array.isArray(q['sources']) || q['sources'].length !== 0) {
+        add(`${qp}.sources`, 'an ai-knowledge question must have an empty sources list (it has no sources)');
+      }
+    } else if (!Array.isArray(q['sources']) || q['sources'].length === 0) {
       add(`${qp}.sources`, 'at least one source is required');
     } else {
       q['sources'].forEach((s: unknown, si) => {
@@ -131,7 +142,14 @@ export function validateQuestionBank(data: unknown): ValidationResult {
       if (!Array.isArray(a['aliases']) || !a['aliases'].every((x) => typeof x === 'string')) {
         add(`${ap}.aliases`, 'must be an array of strings');
       }
-      if (!Array.isArray(a['sourceIds']) || a['sourceIds'].length === 0) {
+      if (aiKnowledge) {
+        if (!Array.isArray(a['sourceIds']) || a['sourceIds'].length !== 0) {
+          add(`${ap}.sourceIds`, 'an ai-knowledge answer must not cite sources');
+        }
+        if (a['familiarityBasis'] !== 'llm-estimate') {
+          add(`${ap}.familiarityBasis`, 'an ai-knowledge answer must use the "llm-estimate" basis');
+        }
+      } else if (!Array.isArray(a['sourceIds']) || a['sourceIds'].length === 0) {
         add(`${ap}.sourceIds`, 'at least one source id is required');
       } else {
         for (const sid of a['sourceIds']) {

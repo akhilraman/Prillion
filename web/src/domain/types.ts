@@ -70,9 +70,21 @@ export interface Answer {
  */
 export type AnswerSetKind = 'closed' | 'open';
 
+/**
+ * Where a question's facts come from.
+ *  - `sourced`: every answer cites a real, fetched source (the default).
+ *  - `ai-knowledge`: written from an LLM's memory, with NO sources. Used for things no tidy source
+ *    lists (memes, trolls, hoaxes). It is a different trust level, so it is flagged in the data,
+ *    gated more strictly, and labelled in the UI instead of being passed off as sourced.
+ */
+export const KNOWLEDGE_BASES = ['sourced', 'ai-knowledge'] as const;
+export type KnowledgeBasis = (typeof KNOWLEDGE_BASES)[number];
+
 export interface Question {
   id: string;
   category: Category;
+  /** Absent means `sourced`, so every question written before this field existed stays valid. */
+  basis?: KnowledgeBasis;
   prompt: string;
   answerSet: AnswerSetKind;
   answers: Answer[];
@@ -87,6 +99,11 @@ export interface Question {
   sources: Source[];
   /** ISO date this question was approved for play. */
   approvedOn: string;
+}
+
+/** True for questions written from model memory. Absent `basis` means sourced. */
+export function isAiKnowledge(question: Pick<Question, 'basis'>): boolean {
+  return question.basis === 'ai-knowledge';
 }
 
 export interface QuestionBank {
