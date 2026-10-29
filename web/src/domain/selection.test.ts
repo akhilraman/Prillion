@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { selectQuestions, seededRng, shuffle } from './selection.ts';
+import { DEFAULT_ROUND_LENGTH, selectQuestions, seededRng, shuffle } from './selection.ts';
 import { makeBank } from './testFixtures.ts';
 
 const bank = makeBank({ tollywood: 6, space: 10, 'us-pop': 8 });
@@ -38,6 +38,20 @@ describe('selectQuestions', () => {
     for (const q of r.questions) counts[q.category] += 1;
     // 15 over three categories with enough supply => exactly 5 each.
     expect(counts).toEqual({ tollywood: 5, space: 5, 'us-pop': 5 });
+  });
+
+  it('spreads a default-length dive 3/2/2 and rotates which category gets the extra prompt', () => {
+    const extraGoesTo = new Set<string>();
+    for (let seed = 1; seed <= 30; seed++) {
+      const r = selectQuestions({ bank, selection: 'mixed', rng: seededRng(seed) });
+      expect(r.questions).toHaveLength(DEFAULT_ROUND_LENGTH);
+      const counts = { tollywood: 0, space: 0, 'us-pop': 0 };
+      for (const q of r.questions) counts[q.category] += 1;
+      expect(Object.values(counts).sort()).toEqual([2, 2, 3]);
+      extraGoesTo.add(Object.entries(counts).find(([, n]) => n === 3)![0]);
+    }
+    // Over many dives every category gets its turn at the extra prompt (no built-in favourite).
+    expect(extraGoesTo.size).toBe(3);
   });
 
   it('keeps going when one category runs out in a mixed round', () => {

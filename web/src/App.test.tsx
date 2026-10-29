@@ -5,6 +5,7 @@ import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import App from './App.tsx';
 import type { BankLoad } from './content/loadBank.ts';
 import { DEFAULT_SECONDS_PER_QUESTION } from './domain/round.ts';
+import { DEFAULT_ROUND_LENGTH as N } from './domain/selection.ts';
 import { makeBank } from './domain/testFixtures.ts';
 import { HISTORY_KEY } from './storage/playHistory.ts';
 
@@ -67,15 +68,15 @@ describe('error state', () => {
 });
 
 describe('playing a full round through the UI', () => {
-  it('plays 15 questions, scores them, shows results, and persists history', async () => {
+  it('plays a full dive, scores it, shows results, and persists history', async () => {
     const user = userEvent.setup();
     render(<App bank={bank} />);
 
     await user.click(screen.getByRole('button', { name: /^space/i }));
 
-    for (let i = 1; i <= 15; i++) {
+    for (let i = 1; i <= N; i++) {
       // HUD shows progress.
-      expect(screen.getByText(`${i}/15`)).toBeInTheDocument();
+      expect(screen.getByText(`${i}/${N}`)).toBeInTheDocument();
 
       // The answer field is focused automatically so the player can just type.
       const input = screen.getByLabelText('Your answer');
@@ -89,7 +90,7 @@ describe('playing a full round through the UI', () => {
       ).toBeInTheDocument();
       expect(screen.getByText('All accepted answers')).toBeInTheDocument();
       expect(screen.getByText('test explanation')).toBeInTheDocument();
-      const nextButton = screen.getByRole('button', { name: i === 15 ? 'See results' : 'Next question' });
+      const nextButton = screen.getByRole('button', { name: i === N ? 'See results' : 'Next question' });
       expect(nextButton).toHaveFocus();
 
       await user.click(nextButton);
@@ -97,12 +98,12 @@ describe('playing a full round through the UI', () => {
 
     // Results screen.
     expect(screen.getByRole('heading', { level: 1, name: 'Round complete' })).toBeInTheDocument();
-    expect(screen.getByText('1500')).toBeInTheDocument();
-    expect(screen.getByText('15 of 15 answered correctly')).toBeInTheDocument();
+    expect(screen.getByText(String(N * 100))).toBeInTheDocument();
+    expect(screen.getByText(`${N} of ${N} answered correctly`)).toBeInTheDocument();
 
-    // History was written for all 15 questions.
+    // History was written for every question in the dive.
     const stored = JSON.parse(localStorage.getItem(HISTORY_KEY) ?? '{}') as Record<string, number>;
-    expect(Object.keys(stored)).toHaveLength(15);
+    expect(Object.keys(stored)).toHaveLength(N);
 
     // Play again returns home.
     await user.click(screen.getByRole('button', { name: 'Play again' }));
@@ -116,7 +117,7 @@ describe('playing a full round through the UI', () => {
     async function playRound(): Promise<string[]> {
       await user.click(screen.getByRole('button', { name: /^space/i }));
       const prompts: string[] = [];
-      for (let i = 1; i <= 15; i++) {
+      for (let i = 1; i <= N; i++) {
         prompts.push(currentPrompt());
         await user.type(screen.getByLabelText('Your answer'), 'x{Enter}');
         await user.click(screen.getByRole('button', { name: /next question|see results/i }));
@@ -125,15 +126,19 @@ describe('playing a full round through the UI', () => {
       return prompts;
     }
 
+    // 20 space questions, dives of N = 7.
     const first = await playRound();
     const second = await playRound();
-    // 20 space questions: round 1 uses 15, so round 2 can only repeat what it must (10 of 15 played => 5 fresh).
-    const repeats = second.filter((p) => first.includes(p));
-    expect(repeats).toHaveLength(10);
-    // ...and the 5 unplayed questions must all be included.
-    const unplayed = questions.filter((q) => q.category === 'space' && !first.includes(q.prompt));
-    expect(unplayed).toHaveLength(5);
-    for (const q of unplayed) expect(second).toContain(q.prompt);
+    // Round 2: 13 unplayed remain, so nothing has to repeat.
+    expect(second.filter((p) => first.includes(p))).toHaveLength(0);
+
+    // Round 3: only 6 unplayed remain. All 6 must be included, plus exactly one replay.
+    const third = await playRound();
+    const played = [...first, ...second];
+    const unplayed = questions.filter((q) => q.category === 'space' && !played.includes(q.prompt));
+    expect(unplayed).toHaveLength(20 - 2 * N);
+    for (const q of unplayed) expect(third).toContain(q.prompt);
+    expect(third.filter((p) => played.includes(p))).toHaveLength(N - unplayed.length);
   });
 
   it('does not allow submitting an empty answer', async () => {
