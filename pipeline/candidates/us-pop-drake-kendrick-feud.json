@@ -1,0 +1,245 @@
+{
+  "question": {
+    "id": "us-pop-drake-kendrick-feud",
+    "category": "us-pop",
+    "prompt": "Name a track released in connection with the Drake–Kendrick Lamar feud during its March–May 2024 escalation.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "not-like-us",
+        "canonical": "Not Like Us",
+        "aliases": [],
+        "familiarity": 0.1367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar released this diss track on May 4, 2024.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "like-that",
+        "canonical": "Like That",
+        "aliases": [],
+        "familiarity": 0.1367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lamar's appearance on Future and Metro Boomin's March 22 release sparked the feud's 2024 escalation.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "euphoria",
+        "canonical": "Euphoria",
+        "aliases": [],
+        "familiarity": 0.1367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lamar released this diss track on April 30 in response to Drake.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "family-matters",
+        "canonical": "Family Matters",
+        "aliases": [],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake released this track on May 3 as the feud escalated.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "meet-the-grahams",
+        "canonical": "Meet the Grahams",
+        "aliases": [],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lamar released this response twenty minutes after Drake's “Family Matters.”",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "push-ups",
+        "canonical": "Push Ups",
+        "aliases": [
+          "Pushups"
+        ],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake's response to “Like That” leaked on April 13 and was officially released on April 19.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "the-heart-part-6",
+        "canonical": "The Heart Part 6",
+        "aliases": [
+          "The Heart Part Six",
+          "Heart Part 6"
+        ],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake released this response on May 5, denying Lamar's allegations.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "6-16-in-la",
+        "canonical": "6:16 in LA",
+        "aliases": [
+          "616 in LA",
+          "6:16 in Los Angeles"
+        ],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lamar posted this diss track on Instagram on May 3.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "taylor-made-freestyle",
+        "canonical": "Taylor Made Freestyle",
+        "aliases": [
+          "Taylor Made",
+          "Taylormade Freestyle"
+        ],
+        "familiarity": 0.0164,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake released this Instagram-exclusive track on April 19 to goad Lamar into responding.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "7-minute-drill",
+        "canonical": "7 Minute Drill",
+        "aliases": [
+          "Seven Minute Drill",
+          "7-Minute Drill"
+        ],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J. Cole released this response to Lamar on April 5 before apologizing and removing it.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "champagne-moments",
+        "canonical": "Champagne Moments",
+        "aliases": [],
+        "familiarity": 0.0164,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Ross released this diss track in response to Drake's “Push Ups.”",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "bbl-drizzy",
+        "canonical": "BBL Drizzy",
+        "aliases": [],
+        "familiarity": 0.0547,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Metro Boomin released this instrumental on May 5 in response to an insult on “Push Ups.”",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "like-that-remix",
+        "canonical": "Like That (remix)",
+        "aliases": [
+          "Like That Remix",
+          "Like That Kanye Remix",
+          "Like That Ye Remix"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Future and Metro Boomin released an April 21 remix featuring ¥$, on which West attacked Drake and Cole.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "buried-alive-interlude",
+        "canonical": "Buried Alive Interlude",
+        "aliases": [
+          "Buried Alive Interlude Remix",
+          "Buried Alive Interlude Drake Remix",
+          "Buried Alive Parody"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake released a parody remix of this track on Instagram to promote “Family Matters”; only that remix counts here.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      },
+      {
+        "id": "u-my-everything",
+        "canonical": "U My Everything",
+        "aliases": [
+          "You My Everything"
+        ],
+        "familiarity": 0.0164,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake reused the “BBL Drizzy” instrumental on this Sexyy Red song on May 24.",
+        "sourceIds": [
+          "drake-kendrick-lamar-feud"
+        ]
+      }
+    ],
+    "explanation": "The 2024 escalation involved more than Drake and Kendrick Lamar: J. Cole, Rick Ross, Metro Boomin and others contributed responses, remixes and instrumentals. Instagram-only releases count, as do the feud-related remixes of “Like That” and “Buried Alive Interlude.”",
+    "sources": [
+      {
+        "id": "drake-kendrick-lamar-feud",
+        "title": "Drake–Kendrick Lamar feud",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drake%E2%80%93Kendrick_Lamar_feud",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29",
+    "criteria": "Accept tracks explicitly identified in the document's March–May 2024 account as feud-related diss tracks, responses, remixes, instrumentals, or songs reusing a feud instrumental. Earlier original versions do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "a7be8da65721b71b",
+    "brief": "Name a song released during the Drake and Kendrick Lamar feud.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "drake-kendrick-lamar-feud",
+        "version": "1382419975",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Not Like Us": "Less than a day later, on May 4, Lamar released \"Not Like Us\", produced by DJ Mustard.",
+      "Like That": "On March 22, 2024, Lamar made a surprise guest appearance on Future and Metro Boomin's song \"Like That\", from their album We Don't Trust You.",
+      "Euphoria": "On April 30, Lamar released the diss track \"Euphoria\".",
+      "Family Matters": "On May 3, the feud escalated with Drake's \"Family Matters\",",
+      "Meet the Grahams": "20 minutes after the release of \"Family Matters\", Lamar released \"Meet the Grahams\", produced by the Alchemist.",
+      "Push Ups": "On April 13, \"Push Ups\", Drake's response to \"Like That\", leaked online.",
+      "The Heart Part 6": "On May 5, Drake released \"The Heart Part 6\".",
+      "6:16 in LA": "On May 3, Lamar posted an Instagram Reel containing the diss track \"6:16 in LA\", similar to how Drake released \"Taylor Made Freestyle\".",
+      "Taylor Made Freestyle": "On April 19, Drake officially released \"Push Ups\", alongside the Instagram exclusive \"Taylor Made Freestyle\",",
+      "7 Minute Drill": "On April 5, through his mixtape Might Delete Later, Cole released the response song \"7 Minute Drill\";",
+      "Champagne Moments": "Ross responded that day with the diss track \"Champagne Moments\".",
+      "BBL Drizzy": "on May 5, Metro Boomin released \"BBL Drizzy\", an instrumental that samples an AI-generated R&B parody song referencing a rumor that Drake received a Brazilian butt lift (BBL).",
+      "Like That (remix)": "on April 21, they followed it with a remix of \"Like That\" featuring ¥$ (West and Ty Dolla Sign) in which West attacks Drake and Cole.",
+      "Buried Alive Interlude": "To promote \"Family Matters\", Drake released a parody remix of \"Buried Alive Interlude\", in which he mocks Lamar's rapping abilities and suggests he is basing his claims on social media rumors, via Instagram.",
+      "U My Everything": "On May 24, Drake rapped over the \"BBL Drizzy\" instrumental for his guest appearance on Sexyy Red's song \"U My Everything\", which Variety described as him trolling Metro Boomin."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Like That (remix)]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

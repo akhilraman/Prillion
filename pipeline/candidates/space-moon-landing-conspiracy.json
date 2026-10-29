@@ -1,0 +1,240 @@
+{
+  "question": {
+    "id": "space-moon-landing-conspiracy",
+    "category": "space",
+    "prompt": "Name one of the 12 claims listed under “Photographic and film oddities” in the article “Moon landing conspiracy theories” as arguments that the Apollo landings were faked.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "in-some-photos-the-crosshairs-appear-to-be-behind-objects",
+        "canonical": "In some photos, the crosshairs appear to be behind objects.",
+        "aliases": [
+          "Objects appear in front of crosshairs",
+          "Missing crosshairs",
+          "Objects were pasted over the crosshairs",
+          "Obscured reticles"
+        ],
+        "familiarity": 0.0797,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists apparently obscured camera crosshairs as a claim that objects were pasted into the photographs.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "crosshairs-are-sometimes-rotated-or-in-the-wrong-place",
+        "canonical": "Crosshairs are sometimes rotated or in the wrong place.",
+        "aliases": [
+          "Rotated crosshairs",
+          "Misplaced crosshairs",
+          "Crosshairs in the wrong position"
+        ],
+        "familiarity": 0.0239,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article separately lists the rotation or placement of crosshairs among the alleged photographic oddities.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "the-quality-of-the-photographs-is-implausibly-high",
+        "canonical": "The quality of the photographs is implausibly high.",
+        "aliases": [
+          "The photos are too good",
+          "Implausibly good photographs",
+          "The pictures are too perfect"
+        ],
+        "familiarity": 0.0797,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies supposedly implausible photographic quality as an argument made by conspiracy theorists.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "there-are-no-stars-in-any-of-the-photos",
+        "canonical": "There are no stars in any of the photos",
+        "aliases": [
+          "No stars",
+          "Missing stars",
+          "Stars aren't visible",
+          "The astronauts did not remember seeing stars"
+        ],
+        "familiarity": 0.1992,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists the absence of stars in photographs and astronauts’ reported recollections as a conspiracy argument.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "the-angle-and-color-of-shadows-are-inconsistent",
+        "canonical": "The angle and color of shadows are inconsistent.",
+        "aliases": [
+          "Inconsistent shadows",
+          "Shadows point in different directions",
+          "Multiple light sources",
+          "Artificial lighting caused the shadows"
+        ],
+        "familiarity": 0.1992,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists allegedly inconsistent shadows as a claim that artificial lighting was used.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "there-are-identical-backgrounds-in-photos-which-were-allegedly-taken-miles-apart",
+        "canonical": "There are identical backgrounds in photos which were allegedly taken miles apart.",
+        "aliases": [
+          "Identical backgrounds",
+          "Repeated backgrounds",
+          "Painted backgrounds",
+          "The same backdrop in different locations"
+        ],
+        "familiarity": 0.0797,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists apparently identical backgrounds at different locations as an alleged sign of a painted backdrop.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "the-number-of-photos-taken-is-implausibly-high-up-to-one-photo-per-50-seconds",
+        "canonical": "The number of photos taken is implausibly high—up to one photo per 50 seconds.",
+        "aliases": [
+          "Too many photos",
+          "An impossible number of photographs",
+          "One photo every 50 seconds",
+          "Not enough time to take all the pictures"
+        ],
+        "familiarity": 0.0239,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists the supposedly excessive rate of photography as a conspiracy claim.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "the-photos-contain-artifacts-like-the-two-seemingly-matching-c-s-on-a-rock-and-on-the-ground",
+        "canonical": "The photos contain artifacts like the two seemingly matching \"C\"s on a rock and on the ground.",
+        "aliases": [
+          "C rock",
+          "A rock labeled C",
+          "Matching C markings",
+          "Labeled studio props"
+        ],
+        "familiarity": 0.0797,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists C-shaped markings as alleged labels on studio props.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "coca-cola-bottle",
+        "canonical": "Coca-Cola bottle",
+        "aliases": [
+          "Coke bottle",
+          "A soda bottle rolled across the broadcast",
+          "Una Ronald's bottle sighting",
+          "A soft drink bottle appeared on screen"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists Una Ronald’s unsupported account of a Coca-Cola bottle appearing during the live moonwalk broadcast.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "the-1994-book-moon-shot-contains-an-obviously-fake-composite-photo-of-alan-shepard-hitting-a-golf-ball-on-the-moon-with-another-astronaut",
+        "canonical": "The 1994 book Moon Shot contains an obviously fake composite photo of Alan Shepard hitting a golf ball on the Moon with another astronaut.",
+        "aliases": [
+          "The fake golf photo",
+          "Moon Shot composite photograph",
+          "Alan Shepard golf photo",
+          "The doctored golf picture"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article includes the composite golf photograph in Moon Shot among the photographic claims, while explaining that the book’s publishers did not work for NASA.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "there-appear-to-be-hot-spots-in-some-photos-which-look-as-though-a-large-spotlight-was-used-in-place-of-the-sun",
+        "canonical": "There appear to be \"hot spots\" in some photos which look as though a large spotlight was used in place of the Sun.",
+        "aliases": [
+          "Hot spots",
+          "Spotlight effect",
+          "A spotlight replaced the Sun",
+          "Bright spots suggest studio lighting"
+        ],
+        "familiarity": 0.0239,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists photographic hot spots as an alleged sign that a spotlight substituted for sunlight.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      },
+      {
+        "id": "who-filmed-neil-armstrong-stepping-onto-the-moon",
+        "canonical": "Who filmed Neil Armstrong stepping onto the Moon?",
+        "aliases": [
+          "Who filmed the first step",
+          "Who was holding the camera",
+          "Someone was already there to film Armstrong",
+          "How was Armstrong's first step filmed"
+        ],
+        "familiarity": 0.1992,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists the question of who filmed Armstrong’s first step, then explains that cameras mounted on the Lunar Module recorded it.",
+        "sourceIds": [
+          "moon-landing-conspiracy-theories"
+        ]
+      }
+    ],
+    "explanation": "These are conspiracy theorists’ claims, not established evidence of a hoax. The article lists and rebuts all 12, explaining how photography, lighting, camera equipment and misleading accounts account for the alleged oddities. Scientific experts regard Moon-landing hoax claims as demonstrably false.",
+    "sources": [
+      {
+        "id": "moon-landing-conspiracy-theories",
+        "title": "Moon landing conspiracy theories",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "246414313beda413",
+    "brief": "Name a claim conspiracy theorists make to argue the Moon landings were faked.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "moon-landing-conspiracy-theories",
+        "version": "1376743700",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "In some photos, the crosshairs appear to be behind objects.": "In some photos, the crosshairs appear to be behind objects.",
+      "Crosshairs are sometimes rotated or in the wrong place.": "Crosshairs are sometimes rotated or in the wrong place.",
+      "The quality of the photographs is implausibly high.": "The quality of the photographs is implausibly high.",
+      "There are no stars in any of the photos": "There are no stars in any of the photos; the Apollo 11 astronauts also stated in post-mission press conferences that they did not remember seeing any stars during extravehicular activity (EVA).",
+      "The angle and color of shadows are inconsistent.": "The angle and color of shadows are inconsistent. This suggests that artificial lights were used.",
+      "There are identical backgrounds in photos which were allegedly taken miles apart.": "There are identical backgrounds in photos which were allegedly taken miles apart. This suggests that a painted background was used.",
+      "The number of photos taken is implausibly high—up to one photo per 50 seconds.": "The number of photos taken is implausibly high—up to one photo per 50 seconds.",
+      "The photos contain artifacts like the two seemingly matching \"C\"s on a rock and on the ground.": "The photos contain artifacts like the two seemingly matching \"C\"s on a rock and on the ground. These may be labeled studio props.",
+      "Coca-Cola bottle": "A woman named Una Ronald (a pseudonym created by the authors of the source) from Perth, Australia, said that she saw a Coca-Cola bottle roll across the lower right quadrant of her television screen that was displaying the live broadcast of the Apollo 11 EVA.",
+      "The 1994 book Moon Shot contains an obviously fake composite photo of Alan Shepard hitting a golf ball on the Moon with another astronaut.": "The 1994 book Moon Shot contains an obviously fake composite photo of Alan Shepard hitting a golf ball on the Moon with another astronaut.",
+      "There appear to be \"hot spots\" in some photos which look as though a large spotlight was used in place of the Sun.": "There appear to be \"hot spots\" in some photos which look as though a large spotlight was used in place of the Sun.",
+      "Who filmed Neil Armstrong stepping onto the Moon?": "12. Who filmed Neil Armstrong stepping onto the Moon?"
+    },
+    "issues": []
+  }
+}

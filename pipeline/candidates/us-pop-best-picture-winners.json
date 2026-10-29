@@ -1,0 +1,1345 @@
+{
+  "question": {
+    "id": "us-pop-best-picture-winners",
+    "category": "us-pop",
+    "prompt": "Name a film that won the Academy Award for Best Picture at one of the first 98 ceremonies.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "wings",
+        "canonical": "Wings",
+        "aliases": [
+          "Wings (1927)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wings won Best Picture at the first Academy Awards.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-broadway-melody",
+        "canonical": "The Broadway Melody",
+        "aliases": [
+          "Broadway Melody"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Broadway Melody is listed as the Best Picture winner for 1928/29.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "all-quiet-on-the-western-front",
+        "canonical": "All Quiet on the Western Front",
+        "aliases": [
+          "All Quiet on the Western Front (1930)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1930 All Quiet on the Western Front is listed as the Best Picture winner for 1929/30.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "cimarron",
+        "canonical": "Cimarron",
+        "aliases": [
+          "Cimarron (1931)"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cimarron is listed as the Best Picture winner for 1930/31.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "grand-hotel",
+        "canonical": "Grand Hotel",
+        "aliases": [
+          "Grand Hotel (1932)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grand Hotel is listed as the Best Picture winner for 1931/32.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "cavalcade",
+        "canonical": "Cavalcade",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cavalcade is listed as the Best Picture winner for 1932/33.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "it-happened-one-night",
+        "canonical": "It Happened One Night",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It Happened One Night is listed as the Best Picture winner for 1934.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "mutiny-on-the-bounty",
+        "canonical": "Mutiny on the Bounty",
+        "aliases": [
+          "Mutiny on the Bounty (1935)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1935 Mutiny on the Bounty is listed as a Best Picture winner.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-great-ziegfeld",
+        "canonical": "The Great Ziegfeld",
+        "aliases": [
+          "Great Ziegfeld"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Great Ziegfeld is listed as the Best Picture winner for 1936.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-life-of-emile-zola",
+        "canonical": "The Life of Emile Zola",
+        "aliases": [
+          "The Life of Émile Zola"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Life of Emile Zola is listed as the Best Picture winner for 1937.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "you-can-t-take-it-with-you",
+        "canonical": "You Can't Take It with You",
+        "aliases": [
+          "You Cant Take It with You"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "You Can't Take It with You is listed as the Best Picture winner for 1938.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "gone-with-the-wind",
+        "canonical": "Gone with the Wind",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gone with the Wind is listed as the Best Picture winner for 1939.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "rebecca",
+        "canonical": "Rebecca",
+        "aliases": [
+          "Rebecca (1940)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rebecca is listed as the Best Picture winner for 1940.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "how-green-was-my-valley",
+        "canonical": "How Green Was My Valley",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "How Green Was My Valley is listed as the Best Picture winner for 1941.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "mrs-miniver",
+        "canonical": "Mrs. Miniver",
+        "aliases": [
+          "Mrs Miniver"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrs. Miniver is listed as the Best Picture winner for 1942.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "casablanca",
+        "canonical": "Casablanca",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Casablanca is listed as the Best Picture winner for the 1943 eligibility year.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "going-my-way",
+        "canonical": "Going My Way",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Going My Way is listed as the Best Picture winner for 1944.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-lost-weekend",
+        "canonical": "The Lost Weekend",
+        "aliases": [
+          "Lost Weekend"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Lost Weekend is listed as the Best Picture winner for 1945.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-best-years-of-our-lives",
+        "canonical": "The Best Years of Our Lives",
+        "aliases": [
+          "Best Years of Our Lives"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Best Years of Our Lives is listed as the Best Picture winner for 1946.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "gentleman-s-agreement",
+        "canonical": "Gentleman's Agreement",
+        "aliases": [
+          "Gentlemans Agreement"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gentleman's Agreement is listed as the Best Picture winner for 1947.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "hamlet",
+        "canonical": "Hamlet",
+        "aliases": [
+          "Hamlet (1948)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1948 Hamlet is listed as a Best Picture winner.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "all-the-king-s-men",
+        "canonical": "All the King's Men",
+        "aliases": [
+          "All the Kings Men",
+          "All the King's Men (1949)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1949 All the King's Men is listed as a Best Picture winner.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "all-about-eve",
+        "canonical": "All About Eve",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "All About Eve is listed as the Best Picture winner for 1950.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "an-american-in-paris",
+        "canonical": "An American in Paris",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "An American in Paris is listed as the Best Picture winner for 1951.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-greatest-show-on-earth",
+        "canonical": "The Greatest Show on Earth",
+        "aliases": [
+          "Greatest Show on Earth"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Greatest Show on Earth is listed as the Best Picture winner for 1952.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "from-here-to-eternity",
+        "canonical": "From Here to Eternity",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "From Here to Eternity is listed as the Best Picture winner for 1953.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "on-the-waterfront",
+        "canonical": "On the Waterfront",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "On the Waterfront is listed as the Best Picture winner for 1954.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "marty",
+        "canonical": "Marty",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marty is listed as the Best Picture winner for 1955.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "around-the-world-in-80-days",
+        "canonical": "Around the World in 80 Days",
+        "aliases": [
+          "Around the World in Eighty Days",
+          "Around the World in 80 Days (1956)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Around the World in 80 Days is listed as the Best Picture winner for 1956.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-bridge-on-the-river-kwai",
+        "canonical": "The Bridge on the River Kwai",
+        "aliases": [
+          "Bridge on the River Kwai"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bridge on the River Kwai is listed as the Best Picture winner for 1957.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "gigi",
+        "canonical": "Gigi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gigi is listed as the Best Picture winner for 1958.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "ben-hur",
+        "canonical": "Ben-Hur",
+        "aliases": [
+          "Ben Hur",
+          "Ben-Hur (1959)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ben-Hur is listed as the Best Picture winner for 1959.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-apartment",
+        "canonical": "The Apartment",
+        "aliases": [
+          "The Apartment (1960)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Apartment is listed as the Best Picture winner for 1960.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "west-side-story",
+        "canonical": "West Side Story",
+        "aliases": [
+          "West Side Story (1961)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1961 West Side Story is listed as a Best Picture winner.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "lawrence-of-arabia",
+        "canonical": "Lawrence of Arabia",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lawrence of Arabia is listed as the Best Picture winner for 1962.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "tom-jones",
+        "canonical": "Tom Jones",
+        "aliases": [
+          "Tom Jones (1963)"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tom Jones is listed as the Best Picture winner for 1963.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "my-fair-lady",
+        "canonical": "My Fair Lady",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "My Fair Lady is listed as the Best Picture winner for 1964.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-sound-of-music",
+        "canonical": "The Sound of Music",
+        "aliases": [
+          "Sound of Music"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sound of Music is listed as the Best Picture winner for 1965.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "a-man-for-all-seasons",
+        "canonical": "A Man for All Seasons",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A Man for All Seasons is listed as the Best Picture winner for 1966.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "in-the-heat-of-the-night",
+        "canonical": "In the Heat of the Night",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "In the Heat of the Night is listed as the Best Picture winner for 1967.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "oliver",
+        "canonical": "Oliver!",
+        "aliases": [
+          "Oliver",
+          "Oliver! (1968)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oliver! is listed as the Best Picture winner for 1968.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "midnight-cowboy",
+        "canonical": "Midnight Cowboy",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Midnight Cowboy is listed as the Best Picture winner for 1969.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "patton",
+        "canonical": "Patton",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Patton is listed as the Best Picture winner for 1970.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-french-connection",
+        "canonical": "The French Connection",
+        "aliases": [
+          "French Connection"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The French Connection is listed as the Best Picture winner for 1971.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-godfather",
+        "canonical": "The Godfather",
+        "aliases": [
+          "Godfather",
+          "The Godfather Part I",
+          "The Godfather 1"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Godfather is listed as the Best Picture winner for 1972.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-sting",
+        "canonical": "The Sting",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sting is listed as the Best Picture winner for 1973.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-godfather-part-ii",
+        "canonical": "The Godfather Part II",
+        "aliases": [
+          "The Godfather 2",
+          "Godfather II",
+          "Godfather Part 2"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Godfather Part II is listed as the Best Picture winner for 1974.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "one-flew-over-the-cuckoo-s-nest",
+        "canonical": "One Flew Over the Cuckoo's Nest",
+        "aliases": [
+          "One Flew Over the Cuckoos Nest"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "One Flew Over the Cuckoo's Nest is listed as the Best Picture winner for 1975.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "rocky",
+        "canonical": "Rocky",
+        "aliases": [
+          "Rocky (1976)",
+          "Rocky 1"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rocky is listed as the Best Picture winner for 1976.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "annie-hall",
+        "canonical": "Annie Hall",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Annie Hall is listed as the Best Picture winner for 1977.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-deer-hunter",
+        "canonical": "The Deer Hunter",
+        "aliases": [
+          "Deer Hunter"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Deer Hunter is listed as the Best Picture winner for 1978.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "kramer-vs-kramer",
+        "canonical": "Kramer vs. Kramer",
+        "aliases": [
+          "Kramer vs Kramer",
+          "Kramer versus Kramer"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kramer vs. Kramer is listed as the Best Picture winner for 1979.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "ordinary-people",
+        "canonical": "Ordinary People",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ordinary People is listed as the Best Picture winner for 1980.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "chariots-of-fire",
+        "canonical": "Chariots of Fire",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chariots of Fire is listed as the Best Picture winner for 1981.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "gandhi",
+        "canonical": "Gandhi",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gandhi is listed as the Best Picture winner for 1982.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "terms-of-endearment",
+        "canonical": "Terms of Endearment",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terms of Endearment is listed as the Best Picture winner for 1983.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "amadeus",
+        "canonical": "Amadeus",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amadeus is listed as the Best Picture winner for 1984.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "out-of-africa",
+        "canonical": "Out of Africa",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Out of Africa is listed as the Best Picture winner for 1985.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "platoon",
+        "canonical": "Platoon",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Platoon is listed as the Best Picture winner for 1986.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-last-emperor",
+        "canonical": "The Last Emperor",
+        "aliases": [
+          "Last Emperor"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Last Emperor is listed as the Best Picture winner for 1987.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "rain-man",
+        "canonical": "Rain Man",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rain Man is listed as the Best Picture winner for 1988.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "driving-miss-daisy",
+        "canonical": "Driving Miss Daisy",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Driving Miss Daisy is listed as the Best Picture winner for 1989.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "dances-with-wolves",
+        "canonical": "Dances With Wolves",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dances With Wolves is listed as the Best Picture winner for 1990.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-silence-of-the-lambs",
+        "canonical": "The Silence of the Lambs",
+        "aliases": [
+          "Silence of the Lambs"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Silence of the Lambs is listed as the Best Picture winner for 1991.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "unforgiven",
+        "canonical": "Unforgiven",
+        "aliases": [
+          "Unforgiven (1992)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Unforgiven is listed as the Best Picture winner for 1992.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "schindler-s-list",
+        "canonical": "Schindler's List",
+        "aliases": [
+          "Schindlers List"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Schindler's List is listed as the Best Picture winner for 1993.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "forrest-gump",
+        "canonical": "Forrest Gump",
+        "aliases": [
+          "Forest Gump"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Forrest Gump is listed as the Best Picture winner for 1994.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "braveheart",
+        "canonical": "Braveheart",
+        "aliases": [
+          "Brave Heart"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Braveheart is listed as the Best Picture winner for 1995.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-english-patient",
+        "canonical": "The English Patient",
+        "aliases": [
+          "English Patient"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The English Patient is listed as the Best Picture winner for 1996.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "titanic",
+        "canonical": "Titanic",
+        "aliases": [
+          "Titanic (1997)"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Titanic is listed as the Best Picture winner for 1997.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "shakespeare-in-love",
+        "canonical": "Shakespeare in Love",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shakespeare in Love is listed as the Best Picture winner for 1998.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "american-beauty",
+        "canonical": "American Beauty",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "American Beauty is listed as the Best Picture winner for 1999.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "gladiator",
+        "canonical": "Gladiator",
+        "aliases": [
+          "Gladiator (2000)"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gladiator is listed as the Best Picture winner for 2000.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "a-beautiful-mind",
+        "canonical": "A Beautiful Mind",
+        "aliases": [
+          "Beautiful Mind"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A Beautiful Mind is listed as the Best Picture winner for 2001.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "chicago",
+        "canonical": "Chicago",
+        "aliases": [
+          "Chicago (2002)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chicago is listed as the Best Picture winner for 2002.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-lord-of-the-rings-the-return-of-the-king",
+        "canonical": "The Lord of the Rings: The Return of the King",
+        "aliases": [
+          "The Return of the King",
+          "Return of the King",
+          "LOTR 3",
+          "Lord of the Rings 3",
+          "LOTR Return of the King"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Lord of the Rings: The Return of the King is listed as the Best Picture winner for 2003.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "million-dollar-baby",
+        "canonical": "Million Dollar Baby",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Million Dollar Baby is listed as the Best Picture winner for 2004.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "crash",
+        "canonical": "Crash",
+        "aliases": [
+          "Crash (2004)",
+          "Crash (2005)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crash is listed as the Best Picture winner for the 2005 eligibility year.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-departed",
+        "canonical": "The Departed",
+        "aliases": [
+          "Departed"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Departed is listed as the Best Picture winner for 2006.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "no-country-for-old-men",
+        "canonical": "No Country for Old Men",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "No Country for Old Men is listed as the Best Picture winner for 2007.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "slumdog-millionaire",
+        "canonical": "Slumdog Millionaire",
+        "aliases": [
+          "Slum Dog Millionaire"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Slumdog Millionaire is listed as the Best Picture winner for 2008.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-hurt-locker",
+        "canonical": "The Hurt Locker",
+        "aliases": [
+          "Hurt Locker"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hurt Locker is listed as the Best Picture winner for the 2009 eligibility year.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-king-s-speech",
+        "canonical": "The King's Speech",
+        "aliases": [
+          "The Kings Speech",
+          "Kings Speech"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The King's Speech is listed as the Best Picture winner for 2010.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-artist",
+        "canonical": "The Artist",
+        "aliases": [
+          "The Artist (2011)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Artist is listed as the Best Picture winner for 2011.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "argo",
+        "canonical": "Argo",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Argo is listed as the Best Picture winner for 2012.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "12-years-a-slave",
+        "canonical": "12 Years a Slave",
+        "aliases": [
+          "Twelve Years a Slave"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "12 Years a Slave is listed as the Best Picture winner for 2013.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "birdman-or-the-unexpected-virtue-of-ignorance",
+        "canonical": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "aliases": [
+          "Birdman",
+          "Birdman or the Unexpected Virtue of Ignorance"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Birdman or (The Unexpected Virtue of Ignorance) is listed as the Best Picture winner for 2014.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "spotlight",
+        "canonical": "Spotlight",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spotlight is listed as the Best Picture winner for 2015.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "moonlight",
+        "canonical": "Moonlight",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moonlight is listed as the Best Picture winner for 2016.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "the-shape-of-water",
+        "canonical": "The Shape of Water",
+        "aliases": [
+          "Shape of Water"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Shape of Water is listed as the Best Picture winner for 2017.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "green-book",
+        "canonical": "Green Book",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Green Book is listed as the Best Picture winner for 2018.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "parasite",
+        "canonical": "Parasite",
+        "aliases": [
+          "Parasite (2019)"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parasite is listed as the Best Picture winner for 2019.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "nomadland",
+        "canonical": "Nomadland",
+        "aliases": [
+          "Nomad Land"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nomadland is listed as the Best Picture winner for 2020/21.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "coda",
+        "canonical": "CODA",
+        "aliases": [
+          "CODA (2021)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "CODA is listed as the Best Picture winner for 2021.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "everything-everywhere-all-at-once",
+        "canonical": "Everything Everywhere All at Once",
+        "aliases": [
+          "EEAAO"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Everything Everywhere All at Once is listed as the Best Picture winner for 2022.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "oppenheimer",
+        "canonical": "Oppenheimer",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oppenheimer is listed as the Best Picture winner for 2023.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "anora",
+        "canonical": "Anora",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anora is listed as the Best Picture winner for 2024.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      },
+      {
+        "id": "one-battle-after-another",
+        "canonical": "One Battle After Another",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "One Battle After Another is listed as the Best Picture winner at the 98th ceremony.",
+        "sourceIds": [
+          "academy-award-for-best-picture"
+        ]
+      }
+    ],
+    "explanation": "The first 98 Academy Awards ceremonies recognized 98 Best Picture winners, from Wings to One Battle After Another. Earlier names for the same award, such as Outstanding Picture, also count. Years in the answers follow the source's film-eligibility years, not ceremony dates.",
+    "sources": [
+      {
+        "id": "academy-award-for-best-picture",
+        "title": "Academy Award for Best Picture",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ef44c565fd6088bf",
+    "brief": "Name a film that has won the Academy Award for Best Picture.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "academy-award-for-best-picture",
+        "version": "1382565980",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Wings": "1927/28 (1st) | Wings | Paramount (Lucien Hubbard, Jesse L. Lasky, B. P. Schulberg, & Adolph Zukor, producers)",
+      "The Broadway Melody": "1928/29 (2nd) | The Broadway Melody | Metro-Goldwyn-Mayer (Irving Thalberg & Lawrence Weingarten, producers)",
+      "All Quiet on the Western Front": "1929/30 (3rd) | All Quiet on the Western Front | Universal (Carl Laemmle)",
+      "Cimarron": "1930/31 (4th) | Cimarron | RKO Radio (William LeBaron, producer)",
+      "Grand Hotel": "1931/32 (5th) | Grand Hotel | Metro-Goldwyn-Mayer (Irving Thalberg, producer)",
+      "Cavalcade": "1932/33 (6th) | Cavalcade | Fox (Frank Lloyd & Winfield Sheehan, producers)",
+      "It Happened One Night": "1934 (7th) | It Happened One Night | Columbia (Frank Capra & Harry Cohn, producers)",
+      "Mutiny on the Bounty": "1935 (8th) | Mutiny on the Bounty | Metro-Goldwyn-Mayer (Frank Lloyd & Irving Thalberg, producers)",
+      "The Great Ziegfeld": "1936 (9th) | The Great Ziegfeld | Metro-Goldwyn-Mayer (Hunt Stromberg, producer)",
+      "The Life of Emile Zola": "1937 (10th) | The Life of Emile Zola | Warner Bros. (Henry Blanke, producer)",
+      "You Can't Take It with You": "1938 (11th) | You Can't Take It with You | Columbia (Frank Capra, producer)",
+      "Gone with the Wind": "1939 (12th) | Gone with the Wind | Metro-Goldwyn-Mayer (David O. Selznick, producer)",
+      "Rebecca": "1940 (13th) | Rebecca | Selznick International Pictures (David O. Selznick, producer)",
+      "How Green Was My Valley": "1941 (14th) | How Green Was My Valley | 20th Century-Fox (Darryl F. Zanuck, producer)",
+      "Mrs. Miniver": "1942 (15th) | Mrs. Miniver | Metro-Goldwyn-Mayer (Sidney Franklin, producer)",
+      "Casablanca": "1943 (16th) | Casablanca | Warner Bros. (Hal B. Wallis, producer)",
+      "Going My Way": "1944 (17th) | Going My Way | Paramount (Leo McCarey, producer)",
+      "The Lost Weekend": "1945 (18th) | The Lost Weekend | Paramount (Charles Brackett, producer)",
+      "The Best Years of Our Lives": "1946 (19th) | The Best Years of Our Lives | Samuel Goldwyn Productions (Samuel Goldwyn, producer)",
+      "Gentleman's Agreement": "1947 (20th) | Gentleman's Agreement | 20th Century-Fox (Darryl F. Zanuck, producer)",
+      "Hamlet": "1948 (21st) | Hamlet | J. Arthur Rank-Two Cities Films (Laurence Olivier, producer)",
+      "All the King's Men": "1949 (22nd) | All the King's Men | Columbia (Robert Rossen, producer)",
+      "All About Eve": "1950 (23rd) | All About Eve | 20th Century-Fox (Darryl F. Zanuck, producer)",
+      "An American in Paris": "1951 (24th) | An American in Paris | Arthur Freed (Metro-Goldwyn-Mayer)",
+      "The Greatest Show on Earth": "1952 (25th) | The Greatest Show on Earth | Cecil B. DeMille (Paramount)",
+      "From Here to Eternity": "1953 (26th) | From Here to Eternity | Buddy Adler",
+      "On the Waterfront": "1954 (27th) | On the Waterfront | Sam Spiegel",
+      "Marty": "1955 (28th) | Marty | Harold Hecht",
+      "Around the World in 80 Days": "1956 (29th) | Around the World in 80 Days | Michael Todd",
+      "The Bridge on the River Kwai": "1957 (30th) | The Bridge on the River Kwai | Sam Spiegel",
+      "Gigi": "1958 (31st) | Gigi | Arthur Freed",
+      "Ben-Hur": "1959 (32nd) | Ben-Hur | Sam Zimbalist",
+      "The Apartment": "1960 (33rd) | The Apartment | Billy Wilder",
+      "West Side Story": "1961 (34th) | West Side Story | Robert Wise",
+      "Lawrence of Arabia": "1962 (35th) | Lawrence of Arabia | Sam Spiegel",
+      "Tom Jones": "1963 (36th) | Tom Jones | Tony Richardson",
+      "My Fair Lady": "1964 (37th) | My Fair Lady | Jack L. Warner",
+      "The Sound of Music": "1965 (38th) | The Sound of Music | Robert Wise",
+      "A Man for All Seasons": "1966 (39th) | A Man for All Seasons | Fred Zinnemann",
+      "In the Heat of the Night": "1967 (40th) | In the Heat of the Night | Walter Mirisch",
+      "Oliver!": "1968 (41st) | Oliver! | John Woolf",
+      "Midnight Cowboy": "1969 (42nd) | Midnight Cowboy | Jerome Hellman",
+      "Patton": "1970 (43rd) | Patton | Frank McCarthy",
+      "The French Connection": "1971 (44th) | The French Connection | Philip D'Antoni",
+      "The Godfather": "1972 (45th) | The Godfather | Albert S. Ruddy",
+      "The Sting": "1973 (46th) | The Sting | Tony Bill, Michael Phillips, and Julia Phillips",
+      "The Godfather Part II": "1974 (47th) | The Godfather Part II | Francis Ford Coppola, Gray Frederickson, and Fred Roos",
+      "One Flew Over the Cuckoo's Nest": "1975 (48th) | One Flew Over the Cuckoo's Nest | Michael Douglas and Saul Zaentz",
+      "Rocky": "1976 (49th) | Rocky | Irwin Winkler and Robert Chartoff",
+      "Annie Hall": "1977 (50th) | Annie Hall | Charles H. Joffe",
+      "The Deer Hunter": "1978 (51st) | The Deer Hunter | Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall",
+      "Kramer vs. Kramer": "1979 (52nd) | Kramer vs. Kramer | Stanley R. Jaffe",
+      "Ordinary People": "1980 (53rd) | Ordinary People | Ronald L. Schwary",
+      "Chariots of Fire": "1981 (54th) | Chariots of Fire | David Puttnam",
+      "Gandhi": "1982 (55th) | Gandhi | Richard Attenborough",
+      "Terms of Endearment": "1983 (56th) | Terms of Endearment | James L. Brooks",
+      "Amadeus": "1984 (57th) | Amadeus | Saul Zaentz",
+      "Out of Africa": "1985 (58th) | Out of Africa | Sydney Pollack",
+      "Platoon": "1986 (59th) | Platoon | Arnold Kopelson",
+      "The Last Emperor": "1987 (60th) | The Last Emperor | Jeremy Thomas",
+      "Rain Man": "1988 (61st) | Rain Man | Mark Johnson",
+      "Driving Miss Daisy": "1989 (62nd) | Driving Miss Daisy | Richard D. Zanuck and Lili Fini Zanuck",
+      "Dances With Wolves": "1990 (63rd) | Dances With Wolves | Jim Wilson and Kevin Costner",
+      "The Silence of the Lambs": "1991 (64th) | The Silence of the Lambs | Edward Saxon, Kenneth Utt, and Ron Bozman",
+      "Unforgiven": "1992 (65th) | Unforgiven | Clint Eastwood",
+      "Schindler's List": "1993 (66th) | Schindler's List | Steven Spielberg, Gerald R. Molen, and Branko Lustig",
+      "Forrest Gump": "1994 (67th) | Forrest Gump | Wendy Finerman, Steve Tisch, and Steve Starkey",
+      "Braveheart": "1995 (68th) | Braveheart | Mel Gibson, Alan Ladd Jr., and Bruce Davey",
+      "The English Patient": "1996 (69th) | The English Patient | Saul Zaentz",
+      "Titanic": "1997 (70th) | Titanic | James Cameron and Jon Landau",
+      "Shakespeare in Love": "1998 (71st) | Shakespeare in Love | David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman",
+      "American Beauty": "1999 (72nd) | American Beauty | Bruce Cohen and Dan Jinks",
+      "Gladiator": "2000 (73rd) | Gladiator | Douglas Wick, David Franzoni, and Branko Lustig",
+      "A Beautiful Mind": "2001 (74th) | A Beautiful Mind | Brian Grazer and Ron Howard",
+      "Chicago": "2002 (75th) | Chicago | Martin Richards",
+      "The Lord of the Rings: The Return of the King": "2003 (76th) | The Lord of the Rings: The Return of the King | Barrie M. Osborne, Peter Jackson, and Fran Walsh",
+      "Million Dollar Baby": "2004 (77th) | Million Dollar Baby | Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg",
+      "Crash": "2005 (78th) | Crash | Paul Haggis and Cathy Schulman",
+      "The Departed": "2006 (79th) | The Departed | Graham King",
+      "No Country for Old Men": "2007 (80th) | No Country for Old Men | Scott Rudin, Joel Coen, and Ethan Coen",
+      "Slumdog Millionaire": "2008 (81st) | Slumdog Millionaire | Christian Colson",
+      "The Hurt Locker": "2009 (82nd) | The Hurt Locker | Kathryn Bigelow, Mark Boal, Nicolas Chartier, and Greg Shapiro",
+      "The King's Speech": "2010 (83rd) | The King's Speech | Iain Canning, Emile Sherman, and Gareth Unwin",
+      "The Artist": "2011 (84th) | The Artist | Thomas Langmann",
+      "Argo": "2012 (85th) | Argo | Grant Heslov, Ben Affleck, and George Clooney",
+      "12 Years a Slave": "2013 (86th) | 12 Years a Slave | Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas",
+      "Birdman or (The Unexpected Virtue of Ignorance)": "2014 (87th) | Birdman or (The Unexpected Virtue of Ignorance) | Alejandro González Iñárritu, John Lesher, and James W. Skotchdopole",
+      "Spotlight": "2015 (88th) | Spotlight | Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar",
+      "Moonlight": "2016 (89th) | Moonlight | Adele Romanski, Dede Gardner, and Jeremy Kleiner",
+      "The Shape of Water": "2017 (90th) | The Shape of Water | Guillermo del Toro and J. Miles Dale",
+      "Green Book": "2018 (91st) | Green Book | Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga",
+      "Parasite": "2019 (92nd) | Parasite | Kwak Sin-ae and Bong Joon Ho",
+      "Nomadland": "2020/21 (93rd) | Nomadland | Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, and Chloé Zhao",
+      "CODA": "2021 (94th) | CODA | Philippe Rousselet, Fabrice Gianfermi, and Patrick Wachsberger",
+      "Everything Everywhere All at Once": "2022 (95th) | Everything Everywhere All at Once | Daniel Kwan, Daniel Scheinert, and Jonathan Wang",
+      "Oppenheimer": "2023 (96th) | Oppenheimer | Emma Thomas, Charles Roven, and Christopher Nolan",
+      "Anora": "2024 (97th) | Anora | Alex Coco, Samantha Quan, and Sean Baker",
+      "One Battle After Another": "2025 (98th) | One Battle After Another | Adam Somner, Sara Murphy, and Paul Thomas Anderson"
+    },
+    "issues": []
+  }
+}

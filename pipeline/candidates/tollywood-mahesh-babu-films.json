@@ -1,0 +1,531 @@
+{
+  "question": {
+    "id": "tollywood-mahesh-babu-films",
+    "category": "tollywood",
+    "prompt": "Name a released movie featuring Mahesh Babu on screen, including his films as a child actor.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "needa",
+        "canonical": "Needa",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu appeared as a child artist in Needa (1979).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "poratam",
+        "canonical": "Poratam",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Bujji as a child artist in Poratam (1983).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "sankharavam",
+        "canonical": "Sankharavam",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Raja as a child artist in Sankharavam (1987).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "bazaar-rowdy",
+        "canonical": "Bazaar Rowdy",
+        "aliases": [
+          "Bazar Rowdy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu appeared as a child artist in Bazaar Rowdy (1988).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "mugguru-kodukulu",
+        "canonical": "Mugguru Kodukulu",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Surendra as a child artist in Mugguru Kodukulu (1988).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "gudachari-117",
+        "canonical": "Gudachari 117",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Chinna as a child artist in Gudachari 117 (1989).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "koduku-diddina-kapuram",
+        "canonical": "Koduku Diddina Kapuram",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Vinod and Pramod as a child artist in Koduku Diddina Kapuram (1989).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "anna-thammudu",
+        "canonical": "Anna Thammudu",
+        "aliases": [
+          "Anna Tammudu"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Murali as a child artist in Anna Thammudu (1990).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "balachandrudu",
+        "canonical": "Balachandrudu",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Balachandra as a child artist in Balachandrudu (1990).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "rajakumarudu",
+        "canonical": "Rajakumarudu",
+        "aliases": [
+          "Raja Kumarudu"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu made his lead-role debut as Raja in Rajakumarudu (1999).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "yuvaraju",
+        "canonical": "Yuvaraju",
+        "aliases": [
+          "Yuva Raju"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Srinivas in Yuvaraju (2000).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "vamsi",
+        "canonical": "Vamsi",
+        "aliases": [
+          "Vamshi"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played the title role in Vamsi (2000).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "murari",
+        "canonical": "Murari",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played the title role in Murari (2001).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "takkari-donga",
+        "canonical": "Takkari Donga",
+        "aliases": [
+          "TakkariDonga"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Raja in Takkari Donga (2002).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "bobby",
+        "canonical": "Bobby",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played the title role in Bobby (2002).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "okkadu",
+        "canonical": "Okkadu",
+        "aliases": [],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Ajay Varma in Okkadu (2003).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "nijam",
+        "canonical": "Nijam",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played G. Seetaram in Nijam (2003).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "naani",
+        "canonical": "Naani",
+        "aliases": [
+          "Nani"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Vijay, also called Viju or Naani, and Jai in Naani (2004).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "arjun",
+        "canonical": "Arjun",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played the title role in Arjun (2004).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "athadu",
+        "canonical": "Athadu",
+        "aliases": [
+          "Atadu"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Nanda Gopal, also called Nandu, and Pardhu in Athadu (2005).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "pokiri",
+        "canonical": "Pokiri",
+        "aliases": [],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Pandu and Krishna Manohar IPS in Pokiri (2006).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "sainikudu",
+        "canonical": "Sainikudu",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Siddharth in Sainikudu (2006).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "athidhi",
+        "canonical": "Athidhi",
+        "aliases": [
+          "Athidi",
+          "Atidhi"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played the title role in Athidhi (2007).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "khaleja",
+        "canonical": "Khaleja",
+        "aliases": [
+          "Kaleja"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Alluri Seetharama Raju in Khaleja (2010).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "dookudu",
+        "canonical": "Dookudu",
+        "aliases": [
+          "Dukudu"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played G. Ajay Kumar IPS and Ballary Babu in Dookudu (2011).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "businessman",
+        "canonical": "Businessman",
+        "aliases": [
+          "Business Man"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Vijay Surya, also called Surya Bhai, in Businessman (2012).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "seethamma-vakitlo-sirimalle-chettu",
+        "canonical": "Seethamma Vakitlo Sirimalle Chettu",
+        "aliases": [
+          "SVSC",
+          "Sitamma Vakitlo Sirimalle Chettu"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Chinnodu in Seethamma Vakitlo Sirimalle Chettu (2013).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "1-nenokkadine",
+        "canonical": "1: Nenokkadine",
+        "aliases": [
+          "1 Nenokkadine",
+          "Nenokkadine",
+          "One Nenokkadine"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Gautham in 1: Nenokkadine (2014).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "aagadu",
+        "canonical": "Aagadu",
+        "aliases": [
+          "Agadu"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played CI G. Shankar, also called Encounter Shankar, in Aagadu (2014).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "srimanthudu",
+        "canonical": "Srimanthudu",
+        "aliases": [
+          "Srimantudu"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Harsha Vardhan in Srimanthudu (2015).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "brahmotsavam",
+        "canonical": "Brahmotsavam",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Ajay Chantibabu in Brahmotsavam (2016).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "spyder",
+        "canonical": "Spyder",
+        "aliases": [
+          "Spider"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Shiva in Spyder (2017).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "bharat-ane-nenu",
+        "canonical": "Bharat Ane Nenu",
+        "aliases": [
+          "Bharath Ane Nenu"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Bharath Ram in Bharat Ane Nenu (2018).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "maharshi",
+        "canonical": "Maharshi",
+        "aliases": [
+          "Maharishi"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played K. Rishi Kumar in Maharshi (2019).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [
+          "Sarileru Nikevvaru"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Major Ajay Krishna in Sarileru Neekevvaru (2020).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "sarkaru-vaari-paata",
+        "canonical": "Sarkaru Vaari Paata",
+        "aliases": [
+          "Sarkaru Vari Pata",
+          "Sarkaru Vari Paata"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Mahesh, also called Mahi, in Sarkaru Vaari Paata (2022).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      },
+      {
+        "id": "guntur-kaaram",
+        "canonical": "Guntur Kaaram",
+        "aliases": [
+          "Guntur Karam"
+        ],
+        "familiarity": 0.0628,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu played Bhogineni Veera Venkata Ramana in Guntur Kaaram (2024).",
+        "sourceIds": [
+          "mahesh-babu-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are the released films listed in Mahesh Babu's on-screen acting filmography, from Needa (1979) to Guntur Kaaram (2024). Child-actor roles count; voice-only roles, producer-only credits and the unreleased Varanasi do not.",
+    "sources": [
+      {
+        "id": "mahesh-babu-filmography",
+        "title": "Mahesh Babu filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mahesh_Babu_filmography",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "01347a3e80c7b44c",
+    "brief": "Name a movie starring Mahesh Babu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "mahesh-babu-filmography",
+        "version": "1382431421",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Needa": "1979 | Needa | Unknown | Child artist |",
+      "Poratam": "1983 | Poratam | Bujji | Child artist |",
+      "Sankharavam": "1987 | Sankharavam | Raja | Child artist |",
+      "Bazaar Rowdy": "1988 | Bazaar Rowdy | Mahesh Babu | Child artist |",
+      "Mugguru Kodukulu": "1988 | Mugguru Kodukulu | Surendra | Child artist |",
+      "Gudachari 117": "1989 | Gudachari 117 | Chinna | Child artist |",
+      "Koduku Diddina Kapuram": "1989 | Koduku Diddina Kapuram | Vinod / Pramod | Child artist |",
+      "Anna Thammudu": "1990 | Anna Thammudu | Murali | Child artist |",
+      "Balachandrudu": "1990 | Balachandrudu | Balachandra | Child artist |",
+      "Rajakumarudu": "1999 | Rajakumarudu | Raja | Debut in a lead role; credited as Mahesh |",
+      "Yuvaraju": "2000 | Yuvaraju | Srinivas | |",
+      "Vamsi": "2000 | Vamsi | Vamsi | |",
+      "Murari": "2001 | Murari | Murari | |",
+      "Takkari Donga": "2002 | Takkari Donga | Raja | |",
+      "Bobby": "2002 | Bobby | Bobby | |",
+      "Okkadu": "2003 | Okkadu | Ajay Varma | |",
+      "Nijam": "2003 | Nijam | G. Seetaram | |",
+      "Naani": "2004 | Naani | Vijay \"Viju\" / Naani and Jai | |",
+      "Arjun": "2004 | Arjun | Arjun | |",
+      "Athadu": "2005 | Athadu | Nanda \"Nandu\" Gopal / Pardhu | |",
+      "Pokiri": "2006 | Pokiri | Pandu / Krishna Manohar IPS | |",
+      "Sainikudu": "2006 | Sainikudu | Siddharth | |",
+      "Athidhi": "2007 | Athidhi | Athidhi | |",
+      "Khaleja": "2010 | Khaleja | Alluri Seetharama Raju | |",
+      "Dookudu": "2011 | Dookudu | G. Ajay Kumar IPS / Ballary Babu | |",
+      "Businessman": "2012 | Businessman | Vijay Surya \"Surya Bhai\" | Also playback singer for \"Theme Music (Bhaag Saale)\" |",
+      "Seethamma Vakitlo Sirimalle Chettu": "2013 | Seethamma Vakitlo Sirimalle Chettu | Chinnodu | |",
+      "1: Nenokkadine": "2014 | 1: Nenokkadine | Gautham | |",
+      "Aagadu": "2014 | Aagadu | CI G. Shankar / \"Encounter\" Shankar | |",
+      "Srimanthudu": "2015 | Srimanthudu | Harsha Vardhan | |",
+      "Brahmotsavam": "2016 | Brahmotsavam | Ajay Chantibabu | |",
+      "Spyder": "2017 | Spyder | Shiva | |",
+      "Bharat Ane Nenu": "2018 | Bharat Ane Nenu | Bharath Ram | |",
+      "Maharshi": "2019 | Maharshi | K. Rishi Kumar | 25th film |",
+      "Sarileru Neekevvaru": "2020 | Sarileru Neekevvaru | Major Ajay Krishna | |",
+      "Sarkaru Vaari Paata": "2022 | Sarkaru Vaari Paata | Mahesh \"Mahi\" | |",
+      "Guntur Kaaram": "2024 | Guntur Kaaram | Bhogineni Veera Venkata Ramana | |"
+    },
+    "issues": []
+  }
+}

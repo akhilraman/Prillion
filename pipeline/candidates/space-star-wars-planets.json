@@ -1,0 +1,2442 @@
+{
+  "question": {
+    "id": "space-star-wars-planets",
+    "category": "space",
+    "prompt": "Name a planet or moon from Star Wars, including canon or Legends.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "abafar",
+        "canonical": "Abafar",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abafar is listed as an Outer Rim desert planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "agamar",
+        "canonical": "Agamar",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Agamar is listed as a barren, rocky Outer Rim planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ahch-to",
+        "canonical": "Ahch-To",
+        "aliases": [
+          "Ahch To",
+          "Ahchto"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ahch-To is the oceanic planet where Luke Skywalker hides.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ajan-kloss",
+        "canonical": "Ajan Kloss",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ajan Kloss is a jungle moon used as a Resistance base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "akiva",
+        "canonical": "Akiva",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Akiva is a jungle planet featured in Aftermath.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "alaris-prime",
+        "canonical": "Alaris Prime",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alaris Prime is a moon orbiting Alaris.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "alaris",
+        "canonical": "Alaris",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alaris is the gas giant orbited by Alaris Prime.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "alderaan",
+        "canonical": "Alderaan",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alderaan is Princess Leia's homeworld, destroyed by the first Death Star.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "aldhani",
+        "canonical": "Aldhani",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aldhani is a temperate planet featured in Andor.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "aleen",
+        "canonical": "Aleen",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aleen is a Mid Rim world featured in The Clone Wars.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "alzoc-iii",
+        "canonical": "Alzoc III",
+        "aliases": [
+          "Alzoc 3"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alzoc III is listed as an ice planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "anaxes",
+        "canonical": "Anaxes",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anaxes is a rocky planet in the Core Worlds region.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ando",
+        "canonical": "Ando",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ando is the water-covered homeworld of the Aqualish.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "anoat",
+        "canonical": "Anoat",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anoat is a polluted planet used by the Empire.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "arvala-7",
+        "canonical": "Arvala-7",
+        "aliases": [
+          "Arvala 7"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arvala-7 is the desert planet where the Mandalorian finds Grogu.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-achrann",
+        "canonical": "At Achrann",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Achrann is a planet described as a Jewel of the Old Republic.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-acoda",
+        "canonical": "At Acoda",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Acoda is a destroyed planet mentioned in Skeleton Crew.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-aravin",
+        "canonical": "At Aravin",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Aravin is a planet counted among the nine Jewels of the Old Republic.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-arissa",
+        "canonical": "At Arissa",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Arissa is a planet mentioned in Skeleton Crew.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-attin",
+        "canonical": "At Attin",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Attin is a deliberately hidden planet featured in Skeleton Crew.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "at-aytuu",
+        "canonical": "At Aytuu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "At Aytuu is one of the planetary Jewels of the Old Republic.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "atollon",
+        "canonical": "Atollon",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Atollon is a desert planet hosting a Phoenix Squadron base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "barton-iv",
+        "canonical": "Barton IV",
+        "aliases": [
+          "Barton 4"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barton IV is an icy planet with an Imperial supply depot.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "balnab",
+        "canonical": "Balnab",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Balnab is a world visited by R2-D2 and C-3PO.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "batuu",
+        "canonical": "Batuu",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Batuu is a planet with a frontier outpost and trading port.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bespin",
+        "canonical": "Bespin",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bespin is the gas planet where Cloud City is located.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bogano",
+        "canonical": "Bogano",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bogano is a grassy Outer Rim planet in Jedi: Fallen Order.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bora-vio",
+        "canonical": "Bora Vio",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bora Vio is a cloudy planet that hosted a Kaminoan facility.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bracca",
+        "canonical": "Bracca",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bracca is a junkyard planet in the Mid Rim.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "brendok",
+        "canonical": "Brendok",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brendok is the Outer Rim home of Osha and Mae Aniseya.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "cantonica",
+        "canonical": "Cantonica",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cantonica is the planet containing the resort city Canto Bight.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "castilon",
+        "canonical": "Castilon",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Castilon is an ocean planet featured in Star Wars Resistance.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "cato-neimoidia",
+        "canonical": "Cato Neimoidia",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cato Neimoidia is a Neimoidian colony world seen in Revenge of the Sith.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "chandrila",
+        "canonical": "Chandrila",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandrila is a Core world represented by Mon Mothma.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "christophsis",
+        "canonical": "Christophsis",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Christophsis is a listed planet where a Clone Wars battle occurs.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "concord-dawn",
+        "canonical": "Concord Dawn",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Concord Dawn is identified as Jango Fett's home planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "corellia",
+        "canonical": "Corellia",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Corellia is an industrial planet and Han Solo's homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "coruscant",
+        "canonical": "Coruscant",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coruscant is an urban world covered by a planet-wide city.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "crait",
+        "canonical": "Crait",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crait is a mineral planet with white salt over red soil.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "d-qar",
+        "canonical": "D'Qar",
+        "aliases": [
+          "Dqar",
+          "D Qar"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "D'Qar is listed as the world hosting a Resistance base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dagobah",
+        "canonical": "Dagobah",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dagobah is the swamp planet where Yoda resides.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "daiyu",
+        "canonical": "Daiyu",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daiyu is a cityscape planet featured in Obi-Wan Kenobi.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dantooine",
+        "canonical": "Dantooine",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dantooine is a rural planet associated with the Rebel Alliance's formation.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dathomir",
+        "canonical": "Dathomir",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dathomir is the homeworld of the Nightsisters.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "devaron",
+        "canonical": "Devaron",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devaron is a forest planet with an ancient Jedi Temple.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dizon-fray",
+        "canonical": "Dizon Fray",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dizon Fray is an Outer Rim moon inhabited by the Dizonites.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "eadu",
+        "canonical": "Eadu",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eadu is a mountainous planet with an Imperial weapons research facility.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "endor-planet",
+        "canonical": "Endor (planet)",
+        "aliases": [
+          "Endor gas giant",
+          "Planet Endor"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The planet Endor is a blue gas giant with several moons.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "endor-moon",
+        "canonical": "Endor (moon)",
+        "aliases": [
+          "Endor",
+          "Forest Moon of Endor",
+          "Endor moon"
+        ],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The forest moon Endor is inhabited by Ewoks.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "er-kit",
+        "canonical": "Er´kit",
+        "aliases": [
+          "Er'kit",
+          "Erkit"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Er´kit is an Outer Rim desert planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "eriadu",
+        "canonical": "Eriadu",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eriadu is Grand Moff Tarkin's homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "esseles",
+        "canonical": "Esseles",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Esseles is a listed world with an icy ring concealing an Imperial listening post.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "exegol",
+        "canonical": "Exegol",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Exegol is a stormy planet in the Unknown Regions.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "felucia",
+        "canonical": "Felucia",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Felucia is a jungle planet seen in Revenge of the Sith.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ferrix",
+        "canonical": "Ferrix",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ferrix is a desert planet known for scrapyards and salvage markets.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "florrum",
+        "canonical": "Florrum",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Florrum is a sulfurous desert planet used by Hondo Ohnaka's pirates.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "fondor",
+        "canonical": "Fondor",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fondor is an Imperial manufacturing world and Luthen Rael's home planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "geonosis",
+        "canonical": "Geonosis",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Geonosis is the desert planet where the opening battle of the Clone Wars occurs.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ghorman",
+        "canonical": "Ghorman",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ghorman is the planet where the Ghorman Massacre occurs.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "hosnian-prime",
+        "canonical": "Hosnian Prime",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hosnian Prime is an urban planet that serves as the New Republic's capital.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "hoth",
+        "canonical": "Hoth",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hoth is the ice planet hosting a Rebel Alliance base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "iego",
+        "canonical": "Iego",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iego is an Outer Rim planet surrounded by many moons.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "millius-prime",
+        "canonical": "Millius Prime",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Millius Prime is one of Iego's moons and home to the Angels.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ilum",
+        "canonical": "Ilum",
+        "aliases": [
+          "Starkiller Base"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ilum is an ice planet converted into Starkiller Base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "iridonia",
+        "canonical": "Iridonia",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iridonia is listed as the homeworld of the Iridonian Zabrak.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "jabiim",
+        "canonical": "Jabiim",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jabiim is a desert planet used by the Path.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "jakku",
+        "canonical": "Jakku",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jakku is a desert planet identified as Rey's homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "jedha",
+        "canonical": "Jedha",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jedha is a cold desert moon sacred to believers in the Force.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "jelucan",
+        "canonical": "Jelucan",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jelucan is a mountainous Outer Rim planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "jestefad",
+        "canonical": "Jestefad",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jestefad is a gas planet in the Mustafar system.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lefrani",
+        "canonical": "Lefrani",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lefrani is a gas giant whose gravitational interaction affects Mustafar.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kaller",
+        "canonical": "Kaller",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kaller is a snowy, rocky planet involved in the final Clone Wars battles.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kamino",
+        "canonical": "Kamino",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kamino is the ocean planet where the Clone Army is created.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kashyyyk",
+        "canonical": "Kashyyyk",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kashyyyk is the forest planet home to the Wookiees.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kef-bir",
+        "canonical": "Kef Bir",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kef Bir is a moon of Endor containing second Death Star wreckage.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kenari",
+        "canonical": "Kenari",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kenari is a forested planet identified as Cassian Andor's original home.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kessel",
+        "canonical": "Kessel",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kessel is a mining planet valued for its spice.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "khofar",
+        "canonical": "Khofar",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Khofar is a forest planet where Jedi Master Kelnacca lives.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kijimi",
+        "canonical": "Kijimi",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kijimi is a frigid mountainous planet featured in The Rise of Skywalker.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "koboh",
+        "canonical": "Koboh",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Koboh is a rugged planet rich in priorite.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "krownest",
+        "canonical": "Krownest",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krownest is a Mandalorian-sector planet and Clan Wren's ancestral home.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kuat",
+        "canonical": "Kuat",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kuat is an industrial planet housing Kuat Drive Yards.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lah-mu",
+        "canonical": "Lah'mu",
+        "aliases": [
+          "Lahmu",
+          "Lah Mu"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lah'mu is a remote planet where Jyn Erso's family hides.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lira-san",
+        "canonical": "Lira San",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lira San is the hidden homeworld of the Lasat.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lothal",
+        "canonical": "Lothal",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lothal is a farm planet and Ezra Bridger's birthplace.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lotho-minor",
+        "canonical": "Lotho Minor",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lotho Minor is a planetary junkyard where Darth Maul hides.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "malachor",
+        "canonical": "Malachor",
+        "aliases": [
+          "Malachor V",
+          "Malachor 5"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malachor is a Sith world identified as Malachor V in Legends.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "malastare",
+        "canonical": "Malastare",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malastare is a forested planet known for podracing.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "manaan",
+        "canonical": "Manaan",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manaan is the ocean homeworld of the Selkath.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mandalore",
+        "canonical": "Mandalore",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandalore is the Outer Rim homeworld of the Mandalorians.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "concordia",
+        "canonical": "Concordia",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Concordia is Mandalore's inhabited moon.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mapuzo",
+        "canonical": "Mapuzo",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mapuzo is a planet desertified by the Empire.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "maridun",
+        "canonical": "Maridun",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maridun is a grassy planet and the Amani homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mimban",
+        "canonical": "Mimban",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mimban is a foggy swamp planet seen in Solo.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mina-rau",
+        "canonical": "Mina-Rau",
+        "aliases": [
+          "Mina Rau"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mina-Rau is an agrarian planet featured in Andor.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mon-cala",
+        "canonical": "Mon Cala",
+        "aliases": [
+          "Mon Calamari",
+          "Dac"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mon Cala is an ocean planet also called Mon Calamari or Dac.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "moraband",
+        "canonical": "Moraband",
+        "aliases": [
+          "Korriban"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moraband is the ancient Sith homeworld called Korriban in Legends.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mortis",
+        "canonical": "Mortis",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mortis is described as a planet in the Force's spiritual realm.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mustafar",
+        "canonical": "Mustafar",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mustafar is a volcanic planet and the site of Anakin and Obi-Wan's duel.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "mygeeto",
+        "canonical": "Mygeeto",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mygeeto is a cold urban planet involved in the Clone Wars.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "naboo",
+        "canonical": "Naboo",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naboo is the home planet of the Gungans and Padmé Amidala's civilization.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "nal-hutta",
+        "canonical": "Nal Hutta",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nal Hutta is identified as the home planet of Jabba and other Hutts.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "nar-shaddaa",
+        "canonical": "Nar Shaddaa",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nar Shaddaa is an urban moon near Nal Hutta.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "narkina-5",
+        "canonical": "Narkina 5",
+        "aliases": [
+          "Narkina V",
+          "Narkina Five"
+        ],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Narkina 5 is the fifth moon orbiting Narkina.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "narkina",
+        "canonical": "Narkina",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Narkina is the gas giant orbited by Narkina 5.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "nevarro",
+        "canonical": "Nevarro",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nevarro is a volcanic Outer Rim planet featured in The Mandalorian.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "niamos",
+        "canonical": "Niamos",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Niamos is a warm resort planet where Cassian Andor is arrested.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "numidian-prime",
+        "canonical": "Numidian Prime",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Numidian Prime is a listed rainforest world used by smugglers and thieves.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "nur",
+        "canonical": "Nur",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nur is a water moon of Mustafar housing Fortress Inquisitorius.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "oba-diah",
+        "canonical": "Oba Diah",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oba Diah is listed as the world containing the Pyke Syndicate's stronghold.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "observatory-moon",
+        "canonical": "Observatory Moon",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Observatory Moon is a frigid moon featured in Skeleton Crew.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "olega",
+        "canonical": "Olega",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Olega is a planet containing a High Republic-era Jedi temple.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "onderon",
+        "canonical": "Onderon",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Onderon is a jungle planet and Saw Gerrera's homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ord-mantell",
+        "canonical": "Ord Mantell",
+        "aliases": [
+          "Ord Mandell"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ord Mantell is a planet where Han Solo had a bounty-hunter encounter.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ossus",
+        "canonical": "Ossus",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ossus is a verdant planet housing Luke Skywalker's Jedi Temple.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "pabu",
+        "canonical": "Pabu",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pabu is an ocean planet featured in The Bad Batch.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "pasaana",
+        "canonical": "Pasaana",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pasaana is a desert planet inhabited by the Aki-Aki.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "peridea",
+        "canonical": "Peridea",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Peridea is the barren planet where Ezra Bridger and Thrawn were exiled.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "pillio",
+        "canonical": "Pillio",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pillio is an uncolonized aquatic planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "polis-massa",
+        "canonical": "Polis Massa",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Polis Massa is an Outer Rim planetoid where Luke and Leia are born.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "raada",
+        "canonical": "Raada",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raada is a farming moon where Ahsoka hides after Order 66.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "rishi",
+        "canonical": "Rishi",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rishi is a tropical planet used to monitor Kamino.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "rodia",
+        "canonical": "Rodia",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rodia is the swampy jungle homeworld of the Rodians.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "rugosa",
+        "canonical": "Rugosa",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rugosa is a moon covered in giant coral reefs.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ruusan",
+        "canonical": "Ruusan",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ruusan is a barren planet containing the Valley of the Jedi.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ryloth",
+        "canonical": "Ryloth",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ryloth is the hot, dry home planet of the Twi'leks.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "saleucami",
+        "canonical": "Saleucami",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saleucami is a listed world with deserts and swamps.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "savareen",
+        "canonical": "Savareen",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Savareen is a desert and ocean planet where coaxium is refined.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "scarif",
+        "canonical": "Scarif",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scarif is an oceanic world used in the Death Star project.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "seatos",
+        "canonical": "Seatos",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seatos is a forest planet with red-leaved trees.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "serenno",
+        "canonical": "Serenno",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Serenno is Count Dooku's Outer Rim homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "shili",
+        "canonical": "Shili",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shili is the home planet of the Togruta.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "sienar-tf73",
+        "canonical": "Sienar TF73",
+        "aliases": [
+          "Sienar",
+          "73",
+          "Sienar TF 73"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sienar TF73 is a snowy planet owned by Sienar Fleet Systems.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "sissubo",
+        "canonical": "Sissubo",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sissubo is the seventh planet of the Chandrila system.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "skako-minor",
+        "canonical": "Skako Minor",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skako Minor is Wat Tambor's home planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "sorgan",
+        "canonical": "Sorgan",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sorgan is a forested backwater planet in the Outer Rim.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "subterrel",
+        "canonical": "Subterrel",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subterrel is a mining planet mentioned by Dexter Jettster.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "sullust",
+        "canonical": "Sullust",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sullust is a volcanic planet inhabited by Sullustans.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "takodana",
+        "canonical": "Takodana",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Takodana is the forest planet containing Maz Kanata's castle.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "tanalorr",
+        "canonical": "Tanalorr",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tanalorr is a Force-strong planet hidden in a nebula.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "taris",
+        "canonical": "Taris",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taris is a heavily populated urban planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "tatooine",
+        "canonical": "Tatooine",
+        "aliases": [],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tatooine is the desert planet where Anakin and Luke Skywalker grow up.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "telos",
+        "canonical": "Telos",
+        "aliases": [
+          "Telos IV",
+          "Telos 4"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Telos is a mountainous Outer Rim planet called Telos IV in Legends.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "teth",
+        "canonical": "Teth",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Teth is the planet where the Separatists take Jabba's abducted son.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "toydaria",
+        "canonical": "Toydaria",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toydaria is the home planet of Watto and other Toydarians.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "trandosha",
+        "canonical": "Trandosha",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trandosha is the homeworld of the Trandoshan hunters.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ueda",
+        "canonical": "Ueda",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ueda is a planet featured in The Acolyte.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "umbara",
+        "canonical": "Umbara",
+        "aliases": [
+          "Shadow World"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Umbara is a foggy planet known as the Shadow World.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "utapau",
+        "canonical": "Utapau",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Utapau is a planet covered in deep sinkholes.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "vandor",
+        "canonical": "Vandor",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vandor is the icy mountainous planet where a Crimson Dawn train heist occurs.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "vardos",
+        "canonical": "Vardos",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vardos is a listed Imperial stronghold and the Versios' homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "wayland",
+        "canonical": "Wayland",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wayland is a mountainous jungle planet used for Imperial cloning experiments.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "wobani",
+        "canonical": "Wobani",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wobani is a listed wasteland world containing an Imperial labor colony.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "wrea",
+        "canonical": "Wrea",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wrea is a planet where Saw Gerrara raises Jyn Erso.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "yavin",
+        "canonical": "Yavin",
+        "aliases": [],
+        "familiarity": 0.0085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yavin is the gas planet orbited by Yavin 4.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "yavin-4",
+        "canonical": "Yavin 4",
+        "aliases": [
+          "Yavin IV",
+          "Yavin Four"
+        ],
+        "familiarity": 0.0211,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yavin 4 is a forest moon used as a Rebel Alliance base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "zeffo",
+        "canonical": "Zeffo",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zeffo is a mountainous planet with stormy weather.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "zygerria",
+        "canonical": "Zygerria",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zygerria is an Outer Rim planet inhabited by the Zygerrian species.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "abregado-rae",
+        "canonical": "Abregado-rae",
+        "aliases": [
+          "Abregado Rae"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abregado-rae is listed among Legends planets and moons as Talon Karrde's base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ambria",
+        "canonical": "Ambria",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ambria is listed as a world where an ancient Jedi–Sith battle occurred.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "anoth",
+        "canonical": "Anoth",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anoth is a rocky planet used to hide the Solo children.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "arkania",
+        "canonical": "Arkania",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arkania is a gem-mining planet.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bakura",
+        "canonical": "Bakura",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bakura is a peaceful planet invaded by the Ssi-ruuk.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "bonadan",
+        "canonical": "Bonadan",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bonadan is a Corporate sector planet featured in Han Solo's Revenge.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "borleias",
+        "canonical": "Borleias",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Borleias is a planet used by the New Republic in its campaign to retake Coruscant.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "byss",
+        "canonical": "Byss",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Byss is the planet used as a base by a clone of Emperor Palpatine.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "carida",
+        "canonical": "Carida",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carida is listed as the planet destroyed by Kyp Durron.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "da-soocha-v",
+        "canonical": "Da Soocha V",
+        "aliases": [
+          "Da Soocha 5"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Da Soocha V is a moon in Hutt space containing a provisional Rebel base.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "drall",
+        "canonical": "Drall",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drall is a planet in the Corellian system.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dromund-kaas",
+        "canonical": "Dromund Kaas",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dromund Kaas is a jungle planet and Sith imperial capital.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "dxun",
+        "canonical": "Dxun",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dxun is the largest of Onderon's four moons.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "hapes",
+        "canonical": "Hapes",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hapes is a planet whose prince tries to marry Leia.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "honoghr",
+        "canonical": "Honoghr",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Honoghr is the homeworld of the Noghri.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ithor",
+        "canonical": "Ithor",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ithor is a forest planet and the Ithorian homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "j-t-p-tan",
+        "canonical": "J't'p'tan",
+        "aliases": [
+          "Jtptan"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J't'p'tan is a planet visited in Luke Skywalker's search for his mother's identity.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "khomm",
+        "canonical": "Khomm",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Khomm is a planet inhabited by an insular society of clones.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "kothlis",
+        "canonical": "Kothlis",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kothlis is a listed Bothan colony world housing second Death Star plans.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lehon",
+        "canonical": "Lehon",
+        "aliases": [
+          "Rakata Prime",
+          "Unknown World"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lehon is the Rakata homeworld, also called Rakata Prime or the Unknown World.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "lwhekk",
+        "canonical": "Lwhekk",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lwhekk is the home planet of the Ssi-ruuk.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "muunilinst",
+        "canonical": "Muunilinst",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Muunilinst is the Muun homeworld and Intergalactic Banking Clan capital.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "myrkr",
+        "canonical": "Myrkr",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Myrkr is a swamp planet used by Talon Karrde and Mara Jade.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "n-zoth",
+        "canonical": "N'zoth",
+        "aliases": [
+          "Nzoth"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "N'zoth is the desert home planet of the Yevetha.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "nkllon",
+        "canonical": "Nkllon",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nkllon is a barren planet where Lando Calrissian operates a mining venture.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "peragus-ii",
+        "canonical": "Peragus II",
+        "aliases": [
+          "Peragus 2",
+          "Peragus"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Peragus II is a destroyed Outer Rim planet rich in engine fuel.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "ralltiir",
+        "canonical": "Ralltiir",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralltiir is a Core world occupied by Imperial forces.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "rattatak",
+        "canonical": "Rattatak",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rattatak is an Outer Rim planet formerly home to Asajj Ventress.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "sacorria",
+        "canonical": "Sacorria",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sacorria is a planet near Corellia that attempts a coup against the New Republic.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "selonia",
+        "canonical": "Selonia",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Selonia is an ocean planet and the Selonian homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "thyferra",
+        "canonical": "Thyferra",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thyferra is a rainforest planet controlled by the Bacta Cartel.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "toprawa",
+        "canonical": "Toprawa",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toprawa is listed as the Legends world associated with the first Death Star plans.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "vortex",
+        "canonical": "Vortex",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vortex is a planet and the homeworld of the Vor.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "zonama-sekot",
+        "canonical": "Zonama Sekot",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zonama Sekot is a living, sentient world capable of space travel.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "yuuzhan-tar",
+        "canonical": "Yuuzhan'Tar",
+        "aliases": [
+          "Yuuzhan Tar",
+          "Yuuzhantar"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yuuzhan'Tar is identified as the Yuuzhan Vong homeworld.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      },
+      {
+        "id": "earth",
+        "canonical": "Earth",
+        "aliases": [
+          "Urthha"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earth appears as Urthha in a non-canonical Star Wars-related work described in the document.",
+        "sourceIds": [
+          "list-of-star-wars-planets-and-moons"
+        ]
+      }
+    ],
+    "explanation": "Star Wars worlds range from familiar film settings such as Tatooine and Hoth to locations introduced in novels, comics, games and television. Both canon and Legends worlds count; space stations such as the Death Star do not.",
+    "sources": [
+      {
+        "id": "list-of-star-wars-planets-and-moons",
+        "title": "List of Star Wars planets and moons",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Star_Wars_planets_and_moons",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29",
+    "criteria": "Named planets, moons and planetoids identified in the supplied Star Wars document count, including canon and Legends locations. Alternate names for the same world count as one answer."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ed384dac36a3e0f5",
+    "brief": "Name a planet or moon from Star Wars.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-star-wars-planets-and-moons",
+        "version": "1379184533",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Abafar": "Abafar | Star Wars: The Clone Wars | 2012 | TV series | A desert planet located in the Outer Rim with a completely white surface.",
+      "Agamar": "Agamar | Star Wars Legends: The Farlander Papers | 1993 | Novella | A barren, rocky planet in the Outer Rim.",
+      "Ahch-To": "Ahch-To | The Force Awakens | 2015 | Film | Largely oceanic planet on which Luke Skywalker has been hiding for several years",
+      "Ajan Kloss": "Ajan Kloss | Star Wars Battlefront II | 2017 | Video game | A jungle moon which serves as a new base of operations for the Resistance.",
+      "Akiva": "Akiva | Star Wars: Aftermath | 2015 | Book | Jungle planet and home of Norra and Temmin Wexley, and a primary setting in Aftermath.",
+      "Alaris Prime": "Alaris Prime | Star Wars Adventures | 2019 | Comics | A moon orbiting the planet Alaris, in the Kashyyyk system.",
+      "Alaris": "A green moon orbiting the gas giant Alaris, in the Kashyyyk system.",
+      "Alderaan": "Alderaan | A New Hope | 1977 | Film | A planet covered with forests and mountains; homeworld of Princess Leia and the House of Organa.",
+      "Aldhani": "Aldhani | Andor | 2022 | TV series | A temperate, alpine planet with highlands, valleys, forests, and lakes sacred to the indigenous Dhani people",
+      "Aleen": "Aleen | Star Wars: The Clone Wars | 2011 | TV series | A subterranean world located in the Mid Rim.",
+      "Alzoc III": "Alzoc III | Star Wars: Last Shot | 2018 | Book (mentioned) | Ice planet with many glaciers",
+      "Anaxes": "Anaxes | Star Wars: The Clone Wars | 2020 | TV series | A rocky planet located in the Azure sector of the galaxy's Core Worlds region.",
+      "Ando": "Ando | Star Wars Legends: Dark Force Rising | 1992 | Book | A water-covered planet located in the Outer Rim",
+      "Anoat": "Anoat | The Empire Strikes Back | 1980 | Film (mentioned) | Polluted; A nearly inhospitable planet used by the Empire.",
+      "Arvala-7": "Arvala-7 | The Mandalorian | 2019 | TV series | Desert planet where the Mandalorian finds Grogu.",
+      "At Achrann": "At Achrann | Star Wars: Skeleton Crew | 2024 | TV series | A planet that was one of the nine Jewels of the Old Republic.",
+      "At Acoda": "At Acoda | Star Wars: Skeleton Crew | 2024 | TV series (mentioned) | A planet that was one of the nine Jewels of the Old Republic. Later it was destroyed.",
+      "At Aravin": "At Aravin | Star Wars: Skeleton Crew | 2024 | TV series (mentioned) | A planet that was one of the nine Jewels of the Old Republic.",
+      "At Arissa": "At Arissa | Star Wars: Skeleton Crew | 2024 | TV series (mentioned) | A planet that was one of the nine Jewels of the Old Republic.",
+      "At Attin": "At Attin | Star Wars: Skeleton Crew | 2024 | TV series | A planet that was intentionally hidden and physically cut-off from the rest of the galaxy",
+      "At Aytuu": "At Aytuu | Star Wars: Skeleton Crew | 2024 | TV series (mentioned) | A planet that was one of the nine Jewels of the Old Republic.",
+      "Atollon": "Atollon | Star Wars Rebels | 2016 | TV series | Desert planet, site of Phoenix Squadron Rebel base.",
+      "Barton IV": "Barton IV | The Bad Batch | 2023 | TV series | An icy planet where the Galactic Empire maintained a supply depot.",
+      "Balnab": "Balnab | Star Wars: The Clone Wars | 2008 | TV series | A barbaric world once visited by R2-D2 and C-3PO.",
+      "Batuu": "Batuu | Thrawn: Alliances | 2018 | Book | A planet that features a remote frontier outpost and an old trading port.",
+      "Bespin": "Bespin | The Empire Strikes Back | 1980 | Film | A gas planet with a thin layer of habitable atmosphere where Cloud City was located.",
+      "Bogano": "Bogano | Star Wars Jedi: Fallen Order | 2019 | Video game | A largely uninhabited grassy planet in the Outer Rim, home to a Zeffo vault.",
+      "Bora Vio": "Bora Vio | The Bad Batch: Season 1 Episode 9 | 2021 | TV Series | Located in the Lido system, this planet has a cloudy atmosphere",
+      "Bracca": "Bracca | Star Wars Jedi: Fallen Order | 2019 | Video game | An inhospitable junkyard planet in the Mid Rim considered strategically important in the Clone Wars.",
+      "Brendok": "Brendok | The Acolyte | 2024 | TV series | A planet in the Outer Rim that is home to Osha and Mae Aniseya",
+      "Cantonica": "Cantonica | The Last Jedi | 2017 | Film | An arid planet where the resort city of Canto Bight, home of the Canto Casino and Racetrack, is located.",
+      "Castilon": "Castilon | Star Wars Resistance | 2018 | TV series | An ocean planet with no known landmasses located in the Outer Rim near Wild Space.",
+      "Cato Neimoidia": "Cato Neimoidia | Revenge of the Sith | 2005 | Film | Colony world of the Neimoidian species.",
+      "Chandrila": "Chandrila | Star Wars: Aftermath | 2015 | Book | A prominent Core world known for producing scholars and diplomats, steeped in ancient traditions.",
+      "Christophsis": "Christophsis | Star Wars: The Clone Wars | 2008 | TV series | During the Clone Wars, the Battle of Christophsis occurs here",
+      "Concord Dawn": "Concord Dawn | Star Wars: The Clone Wars | 2012 | TV series (mentioned) | Home planet of Jango Fett.",
+      "Corellia": "Corellia | Solo: A Star Wars Story | 2018 | Film | Industrial planet located in the Core of the galaxy, with a strong culture of training pilots.",
+      "Coruscant": "Coruscant | The Phantom Menace | 1999 | Film | Cosmopolitan urban world consisting of one planet-wide city.",
+      "Crait": "Crait | Leia, Princess of Alderaan | 2017 | Book | Small mineral planet located in a remote section of the galaxy",
+      "D'Qar": "D'Qar | The Force Awakens | 2015 | Film | Site of a Partisan operations base led by Saw Gerrera",
+      "Dagobah": "Dagobah | The Empire Strikes Back | 1980 | Film | Swamp planet and Yoda's residence after the fall of the Jedi and resting-place.",
+      "Daiyu": "Daiyu | Obi-Wan Kenobi | 2022 | TV series | A cityscape planet where Ben Kenobi begins his search for Leia Organa.",
+      "Dantooine": "Dantooine | A New Hope | 1977 | Film (mentioned) | Rural planet where the Rebel Alliance was formally organized and one of their first bases.",
+      "Dathomir": "Dathomir | Star Wars: The Clone Wars | 2011 | TV series | Sith world and homeworld of the Nightsisters, including the Force-sensitive Asajj Ventress.",
+      "Devaron": "Devaron | Star Wars: The Clone Wars | 2009 | TV series | Forest planet with an ancient Jedi Temple.",
+      "Dizon Fray": "Dizon Fray | Andor | 2022 | TV series (mentioned) | Outer Rim moon home of the Dizonites",
+      "Eadu": "Eadu | Rogue One | 2016 | Film | Rocky, mountainous planet beset by constant severe storms.",
+      "Endor (planet)": "Endor (planet) | Return of the Jedi | 1983 | Film | Blue gas giant with a complex planetary system, including moons like Endor and Kef Bir.",
+      "Endor (moon)": "Endor (moon) | Return of the Jedi | 1983 | Film | Forest moon that the second Death Star orbits, and home to an Imperial outpost. Inhabited by Ewoks.",
+      "Er´kit": "Er´kit | Star Wars Commander | 2014 | Video game | Desert planet located in the galaxy's Outer Rim Territories.",
+      "Eriadu": "Eriadu | Tarkin | 2014 | Book | Planet located in the galaxy's Outer Rim. Homeworld of Grand Moff Tarkin and his family.",
+      "Esseles": "Esseles | Star Wars Squadrons | 2020 | Video game | Under Imperial Control. The Empire has a listening post concealed in Esseles' icy ring.",
+      "Exegol": "Exegol | The Rise of Skywalker | 2019 | Film | A stormy planet in the galaxy's \"Unknown Regions\"",
+      "Felucia": "Felucia | Revenge of the Sith | 2005 | Film | Jungle planet teeming with plants but little animal life.",
+      "Ferrix": "Ferrix | Andor | 2022 | TV series | Desert planet with extensive scrapyard industry and known for its salvage markets.",
+      "Florrum": "Florrum | Star Wars: The Clone Wars | 2009 | TV series | Sulfurous desert planet.",
+      "Fondor": "Fondor | Star Wars Battlefront II | 2017 | Video game | Imperial manufacturing center with large shipyards. Home planet of Luthen Rael.",
+      "Geonosis": "Geonosis | Attack of the Clones | 2002 | Film | Rocky desert planet where battle droids are manufactured",
+      "Ghorman": "Ghorman | Andor | 2025 | TV series | A planet where the Ghorman Massacre, when the Empire slaughtered a crowd of peaceful protesters, occurred.",
+      "Hosnian Prime": "Hosnian Prime | The Force Awakens | 2015 | Film | Urban planet and capital of the New Republic.",
+      "Hoth": "Hoth | The Empire Strikes Back | 1980 | Film | Desolate ice planet and base for the Rebel Alliance.",
+      "Iego": "Iego | The Phantom Menace | 1999 | Film (mentioned) | An Outer Rim planet that harbors flying creatures called Xandu",
+      "Millius Prime": "Iego is surrounded by 1000 moons and at least one of these, named Millius Prime, is home to a race called the Angels.",
+      "Ilum": "Ilum | Star Wars: The Clone Wars | 2012 | TV series | Remote ice planet where kyber crystals are mined. Converted into Starkiller Base by the First Order",
+      "Iridonia": "Iridonia | Star Wars: The Clone Wars | 2011 | TV series (mentioned) | Home of the Iridonian Zabrak people and formerly rumored birthplace of Darth Maul.",
+      "Jabiim": "Jabiim | Obi-Wan Kenobi | 2022 | TV series | A desert planet site of the Path where Ben Kenobi helped people to escape from the Empire.",
+      "Jakku": "Jakku | The Force Awakens | 2015 | Film | Desert planet.",
+      "Jedha": "Jedha | Rogue One | 2016 | Film | Cold desert moon, and a sacred place for believers in the Force.",
+      "Jelucan": "Jelucan | Star Wars: Lost Stars | 2015 | Book | A rocky, mountainous planet in the Outer Rim",
+      "Jestefad": "Jestefad | Revenge of the Sith | 2005 | Film | A large gas planet that is part of the Mustafar system.",
+      "Lefrani": "Directly responsible for Mustafar's volcanic climate due to an intense gravitational tug-of-war with close by gas giant Lefrani.",
+      "Kaller": "Kaller | Star Wars: The Bad Batch | 2021 | TV series | A snowy and rocky planet that served as one of the final battles of the Clone Wars.",
+      "Kamino": "Kamino | Attack of the Clones | 2002 | Film | Ocean planet located outside the main galaxy, where cloning technology is developed and the Clone Army is created and trained.",
+      "Kashyyyk": "Kashyyyk | Revenge of the Sith | 2005 | Film | Forest planet and home of the Wookiees.",
+      "Kef Bir": "Kef Bir | The Rise of Skywalker | 2019 | Film | A moon of Endor and the location of some of the wreckage of the second Death Star",
+      "Kenari": "Kenari | Andor | 2022 | TV series | A forested planet devastated by Republic and later Imperial mining operations.",
+      "Kessel": "Kessel | Star Wars | 1977 | Film (mentioned) | A mining planet that has been fought over by crime lords for its valuable Spice.",
+      "Khofar": "Khofar | The Acolyte | 2024 | TV series | A forest planet in the Outer Rim. Home to the Wookie Jedi Master Kelnacca.",
+      "Kijimi": "Kijimi | The Rise of Skywalker | 2019 | Film | A frigid mountainous planet.",
+      "Koboh": "Koboh | Star Wars Jedi: Survivor | 2023 | Video game | A rugged planet known for its abundance of the mineral priorite.",
+      "Krownest": "Krownest | Star Wars Rebels | 2017 | TV Series | A planet in the Mandalorian sector that is the ancestral home of Clan Wren",
+      "Kuat": "Kuat | Star Wars Legends: Wedge's Gamble | 1996 | Book | Industrial planet home to Kuat Drive Yards, the manufacturer of Star Destroyers.",
+      "Lah'mu": "Lah'mu | Catalyst: A Rogue One Novel | 2016 | Book | A remote planet with black sands, where Jyn Erso and her parents go into hiding.",
+      "Lira San": "Lira San | Star Wars Rebels | 2016 | TV series | Remote homeworld of the Lasat hidden behind a treacherous nebula.",
+      "Lothal": "Lothal | Star Wars Rebels | 2014 | TV series | Remote farm planet and birthplace of Ezra Bridger.",
+      "Lotho Minor": "Lotho Minor | Star Wars: The Clone Wars | 2011 | TV series | A planetary junkyard and hiding place of Darth Maul after his presumed death.",
+      "Malachor": "In Legends it was known as Malachor V and the site of the last battle of the Mandalorian Wars.",
+      "Malastare": "Malastare | Star Wars: The Clone Wars | 2010 | TV series | Forested planet where podracing is popular.",
+      "Manaan": "Manaan | Star Wars: Aftermath | 2015 | Novel (mentioned) | Homeworld of the Selkath. The ocean planet is the only known natural source of a medical substance known as kolto",
+      "Mandalore": "Mandalore | Star Wars: The Clone Wars | 2010 | TV series | Outer Rim planet that is the homeworld of the Mandalorians",
+      "Concordia": "Mandalore has one moon, Concordia, which is fully inhabited.",
+      "Mapuzo": "Mapuzo | Obi-Wan Kenobi | 2022 | TV series | A planet desertified by Galactic Empire where Ben Kenobi and Leia Organa are hiding",
+      "Maridun": "Maridun | Star Wars: The Clone Wars | 2009 | TV series | Grassy planet remaining undiscovered until the Clone Wars.",
+      "Mimban": "Mimban | Solo: A Star Wars Story | 2018 | Film | Swamp planet with perpetual fog and overcast sky.",
+      "Mina-Rau": "Mina-Rau | Andor | 2025 | TV series | A grassy, agrarian planet covered in wheat fields spanning towards the horizon",
+      "Mon Cala": "Mon Cala | Star Wars: The Clone Wars | 2011 | TV series | Ocean planet, home to the Mon Calamari and Quarren species. Also known as Mon Calamari, or Dac.",
+      "Moraband": "Moraband | Star Wars: The Clone Wars | 2014 | TV series | Home planet of ancient Sith lords. Known as Korriban in Legends.",
+      "Mortis": "Mortis | Star Wars: The Clone Wars | 2011 | TV series | Planet existing in the spiritual realm within the Force",
+      "Mustafar": "Mustafar | Revenge of the Sith | 2005 | Film | Volcanic planet and Sith world used by the Techno Union to mine for valuable materials.",
+      "Mygeeto": "Mygeeto | Revenge of the Sith | 2005 | Film | Cold, urban planet that served as a battle site in the final days of the Clone Wars",
+      "Naboo": "Home planet of the Gungans, including Jar Jar Binks, and various humans, who compose a civilization called the Naboo, which includes Padmé Amidala and Palpatine.",
+      "Nal Hutta": "Nal Hutta | Star Wars: The Clone Wars | 2010 | TV series | Home planet of Jabba and other Hutts.",
+      "Nar Shaddaa": "Home planet of Jabba and other Hutts. Close to the urban moon of Nar Shaddaa.",
+      "Narkina 5": "Narkina 5 | Andor | 2022 | TV series | The fifth moon orbiting the gas giant Narkina",
+      "Narkina": "The fifth moon orbiting the gas giant Narkina, containing massive lakes, rocky islands, and snowy mesas.",
+      "Nevarro": "A volcanic planet with black sands and lava flows, located in the Outer Rim Territories. Nevarro was a hub of the Bounty Hunter Guild",
+      "Niamos": "Niamos | Andor | 2022 | TV series | A warm, sunny resort planet with pleasant beaches and calm waters",
+      "Numidian Prime": "Numidian Prime | Solo: A Star Wars Story | 2018 | Film | Rainforest paradise that is a haven to smugglers and thieves.",
+      "Nur": "Nur | Star Wars Jedi: Fallen Order | 2019 | Video game | A water moon of Mustafar, base of Fortress Inquisitorius",
+      "Oba Diah": "Oba Diah | Star Wars: The Clone Wars | 2014 | TV series | Location of the Pyke Syndicate's stronghold.",
+      "Observatory Moon": "Observatory Moon | Star Wars: Skeleton Crew | 2024 | TV series | A frigid moon orbiting a swirling gas giant.",
+      "Olega": "Olega | The Acolyte | 2024 | TV series | A planet where the Jedi Order operates a High Republic-era Jedi temple.",
+      "Onderon": "Onderon | Star Wars: The Clone Wars | 2012 | TV series | Jungle planet where Anakin Skywalker and his padawan Ahsoka Tano lead a revolt",
+      "Ord Mantell": "Ord Mantell | The Empire Strikes Back | 1980 | Film (mentioned as Ord Mandell) | A planet where Han Solo tells of having a run-in with a bounty hunter.",
+      "Ossus": "Ossus | The Force Awakens | 2015 | Film | A verdant planet; home of Luke Skywalker's Jedi Temple.",
+      "Pabu": "Pabu | Star Wars: The Bad Batch | 2023 | TV series | An ocean planet containing an idyllic, thriving village of refugees",
+      "Pasaana": "Pasaana | The Rise of Skywalker | 2019 | Film | A desert planet on the edge of the galaxy, home to the Aki-Aki species.",
+      "Peridea": "Peridea | Ahsoka | 2023 | TV series | A barren planet where both Ezra Bridger and Grand Admiral Thrawn were exiled",
+      "Pillio": "Pillio | Star Wars Battlefront II | 2017 | Video game | Uncolonized aquatic planet with over 3 million species",
+      "Polis Massa": "Polis Massa | Revenge of the Sith | 2005 | Film | Outer Rim planetoid within an asteroid field of the same name; birthplace of Luke Skywalker and Leia Organa.",
+      "Raada": "Raada | Ahsoka (novel) | 2016 | Book | Farming moon in the Outer Rim, where Ahsoka Tano hid under the name \"Ashla\" after Order 66.",
+      "Rishi": "Rishi | Star Wars: The Clone Wars | 2008 | TV series | Tropical planet used by the Republic to monitor the nearby cloning facility on Kamino.",
+      "Rodia": "Rodia | Star Wars: The Clone Wars | 2008 | TV series | Home planet of the Rodians, including Greedo. A remote swampy, jungle planet",
+      "Rugosa": "Rugosa | Star Wars: The Clone Wars | 2008 | TV series | A moon that consists of giant coral reefs.",
+      "Ruusan": "Ruusan | Star Wars: The Clone Wars | 2008 | TV series | Barren planet housing the Valley of the Jedi.",
+      "Ryloth": "Ryloth | Star Wars: The Clone Wars | 2009 | TV series | Dry, hot home planet of the Twi'leks",
+      "Saleucami": "Saleucami | Revenge of the Sith | 2005 | Film | Primary terrain deserts and swamps. Home of the clone trooper deserter Cut Lawquane.",
+      "Savareen": "Savareen | Solo: A Star Wars Story | 2018 | Film | Desert and ocean planet where destitute villages farm wind and refine coaxium.",
+      "Scarif": "Scarif | Rogue One | 2016 | Film | Oceanic \"paradise world\" used for construction of the Death Star",
+      "Seatos": "Seatos | Ahsoka | 2023 | TV series | A forest planet with red-leaved trees.",
+      "Serenno": "Serenno | Star Wars: The Clone Wars | 2011 | TV series | A planet in the Outer Rim Territories. Homeworld of Count Dooku.",
+      "Shili": "Shili | Star Wars: The Clone Wars | 2012 | TV series | Home planet of the Togruta",
+      "Sienar TF73": "Sienar TF73 | Andor | 2025 | TV series | Also known as Sienar or 73, it is a snowy planet owned by Sienar Fleet Systems",
+      "Sissubo": "Sissubo | Star Wars Squadrons | 2020 | Video game | Seventh Planet of the Chandrila system.",
+      "Skako Minor": "Skako Minor | Star Wars: The Clone Wars | 2020 | TV series | Home planet of Wat Tambor.",
+      "Sorgan": "Sorgan | The Mandalorian | 2019 | TV series | A forested backwater planet in the Outer Rim",
+      "Subterrel": "Subterrel | Attack of the Clones | 2002 | Film (mentioned) | Mining planet mentioned by Dexter Jettster who spent time prospecting there.",
+      "Sullust": "Sullust | Return of the Jedi | 1983 | Film (mentioned) | A volcanic planet whose atmosphere was highly toxic",
+      "Takodana": "Takodana | The Force Awakens | 2015 | Film | Forest planet and site of Maz Kanata's castle.",
+      "Tanalorr": "Tanalorr | Star Wars Jedi: Survivor | 2023 | Video game | A planet strong with the Force, hidden inside a nebula near Koboh.",
+      "Taris": "Taris | Star Wars: Aftermath | 2015 | Novel | A heavily populated urban planet, destroyed by Darth Malak's bombardment in 3956 BBY.",
+      "Tatooine": "Tatooine | A New Hope | 1977 | Film | Desert planet and childhood home of Anakin Skywalker and Luke Skywalker.",
+      "Telos": "Previously identified as Telos IV in Legends continuity, Telos is a mountainous planet in the Outer Rim",
+      "Teth": "Teth | The Clone Wars | 2008 | Film | During the Clone Wars, Jabba's son Rotta is abducted by the Separatists and brought to this planet.",
+      "Toydaria": "Toydaria | Star Wars: The Clone Wars | 2010 | TV series | Home planet of Watto and other Toydarians.",
+      "Trandosha": "Trandosha | Star Wars: The Clone Wars | 2011 | TV series | Homeworld of the Trandoshan hunters.",
+      "Ueda": "Ueda | The Acolyte | 2024 | TV Series | Planet home to a village that contained the Lomi Usqi Noodle Shop.",
+      "Umbara": "Umbara | Star Wars: The Clone Wars | 2011 | TV series | Planet with a thick, foggy atmosphere, known as the \"Shadow World\"",
+      "Utapau": "Utapau | Revenge of the Sith | 2005 | Film | Remote planet, covered in deep sinkholes and home to the Utai and Pau'ans.",
+      "Vandor": "Vandor | Solo: A Star Wars Story | 2018 | Film | Icy, mountainous planet that is the site of a Crimson Dawn train heist",
+      "Vardos": "Vardos | Star Wars Battlefront II | 2017 | Video game | Imperial stronghold and home to Iden and Garrick Versio.",
+      "Wayland": "Wayland | Star Wars: The Bad Batch | 2021 | TV series | A mountainous jungle planet where the Empire conducts cloning experiments",
+      "Wobani": "Wobani | Rogue One | 2016 | Film | A desolate wasteland and the site of an Imperial penal labor colony.",
+      "Wrea": "Wrea | Star Wars: Rebel Rising | 2017 | Book | A planet near an asteroid field where Saw Gerrara raises Jyn Erso",
+      "Yavin": "Yavin | Star Wars | 1977 | Film | Gas planet with several moons, including Yavin 4.",
+      "Yavin 4": "Yavin 4 | Star Wars | 1977 | Film | Forest moon and base for the Rebel Alliance.",
+      "Zeffo": "Zeffo | Star Wars Jedi: Fallen Order | 2019 | Video game | A planet with many mountains and stormy weather.",
+      "Zygerria": "Zygerria | Star Wars: The Clone Wars | 2011 | TV series | A planet in the Outer Rim Territories home of the Zygerrian species.",
+      "Abregado-rae": "Abregado-rae | Heir to the Empire | 1991 | Book | The base of operations for the smuggler Talon Karrde. Remains canon.",
+      "Ambria": "Ambria | Tales of the Jedi | 1991 | Comics | The site of an ancient battle between Jedi and Sith and the resting-place of Darth Bane. Remains canon.",
+      "Anoth": "Anoth | Dark Apprentice | 1994 | Book | Rocky planet used to conceal the newly born Solo children.",
+      "Arkania": "Arkania | Tales of the Jedi | 1994 | Comics | Gem mining planet with humanoid inhabitants. Remains canon.",
+      "Bakura": "Bakura | The Truce at Bakura | 1993 | Book | Peaceful planet which issues a distress call when invaded by the Ssi-ruuk.",
+      "Bonadan": "Bonadan | Han Solo's Revenge | 1979 | Book | Corporate sector planet which lures a young Han Solo into a trap. Remains canon.",
+      "Borleias": "Borleias | Rogue Squadron | 1996 | Book | Planet used as a stepping-stone for the New Republic to retake Coruscant.",
+      "Byss": "Byss | Dark Empire | 1991 | Comics | Planet chosen as the base of operations for a clone of Emperor Palpatine.",
+      "Carida": "Planet destroyed by the vengeful ex-Jedi Kyp Durron. Remains canon due to Han training there after enlisting in the Empire.",
+      "Da Soocha V": "Da Soocha V | Dark Empire | 1991 | Comics | Moon in Hutt space housing a provisional Rebel base under siege from the Palpatine clone.",
+      "Drall": "Drall | Ambush at Corellia | 1995 | Book | A planet in the Corellian system whose inhabitants, the Drall, try to keep a low profile.",
+      "Dromund Kaas": "Dromund Kaas | Star Wars Jedi Knight: Mysteries of the Sith | 1998 | Video game | A jungle planet and capital world of the Resurgent Sith Empire.",
+      "Dxun": "Dxun | Tales of the Jedi | 1993 | Comics | Largest of the four moons of Onderon.",
+      "Hapes": "Hapes | The Courtship of Princess Leia | 1994 | Book | Planet whose prince tries to marry Princess Leia. Remains canon.",
+      "Honoghr": "Honoghr | Dark Force Rising | 1992 | Book | Planet whose warrior race is recruited by Grand Admiral Thrawn. Homeworld of the Noghri race.",
+      "Ithor": "Ithor | Children of the Jedi | 1995 | Book | Forest planet inhabited by pacifists who run a tourism industry. Homeworld of the Ithorian race.",
+      "J't'p'tan": "J't'p'tan | Before the Storm | 1996 | Book | A planet where Luke Skywalker tries to learn the identity of his mother.",
+      "Khomm": "Khomm | Darksaber | 1995 | Book | Planet home to an insular society of clones. Homeworld of the Khommite race.",
+      "Kothlis": "Kothlis | Shadows of the Empire | 1996 | Book | Bothan colony with a facility housing the second Death Star's plans.",
+      "Lehon": "Lehon | Star Wars: Knights of the Old Republic | 2003 | Video game | Also known as Rakata Prime and the Unknown World ingame in Knights of the Old Republic, it is the homeworld of the Rakata species",
+      "Lwhekk": "Lwhekk | The Truce at Bakura | 1993 | Book (mentioned) | Home planet of the Ssi-ruuk military society. Remains canon.",
+      "Muunilinst": "Muunilinst | Specter of the Past | 1997 | Book | Capital of the Intergalactic Banking Clan and homeworld of the Muun race",
+      "Myrkr": "Myrkr | Heir to the Empire | 1991 | Book | Treacherous swamp planet used by Talon Karrde and Mara Jade. Remains canon.",
+      "N'zoth": "N'zoth | Before the Storm | 1996 | Book | Desert planet home to a violent and genocidal species called Yevetha. Remains canon.",
+      "Nkllon": "Nkllon | Heir to the Empire | 1991 | Book | Barren planet, home to a mining venture by Lando Calrissian.",
+      "Peragus II": "Peragus II | Star Wars Knights of the Old Republic II: The Sith Lords | 2004 | Video game | A destroyed Outer Rim planet rich in low-grade engine fuel",
+      "Ralltiir": "Ralltiir | Star Wars (radio) | 1981 | Radio drama | Core world and galactic trading centre, occupied by Imperial forces under Lord Tion.",
+      "Rattatak": "Rattatak | Star Wars: Clone Wars | 2003 | TV series | Outer Rim planet and former home to Asajj Ventress.",
+      "Sacorria": "Sacorria | Ambush at Corellia | 1995 | Book | Planet near Corellia which attempts a coup against the New Republic.",
+      "Selonia": "Selonia | Assault at Selonia | 1996 | Book | Ocean planet and the original home of many who reside on Sacorria. Homeworld of the Selonian race.",
+      "Thyferra": "Thyferra | The Bacta War | 1997 | Book | Rainforest planet controlled by the Bacta Cartel.",
+      "Toprawa": "Toprawa | Star Wars (radio) | 1981 | Radio drama | Imperial security facility and source of the first Death Star plans (supplanted by Scarif in Rogue One).",
+      "Vortex": "Vortex | Dark Apprentice | 1994 | Book | A planet disrupted by an accidental crash of Admiral Ackbar's ship. Homeworld of the Vor race.",
+      "Zonama Sekot": "Zonama Sekot | Rogue Planet | 2000 | Book | A living, sentient world capable of traveling through space",
+      "Yuuzhan'Tar": "It is the seed of Yuuzhan'Tar, the Yuuzhan Vong homeworld.",
+      "Earth": "a pair of Duros are abducted by humans and taken to \"Urthha\" (Earth), where they create havoc by misunderstanding terrestrial objects."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Carida]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

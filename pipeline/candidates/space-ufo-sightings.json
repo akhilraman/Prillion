@@ -1,0 +1,2139 @@
+{
+  "question": {
+    "id": "space-ufo-sightings",
+    "category": "space",
+    "prompt": "Name a notable reported UFO sighting or incident.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "thutmose-iii-jebel-barkal-stele",
+        "canonical": "Thutmose III Jebel Barkal Stele",
+        "aliases": [
+          "Thutmose III stele",
+          "Jebel Barkal Stele"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes this ancient Egyptian account of a star descending against Thutmose's adversaries.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ships-in-the-sky",
+        "canonical": "Ships in the sky",
+        "aliases": [
+          "218 BC ships in the sky"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Livy's account of phantom ships appearing in the winter sky.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "spark-from-a-falling-star",
+        "canonical": "Spark from a falling star",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Pliny's account of a descending spark that grew and then ascended.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "flame-like-wine-jars-from-the-sky",
+        "canonical": "Flame-like wine-jars from the sky",
+        "aliases": [
+          "Flame like wine jars from the sky"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Plutarch's account of a flame-like object falling between two armies.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "fiery-shield",
+        "canonical": "Fiery shield",
+        "aliases": [
+          "65 BC fiery shield"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Pliny's report of a fiery shield crossing the sky at sunset.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "flying-shield",
+        "canonical": "Flying shield",
+        "aliases": [
+          "AD 64 flying shield"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an ancient report of a circular shield-like object in the sky.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "burning-shields",
+        "canonical": "Burning shields",
+        "aliases": [
+          "Flaming shields"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Seneca's discussion of luminous phenomena described as burning shields.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "sky-army",
+        "canonical": "Sky army",
+        "aliases": [
+          "Josephus sky army"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Josephus's report of chariots moving through clouds before the Jewish–Roman War.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "angel-hair",
+        "canonical": "Angel hair",
+        "aliases": [
+          "AD 196 angel hair"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Cassius Dio's account of a silvery rain falling over Rome.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "air-ship-of-clonmacnoise",
+        "canonical": "Air ship of Clonmacnoise",
+        "aliases": [
+          "Airship of Clonmacnoise",
+          "Clonmacnoise airship"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Irish annal accounts of ships and their crews seen in the air.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1561-celestial-phenomenon-over-nuremberg",
+        "canonical": "1561 celestial phenomenon over Nuremberg",
+        "aliases": [
+          "Nuremberg UFO incident",
+          "Nuremberg 1561",
+          "Nuremberg celestial phenomenon"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the reported aerial battle over Nuremberg in 1561.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1566-celestial-phenomenon-over-basel",
+        "canonical": "1566 celestial phenomenon over Basel",
+        "aliases": [
+          "Basel UFO incident",
+          "Basel 1566",
+          "Basel celestial phenomenon"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Basel broadsheet's account of spherical objects appearing out of the Sun.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "gwanghaegun-period-ufo-turmoil",
+        "canonical": "Gwanghaegun period UFO Turmoil",
+        "aliases": [
+          "Gwanghaegun UFO incident",
+          "1609 Korean UFO sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes reports of a divided halo or washbowl-like object over Korea in 1609.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "bonilla-observation",
+        "canonical": "Bonilla observation",
+        "aliases": [
+          "Jose Bonilla observation",
+          "José Bonilla observation",
+          "Bonilla UFO sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes José Bonilla's photographs of dark objects crossing the Sun in 1883.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mystery-airships",
+        "canonical": "Mystery airships",
+        "aliases": [
+          "1897 airship wave",
+          "1896–1897 mystery airships",
+          "Mystery airship sightings"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the 1896–1897 American reports of strange airships and lights.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "aurora-texas-ufo-incident",
+        "canonical": "Aurora, Texas, UFO incident",
+        "aliases": [
+          "Aurora UFO incident",
+          "Aurora Texas",
+          "Aurora UFO crash"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the 1897 report of an alien-piloted airship crashing in Aurora.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mihal-grameno-ufo",
+        "canonical": "Mihal Grameno UFO",
+        "aliases": [
+          "Mihal Grameno sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Grameno's report of a shiny object hovering near Albanian fighters.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "new-zealand-airship-sightings",
+        "canonical": "New Zealand airship sightings",
+        "aliases": [
+          "1909 New Zealand airships",
+          "Otago airship sightings"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes reports of moving lights and airships across New Zealand in 1909.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "miracle-of-the-sun",
+        "canonical": "Miracle of the Sun",
+        "aliases": [
+          "Fatima miracle",
+          "Fátima miracle",
+          "Fatima UFO sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the Fátima solar phenomenon, which later writers interpreted as a mass UFO sighting.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "nicholas-roerich-ufo-sighting",
+        "canonical": "Nicholas Roerich UFO sighting",
+        "aliases": [
+          "Roerich UFO sighting",
+          "Nicholas Roerich"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Roerich's account of an oval object above his caravan in Tibet.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "frank-smythe-ufo-sighting",
+        "canonical": "Frank Smythe UFO sighting",
+        "aliases": [
+          "Frank Smythe",
+          "1933 Everest UFO sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Smythe's report of two hovering, pulsating spots during an Everest expedition.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "foo-fighters",
+        "canonical": "Foo fighters",
+        "aliases": [
+          "Foo fighter sightings",
+          "WWII foo fighters"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes wartime pilots' reports of colorful lights following their aircraft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "cape-girardeau-ufo-legend",
+        "canonical": "Cape Girardeau UFO legend",
+        "aliases": [
+          "Cape Girardeau UFO crash",
+          "Cape Girardeau incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a legend about last rites being administered to a crashed saucer's crew.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "battle-of-los-angeles",
+        "canonical": "Battle of Los Angeles",
+        "aliases": [
+          "Los Angeles UFO incident",
+          "1942 Los Angeles incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the 1942 episode in which anti-aircraft guns fired after an unidentified radar detection.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "trinity-ufo-case",
+        "canonical": "Trinity UFO Case",
+        "aliases": [
+          "Trinity UFO incident",
+          "Trinity UFO crash"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes later claims that an avocado-shaped alien craft crashed near the first atomic test site.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-ghost-rockets",
+        "canonical": "The Ghost Rockets",
+        "aliases": [
+          "Ghost rockets",
+          "1946 ghost rockets",
+          "Scandinavian ghost rockets"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes thousands of European sightings investigated by Swedish and Greek authorities.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ngelholm-ufo-memorial",
+        "canonical": "Ängelholm UFO memorial",
+        "aliases": [
+          "Angelholm UFO incident",
+          "Ängelholm UFO encounter",
+          "Gosta Carlsson encounter"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Gösta Carlsson's claimed 1946 encounter, commemorated with a monument.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kenneth-arnold-ufo-sighting",
+        "canonical": "Kenneth Arnold UFO sighting",
+        "aliases": [
+          "Kenneth Arnold",
+          "Mount Rainier sighting",
+          "Kenneth Arnold sighting"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Arnold's 1947 report that helped introduce the term flying saucers.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1947-flying-disc-craze",
+        "canonical": "1947 flying disc craze",
+        "aliases": [
+          "1947 UFO wave",
+          "1947 flying saucer wave",
+          "1947 flying disk craze"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the wave of more than 800 reports following Arnold's sighting.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "flight-105-ufo-sighting",
+        "canonical": "Flight 105 UFO sighting",
+        "aliases": [
+          "United Airlines Flight 105",
+          "Emil Smith UFO sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a United Airlines crew's report of nine unidentified objects in 1947.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "rhodes-ufo-photographs",
+        "canonical": "Rhodes UFO photographs",
+        "aliases": [
+          "William Rhodes UFO photographs",
+          "Rhodes UFO photos"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes William Albert Rhodes's photographs of a purported silent gray object.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-roswell-incident",
+        "canonical": "The Roswell Incident",
+        "aliases": [
+          "Roswell",
+          "Roswell incident",
+          "Roswell UFO crash"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the 1947 recovery first announced as a flying saucer and later attributed to Project Mogul.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "maury-island-hoax",
+        "canonical": "Maury Island hoax",
+        "aliases": [
+          "Maury Island incident",
+          "Maury Island UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes claims of debris falling from six doughnut-shaped flying objects near Maury Island.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-green-fireballs",
+        "canonical": "The Green Fireballs",
+        "aliases": [
+          "Green fireballs",
+          "New Mexico green fireballs"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes green fireball reports investigated inconclusively by the Air Force.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mantell-ufo-incident",
+        "canonical": "Mantell UFO incident",
+        "aliases": [
+          "Thomas Mantell incident",
+          "Mantell incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the fatal crash of a pilot pursuing an object later considered likely to be a weather balloon.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "aztec-new-mexico-ufo-hoax",
+        "canonical": "Aztec, New Mexico UFO hoax",
+        "aliases": [
+          "Aztec UFO incident",
+          "Aztec UFO hoax",
+          "Aztec UFO crash"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a crashed-spaceship story used by conmen selling supposed oil-detecting technology.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "chiles-whitted-ufo-encounter",
+        "canonical": "Chiles-Whitted UFO encounter",
+        "aliases": [
+          "Chiles Whitted encounter",
+          "Chiles-Whitted incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two commercial pilots' report of nearly colliding with a wingless object.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "gorman-dogfight",
+        "canonical": "Gorman dogfight",
+        "aliases": [
+          "Gorman UFO incident",
+          "Fargo UFO dogfight"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an Air Force pilot's 27-minute pursuit of a UFO over Fargo.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mount-palomar-sightings",
+        "canonical": "Mount Palomar sightings",
+        "aliases": [
+          "Palomar UFO sightings",
+          "1949 Mount Palomar sightings"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes astronomers' sightings of shiny objects accompanied by unusual Geiger-counter readings.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "farmington-new-mexico-ufos",
+        "canonical": "Farmington New Mexico UFOs",
+        "aliases": [
+          "Farmington UFO sightings",
+          "Farmington UFO incident"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes approximately 50 to 100 sightings at Farmington in March 1950.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mcminnville-ufo-photographs",
+        "canonical": "McMinnville UFO photographs",
+        "aliases": [
+          "McMinnville UFO photos",
+          "McMinnville sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes photographs of a purported flying saucer taken near McMinnville in 1950.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "mariana-ufo-incident",
+        "canonical": "Mariana UFO incident",
+        "aliases": [
+          "Mariana UFO film",
+          "Great Falls UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes color film of two purported UFOs over Great Falls.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "sioux-city-mystery-plane-incident",
+        "canonical": "Sioux City mystery plane incident",
+        "aliases": [
+          "Sioux City UFO incident",
+          "Sioux City mystery plane"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a commercial aircraft crew's report of an unusually large and maneuverable unidentified plane.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "lubbock-lights",
+        "canonical": "Lubbock Lights",
+        "aliases": [
+          "Lubbock UFO sightings"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes repeated sightings and photographs of V-shaped light formations over Lubbock.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "wonsan-sunchon-ufo-incident",
+        "canonical": "Wonsan-Sunchon UFO incident",
+        "aliases": [
+          "Wonsan Sunchon incident",
+          "Wonsan-Sunchon sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes military aircrews' reports of an orange globe-shaped light over northern Korea.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1952-washington-d-c-ufo-incident",
+        "canonical": "1952 Washington, D.C., UFO incident",
+        "aliases": [
+          "Washington DC UFO incident",
+          "1952 Washington UFO sightings",
+          "Washington UFO flap"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes visual sightings and radar contacts around Washington in July 1952.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "nash-fortenberry-ufo-sighting",
+        "canonical": "Nash-Fortenberry UFO sighting",
+        "aliases": [
+          "Nash Fortenberry sighting",
+          "Nash-Fortenberry incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two airline pilots' report of eight round, glowing red objects near Norfolk.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-flatwoods-monster",
+        "canonical": "The Flatwoods Monster",
+        "aliases": [
+          "Flatwoods Monster",
+          "Flatwoods incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an alleged creature encounter after children followed a bright object into the woods.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "marius-dewilde-sighting",
+        "canonical": "Marius Dewilde sighting",
+        "aliases": [
+          "Marius Dewilde",
+          "Quarouble UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Dewilde's claim that small humanoids landed a craft near his home.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "fiorentina-stadium-mass-sighting",
+        "canonical": "Fiorentina Stadium mass sighting",
+        "aliases": [
+          "Florence stadium UFO sighting",
+          "Fiorentina UFO sighting",
+          "Stadio Artemio Franchi UFO sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a reported UFO appearance witnessed by a football stadium crowd in Florence.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kelly-hopkinsville-encounter",
+        "canonical": "Kelly–Hopkinsville encounter",
+        "aliases": [
+          "Kelly-Hopkinsville encounter",
+          "Hopkinsville encounter",
+          "Kelly Hopkinsville incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a farmhouse group's reports of creatures and the ensuing police investigation.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "lakenheath-bentwaters-incident",
+        "canonical": "Lakenheath-Bentwaters incident",
+        "aliases": [
+          "Lakenheath Bentwaters incident",
+          "1956 Lakenheath incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes radar detections and a pilot's reported luminous-object encounter over Suffolk.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "elizabeth-klarer",
+        "canonical": "Elizabeth Klarer",
+        "aliases": [
+          "Elizabeth Klarer UFO encounter",
+          "Klarer UFO photographs"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Klarer's UFO photographs and claims of encounters with an alien race.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "gordon-cooper-ufo-sightings",
+        "canonical": "Gordon Cooper UFO Sightings",
+        "aliases": [
+          "Gordon Cooper UFO incident",
+          "Gordon Cooper",
+          "Edwards Air Force Base UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Cooper's account of a camera crew observing a wingless craft at Edwards Air Force Base.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "milton-torres-1957-ufo-encounter",
+        "canonical": "Milton Torres 1957 UFO Encounter",
+        "aliases": [
+          "Milton Torres encounter",
+          "Milton Torres UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Torres's report of being ordered to intercept and fire on an unidentified object.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ant-nio-vilas-boas-abduction",
+        "canonical": "Antônio Vilas-Boas Abduction",
+        "aliases": [
+          "Antonio Vilas-Boas abduction",
+          "Antonio Villas Boas",
+          "Vilas-Boas abduction"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Vilas-Boas's claim of abduction by humanoids aboard an egg-shaped craft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "levelland-ufo-case",
+        "canonical": "Levelland UFO case",
+        "aliases": [
+          "Levelland incident",
+          "Levelland UFO sightings"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes drivers' reports of cigar-shaped lights accompanied by electrical failures.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kirtland-afb-ufo-sighting",
+        "canonical": "Kirtland AFB UFO sighting",
+        "aliases": [
+          "Kirtland UFO incident",
+          "Kirtland Air Force Base sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes tower operators' report of an egg-shaped object emitting white light.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "eagle-river-encounter",
+        "canonical": "Eagle River encounter",
+        "aliases": [
+          "Joe Simonton encounter",
+          "Eagle River UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Joe Simonton's claim that occupants of a landed craft exchanged pancakes for water.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "betty-and-barney-hill-abduction",
+        "canonical": "Betty and Barney Hill abduction",
+        "aliases": [
+          "Hill abduction",
+          "Betty and Barney Hill",
+          "Barney and Betty Hill abduction"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the Hills' widely publicized account of alien abduction in New Hampshire.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kallamishtez-ufo-incident",
+        "canonical": "Kallamishtez UFO incident",
+        "aliases": [
+          "Kallamishtëz UFO incident",
+          "Kallamishtez sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an Albanian bright-object report that authorities attributed to a new jet.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "lonnie-zamora-incident",
+        "canonical": "Lonnie Zamora incident",
+        "aliases": [
+          "Lonnie Zamora",
+          "Socorro UFO incident",
+          "Socorro sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a police officer's report of a craft taking off and leaving ground impressions.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "solway-firth-spaceman",
+        "canonical": "Solway Firth Spaceman",
+        "aliases": [
+          "Solway spaceman",
+          "Jim Templeton photograph"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a photograph interpreted as showing a spaceman, later considered likely to show the photographer's wife.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "big-sur-ufo",
+        "canonical": "Big Sur UFO",
+        "aliases": [
+          "Big Sur UFO incident",
+          "1964 Big Sur incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a missile-test filming claim later described by the project engineer as decoy-warhead deployment.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "dwikora-operation-ufo-incident",
+        "canonical": "Dwikora Operation UFO incident",
+        "aliases": [
+          "Dwikora UFO incident",
+          "Surabaya UFO incident"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Jacob Salatun's account of pilots firing at a mango-shaped craft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "project-gemini-ufo",
+        "canonical": "Project Gemini UFO",
+        "aliases": [
+          "Gemini 4 UFO sighting",
+          "James McDivitt UFO sighting",
+          "Gemini UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes astronaut James McDivitt's sighting of a white cylinder during Gemini 4.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-incident-at-exeter",
+        "canonical": "The Incident at Exeter",
+        "aliases": [
+          "Exeter incident",
+          "Exeter UFO sighting",
+          "Incident at Exeter"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes numerous reports of pulsating UFOs in Exeter in 1965.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "the-valensole-ufo-incident",
+        "canonical": "The Valensole UFO incident",
+        "aliases": [
+          "Valensole incident",
+          "Maurice Masse encounter",
+          "Maurice Massé encounter"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a farmer's account of a spherical vehicle and two beings in his lavender field.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kecksburg-ufo-incident",
+        "canonical": "Kecksburg UFO incident",
+        "aliases": [
+          "Kecksburg",
+          "Kecksburg UFO crash"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes fireball reports and claims that an acorn-shaped object was found near Kecksburg.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "michigan-swamp-gas-ufo-reports",
+        "canonical": "Michigan \"swamp gas\" UFO reports",
+        "aliases": [
+          "Michigan swamp gas incident",
+          "1966 Michigan UFO sightings",
+          "Dexter Hillsdale sightings"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two Michigan mass sightings dismissed at a press conference as marsh gas.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "westall-ufo",
+        "canonical": "Westall UFO",
+        "aliases": [
+          "Westall incident",
+          "Westall UFO sighting",
+          "Westall school sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes hundreds of students and staff reporting an object landing near Westall High School.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "lead-masks-case",
+        "canonical": "Lead masks case",
+        "aliases": [
+          "Lead masks incident",
+          "Lead mask deaths"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the deaths of two men said to belong to a group attempting extraterrestrial contact.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "malmstrom-ufo-incident",
+        "canonical": "Malmstrom UFO incident",
+        "aliases": [
+          "Malmstrom incident",
+          "Malmstrom missile incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Robert Salas's claim linking a missile-facility malfunction to a UFO report.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "falcon-lake-incident",
+        "canonical": "Falcon Lake Incident",
+        "aliases": [
+          "Falcon Lake UFO incident",
+          "Stefan Michalak encounter"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a prospector's claim that a UFO encounter caused unusual burns.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "close-encounter-of-cussac",
+        "canonical": "Close encounter of Cussac",
+        "aliases": [
+          "Cussac encounter",
+          "Cussac UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two children's report of a brilliant sphere and four small occupants near Cussac.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1967-british-flying-saucer-hoax",
+        "canonical": "1967 British flying saucer hoax",
+        "aliases": [
+          "British flying saucer hoax",
+          "1967 flying saucer hoax"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes six fake saucers constructed by Royal Aircraft Establishment apprentices.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "shag-harbour-ufo-incident",
+        "canonical": "Shag Harbour UFO incident",
+        "aliases": [
+          "Shag Harbour",
+          "Shag Harbor UFO incident",
+          "Shag Harbour crash"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes reports of an illuminated object crashing into the water near Shag Harbour.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "jimmy-carter-ufo-incident",
+        "canonical": "Jimmy Carter UFO incident",
+        "aliases": [
+          "Jimmy Carter sighting",
+          "Carter UFO sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Jimmy Carter's written report of a luminous light over Leary, Georgia.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "finnish-air-force-sighting",
+        "canonical": "Finnish Air Force sighting",
+        "aliases": [
+          "Pori UFO sighting",
+          "1969 Finnish Air Force sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Finnish pilot's account of discs accelerating in formation against the wind.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "labor-day-1969-ufo-incident",
+        "canonical": "Labor Day 1969 UFO Incident",
+        "aliases": [
+          "Berkshire UFO incident",
+          "Berkshires UFO incident",
+          "1969 Berkshire UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes four families' accounts of seeing a UFO and losing several hours of time.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "pudasj-rvi-sighting",
+        "canonical": "Pudasjärvi sighting",
+        "aliases": [
+          "Pudasjarvi sighting",
+          "Pudasjärvi UFO incident"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes reports of multiple bright flying lights seen by a taxi driver and passengers.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "pascagoula-abduction",
+        "canonical": "Pascagoula Abduction",
+        "aliases": [
+          "Pascagoula incident",
+          "Hickson and Parker abduction"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two fishermen's claim that humanoids took them aboard a craft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "berwyn-mountain-ufo-incident",
+        "canonical": "Berwyn Mountain UFO incident",
+        "aliases": [
+          "Berwyn Mountains incident",
+          "Berwyn UFO crash"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an alleged crash involving lights and an impact shock attributed to an earthquake.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "john-lennon-ufo-incident",
+        "canonical": "John Lennon UFO incident",
+        "aliases": [
+          "John Lennon sighting",
+          "Lennon UFO sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes John Lennon and May Pang's report of a light-emitting craft over Manhattan.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "north-hudson-park-ufo-sightings",
+        "canonical": "North Hudson Park UFO sightings",
+        "aliases": [
+          "North Hudson Park incident",
+          "North Bergen UFO sighting",
+          "George O'Barski sighting"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes George O'Barski's report of a dark object with illuminated windows near North Hudson Park.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "travis-walton",
+        "canonical": "Travis Walton",
+        "aliases": [
+          "Travis Walton abduction",
+          "Walton abduction",
+          "Fire in the Sky incident"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Walton's claim that he spent his unexplained disappearance aboard a spacecraft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1976-tehran-ufo-incident",
+        "canonical": "1976 Tehran UFO incident",
+        "aliases": [
+          "Tehran UFO incident",
+          "Tehran 1976"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Iranian interceptors' reports of instrument and communication failures while approaching a UFO.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "petrozavodsk-phenomenon",
+        "canonical": "Petrozavodsk phenomenon",
+        "aliases": [
+          "Petrozavodsk incident",
+          "Petrozavodsk UFO sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a glowing jellyfish-like light later attributed to a secret satellite launch.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "opera-o-prato",
+        "canonical": "Operação Prato",
+        "aliases": [
+          "Operacao Prato",
+          "Operation Saucer",
+          "Colares UFO incident",
+          "Chupa Chupa"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes the Brazilian military investigation of aerial lights that residents blamed for bodily scars.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "emilcin-abduction",
+        "canonical": "Emilcin Abduction",
+        "aliases": [
+          "Emilcin incident",
+          "Jan Wolski abduction"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Polish farmer's account of entering a white flying object with humanoid beings.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "valentich-disappearance",
+        "canonical": "Valentich disappearance",
+        "aliases": [
+          "Frederick Valentich disappearance",
+          "Valentich UFO incident",
+          "Frederick Valentich"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a pilot's disappearance after he reported a strange craft hovering above his aircraft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "zanfretta-ufo-incident",
+        "canonical": "Zanfretta UFO Incident",
+        "aliases": [
+          "Zanfretta encounter",
+          "Pier Fortunato Zanfretta"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an Italian nightwatchman's report of a red object and attacking non-human creatures.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "kaikoura-lights",
+        "canonical": "Kaikoura lights",
+        "aliases": [
+          "Kaikōura lights",
+          "Kaikoura UFO sightings"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes aircraft sightings and television footage of lights above New Zealand's Kaikōura Ranges.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "val-johnson-incident",
+        "canonical": "Val Johnson incident",
+        "aliases": [
+          "Val Johnson UFO incident",
+          "Val Johnson encounter"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a sheriff's attribution of injuries and vehicle damage to a beam of light.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "robert-taylor-incident",
+        "canonical": "Robert Taylor incident",
+        "aliases": [
+          "Robert Taylor encounter",
+          "Dechmont Law incident",
+          "Livingston UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a forestry worker's account of a flying dome and floating spheres near Dechmont Law.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "manises-ufo-incident",
+        "canonical": "Manises UFO incident",
+        "aliases": [
+          "Manises incident",
+          "1979 Manises UFO sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a commercial pilot's emergency landing after reporting approaching red lights.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "arequipa-ufo-incident",
+        "canonical": "Arequipa UFO incident",
+        "aliases": [
+          "La Joya UFO incident",
+          "Oscar Santa Maria Huertas encounter",
+          "Arequipa incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Peruvian fighter pilot's account of firing at an unidentified object without apparent effect.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "rendlesham-forest-incident",
+        "canonical": "Rendlesham Forest incident",
+        "aliases": [
+          "Rendlesham",
+          "Rendlesham Forest",
+          "Rendlesham UFO incident"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes American airmen's reports of lights and a metallic triangular object near English air bases.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "cash-landrum-incident",
+        "canonical": "Cash–Landrum incident",
+        "aliases": [
+          "Cash-Landrum incident",
+          "Cash Landrum encounter",
+          "Betty Cash and Victoria Landrum"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes two women's claim that a diamond-shaped UFO caused symptoms underlying an unsuccessful lawsuit.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "trans-en-provence-case",
+        "canonical": "Trans-en-Provence case",
+        "aliases": [
+          "Trans en Provence incident",
+          "Trans-en-Provence UFO incident",
+          "Renato Nicolai sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a reported landing investigated by the French Space Agency's UFO research group.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "hudson-valley-sightings",
+        "canonical": "Hudson Valley Sightings",
+        "aliases": [
+          "Hudson Valley UFO sightings",
+          "Hudson Valley UFO wave"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes widespread massive-object reports that state police attributed to aircraft flying in formation.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "night-of-the-ufos-in-brazil",
+        "canonical": "\"Night of the UFOs\" in Brazil",
+        "aliases": [
+          "Night of the UFOs",
+          "Brazilian Night of the UFOs",
+          "1986 Brazil UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes visual and radar contacts across Brazilian states followed by unsuccessful fighter interceptions.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "japan-air-lines-cargo-flight-1628-incident",
+        "canonical": "Japan Air Lines Cargo Flight 1628 incident",
+        "aliases": [
+          "JAL 1628",
+          "Japan Airlines Flight 1628",
+          "Flight 1628 UFO incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Japanese cargo crew's reports of unidentified objects over Alaska.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ilkley-moor-ufo-incident",
+        "canonical": "Ilkley Moor UFO incident",
+        "aliases": [
+          "Ilkley Moor incident",
+          "Philip Spencer sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a retired police officer's photograph and account of a being leaving in a domed craft.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "gulf-breeze-ufo-incident",
+        "canonical": "Gulf Breeze UFO incident",
+        "aliases": [
+          "Gulf Breeze sightings",
+          "Gulf Breeze UFO photographs",
+          "Ed Walters UFO photographs"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes spacecraft photographs later nearly duplicated using a model found in the photographer's former home.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "voronezh-ufo-incident",
+        "canonical": "Voronezh UFO incident",
+        "aliases": [
+          "Voronezh incident",
+          "Voronezh UFO landing"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Soviet news agency's account of children's claims about a landed object and a three-eyed creature.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "calvine-ufo",
+        "canonical": "Calvine UFO",
+        "aliases": [
+          "Calvine incident",
+          "Calvine UFO photograph",
+          "Calvine sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a photographed unidentified object near Calvine in 1990.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "1994-michigan-ufo-event",
+        "canonical": "1994 Michigan UFO event",
+        "aliases": [
+          "1994 Michigan UFO incident",
+          "1994 Michigan sightings",
+          "Western Michigan UFO event"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes hundreds of reports of flickering lights and unusual weather-service radar detections.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ariel-school-ufo-incident",
+        "canonical": "Ariel School UFO incident",
+        "aliases": [
+          "Ariel School",
+          "Ariel School sighting",
+          "Ruwa UFO incident",
+          "Zimbabwe school UFO incident"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes more than sixty students' reports of a silver craft and occupants near their school.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "varginha-ufo-incident",
+        "canonical": "Varginha UFO incident",
+        "aliases": [
+          "Varginha",
+          "Varginha incident",
+          "Varginha alien incident"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Brazilian reports involving UFOs, creatures, and military activity in 1996.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "phoenix-lights",
+        "canonical": "Phoenix Lights",
+        "aliases": [
+          "Phoenix UFO lights",
+          "1997 Phoenix Lights"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes photographs of V-pattern lights moving through Arizona in 1997.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "bonsall-ufo-sighting",
+        "canonical": "Bonsall UFO sighting",
+        "aliases": [
+          "Bonsall UFO",
+          "Sharon Rowlands UFO video"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a resident's film of a luminous object and other reports of strange lights over Bonsall.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2004-mexican-ufo-incident",
+        "canonical": "2004 Mexican UFO incident",
+        "aliases": [
+          "Campeche UFO incident",
+          "Mexican Air Force UFO video",
+          "2004 Mexico UFO sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes infrared footage of lights subsequently identified as offshore oil-platform flares.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "tinley-park-lights",
+        "canonical": "Tinley Park Lights",
+        "aliases": [
+          "Tinley Park UFO sightings",
+          "Tinley Park UFO incident"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a formation of red lights watched and recorded by thousands near Chicago on Halloween.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "uss-nimitz-ufo-incident",
+        "canonical": "USS Nimitz UFO incident",
+        "aliases": [
+          "Nimitz UFO incident",
+          "USS Nimitz encounter",
+          "Nimitz encounter"
+        ],
+        "familiarity": 0.0288,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Navy pilots' visual encounter and infrared recording of an unidentified object off San Diego.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2006-o-hare-international-airport-ufo-sighting",
+        "canonical": "2006 O'Hare International Airport UFO sighting",
+        "aliases": [
+          "O'Hare UFO incident",
+          "Chicago O'Hare UFO sighting",
+          "Ohare UFO sighting"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes airport employees' and pilots' reports of a saucer-shaped object over an O'Hare terminal.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2007-alderney-ufo-sighting",
+        "canonical": "2007 Alderney UFO sighting",
+        "aliases": [
+          "Alderney UFO sighting",
+          "Alderney incident",
+          "Ray Bowyer sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes pilots' and passengers' reports of a sunlight-colored object near Alderney.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "dudley-dorito",
+        "canonical": "Dudley Dorito",
+        "aliases": [
+          "Dudley Dorito sightings",
+          "Dudley triangle sightings"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a series of black-triangle sightings in England's West Midlands.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "wales-ufo-sightings",
+        "canonical": "Wales UFO sightings",
+        "aliases": [
+          "2008 Wales UFO sightings",
+          "South Wales police helicopter UFO incident",
+          "Bristol Channel UFO incident"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a police helicopter crew's report of taking evasive action to avoid a saucer-shaped object.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "morristown-ufo-hoax",
+        "canonical": "Morristown UFO hoax",
+        "aliases": [
+          "Morristown UFO incident",
+          "Morristown lights"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes red-light sightings that two local men later said they organized as a social experiment.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2009-norwegian-spiral-anomaly",
+        "canonical": "2009 Norwegian spiral anomaly",
+        "aliases": [
+          "Norwegian spiral",
+          "Norway spiral",
+          "2009 Norway spiral"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a large spiral light caused by a failed Russian missile test.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "harbour-mille-incident",
+        "canonical": "Harbour Mille incident",
+        "aliases": [
+          "Harbour Mille UFO sighting",
+          "Harbor Mille incident"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes reports of at least three silent, missile-like objects over Harbour Mille.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "hangzhou-airport-ufo",
+        "canonical": "Hangzhou Airport UFO",
+        "aliases": [
+          "Hangzhou UFO incident",
+          "Xiaoshan Airport UFO incident",
+          "Hangzhou airport sighting"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a reported unidentified object that prompted an hour-long airport shutdown.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "uss-theodore-roosevelt-ufo-incidents",
+        "canonical": "USS Theodore Roosevelt UFO incidents",
+        "aliases": [
+          "Theodore Roosevelt UFO incidents",
+          "USS Roosevelt UFO sightings",
+          "Roosevelt UAP encounters"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes Navy pilots' radar observations and footage of unexplained objects near the East Coast.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "jetpack-man",
+        "canonical": "Jetpack man",
+        "aliases": [
+          "Los Angeles jetpack man",
+          "LA jetpack man",
+          "Jet pack man"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes pilots' reports of an apparent jetpack wearer that investigators considered more likely a balloon or drone-mounted dummy.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "list-of-high-altitude-object-events-in-2023",
+        "canonical": "List of high-altitude object events in 2023",
+        "aliases": [
+          "2023 high-altitude object events",
+          "2023 high altitude object incidents",
+          "2023 airborne object shootdowns"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a series of airborne-object events, some reported as UFOs and many identified as balloons.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ukrainian-military-cigar-shaped-uap-observation",
+        "canonical": "Ukrainian military cigar-shaped UAP observation",
+        "aliases": [
+          "2023 Ukrainian cigar-shaped UAP",
+          "2023 Ukraine cigar UAP observation"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Ukrainian military report of a vertical cigar-shaped object recorded by a Bayraktar drone.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2024-us-air-base-drone-incursions-in-the-united-kingdom",
+        "canonical": "2024 US air base drone incursions in the United Kingdom",
+        "aliases": [
+          "2024 UK US air base drone incursions",
+          "2024 RAF base drone incursions"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes unauthorized drone reports near four American-used air bases in the United Kingdom.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "2024-united-states-drone-sightings",
+        "canonical": "2024 United States drone sightings",
+        "aliases": [
+          "2024 New Jersey drone sightings",
+          "New Jersey drones",
+          "2024 US drone sightings"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes thousands of reports of lights commonly called drones over New Jersey and other states.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "aaro-middle-east-2022-mq-9-orb-video",
+        "canonical": "AARO Middle East 2022 MQ-9 orb video",
+        "aliases": [
+          "Middle East MQ-9 orb video",
+          "2022 Middle East orb video",
+          "AARO Middle East orb"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an infrared clip of a small metallic orb presented at a Senate hearing.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "nasa-public-meeting-western-u-s-objects-video",
+        "canonical": "NASA public meeting Western U.S. objects video",
+        "aliases": [
+          "Western U.S. Objects video",
+          "Western US Objects",
+          "NASA Western US objects video"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a clip shown at NASA's public UAP meeting whose targets were resolved as three distant airliners.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ukrainian-military-disc-or-cigar-shaped-uap-observation",
+        "canonical": "Ukrainian military disc or cigar-shaped UAP observation",
+        "aliases": [
+          "2024 Ukrainian disc or cigar UAP",
+          "2024 Ukraine stationary UAP observation"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Ukrainian military report of a stationary disc- or cigar-shaped object.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ukrainian-military-wedge-shaped-uap-formation",
+        "canonical": "Ukrainian military wedge-shaped UAP formation",
+        "aliases": [
+          "Ukraine wedge-shaped UAP formation",
+          "2024 Ukrainian wedge UAP formation"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a Ukrainian military report describing a formation of five spherical objects.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ukrainian-military-spherical-uap-formation",
+        "canonical": "Ukrainian military spherical UAP formation",
+        "aliases": [
+          "26 March 2024 Ukrainian UAP formation",
+          "Ukraine four-sphere UAP formation"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a March 26 report of four spherical objects over the Ukrainian war zone.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "ukrainian-military-in-line-spherical-uap-formation",
+        "canonical": "Ukrainian military in-line spherical UAP formation",
+        "aliases": [
+          "Ukraine in-line UAP formation",
+          "28 March 2024 Ukrainian UAP formation"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes a March 28 report of four spherical objects flying in line.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "yemen-orb-missile-engagement-video",
+        "canonical": "Yemen orb missile engagement video",
+        "aliases": [
+          "Yemen orb video",
+          "Yemen Hellfire orb video"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes footage presented at a House hearing as showing a missile striking an apparently unaffected bright orb.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      },
+      {
+        "id": "campo-largo-case",
+        "canonical": "Campo Largo case",
+        "aliases": [
+          "Campo Largo UFO incident",
+          "Campo Largo lights"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list includes an influencer's videos and reports of unusual lights and sounds at a Brazilian farm.",
+        "sourceIds": [
+          "list-of-reported-ufo-sightings"
+        ]
+      }
+    ],
+    "explanation": "UFO means unidentified flying object, not necessarily an extraterrestrial spacecraft. These reports span ancient accounts, alleged encounters, military observations, photographic claims, and hoaxes. Many have subsequently been attributed to ordinary objects or natural phenomena.",
+    "sources": [
+      {
+        "id": "list-of-reported-ufo-sightings",
+        "title": "List of reported UFO sightings",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29",
+    "criteria": "A named, documented UFO or UAP sighting, encounter, alleged abduction, or related incident; reports later explained or exposed as hoaxes also count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "5a3b36d2c81d3466",
+    "brief": "Name a famous reported UFO sighting or incident.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-reported-ufo-sightings",
+        "version": "1382621956",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Thutmose III Jebel Barkal Stele": "c. 1450 BC | Thutmose III Jebel Barkal Stele | AfricaAncient Egypt; Jebel Barkal, Lower Egypt",
+      "Ships in the sky": "218 BC | Ships in the sky | EuropeRoman Republic; Italia",
+      "Spark from a falling star": "76 BC | Spark from a falling star | AsiaRoman Republic; Asia",
+      "Flame-like wine-jars from the sky": "73 BC | Flame-like wine-jars from the sky | AsiaRoman Republic; Phrygia, Asia",
+      "Fiery shield": "65 BC | Fiery shield | EuropeRoman Republic; Italia",
+      "Flying shield": "AD 64 | Flying shield | EuropeRoman Republic; Italia",
+      "Burning shields": "AD 65 | Burning shields | EuropeRoman Empire; Italia",
+      "Sky army": "AD 65 | Sky army | AsiaRoman Empire; Judaea",
+      "Angel hair": "AD 196 | Angel hair | EuropeRoman Empire; Rome, Italia",
+      "Air ship of Clonmacnoise": "AD c. 740 | Air ship of Clonmacnoise | EuropeIreland; Teltown in County Meath, and Clonmacnoise in County Offaly",
+      "1561 celestial phenomenon over Nuremberg": "1561-04-14 | 1561 celestial phenomenon over Nuremberg | EuropeHoly Roman Empire; Nuremberg, Bavaria",
+      "1566 celestial phenomenon over Basel": "1566-08-07 | 1566 celestial phenomenon over Basel | EuropeSwitzerland; Basel, Basel",
+      "Gwanghaegun period UFO Turmoil": "1609-09-22 | Gwanghaegun period UFO Turmoil | AsiaJoseon (Korea); Gangwon Province",
+      "Bonilla observation": "1883-08-12 | Bonilla observation | North AmericaMexico; Zacatecas Observatory, Zacatecas",
+      "Mystery airships": "1896-11-17 to 1897-04-23 | Mystery airships | North AmericaUnited States",
+      "Aurora, Texas, UFO incident": "1897-04-17 | Aurora, Texas, UFO incident | North AmericaUnited States; Aurora, Texas",
+      "Mihal Grameno UFO": "1907 | Mihal Grameno UFO | EuropeOttoman Empire; Albania",
+      "New Zealand airship sightings": "1909 | New Zealand airship sightings | OceaniaNew Zealand; Otago",
+      "Miracle of the Sun": "1917-08-13, 1917-09-13, 1917-10-13 | Miracle of the Sun | EuropePortugal; Fátima, Santarém District",
+      "Nicholas Roerich UFO sighting": "1926 c. 1926 | Nicholas Roerich UFO sighting | AsiaTibet",
+      "Frank Smythe UFO sighting": "1933-06-01 | Frank Smythe UFO sighting | AsiaChina–Nepal border; Mount Everest in the Himalayas",
+      "Foo fighters": "1940s c. 1940s | Foo fighters | Over World War II theaters",
+      "Cape Girardeau UFO legend": "1941 c. 1941 | Cape Girardeau UFO legend | North AmericaUnited States; Cape Girardeau, Missouri",
+      "Battle of Los Angeles": "1942-02-24 | Battle of Los Angeles | North AmericaUnited States; Los Angeles, California",
+      "Trinity UFO Case": "1945 | Trinity UFO Case | North AmericaUnited States; New Mexico",
+      "The Ghost Rockets": "1946 | The Ghost Rockets | EuropeScandinavia and other parts of Europe",
+      "Ängelholm UFO memorial": "1946-05-18 | Ängelholm UFO memorial | EuropeSweden; Ängelholm, Kristianstads County",
+      "Kenneth Arnold UFO sighting": "1947-06-24 | Kenneth Arnold UFO sighting | North AmericaUnited States; North of Mount Rainier, Washington",
+      "1947 flying disc craze": "1947 c. 1947 | 1947 flying disc craze | North AmericaUnited States; Washington and other states",
+      "Flight 105 UFO sighting": "1947-07-04 | Flight 105 UFO sighting | North AmericaUnited States; En route from Boise, Idaho to Pendleton, Oregon",
+      "Rhodes UFO photographs": "1947-07-07 | Rhodes UFO photographs | North AmericaUnited States; Phoenix, Arizona",
+      "The Roswell Incident": "1947-07-08 | The Roswell Incident | North AmericaUnited States; about 30 mi. north of Roswell, New Mexico",
+      "Maury Island hoax": "1947-07-29 | Maury Island hoax | North AmericaUnited States; Puget Sound near Maury Island, Washington",
+      "The Green Fireballs": "1948 c. 1948 | The Green Fireballs | North AmericaUnited States; New Mexico and other parts of the Southwestern United States",
+      "Mantell UFO incident": "1948-01-07 | Mantell UFO incident | North AmericaUnited States; Kentucky",
+      "Aztec, New Mexico UFO hoax": "1948-03-25 | Aztec, New Mexico UFO hoax | North AmericaUnited States; New Mexico",
+      "Chiles-Whitted UFO encounter": "1948-07-24 | Chiles-Whitted UFO encounter | North AmericaUnited States; Montgomery, Alabama",
+      "Gorman dogfight": "1948-10-01 | Gorman dogfight | North AmericaUnited States; North Dakota",
+      "Mount Palomar sightings": "1949-10-14 | Mount Palomar sightings | North America United States; Mount Palomar observatory",
+      "Farmington New Mexico UFOs": "1950-03-15 to 1950-03-18 | Farmington New Mexico UFOs | Farmington, New Mexico",
+      "McMinnville UFO photographs": "1950-05-11 | McMinnville UFO photographs | North AmericaUnited States; a farm near McMinnville, Oregon",
+      "Mariana UFO incident": "1950-08-15 | Mariana UFO incident | North AmericaUnited States; Great Falls, Montana",
+      "Sioux City mystery plane incident": "1951-01-20 | Sioux City mystery plane incident | North AmericaUnited States; Sioux City, Iowa",
+      "Lubbock Lights": "1951-08-25 | Lubbock Lights | North AmericaUnited States; Lubbock, Texas",
+      "Wonsan-Sunchon UFO incident": "1952-01-29 | Wonsan-Sunchon UFO incident | AsiaKorea; Wonsan and Sunchon",
+      "1952 Washington, D.C., UFO incident": "1952-07-12 to 1952-07-29 | 1952 Washington, D.C., UFO incident | North AmericaUnited States; Washington, D.C.",
+      "Nash-Fortenberry UFO sighting": "1952-07-14 | Nash-Fortenberry UFO sighting | North AmericaUnited States; Norfolk, Virginia",
+      "The Flatwoods Monster": "1952-09-12 | The Flatwoods Monster | North AmericaUnited States; Flatwoods, West Virginia",
+      "Marius Dewilde sighting": "1954-09-10 | Marius Dewilde sighting | EuropeFrance; Quarouble, Nord",
+      "Fiorentina Stadium mass sighting": "1954-10-27 | Fiorentina Stadium mass sighting | EuropeItaly; Stadio Artemio Franchi in Florence",
+      "Kelly–Hopkinsville encounter": "1955-08-21 to 1955-08-22 | Kelly–Hopkinsville encounter | North AmericaUnited States; A farmhouse near Hopkinsville, Kentucky",
+      "Lakenheath-Bentwaters incident": "1956-07-24 | Lakenheath-Bentwaters incident | EuropeUnited Kingdom; Suffolk, England",
+      "Elizabeth Klarer": "1956-08-13 | Elizabeth Klarer | AfricaSouth Africa; Drakensberg",
+      "Gordon Cooper UFO Sightings": "1957-05-03 | Gordon Cooper UFO Sightings | North AmericaUnited States; Edwards Air Force Base, California",
+      "Milton Torres 1957 UFO Encounter": "1957-05-20 | Milton Torres 1957 UFO Encounter | EuropeUnited Kingdom; East Anglia",
+      "Antônio Vilas-Boas Abduction": "1957-10-15 | Antônio Vilas-Boas Abduction | South AmericaBrazil; Near São Francisco de Sales, Minas Gerais",
+      "Levelland UFO case": "1957-11-02 | Levelland UFO case | North AmericaUnited States; Levelland, Texas",
+      "Kirtland AFB UFO sighting": "1957-11-04 | Kirtland AFB UFO sighting | North AmericaUnited States; Albuquerque, New Mexico",
+      "Eagle River encounter": "1961-04-18 | Eagle River encounter | North AmericaUnited States, Eagle River, Wisconsin",
+      "Betty and Barney Hill abduction": "1961-09-19 | Betty and Barney Hill abduction | North AmericaUnited States; South of Lancaster on Route 3, New Hampshire",
+      "Kallamishtez UFO incident": "1963 | Kallamishtez UFO incident | EuropeAlbania; Kurvelesh",
+      "Lonnie Zamora incident": "1964-04-24 | Lonnie Zamora incident | North AmericaUnited States; Socorro, New Mexico",
+      "Solway Firth Spaceman": "1964-05-23 | Solway Firth Spaceman | EuropeUnited Kingdom; Cumbria, England",
+      "Big Sur UFO": "1964-09-22 | Big Sur UFO | North AmericaUnited States; Big Sur, California",
+      "Dwikora Operation UFO incident": "1964-09-18 until 9-24 | Dwikora Operation UFO incident | AsiaSurabaya, Indonesia",
+      "Project Gemini UFO": "1965-06-04 | Project Gemini UFO | Low Earth orbit; Above Hawaii",
+      "The Incident at Exeter": "1965-09-03 | The Incident at Exeter | North AmericaUnited States; Exeter, New Hampshire",
+      "The Valensole UFO incident": "1965-07-1 | The Valensole UFO incident | EuropeFrance; Valensole, Provence-Alpes-Côte d'Azur",
+      "Kecksburg UFO incident": "1965-12-09 | Kecksburg UFO incident | North AmericaUnited States; Kecksburg, Pennsylvania",
+      "Michigan \"swamp gas\" UFO reports": "1966-03-20 | Michigan \"swamp gas\" UFO reports | North AmericaUnited States; Dexter, Michigan and Hillsdale, Michigan",
+      "Westall UFO": "1966-04-06 | Westall UFO | OceaniaAustralia; Clayton South, Victoria",
+      "Lead masks case": "1966-08-20 | Lead masks case | South AmericaBrazil; Niterói, Rio de Janeiro",
+      "Malmstrom UFO incident": "1967-03-16 | Malmstrom UFO incident | North AmericaUnited States; Montana",
+      "Falcon Lake Incident": "1967-05-20 | Falcon Lake Incident | North AmericaCanada; Falcon Lake, Manitoba",
+      "Close encounter of Cussac": "1967-08-29 | Close encounter of Cussac | EuropeFrance; near Cussac, Auvergne",
+      "1967 British flying saucer hoax": "1967-09-4 | 1967 British flying saucer hoax | EuropeUnited Kingdom; Southern England",
+      "Shag Harbour UFO incident": "1967-10-04 | Shag Harbour UFO incident | North AmericaCanada; Gulf of Maine near Shag Harbour, Nova Scotia",
+      "Jimmy Carter UFO incident": "1969-01-06 | Jimmy Carter UFO incident | North AmericaUnited States; Leary, Georgia",
+      "Finnish Air Force sighting": "1969-04-12 | Finnish Air Force sighting | EuropeFinland; Pori",
+      "Labor Day 1969 UFO Incident": "1969-09-1 | Labor Day 1969 UFO Incident | North AmericaUnited States; Berkshire County, Massachusetts",
+      "Pudasjärvi sighting": "1969-09-08 | Pudasjärvi sighting [fi] | EuropeFinland; Pudasjärvi",
+      "Pascagoula Abduction": "1973-10-11 | Pascagoula Abduction | North AmericaUnited States; Pascagoula, Mississippi",
+      "Berwyn Mountain UFO incident": "1974-01-23 | Berwyn Mountain UFO incident | EuropeUnited Kingdom; Llandrillo, Merionethshire, North Wales",
+      "John Lennon UFO incident": "1974-08-23 | John Lennon UFO incident | North AmericaUnited States; New York City, New York",
+      "North Hudson Park UFO sightings": "1975-01-12 | North Hudson Park UFO sightings | North AmericaUnited States; North Bergen, New Jersey",
+      "Travis Walton": "1975-11-05 | Travis Walton | North AmericaUnited States; Near Turkey Springs in Apache-Sitgreaves National Forest, Arizona",
+      "1976 Tehran UFO incident": "1976-09-17 | 1976 Tehran UFO incident | AsiaIran; Tehran, Tehran province",
+      "Petrozavodsk phenomenon": "1977-09-20 | Petrozavodsk phenomenon | EuropeSoviet Union, Finland, Lithuania, and Denmark",
+      "Operação Prato": "1977 to 1978 | Operação Prato | Brazil; Colares, Pará",
+      "Emilcin Abduction": "1978-05-10 | Emilcin Abduction | EuropePoland; Emilcin, Lublin Voivodeship",
+      "Valentich disappearance": "1978-10-21 | Valentich disappearance | OceaniaAustralia; Victoria",
+      "Zanfretta UFO Incident": "1978-12-06 | Zanfretta UFO Incident | EuropeItaly; Torriglia, Genoa",
+      "Kaikoura lights": "1978-12-21 to 1978-12-30 | Kaikoura lights | OceaniaNew Zealand; South Island",
+      "Val Johnson incident": "1979-08-27 | Val Johnson incident | North AmericaUnited States; Marshall County, Minnesota",
+      "Robert Taylor incident": "1979-11-09 | Robert Taylor incident | EuropeUnited Kingdom; Livingston, West Lothian, Scotland",
+      "Manises UFO incident": "1979-11-11 | Manises UFO incident | EuropeSpain; Valencia, Valencian Community",
+      "Arequipa UFO incident": "1980-04-11 | Arequipa UFO incident | South AmericaPeru; Arequipa Region",
+      "Rendlesham Forest incident": "1980-12-26 to 1980 -12-28 | Rendlesham Forest incident | EuropeUnited Kingdom; Rendlesham Forest, Suffolk, England",
+      "Cash–Landrum incident": "1980-12-29 | Cash–Landrum incident | North AmericaUnited States; near Dayton, Texas",
+      "Trans-en-Provence case": "1981-01-08 | Trans-en-Provence case | EuropeFrance; Trans-en-Provence, Provence-Alpes-Côte d'Azur",
+      "Hudson Valley Sightings": "1983 c. 1983 | Hudson Valley Sightings | North AmericaUnited States; Hudson Valley, New York",
+      "\"Night of the UFOs\" in Brazil": "1986-05-19 | \"Night of the UFOs\" in Brazil | South AmericaBrazil; São Paulo, Rio de Janeiro, Minas Gerais and Goiás",
+      "Japan Air Lines Cargo Flight 1628 incident": "1986-11-17 | Japan Air Lines Cargo Flight 1628 incident | North AmericaUnited States; Alaska",
+      "Ilkley Moor UFO incident": "1987-12-1 | Ilkley Moor UFO incident | EuropeUnited Kingdom; Ilkley Moor",
+      "Gulf Breeze UFO incident": "1987 to 1988 | Gulf Breeze UFO incident | North AmericaUnited States; Gulf Breeze, Florida",
+      "Voronezh UFO incident": "1989-09-27 | Voronezh UFO incident | EuropeSoviet Union; Voronezh",
+      "Calvine UFO": "1990-08-04 | Calvine UFO | EuropeUnited Kingdom; Perthshire, Scotland",
+      "1994 Michigan UFO event": "1994-03-08 | 1994 Michigan UFO event | North AmericaUnited States; Western Michigan",
+      "Ariel School UFO incident": "1994-09-16 | Ariel School UFO incident | AfricaZimbabwe; Ruwa",
+      "Varginha UFO incident": "1996-01-20 | Varginha UFO incident | South AmericaBrazil; Varginha, Minas Gerais",
+      "Phoenix Lights": "1997-03-13 | Phoenix Lights | North AmericaUnited States; Phoenix, Arizona",
+      "Bonsall UFO sighting": "2000-10-05 | Bonsall UFO sighting | EuropeUnited Kingdom; Bonsall, Derbyshire",
+      "2004 Mexican UFO incident": "2004-03-05 | 2004 Mexican UFO incident | North AmericaMexico; Campeche",
+      "Tinley Park Lights": "2004-10-31 | Tinley Park Lights | North AmericaUnited States; Illinois",
+      "USS Nimitz UFO incident": "2004-11-14 | USS Nimitz UFO incident | North AmericaUnited States; Off the coast of San Diego, California",
+      "2006 O'Hare International Airport UFO sighting": "2006-11-07 | 2006 O'Hare International Airport UFO sighting | North AmericaUnited States; Chicago, Illinois",
+      "2007 Alderney UFO sighting": "2007-04-23 | 2007 Alderney UFO sighting | EuropeBailiwick of Guernsey; Alderney",
+      "Dudley Dorito": "2007-11-28 to 2011-12-13 | Dudley Dorito | EuropeUnited Kingdom; West Midlands conurbation",
+      "Wales UFO sightings": "2008-06-20 | Wales UFO sightings | EuropeUnited Kingdom; Various cities, Wales",
+      "Morristown UFO hoax": "2009-01-05 | Morristown UFO hoax | North AmericaUnited States; Morristown, New Jersey",
+      "2009 Norwegian spiral anomaly": "2009-12-10 | 2009 Norwegian spiral anomaly | EuropeNorway; Trøndelag and Northern Norway",
+      "Harbour Mille incident": "2010-01-25 | Harbour Mille incident | North AmericaCanada; Harbour Mille, Newfoundland and Labrador",
+      "Hangzhou Airport UFO": "2010-07-07 | Hangzhou Airport UFO | AsiaChina; Hangzhou, Zhejiang",
+      "USS Theodore Roosevelt UFO incidents": "2014-06-02 to 2015-03-10 | USS Theodore Roosevelt UFO incidents | North AmericaUnited States; East Coast of the United States",
+      "Jetpack man": "2020 c. 2020 | Jetpack man | North AmericaUnited States; Los Angeles, California",
+      "List of high-altitude object events in 2023": "2023-01-28 to 2023-02-13 | List of high-altitude object events in 2023 | United States, Canada, Colombia, Costa Rica, and Venezuela",
+      "Ukrainian military cigar-shaped UAP observation": "2023-02-15 | Ukrainian military cigar-shaped UAP observation | EuropeUkraine; central Ukraine",
+      "2024 US air base drone incursions in the United Kingdom": "2024-11-20 to 2024-11-26 | 2024 US air base drone incursions in the United Kingdom | EuropeUnited Kingdom",
+      "2024 United States drone sightings": "December 2024 | 2024 United States drone sightings | North AmericaUnited States",
+      "AARO Middle East 2022 MQ-9 orb video": "2023-04-19 | AARO Middle East 2022 MQ-9 orb video | AsiaMiddle East",
+      "NASA public meeting Western U.S. objects video": "2023-05-31 | NASA public meeting Western U.S. objects video | North AmericaUnited States, western range",
+      "Ukrainian military disc or cigar-shaped UAP observation": "2024-02-24 | Ukrainian military disc or cigar-shaped UAP observation | EuropeUkraine; Ukrainian war zone",
+      "Ukrainian military wedge-shaped UAP formation": "February or March 2024 (specific date unknown) | Ukrainian military wedge-shaped UAP formation | EuropeUkraine; Ukrainian war zone",
+      "Ukrainian military spherical UAP formation": "2024-03-26 | Ukrainian military spherical UAP formation | EuropeUkraine; Ukrainian war zone",
+      "Ukrainian military in-line spherical UAP formation": "2024-03-28 | Ukrainian military in-line spherical UAP formation | EuropeUkraine; Ukrainian war zone",
+      "Yemen orb missile engagement video": "2025-09-09 | Yemen orb missile engagement video | Middle EastYemen, off the coast",
+      "Campo Largo case": "2026-05-31 | Campo Largo case | Brazil; Campo Largo, Paraná"
+    },
+    "issues": []
+  }
+}
