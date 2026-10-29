@@ -23,6 +23,10 @@ class Document:
     text: str
     version: str
     """Revision/etag so a rerun can tell whether the page changed."""
+    truncated: bool = False
+    """True if text was cut to fit the size cap. The generator must not treat
+    a truncated document as the complete picture (a missing section is not
+    evidence that the fact is absent)."""
 
 
 class SourceError(Exception):

@@ -8,6 +8,10 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
+.ruff_cache/
+
+# Downloaded third-party datasets (IMDb licence forbids redistribution)
+pipeline/.cache/
 
 # Secrets: NEVER commit real values. Commit .env.example instead.
 .env

@@ -120,9 +120,53 @@ def test_http_errors_propagate_so_the_caller_can_retry() -> None:
         WikipediaSource(client=client, today=TODAY).fetch("X")
 
 
-def test_text_is_capped() -> None:
+def test_text_is_capped_and_flagged_as_truncated() -> None:
     doc = fetch(api_payload(text="<p>" + "a" * (MAX_TEXT_CHARS + 500) + "</p>"))
+
     assert len(doc.text) == MAX_TEXT_CHARS
+    assert doc.truncated is True
+
+
+def test_short_pages_are_not_flagged_as_truncated() -> None:
+    assert fetch(api_payload()).truncated is False
+
+
+SECTIONS = """
+<h2>Box office</h2><p>It grossed 1,300 crore.</p>
+<h2>Notes</h2><p>Note a: a long footnote about currency conversion.</p>
+<h2>References</h2><p>A very long bibliography entry.</p>
+<h2>External links</h2><ul><li>Official website</li></ul>
+<h2>Accolades</h2><p>It won the National Film Award.</p>
+"""
+
+
+def test_bibliography_sections_are_dropped_and_real_sections_after_them_are_kept() -> None:
+    text = html_to_text(SECTIONS)
+
+    assert "It grossed 1,300 crore." in text
+    assert "It won the National Film Award." in text  # sits AFTER the dropped sections
+    assert "footnote" not in text and "bibliography" not in text and "Official website" not in text
+    assert "Box office" in text.splitlines() and "Accolades" in text.splitlines()
+    assert "References" not in text.splitlines()
+
+
+def test_dropping_bibliography_keeps_late_sections_inside_the_cap() -> None:
+    filler = "<h2>References</h2><p>" + "r" * (MAX_TEXT_CHARS * 2) + "</p>"
+    doc = fetch(api_payload(text="<p>Intro.</p>" + filler + "<h2>Accolades</h2><p>Won an award.</p>"))
+
+    assert "Won an award." in doc.text
+    assert doc.truncated is False
+
+
+def test_disambiguation_page_is_a_source_error() -> None:
+    payload = api_payload(title="Acharya (disambiguation)", properties={"disambiguation": ""})
+    with pytest.raises(SourceError, match="disambiguation page"):
+        fetch(payload, key="Acharya (film)")
+
+
+def test_ordinary_page_properties_do_not_trigger_the_disambiguation_check() -> None:
+    doc = fetch(api_payload(properties={"wikibase_item": "Q1"}))
+    assert doc.title == "NBA Most Valuable Player"
 
 
 def test_url_encodes_special_characters() -> None:

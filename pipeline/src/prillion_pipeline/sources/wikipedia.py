@@ -20,7 +20,7 @@ PAGE_URL = "https://en.wikipedia.org/wiki/"
 # Wikimedia asks every client to identify itself with contact details.
 USER_AGENT = "PrillionPipeline/0.1 (https://github.com/akhilraman/Prillion; akhilraman19@gmail.com)"
 # Cap what we pass to the LLM: cost and context size, not correctness.
-MAX_TEXT_CHARS = 60_000
+MAX_TEXT_CHARS = 100_000  # about 25k tokens; long film articles run to ~65k even without references
 
 _VOID_TAGS = frozenset({"br", "hr", "img", "meta", "link", "input", "wbr", "col", "area", "source"})
 _SKIP_TAGS = frozenset({"style", "script", "sup", "noscript"})
@@ -28,8 +28,11 @@ _SKIP_TAGS = frozenset({"style", "script", "sup", "noscript"})
 _SKIP_CLASSES = frozenset(
     {"navbox", "reflist", "mw-editsection", "toc", "references", "sidebar", "mw-empty-elt"}
 )
-_BLOCK_TAGS = frozenset(
-    {"p", "div", "li", "ul", "ol", "h1", "h2", "h3", "h4", "h5", "h6", "table", "caption"}
+_BLOCK_TAGS = frozenset({"p", "div", "li", "ul", "ol", "h1", "h3", "h4", "h5", "h6", "table", "caption"})
+# Whole sections that are bibliography, not facts. Dropping them first means the size
+# cap rarely has to cut real content such as an "Accolades" section near the end.
+_DROPPED_SECTIONS = frozenset(
+    {"references", "external links", "see also", "notes", "further reading", "bibliography", "footnotes"}
 )
 
 
@@ -46,6 +49,8 @@ class _TextExtractor(HTMLParser):
         self._row: list[str] = []
         self._cell: list[str] | None = None
         self._skip_depth = 0
+        self._heading: list[str] | None = None
+        self._dropping = False
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if self._skip_depth:
@@ -56,7 +61,9 @@ class _TextExtractor(HTMLParser):
         if tag in _SKIP_TAGS or classes & _SKIP_CLASSES:
             self._skip_depth = 1
             return
-        if tag in ("td", "th"):
+        if tag == "h2":
+            self._heading = []
+        elif tag in ("td", "th"):
             self._cell = []
         elif tag == "br":
             self._append(" ")
@@ -68,7 +75,13 @@ class _TextExtractor(HTMLParser):
             if tag not in _VOID_TAGS:
                 self._skip_depth -= 1
             return
-        if tag in ("td", "th") and self._cell is not None:
+        if tag == "h2" and self._heading is not None:
+            name = " ".join("".join(self._heading).split())
+            self._heading = None
+            self._dropping = name.lower() in _DROPPED_SECTIONS
+            if not self._dropping:
+                self._out.append(f"\n{name}\n")
+        elif tag in ("td", "th") and self._cell is not None:
             self._row.append(" ".join("".join(self._cell).split()))
             self._cell = None
         elif tag == "tr":
@@ -81,10 +94,16 @@ class _TextExtractor(HTMLParser):
             self._out.append("\n")
 
     def handle_data(self, data: str) -> None:
-        if not self._skip_depth:
+        if self._skip_depth:
+            return
+        if self._heading is not None:
+            self._heading.append(data)
+        else:
             self._append(data)
 
     def _append(self, text: str) -> None:
+        if self._dropping:
+            return
         (self._cell if self._cell is not None else self._out).append(text)
 
     def text(self) -> str:
@@ -117,7 +136,7 @@ class WikipediaSource:
                 "formatversion": 2,
                 "redirects": 1,
                 "page": key,
-                "prop": "text|revid",
+                "prop": "text|revid|properties",
                 "disablelimitreport": 1,
                 "disableeditsection": 1,
             },
@@ -134,11 +153,18 @@ class WikipediaSource:
         if not parsed or "revid" not in parsed:
             raise SourceError(f"Wikipedia returned no revision id for {key!r}")
 
+        title = parsed["title"]
+        # A disambiguation page is a valid page about nothing: a redirect like
+        # "Acharya (film)" can land on one. Building a question from it would be wrong.
+        if "disambiguation" in (parsed.get("properties") or {}):
+            raise SourceError(
+                f"Wikipedia page {title!r} (from {key!r}) is a disambiguation page; use a more specific title"
+            )
+
         text = html_to_text(parsed.get("text") or "")
         if not text:
             raise SourceError(f"Wikipedia page {key!r} has no extractable text")
 
-        title = parsed["title"]
         today = self._today or date.today()
         return Document(
             id=slugify(title),
@@ -148,4 +174,5 @@ class WikipediaSource:
             retrieved_on=today.isoformat(),
             text=text[:MAX_TEXT_CHARS],
             version=str(parsed["revid"]),
+            truncated=len(text) > MAX_TEXT_CHARS,
         )
