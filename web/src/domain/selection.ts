@@ -12,7 +12,11 @@
 import { CATEGORIES } from './types.ts';
 import type { Category, CategorySelection, Question } from './types.ts';
 
-export const DEFAULT_ROUND_LENGTH = 15;
+/**
+ * A "dive" is 7 prompts: short enough to finish in about three minutes, long enough for
+ * a score to mean something. Mixed dives spread 7 over three categories (3/2/2).
+ */
+export const DEFAULT_ROUND_LENGTH = 7;
 
 /** A function returning a float in [0, 1). `Math.random` satisfies this. */
 export type Rng = () => number;

@@ -34,8 +34,9 @@ describe('seed question bank (contract test)', () => {
     }
   });
 
-  // A game plays 5 questions per category, so each category needs at least that many. More is
-  // good: the pipeline grows the bank and selection picks a varied 5 from a bigger pool.
+  // A single-category dive is 7 prompts, so a category below 7 gives a "short round" (handled by
+  // selection and shown on the home screen). 5 is the floor while the pipeline grows the bank to its
+  // launch target of 40 per category; raise this to the dive length once content catches up.
   it('has at least 5 questions per category', () => {
     const bank = parseQuestionBank(seedBank);
     for (const c of CATEGORIES) {
