@@ -2,7 +2,9 @@
 
 An original underwater, pixel-art trivia game. Players answer **open-ended questions in free text**; every valid answer is accepted, and rarer answers earn more points.
 
-> Status: **Milestone 2 complete**: a playable solo game (plain styling; pixel-art theme comes later). See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+[![CI](https://github.com/akhilraman/Prillion/actions/workflows/ci.yml/badge.svg)](https://github.com/akhilraman/Prillion/actions/workflows/ci.yml)
+
+> Status: **Milestone 2 complete** (a playable solo game; plain styling, pixel-art theme comes later), content revision done, **Milestone 3 (CI + deploy) in progress**. See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ## Repository layout
 
@@ -21,7 +23,7 @@ A `pipeline/` (Python) directory will be added in the content-engine milestone.
 
 ## Requirements
 
-- Node.js 22+ (developed on 26)
+- Node.js 24.15+ (CI uses the version in `web/.nvmrc`; developed on 26). `jsdom` and `vitest` need Node >= 22.22 / 24.15 / 26.
 - npm
 
 ## Commands (run inside `web/`)
@@ -37,6 +39,14 @@ A `pipeline/` (Python) directory will be added in the content-engine milestone.
 | `npm run check`        | Typecheck + lint + format check + tests (CI-style)  |
 | `npm run dev`          | Dev server at http://localhost:5173                 |
 | `npm run build`        | Typecheck + production build into `web/dist`        |
+
+## Continuous integration
+
+`.github/workflows/ci.yml` runs on every pull request and every push to `main`: `npm ci`, then `npm run check` (typecheck, lint, format check, all tests including the seed-bank contract tests), then `npm run build`. The job is named `check`; that is the required status check for branch protection. To reproduce a CI run locally:
+
+```
+cd web && npm ci && npm run check && npm run build
+```
 
 ## Content rules
 
