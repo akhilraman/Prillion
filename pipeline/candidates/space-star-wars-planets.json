@@ -2198,19 +2198,6 @@
         "sourceIds": [
           "list-of-star-wars-planets-and-moons"
         ]
-      },
-      {
-        "id": "earth",
-        "canonical": "Earth",
-        "aliases": [
-          "Urthha"
-        ],
-        "familiarity": 0.0006,
-        "familiarityBasis": "llm-estimate",
-        "evidence": "Earth appears as Urthha in a non-canonical Star Wars-related work described in the document.",
-        "sourceIds": [
-          "list-of-star-wars-planets-and-moons"
-        ]
       }
     ],
     "explanation": "Star Wars worlds range from familiar film settings such as Tatooine and Hoth to locations introduced in novels, comics, games and television. Both canon and Legends worlds count; space stations such as the Death Star do not.",
@@ -2432,8 +2419,7 @@
       "Toprawa": "Toprawa | Star Wars (radio) | 1981 | Radio drama | Imperial security facility and source of the first Death Star plans (supplanted by Scarif in Rogue One).",
       "Vortex": "Vortex | Dark Apprentice | 1994 | Book | A planet disrupted by an accidental crash of Admiral Ackbar's ship. Homeworld of the Vor race.",
       "Zonama Sekot": "Zonama Sekot | Rogue Planet | 2000 | Book | A living, sentient world capable of traveling through space",
-      "Yuuzhan'Tar": "It is the seed of Yuuzhan'Tar, the Yuuzhan Vong homeworld.",
-      "Earth": "a pair of Duros are abducted by humans and taken to \"Urthha\" (Earth), where they create havoc by misunderstanding terrestrial objects."
+      "Yuuzhan'Tar": "It is the seed of Yuuzhan'Tar, the Yuuzhan Vong homeworld."
     },
     "issues": [
       "warning:quote-does-not-name-answer [Carida]: quote and source title never mention this answer; reviewer should confirm"

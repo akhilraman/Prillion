@@ -2,7 +2,7 @@
   "question": {
     "id": "tollywood-100-crore-gen",
     "category": "tollywood",
-    "prompt": "Name a Telugu film listed as grossing over ₹100 crore worldwide in the document’s main 50-film highest-grossing ranking.",
+    "prompt": "Name one of the 50 highest-grossing Telugu films of all time.",
     "answerSet": "closed",
     "answers": [
       {
