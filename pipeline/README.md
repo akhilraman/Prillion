@@ -76,6 +76,26 @@ uv run --env-file ../.env prillion-pipeline run-all --max-new 2        # at most
 - **Spending cap:** `--max-new N` (default 3) limits how many topics reach the LLM in one run; the rest are reported as `deferred` and picked up by the next run.
 - **Isolated failures:** one bad topic never stops the others. The run exits 1 if any topic failed or errored, 2 for a bad topics file or missing key.
 
+## Promoting a reviewed candidate to the live game
+
+`promote` is the ONLY command that changes what players see. Run it on candidates you have reviewed (for example after merging a bot review PR), and ship the result as its own PR.
+
+```
+uv run prillion-pipeline promote candidates/space-jupiter-moons.json --dry-run   # validate only
+uv run prillion-pipeline promote candidates/space-jupiter-moons.json             # write the live bank
+cd ../web && npm run check                                                      # then open a PR
+```
+
+What it guarantees:
+- **All or nothing:** several candidates can be promoted at once; if any is invalid, nothing is written.
+- **Validated before saving:** the resulting bank is written to a temp file and must pass the web app's own bank gate (`web/scripts/check-bank.ts`: structural validator plus the quality gate for every question). Only then does it atomically replace `web/src/content/seed-bank.json`.
+- **No silent overwrites:** an id that is already live (for example a hand-curated question) is refused. `--replace` swaps it in place, keeping its position, and should be a deliberate editorial decision.
+- **Rejected candidates** (`*.failed.json`) are refused.
+- **`approvedOn`** is the promotion date (override with `--approved-on YYYY-MM-DD`), not the generation date. `provenance` stays in the candidate file and git history; the live bank carries only what the game needs.
+- Quality warnings recorded in a candidate's provenance are printed as notes.
+
+Before promoting, review the candidate against its source page (see the checklist in the bot PR). Tiers are `llm-estimate`, not measured popularity.
+
 ## Scheduled refresh (GitHub Actions)
 
 `.github/workflows/content-refresh.yml` runs `run-all` in CI and opens a **review PR** with the new files under `pipeline/candidates/`. It never pushes to `main` and never touches the live bank.

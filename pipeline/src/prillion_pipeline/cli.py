@@ -24,28 +24,41 @@ from pydantic import ValidationError
 
 from .generate import GenerationResult, build_messages, generate_question, input_hash
 from .llm import LLM, OpenAILLM
+from .promote import BankRejected, PromoteError, promote
 from .sources.base import Document, Source, SourceError
 from .sources.wikipedia import WikipediaSource
 from .topics import CATEGORY_NAMES, Topic, TopicsError, load_topics
 
 DEFAULT_OUT_DIR = Path("candidates")
 DEFAULT_TOPICS = Path("topics.json")
-WEB_GATE_SCRIPT = Path(__file__).resolve().parents[3] / "web" / "scripts" / "check-candidate.ts"
+REPO_ROOT = Path(__file__).resolve().parents[3]
+WEB_GATE_SCRIPT = REPO_ROOT / "web" / "scripts" / "check-candidate.ts"
+BANK_GATE_SCRIPT = REPO_ROOT / "web" / "scripts" / "check-bank.ts"
+DEFAULT_BANK = REPO_ROOT / "web" / "src" / "content" / "seed-bank.json"
 
 GateRunner = Callable[[Path], tuple[bool, str]]
 LLMFactory = Callable[[str], LLM]
 Status = Literal["generated", "skipped", "failed", "deferred", "dry-run", "error"]
 
 
-def run_web_gate(path: Path) -> tuple[bool, str]:
-    """Ask the web app's own validator whether this candidate is publishable."""
+def _run_node_gate(script: Path, path: Path) -> tuple[bool, str]:
     try:
         done = subprocess.run(
-            ["node", str(WEB_GATE_SCRIPT), str(path)], capture_output=True, text=True, timeout=60, check=False
+            ["node", str(script), str(path)], capture_output=True, text=True, timeout=60, check=False
         )
     except (FileNotFoundError, subprocess.TimeoutExpired) as exc:
         return False, f"could not run the web gate ({exc}); is Node installed?"
     return done.returncode == 0, (done.stdout + done.stderr).strip()
+
+
+def run_web_gate(path: Path) -> tuple[bool, str]:
+    """Ask the web app's own validator whether this candidate is publishable."""
+    return _run_node_gate(WEB_GATE_SCRIPT, path)
+
+
+def run_bank_gate(path: Path) -> tuple[bool, str]:
+    """Ask the web app's own validator whether this whole bank is publishable."""
+    return _run_node_gate(BANK_GATE_SCRIPT, path)
 
 
 @dataclass(frozen=True)
@@ -103,6 +116,21 @@ def _parser() -> argparse.ArgumentParser:
         help="most topics to send to the LLM in one run (a spending cap); the rest are deferred",
     )
     common(run_all)
+
+    promote_cmd = commands.add_parser(
+        "promote", help="add REVIEWED candidates to the live question bank (changes what players see)"
+    )
+    promote_cmd.add_argument("candidates", nargs="+", type=Path, help="candidate .json files to promote")
+    promote_cmd.add_argument("--bank", type=Path, default=DEFAULT_BANK)
+    promote_cmd.add_argument(
+        "--approved-on", type=date.fromisoformat, help="approval date, YYYY-MM-DD (default: today)"
+    )
+    promote_cmd.add_argument(
+        "--replace", action="store_true", help="allow replacing a live question that has the same id"
+    )
+    promote_cmd.add_argument(
+        "--dry-run", action="store_true", help="validate the resulting bank but do not write it"
+    )
     return parser
 
 
@@ -238,6 +266,37 @@ def _run_all(args: argparse.Namespace, s: Settings) -> int:
     return 1 if any(o.status in ("failed", "error") for o in outcomes) else 0
 
 
+def _promote(args: argparse.Namespace, bank_gate: GateRunner, today: date, out: Callable[[str], None]) -> int:
+    approved_on = args.approved_on or today
+    try:
+        promotions = promote(
+            args.candidates,
+            args.bank,
+            approved_on=approved_on,
+            gate=bank_gate,
+            replace=args.replace,
+            dry_run=args.dry_run,
+        )
+    except BankRejected as exc:
+        out(f"error: {exc}")
+        return 1
+    except PromoteError as exc:
+        out(f"error: {exc}")
+        return 2
+
+    for p in promotions:
+        out(f"{p.action:<8} {p.question_id} ({p.answers} answers, approvedOn {approved_on.isoformat()})")
+        for warning in p.warnings:
+            out(f"           note: {warning}")
+    if args.dry_run:
+        out(f"dry run: the resulting bank passed the web gate; {args.bank} was NOT changed")
+    else:
+        out(f"wrote {args.bank}")
+        out("next: review `git diff`, run `npm run check` in web/, then open a PR")
+        out("      (this changes what players see)")
+    return 0
+
+
 def main(
     argv: Sequence[str] | None = None,
     *,
@@ -245,10 +304,13 @@ def main(
     source: Source | None = None,
     llm_factory: LLMFactory | None = None,
     gate: GateRunner = run_web_gate,
+    bank_gate: GateRunner = run_bank_gate,
     today: date | None = None,
     out: Callable[[str], None] = print,
 ) -> int:
     args = _parser().parse_args(argv)
+    if args.command == "promote":
+        return _promote(args, bank_gate, today or date.today(), out)
     settings = Settings(
         env=os.environ if env is None else env,
         source=source or WikipediaSource(),
