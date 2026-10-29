@@ -78,7 +78,9 @@ def input_hash(model: str, brief: str, category: str, documents: list[Document])
         "model": model,
         "brief": brief,
         "category": category,
-        "documents": [[d.id, d.version] for d in documents],
+        # The revision says which page we read; the text hash also captures HOW we read it, so a
+        # change to table extraction invalidates old candidates instead of being skipped as "up to date".
+        "documents": [[d.id, d.version, hashlib.sha256(d.text.encode()).hexdigest()[:12]] for d in documents],
     }
     return hashlib.sha256(json.dumps(payload, sort_keys=True).encode()).hexdigest()[:16]
 

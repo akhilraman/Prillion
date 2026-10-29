@@ -47,20 +47,28 @@ class _TextExtractor(HTMLParser):
         self._skip_depth = 0
         self._heading: list[str] | None = None
         self._dropping = False
+        self._cell_span = (1, 1)  # (rowspan, colspan) of the cell being read
+        # column -> [further rows it still covers, its text], for cells that span rows
+        self._spans: dict[int, list] = {}
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if self._skip_depth:
             if tag not in _VOID_TAGS:
                 self._skip_depth += 1
             return
-        classes = set((dict(attrs).get("class") or "").split())
+        attr = dict(attrs)
+        classes = set((attr.get("class") or "").split())
         if tag in _SKIP_TAGS or classes & _SKIP_CLASSES:
             self._skip_depth = 1
             return
         if tag == "h2":
             self._heading = []
+        elif tag == "table":
+            self._spans = {}
+            self._out.append("\n")
         elif tag in ("td", "th"):
             self._cell = []
+            self._cell_span = (_span(attr.get("rowspan")), _span(attr.get("colspan")))
         elif tag == "br":
             self._append(" ")
         elif tag in _BLOCK_TAGS or tag == "tr":
@@ -78,12 +86,14 @@ class _TextExtractor(HTMLParser):
             if not self._dropping:
                 self._out.append(f"\n{name}\n")
         elif tag in ("td", "th") and self._cell is not None:
-            self._row.append(" ".join("".join(self._cell).split()))
+            self._place(" ".join("".join(self._cell).split()), *self._cell_span)
             self._cell = None
         elif tag == "tr":
-            cells = [c for c in self._row if c]
-            if cells:
-                self._out.append(" | ".join(cells))
+            self._fill_spans()  # cells carried down from rows above that sit after the last real cell
+            # Keep empty cells: dropping them shifts later cells left, so a row with a blank
+            # gross would silently line up under the wrong column header.
+            if any(self._row):
+                self._out.append(" | ".join(self._row))
             self._out.append("\n")
             self._row = []
         elif tag in _BLOCK_TAGS:
@@ -102,9 +112,38 @@ class _TextExtractor(HTMLParser):
             return
         (self._cell if self._cell is not None else self._out).append(text)
 
+    def _fill_spans(self) -> None:
+        """Insert cells that a `rowspan` above carries into the current row, at their column."""
+        while (col := len(self._row)) in self._spans:
+            remaining, text = self._spans[col]
+            self._row.append(text)
+            if remaining <= 1:
+                del self._spans[col]
+            else:
+                self._spans[col][0] = remaining - 1
+
+    def _place(self, text: str, rowspan: int, colspan: int) -> None:
+        """Add a cell. A rowspan cell repeats its text in the rows below it, so a tied
+        ranking row ("33 | ... | ₹150 crore" shared by four films) keeps its figure."""
+        self._fill_spans()
+        for i in range(colspan):
+            cell = text if i == 0 else ""
+            col = len(self._row)
+            self._row.append(cell)
+            if rowspan > 1:
+                self._spans[col] = [rowspan - 1, cell]
+
     def text(self) -> str:
         lines = (" ".join(line.split()) for line in "".join(self._out).splitlines())
         return "\n".join(line for line in lines if line)
+
+
+def _span(value: str | None) -> int:
+    """Parse a rowspan/colspan attribute defensively; malformed values mean 1."""
+    try:
+        return max(1, min(int(value or "1"), 100))
+    except ValueError:
+        return 1
 
 
 def html_to_text(html: str) -> str:

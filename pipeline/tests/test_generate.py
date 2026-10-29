@@ -87,6 +87,8 @@ def test_input_hash_changes_when_any_input_changes() -> None:
     assert base != input_hash("other-model", "brief", "space", DOCS)
     assert base != input_hash("m", "other brief", "space", DOCS)
     assert base != input_hash("m", "brief", "space", [make_doc(version="43")])  # the page was edited
+    # Same revision, different extracted text (we improved the extractor): must not look "up to date".
+    assert base != input_hash("m", "brief", "space", [make_doc(text="different extraction")])
 
 
 def test_prompt_contains_documents_and_warns_about_truncation() -> None:
