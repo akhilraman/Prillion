@@ -34,10 +34,12 @@ describe('seed question bank (contract test)', () => {
     }
   });
 
-  it('has 5 questions per category', () => {
+  // A game plays 5 questions per category, so each category needs at least that many. More is
+  // good: the pipeline grows the bank and selection picks a varied 5 from a bigger pool.
+  it('has at least 5 questions per category', () => {
     const bank = parseQuestionBank(seedBank);
     for (const c of CATEGORIES) {
-      expect(bank.questions.filter((q) => q.category === c).length, c).toBe(5);
+      expect(bank.questions.filter((q) => q.category === c).length, c).toBeGreaterThanOrEqual(5);
     }
   });
 

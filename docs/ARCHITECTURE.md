@@ -76,7 +76,7 @@ Freshness beats category balance: never-played questions are exhausted (balanced
 `Timer` owns its own tick state so only it re-renders ~5x/second; the question panel and the answer input never re-render because of the countdown. It uses `performance.now()` (monotonic: unaffected by the user changing the system clock) and re-checks on `visibilitychange`/`focus`. The reducer, not the UI, decides whether a submit beat the deadline.
 
 ### Content-quality finding (resolved in the content revision)
-The first seed bank had 2-4 valid answers per question, so most priors landed in one tier (every Eega lead was "Common") and rarity added nothing. The bank was replaced with 15 questions of 10-37 answers each (5 per category), and the quality gate now enforces this.
+The first seed bank had 2-4 valid answers per question, so most priors landed in one tier (every Eega lead was "Common") and rarity added nothing. The bank was replaced with 15 questions of 10-37 answers each (5 per category), and the quality gate now enforces this. The bank is no longer fixed at 15: reviewed pipeline candidates are added with `prillion-pipeline promote` (the first was Jupiter's moons), and the contract is now "at least 5 per category" so selection can vary what a game plays.
 
 ## Prototype vs production (current gaps)
 
