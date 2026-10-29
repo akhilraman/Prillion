@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "space-planets-with-rings",
+      "category": "space",
+      "prompt": "Name a planet in our solar system that has rings.",
+      "answerSet": "closed",
+      "explanation": "All four giant planets have ring systems. Saturn's is by far the most extensive; Jupiter's are faint dust rings, Uranus's are thin and dark, and Neptune's include broken arcs.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-solar-system",
+          "title": "Chapter 1: The Solar System",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-2/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "saturn", "canonical": "Saturn", "aliases": [], "familiarity": 0.7, "familiarityBasis": "curated-estimate", "evidence": "Saturn has an extensive ring system spanning about 280,000 km.", "sourceIds": ["nasa-solar-system"] },
+        { "id": "jupiter", "canonical": "Jupiter", "aliases": [], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Jupiter has equatorial dust rings.", "sourceIds": ["nasa-solar-system"] },
+        { "id": "uranus", "canonical": "Uranus", "aliases": [], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Uranus has a thin, dark ring system.", "sourceIds": ["nasa-solar-system"] },
+        { "id": "neptune", "canonical": "Neptune", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "Neptune has rings with broken arcs.", "sourceIds": ["nasa-solar-system"] }
+      ]
+    },
+    {
+      "id": "space-galilean-moons",
+      "category": "space",
+      "prompt": "Name one of Jupiter's four Galilean moons.",
+      "answerSet": "closed",
+      "explanation": "Galileo Galilei first observed Io, Europa, Ganymede and Callisto in 1610. In order from Jupiter: Io, Europa, Ganymede, Callisto.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-jupiter-moons",
+          "title": "Jupiter Moons",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/jupiter/jupiter-moons/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "europa", "canonical": "Europa", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Europa may have a liquid-water ocean under its frozen crust; target of the Europa Clipper mission.", "sourceIds": ["nasa-jupiter-moons"] },
+        { "id": "io", "canonical": "Io", "aliases": [], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Io is the most volcanically active body in the solar system.", "sourceIds": ["nasa-jupiter-moons"] },
+        { "id": "ganymede", "canonical": "Ganymede", "aliases": [], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Ganymede is the largest moon in the solar system, bigger than Mercury.", "sourceIds": ["nasa-jupiter-moons"] },
+        { "id": "callisto", "canonical": "Callisto", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Callisto is the outermost Galilean moon and is heavily cratered.", "sourceIds": ["nasa-jupiter-moons"] }
+      ]
+    },
+    {
+      "id": "space-dwarf-planets",
+      "category": "space",
+      "prompt": "Name one of the five dwarf planets officially recognised by the IAU.",
+      "answerSet": "closed",
+      "explanation": "The IAU recognises five dwarf planets: Ceres, Pluto, Haumea, Makemake and Eris. Many more may exist but have not been officially recognised.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-dwarf-planets",
+          "title": "Pluto & Dwarf Planets",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/dwarf-planets/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "pluto", "canonical": "Pluto", "aliases": [], "familiarity": 0.7, "familiarityBasis": "curated-estimate", "evidence": "Reclassified as a dwarf planet by the IAU in 2006.", "sourceIds": ["nasa-dwarf-planets"] },
+        { "id": "ceres", "canonical": "Ceres", "aliases": [], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "The only dwarf planet in the inner solar system, in the asteroid belt.", "sourceIds": ["nasa-dwarf-planets"] },
+        { "id": "eris", "canonical": "Eris", "aliases": [], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] },
+        { "id": "makemake", "canonical": "Makemake", "aliases": [], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] },
+        { "id": "haumea", "canonical": "Haumea", "aliases": [], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] }
+      ]
+    },
+    {
+      "id": "space-great-observatories",
+      "category": "space",
+      "prompt": "Name one of NASA's four original \"Great Observatories\" space telescopes.",
+      "answerSet": "closed",
+      "explanation": "Hubble (visible/UV), Compton (gamma rays), Chandra (X-rays) and Spitzer (infrared) formed NASA's Great Observatories program, covering the spectrum from gamma rays to infrared.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-observatories",
+          "title": "Observatories",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/universe/observatories/",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "stsci-great-observatories",
+          "title": "Great Observatories: Past, Present, and Future",
+          "publisher": "Space Telescope Science Institute",
+          "url": "https://www.stsci.edu/contents/newsletters/2020-volume-37-issue-02/great-observatories-past-present-and-future",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "hubble", "canonical": "Hubble Space Telescope", "aliases": ["Hubble", "HST"], "familiarity": 0.6, "familiarityBasis": "curated-estimate", "evidence": "Launched April 24, 1990; the first of the Great Observatories.", "sourceIds": ["nasa-observatories", "stsci-great-observatories"] },
+        { "id": "chandra", "canonical": "Chandra X-ray Observatory", "aliases": ["Chandra", "CXO"], "familiarity": 0.17, "familiarityBasis": "curated-estimate", "evidence": "Launched July 23, 1999; NASA's most powerful X-ray telescope.", "sourceIds": ["nasa-observatories"] },
+        { "id": "spitzer", "canonical": "Spitzer Space Telescope", "aliases": ["Spitzer"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Launched August 25, 2003; the fourth and final Great Observatory.", "sourceIds": ["nasa-observatories"] },
+        { "id": "compton", "canonical": "Compton Gamma Ray Observatory", "aliases": ["Compton", "CGRO"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Launched April 5, 1991; decommissioned June 4, 2000.", "sourceIds": ["nasa-observatories"] }
+      ]
+    },
+    {
+      "id": "space-apollo-landings",
+      "category": "space",
+      "prompt": "Name an Apollo mission that landed astronauts on the Moon.",
+      "answerSet": "closed",
+      "explanation": "Six Apollo missions landed on the Moon: Apollo 11, 12, 14, 15, 16 and 17. Apollo 13 was aborted after an in-flight explosion.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-apollo-program",
+          "title": "The Apollo Program",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/the-apollo-program/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "apollo-11", "canonical": "Apollo 11", "aliases": [], "familiarity": 0.55, "familiarityBasis": "curated-estimate", "evidence": "July 1969: first humans to walk on the Moon.", "sourceIds": ["nasa-apollo-program"] },
+        { "id": "apollo-17", "canonical": "Apollo 17", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "December 1972: the final Apollo mission to the Moon.", "sourceIds": ["nasa-apollo-program"] },
+        { "id": "apollo-12", "canonical": "Apollo 12", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "November 1969: second crewed lunar landing.", "sourceIds": ["nasa-apollo-program"] },
+        { "id": "apollo-15", "canonical": "Apollo 15", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "July 1971: first use of the Lunar Roving Vehicle.", "sourceIds": ["nasa-apollo-program"] },
+        { "id": "apollo-14", "canonical": "Apollo 14", "aliases": [], "familiarity": 0.07, "familiarityBasis": "curated-estimate", "evidence": "January 1971: landed in the Fra Mauro region.", "sourceIds": ["nasa-apollo-program"] },
+        { "id": "apollo-16", "canonical": "Apollo 16", "aliases": [], "familiarity": 0.07, "familiarityBasis": "curated-estimate", "evidence": "April 1972: landed in the Descartes Highlands.", "sourceIds": ["nasa-apollo-program"] }
+      ]
+    },
+    {
+      "id": "space-moonwalkers",
+      "category": "space",
+      "prompt": "Name one of the 12 people who have walked on the Moon.",
+      "answerSet": "closed",
+      "explanation": "Twelve Apollo astronauts walked on the Moon between 1969 and 1972, all American. Four are still alive as of NASA's current listing: Aldrin, Scott, Duke and Schmitt.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-moonwalkers",
+          "title": "Moonwalkers",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/moon/moon-walkers/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "armstrong", "canonical": "Neil Armstrong", "aliases": ["Armstrong"], "familiarity": 0.38, "familiarityBasis": "curated-estimate", "evidence": "Apollo 11 commander; first person on the Moon.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "aldrin", "canonical": "Buzz Aldrin", "aliases": ["Aldrin", "Edwin Aldrin", "Edwin E. Aldrin Jr."], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Apollo 11 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "cernan", "canonical": "Gene Cernan", "aliases": ["Cernan", "Eugene Cernan", "Eugene A. Cernan"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Apollo 17 commander.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "shepard", "canonical": "Alan Shepard", "aliases": ["Shepard", "Alan B. Shepard Jr."], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Apollo 14 commander.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "conrad", "canonical": "Pete Conrad", "aliases": ["Conrad", "Charles Conrad", "Charles Conrad Jr.", "Charles Pete Conrad"], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Apollo 12 commander.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "bean", "canonical": "Alan Bean", "aliases": ["Bean"], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Apollo 12 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "schmitt", "canonical": "Harrison Schmitt", "aliases": ["Schmitt", "Harrison H. Schmitt"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 17 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "scott", "canonical": "David Scott", "aliases": ["Scott", "David R. Scott"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 15 commander.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "duke", "canonical": "Charles Duke", "aliases": ["Duke", "Charles M. Duke Jr."], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 16 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "young", "canonical": "John Young", "aliases": ["Young", "John W. Young"], "familiarity": 0.02, "familiarityBasis": "curated-estimate", "evidence": "Apollo 16 commander (and Apollo 10 orbital).", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "mitchell", "canonical": "Edgar Mitchell", "aliases": ["Mitchell", "Edgar D. Mitchell"], "familiarity": 0.02, "familiarityBasis": "curated-estimate", "evidence": "Apollo 14 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
+        { "id": "irwin", "canonical": "James Irwin", "aliases": ["Irwin", "James B. Irwin"], "familiarity": 0.01, "familiarityBasis": "curated-estimate", "evidence": "Apollo 15 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] }
+      ]
+    },
+    {
+      "id": "space-voyager-2-flybys",
+      "category": "space",
+      "prompt": "Name a planet that NASA's Voyager 2 flew past.",
+      "answerSet": "closed",
+      "explanation": "Voyager 2 is the only spacecraft to have visited all four giant planets: Jupiter (1979), Saturn (1981), Uranus (1986) and Neptune (1989). It remains the only spacecraft to have visited Uranus and Neptune.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-voyager-2",
+          "title": "Voyager 2: First To Visit All Four Giants",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/mission/voyager/voyager-2/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "jupiter", "canonical": "Jupiter", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Jupiter flyby on July 9, 1979.", "sourceIds": ["nasa-voyager-2"] },
+        { "id": "saturn", "canonical": "Saturn", "aliases": [], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Saturn flyby on August 25, 1981.", "sourceIds": ["nasa-voyager-2"] },
+        { "id": "uranus", "canonical": "Uranus", "aliases": [], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Uranus flyby on January 24, 1986.", "sourceIds": ["nasa-voyager-2"] },
+        { "id": "neptune", "canonical": "Neptune", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Neptune flyby on August 25, 1989.", "sourceIds": ["nasa-voyager-2"] }
+      ]
+    },
+    {
+      "id": "space-mars-moons",
+      "category": "space",
+      "prompt": "Name one of the two moons of Mars.",
+      "answerSet": "closed",
+      "explanation": "Asaph Hall discovered Phobos and Deimos in August 1877. Phobos is the larger and is slowly spiralling toward Mars.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nasa-mars-moons",
+          "title": "Moons of Mars",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/mars/moons/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "phobos", "canonical": "Phobos", "aliases": [], "familiarity": 0.65, "familiarityBasis": "curated-estimate", "evidence": "The larger moon; orbits Mars three times a day.", "sourceIds": ["nasa-mars-moons"] },
+        { "id": "deimos", "canonical": "Deimos", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "The smaller moon; orbits Mars every 30 hours.", "sourceIds": ["nasa-mars-moons"] }
+      ]
+    },
+    {
+      "id": "tollywood-rajamouli-films",
+      "category": "tollywood",
+      "prompt": "Name a Telugu feature film directed by S. S. Rajamouli (original releases through 2022).",
+      "answerSet": "closed",
+      "explanation": "Rajamouli's twelve directed features through 2022 run from Student No. 1 (2001) to RRR (2022). Baahubali: The Epic (2025) is a combined re-release of the two Baahubali films, and Varanasi is not yet released, so neither counts here.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "wiki-rajamouli-filmography",
+          "title": "S. S. Rajamouli filmography",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli_filmography",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "wiki-rajamouli",
+          "title": "S. S. Rajamouli",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "rrr", "canonical": "RRR", "aliases": ["Roudram Ranam Rudhiram"], "familiarity": 0.21, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2022.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "magadheera", "canonical": "Magadheera", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2009.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "baahubali-1", "canonical": "Baahubali: The Beginning", "aliases": ["Baahubali 1", "Bahubali 1", "Bahubali The Beginning"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2015.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "baahubali-2", "canonical": "Baahubali 2: The Conclusion", "aliases": ["Baahubali 2", "Bahubali 2", "Baahubali The Conclusion", "Bahubali The Conclusion"], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2017.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "eega", "canonical": "Eega", "aliases": ["Eecha"], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2012.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "student-no-1", "canonical": "Student No. 1", "aliases": ["Student Number 1"], "familiarity": 0.06, "familiarityBasis": "curated-estimate", "evidence": "Rajamouli's directorial debut, 2001.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "simhadri", "canonical": "Simhadri", "aliases": [], "familiarity": 0.06, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2003.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "chatrapathi", "canonical": "Chatrapathi", "aliases": ["Chhatrapati", "Chatrapati", "Chhatrapathi"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2005.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "sye", "canonical": "Sye", "aliases": [], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2004.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "vikramarkudu", "canonical": "Vikramarkudu", "aliases": [], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2006.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "yamadonga", "canonical": "Yamadonga", "aliases": ["Yama Donga"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2007.", "sourceIds": ["wiki-rajamouli-filmography"] },
+        { "id": "maryada-ramanna", "canonical": "Maryada Ramanna", "aliases": [], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2010.", "sourceIds": ["wiki-rajamouli-filmography"] }
+      ]
+    },
+    {
+      "id": "tollywood-rrr-leads",
+      "category": "tollywood",
+      "prompt": "Name one of the two male lead actors of the 2022 Telugu film RRR.",
+      "answerSet": "closed",
+      "explanation": "N. T. Rama Rao Jr. plays Komaram Bheem and Ram Charan plays Alluri Sitarama Raju. The title RRR originally abbreviated Rajamouli, Ram Charan, Rama Rao.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "wiki-rrr",
+          "title": "RRR",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/RRR",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "imdb-rrr",
+          "title": "RRR (2022)",
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/title/tt8178634/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "ntr-jr", "canonical": "N. T. Rama Rao Jr.", "aliases": ["Jr NTR", "NTR Jr", "NTR", "Rama Rao Jr"], "familiarity": 0.55, "familiarityBasis": "curated-estimate", "evidence": "Plays Komaram Bheem; credited as NTR on IMDb.", "sourceIds": ["wiki-rrr", "imdb-rrr"] },
+        { "id": "ram-charan", "canonical": "Ram Charan", "aliases": ["Ram Charan Teja", "Charan"], "familiarity": 0.45, "familiarityBasis": "curated-estimate", "evidence": "Plays Alluri Sitarama Raju; credited as Ram Charan Teja on IMDb.", "sourceIds": ["wiki-rrr", "imdb-rrr"] }
+      ]
+    },
+    {
+      "id": "tollywood-eega-stars",
+      "category": "tollywood",
+      "prompt": "Name one of the three main stars of the 2012 Telugu film Eega.",
+      "answerSet": "closed",
+      "explanation": "Eega stars Nani (reincarnated as a fly), Samantha as Bindu, and Sudeepa as the villain Sudeep. It was filmed simultaneously in Tamil as Naan Ee.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "wiki-eega",
+          "title": "Eega",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eega",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "nani", "canonical": "Nani", "aliases": [], "familiarity": 0.4, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays Nani.", "sourceIds": ["wiki-eega"] },
+        { "id": "samantha", "canonical": "Samantha", "aliases": ["Samantha Ruth Prabhu"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays Bindu.", "sourceIds": ["wiki-eega"] },
+        { "id": "sudeep", "canonical": "Sudeep", "aliases": ["Sudeepa", "Kiccha Sudeepa", "Kichcha Sudeepa", "Kichcha Sudeep"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays the villain Sudeep.", "sourceIds": ["wiki-eega"] }
+      ]
+    },
+    {
+      "id": "us-pop-nwa-hall-of-fame",
+      "category": "us-pop",
+      "prompt": "Name one of the five N.W.A members inducted into the Rock & Roll Hall of Fame in 2016.",
+      "answerSet": "closed",
+      "explanation": "The Rock Hall lists five N.W.A inductees: Eazy-E, Dr. Dre, Ice Cube, MC Ren and DJ Yella. Arabian Prince was an early member but is not among the five Hall of Fame inductees, so he is not accepted here.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "rockhall-nwa",
+          "title": "N.W.A (inductee profile, archived)",
+          "publisher": "Rock & Roll Hall of Fame",
+          "url": "https://web.archive.org/web/20171020084143/https:/www.rockhall.com/inductees/nwa",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "britannica-nwa",
+          "title": "N.W.A",
+          "publisher": "Britannica Kids",
+          "url": "https://kids.britannica.com/scholars/article/NWA/630036",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "dr-dre", "canonical": "Dr. Dre", "aliases": ["Dre", "Andre Young"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Andre Young; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
+        { "id": "ice-cube", "canonical": "Ice Cube", "aliases": ["O'Shea Jackson"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "O'Shea Jackson; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
+        { "id": "eazy-e", "canonical": "Eazy-E", "aliases": ["Eric Wright"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Eric Wright; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
+        { "id": "mc-ren", "canonical": "MC Ren", "aliases": ["Ren", "Lorenzo Patterson"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Lorenzo Patterson; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
+        { "id": "dj-yella", "canonical": "DJ Yella", "aliases": ["Yella", "Antoine Carraby"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Antoine Carraby; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] }
+      ]
+    },
+    {
+      "id": "us-pop-golden-girls",
+      "category": "us-pop",
+      "prompt": "Name one of the four actresses who starred in the sitcom The Golden Girls.",
+      "answerSet": "closed",
+      "explanation": "The main cast was Bea Arthur (Dorothy), Betty White (Rose), Rue McClanahan (Blanche) and Estelle Getty (Sophia).",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "hallmark-golden-girls",
+          "title": "Golden Girls - Cast",
+          "publisher": "Hallmark Channel",
+          "url": "https://www.hallmarkchannel.com/golden-girls/cast",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "betty-white", "canonical": "Betty White", "aliases": [], "familiarity": 0.5, "familiarityBasis": "curated-estimate", "evidence": "Played Rose Nylund.", "sourceIds": ["hallmark-golden-girls"] },
+        { "id": "bea-arthur", "canonical": "Bea Arthur", "aliases": ["Beatrice Arthur"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Played Dorothy Zbornak.", "sourceIds": ["hallmark-golden-girls"] },
+        { "id": "rue-mcclanahan", "canonical": "Rue McClanahan", "aliases": ["McClanahan"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Played Blanche Devereaux.", "sourceIds": ["hallmark-golden-girls"] },
+        { "id": "estelle-getty", "canonical": "Estelle Getty", "aliases": ["Getty"], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Played Sophia Petrillo.", "sourceIds": ["hallmark-golden-girls"] }
+      ]
+    },
+    {
+      "id": "us-pop-infinity-stones",
+      "category": "us-pop",
+      "prompt": "Name one of the six Infinity Stones in the Marvel Cinematic Universe.",
+      "answerSet": "closed",
+      "explanation": "The six Infinity Stones are Space, Mind, Reality, Power, Time and Soul.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "marvel-endgame-guide",
+          "title": "Your Marvel Guide to Marvel Studios' Avengers: Endgame",
+          "publisher": "Marvel",
+          "url": "https://www.marvel.com/articles/movies/your-marvel-guide-to-avengers-endgame?linkId=66631083",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "time", "canonical": "Time Stone", "aliases": ["Time"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
+        { "id": "soul", "canonical": "Soul Stone", "aliases": ["Soul"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
+        { "id": "space", "canonical": "Space Stone", "aliases": ["Space"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
+        { "id": "power", "canonical": "Power Stone", "aliases": ["Power"], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
+        { "id": "mind", "canonical": "Mind Stone", "aliases": ["Mind"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
+        { "id": "reality", "canonical": "Reality Stone", "aliases": ["Reality"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] }
+      ]
+    },
+    {
+      "id": "us-pop-star-wars-original-trilogy",
+      "category": "us-pop",
+      "prompt": "Name a film in the original Star Wars trilogy.",
+      "answerSet": "closed",
+      "explanation": "The original trilogy is Episode IV: A New Hope (1977), Episode V: The Empire Strikes Back (1980) and Episode VI: Return of the Jedi (1983). Typing just \"Star Wars\" is ambiguous, so it is not accepted.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "starwars-viewing-guide",
+          "title": "Star Wars Movies and Series Viewing Guide",
+          "publisher": "StarWars.com",
+          "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "empire", "canonical": "The Empire Strikes Back", "aliases": ["Empire Strikes Back", "Episode V", "Episode 5", "Star Wars: Episode V - The Empire Strikes Back"], "familiarity": 0.4, "familiarityBasis": "curated-estimate", "evidence": "Episode V, released 1980.", "sourceIds": ["starwars-viewing-guide"] },
+        { "id": "new-hope", "canonical": "A New Hope", "aliases": ["Episode IV", "Episode 4", "Star Wars: A New Hope", "Star Wars: Episode IV - A New Hope"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Episode IV, released 1977.", "sourceIds": ["starwars-viewing-guide"] },
+        { "id": "jedi", "canonical": "Return of the Jedi", "aliases": ["Episode VI", "Episode 6", "Star Wars: Return of the Jedi", "Star Wars: Episode VI - Return of the Jedi"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Episode VI, released 1983.", "sourceIds": ["starwars-viewing-guide"] }
+      ]
+    },
+    {
+      "id": "us-pop-afc-east",
+      "category": "us-pop",
+      "prompt": "Name a team in the NFL's AFC East division.",
+      "answerSet": "closed",
+      "explanation": "The AFC East consists of the Buffalo Bills, Miami Dolphins, New England Patriots and New York Jets.",
+      "approvedOn": "2026-10-29",
+      "sources": [
+        {
+          "id": "nfl-standings",
+          "title": "2026 NFL Division Standings",
+          "publisher": "NFL",
+          "url": "https://www.nfl.com/standings/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "answers": [
+        { "id": "bills", "canonical": "Buffalo Bills", "aliases": ["Bills", "Buffalo"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
+        { "id": "patriots", "canonical": "New England Patriots", "aliases": ["Patriots", "New England", "Pats"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
+        { "id": "dolphins", "canonical": "Miami Dolphins", "aliases": ["Dolphins", "Miami"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
+        { "id": "jets", "canonical": "New York Jets", "aliases": ["Jets", "NY Jets"], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] }
+      ]
+    }
+  ]
+}
