@@ -63,12 +63,13 @@ describe('round lifecycle', () => {
   it('resets the deadline for each new question', () => {
     const s = run([
       start(),
-      { type: 'SUBMIT', text: 'x', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'saturn', nowMs: T0 + SECOND },
       { type: 'NEXT', nowMs: T0 + 10 * SECOND },
     ]);
     expect(s).toMatchObject({
       phase: 'answering',
       index: 1,
+      misses: [],
       deadlineMs: T0 + 10 * SECOND + DEFAULT_SECONDS_PER_QUESTION * SECOND,
     });
   });
@@ -119,34 +120,84 @@ describe('grading and scoring in a round', () => {
     }
   });
 
-  it('wrong answers score zero and are not flagged for review on closed sets', () => {
+  it('an unrecognised answer does not end the question: the player can try again', () => {
     const s = run([start(), { type: 'SUBMIT', text: 'Pluto', nowMs: T0 + SECOND }]);
+    expect(s).toMatchObject({ phase: 'answering', index: 0, misses: ['Pluto'] });
+    // ...and the deadline is untouched, so a miss buys no extra time.
+    expect(s.phase === 'answering' && s.deadlineMs).toBe(T0 + DEFAULT_SECONDS_PER_QUESTION * SECOND);
+  });
+
+  it('a later correct answer scores normally and keeps the earlier misses', () => {
+    const s = run([
+      start(),
+      { type: 'SUBMIT', text: 'Pluto', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'Saturn', nowMs: T0 + 2 * SECOND },
+    ]);
     expect(s.phase === 'revealed' && s.results[0]).toMatchObject({
-      outcome: 'incorrect',
+      outcome: 'correct',
+      points: 100,
+      misses: ['Pluto'],
+      needsReview: false, // closed set: a miss is simply wrong
+    });
+  });
+
+  it('misses on an OPEN question are flagged for review, even if the player later gets it right', () => {
+    const missThenHit = run([
+      start([q2]),
+      { type: 'SUBMIT', text: 'Some Film Not In Bank', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'Saturn', nowMs: T0 + 2 * SECOND },
+    ]);
+    expect(missThenHit.phase === 'revealed' && missThenHit.results[0]).toMatchObject({
+      outcome: 'correct',
+      misses: ['Some Film Not In Bank'],
+      needsReview: true,
+    });
+
+    const missThenTimeout = run([
+      start([q2]),
+      { type: 'SUBMIT', text: 'Some Film Not In Bank', nowMs: T0 + SECOND },
+      { type: 'TIMEOUT', nowMs: T0 + DEFAULT_SECONDS_PER_QUESTION * SECOND },
+    ]);
+    expect(missThenTimeout.phase === 'revealed' && missThenTimeout.results[0]).toMatchObject({
+      outcome: 'timeout',
+      needsReview: true,
+    });
+  });
+
+  it('a timeout reports the last thing the player tried, and every miss', () => {
+    const s = run([
+      start(),
+      { type: 'SUBMIT', text: 'Pluto', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'Vulcan', nowMs: T0 + 2 * SECOND },
+      { type: 'TIMEOUT', nowMs: T0 + DEFAULT_SECONDS_PER_QUESTION * SECOND },
+    ]);
+    expect(s.phase === 'revealed' && s.results[0]).toMatchObject({
+      outcome: 'timeout',
+      input: 'Vulcan',
+      misses: ['Pluto', 'Vulcan'],
       points: 0,
       needsReview: false,
     });
   });
 
-  it('flags unknown answers on OPEN questions for review (and gives no bonus points)', () => {
-    const s = run([
-      start(),
-      { type: 'SUBMIT', text: 'x', nowMs: T0 + SECOND },
-      { type: 'NEXT', nowMs: T0 + 2 * SECOND },
-      { type: 'SUBMIT', text: 'Some Film Not In Bank', nowMs: T0 + 3 * SECOND },
-    ]);
-    const last = s.phase === 'revealed' ? s.results[1] : undefined;
-    expect(last).toMatchObject({ outcome: 'incorrect', points: 0, needsReview: true });
+  it('ignores an empty submission entirely (it does not cost an attempt or flag review)', () => {
+    const before = run([start([q2])]);
+    expect(roundReducer(before, { type: 'SUBMIT', text: '   ', nowMs: T0 + SECOND })).toBe(before);
   });
 
-  it('does not flag an empty submission for review', () => {
-    const s = run([start([q2]), { type: 'SUBMIT', text: '   ', nowMs: T0 + SECOND }]);
-    expect(s.phase === 'revealed' && s.results[0]?.needsReview).toBe(false);
+  it('misses reset for each new question', () => {
+    const s = run([
+      start(),
+      { type: 'SUBMIT', text: 'Pluto', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'Saturn', nowMs: T0 + 2 * SECOND },
+      { type: 'NEXT', nowMs: T0 + 3 * SECOND },
+    ]);
+    expect(s).toMatchObject({ phase: 'answering', index: 1, misses: [] });
   });
 
   it('truncates absurdly long input before storing it', () => {
     const s = run([start(), { type: 'SUBMIT', text: 'a'.repeat(5000), nowMs: T0 + SECOND }]);
-    expect(s.phase === 'revealed' && s.results[0]?.input.length).toBe(MAX_INPUT_LENGTH);
+    expect(s.phase === 'answering' && s.misses[0]?.length).toBe(MAX_INPUT_LENGTH);
   });
 
   it('uses supplied observations when scoring', () => {
@@ -166,7 +217,11 @@ describe('timing', () => {
       start(),
       { type: 'SUBMIT', text: 'Saturn', nowMs: T0 + DEFAULT_SECONDS_PER_QUESTION * SECOND },
     ]);
-    expect(s.phase === 'revealed' && s.results[0]).toMatchObject({ outcome: 'timeout', points: 0 });
+    expect(s.phase === 'revealed' && s.results[0]).toMatchObject({
+      outcome: 'timeout',
+      points: 0,
+      input: 'Saturn', // what they typed is kept, but it earns nothing
+    });
   });
 
   it('accepts a submission one millisecond before the deadline', () => {
@@ -222,7 +277,7 @@ describe('illegal transitions are ignored', () => {
   it('ignores SUBMIT/TIMEOUT after the round is finished', () => {
     const done = run([
       start([q1]),
-      { type: 'SUBMIT', text: 'x', nowMs: T0 + SECOND },
+      { type: 'SUBMIT', text: 'saturn', nowMs: T0 + SECOND },
       { type: 'NEXT', nowMs: T0 + 2 * SECOND },
     ]);
     expect(done.phase).toBe('finished');

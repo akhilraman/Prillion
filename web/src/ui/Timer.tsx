@@ -7,6 +7,9 @@ interface TimerProps {
   onExpire: () => void;
 }
 
+const RADIUS = 20;
+const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
+
 /**
  * Owns the countdown's own state so that ticking (5x/second) re-renders ONLY this
  * small component, never the question panel or the answer field the user is typing in.
@@ -43,12 +46,25 @@ export function Timer({ deadlineMs, totalSeconds, onExpire }: TimerProps) {
   const fraction = Math.min(1, remainingMs / (totalSeconds * 1000));
 
   return (
-    <div className={`timer${seconds <= 5 ? ' timer--low' : ''}`} role="timer" aria-live="off">
-      <span className="timer__label">Time</span>
+    <div
+      className={`timer${seconds <= 5 ? ' timer--low' : ''}`}
+      role="timer"
+      aria-label="Time left"
+      aria-live="off"
+    >
+      <svg className="timer__ring" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+        <circle className="timer__track" cx="24" cy="24" r={RADIUS} />
+        <circle
+          className="timer__arc"
+          cx="24"
+          cy="24"
+          r={RADIUS}
+          strokeDasharray={CIRCUMFERENCE}
+          strokeDashoffset={CIRCUMFERENCE * (1 - fraction)}
+          transform="rotate(-90 24 24)"
+        />
+      </svg>
       <span className="timer__value">{seconds}s</span>
-      <span className="timer__track" aria-hidden="true">
-        <span className="timer__bar" style={{ transform: `scaleX(${fraction})` }} />
-      </span>
     </div>
   );
 }

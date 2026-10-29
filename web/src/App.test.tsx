@@ -84,13 +84,13 @@ describe('playing a full round through the UI', () => {
 
       await user.type(input, `${CORRECT}{Enter}`);
 
-      // Reveal: outcome, accepted answers, explanation; focus moves to the continue button.
-      expect(
-        screen.getByRole('heading', { level: 2, name: /correct! common answer, \+100/i }),
-      ).toBeInTheDocument();
+      // Reveal: rank for the answer's rarity, points, accepted answers, explanation.
+      // Focus moves to the continue button so Enter keeps the dive going.
+      expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
+      expect(screen.getByText('+100 PTS · sink 200m')).toBeInTheDocument();
       expect(screen.getByText('All accepted answers')).toBeInTheDocument();
       expect(screen.getByText('test explanation')).toBeInTheDocument();
-      const nextButton = screen.getByRole('button', { name: i === N ? 'See results' : 'Next question' });
+      const nextButton = screen.getByRole('button', { name: i === N ? 'See results' : 'Descend' });
       expect(nextButton).toHaveFocus();
 
       await user.click(nextButton);
@@ -119,8 +119,8 @@ describe('playing a full round through the UI', () => {
       const prompts: string[] = [];
       for (let i = 1; i <= N; i++) {
         prompts.push(currentPrompt());
-        await user.type(screen.getByLabelText('Your answer'), 'x{Enter}');
-        await user.click(screen.getByRole('button', { name: /next question|see results/i }));
+        await user.type(screen.getByLabelText('Your answer'), `${CORRECT}{Enter}`);
+        await user.click(screen.getByRole('button', { name: /descend|see results/i }));
       }
       await user.click(screen.getByRole('button', { name: 'Play again' }));
       return prompts;
@@ -145,19 +145,43 @@ describe('playing a full round through the UI', () => {
     const user = userEvent.setup();
     render(<App bank={bank} />);
     await user.click(screen.getByRole('button', { name: /mixed/i }));
-    expect(screen.getByRole('button', { name: 'Submit' })).toBeDisabled();
+    expect(screen.getByRole('button', { name: 'Dive' })).toBeDisabled();
     await user.type(screen.getByLabelText('Your answer'), '   {Enter}');
     // Still answering: no reveal appeared.
     expect(screen.queryByText('All accepted answers')).not.toBeInTheDocument();
   });
 
-  it('marks a wrong answer incorrect and still shows the accepted answers', async () => {
+  it('keeps the player on the question after a wrong answer, with the text kept and a message', async () => {
     const user = userEvent.setup();
     render(<App bank={bank} />);
     await user.click(screen.getByRole('button', { name: /^space/i }));
-    await user.type(screen.getByLabelText('Your answer'), 'definitely wrong{Enter}');
-    expect(screen.getByRole('heading', { level: 2, name: 'Not quite' })).toBeInTheDocument();
-    expect(screen.getByText('alpha')).toBeInTheDocument();
+
+    const input = screen.getByLabelText('Your answer');
+    await user.type(input, 'definitely wrong{Enter}');
+
+    // Nothing was revealed: same question, clock still running, text still there.
+    expect(screen.getByText(/no signal/)).toHaveTextContent('definitely wrong: no signal. try again');
+    expect(screen.queryByText('All accepted answers')).not.toBeInTheDocument();
+    expect(screen.getByRole('timer')).toBeInTheDocument();
+    expect(input).toHaveValue('definitely wrong');
+
+    // Editing the text clears the message; a correct retry then scores normally.
+    await user.clear(input);
+    expect(screen.queryByText(/no signal/)).not.toBeInTheDocument();
+    await user.type(input, `${CORRECT}{Enter}`);
+    expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
+  });
+
+  it('allows several wrong attempts before the right one', async () => {
+    const user = userEvent.setup();
+    render(<App bank={bank} />);
+    await user.click(screen.getByRole('button', { name: /^space/i }));
+
+    const input = screen.getByLabelText('Your answer');
+    await user.type(input, 'nope{Enter}');
+    await user.clear(input);
+    await user.type(input, 'still no{Enter}');
+    expect(screen.getByText(/no signal/)).toHaveTextContent('still no: no signal. try again');
   });
 
   it('quitting returns to the home screen', async () => {
@@ -180,7 +204,8 @@ describe('timer', () => {
       vi.advanceTimersByTime((DEFAULT_SECONDS_PER_QUESTION + 1) * 1000);
     });
 
-    expect(screen.getByRole('heading', { level: 2, name: "Time's up" })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Empty Hook' })).toBeInTheDocument();
+    expect(screen.getByText('+0 PTS')).toBeInTheDocument();
   });
 
   it('counts down while answering', () => {
@@ -208,8 +233,8 @@ describe('timer', () => {
     // The player returns and submits before any tick has had a chance to notice.
     fireEvent.submit(screen.getByLabelText('Your answer').closest('form')!);
 
-    expect(screen.getByRole('heading', { level: 2, name: "Time's up" })).toBeInTheDocument();
-    expect(screen.queryByText(/correct!/i)).not.toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Empty Hook' })).toBeInTheDocument();
+    expect(screen.queryByRole('heading', { level: 2, name: 'Starfish' })).not.toBeInTheDocument();
     clock.mockRestore();
   });
 
@@ -224,7 +249,7 @@ describe('timer', () => {
     nowMs += DEFAULT_SECONDS_PER_QUESTION * 1000 - 1;
     fireEvent.submit(screen.getByLabelText('Your answer').closest('form')!);
 
-    expect(screen.getByRole('heading', { level: 2, name: /correct!/i })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
     clock.mockRestore();
   });
 });
