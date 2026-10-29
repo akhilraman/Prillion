@@ -1,0 +1,577 @@
+{
+  "question": {
+    "id": "us-pop-nba-mvps-gen",
+    "category": "us-pop",
+    "prompt": "Name a player who has won the NBA regular-season Most Valuable Player (MVP) award.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "bob-pettit",
+        "canonical": "Bob Pettit",
+        "aliases": [
+          "Pettit"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Pettit won the NBA MVP award for the 1955–56 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bob-cousy",
+        "canonical": "Bob Cousy",
+        "aliases": [
+          "Cousy"
+        ],
+        "familiarity": 0.0066,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Cousy won the NBA MVP award for the 1956–57 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bill-russell",
+        "canonical": "Bill Russell",
+        "aliases": [],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Russell won the NBA MVP award five times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "wilt-chamberlain",
+        "canonical": "Wilt Chamberlain",
+        "aliases": [
+          "Wilt",
+          "Chamberlain"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilt Chamberlain won the NBA MVP award four times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "oscar-robertson",
+        "canonical": "Oscar Robertson",
+        "aliases": [
+          "Robertson"
+        ],
+        "familiarity": 0.0066,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oscar Robertson won the NBA MVP award for the 1963–64 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "wes-unseld",
+        "canonical": "Wes Unseld",
+        "aliases": [
+          "Unseld"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wes Unseld won the NBA MVP award for the 1968–69 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "willis-reed",
+        "canonical": "Willis Reed",
+        "aliases": [
+          "Reed"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Willis Reed won the NBA MVP award for the 1969–70 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kareem-abdul-jabbar",
+        "canonical": "Kareem Abdul-Jabbar",
+        "aliases": [
+          "Kareem",
+          "Abdul-Jabbar",
+          "Kareem Abdul Jabbar",
+          "Lew Alcindor"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kareem Abdul-Jabbar won a record six NBA MVP awards.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dave-cowens",
+        "canonical": "Dave Cowens",
+        "aliases": [
+          "Cowens"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Cowens won the NBA MVP award for the 1972–73 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bob-mcadoo",
+        "canonical": "Bob McAdoo",
+        "aliases": [
+          "McAdoo"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob McAdoo won the NBA MVP award for the 1974–75 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bill-walton",
+        "canonical": "Bill Walton",
+        "aliases": [
+          "Walton"
+        ],
+        "familiarity": 0.0066,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Walton won the NBA MVP award for the 1977–78 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "moses-malone",
+        "canonical": "Moses Malone",
+        "aliases": [
+          "Moses"
+        ],
+        "familiarity": 0.0066,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moses Malone won the NBA MVP award three times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "julius-erving",
+        "canonical": "Julius Erving",
+        "aliases": [
+          "Erving",
+          "Dr. J",
+          "Dr J"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julius Erving won the NBA MVP award for the 1980–81 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "larry-bird",
+        "canonical": "Larry Bird",
+        "aliases": [
+          "Bird"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Bird won the NBA MVP award in 1984, 1985, and 1986.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "magic-johnson",
+        "canonical": "Magic Johnson",
+        "aliases": [
+          "Magic",
+          "Earvin Johnson"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magic Johnson won the NBA MVP award three times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "Jordan",
+          "MJ"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jordan won the NBA MVP award five times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "charles-barkley",
+        "canonical": "Charles Barkley",
+        "aliases": [
+          "Barkley"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charles Barkley won the NBA MVP award for the 1992–93 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "hakeem-olajuwon",
+        "canonical": "Hakeem Olajuwon",
+        "aliases": [
+          "Hakeem",
+          "Olajuwon"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hakeem Olajuwon won the NBA MVP award for the 1993–94 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "david-robinson",
+        "canonical": "David Robinson",
+        "aliases": [
+          "Robinson"
+        ],
+        "familiarity": 0.0066,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Robinson won the NBA MVP award for the 1994–95 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "karl-malone",
+        "canonical": "Karl Malone",
+        "aliases": [],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karl Malone won the NBA MVP award in 1997 and 1999.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille Oneal",
+          "O'Neal"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shaquille O'Neal won the NBA MVP award for the 1999–00 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "allen-iverson",
+        "canonical": "Allen Iverson",
+        "aliases": [
+          "Iverson"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen Iverson won the NBA MVP award for the 2000–01 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [
+          "Duncan"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Duncan won the NBA MVP award in 2002 and 2003.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kevin-garnett",
+        "canonical": "Kevin Garnett",
+        "aliases": [
+          "Garnett",
+          "KG"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Garnett won the NBA MVP award for the 2003–04 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "steve-nash",
+        "canonical": "Steve Nash",
+        "aliases": [
+          "Nash"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Steve Nash won the NBA MVP award in 2005 and 2006.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dirk-nowitzki",
+        "canonical": "Dirk Nowitzki",
+        "aliases": [
+          "Dirk",
+          "Nowitzki"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dirk Nowitzki won the NBA MVP award for the 2006–07 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kobe-bryant",
+        "canonical": "Kobe Bryant",
+        "aliases": [
+          "Kobe",
+          "Bryant"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kobe Bryant won the NBA MVP award for the 2007–08 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James won the NBA MVP award four times.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "derrick-rose",
+        "canonical": "Derrick Rose",
+        "aliases": [
+          "Rose",
+          "D Rose",
+          "D-Rose"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Derrick Rose won the NBA MVP award for the 2010–11 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kevin-durant",
+        "canonical": "Kevin Durant",
+        "aliases": [
+          "Durant",
+          "KD"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Durant won the NBA MVP award for the 2013–14 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "stephen-curry",
+        "canonical": "Stephen Curry",
+        "aliases": [
+          "Steph Curry",
+          "Curry",
+          "Steph"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Curry won the NBA MVP award in 2015 and 2016.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "russell-westbrook",
+        "canonical": "Russell Westbrook",
+        "aliases": [
+          "Westbrook"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Russell Westbrook won the NBA MVP award for the 2016–17 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "james-harden",
+        "canonical": "James Harden",
+        "aliases": [
+          "Harden"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Harden won the NBA MVP award for the 2017–18 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "giannis-antetokounmpo",
+        "canonical": "Giannis Antetokounmpo",
+        "aliases": [
+          "Giannis",
+          "Antetokounmpo"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giannis Antetokounmpo won the NBA MVP award in 2019 and 2020.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "nikola-joki",
+        "canonical": "Nikola Jokić",
+        "aliases": [
+          "Nikola Jokic",
+          "Jokic",
+          "Jokić"
+        ],
+        "familiarity": 0.0551,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nikola Jokić won the NBA MVP award in 2021, 2022, and 2024.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "joel-embiid",
+        "canonical": "Joel Embiid",
+        "aliases": [
+          "Embiid"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joel Embiid won the NBA MVP award for the 2022–23 season.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      },
+      {
+        "id": "shai-gilgeous-alexander",
+        "canonical": "Shai Gilgeous-Alexander",
+        "aliases": [
+          "Shai",
+          "SGA",
+          "Shai Gilgeous Alexander",
+          "Gilgeous-Alexander"
+        ],
+        "familiarity": 0.022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shai Gilgeous-Alexander is listed as the NBA MVP winner for the 2024–25 and 2025–26 seasons.",
+        "sourceIds": [
+          "nba-most-valuable-player"
+        ]
+      }
+    ],
+    "explanation": "The NBA MVP award recognizes regular-season performance, rather than performance in the Finals. It was first awarded for the 1955–56 season, and Kareem Abdul-Jabbar holds the record with six wins.",
+    "sources": [
+      {
+        "id": "nba-most-valuable-player",
+        "title": "NBA Most Valuable Player",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_Most_Valuable_Player",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "92b58385f427096e",
+    "brief": "Name a player who has won the NBA Most Valuable Player award.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-most-valuable-player",
+        "version": "1376809534",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Bob Pettit": "1955–56 | Bob Pettit* | Power forward | United States | St. Louis Hawks",
+      "Bob Cousy": "1956–57 ‡ | Bob Cousy* | Point guard | United States | Boston Celtics",
+      "Bill Russell": "5 | Bill Russell | Boston Celtics | 1958, 1961, 1962, 1963, 1965",
+      "Wilt Chamberlain": "4 | Wilt Chamberlain | Philadelphia Warriors (1) / Philadelphia 76ers (3) | 1960, 1966, 1967, 1968",
+      "Oscar Robertson": "1963–64 | Oscar Robertson* | Point guard | United States | Cincinnati Royals",
+      "Wes Unseld": "1968–69 | Wes Unseld* | Center | United States | Baltimore Bullets",
+      "Willis Reed": "1969–70 ‡ | Willis Reed* | Center | United States | New York Knicks",
+      "Kareem Abdul-Jabbar": "6 | Kareem Abdul-Jabbar | Milwaukee Bucks (3) / Los Angeles Lakers (3) | 1971, 1972, 1974, 1976, 1977, 1980",
+      "Dave Cowens": "1972–73 | Dave Cowens* | Center | United States | Boston Celtics (7)",
+      "Bob McAdoo": "1974–75 | Bob McAdoo* | Center | United States | Buffalo Braves",
+      "Bill Walton": "1977–78 | Bill Walton* | Center | United States | Portland Trail Blazers",
+      "Moses Malone": "3 | Moses Malone | Houston Rockets (2) / Philadelphia 76ers (1) | 1979, 1982, 1983",
+      "Julius Erving": "1980–81 | Julius Erving* | Small forward | United States | Philadelphia 76ers (4)",
+      "Larry Bird": "3 | Larry Bird | Boston Celtics | 1984, 1985, 1986",
+      "Magic Johnson": "3 | Magic Johnson | Los Angeles Lakers | 1987, 1989, 1990",
+      "Michael Jordan": "5 | Michael Jordan | Chicago Bulls | 1988, 1991, 1992, 1996, 1998",
+      "Charles Barkley": "1992–93 | Charles Barkley* | Power forward | United States | Phoenix Suns",
+      "Hakeem Olajuwon": "1993–94 ‡ | Hakeem Olajuwon* | Center | Nigeria | Houston Rockets (3)",
+      "David Robinson": "1994–95 | David Robinson* | Center | United States | San Antonio Spurs",
+      "Karl Malone": "2 | Karl Malone | Utah Jazz | 1997, 1999",
+      "Shaquille O'Neal": "1999–00 ‡ | Shaquille O'Neal* | Center | United States | Los Angeles Lakers (7)",
+      "Allen Iverson": "2000–01 | Allen Iverson* | Shooting guard | United States | Philadelphia 76ers (6)",
+      "Tim Duncan": "2 | Tim Duncan | San Antonio Spurs | 2002, 2003",
+      "Kevin Garnett": "2003–04 | Kevin Garnett* | Power forward | United States | Minnesota Timberwolves",
+      "Steve Nash": "2 | Steve Nash | Phoenix Suns | 2005, 2006",
+      "Dirk Nowitzki": "2006–07 | Dirk Nowitzki* | Power forward | Germany | Dallas Mavericks",
+      "Kobe Bryant": "2007–08 | Kobe Bryant* | Shooting guard | United States | Los Angeles Lakers (8)",
+      "LeBron James": "4 | LeBron James | Cleveland Cavaliers (2) / Miami Heat (2) | 2009, 2010, 2012, 2013",
+      "Derrick Rose": "2010–11 | Derrick Rose | Point guard | United States | Chicago Bulls (6)",
+      "Kevin Durant": "2013–14 | Kevin Durant^ | Small forward | United States | Oklahoma City Thunder",
+      "Stephen Curry": "2 | Stephen Curry | Golden State Warriors | 2015, 2016",
+      "Russell Westbrook": "2016–17 | Russell Westbrook | Point guard | United States | Oklahoma City Thunder (2)",
+      "James Harden": "2017–18 | James Harden^ | Shooting guard | United States | Houston Rockets (4)",
+      "Giannis Antetokounmpo": "2 | Giannis Antetokounmpo | Milwaukee Bucks | 2019, 2020",
+      "Nikola Jokić": "3 | Nikola Jokić | Denver Nuggets | 2021, 2022, 2024",
+      "Joel Embiid": "2022–23 | Joel Embiid^ | Center | Cameroon | Philadelphia 76ers (7)",
+      "Shai Gilgeous-Alexander": "2 | Shai Gilgeous-Alexander | Oklahoma City Thunder | 2025, 2026"
+    },
+    "issues": []
+  }
+}
