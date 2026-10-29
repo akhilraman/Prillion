@@ -1,0 +1,722 @@
+{
+  "question": {
+    "id": "space-jupiter-moons",
+    "category": "space",
+    "prompt": "Name an officially named moon of Jupiter. Only moons with an IAU-approved proper name count, not unnamed moons with only a provisional designation.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "io",
+        "canonical": "Io",
+        "aliases": [],
+        "familiarity": 0.1227,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Io is one of Jupiter's four named Galilean moons.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "europa",
+        "canonical": "Europa",
+        "aliases": [],
+        "familiarity": 0.1227,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Europa is one of Jupiter's four named Galilean moons.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "ganymede",
+        "canonical": "Ganymede",
+        "aliases": [],
+        "familiarity": 0.1227,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ganymede is one of Jupiter's four named Galilean moons.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "callisto",
+        "canonical": "Callisto",
+        "aliases": [],
+        "familiarity": 0.1227,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Callisto is one of Jupiter's four named Galilean moons.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "metis",
+        "canonical": "Metis",
+        "aliases": [],
+        "familiarity": 0.0491,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Metis is listed as a named inner satellite of Jupiter.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "adrastea",
+        "canonical": "Adrastea",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adrastea is listed as a named inner satellite of Jupiter.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "amalthea",
+        "canonical": "Amalthea",
+        "aliases": [],
+        "familiarity": 0.0491,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amalthea is listed as a named inner satellite of Jupiter.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "thebe",
+        "canonical": "Thebe",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thebe is listed as a named inner satellite of Jupiter.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "themisto",
+        "canonical": "Themisto",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Themisto is identified as Jupiter's innermost irregular moon.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "leda",
+        "canonical": "Leda",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leda appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "ersa",
+        "canonical": "Ersa",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ersa appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "himalia",
+        "canonical": "Himalia",
+        "aliases": [],
+        "familiarity": 0.0491,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Himalia is identified as one of the largest members of its Jovian satellite group.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "pandia",
+        "canonical": "Pandia",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pandia appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "lysithea",
+        "canonical": "Lysithea",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lysithea appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "elara",
+        "canonical": "Elara",
+        "aliases": [],
+        "familiarity": 0.0491,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elara is identified as one of the largest members of its Jovian satellite group.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "dia",
+        "canonical": "Dia",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The naming section explicitly identifies Dia as a named satellite of Jupiter.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "carpo",
+        "canonical": "Carpo",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carpo appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "valetudo",
+        "canonical": "Valetudo",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Valetudo is identified as Jupiter's outermost prograde moon.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "euporie",
+        "canonical": "Euporie",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Euporie appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "eupheme",
+        "canonical": "Eupheme",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eupheme appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "mneme",
+        "canonical": "Mneme",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mneme appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "euanthe",
+        "canonical": "Euanthe",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Euanthe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "harpalyke",
+        "canonical": "Harpalyke",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Harpalyke appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "orthosie",
+        "canonical": "Orthosie",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Orthosie appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "helike",
+        "canonical": "Helike",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helike appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "praxidike",
+        "canonical": "Praxidike",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Praxidike appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "thelxinoe",
+        "canonical": "Thelxinoe",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thelxinoe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "thyone",
+        "canonical": "Thyone",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thyone appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "ananke",
+        "canonical": "Ananke",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ananke appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "iocaste",
+        "canonical": "Iocaste",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iocaste appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "hermippe",
+        "canonical": "Hermippe",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hermippe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "philophrosyne",
+        "canonical": "Philophrosyne",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Philophrosyne appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "pasithee",
+        "canonical": "Pasithee",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pasithee appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "eurydome",
+        "canonical": "Eurydome",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eurydome appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "chaldene",
+        "canonical": "Chaldene",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaldene appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "isonoe",
+        "canonical": "Isonoe",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isonoe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "kallichore",
+        "canonical": "Kallichore",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kallichore appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "erinome",
+        "canonical": "Erinome",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erinome appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "kale",
+        "canonical": "Kale",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kale appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "eirene",
+        "canonical": "Eirene",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eirene appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "aitne",
+        "canonical": "Aitne",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aitne appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "eukelade",
+        "canonical": "Eukelade",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eukelade appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "arche",
+        "canonical": "Arche",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arche appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "taygete",
+        "canonical": "Taygete",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taygete appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "carme",
+        "canonical": "Carme",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carme appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "herse",
+        "canonical": "Herse",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Herse appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "kalyke",
+        "canonical": "Kalyke",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kalyke appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "hegemone",
+        "canonical": "Hegemone",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegemone appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "pasiphae",
+        "canonical": "Pasiphae",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pasiphae appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "sponde",
+        "canonical": "Sponde",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sponde appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "megaclite",
+        "canonical": "Megaclite",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Megaclite appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "cyllene",
+        "canonical": "Cyllene",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cyllene appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "sinope",
+        "canonical": "Sinope",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sinope appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "aoede",
+        "canonical": "Aoede",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aoede appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "autonoe",
+        "canonical": "Autonoe",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Autonoe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "callirrhoe",
+        "canonical": "Callirrhoe",
+        "aliases": [],
+        "familiarity": 0.0147,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Callirrhoe appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      },
+      {
+        "id": "kore",
+        "canonical": "Kore",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kore appears as a properly named moon in Jupiter's satellite table.",
+        "sourceIds": [
+          "moons-of-jupiter"
+        ]
+      }
+    ],
+    "explanation": "The source lists 57 named moons of Jupiter, including the four large Galilean moons and many much smaller satellites. Moons listed only by provisional designations, even those also assigned Roman numerals, are excluded.",
+    "sources": [
+      {
+        "id": "moons-of-jupiter",
+        "title": "Moons of Jupiter",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moons_of_Jupiter",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "5c700b3ef4c96f1d",
+    "brief": "Name an officially named moon of Jupiter. Only moons with an IAU-approved proper name count; leave out unnamed moons that have only a provisional designation such as S/2011 J 4.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "moons-of-jupiter",
+        "version": "1382215689",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Io": "The Galilean moons of Jupiter (Io, Europa, Ganymede, and Callisto) were named by Simon Marius soon after their discovery in 1610.",
+      "Europa": "The Galilean moons of Jupiter (Io, Europa, Ganymede, and Callisto) were named by Simon Marius soon after their discovery in 1610.",
+      "Ganymede": "The Galilean moons of Jupiter (Io, Europa, Ganymede, and Callisto) were named by Simon Marius soon after their discovery in 1610.",
+      "Callisto": "The Galilean moons of Jupiter (Io, Europa, Ganymede, and Callisto) were named by Simon Marius soon after their discovery in 1610.",
+      "Metis": "Inner satellites or Amalthea group: Metis, Adrastea, Amalthea, and Thebe.",
+      "Adrastea": "Inner satellites or Amalthea group: Metis, Adrastea, Amalthea, and Thebe.",
+      "Amalthea": "Inner satellites or Amalthea group: Metis, Adrastea, Amalthea, and Thebe.",
+      "Thebe": "Inner satellites or Amalthea group: Metis, Adrastea, Amalthea, and Thebe.",
+      "Themisto": "Themisto is the innermost irregular moon and is not part of a known family.",
+      "Leda": "XIII | Leda♣ | /ˈliːdə/ | | 12.7",
+      "Ersa": "LXXI | Ersa♣ | /ˈɜːrsə/ | | 16.0",
+      "Himalia": "The largest two members, Himalia and Elara, are respectively the sixth- and eighth-largest Jovian moons.",
+      "Pandia": "LXV | Pandia♣ | /pænˈdaɪə/ | | 16.3",
+      "Lysithea": "X | Lysithea♣ | /laɪˈsɪθiə/ | | 11.2",
+      "Elara": "The largest two members, Himalia and Elara, are respectively the sixth- and eighth-largest Jovian moons.",
+      "Dia": "except LIII (Dia), named after a lover of Jupiter.",
+      "Carpo": "XLVI | Carpo§ | /ˈkɑːrpoʊ/ | | 16.2",
+      "Valetudo": "Valetudo is the outermost prograde moon and is not part of a known family.",
+      "Euporie": "XXXIV | Euporie♦ | /ˈjuːpəriː/ | | 16.3",
+      "Eupheme": "LX | Eupheme♦ | /juːˈfiːmiː/ | | 16.5",
+      "Mneme": "XL | Mneme♦ | /ˈniːmiː/ | | 16.3",
+      "Euanthe": "XXXIII | Euanthe♦ | /juːˈænθiː/ | | 16.4",
+      "Harpalyke": "XXII | Harpalyke♦ | /hɑːrˈpæləkiː/ | | 15.9",
+      "Orthosie": "XXXV | Orthosie♦ | /ɔːrˈθoʊziː/ | | 16.6",
+      "Helike": "XLV | Helike♦ | /ˈhɛləkiː/ | | 15.9",
+      "Praxidike": "XXVII | Praxidike♦ | /prækˈsɪdəkiː/ | | 14.8",
+      "Thelxinoe": "XLII | Thelxinoe♦ | /θɛlkˈsɪnoʊiː/ | | 16.3",
+      "Thyone": "XXIX | Thyone♦ | /θaɪˈoʊniː/ | | 15.8",
+      "Ananke": "XII | Ananke♦ | /əˈnæŋkiː/ | | 11.8",
+      "Iocaste": "XXIV | Iocaste♦ | /aɪəˈkæstiː/ | | 15.4",
+      "Hermippe": "XXX | Hermippe♦ | /hərˈmɪpiː/ | | 15.5",
+      "Philophrosyne": "LVIII | Philophrosyne‡ | /fɪləˈfrɒzəniː/ | | 16.6",
+      "Pasithee": "XXXVIII | Pasithee♥ | /ˈpæsəθiː/ | | 16.8",
+      "Eurydome": "XXXII | Eurydome‡ | /jʊəˈrɪdəmiː/ | | 16.2",
+      "Chaldene": "XXI | Chaldene♥ | /kælˈdiːniː/ | | 16.0",
+      "Isonoe": "XXVI | Isonoe♥ | /aɪˈsɒnoʊiː/ | | 15.9",
+      "Kallichore": "XLIV | Kallichore♥ | /kəˈlɪkəriː/ | | 16.2",
+      "Erinome": "XXV | Erinome♥ | /ɛˈrɪnəmiː/ | | 16.0",
+      "Kale": "XXXVII | Kale♥ | /ˈkeɪliː/ | | 16.1",
+      "Eirene": "LVII | Eirene♥ | /aɪˈriːniː/ | | 15.8",
+      "Aitne": "XXXI | Aitne♥ | /ˈeɪtniː/ | | 16.0",
+      "Eukelade": "XLVII | Eukelade♥ | /juːˈkɛlədiː/ | | 15.9",
+      "Arche": "XLIII | Arche♥ | /ˈɑːrkiː/ | | 16.2",
+      "Taygete": "XX | Taygete♥ | /teɪˈɪdʒətiː/ | | 15.6",
+      "Carme": "XI | Carme♥ | /ˈkɑːrmiː/ | | 10.7",
+      "Herse": "L | Herse♥ | /ˈhɜːrsiː/ | | 16.5",
+      "Kalyke": "XXIII | Kalyke♥ | /ˈkæləkiː/ | | 15.3",
+      "Hegemone": "XXXIX | Hegemone‡ | /həˈdʒɛməniː/ | | 15.6",
+      "Pasiphae": "VIII | Pasiphae‡ | /pəˈsɪfeɪiː/ | | 10.1",
+      "Sponde": "XXXVI | Sponde‡ | /ˈspɒndiː/ | | 16.7",
+      "Megaclite": "XIX | Megaclite‡ | /ˌmɛɡəˈklaɪtiː/ | | 15.1",
+      "Cyllene": "XLVIII | Cyllene‡ | /səˈliːniː/ | | 16.3",
+      "Sinope": "IX | Sinope‡ | /səˈnoʊpiː/ | | 11.2",
+      "Aoede": "XLI | Aoede‡ | /eɪˈiːdiː/ | | 15.5",
+      "Autonoe": "XXVIII | Autonoe‡ | /ɔːˈtɒnoʊiː/ | | 15.5",
+      "Callirrhoe": "XVII | Callirrhoe‡ | /kəˈlɪroʊiː/ | | 14.0",
+      "Kore": "XLIX | Kore‡ | /ˈkɔːriː/ | | 16.6"
+    },
+    "issues": []
+  }
+}
