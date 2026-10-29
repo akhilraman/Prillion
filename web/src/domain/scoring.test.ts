@@ -128,6 +128,20 @@ describe('scoreAnswer (relative to the question)', () => {
     expect(scoreAnswer(q, 'a4')?.tier).toBe('legendary');
   });
 
+  it('keeps all four tiers in a ~100-answer closed set (shares near 1% must not hit the floor)', () => {
+    // 20 very familiar, 49 familiar, 20 niche, 9 obscure: the shape of the Best Picture candidate.
+    const weights = [
+      ...Array<number>(20).fill(1),
+      ...Array<number>(49).fill(0.4),
+      ...Array<number>(20).fill(0.12),
+      ...Array<number>(9).fill(0.03),
+    ];
+    const total = weights.reduce((a, b) => a + b, 0);
+    const q = questionWith(weights.map((w) => w / total));
+    const tiers = new Set([...scoreQuestionAnswers(q).values()].map((s) => s.tier));
+    expect(tiers).toEqual(new Set(['common', 'uncommon', 'rare', 'legendary']));
+  });
+
   it('returns undefined for an answer that is not part of the question', () => {
     expect(scoreAnswer(questionWith([0.5, 0.5]), 'nope')).toBeUndefined();
   });

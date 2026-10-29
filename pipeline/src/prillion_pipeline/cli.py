@@ -1,9 +1,10 @@
-"""Command line: fetch sources, generate one grounded candidate, gate it, write it to disk.
+"""Command line: fetch sources, generate grounded candidates, gate them, write them to disk.
 
     uv run --env-file ../.env prillion-pipeline run \\
         --category space --id space-saturn-moons \\
-        --page "Moons of Saturn" \\
-        --brief "Name a moon of Saturn"
+        --page "Moons of Saturn" --brief "Name a moon of Saturn."
+
+    uv run --env-file ../.env prillion-pipeline run-all --topics topics.json --max-new 3
 
 Nothing here touches the live question bank. Output goes to a candidates folder for review.
 """
@@ -14,22 +15,26 @@ import os
 import subprocess
 import sys
 from collections.abc import Callable, Mapping, Sequence
+from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
-from .candidate import Category
+from pydantic import ValidationError
+
 from .generate import GenerationResult, build_messages, generate_question, input_hash
 from .llm import LLM, OpenAILLM
 from .sources.base import Document, Source, SourceError
 from .sources.wikipedia import WikipediaSource
+from .topics import CATEGORY_NAMES, Topic, TopicsError, load_topics
 
-CATEGORIES = ("tollywood", "space", "us-pop")
 DEFAULT_OUT_DIR = Path("candidates")
+DEFAULT_TOPICS = Path("topics.json")
 WEB_GATE_SCRIPT = Path(__file__).resolve().parents[3] / "web" / "scripts" / "check-candidate.ts"
 
 GateRunner = Callable[[Path], tuple[bool, str]]
 LLMFactory = Callable[[str], LLM]
+Status = Literal["generated", "skipped", "failed", "deferred", "dry-run", "error"]
 
 
 def run_web_gate(path: Path) -> tuple[bool, str]:
@@ -43,21 +48,61 @@ def run_web_gate(path: Path) -> tuple[bool, str]:
     return done.returncode == 0, (done.stdout + done.stderr).strip()
 
 
+@dataclass(frozen=True)
+class Settings:
+    """Everything a run needs. Injected so tests never touch the network or a real LLM."""
+
+    env: Mapping[str, str]
+    source: Source
+    llm_factory: LLMFactory | None
+    gate: GateRunner
+    today: date
+    out: Callable[[str], None]
+    out_dir: Path
+    model_override: str | None
+    max_attempts: int
+    force: bool
+    dry_run: bool
+
+
+@dataclass(frozen=True)
+class Outcome:
+    topic_id: str
+    status: Status
+    code: int  # process exit code for a single `run`: 0 ok, 1 rejected, 2 could not run
+
+
 def _parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="prillion-pipeline")
     commands = parser.add_subparsers(dest="command", required=True)
+
+    def common(p: argparse.ArgumentParser) -> None:
+        p.add_argument("--model", help="overrides PRILLION_OPENAI_MODEL")
+        p.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
+        p.add_argument("--max-attempts", type=int, default=3)
+        p.add_argument(
+            "--dry-run", action="store_true", help="fetch and size the prompt, but do not call the LLM"
+        )
+        p.add_argument(
+            "--force", action="store_true", help="regenerate even if an identical candidate exists"
+        )
+
     run = commands.add_parser("run", help="generate one candidate question")
-    run.add_argument("--category", required=True, choices=CATEGORIES)
+    run.add_argument("--category", required=True, choices=CATEGORY_NAMES)
     run.add_argument("--id", required=True, dest="question_id", help="question id, e.g. space-saturn-moons")
     run.add_argument("--page", required=True, action="append", help="Wikipedia article title (repeatable)")
     run.add_argument("--brief", required=True, help="what the question should ask about")
-    run.add_argument("--model", help="overrides PRILLION_OPENAI_MODEL")
-    run.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
-    run.add_argument("--max-attempts", type=int, default=3)
-    run.add_argument(
-        "--dry-run", action="store_true", help="fetch and size the prompt, but do not call the LLM"
+    common(run)
+
+    run_all = commands.add_parser("run-all", help="work through a topics file")
+    run_all.add_argument("--topics", type=Path, default=DEFAULT_TOPICS)
+    run_all.add_argument(
+        "--max-new",
+        type=int,
+        default=3,
+        help="most topics to send to the LLM in one run (a spending cap); the rest are deferred",
     )
-    run.add_argument("--force", action="store_true", help="regenerate even if an identical candidate exists")
+    common(run_all)
     return parser
 
 
@@ -84,6 +129,115 @@ def _already_done(path: Path, wanted_hash: str) -> bool:
     return existing.get("provenance", {}).get("inputHash") == wanted_hash
 
 
+def _config_error(s: Settings) -> str | None:
+    if not (s.model_override or s.env.get("PRILLION_OPENAI_MODEL")):
+        return "no model. Set PRILLION_OPENAI_MODEL in .env or pass --model"
+    if s.llm_factory is None and not s.env.get("OPENAI_API_KEY"):
+        return "OPENAI_API_KEY is not set. Run with: uv run --env-file ../.env prillion-pipeline ..."
+    return None
+
+
+def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -> Outcome:
+    """Fetch, generate, ground-check and gate ONE topic. Never raises for expected failures."""
+    out = s.out
+    documents: list[Document] = []
+    for title in topic.pages:
+        try:
+            doc = s.source.fetch(title)
+        except SourceError as exc:
+            out(f"error: {exc}")
+            return Outcome(topic.id, "error", 2)
+        documents.append(doc)
+        flag = "  (TRUNCATED)" if doc.truncated else ""
+        out(f"fetched {doc.title!r}: {len(doc.text):,} chars, revision {doc.version}{flag}")
+
+    prompt_tokens = sum(
+        _approx_tokens(m["content"]) for m in build_messages(topic.brief, topic.category, documents)
+    )
+    out(f"prompt is about {prompt_tokens:,} tokens")
+    if s.dry_run:
+        out("dry run: no LLM call made")
+        return Outcome(topic.id, "dry-run", 0)
+
+    problem = _config_error(s)
+    if problem:
+        out(f"error: {problem}")
+        return Outcome(topic.id, "error", 2)
+    model = s.model_override or s.env["PRILLION_OPENAI_MODEL"]
+
+    target = s.out_dir / f"{topic.id}.json"
+    if not s.force and _already_done(target, input_hash(model, topic.brief, topic.category, documents)):
+        out(f"up to date: {target} was generated from identical inputs (use --force to regenerate)")
+        return Outcome(topic.id, "skipped", 0)
+    if not allow_generation:
+        out("deferred: spending cap for this run reached; will be generated on a later run")
+        return Outcome(topic.id, "deferred", 0)
+
+    llm = (s.llm_factory or OpenAILLM)(model)
+    out(f"generating with {model} (up to {s.max_attempts} attempts)...")
+    result = generate_question(
+        llm,
+        documents,
+        brief=topic.brief,
+        category=topic.category,
+        question_id=topic.id,
+        today=s.today,
+        max_attempts=s.max_attempts,
+    )
+
+    for issue in result.issues:
+        out(f"  {issue}")
+    failed = s.out_dir / f"{topic.id}.failed.json"
+    if not result.ok or result.question is None:
+        if result.question is not None:
+            _write(failed, result)
+            out(f"FAILED grounding after {result.attempts} attempt(s); inspect {failed}")
+        else:
+            out(f"FAILED after {result.attempts} attempt(s): no question produced")
+        return Outcome(topic.id, "failed", 1)
+
+    _write(target, result)
+    out(f"grounding passed after {result.attempts} attempt(s); wrote {target}")
+
+    passed, report = s.gate(target)
+    out(report)
+    if not passed:
+        # Move it aside so a rerun does not mistake a rejected candidate for a finished one.
+        os.replace(target, failed)
+        out(f"web quality gate FAILED: not publishable as-is; kept for inspection at {failed}")
+        return Outcome(topic.id, "failed", 1)
+    out("web quality gate passed: ready for human review")
+    return Outcome(topic.id, "generated", 0)
+
+
+def _run_all(args: argparse.Namespace, s: Settings) -> int:
+    try:
+        topics = load_topics(args.topics)
+    except TopicsError as exc:
+        s.out(f"error: {exc}")
+        return 2
+    if not s.dry_run and (problem := _config_error(s)):
+        s.out(f"error: {problem}")  # fail fast: do not fetch a dozen pages just to learn the key is missing
+        return 2
+
+    outcomes: list[Outcome] = []
+    spent = 0  # topics sent to the LLM this run
+    for n, topic in enumerate(topics, start=1):
+        s.out(f"\n[{n}/{len(topics)}] {topic.id}")
+        outcome = process_topic(topic, s, allow_generation=spent < args.max_new)
+        if outcome.status in ("generated", "failed"):
+            spent += 1
+        outcomes.append(outcome)
+
+    s.out("\nsummary")
+    for status in ("generated", "skipped", "deferred", "dry-run", "failed", "error"):
+        ids = [o.topic_id for o in outcomes if o.status == status]
+        if ids:
+            s.out(f"  {status:<9} {len(ids)}: {', '.join(ids)}")
+    # One bad topic must not hide the others, but the run as a whole must still look failed.
+    return 1 if any(o.status in ("failed", "error") for o in outcomes) else 0
+
+
 def main(
     argv: Sequence[str] | None = None,
     *,
@@ -95,77 +249,28 @@ def main(
     out: Callable[[str], None] = print,
 ) -> int:
     args = _parser().parse_args(argv)
-    env = os.environ if env is None else env
-    source = source or WikipediaSource()
-    category: Category = args.category
-
-    documents: list[Document] = []
-    for title in args.page:
-        try:
-            doc = source.fetch(title)
-        except SourceError as exc:
-            out(f"error: {exc}")
-            return 2
-        documents.append(doc)
-        flag = "  (TRUNCATED)" if doc.truncated else ""
-        out(f"fetched {doc.title!r}: {len(doc.text):,} chars, revision {doc.version}{flag}")
-
-    prompt_tokens = sum(_approx_tokens(m["content"]) for m in build_messages(args.brief, category, documents))
-    out(f"prompt is about {prompt_tokens:,} tokens")
-    if args.dry_run:
-        out("dry run: no LLM call made")
-        return 0
-
-    model = args.model or env.get("PRILLION_OPENAI_MODEL", "")
-    if not model:
-        out("error: no model. Set PRILLION_OPENAI_MODEL in .env or pass --model")
-        return 2
-    if llm_factory is None and not env.get("OPENAI_API_KEY"):
-        out("error: OPENAI_API_KEY is not set. Run with: uv run --env-file ../.env prillion-pipeline ...")
-        return 2
-
-    target = args.out_dir / f"{args.question_id}.json"
-    wanted = input_hash(model, args.brief, category, documents)
-    if not args.force and _already_done(target, wanted):
-        out(f"up to date: {target} was generated from identical inputs (use --force to regenerate)")
-        return 0
-
-    llm = (llm_factory or OpenAILLM)(model)
-    out(f"generating with {model} (up to {args.max_attempts} attempts)...")
-    result = generate_question(
-        llm,
-        documents,
-        brief=args.brief,
-        category=category,
-        question_id=args.question_id,
+    settings = Settings(
+        env=os.environ if env is None else env,
+        source=source or WikipediaSource(),
+        llm_factory=llm_factory,
+        gate=gate,
         today=today or date.today(),
+        out=out,
+        out_dir=args.out_dir,
+        model_override=args.model,
         max_attempts=args.max_attempts,
+        force=args.force,
+        dry_run=args.dry_run,
     )
-
-    for issue in result.issues:
-        out(f"  {issue}")
-    if not result.ok or result.question is None:
-        failed = args.out_dir / f"{args.question_id}.failed.json"
-        if result.question is not None:
-            _write(failed, result)
-            out(f"FAILED grounding after {result.attempts} attempt(s); inspect {failed}")
-        else:
-            out(f"FAILED after {result.attempts} attempt(s): no question produced")
-        return 1
-
-    _write(target, result)
-    out(f"grounding passed after {result.attempts} attempt(s); wrote {target}")
-
-    passed, report = gate(target)
-    out(report)
-    if not passed:
-        # Move it aside so a rerun does not mistake a rejected candidate for a finished one.
-        failed = args.out_dir / f"{args.question_id}.failed.json"
-        os.replace(target, failed)
-        out(f"web quality gate FAILED: not publishable as-is; kept for inspection at {failed}")
-        return 1
-    out("web quality gate passed: ready for human review")
-    return 0
+    if args.command == "run-all":
+        return _run_all(args, settings)
+    try:
+        topic = Topic(id=args.question_id, category=args.category, pages=args.page, brief=args.brief)
+    except ValidationError as exc:
+        problems = "; ".join(f"{'.'.join(map(str, e['loc']))}: {e['msg']}" for e in exc.errors())
+        out(f"error: invalid arguments: {problems}")
+        return 2
+    return process_topic(topic, settings).code
 
 
 def entrypoint() -> None:

@@ -62,6 +62,20 @@ Flags: `--page` is repeatable, `--model` overrides the env var, `--force` regene
 
 Outputs: `candidates/<id>.json` on success. `candidates/<id>.failed.json` if grounding or the web gate rejected it (kept for inspection).
 
+### Working through the topic queue
+
+`topics.json` is the reviewed list of what the pipeline may generate (id, category, Wikipedia pages, brief). Edit it in a PR; nothing else decides topics yet.
+
+```
+uv run --env-file ../.env prillion-pipeline run-all --dry-run          # free
+uv run --env-file ../.env prillion-pipeline run-all --max-new 2        # at most 2 LLM-backed topics
+```
+
+- **Idempotent:** a topic whose inputs (prompt version, model, brief, source revisions and text) are unchanged is skipped, so reruns cost nothing.
+- **Prompt changes invalidate candidates on purpose:** `PROMPT_VERSION` is part of the input hash, so after the prompt changes every topic counts as stale and is regenerated (within `--max-new`) on its next run. Use `run` for a single topic if you only want to refresh one.
+- **Spending cap:** `--max-new N` (default 3) limits how many topics reach the LLM in one run; the rest are reported as `deferred` and picked up by the next run.
+- **Isolated failures:** one bad topic never stops the others. The run exits 1 if any topic failed or errored, 2 for a bad topics file or missing key.
+
 ## Test
 
 ```
