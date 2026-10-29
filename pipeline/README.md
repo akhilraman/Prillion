@@ -76,6 +76,23 @@ uv run --env-file ../.env prillion-pipeline run-all --max-new 2        # at most
 - **Spending cap:** `--max-new N` (default 3) limits how many topics reach the LLM in one run; the rest are reported as `deferred` and picked up by the next run.
 - **Isolated failures:** one bad topic never stops the others. The run exits 1 if any topic failed or errored, 2 for a bad topics file or missing key.
 
+## Scheduled refresh (GitHub Actions)
+
+`.github/workflows/content-refresh.yml` runs `run-all` in CI and opens a **review PR** with the new files under `pipeline/candidates/`. It never pushes to `main` and never touches the live bank.
+
+One-time setup (repo **Settings**):
+- Secrets and variables → Actions → secret `OPENAI_API_KEY`, variable `PRILLION_OPENAI_MODEL`.
+- Actions → General → Workflow permissions → tick **Allow GitHub Actions to create and approve pull requests** (without this the PR step fails with a 403).
+
+Run it: **Actions → Content refresh → Run workflow** (optional `max_new`, default 3). The cron schedule is commented out; enable it only after branch protection is on and a manual run has succeeded.
+
+Guard rails:
+- **One open bot PR at a time.** If a `bot/content-*` PR is open, the run exits without spending anything (candidates only reach `main` once a review PR is merged, so a second run would regenerate the same topics).
+- **Spending cap** per run via `--max-new`; the OpenAI key is visible only to the generate step.
+- **Partial failure** still opens a PR for what succeeded, then marks the run red.
+
+Known limitation: PRs opened with the default `GITHUB_TOKEN` do not trigger other workflows, so `CI` will not run on the bot PR by itself. The PR only adds JSON under `pipeline/candidates/`, but if `check`/`pipeline` become *required* checks, close and reopen the PR (a human action) to trigger them.
+
 ## Test
 
 ```
