@@ -1,0 +1,794 @@
+{
+  "question": {
+    "id": "space-saturn-moons",
+    "category": "space",
+    "prompt": "Name a moon of Saturn that has a proper name, rather than just a provisional designation.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "titan",
+        "canonical": "Titan",
+        "aliases": [],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Titan is Saturn's largest moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "enceladus",
+        "canonical": "Enceladus",
+        "aliases": [],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Enceladus is explicitly identified as one of Saturn's spherical moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "mimas",
+        "canonical": "Mimas",
+        "aliases": [],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mimas is listed among Saturn's major satellites.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "rhea",
+        "canonical": "Rhea",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rhea is Saturn's second-largest moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "iapetus",
+        "canonical": "Iapetus",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iapetus is Saturn's third-largest moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "dione",
+        "canonical": "Dione",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dione is Saturn's fourth-largest moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "tethys",
+        "canonical": "Tethys",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tethys is Saturn's fifth-largest moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "hyperion",
+        "canonical": "Hyperion",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hyperion is identified as a moon in Saturn's system.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "phoebe",
+        "canonical": "Phoebe",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoebe is Saturn's largest irregular moon.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "pan",
+        "canonical": "Pan",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pan is one of Saturn's inner ring shepherd moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "daphnis",
+        "canonical": "Daphnis",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daphnis is a shepherd moon occupying the Keeler gap in Saturn's rings.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "atlas",
+        "canonical": "Atlas",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Atlas is one of the Saturnian moons discovered by Voyager.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "prometheus",
+        "canonical": "Prometheus",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prometheus is a shepherd moon associated with Saturn's F Ring.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "pandora",
+        "canonical": "Pandora",
+        "aliases": [],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pandora is one of the Saturnian moons discovered by Voyager.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "janus",
+        "canonical": "Janus",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Janus is a co-orbital moon in Saturn's system.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "epimetheus",
+        "canonical": "Epimetheus",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Epimetheus is a co-orbital moon in Saturn's system.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "aegaeon",
+        "canonical": "Aegaeon",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aegaeon is a named moonlet within Saturn's G Ring.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "methone",
+        "canonical": "Methone",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Methone is one of Saturn's small moons between Mimas and Enceladus.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "anthe",
+        "canonical": "Anthe",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthe is one of Saturn's small moons between Mimas and Enceladus.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "pallene",
+        "canonical": "Pallene",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pallene is one of Saturn's small moons between Mimas and Enceladus.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "telesto",
+        "canonical": "Telesto",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Telesto is a trojan moon sharing Tethys's orbit.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "calypso",
+        "canonical": "Calypso",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Calypso is a trojan moon sharing Tethys's orbit.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "helene",
+        "canonical": "Helene",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helene is a trojan moon sharing Dione's orbit.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "polydeuces",
+        "canonical": "Polydeuces",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Polydeuces is a trojan moon sharing Dione's orbit.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "kiviuq",
+        "canonical": "Kiviuq",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kiviuq is a named member of Saturn's Inuit group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "ijiraq",
+        "canonical": "Ijiraq",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ijiraq is a named member of Saturn's Inuit group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "paaliaq",
+        "canonical": "Paaliaq",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paaliaq is listed as a named Saturnian moon in the Inuit group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "siarnaq",
+        "canonical": "Siarnaq",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Siarnaq is a named moon in Saturn's Inuit group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "tarqeq",
+        "canonical": "Tarqeq",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tarqeq is a named moon in Saturn's Inuit group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "albiorix",
+        "canonical": "Albiorix",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Albiorix is a named member of Saturn's Gallic group of moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "bebhionn",
+        "canonical": "Bebhionn",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bebhionn is a named member of Saturn's Gallic group of moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "erriapus",
+        "canonical": "Erriapus",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erriapus is a named member of Saturn's Gallic group of moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "tarvos",
+        "canonical": "Tarvos",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tarvos is a named member of Saturn's Gallic group of moons.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "aegir",
+        "canonical": "Aegir",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aegir is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "angrboda",
+        "canonical": "Angrboda",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Angrboda is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "alvaldi",
+        "canonical": "Alvaldi",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alvaldi is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "beli",
+        "canonical": "Beli",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beli is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "bergelmir",
+        "canonical": "Bergelmir",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bergelmir is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "bestla",
+        "canonical": "Bestla",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bestla is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "eggther",
+        "canonical": "Eggther",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eggther is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "farbauti",
+        "canonical": "Farbauti",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Farbauti is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "fenrir",
+        "canonical": "Fenrir",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fenrir is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "fornjot",
+        "canonical": "Fornjot",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fornjot is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "geirrod",
+        "canonical": "Geirrod",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Geirrod is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "gerd",
+        "canonical": "Gerd",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gerd is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "greip",
+        "canonical": "Greip",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Greip is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "gridr",
+        "canonical": "Gridr",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gridr is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "gunnlod",
+        "canonical": "Gunnlod",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gunnlod is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "hati",
+        "canonical": "Hati",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hati is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "hyrrokkin",
+        "canonical": "Hyrrokkin",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hyrrokkin is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "jarnsaxa",
+        "canonical": "Jarnsaxa",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jarnsaxa is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "kari",
+        "canonical": "Kari",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kari is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "loge",
+        "canonical": "Loge",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Loge is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "mundilfari",
+        "canonical": "Mundilfari",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mundilfari is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "narvi",
+        "canonical": "Narvi",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Narvi is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "skathi",
+        "canonical": "Skathi",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skathi is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "skoll",
+        "canonical": "Skoll",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skoll is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "skrymir",
+        "canonical": "Skrymir",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skrymir is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "surtur",
+        "canonical": "Surtur",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Surtur is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "suttungr",
+        "canonical": "Suttungr",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Suttungr is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "thiazzi",
+        "canonical": "Thiazzi",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thiazzi is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "thrymr",
+        "canonical": "Thrymr",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thrymr is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      },
+      {
+        "id": "ymir",
+        "canonical": "Ymir",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ymir is listed as a named Saturnian moon in the Norse group.",
+        "sourceIds": [
+          "moons-of-saturn"
+        ]
+      }
+    ],
+    "explanation": "The source lists 63 Saturnian moons with proper names, from Titan and Enceladus to small outer moons named from Inuit, Gallic and Norse mythology. Moons known only by designations such as S/2019 S 1 are excluded.",
+    "sources": [
+      {
+        "id": "moons-of-saturn",
+        "title": "Moons of Saturn",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ec786bd8ad33f65e",
+    "brief": "Name a moon of Saturn.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "moons-of-saturn",
+        "version": "1382439972",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Titan": "Titan, at 5,149 km diameter, is the second largest moon in the Solar System and Saturn's largest.",
+      "Enceladus": "Enceladus is one of the smallest of Saturn's moons that is spherical in shape",
+      "Mimas": "Mimas | 396 (0.12 D☾) | 4×10 (0.0005 M☾) | 185,539 (0.48 a☾) | 0.9 (0.03 T☾)",
+      "Rhea": "Rhea is the second-largest of Saturn's moons.",
+      "Iapetus": "Iapetus is the third-largest of Saturn's moons.",
+      "Dione": "Dione is the fourth-largest moon of Saturn.",
+      "Tethys": "Tethys is the fifth largest of Saturn's moons.",
+      "Hyperion": "Hyperion is Titan's nearest neighbor in the Saturnian system. The two moons are locked in a 4:3 mean-motion resonance with each other",
+      "Phoebe": "Phoebe, Saturn's largest irregular moon",
+      "Pan": "Several act as shepherd moons, and they are Pan (Encke gap), Daphnis (Keeler gap), and Prometheus (F Ring).",
+      "Daphnis": "Several act as shepherd moons, and they are Pan (Encke gap), Daphnis (Keeler gap), and Prometheus (F Ring).",
+      "Atlas": "The arrival of the Voyager spacecraft at Saturn in 1980–1981 resulted in the discovery of three additional moons—Atlas, Prometheus and Pandora—bringing the total to 17.",
+      "Prometheus": "Several act as shepherd moons, and they are Pan (Encke gap), Daphnis (Keeler gap), and Prometheus (F Ring).",
+      "Pandora": "The arrival of the Voyager spacecraft at Saturn in 1980–1981 resulted in the discovery of three additional moons—Atlas, Prometheus and Pandora—bringing the total to 17.",
+      "Janus": "Janus and Epimetheus are co-orbital moons.",
+      "Epimetheus": "Janus and Epimetheus are co-orbital moons.",
+      "Aegaeon": "In March 2009, Aegaeon, a moonlet within the G Ring, was announced.",
+      "Methone": "Aegaeon resides within the bright arc of G Ring, while the other three moons, Methone, Anthe, and Pallene, orbit between the major moons Mimas and Enceladus.",
+      "Anthe": "Aegaeon resides within the bright arc of G Ring, while the other three moons, Methone, Anthe, and Pallene, orbit between the major moons Mimas and Enceladus.",
+      "Pallene": "Aegaeon resides within the bright arc of G Ring, while the other three moons, Methone, Anthe, and Pallene, orbit between the major moons Mimas and Enceladus.",
+      "Telesto": "Tethys has two trojan moons, Telesto (leading) and Calypso (trailing), and Dione also has two, Helene (leading) and Polydeuces (trailing).",
+      "Calypso": "Tethys has two trojan moons, Telesto (leading) and Calypso (trailing), and Dione also has two, Helene (leading) and Polydeuces (trailing).",
+      "Helene": "Tethys has two trojan moons, Telesto (leading) and Calypso (trailing), and Dione also has two, Helene (leading) and Polydeuces (trailing).",
+      "Polydeuces": "Tethys has two trojan moons, Telesto (leading) and Calypso (trailing), and Dione also has two, Helene (leading) and Polydeuces (trailing).",
+      "Kiviuq": "The Kiviuq group includes 23 members, with the only named members being Ijiraq and the group's largest member and namesake Kiviuq.",
+      "Ijiraq": "The Kiviuq group includes 23 members, with the only named members being Ijiraq and the group's largest member and namesake Kiviuq.",
+      "Paaliaq": "XX | ♦Paaliaq | /ˈpɑːliɒk/ | | 11.7 | ≈ 25 | ≈ 14 | 14997700 | +685.72 | 48.5 | 0.378 | Inuit group | 2000 | 2000 | Gladman et al.",
+      "Siarnaq": "The Siarnaq group includes 15 members, with the only named members being Tarqeq and the group's namesake Siarnaq.",
+      "Tarqeq": "The Siarnaq group includes 15 members, with the only named members being Tarqeq and the group's namesake Siarnaq.",
+      "Albiorix": "The named members of the Gallic group are Albiorix, Bebhionn, Erriapus, and Tarvos.",
+      "Bebhionn": "The named members of the Gallic group are Albiorix, Bebhionn, Erriapus, and Tarvos.",
+      "Erriapus": "The named members of the Gallic group are Albiorix, Bebhionn, Erriapus, and Tarvos.",
+      "Tarvos": "The named members of the Gallic group are Albiorix, Bebhionn, Erriapus, and Tarvos.",
+      "Aegir": "XXXVI | ‡Aegir | /ˈaɪ.ɪər/ | | 15.5 | ≈ 6 | ≈ 0.065 | 20664400 | −1109.13 | 166.1 | 0.255 | Norse group (Mundilfari) | 2004 | 2005 | Sheppard et al.",
+      "Angrboda": "LV | ‡Angrboda | /ˈɑːŋɡərboʊðə/ | | 16.1 | ≈ 4 | ≈ 0.034 | 20591500 | −1103.20 | 177.7 | 0.216 | Norse group (Phoebe) | 2004 | 2019 | Sheppard et al.",
+      "Alvaldi": "LXV | ‡Alvaldi | /ɔːlˈvɔːldi/ | | 15.6 | ≈ 6 | ≈ 0.065 | 21993800 | −1217.80 | 177.4 | 0.238 | Norse group (Phoebe) | 2004 | 2019 | Sheppard et al.",
+      "Beli": "LXI | ‡Beli | /ˈbeɪli/ | | 16.1 | ≈ 4 | ≈ 0.034 | 20703700 | −1112.27 | 158.9 | 0.087 | Norse group (Mundilfari) | 2004 | 2019 | Sheppard et al.",
+      "Bergelmir": "XXXVIII | ‡Bergelmir | /bɛərˈjɛlmɪər/ | | 15.2 | ≈ 5 | ≈ 0.11 | 19268100 | −998.62 | 158.8 | 0.145 | Norse group (Mundilfari) | 2004 | 2005 | Sheppard et al.",
+      "Bestla": "XXXIX | ‡Bestla | /ˈbɛstlə/ | | 14.6 | ≈ 7 | ≈ 0.27 | 20337800 | −1082.94 | 138.3 | 0.486 | Norse group (low-inclination) | 2004 | 2005 | Sheppard et al.",
+      "Eggther": "LIX | ‡Eggther | /ˈɛɡθɛər/ | | 15.4 | ≈ 6 | ≈ 0.11 | 19844600 | −1043.80 | 165.0 | 0.157 | Norse group (Mundilfari) | 2004 | 2019 | Sheppard et al.",
+      "Farbauti": "XL | ‡Farbauti | /fɑːrˈbaʊti/ | | 15.8 | ≈ 5 | ≈ 0.065 | 20290700 | −1079.12 | 156.2 | 0.249 | Norse group (Kari) | 2004 | 2005 | Sheppard et al.",
+      "Fenrir": "XLI | ‡Fenrir | /ˈfɛnrɪər/ | | 15.8 | ≈ 4 | ≈ 0.034 | 22330800 | −1245.92 | 164.5 | 0.137 | Norse group (Mundilfari) | 2004 | 2005 | Sheppard et al.",
+      "Fornjot": "XLII | ‡Fornjot | /ˈfɔːrnjɒt/ | | 14.7 | ≈ 6 | ≈ 0.11 | 24936800 | −1470.36 | 170.0 | 0.213 | Norse group (Mundilfari) | 2004 | 2005 | Sheppard et al.",
+      "Geirrod": "LXVI | ‡Geirrod | /ˈjeɪrɒd/ | | 15.9 | ≈ 4 | ≈ 0.034 | 22259400 | −1240.05 | 154.4 | 0.539 | Norse group (Kari) | 2004 | 2019 | Sheppard et al.",
+      "Gerd": "LVII | ‡Gerd | /ˈjɛərð/ | | 15.9 | ≈ 4 | ≈ 0.034 | 20947500 | −1131.91 | 174.4 | 0.517 | Norse group (Phoebe) | 2004 | 2019 | Sheppard et al.",
+      "Greip": "LI | ‡Greip | /ˈɡreɪp/ | | 15.3 | ≈ 5 | ≈ 0.11 | 18380000 | −930.44 | 174.2 | 0.317 | Norse group (Phoebe) | 2006 | 2006 | Sheppard et al.",
+      "Gridr": "LIV | ‡Gridr | /ˈɡriːðər/ | | 15.8 | ≈ 4 | ≈ 0.065 | 19250600 | −997.33 | 163.9 | 0.187 | Norse group (Mundilfari) | 2004 | 2019 | Sheppard et al.",
+      "Gunnlod": "LXII | ‡Gunnlod | /ˈɡʊnlɒð/ | | 15.7 | ≈ 4 | ≈ 0.065 | 21141800 | −1147.74 | 160.4 | 0.251 | Norse group (Mundilfari) | 2004 | 2019 | Sheppard et al.",
+      "Hati": "XLIII | ‡Hati | /ˈhɑːti/ | | 15.4 | ≈ 5 | ≈ 0.11 | 19695000 | −1032.02 | 165.4 | 0.372 | Norse group (Mundilfari) | 2004 | 2005 | Sheppard et al.",
+      "Hyrrokkin": "XLIV | ‡Hyrrokkin | /hɪˈrɒkən/ | | 14.3 | ≈ 8 | ≈ 0.38 | 18340900 | −927.46 | 149.9 | 0.336 | Norse group (low-inclination) | 2004 | 2005 | Sheppard et al.",
+      "Jarnsaxa": "L | ‡Jarnsaxa | /jɑːrnˈsæksə/ | | 15.6 | ≈ 6 | ≈ 0.065 | 19273500 | −999.13 | 163.0 | 0.218 | Norse group (Mundilfari) | 2006 | 2006 | Sheppard et al.",
+      "Kari": "XLV | ‡Kari | /ˈkɑːri/ | | 14.5 | ≈ 6 | ≈ 0.27 | 22032100 | −1220.98 | 153.0 | 0.469 | Norse group (Kari) | 2006 | 2006 | Sheppard et al.",
+      "Loge": "XLVI | ‡Loge | /ˈlɔɪ.eɪ/ | | 15.4 | ≈ 5 | ≈ 0.11 | 22919200 | −1295.52 | 168.1 | 0.191 | Norse group (Mundilfari) | 2006 | 2006 | Sheppard et al.",
+      "Mundilfari": "XXV | ‡Mundilfari | /mʊndəlˈværi/ | | 14.5 | ≈ 7 | ≈ 0.27 | 18588200 | −946.29 | 167.1 | 0.211 | Norse group (Mundilfari) | 2000 | 2000 | Gladman et al.",
+      "Narvi": "XXXI | ‡Narvi | /ˈnɑːrvi/ | | 14.5 | ≈ 7 | ≈ 0.27 | 19285000 | −999.94 | 142.2 | 0.441 | Norse group (low-inclination) | 2003 | 2003 | Sheppard et al.",
+      "Skathi": "XXVII | ‡Skathi | /ˈskɑːði/ | | 14.3 | ≈ 8 | ≈ 0.38 | 15575400 | −725.73 | 151.6 | 0.281 | Norse group (low-inclination) | 2000 | 2000 | Gladman et al.",
+      "Skoll": "XLVII | ‡Skoll | /ˈskɒl/ | | 15.4 | ≈ 5 | ≈ 0.11 | 17623400 | −873.57 | 159.4 | 0.463 | Norse group (Mundilfari) | 2006 | 2006 | Sheppard et al.",
+      "Skrymir": "LVI | ‡Skrymir | /ˈskrɪmɪər/ | | 15.5 | ≈ 4 | ≈ 0.065 | 21447400 | −1172.72 | 175.6 | 0.437 | Norse group (Phoebe) | 2004 | 2019 | Sheppard et al.",
+      "Surtur": "XLVIII | ‡Surtur | /ˈsɜːrtər/ | | 15.7 | ≈ 6 | ≈ 0.065 | 22748000 | −1281.14 | 168.4 | 0.448 | Norse group (Mundilfari) | 2006 | 2006 | Sheppard et al.",
+      "Suttungr": "XXIII | ‡Suttungr | /ˈsʊtʊŋɡər/ | | 14.5 | ≈ 7 | ≈ 0.27 | 19391900 | −1008.25 | 175.7 | 0.116 | Norse group (Phoebe) | 2000 | 2000 | Gladman et al.",
+      "Thiazzi": "LXIII | ‡Thiazzi | /θiˈætsi/ | | 15.9 | ≈ 4 | ≈ 0.034 | 23577500 | −1351.83 | 158.8 | 0.511 | Norse group (Mundilfari) | 2004 | 2019 | Sheppard et al.",
+      "Thrymr": "XXX | ‡Thrymr | /ˈθrɪmər/ | | 14.3 | ≈ 8 | ≈ 0.38 | 20330500 | −1082.23 | 175.0 | 0.467 | Norse group (Phoebe) | 2000 | 2000 | Gladman et al.",
+      "Ymir": "XIX | ‡Ymir | /ˈiːmɪər/ | | 12.2 | ≈ 19 | ≈ 5.6 | 22955600 | −1298.68 | 172.3 | 0.338 | Norse group (Phoebe) | 2000 | 2000 | Gladman et al."
+    },
+    "issues": []
+  }
+}
