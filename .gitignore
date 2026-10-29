@@ -8,6 +8,14 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
+.ruff_cache/
+
+# Downloaded third-party datasets (IMDb licence forbids redistribution)
+pipeline/.cache/
+
+# Rejected or half-written pipeline output (accepted candidates are committed via review PRs)
+pipeline/candidates/*.failed.json
+pipeline/candidates/*.part
 
 # Secrets: NEVER commit real values. Commit .env.example instead.
 .env

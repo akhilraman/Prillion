@@ -16,10 +16,10 @@ web/                    React + TypeScript + Vite frontend
   src/content/          Question bank (JSON) + validated loader
   src/ui/               Screens and components
 docs/ARCHITECTURE.md    Design, data flow, trade-offs, roadmap
-.env.example            Environment variables (none required yet)
+.env.example            Environment variables (pipeline only: OPENAI_API_KEY, PRILLION_OPENAI_MODEL)
 ```
 
-A `pipeline/` (Python) directory will be added in the content-engine milestone.
+`pipeline/` is the Python content pipeline (candidate-question generation); see [pipeline/README.md](pipeline/README.md).
 
 ## Requirements
 

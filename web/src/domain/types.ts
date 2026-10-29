@@ -29,11 +29,15 @@ export interface Source {
  * Where the `familiarity` number on an answer came from. Rarity must be
  * explainable, so we record its provenance instead of pretending precision.
  */
-export type FamiliarityBasis =
+export const FAMILIARITY_BASES = [
   /** Hand-assigned by an editor. A rough prior, not a measurement. */
-  | 'curated-estimate'
+  'curated-estimate',
+  /** An LLM's coarse judgement (a familiarity tier), converted to a share by the pipeline. Unverified. */
+  'llm-estimate',
   /** Derived from normalised external signals (pipeline, later milestone). */
-  | 'signal-model';
+  'signal-model',
+] as const;
+export type FamiliarityBasis = (typeof FAMILIARITY_BASES)[number];
 
 export interface Answer {
   /** Stable id, unique within the question. */
