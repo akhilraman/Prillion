@@ -57,8 +57,15 @@ export const MIN_OBSERVED_TOTAL = 50;
  */
 export const PRIOR_STRENGTH = 100;
 
-/** No answer may be treated as rarer than this, however few people pick it. */
-export const MIN_SHARE_FLOOR = 0.005;
+/**
+ * No answer may be treated as rarer than this, however few people pick it.
+ *
+ * It must stay below the smallest share a large closed set can legitimately hold.
+ * A closed set sums to ~1, so a 100-answer set averages 1% and its rarest tier sits
+ * well under 0.5%. At 0.005 those answers were clamped up and the rarest tiers
+ * collapsed into one (Best Picture, 98 winners, scored as only 2 tiers).
+ */
+export const MIN_SHARE_FLOOR = 0.001;
 
 /** The part of a Question the scorer needs. */
 export type ScorableQuestion = Pick<Question, 'id' | 'answers'>;

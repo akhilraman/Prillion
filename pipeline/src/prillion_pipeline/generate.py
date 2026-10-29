@@ -17,7 +17,7 @@ from .llm import LLM, LLMError, Message
 from .sources.base import Document
 
 # Bump when the prompt text changes; it is part of the input hash and the provenance.
-PROMPT_VERSION = "2026-10-29.1"
+PROMPT_VERSION = "2026-10-29.2"
 MAX_ATTEMPTS = 3
 
 SYSTEM_PROMPT = """\
@@ -32,6 +32,7 @@ Rules:
 6. `aliases` are alternative names or spellings players might type (e.g. "Bahubali 1"). Never reuse one answer's name as another's alias.
 7. `familiarity_tier` is your honest judgement of how likely an average fan is to name that answer: very-familiar, familiar, niche or obscure. Use the whole range; not every answer can be very-familiar.
 8. Prefer objective, checkable prompts. Avoid "best", "greatest" or other opinions unless the criteria make them objective.
+9. COMPLETENESS: when a document lists the answers (a table or list of winners, members or entries), include EVERY entry that matches the question, famous or obscure, in every year or row. Do not sample or stop early. A player's correct answer that you left out would be wrongly rejected.
 """
 
 

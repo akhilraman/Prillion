@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "id": "space-saturn-moons",
+      "category": "space",
+      "pages": ["Moons of Saturn"],
+      "brief": "Name a moon of Saturn."
+    },
+    {
+      "id": "space-jupiter-moons",
+      "category": "space",
+      "pages": ["Moons of Jupiter"],
+      "brief": "Name a moon of Jupiter."
+    },
+    {
+      "id": "us-pop-nba-mvps-gen",
+      "category": "us-pop",
+      "pages": ["NBA Most Valuable Player Award"],
+      "brief": "Name a player who has won the NBA Most Valuable Player award."
+    },
+    {
+      "id": "us-pop-best-picture-winners",
+      "category": "us-pop",
+      "pages": ["Academy Award for Best Picture"],
+      "brief": "Name a film that has won the Academy Award for Best Picture."
+    },
+    {
+      "id": "tollywood-100-crore-gen",
+      "category": "tollywood",
+      "pages": ["List of highest-grossing Telugu films"],
+      "brief": "Name a Telugu film that grossed over 100 crore rupees worldwide, according to the ranking table."
+    },
+    {
+      "id": "tollywood-filmfare-best-film",
+      "category": "tollywood",
+      "pages": ["Filmfare Award for Best Film – Telugu"],
+      "brief": "Name a film that has won the Filmfare Award for Best Film – Telugu."
+    }
+  ]
+}
