@@ -72,6 +72,12 @@ export interface Question {
   prompt: string;
   answerSet: AnswerSetKind;
   answers: Answer[];
+  /**
+   * "What counts": the editorial rule for membership, shown to the player.
+   * Required (by the quality gate) for open sets, where the prompt alone is
+   * subjective, e.g. what makes a film a "saviour trope" film.
+   */
+  criteria?: string;
   /** Shown after the player answers. */
   explanation: string;
   sources: Source[];
@@ -97,11 +103,21 @@ export interface AnswerObservation {
   total: number;
 }
 
+/** Looks up gameplay statistics for an answer; undefined = no data. */
+export type ObservationLookup = (questionId: string, answerId: string) => AnswerObservation | undefined;
+
 export interface ScoreBreakdown {
   tier: RarityTier;
   points: number;
   /** The share used for scoring after blending prior and observations. */
   effectiveShare: number;
+  /**
+   * The share of the most popular answer to the same question. The tier is
+   * decided by effectiveShare / topShare, not by effectiveShare alone.
+   */
+  topShare: number;
+  /** effectiveShare / topShare, in (0, 1]. 1 means "the most popular answer". */
+  relativeShare: number;
   /** Whether observed gameplay data influenced the share. */
   usedObservations: boolean;
 }

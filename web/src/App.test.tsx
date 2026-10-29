@@ -40,6 +40,25 @@ describe('home screen', () => {
   });
 });
 
+describe('question criteria', () => {
+  it('shows "What counts" when a question defines criteria, and nothing when it does not', async () => {
+    const user = userEvent.setup();
+    const withCriteria = makeBank({ tollywood: 0, space: 1, 'us-pop': 0 }).map((q) => ({
+      ...q,
+      criteria: 'The hero frees a village from a tyrant.',
+    }));
+    const { unmount } = render(<App bank={{ ok: true, questions: withCriteria }} />);
+    await user.click(screen.getByRole('button', { name: /^space/i }));
+    expect(screen.getByText('What counts:')).toBeInTheDocument();
+    expect(screen.getByText(/frees a village from a tyrant/)).toBeInTheDocument();
+    unmount();
+
+    render(<App bank={{ ok: true, questions: makeBank({ tollywood: 0, space: 1, 'us-pop': 0 }) }} />);
+    await user.click(screen.getByRole('button', { name: /^space/i }));
+    expect(screen.queryByText('What counts:')).not.toBeInTheDocument();
+  });
+});
+
 describe('error state', () => {
   it('shows a readable error instead of crashing when the bank is invalid', () => {
     render(<App bank={{ ok: false, message: 'The question bank is invalid.' }} />);

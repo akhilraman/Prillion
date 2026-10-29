@@ -68,6 +68,11 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
         <h1 id="prompt" className="question-card__prompt">
           {question.prompt}
         </h1>
+        {question.criteria && (
+          <p className="question-card__criteria">
+            <strong>What counts:</strong> {question.criteria}
+          </p>
+        )}
 
         {state.phase === 'answering' ? (
           <AnswerForm key={state.index} onSubmit={onSubmit} />

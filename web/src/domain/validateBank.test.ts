@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import seedBank from '../content/seed-bank.json';
 import { matchAnswer } from './matcher.ts';
+import { checkQuestionQuality } from './quality.ts';
 import { parseQuestionBank, validateQuestionBank } from './validateBank.ts';
 import { makeAnswer, makeQuestion } from './testFixtures.ts';
 import { CATEGORIES } from './types.ts';
@@ -22,6 +23,21 @@ describe('seed question bank (contract test)', () => {
     expect(bank.questions.length).toBeGreaterThanOrEqual(15);
     for (const c of CATEGORIES) {
       expect(bank.questions.some((q) => q.category === c)).toBe(true);
+    }
+  });
+
+  it('every question passes the editorial quality gate (10+ answers, a rarity spread, criteria for open sets)', () => {
+    const bank = parseQuestionBank(seedBank);
+    for (const q of bank.questions) {
+      const issues = checkQuestionQuality(q).map((i) => `${i.code}: ${i.message}`);
+      expect(issues, q.id).toEqual([]);
+    }
+  });
+
+  it('has 5 questions per category', () => {
+    const bank = parseQuestionBank(seedBank);
+    for (const c of CATEGORIES) {
+      expect(bank.questions.filter((q) => q.category === c).length, c).toBe(5);
     }
   });
 
@@ -64,6 +80,13 @@ describe('validateQuestionBank: malformed input', () => {
 
   it('accepts a minimal valid fixture', () => {
     expect(issuesFor(bankOf(makeQuestion('ok')))).toEqual([]);
+  });
+
+  it('accepts an optional criteria string but rejects a blank one', () => {
+    expect(issuesFor(bankOf(makeQuestion('c', { criteria: 'What counts.' })))).toEqual([]);
+    expect(issuesFor(bankOf(makeQuestion('c', { criteria: '  ' })))).toContain(
+      '$.questions[0].criteria: if present, must be a non-empty string',
+    );
   });
 
   it('rejects duplicate question ids', () => {

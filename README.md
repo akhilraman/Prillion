@@ -43,3 +43,5 @@ A `pipeline/` (Python) directory will be added in the content-engine milestone.
 - Every answer must cite at least one real source (`sourceIds`). Nothing is invented.
 - `familiarity` values are marked `curated-estimate`: editorial priors, not measurements.
 - Only questions whose valid answers can be **fully enumerated and verified** are marked `closed`. Questions where valid answers may be missing from the bank must be `open` and route unknown answers to human review.
+- Every question needs **10+ valid answers** spread across at least 3 rarity tiers (enforced by `checkQuestionQuality`). Rarity is relative to the most popular answer of the same question, so a question with 3 answers cannot rank anything.
+- Subjective questions (for example "follows the saviour trope") must be `open` and carry `criteria`, shown to players as "What counts".

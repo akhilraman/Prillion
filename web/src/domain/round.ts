@@ -19,7 +19,9 @@
 
 import { matchAnswer } from './matcher.ts';
 import { scoreAnswer } from './scoring.ts';
-import type { AnswerObservation, Question, RarityTier, ScoreBreakdown } from './types.ts';
+import type { ObservationLookup, Question, RarityTier, ScoreBreakdown } from './types.ts';
+
+export type { ObservationLookup } from './types.ts';
 
 export const DEFAULT_SECONDS_PER_QUESTION = 25;
 
@@ -71,9 +73,6 @@ export type RoundAction =
   | { type: 'NEXT'; nowMs: number }
   /** Abandon the round (or leave the results screen) and return to idle. */
   | { type: 'RESET' };
-
-/** Looks up gameplay statistics for an answer; undefined = no data. */
-export type ObservationLookup = (questionId: string, answerId: string) => AnswerObservation | undefined;
 
 export const initialRoundState: RoundState = { phase: 'idle' };
 
@@ -172,7 +171,8 @@ export function gradeSubmission(
   const match = matchAnswer(question, input);
 
   if (match.kind === 'match') {
-    const score = scoreAnswer(match.answer, observations(question.id, match.answer.id));
+    // The matcher only returns answers of this question, so a score always exists.
+    const score = scoreAnswer(question, match.answer.id, observations)!;
     return {
       questionId: question.id,
       input,

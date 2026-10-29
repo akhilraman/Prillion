@@ -1,6 +1,6 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import type { QuestionResult } from '../domain/round.ts';
-import { scoreAnswer } from '../domain/scoring.ts';
+import { scoreQuestionAnswers } from '../domain/scoring.ts';
 import type { Question } from '../domain/types.ts';
 import { headlineFor, TIER_LABELS } from './labels.ts';
 
@@ -20,6 +20,13 @@ export function RevealPanel({ question, result, isLast, onNext }: RevealPanelPro
   }, []);
 
   const matched = question.answers.find((a) => a.id === result.answerId);
+  // Tiers are relative to the question's most popular answer, so score them together.
+  const scores = useMemo(() => scoreQuestionAnswers(question), [question]);
+  // Most popular first: the list doubles as a "how obvious was your answer?" ranking.
+  const ranked = useMemo(
+    () => [...question.answers].sort((a, b) => b.familiarity - a.familiarity),
+    [question],
+  );
 
   return (
     <section className={`reveal reveal--${result.outcome}`} aria-label="Answer reveal">
@@ -41,8 +48,8 @@ export function RevealPanel({ question, result, isLast, onNext }: RevealPanelPro
         {question.answerSet === 'closed' ? 'All accepted answers' : 'Some accepted answers'}
       </h3>
       <ul className="answer-list">
-        {question.answers.map((answer) => {
-          const tier = scoreAnswer(answer).tier;
+        {ranked.map((answer) => {
+          const tier = scores.get(answer.id)!.tier;
           const isYours = answer.id === result.answerId;
           return (
             <li key={answer.id} className={`answer-list__item${isYours ? ' answer-list__item--yours' : ''}`}>

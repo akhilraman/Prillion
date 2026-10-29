@@ -5,24 +5,32 @@ import {
   MIN_SHARE_FLOOR,
   PRIOR_STRENGTH,
   scoreAnswer,
-  tierForShare,
+  scoreQuestionAnswers,
+  tierForRelativeShare,
 } from './scoring.ts';
+import { makeAnswer, makeQuestion } from './testFixtures.ts';
 
-describe('tierForShare', () => {
-  it('maps share boundaries to tiers (lower bound inclusive)', () => {
-    expect(tierForShare(0.9)).toEqual({ tier: 'common', points: 100 });
-    expect(tierForShare(0.25)).toEqual({ tier: 'common', points: 100 });
-    expect(tierForShare(0.2499)).toEqual({ tier: 'uncommon', points: 200 });
-    expect(tierForShare(0.1)).toEqual({ tier: 'uncommon', points: 200 });
-    expect(tierForShare(0.0999)).toEqual({ tier: 'rare', points: 350 });
-    expect(tierForShare(0.03)).toEqual({ tier: 'rare', points: 350 });
-    expect(tierForShare(0.0299)).toEqual({ tier: 'legendary', points: 500 });
-    expect(tierForShare(0)).toEqual({ tier: 'legendary', points: 500 });
+/** A question whose answers have the given familiarity values (ids a0, a1, ...). */
+function questionWith(familiarities: number[]) {
+  return makeQuestion('q', {
+    answers: familiarities.map((familiarity, i) => makeAnswer(`a${i}`, { familiarity })),
+  });
+}
+
+describe('tierForRelativeShare', () => {
+  it('maps relative-share boundaries to tiers (lower bound inclusive)', () => {
+    expect(tierForRelativeShare(1)).toEqual({ tier: 'common', points: 100 });
+    expect(tierForRelativeShare(0.5)).toEqual({ tier: 'common', points: 100 });
+    expect(tierForRelativeShare(0.4999)).toEqual({ tier: 'uncommon', points: 200 });
+    expect(tierForRelativeShare(0.2)).toEqual({ tier: 'uncommon', points: 200 });
+    expect(tierForRelativeShare(0.1999)).toEqual({ tier: 'rare', points: 350 });
+    expect(tierForRelativeShare(0.05)).toEqual({ tier: 'rare', points: 350 });
+    expect(tierForRelativeShare(0.0499)).toEqual({ tier: 'legendary', points: 500 });
+    expect(tierForRelativeShare(0)).toEqual({ tier: 'legendary', points: 500 });
   });
 
   it('awards more points to rarer tiers (monotonic)', () => {
-    const shares = [0.9, 0.2, 0.05, 0.01];
-    const points = shares.map((s) => tierForShare(s).points);
+    const points = [1, 0.3, 0.1, 0.01].map((r) => tierForRelativeShare(r).points);
     expect(points).toEqual([...points].sort((a, b) => a - b));
   });
 });
@@ -41,8 +49,7 @@ describe('effectiveShare', () => {
 
   it('blends prior and observations once the sample is large enough', () => {
     const total = MIN_OBSERVED_TOTAL;
-    const count = 0; // nobody picked it
-    const r = effectiveShare(answer, { count, total });
+    const r = effectiveShare(answer, { count: 0, total });
     const expected = (0 + 0.4 * PRIOR_STRENGTH) / (total + PRIOR_STRENGTH);
     expect(r.usedObservations).toBe(true);
     expect(r.share).toBeCloseTo(expected, 10);
@@ -77,25 +84,67 @@ describe('effectiveShare', () => {
   });
 });
 
-describe('scoreAnswer', () => {
+describe('scoreAnswer (relative to the question)', () => {
   it('is deterministic', () => {
-    const a = scoreAnswer({ familiarity: 0.05 }, { count: 3, total: 100 });
-    const b = scoreAnswer({ familiarity: 0.05 }, { count: 3, total: 100 });
-    expect(a).toEqual(b);
+    const q = questionWith([0.3, 0.1, 0.02]);
+    const lookup = () => ({ count: 3, total: 100 });
+    expect(scoreAnswer(q, 'a2', lookup)).toEqual(scoreAnswer(q, 'a2', lookup));
   });
 
-  it('explains itself: returns the share and tier behind the points', () => {
-    expect(scoreAnswer({ familiarity: 0.7 })).toEqual({
-      tier: 'common',
-      points: 100,
-      effectiveShare: 0.7,
+  it('explains itself: share, top share, relative share, tier', () => {
+    const q = questionWith([0.4, 0.1]);
+    expect(scoreAnswer(q, 'a1')).toEqual({
+      tier: 'uncommon',
+      points: 200,
+      effectiveShare: 0.1,
+      topShare: 0.4,
+      relativeShare: 0.1 / 0.4,
       usedObservations: false,
     });
   });
 
+  it('gives the most popular answer the common tier whatever the set size', () => {
+    for (const n of [2, 10, 40]) {
+      const q = questionWith(Array.from({ length: n }, (_, i) => 0.3 * 0.9 ** i));
+      expect(scoreAnswer(q, 'a0')?.tier).toBe('common');
+    }
+  });
+
+  it('is scale-free: halving every share changes no tier', () => {
+    const full = questionWith([0.6, 0.3, 0.12, 0.03]);
+    const halved = questionWith([0.3, 0.15, 0.06, 0.015]);
+    for (const id of ['a0', 'a1', 'a2', 'a3']) {
+      expect(scoreAnswer(halved, id)?.tier).toBe(scoreAnswer(full, id)?.tier);
+    }
+  });
+
+  it('is what makes large sets work: a 15% answer can still be the common one', () => {
+    // Under the old absolute rule (>= 25% common) every answer here would be non-common.
+    const q = questionWith([0.15, 0.12, 0.05, 0.02, 0.005]);
+    expect(scoreAnswer(q, 'a0')?.tier).toBe('common');
+    expect(scoreAnswer(q, 'a1')?.tier).toBe('common');
+    expect(scoreAnswer(q, 'a2')?.tier).toBe('uncommon');
+    expect(scoreAnswer(q, 'a3')?.tier).toBe('rare');
+    expect(scoreAnswer(q, 'a4')?.tier).toBe('legendary');
+  });
+
+  it('returns undefined for an answer that is not part of the question', () => {
+    expect(scoreAnswer(questionWith([0.5, 0.5]), 'nope')).toBeUndefined();
+  });
+
   it('lets observed play re-tier an answer the prior mis-estimated', () => {
-    // Curated prior says legendary (1%) but 30% of 1000 players pick it.
-    const r = scoreAnswer({ familiarity: 0.01 }, { count: 300, total: 1000 });
-    expect(r.tier).toBe('common');
+    // Prior says a1 is 1% vs a0 at 50% (legendary), but 30% of 1000 players pick a1.
+    const q = questionWith([0.5, 0.01]);
+    expect(scoreAnswer(q, 'a1')?.tier).toBe('legendary');
+    const lookup = (_q: string, answerId: string) =>
+      answerId === 'a1' ? { count: 300, total: 1000 } : { count: 400, total: 1000 };
+    const r = scoreAnswer(q, 'a1', lookup);
+    expect(r?.usedObservations).toBe(true);
+    expect(r?.tier).toBe('common');
+  });
+
+  it('scoreQuestionAnswers covers every answer exactly once', () => {
+    const q = questionWith([0.3, 0.2, 0.1]);
+    expect([...scoreQuestionAnswers(q).keys()]).toEqual(['a0', 'a1', 'a2']);
   });
 });

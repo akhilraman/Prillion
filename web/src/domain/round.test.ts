@@ -88,6 +88,24 @@ describe('grading and scoring in a round', () => {
     expect(totalPoints(s2)).toBe(500);
   });
 
+  it('tiers by popularity relative to the question, so a 5% answer can be the common one', () => {
+    // A wide question: the most popular answer holds only 5% of responses.
+    const wide = makeQuestion('wide', {
+      answers: [
+        makeAnswer('top', { canonical: 'Top', familiarity: 0.05 }),
+        makeAnswer('mid', { canonical: 'Mid', familiarity: 0.02 }),
+        makeAnswer('low', { canonical: 'Low', familiarity: 0.008 }),
+      ],
+    });
+    const submit = (text: string) => run([start([wide]), { type: 'SUBMIT', text, nowMs: T0 + SECOND }]);
+    const scoreOf = (s: RoundState) => (s.phase === 'revealed' ? s.results[0]?.score : undefined);
+
+    // Absolute thresholds would call all three rare or legendary. Relatively: 100%, 40%, 16% of the top.
+    expect(scoreOf(submit('Top'))).toMatchObject({ tier: 'common', points: 100 });
+    expect(scoreOf(submit('Mid'))).toMatchObject({ tier: 'uncommon', points: 200 });
+    expect(scoreOf(submit('Low'))).toMatchObject({ tier: 'rare', points: 350 });
+  });
+
   it('records the result with the matching details', () => {
     const s = run([start(), { type: 'SUBMIT', text: 'Saturnn', nowMs: T0 + SECOND }]);
     expect(s.phase).toBe('revealed');

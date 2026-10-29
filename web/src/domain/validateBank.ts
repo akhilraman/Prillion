@@ -59,6 +59,9 @@ export function validateQuestionBank(data: unknown): ValidationResult {
 
     if (!isNonEmptyString(q['prompt'])) add(`${qp}.prompt`, 'must be a non-empty string');
     if (!isNonEmptyString(q['explanation'])) add(`${qp}.explanation`, 'must be a non-empty string');
+    if (q['criteria'] !== undefined && !isNonEmptyString(q['criteria'])) {
+      add(`${qp}.criteria`, 'if present, must be a non-empty string');
+    }
     if (!(CATEGORIES as readonly unknown[]).includes(q['category'])) {
       add(`${qp}.category`, `must be one of ${CATEGORIES.join(', ')}`);
     }

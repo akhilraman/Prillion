@@ -2,416 +2,4384 @@
   "schemaVersion": 1,
   "questions": [
     {
-      "id": "space-planets-with-rings",
-      "category": "space",
-      "prompt": "Name a planet in our solar system that has rings.",
-      "answerSet": "closed",
-      "explanation": "All four giant planets have ring systems. Saturn's is by far the most extensive; Jupiter's are faint dust rings, Uranus's are thin and dark, and Neptune's include broken arcs.",
-      "approvedOn": "2026-10-29",
-      "sources": [
+      "id": "tollywood-saviour-trope",
+      "category": "tollywood",
+      "prompt": "Name a Tollywood movie that follows the saviour trope formula.",
+      "answerSet": "open",
+      "answers": [
         {
-          "id": "nasa-solar-system",
-          "title": "Chapter 1: The Solar System",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter1-2/",
-          "retrievedOn": "2026-10-29"
+          "id": "baahubali-the-beginning",
+          "canonical": "Baahubali: The Beginning",
+          "aliases": [
+            "Baahubali",
+            "Baahubali 1",
+            "Bahubali 1",
+            "Bahubali The Beginning",
+            "Baahubali The Beginning"
+          ],
+          "familiarity": 0.1481,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Sivudu infiltrates tyrant Bhallaladeva's Mahishmati, frees the captive queen Devasena, and is hailed as the rightful heir 'Baahubali' (Wikipedia plot).",
+          "sourceIds": [
+            "baahubali"
+          ]
+        },
+        {
+          "id": "rrr",
+          "canonical": "RRR",
+          "aliases": [
+            "Rise Roar Revolt"
+          ],
+          "familiarity": 0.1185,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Komaram Bheem, 'the tribe's guardian', travels to Delhi to rescue the Gond girl Malli from the tyrannical British Governor (Wikipedia plot).",
+          "sourceIds": [
+            "rrr"
+          ]
+        },
+        {
+          "id": "khaidi-no-150",
+          "canonical": "Khaidi No. 150",
+          "aliases": [
+            "Khaidi 150",
+            "Khaidi Number 150"
+          ],
+          "familiarity": 0.0889,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Seenu takes up the cause of Neeruru villagers cheated of their land by Aggarwal's corporation and blocks Hyderabad's water supply to force national attention (Wikipedia plot).",
+          "sourceIds": [
+            "khaidi"
+          ]
+        },
+        {
+          "id": "akhanda",
+          "canonical": "Akhanda",
+          "aliases": [],
+          "familiarity": 0.0814,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Akhanda confronts Varadarajulu's illegal uranium mining, which exploits workers and sickens the region, and protects Murali Krishna's family (Wikipedia plot).",
+          "sourceIds": [
+            "akhanda"
+          ]
+        },
+        {
+          "id": "maharshi",
+          "canonical": "Maharshi",
+          "aliases": [],
+          "familiarity": 0.074,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Rishi returns to Ramavaram to save the village from a pipeline project, backing the farmers against businessman Vivek Mittal (Wikipedia plot; IMDb: 'champion for the poor downtrodden farmers').",
+          "sourceIds": [
+            "maharshi"
+          ]
+        },
+        {
+          "id": "chatrapathi",
+          "canonical": "Chatrapathi",
+          "aliases": [
+            "Chhatrapathi",
+            "Chatrapati",
+            "Chatrapathi 2005"
+          ],
+          "familiarity": 0.0666,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Sivaji revolts against port don Baji Rao, who exploits refugee labour; the liberated refugees hail him as their saviour and name him 'Chatrapathi' (Wikipedia plot).",
+          "sourceIds": [
+            "chatrapathi"
+          ]
+        },
+        {
+          "id": "kingdom",
+          "canonical": "Kingdom",
+          "aliases": [
+            "Kingdom 2025"
+          ],
+          "familiarity": 0.0592,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Suri liberates the people of Divi from the Odiyappan/Murugan cartel's rule after his brother Siva's death (Wikipedia plot).",
+          "sourceIds": [
+            "kingdom"
+          ]
+        },
+        {
+          "id": "acharya",
+          "canonical": "Acharya",
+          "aliases": [
+            "Acharya 2022"
+          ],
+          "familiarity": 0.0518,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Acharya arrives in Dharmasthali to oppose the tyrant Basava's mining plans and protect the villagers and the Gattamma temple (Wikipedia plot).",
+          "sourceIds": [
+            "acharya"
+          ]
+        },
+        {
+          "id": "hanu-man",
+          "canonical": "Hanu-Man",
+          "aliases": [
+            "HanuMan",
+            "Hanuman",
+            "Hanu Man"
+          ],
+          "familiarity": 0.0518,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Hanumanthu gains Hanuman's powers, defeats the tyrant Polygar Gajapathi and protects the people of Anjanadri from Michael (Wikipedia plot).",
+          "sourceIds": [
+            "hanuman"
+          ]
+        },
+        {
+          "id": "sye-raa-narasimha-reddy",
+          "canonical": "Sye Raa Narasimha Reddy",
+          "aliases": [
+            "Sye Raa",
+            "Syeraa",
+            "Sye Raa Narasimha Reddy 2019"
+          ],
+          "familiarity": 0.037,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Narasimha Reddy organises a resistance against East India Company rule that oppressed the villagers (Wikipedia plot).",
+          "sourceIds": [
+            "syeraa"
+          ]
+        },
+        {
+          "id": "kalki-2898-ad",
+          "canonical": "Kalki 2898 AD",
+          "aliases": [
+            "Kalki",
+            "Kalki 2898"
+          ],
+          "familiarity": 0.037,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ashwatthama and Shambhala's rebels shield SUM-80, mother of the prophesied Kalki, from the totalitarian ruler Supreme Yaskin; Bhairava ends up defending her (Wikipedia plot).",
+          "sourceIds": [
+            "kalki"
+          ]
+        },
+        {
+          "id": "mirai",
+          "canonical": "Mirai",
+          "aliases": [
+            "Mirai 2025"
+          ],
+          "familiarity": 0.0178,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Vedha is the prophesied protector of nine sacred scriptures and must wield the weapon Mirai to defeat Mahabir Lama and save the world (Wikipedia plot).",
+          "sourceIds": [
+            "mirai"
+          ]
+        },
+        {
+          "id": "the-paradise",
+          "canonical": "The Paradise",
+          "aliases": [
+            "Paradise"
+          ],
+          "familiarity": 0.0178,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Nani's Jadal leads the disenfranchised Savaari tribe against the feudal landlord Shikanja Maalik (Wikipedia: 'challenging systemic oppression').",
+          "sourceIds": [
+            "paradise"
+          ]
         }
       ],
-      "answers": [
-        { "id": "saturn", "canonical": "Saturn", "aliases": [], "familiarity": 0.7, "familiarityBasis": "curated-estimate", "evidence": "Saturn has an extensive ring system spanning about 280,000 km.", "sourceIds": ["nasa-solar-system"] },
-        { "id": "jupiter", "canonical": "Jupiter", "aliases": [], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Jupiter has equatorial dust rings.", "sourceIds": ["nasa-solar-system"] },
-        { "id": "uranus", "canonical": "Uranus", "aliases": [], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Uranus has a thin, dark ring system.", "sourceIds": ["nasa-solar-system"] },
-        { "id": "neptune", "canonical": "Neptune", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "Neptune has rings with broken arcs.", "sourceIds": ["nasa-solar-system"] }
-      ]
-    },
-    {
-      "id": "space-galilean-moons",
-      "category": "space",
-      "prompt": "Name one of Jupiter's four Galilean moons.",
-      "answerSet": "closed",
-      "explanation": "Galileo Galilei first observed Io, Europa, Ganymede and Callisto in 1610. In order from Jupiter: Io, Europa, Ganymede, Callisto.",
-      "approvedOn": "2026-10-29",
+      "explanation": "The 'saviour' formula casts one hero as the protector of a wronged community. Membership is an editorial call made from published plot summaries, not an official genre, so more films qualify than are listed here.",
       "sources": [
         {
-          "id": "nasa-jupiter-moons",
-          "title": "Jupiter Moons",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/jupiter/jupiter-moons/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "europa", "canonical": "Europa", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Europa may have a liquid-water ocean under its frozen crust; target of the Europa Clipper mission.", "sourceIds": ["nasa-jupiter-moons"] },
-        { "id": "io", "canonical": "Io", "aliases": [], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Io is the most volcanically active body in the solar system.", "sourceIds": ["nasa-jupiter-moons"] },
-        { "id": "ganymede", "canonical": "Ganymede", "aliases": [], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Ganymede is the largest moon in the solar system, bigger than Mercury.", "sourceIds": ["nasa-jupiter-moons"] },
-        { "id": "callisto", "canonical": "Callisto", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Callisto is the outermost Galilean moon and is heavily cratered.", "sourceIds": ["nasa-jupiter-moons"] }
-      ]
-    },
-    {
-      "id": "space-dwarf-planets",
-      "category": "space",
-      "prompt": "Name one of the five dwarf planets officially recognised by the IAU.",
-      "answerSet": "closed",
-      "explanation": "The IAU recognises five dwarf planets: Ceres, Pluto, Haumea, Makemake and Eris. Many more may exist but have not been officially recognised.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-dwarf-planets",
-          "title": "Pluto & Dwarf Planets",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/dwarf-planets/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "pluto", "canonical": "Pluto", "aliases": [], "familiarity": 0.7, "familiarityBasis": "curated-estimate", "evidence": "Reclassified as a dwarf planet by the IAU in 2006.", "sourceIds": ["nasa-dwarf-planets"] },
-        { "id": "ceres", "canonical": "Ceres", "aliases": [], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "The only dwarf planet in the inner solar system, in the asteroid belt.", "sourceIds": ["nasa-dwarf-planets"] },
-        { "id": "eris", "canonical": "Eris", "aliases": [], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] },
-        { "id": "makemake", "canonical": "Makemake", "aliases": [], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] },
-        { "id": "haumea", "canonical": "Haumea", "aliases": [], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Listed by NASA as one of the five IAU-recognised dwarf planets.", "sourceIds": ["nasa-dwarf-planets"] }
-      ]
-    },
-    {
-      "id": "space-great-observatories",
-      "category": "space",
-      "prompt": "Name one of NASA's four original \"Great Observatories\" space telescopes.",
-      "answerSet": "closed",
-      "explanation": "Hubble (visible/UV), Compton (gamma rays), Chandra (X-rays) and Spitzer (infrared) formed NASA's Great Observatories program, covering the spectrum from gamma rays to infrared.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-observatories",
-          "title": "Observatories",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/universe/observatories/",
+          "id": "baahubali",
+          "title": "Baahubali: The Beginning",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Baahubali:_The_Beginning",
           "retrievedOn": "2026-10-29"
         },
         {
-          "id": "stsci-great-observatories",
-          "title": "Great Observatories: Past, Present, and Future",
-          "publisher": "Space Telescope Science Institute",
-          "url": "https://www.stsci.edu/contents/newsletters/2020-volume-37-issue-02/great-observatories-past-present-and-future",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "hubble", "canonical": "Hubble Space Telescope", "aliases": ["Hubble", "HST"], "familiarity": 0.6, "familiarityBasis": "curated-estimate", "evidence": "Launched April 24, 1990; the first of the Great Observatories.", "sourceIds": ["nasa-observatories", "stsci-great-observatories"] },
-        { "id": "chandra", "canonical": "Chandra X-ray Observatory", "aliases": ["Chandra", "CXO"], "familiarity": 0.17, "familiarityBasis": "curated-estimate", "evidence": "Launched July 23, 1999; NASA's most powerful X-ray telescope.", "sourceIds": ["nasa-observatories"] },
-        { "id": "spitzer", "canonical": "Spitzer Space Telescope", "aliases": ["Spitzer"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Launched August 25, 2003; the fourth and final Great Observatory.", "sourceIds": ["nasa-observatories"] },
-        { "id": "compton", "canonical": "Compton Gamma Ray Observatory", "aliases": ["Compton", "CGRO"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Launched April 5, 1991; decommissioned June 4, 2000.", "sourceIds": ["nasa-observatories"] }
-      ]
-    },
-    {
-      "id": "space-apollo-landings",
-      "category": "space",
-      "prompt": "Name an Apollo mission that landed astronauts on the Moon.",
-      "answerSet": "closed",
-      "explanation": "Six Apollo missions landed on the Moon: Apollo 11, 12, 14, 15, 16 and 17. Apollo 13 was aborted after an in-flight explosion.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-apollo-program",
-          "title": "The Apollo Program",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/the-apollo-program/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "apollo-11", "canonical": "Apollo 11", "aliases": [], "familiarity": 0.55, "familiarityBasis": "curated-estimate", "evidence": "July 1969: first humans to walk on the Moon.", "sourceIds": ["nasa-apollo-program"] },
-        { "id": "apollo-17", "canonical": "Apollo 17", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "December 1972: the final Apollo mission to the Moon.", "sourceIds": ["nasa-apollo-program"] },
-        { "id": "apollo-12", "canonical": "Apollo 12", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "November 1969: second crewed lunar landing.", "sourceIds": ["nasa-apollo-program"] },
-        { "id": "apollo-15", "canonical": "Apollo 15", "aliases": [], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "July 1971: first use of the Lunar Roving Vehicle.", "sourceIds": ["nasa-apollo-program"] },
-        { "id": "apollo-14", "canonical": "Apollo 14", "aliases": [], "familiarity": 0.07, "familiarityBasis": "curated-estimate", "evidence": "January 1971: landed in the Fra Mauro region.", "sourceIds": ["nasa-apollo-program"] },
-        { "id": "apollo-16", "canonical": "Apollo 16", "aliases": [], "familiarity": 0.07, "familiarityBasis": "curated-estimate", "evidence": "April 1972: landed in the Descartes Highlands.", "sourceIds": ["nasa-apollo-program"] }
-      ]
-    },
-    {
-      "id": "space-moonwalkers",
-      "category": "space",
-      "prompt": "Name one of the 12 people who have walked on the Moon.",
-      "answerSet": "closed",
-      "explanation": "Twelve Apollo astronauts walked on the Moon between 1969 and 1972, all American. Four are still alive as of NASA's current listing: Aldrin, Scott, Duke and Schmitt.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-moonwalkers",
-          "title": "Moonwalkers",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/moon/moon-walkers/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "armstrong", "canonical": "Neil Armstrong", "aliases": ["Armstrong"], "familiarity": 0.38, "familiarityBasis": "curated-estimate", "evidence": "Apollo 11 commander; first person on the Moon.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "aldrin", "canonical": "Buzz Aldrin", "aliases": ["Aldrin", "Edwin Aldrin", "Edwin E. Aldrin Jr."], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Apollo 11 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "cernan", "canonical": "Gene Cernan", "aliases": ["Cernan", "Eugene Cernan", "Eugene A. Cernan"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Apollo 17 commander.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "shepard", "canonical": "Alan Shepard", "aliases": ["Shepard", "Alan B. Shepard Jr."], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Apollo 14 commander.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "conrad", "canonical": "Pete Conrad", "aliases": ["Conrad", "Charles Conrad", "Charles Conrad Jr.", "Charles Pete Conrad"], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Apollo 12 commander.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "bean", "canonical": "Alan Bean", "aliases": ["Bean"], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Apollo 12 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "schmitt", "canonical": "Harrison Schmitt", "aliases": ["Schmitt", "Harrison H. Schmitt"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 17 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "scott", "canonical": "David Scott", "aliases": ["Scott", "David R. Scott"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 15 commander.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "duke", "canonical": "Charles Duke", "aliases": ["Duke", "Charles M. Duke Jr."], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Apollo 16 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "young", "canonical": "John Young", "aliases": ["Young", "John W. Young"], "familiarity": 0.02, "familiarityBasis": "curated-estimate", "evidence": "Apollo 16 commander (and Apollo 10 orbital).", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "mitchell", "canonical": "Edgar Mitchell", "aliases": ["Mitchell", "Edgar D. Mitchell"], "familiarity": 0.02, "familiarityBasis": "curated-estimate", "evidence": "Apollo 14 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] },
-        { "id": "irwin", "canonical": "James Irwin", "aliases": ["Irwin", "James B. Irwin"], "familiarity": 0.01, "familiarityBasis": "curated-estimate", "evidence": "Apollo 15 lunar module pilot.", "sourceIds": ["nasa-moonwalkers"] }
-      ]
-    },
-    {
-      "id": "space-voyager-2-flybys",
-      "category": "space",
-      "prompt": "Name a planet that NASA's Voyager 2 flew past.",
-      "answerSet": "closed",
-      "explanation": "Voyager 2 is the only spacecraft to have visited all four giant planets: Jupiter (1979), Saturn (1981), Uranus (1986) and Neptune (1989). It remains the only spacecraft to have visited Uranus and Neptune.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-voyager-2",
-          "title": "Voyager 2: First To Visit All Four Giants",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/mission/voyager/voyager-2/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "jupiter", "canonical": "Jupiter", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Jupiter flyby on July 9, 1979.", "sourceIds": ["nasa-voyager-2"] },
-        { "id": "saturn", "canonical": "Saturn", "aliases": [], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Saturn flyby on August 25, 1981.", "sourceIds": ["nasa-voyager-2"] },
-        { "id": "uranus", "canonical": "Uranus", "aliases": [], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Uranus flyby on January 24, 1986.", "sourceIds": ["nasa-voyager-2"] },
-        { "id": "neptune", "canonical": "Neptune", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Neptune flyby on August 25, 1989.", "sourceIds": ["nasa-voyager-2"] }
-      ]
-    },
-    {
-      "id": "space-mars-moons",
-      "category": "space",
-      "prompt": "Name one of the two moons of Mars.",
-      "answerSet": "closed",
-      "explanation": "Asaph Hall discovered Phobos and Deimos in August 1877. Phobos is the larger and is slowly spiralling toward Mars.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "nasa-mars-moons",
-          "title": "Moons of Mars",
-          "publisher": "NASA Science",
-          "url": "https://science.nasa.gov/mars/moons/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "phobos", "canonical": "Phobos", "aliases": [], "familiarity": 0.65, "familiarityBasis": "curated-estimate", "evidence": "The larger moon; orbits Mars three times a day.", "sourceIds": ["nasa-mars-moons"] },
-        { "id": "deimos", "canonical": "Deimos", "aliases": [], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "The smaller moon; orbits Mars every 30 hours.", "sourceIds": ["nasa-mars-moons"] }
-      ]
-    },
-    {
-      "id": "tollywood-rajamouli-films",
-      "category": "tollywood",
-      "prompt": "Name a Telugu feature film directed by S. S. Rajamouli (original releases through 2022).",
-      "answerSet": "closed",
-      "explanation": "Rajamouli's twelve directed features through 2022 run from Student No. 1 (2001) to RRR (2022). Baahubali: The Epic (2025) is a combined re-release of the two Baahubali films, and Varanasi is not yet released, so neither counts here.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "wiki-rajamouli-filmography",
-          "title": "S. S. Rajamouli filmography",
-          "publisher": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli_filmography",
-          "retrievedOn": "2026-10-29"
-        },
-        {
-          "id": "wiki-rajamouli",
-          "title": "S. S. Rajamouli",
-          "publisher": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "rrr", "canonical": "RRR", "aliases": ["Roudram Ranam Rudhiram"], "familiarity": 0.21, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2022.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "magadheera", "canonical": "Magadheera", "aliases": [], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2009.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "baahubali-1", "canonical": "Baahubali: The Beginning", "aliases": ["Baahubali 1", "Bahubali 1", "Bahubali The Beginning"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2015.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "baahubali-2", "canonical": "Baahubali 2: The Conclusion", "aliases": ["Baahubali 2", "Bahubali 2", "Baahubali The Conclusion", "Bahubali The Conclusion"], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2017.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "eega", "canonical": "Eega", "aliases": ["Eecha"], "familiarity": 0.08, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2012.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "student-no-1", "canonical": "Student No. 1", "aliases": ["Student Number 1"], "familiarity": 0.06, "familiarityBasis": "curated-estimate", "evidence": "Rajamouli's directorial debut, 2001.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "simhadri", "canonical": "Simhadri", "aliases": [], "familiarity": 0.06, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2003.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "chatrapathi", "canonical": "Chatrapathi", "aliases": ["Chhatrapati", "Chatrapati", "Chhatrapathi"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2005.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "sye", "canonical": "Sye", "aliases": [], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2004.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "vikramarkudu", "canonical": "Vikramarkudu", "aliases": [], "familiarity": 0.04, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2006.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "yamadonga", "canonical": "Yamadonga", "aliases": ["Yama Donga"], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2007.", "sourceIds": ["wiki-rajamouli-filmography"] },
-        { "id": "maryada-ramanna", "canonical": "Maryada Ramanna", "aliases": [], "familiarity": 0.03, "familiarityBasis": "curated-estimate", "evidence": "Directed by Rajamouli, 2010.", "sourceIds": ["wiki-rajamouli-filmography"] }
-      ]
-    },
-    {
-      "id": "tollywood-rrr-leads",
-      "category": "tollywood",
-      "prompt": "Name one of the two male lead actors of the 2022 Telugu film RRR.",
-      "answerSet": "closed",
-      "explanation": "N. T. Rama Rao Jr. plays Komaram Bheem and Ram Charan plays Alluri Sitarama Raju. The title RRR originally abbreviated Rajamouli, Ram Charan, Rama Rao.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "wiki-rrr",
+          "id": "rrr",
           "title": "RRR",
           "publisher": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/RRR",
           "retrievedOn": "2026-10-29"
         },
         {
-          "id": "imdb-rrr",
-          "title": "RRR (2022)",
-          "publisher": "IMDb",
-          "url": "https://www.imdb.com/title/tt8178634/",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "ntr-jr", "canonical": "N. T. Rama Rao Jr.", "aliases": ["Jr NTR", "NTR Jr", "NTR", "Rama Rao Jr"], "familiarity": 0.55, "familiarityBasis": "curated-estimate", "evidence": "Plays Komaram Bheem; credited as NTR on IMDb.", "sourceIds": ["wiki-rrr", "imdb-rrr"] },
-        { "id": "ram-charan", "canonical": "Ram Charan", "aliases": ["Ram Charan Teja", "Charan"], "familiarity": 0.45, "familiarityBasis": "curated-estimate", "evidence": "Plays Alluri Sitarama Raju; credited as Ram Charan Teja on IMDb.", "sourceIds": ["wiki-rrr", "imdb-rrr"] }
-      ]
-    },
-    {
-      "id": "tollywood-eega-stars",
-      "category": "tollywood",
-      "prompt": "Name one of the three main stars of the 2012 Telugu film Eega.",
-      "answerSet": "closed",
-      "explanation": "Eega stars Nani (reincarnated as a fly), Samantha as Bindu, and Sudeepa as the villain Sudeep. It was filmed simultaneously in Tamil as Naan Ee.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "wiki-eega",
-          "title": "Eega",
+          "id": "khaidi",
+          "title": "Khaidi No. 150",
           "publisher": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Eega",
-          "retrievedOn": "2026-10-29"
-        }
-      ],
-      "answers": [
-        { "id": "nani", "canonical": "Nani", "aliases": [], "familiarity": 0.4, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays Nani.", "sourceIds": ["wiki-eega"] },
-        { "id": "samantha", "canonical": "Samantha", "aliases": ["Samantha Ruth Prabhu"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays Bindu.", "sourceIds": ["wiki-eega"] },
-        { "id": "sudeep", "canonical": "Sudeep", "aliases": ["Sudeepa", "Kiccha Sudeepa", "Kichcha Sudeepa", "Kichcha Sudeep"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "Billed star; plays the villain Sudeep.", "sourceIds": ["wiki-eega"] }
-      ]
-    },
-    {
-      "id": "us-pop-nwa-hall-of-fame",
-      "category": "us-pop",
-      "prompt": "Name one of the five N.W.A members inducted into the Rock & Roll Hall of Fame in 2016.",
-      "answerSet": "closed",
-      "explanation": "The Rock Hall lists five N.W.A inductees: Eazy-E, Dr. Dre, Ice Cube, MC Ren and DJ Yella. Arabian Prince was an early member but is not among the five Hall of Fame inductees, so he is not accepted here.",
-      "approvedOn": "2026-10-29",
-      "sources": [
-        {
-          "id": "rockhall-nwa",
-          "title": "N.W.A (inductee profile, archived)",
-          "publisher": "Rock & Roll Hall of Fame",
-          "url": "https://web.archive.org/web/20171020084143/https:/www.rockhall.com/inductees/nwa",
+          "url": "https://en.wikipedia.org/wiki/Khaidi_No._150",
           "retrievedOn": "2026-10-29"
         },
         {
-          "id": "britannica-nwa",
-          "title": "N.W.A",
-          "publisher": "Britannica Kids",
-          "url": "https://kids.britannica.com/scholars/article/NWA/630036",
+          "id": "akhanda",
+          "title": "Akhanda",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Akhanda",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "maharshi",
+          "title": "Maharshi (2019 film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Maharshi_(2019_film)",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "chatrapathi",
+          "title": "Chatrapathi (2005 film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chatrapathi_(2005_film)",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "kingdom",
+          "title": "Kingdom (2025 film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_(2025_film)",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "acharya",
+          "title": "Acharya (2022 film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Acharya_(2022_film)",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "hanuman",
+          "title": "Hanu-Man",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hanu-Man",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "syeraa",
+          "title": "Sye Raa Narasimha Reddy",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sye_Raa_Narasimha_Reddy",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "kalki",
+          "title": "Kalki 2898 AD",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kalki_2898_AD",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "mirai",
+          "title": "Mirai (2025 film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mirai_(2025_film)",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "paradise",
+          "title": "The Paradise (film)",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Paradise_(film)",
           "retrievedOn": "2026-10-29"
         }
       ],
-      "answers": [
-        { "id": "dr-dre", "canonical": "Dr. Dre", "aliases": ["Dre", "Andre Young"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Andre Young; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
-        { "id": "ice-cube", "canonical": "Ice Cube", "aliases": ["O'Shea Jackson"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "O'Shea Jackson; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
-        { "id": "eazy-e", "canonical": "Eazy-E", "aliases": ["Eric Wright"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Eric Wright; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
-        { "id": "mc-ren", "canonical": "MC Ren", "aliases": ["Ren", "Lorenzo Patterson"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Lorenzo Patterson; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] },
-        { "id": "dj-yella", "canonical": "DJ Yella", "aliases": ["Yella", "Antoine Carraby"], "familiarity": 0.05, "familiarityBasis": "curated-estimate", "evidence": "Antoine Carraby; listed among the five inducted members.", "sourceIds": ["rockhall-nwa", "britannica-nwa"] }
-      ]
+      "approvedOn": "2026-10-29",
+      "criteria": "The hero's central arc is saving or freeing a community, village or people from a tyrant or exploiter (a feudal lord, mining or corporate baron, or colonial power), and the film frames him as their protector. A hero who only fights a personal enemy does not count."
     },
     {
-      "id": "us-pop-golden-girls",
-      "category": "us-pop",
-      "prompt": "Name one of the four actresses who starred in the sitcom The Golden Girls.",
-      "answerSet": "closed",
-      "explanation": "The main cast was Bea Arthur (Dorothy), Betty White (Rose), Rue McClanahan (Blanche) and Estelle Getty (Sophia).",
-      "approvedOn": "2026-10-29",
+      "id": "tollywood-prabhas-films",
+      "category": "tollywood",
+      "prompt": "Name a Telugu film in which Prabhas plays a lead role.",
+      "answerSet": "open",
+      "answers": [
+        {
+          "id": "baahubali-the-beginning",
+          "canonical": "Baahubali: The Beginning",
+          "aliases": [
+            "Baahubali",
+            "Baahubali 1",
+            "Bahubali 1",
+            "Bahubali The Beginning"
+          ],
+          "familiarity": 0.1187,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2015 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "baahubali-2-the-conclusion",
+          "canonical": "Baahubali 2: The Conclusion",
+          "aliases": [
+            "Baahubali 2",
+            "Bahubali 2",
+            "Baahubali The Conclusion",
+            "Bahubali The Conclusion"
+          ],
+          "familiarity": 0.1187,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2017 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "kalki-2898-ad",
+          "canonical": "Kalki 2898 AD",
+          "aliases": [
+            "Kalki",
+            "Kalki 2898"
+          ],
+          "familiarity": 0.0831,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2024 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "salaar",
+          "canonical": "Salaar",
+          "aliases": [
+            "Salaar Part 1",
+            "Salaar Ceasefire",
+            "Salaar Part 1 Ceasefire"
+          ],
+          "familiarity": 0.0712,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2023 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "saaho",
+          "canonical": "Saaho",
+          "aliases": [],
+          "familiarity": 0.0594,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2019 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "chatrapathi",
+          "canonical": "Chatrapathi",
+          "aliases": [
+            "Chhatrapathi",
+            "Chatrapati"
+          ],
+          "familiarity": 0.0534,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2005 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "mirchi",
+          "canonical": "Mirchi",
+          "aliases": [],
+          "familiarity": 0.0475,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2013 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "adipurush",
+          "canonical": "Adipurush",
+          "aliases": [],
+          "familiarity": 0.0475,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2023 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "varsham",
+          "canonical": "Varsham",
+          "aliases": [],
+          "familiarity": 0.0451,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2004 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "mr-perfect",
+          "canonical": "Mr. Perfect",
+          "aliases": [
+            "Mister Perfect",
+            "Mr Perfect"
+          ],
+          "familiarity": 0.0451,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2011 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "darling",
+          "canonical": "Darling",
+          "aliases": [],
+          "familiarity": 0.0416,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2010 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "billa",
+          "canonical": "Billa",
+          "aliases": [],
+          "familiarity": 0.0356,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2009 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "radhe-shyam",
+          "canonical": "Radhe Shyam",
+          "aliases": [],
+          "familiarity": 0.0356,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2022 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "rebel",
+          "canonical": "Rebel",
+          "aliases": [],
+          "familiarity": 0.0237,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2012 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "yogi",
+          "canonical": "Yogi",
+          "aliases": [],
+          "familiarity": 0.0142,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2007 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "bujjigadu",
+          "canonical": "Bujjigadu",
+          "aliases": [
+            "Bujjigadu Made in Chennai"
+          ],
+          "familiarity": 0.0142,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2008 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "munna",
+          "canonical": "Munna",
+          "aliases": [],
+          "familiarity": 0.0119,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2007 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "chakram",
+          "canonical": "Chakram",
+          "aliases": [],
+          "familiarity": 0.0095,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2005 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "eeswar",
+          "canonical": "Eeswar",
+          "aliases": [
+            "Eshwar",
+            "Eeshwar"
+          ],
+          "familiarity": 0.0059,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2002 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "raghavendra",
+          "canonical": "Raghavendra",
+          "aliases": [],
+          "familiarity": 0.0059,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2003 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "pournami",
+          "canonical": "Pournami",
+          "aliases": [
+            "Pournami 2006"
+          ],
+          "familiarity": 0.0059,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2006 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        },
+        {
+          "id": "ek-niranjan",
+          "canonical": "Ek Niranjan",
+          "aliases": [],
+          "familiarity": 0.0059,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Listed in Prabhas's career on Wikipedia as a 2009 Telugu release.",
+          "sourceIds": [
+            "prabhas"
+          ]
+        }
+      ],
+      "explanation": "Prabhas debuted in Eeswar (2002) and became a pan-India star with the Baahubali films. The list here is built from his Wikipedia career summary and may omit minor releases.",
       "sources": [
         {
-          "id": "hallmark-golden-girls",
-          "title": "Golden Girls - Cast",
-          "publisher": "Hallmark Channel",
-          "url": "https://www.hallmarkchannel.com/golden-girls/cast",
+          "id": "prabhas",
+          "title": "Prabhas",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Prabhas",
           "retrievedOn": "2026-10-29"
         }
       ],
-      "answers": [
-        { "id": "betty-white", "canonical": "Betty White", "aliases": [], "familiarity": 0.5, "familiarityBasis": "curated-estimate", "evidence": "Played Rose Nylund.", "sourceIds": ["hallmark-golden-girls"] },
-        { "id": "bea-arthur", "canonical": "Bea Arthur", "aliases": ["Beatrice Arthur"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Played Dorothy Zbornak.", "sourceIds": ["hallmark-golden-girls"] },
-        { "id": "rue-mcclanahan", "canonical": "Rue McClanahan", "aliases": ["McClanahan"], "familiarity": 0.13, "familiarityBasis": "curated-estimate", "evidence": "Played Blanche Devereaux.", "sourceIds": ["hallmark-golden-girls"] },
-        { "id": "estelle-getty", "canonical": "Estelle Getty", "aliases": ["Getty"], "familiarity": 0.12, "familiarityBasis": "curated-estimate", "evidence": "Played Sophia Petrillo.", "sourceIds": ["hallmark-golden-girls"] }
-      ]
+      "approvedOn": "2026-10-29",
+      "criteria": "A Telugu-language feature film in which Prabhas has a lead role. Cameos and films not yet released do not count."
     },
     {
-      "id": "us-pop-infinity-stones",
-      "category": "us-pop",
-      "prompt": "Name one of the six Infinity Stones in the Marvel Cinematic Universe.",
+      "id": "tollywood-trivikram-films",
+      "category": "tollywood",
+      "prompt": "Name a film directed by Trivikram Srinivas.",
       "answerSet": "closed",
-      "explanation": "The six Infinity Stones are Space, Mind, Reality, Power, Time and Soul.",
-      "approvedOn": "2026-10-29",
+      "answers": [
+        {
+          "id": "ala-vaikunthapurramuloo",
+          "canonical": "Ala Vaikunthapurramuloo",
+          "aliases": [
+            "Ala Vaikuntapuramlo",
+            "AVPL",
+            "Ala Vaikunthapuramulo"
+          ],
+          "familiarity": 0.2141,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2020), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "athadu",
+          "canonical": "Athadu",
+          "aliases": [],
+          "familiarity": 0.1927,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2005), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "attarintiki-daredi",
+          "canonical": "Attarintiki Daredi",
+          "aliases": [
+            "Attarintiki Daredi 2013"
+          ],
+          "familiarity": 0.1499,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2013), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "jalsa",
+          "canonical": "Jalsa",
+          "aliases": [],
+          "familiarity": 0.1071,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2008), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "khaleja",
+          "canonical": "Khaleja",
+          "aliases": [],
+          "familiarity": 0.0857,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2010), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "aravinda-sametha-veera-raghava",
+          "canonical": "Aravinda Sametha Veera Raghava",
+          "aliases": [
+            "Aravinda Sametha",
+            "Aravindha Sametha"
+          ],
+          "familiarity": 0.0642,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2018), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "guntur-kaaram",
+          "canonical": "Guntur Kaaram",
+          "aliases": [
+            "Guntur Karam"
+          ],
+          "familiarity": 0.06,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2024), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "a-aa",
+          "canonical": "A Aa",
+          "aliases": [
+            "A..Aa",
+            "A Aa 2016"
+          ],
+          "familiarity": 0.0385,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2016), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "julayi",
+          "canonical": "Julayi",
+          "aliases": [
+            "Julai"
+          ],
+          "familiarity": 0.0321,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2012), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "s-o-satyamurthy",
+          "canonical": "S/O Satyamurthy",
+          "aliases": [
+            "Son of Satyamurthy",
+            "SO Satyamurthy"
+          ],
+          "familiarity": 0.0257,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2015), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "agnyaathavaasi",
+          "canonical": "Agnyaathavaasi",
+          "aliases": [
+            "Agnathavasi",
+            "Agnyaathavasi"
+          ],
+          "familiarity": 0.0171,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2018), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        },
+        {
+          "id": "nuvve-nuvve",
+          "canonical": "Nuvve Nuvve",
+          "aliases": [],
+          "familiarity": 0.0128,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by Trivikram Srinivas (2002), per his Wikipedia filmography.",
+          "sourceIds": [
+            "trivikram"
+          ]
+        }
+      ],
+      "explanation": "Trivikram's twelve released films as director. AK47 (listed as filming) is excluded because it has not been released. Films he only wrote, such as Malliswari or Nuvvu Naaku Nachav, do not count.",
       "sources": [
         {
-          "id": "marvel-endgame-guide",
-          "title": "Your Marvel Guide to Marvel Studios' Avengers: Endgame",
-          "publisher": "Marvel",
-          "url": "https://www.marvel.com/articles/movies/your-marvel-guide-to-avengers-endgame?linkId=66631083",
+          "id": "trivikram",
+          "title": "Trivikram Srinivas",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trivikram_Srinivas",
           "retrievedOn": "2026-10-29"
         }
       ],
-      "answers": [
-        { "id": "time", "canonical": "Time Stone", "aliases": ["Time"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
-        { "id": "soul", "canonical": "Soul Stone", "aliases": ["Soul"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
-        { "id": "space", "canonical": "Space Stone", "aliases": ["Space"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
-        { "id": "power", "canonical": "Power Stone", "aliases": ["Power"], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
-        { "id": "mind", "canonical": "Mind Stone", "aliases": ["Mind"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] },
-        { "id": "reality", "canonical": "Reality Stone", "aliases": ["Reality"], "familiarity": 0.1, "familiarityBasis": "curated-estimate", "evidence": "Listed among the six stones.", "sourceIds": ["marvel-endgame-guide"] }
-      ]
+      "approvedOn": "2026-10-29",
+      "criteria": "A released film directed (not just written) by Trivikram Srinivas."
     },
     {
-      "id": "us-pop-star-wars-original-trilogy",
-      "category": "us-pop",
-      "prompt": "Name a film in the original Star Wars trilogy.",
+      "id": "tollywood-rajamouli-films",
+      "category": "tollywood",
+      "prompt": "Name a feature film directed by S. S. Rajamouli.",
       "answerSet": "closed",
-      "explanation": "The original trilogy is Episode IV: A New Hope (1977), Episode V: The Empire Strikes Back (1980) and Episode VI: Return of the Jedi (1983). Typing just \"Star Wars\" is ambiguous, so it is not accepted.",
-      "approvedOn": "2026-10-29",
+      "answers": [
+        {
+          "id": "rrr",
+          "canonical": "RRR",
+          "aliases": [
+            "Rise Roar Revolt"
+          ],
+          "familiarity": 0.1689,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2022), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "baahubali-2-the-conclusion",
+          "canonical": "Baahubali 2: The Conclusion",
+          "aliases": [
+            "Baahubali 2",
+            "Bahubali 2",
+            "Baahubali The Conclusion",
+            "Bahubali The Conclusion"
+          ],
+          "familiarity": 0.1605,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2017), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "baahubali-the-beginning",
+          "canonical": "Baahubali: The Beginning",
+          "aliases": [
+            "Baahubali 1",
+            "Bahubali 1",
+            "Baahubali The Beginning",
+            "Bahubali The Beginning"
+          ],
+          "familiarity": 0.152,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2015), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "magadheera",
+          "canonical": "Magadheera",
+          "aliases": [
+            "Magadhira"
+          ],
+          "familiarity": 0.1182,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2009), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "eega",
+          "canonical": "Eega",
+          "aliases": [
+            "Naan Ee",
+            "Makkhi"
+          ],
+          "familiarity": 0.1182,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2012), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "chatrapathi",
+          "canonical": "Chatrapathi",
+          "aliases": [
+            "Chhatrapathi",
+            "Chatrapati"
+          ],
+          "familiarity": 0.076,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2005), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "simhadri",
+          "canonical": "Simhadri",
+          "aliases": [],
+          "familiarity": 0.0591,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2003), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "maryada-ramanna",
+          "canonical": "Maryada Ramanna",
+          "aliases": [
+            "Maryada Ramanna 2010"
+          ],
+          "familiarity": 0.0422,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2010), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "vikramarkudu",
+          "canonical": "Vikramarkudu",
+          "aliases": [
+            "Vikramarkudu 2006"
+          ],
+          "familiarity": 0.0338,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2006), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "yamadonga",
+          "canonical": "Yamadonga",
+          "aliases": [
+            "Yamadonga 2007"
+          ],
+          "familiarity": 0.0338,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2007), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "sye",
+          "canonical": "Sye",
+          "aliases": [],
+          "familiarity": 0.0203,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2004), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        },
+        {
+          "id": "student-no-1",
+          "canonical": "Student No: 1",
+          "aliases": [
+            "Student No 1",
+            "Student Number 1"
+          ],
+          "familiarity": 0.0169,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Directed by S. S. Rajamouli (2001), per his Wikipedia filmography.",
+          "sourceIds": [
+            "rajamouli"
+          ]
+        }
+      ],
+      "explanation": "Rajamouli's twelve released features. Varanasi (listed for 2027) is excluded because it has not been released.",
       "sources": [
         {
-          "id": "starwars-viewing-guide",
-          "title": "Star Wars Movies and Series Viewing Guide",
-          "publisher": "StarWars.com",
-          "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+          "id": "rajamouli",
+          "title": "S. S. Rajamouli",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli",
           "retrievedOn": "2026-10-29"
         }
       ],
-      "answers": [
-        { "id": "empire", "canonical": "The Empire Strikes Back", "aliases": ["Empire Strikes Back", "Episode V", "Episode 5", "Star Wars: Episode V - The Empire Strikes Back"], "familiarity": 0.4, "familiarityBasis": "curated-estimate", "evidence": "Episode V, released 1980.", "sourceIds": ["starwars-viewing-guide"] },
-        { "id": "new-hope", "canonical": "A New Hope", "aliases": ["Episode IV", "Episode 4", "Star Wars: A New Hope", "Star Wars: Episode IV - A New Hope"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "Episode IV, released 1977.", "sourceIds": ["starwars-viewing-guide"] },
-        { "id": "jedi", "canonical": "Return of the Jedi", "aliases": ["Episode VI", "Episode 6", "Star Wars: Return of the Jedi", "Star Wars: Episode VI - Return of the Jedi"], "familiarity": 0.25, "familiarityBasis": "curated-estimate", "evidence": "Episode VI, released 1983.", "sourceIds": ["starwars-viewing-guide"] }
-      ]
+      "approvedOn": "2026-10-29"
     },
     {
-      "id": "us-pop-afc-east",
-      "category": "us-pop",
-      "prompt": "Name a team in the NFL's AFC East division.",
+      "id": "tollywood-national-award-winners",
+      "category": "tollywood",
+      "prompt": "Name a film that won the National Film Award for Best Telugu Feature Film (awards for 2000 to 2024).",
       "answerSet": "closed",
-      "explanation": "The AFC East consists of the Buffalo Bills, Miami Dolphins, New England Patriots and New York Jets.",
-      "approvedOn": "2026-10-29",
+      "answers": [
+        {
+          "id": "eega",
+          "canonical": "Eega",
+          "aliases": [],
+          "familiarity": 0.1541,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2012.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "mahanati",
+          "canonical": "Mahanati",
+          "aliases": [
+            "Nadigaiyar Thilagam"
+          ],
+          "familiarity": 0.1233,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2018.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "jersey",
+          "canonical": "Jersey",
+          "aliases": [
+            "Jersey 2019"
+          ],
+          "familiarity": 0.1079,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2019.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "pelli-choopulu",
+          "canonical": "Pelli Choopulu",
+          "aliases": [
+            "Pellichoopulu"
+          ],
+          "familiarity": 0.0847,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2016.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "kartikeya-2",
+          "canonical": "Kartikeya 2",
+          "aliases": [
+            "Karthikeya 2"
+          ],
+          "familiarity": 0.0847,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2022.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "uppena",
+          "canonical": "Uppena",
+          "aliases": [],
+          "familiarity": 0.077,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2021.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "bhagavanth-kesari",
+          "canonical": "Bhagavanth Kesari",
+          "aliases": [
+            "Bhagwant Kesari",
+            "Bhagavanth Kesari 2023"
+          ],
+          "familiarity": 0.0693,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2023.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "color-photo",
+          "canonical": "Color Photo",
+          "aliases": [
+            "Colour Photo"
+          ],
+          "familiarity": 0.0616,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2020.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "kanche",
+          "canonical": "Kanche",
+          "aliases": [],
+          "familiarity": 0.0462,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2015.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "nuvve-kavali",
+          "canonical": "Nuvve Kavali",
+          "aliases": [],
+          "familiarity": 0.0462,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2000.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "ghazi",
+          "canonical": "Ghazi",
+          "aliases": [
+            "The Ghazi Attack"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2017.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "committee-kurrollu",
+          "canonical": "Committee Kurrollu",
+          "aliases": [
+            "Committee Kurrollu 2024"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2024.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "aithe",
+          "canonical": "Aithe",
+          "aliases": [],
+          "familiarity": 0.0185,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2003.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "show",
+          "canonical": "Show",
+          "aliases": [],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2001.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "swarabhishekam",
+          "canonical": "Swarabhishekam",
+          "aliases": [],
+          "familiarity": 0.0092,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2004.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "1940-lo-oka-gramam",
+          "canonical": "1940 Lo Oka Gramam",
+          "aliases": [
+            "1940 Lo Oka Gramam 2008"
+          ],
+          "familiarity": 0.0092,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2008.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "naa-bangaaru-talli",
+          "canonical": "Naa Bangaaru Talli",
+          "aliases": [
+            "Naa Bangaru Talli"
+          ],
+          "familiarity": 0.0092,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2013.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "chandamama-kathalu",
+          "canonical": "Chandamama Kathalu",
+          "aliases": [],
+          "familiarity": 0.0092,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2014.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "bommalata",
+          "canonical": "Bommalata",
+          "aliases": [],
+          "familiarity": 0.0077,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2005.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        },
+        {
+          "id": "kamli",
+          "canonical": "Kamli",
+          "aliases": [],
+          "familiarity": 0.0077,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won the National Film Award for Best Telugu Feature Film for 2006.",
+          "sourceIds": [
+            "nfa-wiki",
+            "nfa-m9"
+          ]
+        }
+      ],
+      "explanation": "Twenty films won in this window. No award was given for 2002, 2007 or 2009 to 2011.",
       "sources": [
         {
-          "id": "nfl-standings",
-          "title": "2026 NFL Division Standings",
-          "publisher": "NFL",
-          "url": "https://www.nfl.com/standings/",
+          "id": "nfa-wiki",
+          "title": "National Film Award for Best Telugu Feature Film",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Telugu_Feature_Film",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "nfa-m9",
+          "title": "National Award Winners for Best Telugu Film (2000-2024): Complete List",
+          "publisher": "m9.news",
+          "url": "https://www.m9.news/movienews/best-telugu-film-national-award-winners-2000-2024/",
           "retrievedOn": "2026-10-29"
         }
       ],
+      "approvedOn": "2026-10-29"
+    },
+    {
+      "id": "space-saturn-moons",
+      "category": "space",
+      "prompt": "Name a moon of Saturn.",
+      "answerSet": "open",
       "answers": [
-        { "id": "bills", "canonical": "Buffalo Bills", "aliases": ["Bills", "Buffalo"], "familiarity": 0.35, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
-        { "id": "patriots", "canonical": "New England Patriots", "aliases": ["Patriots", "New England", "Pats"], "familiarity": 0.3, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
-        { "id": "dolphins", "canonical": "Miami Dolphins", "aliases": ["Dolphins", "Miami"], "familiarity": 0.2, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] },
-        { "id": "jets", "canonical": "New York Jets", "aliases": ["Jets", "NY Jets"], "familiarity": 0.15, "familiarityBasis": "curated-estimate", "evidence": "AFC East member.", "sourceIds": ["nfl-standings"] }
-      ]
+        {
+          "id": "titan",
+          "canonical": "Titan",
+          "aliases": [],
+          "familiarity": 0.339,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn VI; discovered 1655, C. Huygens (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "enceladus",
+          "canonical": "Enceladus",
+          "aliases": [],
+          "familiarity": 0.2072,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn II; discovered 1789, W. Herschel (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "mimas",
+          "canonical": "Mimas",
+          "aliases": [],
+          "familiarity": 0.0753,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn I; discovered 1789, W. Herschel (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "rhea",
+          "canonical": "Rhea",
+          "aliases": [],
+          "familiarity": 0.0471,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn V; discovered 1672, G.D. Cassini (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "iapetus",
+          "canonical": "Iapetus",
+          "aliases": [
+            "Japetus"
+          ],
+          "familiarity": 0.0471,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn VIII; discovered 1671, G.D. Cassini (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "dione",
+          "canonical": "Dione",
+          "aliases": [],
+          "familiarity": 0.033,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn IV; discovered 1684, G.D. Cassini (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "hyperion",
+          "canonical": "Hyperion",
+          "aliases": [],
+          "familiarity": 0.033,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn VII; discovered 1848, Bond, Bond and Lassell (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "tethys",
+          "canonical": "Tethys",
+          "aliases": [],
+          "familiarity": 0.0282,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn III; discovered 1684, G.D. Cassini (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "phoebe",
+          "canonical": "Phoebe",
+          "aliases": [],
+          "familiarity": 0.0282,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn IX; discovered 1898, W.H. Pickering (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "prometheus",
+          "canonical": "Prometheus",
+          "aliases": [],
+          "familiarity": 0.0141,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XVI; discovered 1980, Voyager Science Team (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "janus",
+          "canonical": "Janus",
+          "aliases": [],
+          "familiarity": 0.0113,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn X; discovered 1966 and 1980 (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "pandora",
+          "canonical": "Pandora",
+          "aliases": [],
+          "familiarity": 0.0113,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XVII; discovered 1980, Voyager Science Team (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "pan",
+          "canonical": "Pan",
+          "aliases": [],
+          "familiarity": 0.0113,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XVIII; discovered 1990, M.R. Showalter (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "epimetheus",
+          "canonical": "Epimetheus",
+          "aliases": [],
+          "familiarity": 0.0094,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XI; discovered 1977 and 1980 (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "atlas",
+          "canonical": "Atlas",
+          "aliases": [],
+          "familiarity": 0.0075,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XV; discovered 1980, Voyager Science Team (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "helene",
+          "canonical": "Helene",
+          "aliases": [],
+          "familiarity": 0.0056,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XII; discovered 1980, P. Laques and J. Lecacheux (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "telesto",
+          "canonical": "Telesto",
+          "aliases": [],
+          "familiarity": 0.0056,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XIII; discovered 1980 (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        },
+        {
+          "id": "calypso",
+          "canonical": "Calypso",
+          "aliases": [],
+          "familiarity": 0.0056,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Saturn XIV; discovered 1980 (NASA Science moon table).",
+          "sourceIds": [
+            "nasa-saturn-moons"
+          ]
+        }
+      ],
+      "explanation": "NASA lists 293 confirmed moons of Saturn as of August 2026, so any confirmed moon counts. Titan is larger than Mercury; Enceladus hides a global ocean under its ice.",
+      "sources": [
+        {
+          "id": "nasa-saturn-moons",
+          "title": "Saturn Moons",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/saturn/moons/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "Any confirmed natural satellite of Saturn. NASA lists 293 as of August 2026, so lesser-known moons also count."
+    },
+    {
+      "id": "space-brightest-stars",
+      "category": "space",
+      "prompt": "Name one of the 20 brightest stars in Earth's night sky.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "sirius",
+          "canonical": "Sirius",
+          "aliases": [
+            "Alpha Canis Majoris",
+            "The Dog Star",
+            "Dog Star"
+          ],
+          "familiarity": 0.1576,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #1 by apparent magnitude (-1.46) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "betelgeuse",
+          "canonical": "Betelgeuse",
+          "aliases": [
+            "Beetlejuice",
+            "Alpha Orionis"
+          ],
+          "familiarity": 0.1103,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #10 by apparent magnitude (0.50 (variable)) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "alpha-centauri",
+          "canonical": "Alpha Centauri",
+          "aliases": [
+            "Rigil Kentaurus",
+            "Rigil Kent",
+            "Toliman",
+            "Alpha Cen"
+          ],
+          "familiarity": 0.0867,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #3 by apparent magnitude (-0.27 (combined)) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "vega",
+          "canonical": "Vega",
+          "aliases": [
+            "Alpha Lyrae"
+          ],
+          "familiarity": 0.0867,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #5 by apparent magnitude (0.03) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "rigel",
+          "canonical": "Rigel",
+          "aliases": [
+            "Beta Orionis"
+          ],
+          "familiarity": 0.0788,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #7 by apparent magnitude (0.13) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "canopus",
+          "canonical": "Canopus",
+          "aliases": [
+            "Alpha Carinae"
+          ],
+          "familiarity": 0.063,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #2 by apparent magnitude (-0.74) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "arcturus",
+          "canonical": "Arcturus",
+          "aliases": [
+            "Alpha Bootis"
+          ],
+          "familiarity": 0.0599,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #4 by apparent magnitude (-0.05) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "antares",
+          "canonical": "Antares",
+          "aliases": [
+            "Alpha Scorpii"
+          ],
+          "familiarity": 0.0504,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #15 by apparent magnitude (0.96 (variable)) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "aldebaran",
+          "canonical": "Aldebaran",
+          "aliases": [
+            "Alpha Tauri"
+          ],
+          "familiarity": 0.0441,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #14 by apparent magnitude (0.86 (variable)) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "altair",
+          "canonical": "Altair",
+          "aliases": [
+            "Alpha Aquilae"
+          ],
+          "familiarity": 0.0441,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #12 by apparent magnitude (0.76) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "capella",
+          "canonical": "Capella",
+          "aliases": [
+            "Alpha Aurigae"
+          ],
+          "familiarity": 0.0378,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #6 by apparent magnitude (0.08) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "procyon",
+          "canonical": "Procyon",
+          "aliases": [
+            "Alpha Canis Minoris"
+          ],
+          "familiarity": 0.0378,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #8 by apparent magnitude (0.34) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "deneb",
+          "canonical": "Deneb",
+          "aliases": [
+            "Alpha Cygni"
+          ],
+          "familiarity": 0.0347,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #19 by apparent magnitude (1.25) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "spica",
+          "canonical": "Spica",
+          "aliases": [
+            "Alpha Virginis"
+          ],
+          "familiarity": 0.0315,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #16 by apparent magnitude (0.97) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "pollux",
+          "canonical": "Pollux",
+          "aliases": [
+            "Beta Geminorum"
+          ],
+          "familiarity": 0.0252,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #17 by apparent magnitude (1.14) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "fomalhaut",
+          "canonical": "Fomalhaut",
+          "aliases": [
+            "Alpha Piscis Austrini"
+          ],
+          "familiarity": 0.0189,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #18 by apparent magnitude (1.16) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "achernar",
+          "canonical": "Achernar",
+          "aliases": [
+            "Alpha Eridani"
+          ],
+          "familiarity": 0.0126,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #9 by apparent magnitude (0.46) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "acrux",
+          "canonical": "Acrux",
+          "aliases": [
+            "Alpha Crucis"
+          ],
+          "familiarity": 0.0079,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #13 by apparent magnitude (0.76) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "hadar",
+          "canonical": "Hadar",
+          "aliases": [
+            "Beta Centauri",
+            "Agena"
+          ],
+          "familiarity": 0.0063,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #11 by apparent magnitude (0.61) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        },
+        {
+          "id": "mimosa",
+          "canonical": "Mimosa",
+          "aliases": [
+            "Beta Crucis",
+            "Becrux"
+          ],
+          "familiarity": 0.0055,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Ranked #20 by apparent magnitude (1.25) in Wikipedia's list of brightest stars (the Sun excluded).",
+          "sourceIds": [
+            "wiki-bright-stars"
+          ]
+        }
+      ],
+      "explanation": "Ranking is by apparent magnitude as seen from Earth, so nearby modest stars (Sirius, Alpha Centauri) outrank distant giants like Rigel. Betelgeuse is a variable star, so its exact rank can shift.",
+      "sources": [
+        {
+          "id": "wiki-bright-stars",
+          "title": "List of brightest stars",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_brightest_stars",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "The top 20 by apparent visual magnitude in Wikipedia's list of brightest stars. The Sun is excluded."
+    },
+    {
+      "id": "space-mars-landers",
+      "category": "space",
+      "prompt": "Name a spacecraft that has successfully landed on Mars and operated there.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "curiosity",
+          "canonical": "Curiosity",
+          "aliases": [
+            "Curiosity rover",
+            "Mars Science Laboratory",
+            "MSL"
+          ],
+          "familiarity": 0.2309,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 6 Aug 2012, Gale Crater (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "perseverance",
+          "canonical": "Perseverance",
+          "aliases": [
+            "Perseverance rover",
+            "Percy",
+            "Mars 2020"
+          ],
+          "familiarity": 0.2194,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 18 Feb 2021, Jezero crater (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "opportunity",
+          "canonical": "Opportunity",
+          "aliases": [
+            "Opportunity rover",
+            "Oppy"
+          ],
+          "familiarity": 0.1501,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 25 Jan 2004, Meridiani Planum (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "spirit",
+          "canonical": "Spirit",
+          "aliases": [
+            "Spirit rover"
+          ],
+          "familiarity": 0.1155,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 4 Jan 2004, Gusev Crater (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "mars-pathfinder",
+          "canonical": "Mars Pathfinder",
+          "aliases": [
+            "Pathfinder",
+            "Sojourner"
+          ],
+          "familiarity": 0.0878,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 4 Jul 1997, Ares Vallis (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "viking-1",
+          "canonical": "Viking 1",
+          "aliases": [
+            "Viking One"
+          ],
+          "familiarity": 0.0647,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 20 Jul 1976, Chryse Planitia (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "insight",
+          "canonical": "InSight",
+          "aliases": [
+            "InSight lander"
+          ],
+          "familiarity": 0.0439,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 26 Nov 2018, Elysium Planitia (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "phoenix",
+          "canonical": "Phoenix",
+          "aliases": [
+            "Phoenix lander",
+            "Mars Phoenix"
+          ],
+          "familiarity": 0.0323,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 25 May 2008, Vastitas Borealis (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "viking-2",
+          "canonical": "Viking 2",
+          "aliases": [
+            "Viking Two"
+          ],
+          "familiarity": 0.03,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 3 Sep 1976, Utopia Planitia (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers",
+            "nasa-mars-landing"
+          ]
+        },
+        {
+          "id": "tianwen-1",
+          "canonical": "Tianwen-1",
+          "aliases": [
+            "Zhurong",
+            "Tianwen 1"
+          ],
+          "familiarity": 0.0254,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Successful Mars landing: 14 May 2021, Utopia Planitia (Wikipedia list of Mars landers; NASA).",
+          "sourceIds": [
+            "wiki-mars-landers"
+          ]
+        }
+      ],
+      "explanation": "Ten missions have landed and worked on Mars. Mars 3 (1971) soft-landed but fell silent within seconds, so Wikipedia lists it as a partial success and it is excluded here. Sojourner was the rover carried by Mars Pathfinder.",
+      "sources": [
+        {
+          "id": "wiki-mars-landers",
+          "title": "List of Mars landers",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Mars_landers",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "nasa-mars-landing",
+          "title": "How We Land on Mars",
+          "publisher": "NASA Science",
+          "url": "https://science.nasa.gov/planetary-science/programs/mars-exploration/mission-timeline/how-we-land-on-mars/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "A lander or rover that reached the surface of Mars intact and returned data. Crashes and mission-ending failures do not count."
+    },
+    {
+      "id": "space-moon-landers",
+      "category": "space",
+      "prompt": "Name a spacecraft or mission that has soft-landed on the Moon.",
+      "answerSet": "open",
+      "answers": [
+        {
+          "id": "apollo-11",
+          "canonical": "Apollo 11",
+          "aliases": [
+            "Eagle",
+            "Apollo Eleven"
+          ],
+          "familiarity": 0.1607,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "First crewed landing, in the Sea of Tranquility. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "chandrayaan-3",
+          "canonical": "Chandrayaan-3",
+          "aliases": [
+            "Chandrayaan 3",
+            "Vikram",
+            "Vikram lander"
+          ],
+          "familiarity": 0.0884,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Vikram lander and Pragyan rover listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "chang-e-4",
+          "canonical": "Chang'e 4",
+          "aliases": [
+            "Change 4",
+            "Chang e 4"
+          ],
+          "familiarity": 0.0643,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed in the Aitken basin on 3 January 2019, deploying the Yutu-2 rover. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "apollo-17",
+          "canonical": "Apollo 17",
+          "aliases": [],
+          "familiarity": 0.0563,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed at Taurus-Littrow; last crewed lunar landing. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "apollo-12",
+          "canonical": "Apollo 12",
+          "aliases": [],
+          "familiarity": 0.0482,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed in the Ocean of Storms, first precise Moon landing. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "apollo-15",
+          "canonical": "Apollo 15",
+          "aliases": [],
+          "familiarity": 0.045,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed at Hadley-Apennine; first use of the Lunar Roving Vehicle. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "apollo-14",
+          "canonical": "Apollo 14",
+          "aliases": [],
+          "familiarity": 0.0402,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed at Fra Mauro. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "apollo-16",
+          "canonical": "Apollo 16",
+          "aliases": [],
+          "familiarity": 0.0402,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed in the Descartes Highlands. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "luna-9",
+          "canonical": "Luna 9",
+          "aliases": [
+            "Luna Nine"
+          ],
+          "familiarity": 0.0402,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "First spacecraft to soft-land on the Moon, 3 February 1966. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "odysseus",
+          "canonical": "Odysseus",
+          "aliases": [
+            "IM-1",
+            "IM1",
+            "Nova-C",
+            "Intuitive Machines"
+          ],
+          "familiarity": 0.0402,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Intuitive Machines IM-1 Nova-C lander (launched 14 February 2024), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "chang-e-6",
+          "canonical": "Chang'e 6",
+          "aliases": [
+            "Change 6",
+            "Chang e 6"
+          ],
+          "familiarity": 0.0402,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Chang'e 6 lander listed as a success; carried the Jinchan rover. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "chang-e-5",
+          "canonical": "Chang'e 5",
+          "aliases": [
+            "Change 5",
+            "Chang e 5"
+          ],
+          "familiarity": 0.0354,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Chang'e 5 lander listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "chang-e-3",
+          "canonical": "Chang'e 3",
+          "aliases": [
+            "Change 3",
+            "Chang e 3",
+            "Yutu"
+          ],
+          "familiarity": 0.0289,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed 14 December 2013 and deployed the Yutu rover; China's first Moon landing. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "blue-ghost",
+          "canonical": "Blue Ghost",
+          "aliases": [
+            "Blue Ghost M1",
+            "Firefly"
+          ],
+          "familiarity": 0.0241,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Firefly Aerospace Blue Ghost M1 (launched 15 January 2025), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "lunokhod-1",
+          "canonical": "Lunokhod 1",
+          "aliases": [
+            "Luna 17",
+            "Lunokhod"
+          ],
+          "familiarity": 0.0241,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Rover carried by Luna 17 (launched 10 November 1970), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "surveyor-1",
+          "canonical": "Surveyor 1",
+          "aliases": [
+            "Surveyor One"
+          ],
+          "familiarity": 0.0193,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed in Oceanus Procellarum on 2 June 1966; the first US soft landing. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "slim",
+          "canonical": "SLIM",
+          "aliases": [
+            "Smart Lander for Investigating Moon",
+            "Moon Sniper"
+          ],
+          "familiarity": 0.0161,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "JAXA lander (launched 6 September 2023), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "surveyor-3",
+          "canonical": "Surveyor 3",
+          "aliases": [
+            "Surveyor Three"
+          ],
+          "familiarity": 0.0161,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Surveyor 3 lander (launched 17 April 1967), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "luna-16",
+          "canonical": "Luna 16",
+          "aliases": [
+            "Luna Sixteen"
+          ],
+          "familiarity": 0.0129,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Soviet lander and sample-return mission (launched 12 September 1970), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "lunokhod-2",
+          "canonical": "Lunokhod 2",
+          "aliases": [
+            "Luna 21"
+          ],
+          "familiarity": 0.0129,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Rover carried by Luna 21 (launched 8 January 1973), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "luna-24",
+          "canonical": "Luna 24",
+          "aliases": [],
+          "familiarity": 0.0096,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Soviet lander and sample-return mission (launched 9 August 1976), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "surveyor-7",
+          "canonical": "Surveyor 7",
+          "aliases": [],
+          "familiarity": 0.008,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Surveyor 7 lander (launched 7 January 1968), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "surveyor-5",
+          "canonical": "Surveyor 5",
+          "aliases": [],
+          "familiarity": 0.008,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Surveyor 5 lander (launched 8 September 1967), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "surveyor-6",
+          "canonical": "Surveyor 6",
+          "aliases": [],
+          "familiarity": 0.008,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Surveyor 6 lander (launched 7 November 1967), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "luna-13",
+          "canonical": "Luna 13",
+          "aliases": [],
+          "familiarity": 0.0064,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed in Oceanus Procellarum on 24 December 1966, listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        },
+        {
+          "id": "luna-20",
+          "canonical": "Luna 20",
+          "aliases": [],
+          "familiarity": 0.0064,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Soviet lander and sample-return mission (launched 14 February 1972), listed as a success. (Wikipedia, List of missions to the Moon).",
+          "sourceIds": [
+            "wiki-moon-missions"
+          ]
+        }
+      ],
+      "explanation": "Only a handful of nations have achieved a controlled lunar touchdown: the Soviet Union, the US, China, India, Japan and, via commercial landers, private companies. Impactors like the Ranger probes crashed on purpose and do not count; Luna 23 and IM-2 were only partial successes.",
+      "sources": [
+        {
+          "id": "wiki-moon-missions",
+          "title": "List of missions to the Moon",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_missions_to_the_Moon",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "A spacecraft that touched down on the Moon in a controlled landing and operated (crewed, rover or lander). Crashes, deliberate impacts and failed landings do not count."
+    },
+    {
+      "id": "space-moonwalkers",
+      "category": "space",
+      "prompt": "Name a person who has walked on the Moon.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "neil-armstrong",
+          "canonical": "Neil Armstrong",
+          "aliases": [
+            "Armstrong",
+            "Neil A Armstrong"
+          ],
+          "familiarity": 0.3774,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 11 (Sea of Tranquility) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "buzz-aldrin",
+          "canonical": "Buzz Aldrin",
+          "aliases": [
+            "Aldrin",
+            "Edwin Aldrin",
+            "Edwin Buzz Aldrin"
+          ],
+          "familiarity": 0.3396,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 11 (Sea of Tranquility) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "alan-shepard",
+          "canonical": "Alan Shepard",
+          "aliases": [
+            "Shepard"
+          ],
+          "familiarity": 0.0755,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 14 (Fra Mauro) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "gene-cernan",
+          "canonical": "Gene Cernan",
+          "aliases": [
+            "Eugene Cernan",
+            "Cernan"
+          ],
+          "familiarity": 0.0453,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 17 (Taurus-Littrow) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "pete-conrad",
+          "canonical": "Pete Conrad",
+          "aliases": [
+            "Charles Conrad",
+            "Charles Pete Conrad",
+            "Conrad"
+          ],
+          "familiarity": 0.0302,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 12 (Ocean of Storms) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "david-scott",
+          "canonical": "David Scott",
+          "aliases": [
+            "Dave Scott"
+          ],
+          "familiarity": 0.0264,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 15 (Hadley-Apennine) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "alan-bean",
+          "canonical": "Alan Bean",
+          "aliases": [
+            "Bean"
+          ],
+          "familiarity": 0.0226,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 12 (Ocean of Storms) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "john-young",
+          "canonical": "John Young",
+          "aliases": [
+            "Young"
+          ],
+          "familiarity": 0.0226,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 16 (Descartes Highlands) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "edgar-mitchell",
+          "canonical": "Edgar Mitchell",
+          "aliases": [
+            "Ed Mitchell",
+            "Mitchell"
+          ],
+          "familiarity": 0.0151,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 14 (Fra Mauro) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "james-irwin",
+          "canonical": "James Irwin",
+          "aliases": [
+            "Jim Irwin",
+            "Irwin"
+          ],
+          "familiarity": 0.0151,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 15 (Hadley-Apennine) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "charles-duke",
+          "canonical": "Charles Duke",
+          "aliases": [
+            "Charlie Duke",
+            "Duke"
+          ],
+          "familiarity": 0.0151,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 16 (Descartes Highlands) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        },
+        {
+          "id": "harrison-schmitt",
+          "canonical": "Harrison Schmitt",
+          "aliases": [
+            "Jack Schmitt",
+            "Schmitt"
+          ],
+          "familiarity": 0.0151,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Landed on the Moon with Apollo 17 (Taurus-Littrow) (Wikipedia, List of Apollo missions).",
+          "sourceIds": [
+            "wiki-apollo"
+          ]
+        }
+      ],
+      "explanation": "Twelve people walked on the Moon, all on the six Apollo landings between 1969 and 1972. Michael Collins, Ken Mattingly and others flew to the Moon but stayed in orbit.",
+      "sources": [
+        {
+          "id": "wiki-apollo",
+          "title": "List of Apollo missions",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Apollo_missions",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "One of the twelve astronauts who stood on the lunar surface. Astronauts who only orbited the Moon do not count."
+    },
+    {
+      "id": "us-pop-nba-mvps",
+      "category": "us-pop",
+      "prompt": "Name a player who has won the NBA regular-season MVP award.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "lebron-james",
+          "canonical": "LeBron James",
+          "aliases": [
+            "Lebron",
+            "King James",
+            "Lebron James"
+          ],
+          "familiarity": 0.0759,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 4x (2008-09, 2009-10, 2011-12, 2012-13), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "michael-jordan",
+          "canonical": "Michael Jordan",
+          "aliases": [
+            "MJ",
+            "Air Jordan"
+          ],
+          "familiarity": 0.0744,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 5x (1987-88, 1990-91, 1991-92, 1995-96, 1997-98), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "stephen-curry",
+          "canonical": "Stephen Curry",
+          "aliases": [
+            "Steph Curry",
+            "Curry",
+            "Steph"
+          ],
+          "familiarity": 0.0569,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (2014-15, 2015-16), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "kobe-bryant",
+          "canonical": "Kobe Bryant",
+          "aliases": [
+            "Kobe",
+            "Black Mamba"
+          ],
+          "familiarity": 0.0531,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2007-08), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "nikola-joki",
+          "canonical": "Nikola Jokić",
+          "aliases": [
+            "Nikola Jokic",
+            "Jokic",
+            "Joker"
+          ],
+          "familiarity": 0.0455,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 3x (2020-21, 2021-22, 2023-24), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "magic-johnson",
+          "canonical": "Magic Johnson",
+          "aliases": [
+            "Magic",
+            "Earvin Johnson"
+          ],
+          "familiarity": 0.0417,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 3x (1986-87, 1988-89, 1989-90), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "kareem-abdul-jabbar",
+          "canonical": "Kareem Abdul-Jabbar",
+          "aliases": [
+            "Kareem",
+            "Lew Alcindor",
+            "Kareem Abdul Jabbar"
+          ],
+          "familiarity": 0.0417,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 6x (1970-71, 1971-72, 1973-74, 1975-76, 1976-77, 1979-80), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "shaquille-o-neal",
+          "canonical": "Shaquille O'Neal",
+          "aliases": [
+            "Shaq",
+            "Shaquille ONeal",
+            "Shaquille Oneal"
+          ],
+          "familiarity": 0.0417,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1999-00), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "giannis-antetokounmpo",
+          "canonical": "Giannis Antetokounmpo",
+          "aliases": [
+            "Giannis",
+            "Greek Freak",
+            "Antetokounmpo"
+          ],
+          "familiarity": 0.0417,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (2018-19, 2019-20), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "larry-bird",
+          "canonical": "Larry Bird",
+          "aliases": [
+            "Bird",
+            "Larry Legend"
+          ],
+          "familiarity": 0.0379,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 3x (1983-84, 1984-85, 1985-86), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "kevin-durant",
+          "canonical": "Kevin Durant",
+          "aliases": [
+            "KD",
+            "Durant"
+          ],
+          "familiarity": 0.0341,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2013-14), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "allen-iverson",
+          "canonical": "Allen Iverson",
+          "aliases": [
+            "Iverson",
+            "The Answer"
+          ],
+          "familiarity": 0.0303,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2000-01), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "tim-duncan",
+          "canonical": "Tim Duncan",
+          "aliases": [
+            "Duncan",
+            "The Big Fundamental"
+          ],
+          "familiarity": 0.0303,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (2001-02, 2002-03), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "wilt-chamberlain",
+          "canonical": "Wilt Chamberlain",
+          "aliases": [
+            "Wilt",
+            "Wilt the Stilt"
+          ],
+          "familiarity": 0.0303,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 4x (1959-60, 1965-66, 1966-67, 1967-68), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "dirk-nowitzki",
+          "canonical": "Dirk Nowitzki",
+          "aliases": [
+            "Dirk",
+            "Nowitzki"
+          ],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2006-07), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "james-harden",
+          "canonical": "James Harden",
+          "aliases": [
+            "Harden"
+          ],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2017-18), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "russell-westbrook",
+          "canonical": "Russell Westbrook",
+          "aliases": [
+            "Westbrook",
+            "Russ"
+          ],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2016-17), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "joel-embiid",
+          "canonical": "Joel Embiid",
+          "aliases": [
+            "Embiid"
+          ],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2022-23), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "shai-gilgeous-alexander",
+          "canonical": "Shai Gilgeous-Alexander",
+          "aliases": [
+            "SGA",
+            "Shai",
+            "Shai Gilgeous Alexander"
+          ],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (2024-25, 2025-26), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "bill-russell",
+          "canonical": "Bill Russell",
+          "aliases": [],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 5x (1957-58, 1960-61, 1961-62, 1962-63, 1964-65), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "steve-nash",
+          "canonical": "Steve Nash",
+          "aliases": [
+            "Nash"
+          ],
+          "familiarity": 0.0228,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (2004-05, 2005-06), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "derrick-rose",
+          "canonical": "Derrick Rose",
+          "aliases": [
+            "D Rose",
+            "Rose"
+          ],
+          "familiarity": 0.0228,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2010-11), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "hakeem-olajuwon",
+          "canonical": "Hakeem Olajuwon",
+          "aliases": [
+            "Hakeem",
+            "Akeem Olajuwon",
+            "Olajuwon",
+            "The Dream"
+          ],
+          "familiarity": 0.0228,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1993-94), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "kevin-garnett",
+          "canonical": "Kevin Garnett",
+          "aliases": [
+            "KG",
+            "Garnett"
+          ],
+          "familiarity": 0.0212,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (2003-04), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "karl-malone",
+          "canonical": "Karl Malone",
+          "aliases": [
+            "The Mailman"
+          ],
+          "familiarity": 0.0212,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (1996-97, 1998-99), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "charles-barkley",
+          "canonical": "Charles Barkley",
+          "aliases": [
+            "Barkley",
+            "Sir Charles"
+          ],
+          "familiarity": 0.019,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1992-93), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "david-robinson",
+          "canonical": "David Robinson",
+          "aliases": [
+            "The Admiral"
+          ],
+          "familiarity": 0.0167,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1994-95), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "julius-erving",
+          "canonical": "Julius Erving",
+          "aliases": [
+            "Dr J",
+            "Doctor J"
+          ],
+          "familiarity": 0.0137,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1980-81), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "oscar-robertson",
+          "canonical": "Oscar Robertson",
+          "aliases": [
+            "The Big O"
+          ],
+          "familiarity": 0.0137,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1963-64), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "moses-malone",
+          "canonical": "Moses Malone",
+          "aliases": [],
+          "familiarity": 0.0091,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 3x (1978-79, 1981-82, 1982-83), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "bill-walton",
+          "canonical": "Bill Walton",
+          "aliases": [],
+          "familiarity": 0.0061,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1977-78), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "bob-cousy",
+          "canonical": "Bob Cousy",
+          "aliases": [],
+          "familiarity": 0.0038,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1956-57), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "bob-pettit",
+          "canonical": "Bob Pettit",
+          "aliases": [],
+          "familiarity": 0.003,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 2x (1955-56, 1958-59), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "bob-mcadoo",
+          "canonical": "Bob McAdoo",
+          "aliases": [],
+          "familiarity": 0.0023,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1974-75), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "dave-cowens",
+          "canonical": "Dave Cowens",
+          "aliases": [],
+          "familiarity": 0.0023,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1972-73), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "willis-reed",
+          "canonical": "Willis Reed",
+          "aliases": [],
+          "familiarity": 0.0023,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1969-70), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        },
+        {
+          "id": "wes-unseld",
+          "canonical": "Wes Unseld",
+          "aliases": [],
+          "familiarity": 0.0023,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "NBA MVP 1x (1968-69), per Wikipedia's MVP table.",
+          "sourceIds": [
+            "wiki-nba-mvp"
+          ]
+        }
+      ],
+      "explanation": "37 different players have won the award through 2025-26. Kareem Abdul-Jabbar leads with six, then Michael Jordan and Bill Russell with five. Shai Gilgeous-Alexander is the most recent winner.",
+      "sources": [
+        {
+          "id": "wiki-nba-mvp",
+          "title": "NBA Most Valuable Player",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/NBA_Most_Valuable_Player_Award",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "A player who has won the Maurice Podoloff Trophy (regular-season MVP). Finals MVP and All-Star MVP awards do not count."
+    },
+    {
+      "id": "us-pop-best-rap-album",
+      "category": "us-pop",
+      "prompt": "Name an artist who has won the Grammy for Best Rap Album.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "eminem",
+          "canonical": "Eminem",
+          "aliases": [
+            "Slim Shady",
+            "Marshall Mathers"
+          ],
+          "familiarity": 0.1403,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for The Slim Shady LP (2000), The Marshall Mathers LP (2001), The Eminem Show (2003), Relapse (2010), Recovery (2011), The Marshall Mathers LP2 (2015).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "kendrick-lamar",
+          "canonical": "Kendrick Lamar",
+          "aliases": [
+            "Kendrick",
+            "K Dot",
+            "Kung Fu Kenny"
+          ],
+          "familiarity": 0.1332,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for To Pimp a Butterfly (2016), DAMN. (2018), Mr. Morale & The Big Steppers (2023), GNX (2026).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "kanye-west",
+          "canonical": "Kanye West",
+          "aliases": [
+            "Kanye",
+            "Ye"
+          ],
+          "familiarity": 0.1192,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for The College Dropout (2005), Late Registration (2006), Graduation (2008), My Beautiful Dark Twisted Fantasy (2012).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "jay-z",
+          "canonical": "Jay-Z",
+          "aliases": [
+            "Jay Z",
+            "Shawn Carter",
+            "Hov"
+          ],
+          "familiarity": 0.0912,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Vol. 2... Hard Knock Life (1999).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "drake",
+          "canonical": "Drake",
+          "aliases": [
+            "Aubrey Graham"
+          ],
+          "familiarity": 0.0771,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Take Care (2013).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "cardi-b",
+          "canonical": "Cardi B",
+          "aliases": [
+            "Cardi"
+          ],
+          "familiarity": 0.0631,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Invasion of Privacy (2019).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "tyler-the-creator",
+          "canonical": "Tyler, the Creator",
+          "aliases": [
+            "Tyler the Creator",
+            "Tyler"
+          ],
+          "familiarity": 0.0561,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Igor (2020), Call Me If You Get Lost (2022).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "outkast",
+          "canonical": "OutKast",
+          "aliases": [
+            "Outkast",
+            "Out Kast",
+            "Andre 3000"
+          ],
+          "familiarity": 0.0561,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Stankonia (2002), Speakerboxxx/The Love Below (2004).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "lil-wayne",
+          "canonical": "Lil Wayne",
+          "aliases": [
+            "Weezy",
+            "Wayne"
+          ],
+          "familiarity": 0.0561,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Tha Carter III (2009).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "nas",
+          "canonical": "Nas",
+          "aliases": [],
+          "familiarity": 0.0421,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for King's Disease (2021).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "chance-the-rapper",
+          "canonical": "Chance the Rapper",
+          "aliases": [
+            "Chance",
+            "Chancelor Bennett"
+          ],
+          "familiarity": 0.0309,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Coloring Book (2017).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "macklemore-ryan-lewis",
+          "canonical": "Macklemore & Ryan Lewis",
+          "aliases": [
+            "Macklemore",
+            "Macklemore and Ryan Lewis",
+            "Ryan Lewis"
+          ],
+          "familiarity": 0.0281,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for The Heist (2014).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "ludacris",
+          "canonical": "Ludacris",
+          "aliases": [],
+          "familiarity": 0.0252,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Release Therapy (2007).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "fugees",
+          "canonical": "Fugees",
+          "aliases": [
+            "The Fugees",
+            "Lauryn Hill",
+            "Wyclef Jean"
+          ],
+          "familiarity": 0.021,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for The Score (1997).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "puff-daddy-the-family",
+          "canonical": "Puff Daddy & the Family",
+          "aliases": [
+            "Puff Daddy",
+            "Diddy",
+            "P Diddy",
+            "Sean Combs",
+            "Sean Diddy Combs"
+          ],
+          "familiarity": 0.021,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for No Way Out (1998).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "killer-mike",
+          "canonical": "Killer Mike",
+          "aliases": [
+            "Michael Render"
+          ],
+          "familiarity": 0.0168,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for MICHAEL (2024).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "doechii",
+          "canonical": "Doechii",
+          "aliases": [],
+          "familiarity": 0.0168,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Alligator Bites Never Heal (2025).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        },
+        {
+          "id": "naughty-by-nature",
+          "canonical": "Naughty by Nature",
+          "aliases": [
+            "Naughty By Nature"
+          ],
+          "familiarity": 0.0056,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Won Best Rap Album for Poverty's Paradise (1996).",
+          "sourceIds": [
+            "grammy-rap",
+            "wiki-rap"
+          ]
+        }
+      ],
+      "explanation": "The award began in 1996. Eminem leads with six wins and Kendrick Lamar and Kanye West have four each; in total eighteen acts have won.",
+      "sources": [
+        {
+          "id": "grammy-rap",
+          "title": "Best Rap Album",
+          "publisher": "GRAMMY.com",
+          "url": "https://www.grammy.com/awards/categories/best-rap-album/",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "id": "wiki-rap",
+          "title": "Grammy Award for Best Rap Album",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Rap_Album",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "An artist or group credited as a winner of the Grammy Award for Best Rap Album (1996 to 2026). Winning other Grammy categories does not count."
+    },
+    {
+      "id": "us-pop-mcu-infinity-saga",
+      "category": "us-pop",
+      "prompt": "Name a film from the Marvel Cinematic Universe's Infinity Saga (Phases 1 to 3).",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "the-avengers",
+          "canonical": "The Avengers",
+          "aliases": [
+            "Avengers",
+            "Marvel's The Avengers",
+            "Avengers Assemble"
+          ],
+          "familiarity": 0.0867,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 4, 2012.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "avengers-endgame",
+          "canonical": "Avengers: Endgame",
+          "aliases": [
+            "Endgame",
+            "Avengers Endgame"
+          ],
+          "familiarity": 0.0823,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release April 26, 2019.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "avengers-infinity-war",
+          "canonical": "Avengers: Infinity War",
+          "aliases": [
+            "Infinity War",
+            "Avengers Infinity War"
+          ],
+          "familiarity": 0.0823,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release April 27, 2018.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "iron-man",
+          "canonical": "Iron Man",
+          "aliases": [
+            "Iron Man 1"
+          ],
+          "familiarity": 0.0693,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 2, 2008.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "black-panther",
+          "canonical": "Black Panther",
+          "aliases": [],
+          "familiarity": 0.0676,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release February 16, 2018.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "guardians-of-the-galaxy",
+          "canonical": "Guardians of the Galaxy",
+          "aliases": [
+            "Guardians",
+            "GOTG",
+            "Guardians of the Galaxy 1"
+          ],
+          "familiarity": 0.0563,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release August 1, 2014.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "captain-america-civil-war",
+          "canonical": "Captain America: Civil War",
+          "aliases": [
+            "Civil War",
+            "Captain America Civil War"
+          ],
+          "familiarity": 0.052,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 6, 2016.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "thor-ragnarok",
+          "canonical": "Thor: Ragnarok",
+          "aliases": [
+            "Ragnarok",
+            "Thor Ragnarok"
+          ],
+          "familiarity": 0.0503,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release November 3, 2017.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "spider-man-homecoming",
+          "canonical": "Spider-Man: Homecoming",
+          "aliases": [
+            "Homecoming",
+            "Spiderman Homecoming",
+            "Spider Man Homecoming"
+          ],
+          "familiarity": 0.0433,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release July 7, 2017.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "doctor-strange",
+          "canonical": "Doctor Strange",
+          "aliases": [
+            "Dr Strange"
+          ],
+          "familiarity": 0.039,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release November 4, 2016.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "captain-america-the-winter-soldier",
+          "canonical": "Captain America: The Winter Soldier",
+          "aliases": [
+            "Winter Soldier",
+            "Captain America Winter Soldier"
+          ],
+          "familiarity": 0.039,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release April 4, 2014.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "avengers-age-of-ultron",
+          "canonical": "Avengers: Age of Ultron",
+          "aliases": [
+            "Age of Ultron",
+            "Avengers Age of Ultron"
+          ],
+          "familiarity": 0.039,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 1, 2015.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "guardians-of-the-galaxy-vol-2",
+          "canonical": "Guardians of the Galaxy Vol. 2",
+          "aliases": [
+            "Guardians of the Galaxy 2",
+            "Guardians Vol 2",
+            "GOTG 2"
+          ],
+          "familiarity": 0.039,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 5, 2017.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "captain-america-the-first-avenger",
+          "canonical": "Captain America: The First Avenger",
+          "aliases": [
+            "The First Avenger",
+            "First Avenger",
+            "Captain America 1"
+          ],
+          "familiarity": 0.0347,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release July 22, 2011.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "spider-man-far-from-home",
+          "canonical": "Spider-Man: Far From Home",
+          "aliases": [
+            "Far From Home",
+            "Spiderman Far From Home",
+            "Spider Man Far From Home"
+          ],
+          "familiarity": 0.0347,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release July 2, 2019.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "captain-marvel",
+          "canonical": "Captain Marvel",
+          "aliases": [],
+          "familiarity": 0.0347,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release March 8, 2019.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "iron-man-3",
+          "canonical": "Iron Man 3",
+          "aliases": [],
+          "familiarity": 0.0303,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 3, 2013.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "thor",
+          "canonical": "Thor",
+          "aliases": [
+            "Thor 1"
+          ],
+          "familiarity": 0.0303,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 6, 2011.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "iron-man-2",
+          "canonical": "Iron Man 2",
+          "aliases": [],
+          "familiarity": 0.026,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release May 7, 2010.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "ant-man",
+          "canonical": "Ant-Man",
+          "aliases": [
+            "Antman",
+            "Ant Man"
+          ],
+          "familiarity": 0.0243,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release July 17, 2015.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "ant-man-and-the-wasp",
+          "canonical": "Ant-Man and the Wasp",
+          "aliases": [
+            "Ant Man and the Wasp",
+            "Antman and the Wasp"
+          ],
+          "familiarity": 0.0156,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release July 6, 2018.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "thor-the-dark-world",
+          "canonical": "Thor: The Dark World",
+          "aliases": [
+            "The Dark World",
+            "Thor Dark World",
+            "Thor 2"
+          ],
+          "familiarity": 0.013,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release November 8, 2013.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        },
+        {
+          "id": "the-incredible-hulk",
+          "canonical": "The Incredible Hulk",
+          "aliases": [
+            "Incredible Hulk",
+            "Hulk 2008"
+          ],
+          "familiarity": 0.0104,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Part of the Infinity Saga (Phases One to Three); U.S. release June 13, 2008.",
+          "sourceIds": [
+            "wiki-mcu"
+          ]
+        }
+      ],
+      "explanation": "The Infinity Saga is the first three phases of the MCU, 23 films from Iron Man (2008) to Spider-Man: Far From Home (2019). Later films such as Black Widow or Doctor Strange in the Multiverse of Madness belong to the Multiverse Saga.",
+      "sources": [
+        {
+          "id": "wiki-mcu",
+          "title": "List of Marvel Cinematic Universe films",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29",
+      "criteria": "One of the 23 films in Phases One, Two and Three, from Iron Man (2008) to Spider-Man: Far From Home (2019)."
+    },
+    {
+      "id": "us-pop-pixar-films",
+      "category": "us-pop",
+      "prompt": "Name a feature film made by Pixar.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "toy-story",
+          "canonical": "Toy Story",
+          "aliases": [],
+          "familiarity": 0.0759,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 22, 1995 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "finding-nemo",
+          "canonical": "Finding Nemo",
+          "aliases": [],
+          "familiarity": 0.0683,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released May 30, 2003 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "monsters-inc",
+          "canonical": "Monsters, Inc.",
+          "aliases": [
+            "Monsters Inc",
+            "Monsters Incorporated"
+          ],
+          "familiarity": 0.0607,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 2, 2001 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "the-incredibles",
+          "canonical": "The Incredibles",
+          "aliases": [
+            "Incredibles",
+            "Incredibles 1"
+          ],
+          "familiarity": 0.0569,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 5, 2004 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "up",
+          "canonical": "Up",
+          "aliases": [],
+          "familiarity": 0.0569,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released May 29, 2009 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "inside-out",
+          "canonical": "Inside Out",
+          "aliases": [
+            "Inside Out 1"
+          ],
+          "familiarity": 0.0532,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 19, 2015 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "coco",
+          "canonical": "Coco",
+          "aliases": [],
+          "familiarity": 0.0494,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 22, 2017 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "wall-e",
+          "canonical": "WALL-E",
+          "aliases": [
+            "Wall E",
+            "Walle"
+          ],
+          "familiarity": 0.0494,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 27, 2008 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "cars",
+          "canonical": "Cars",
+          "aliases": [
+            "Cars 1"
+          ],
+          "familiarity": 0.0456,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 9, 2006 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "ratatouille",
+          "canonical": "Ratatouille",
+          "aliases": [],
+          "familiarity": 0.0456,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 29, 2007 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "toy-story-3",
+          "canonical": "Toy Story 3",
+          "aliases": [],
+          "familiarity": 0.0418,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 18, 2010 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "toy-story-2",
+          "canonical": "Toy Story 2",
+          "aliases": [],
+          "familiarity": 0.038,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 24, 1999 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "inside-out-2",
+          "canonical": "Inside Out 2",
+          "aliases": [],
+          "familiarity": 0.038,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 14, 2024 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "finding-dory",
+          "canonical": "Finding Dory",
+          "aliases": [
+            "Dory"
+          ],
+          "familiarity": 0.0342,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 17, 2016 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "toy-story-4",
+          "canonical": "Toy Story 4",
+          "aliases": [],
+          "familiarity": 0.0342,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 21, 2019 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "incredibles-2",
+          "canonical": "Incredibles 2",
+          "aliases": [
+            "The Incredibles 2"
+          ],
+          "familiarity": 0.0304,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 15, 2018 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "soul",
+          "canonical": "Soul",
+          "aliases": [],
+          "familiarity": 0.0304,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released December 25, 2020 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "brave",
+          "canonical": "Brave",
+          "aliases": [],
+          "familiarity": 0.0266,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 22, 2012 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "monsters-university",
+          "canonical": "Monsters University",
+          "aliases": [
+            "Monsters U"
+          ],
+          "familiarity": 0.0228,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 21, 2013 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "a-bug-s-life",
+          "canonical": "A Bug's Life",
+          "aliases": [
+            "Bugs Life",
+            "A Bugs Life"
+          ],
+          "familiarity": 0.0228,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 25, 1998 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "turning-red",
+          "canonical": "Turning Red",
+          "aliases": [],
+          "familiarity": 0.019,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released March 11, 2022 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "luca",
+          "canonical": "Luca",
+          "aliases": [],
+          "familiarity": 0.0167,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 18, 2021 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "cars-2",
+          "canonical": "Cars 2",
+          "aliases": [],
+          "familiarity": 0.0152,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 24, 2011 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "onward",
+          "canonical": "Onward",
+          "aliases": [],
+          "familiarity": 0.0152,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released March 6, 2020 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "elemental",
+          "canonical": "Elemental",
+          "aliases": [],
+          "familiarity": 0.0114,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 16, 2023 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "cars-3",
+          "canonical": "Cars 3",
+          "aliases": [],
+          "familiarity": 0.0091,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 16, 2017 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "lightyear",
+          "canonical": "Lightyear",
+          "aliases": [],
+          "familiarity": 0.0091,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 17, 2022 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "toy-story-5",
+          "canonical": "Toy Story 5",
+          "aliases": [],
+          "familiarity": 0.0091,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 19, 2026 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "the-good-dinosaur",
+          "canonical": "The Good Dinosaur",
+          "aliases": [
+            "Good Dinosaur"
+          ],
+          "familiarity": 0.0076,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released November 25, 2015 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "hoppers",
+          "canonical": "Hoppers",
+          "aliases": [],
+          "familiarity": 0.0038,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released March 6, 2026 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        },
+        {
+          "id": "elio",
+          "canonical": "Elio",
+          "aliases": [],
+          "familiarity": 0.003,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "Pixar feature film released June 20, 2025 (Wikipedia, List of Pixar films).",
+          "sourceIds": [
+            "wiki-pixar"
+          ]
+        }
+      ],
+      "explanation": "Pixar has made 31 features as of August 2026, from Toy Story (1995) to Toy Story 5 (2026). Films from other studios, and Pixar shorts or Disney+ series, do not count.",
+      "sources": [
+        {
+          "id": "wiki-pixar",
+          "title": "List of Pixar films",
+          "publisher": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Pixar_films",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29"
+    },
+    {
+      "id": "us-pop-nba-teams",
+      "category": "us-pop",
+      "prompt": "Name a current NBA team.",
+      "answerSet": "closed",
+      "answers": [
+        {
+          "id": "los-angeles-lakers",
+          "canonical": "Los Angeles Lakers",
+          "aliases": [
+            "Lakers",
+            "LA Lakers"
+          ],
+          "familiarity": 0.1026,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Pacific Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "golden-state-warriors",
+          "canonical": "Golden State Warriors",
+          "aliases": [
+            "Warriors",
+            "Golden State",
+            "GSW",
+            "Dubs"
+          ],
+          "familiarity": 0.0872,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Pacific Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "boston-celtics",
+          "canonical": "Boston Celtics",
+          "aliases": [
+            "Celtics"
+          ],
+          "familiarity": 0.0872,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Atlantic Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "chicago-bulls",
+          "canonical": "Chicago Bulls",
+          "aliases": [
+            "Bulls"
+          ],
+          "familiarity": 0.0718,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Central Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "new-york-knicks",
+          "canonical": "New York Knicks",
+          "aliases": [
+            "Knicks"
+          ],
+          "familiarity": 0.0564,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Atlantic Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "miami-heat",
+          "canonical": "Miami Heat",
+          "aliases": [
+            "Heat"
+          ],
+          "familiarity": 0.0513,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southeast Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "san-antonio-spurs",
+          "canonical": "San Antonio Spurs",
+          "aliases": [
+            "Spurs"
+          ],
+          "familiarity": 0.0462,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "brooklyn-nets",
+          "canonical": "Brooklyn Nets",
+          "aliases": [
+            "Nets"
+          ],
+          "familiarity": 0.0359,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Atlantic Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "philadelphia-76ers",
+          "canonical": "Philadelphia 76ers",
+          "aliases": [
+            "76ers",
+            "Sixers",
+            "Philadelphia Sixers"
+          ],
+          "familiarity": 0.0359,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Atlantic Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "milwaukee-bucks",
+          "canonical": "Milwaukee Bucks",
+          "aliases": [
+            "Bucks"
+          ],
+          "familiarity": 0.0359,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Central Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "dallas-mavericks",
+          "canonical": "Dallas Mavericks",
+          "aliases": [
+            "Mavericks",
+            "Mavs"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "houston-rockets",
+          "canonical": "Houston Rockets",
+          "aliases": [
+            "Rockets"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "phoenix-suns",
+          "canonical": "Phoenix Suns",
+          "aliases": [
+            "Suns"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Pacific Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "cleveland-cavaliers",
+          "canonical": "Cleveland Cavaliers",
+          "aliases": [
+            "Cavaliers",
+            "Cavs"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Central Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "denver-nuggets",
+          "canonical": "Denver Nuggets",
+          "aliases": [
+            "Nuggets"
+          ],
+          "familiarity": 0.0308,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Northwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "la-clippers",
+          "canonical": "LA Clippers",
+          "aliases": [
+            "Clippers",
+            "Los Angeles Clippers"
+          ],
+          "familiarity": 0.0287,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Pacific Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "oklahoma-city-thunder",
+          "canonical": "Oklahoma City Thunder",
+          "aliases": [
+            "Thunder",
+            "OKC Thunder",
+            "OKC"
+          ],
+          "familiarity": 0.0287,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Northwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "toronto-raptors",
+          "canonical": "Toronto Raptors",
+          "aliases": [
+            "Raptors"
+          ],
+          "familiarity": 0.0256,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Atlantic Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "detroit-pistons",
+          "canonical": "Detroit Pistons",
+          "aliases": [
+            "Pistons"
+          ],
+          "familiarity": 0.0185,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Central Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "atlanta-hawks",
+          "canonical": "Atlanta Hawks",
+          "aliases": [
+            "Hawks"
+          ],
+          "familiarity": 0.0154,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southeast Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "indiana-pacers",
+          "canonical": "Indiana Pacers",
+          "aliases": [
+            "Pacers"
+          ],
+          "familiarity": 0.0144,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Central Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "charlotte-hornets",
+          "canonical": "Charlotte Hornets",
+          "aliases": [
+            "Hornets"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southeast Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "memphis-grizzlies",
+          "canonical": "Memphis Grizzlies",
+          "aliases": [
+            "Grizzlies"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "sacramento-kings",
+          "canonical": "Sacramento Kings",
+          "aliases": [
+            "Kings"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Pacific Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "orlando-magic",
+          "canonical": "Orlando Magic",
+          "aliases": [
+            "Magic"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southeast Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "minnesota-timberwolves",
+          "canonical": "Minnesota Timberwolves",
+          "aliases": [
+            "Timberwolves",
+            "Wolves",
+            "T-Wolves"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Northwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "utah-jazz",
+          "canonical": "Utah Jazz",
+          "aliases": [
+            "Jazz"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Northwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "portland-trail-blazers",
+          "canonical": "Portland Trail Blazers",
+          "aliases": [
+            "Trail Blazers",
+            "Blazers"
+          ],
+          "familiarity": 0.0123,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Northwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "new-orleans-pelicans",
+          "canonical": "New Orleans Pelicans",
+          "aliases": [
+            "Pelicans",
+            "Pels"
+          ],
+          "familiarity": 0.0103,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southwest Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        },
+        {
+          "id": "washington-wizards",
+          "canonical": "Washington Wizards",
+          "aliases": [
+            "Wizards"
+          ],
+          "familiarity": 0.0082,
+          "familiarityBasis": "curated-estimate",
+          "evidence": "One of the 30 NBA teams (Southeast Division), per NBA.com.",
+          "sourceIds": [
+            "nba-about"
+          ]
+        }
+      ],
+      "explanation": "The NBA has 30 teams, 15 per conference and five per division. Either 'Los Angeles Clippers' or 'LA Clippers' is accepted.",
+      "sources": [
+        {
+          "id": "nba-about",
+          "title": "About The NBA",
+          "publisher": "NBA.com",
+          "url": "https://www.nba.com/news/about/",
+          "retrievedOn": "2026-10-29"
+        }
+      ],
+      "approvedOn": "2026-10-29"
     }
   ]
 }

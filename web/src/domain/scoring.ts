@@ -3,22 +3,43 @@
  *
  * Design constraints (from the product brief):
  *  - Deterministic: same inputs -> same score. No randomness, no clocks.
- *  - Explainable: we can always say "you got X points because the answer's
- *    effective share was Y, which is the Z tier".
+ *  - Explainable: we can always say "you got X points because this answer's
+ *    share was Y% of the most popular answer's share, which is the Z tier".
  *  - Robust: one odd submission must not swing scores, and sparse data must
  *    not be trusted.
  *  - Not exploitable by absence: unknown answers score 0 here. They go to a
  *    review queue instead of earning a "maximum rarity" bonus.
+ *
+ * Why tiers are RELATIVE to the question's top answer
+ * ---------------------------------------------------
+ * The first version used absolute thresholds ("a 3% share is rare"). That
+ * works for 4 answers (shares of 25% each) and breaks for 40: with 37 NBA
+ * MVPs even LeBron James is only ~15% of responses, so every answer would be
+ * "rare" or "legendary" and the tiers would carry no information.
+ *
+ * Comparing each answer to the MOST POPULAR answer to the same question is
+ * scale-free: "this answer is a tenth as popular as the obvious one" means
+ * the same thing for 10 answers or 100.
  */
 
-import type { Answer, AnswerObservation, RarityTier, ScoreBreakdown } from './types.ts';
+import type {
+  Answer,
+  AnswerObservation,
+  ObservationLookup,
+  Question,
+  RarityTier,
+  ScoreBreakdown,
+} from './types.ts';
 
-/** Tier thresholds on the effective share (fraction of correct responses). */
-export const TIER_RULES: ReadonlyArray<{ tier: RarityTier; minShare: number; points: number }> = [
-  { tier: 'common', minShare: 0.25, points: 100 },
-  { tier: 'uncommon', minShare: 0.1, points: 200 },
-  { tier: 'rare', minShare: 0.03, points: 350 },
-  { tier: 'legendary', minShare: 0, points: 500 },
+/**
+ * Tier thresholds on the RELATIVE share: effectiveShare / (top answer's share).
+ * Rules are ordered from most to least popular; the first match wins.
+ */
+export const TIER_RULES: ReadonlyArray<{ tier: RarityTier; minRelative: number; points: number }> = [
+  { tier: 'common', minRelative: 0.5, points: 100 },
+  { tier: 'uncommon', minRelative: 0.2, points: 200 },
+  { tier: 'rare', minRelative: 0.05, points: 350 },
+  { tier: 'legendary', minRelative: 0, points: 500 },
 ];
 
 /**
@@ -39,6 +60,9 @@ export const PRIOR_STRENGTH = 100;
 /** No answer may be treated as rarer than this, however few people pick it. */
 export const MIN_SHARE_FLOOR = 0.005;
 
+/** The part of a Question the scorer needs. */
+export type ScorableQuestion = Pick<Question, 'id' | 'answers'>;
+
 export function effectiveShare(
   answer: Pick<Answer, 'familiarity'>,
   observation?: AnswerObservation,
@@ -53,22 +77,47 @@ export function effectiveShare(
   return { share: clamp(blended, MIN_SHARE_FLOOR, 1), usedObservations: true };
 }
 
-export function tierForShare(share: number): { tier: RarityTier; points: number } {
+/** Maps a relative share (0..1, 1 = the most popular answer) to a tier. */
+export function tierForRelativeShare(relative: number): { tier: RarityTier; points: number } {
   for (const rule of TIER_RULES) {
-    if (share >= rule.minShare) return { tier: rule.tier, points: rule.points };
+    if (relative >= rule.minRelative) return { tier: rule.tier, points: rule.points };
   }
-  // Unreachable because the last rule has minShare 0, but keeps the types honest.
+  // Unreachable because the last rule has minRelative 0, but keeps the types honest.
   const last = TIER_RULES[TIER_RULES.length - 1]!;
   return { tier: last.tier, points: last.points };
 }
 
+/** Scores every answer of a question at once (one pass to find the top share). */
+export function scoreQuestionAnswers(
+  question: ScorableQuestion,
+  observations: ObservationLookup = () => undefined,
+): Map<string, ScoreBreakdown> {
+  const shares = question.answers.map((answer) => ({
+    answer,
+    ...effectiveShare(answer, observations(question.id, answer.id)),
+  }));
+  const topShare = shares.reduce((max, s) => Math.max(max, s.share), MIN_SHARE_FLOOR);
+
+  const scores = new Map<string, ScoreBreakdown>();
+  for (const { answer, share, usedObservations } of shares) {
+    const relativeShare = Math.min(1, share / topShare);
+    const { tier, points } = tierForRelativeShare(relativeShare);
+    scores.set(answer.id, { tier, points, effectiveShare: share, topShare, relativeShare, usedObservations });
+  }
+  return scores;
+}
+
+/**
+ * Scores one answer in the context of its question. An answer's rarity is only
+ * meaningful relative to the other answers to the SAME question.
+ * Returns undefined if the answer does not belong to the question.
+ */
 export function scoreAnswer(
-  answer: Pick<Answer, 'familiarity'>,
-  observation?: AnswerObservation,
-): ScoreBreakdown {
-  const { share, usedObservations } = effectiveShare(answer, observation);
-  const { tier, points } = tierForShare(share);
-  return { tier, points, effectiveShare: share, usedObservations };
+  question: ScorableQuestion,
+  answerId: string,
+  observations: ObservationLookup = () => undefined,
+): ScoreBreakdown | undefined {
+  return scoreQuestionAnswers(question, observations).get(answerId);
 }
 
 function clamp(value: number, min: number, max: number): number {
