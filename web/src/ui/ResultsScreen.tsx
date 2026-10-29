@@ -9,7 +9,7 @@ interface ResultsScreenProps {
   onPlayAgain: () => void;
 }
 
-const OUTCOME_LABEL = { correct: 'Correct', incorrect: 'Incorrect', timeout: 'Timed out' } as const;
+const OUTCOME_LABEL = { correct: 'Correct', timeout: 'Timed out' } as const;
 
 export function ResultsScreen({ state, onPlayAgain }: ResultsScreenProps) {
   const headingRef = useRef<HTMLHeadingElement>(null);

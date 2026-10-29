@@ -1,13 +1,18 @@
 /**
  * Round state machine.
  *
- *            START                SUBMIT / TIMEOUT              NEXT (more questions)
+ *            START        SUBMIT (a match) / TIMEOUT            NEXT (more questions)
  *   idle ───────────▶ answering ───────────────────▶ revealed ───────────────┐
- *                        ▲                              │                    │
- *                        └──────────────────────────────┼────────────────────┘
+ *                      ▲  │ SUBMIT (no match): stay,    │                    │
+ *                      │  ┘ remember the miss           │                    │
+ *                      └────────────────────────────────┼────────────────────┘
  *                                                       │ NEXT (last question)
  *                                                       ▼
  *                                                   finished
+ *
+ * An unrecognised answer does NOT end the question: the player may keep trying until
+ * the clock runs out. That is kinder to typos and to valid answers missing from an
+ * open list, and every miss is kept so it can reach the review queue.
  *
  * Why a reducer and not scattered useState calls?
  *  - Every legal transition lives in one place, so illegal ones (answering a
@@ -18,6 +23,7 @@
  */
 
 import { matchAnswer } from './matcher.ts';
+import type { MatchResult } from './matcher.ts';
 import { scoreAnswer } from './scoring.ts';
 import type { ObservationLookup, Question, RarityTier, ScoreBreakdown } from './types.ts';
 
@@ -25,20 +31,25 @@ export type { ObservationLookup } from './types.ts';
 
 export const DEFAULT_SECONDS_PER_QUESTION = 25;
 
-export type Outcome = 'correct' | 'incorrect' | 'timeout';
+export type Outcome = 'correct' | 'timeout';
 
 export interface QuestionResult {
   questionId: string;
-  /** Exactly what the player typed (trimmed to a sane length). */
+  /**
+   * What the player typed (trimmed to a sane length): the matching answer when correct,
+   * the last unrecognised attempt on a timeout, or '' if they never typed anything.
+   */
   input: string;
   outcome: Outcome;
   answerId: string | null;
   matchedVia: 'exact' | 'fuzzy' | null;
   score: ScoreBreakdown | null;
   points: number;
+  /** Every unrecognised attempt on this question, in order (also kept for correct results). */
+  misses: readonly string[];
   /**
-   * True when an open-set question received an unrecognised, non-empty answer.
-   * It scores 0 now, but is a candidate for the human review queue.
+   * True when an open-set question saw any unrecognised attempt. Those may be valid
+   * answers missing from our list, so they are candidates for the human review queue.
    */
   needsReview: boolean;
 }
@@ -52,6 +63,8 @@ export type RoundState =
       deadlineMs: number;
       secondsPerQuestion: number;
       results: readonly QuestionResult[];
+      /** Unrecognised attempts on the current question. */
+      misses: readonly string[];
     }
   | {
       phase: 'revealed';
@@ -95,6 +108,7 @@ export function roundReducer(
         deadlineMs: action.nowMs + seconds * 1000,
         secondsPerQuestion: seconds,
         results: [],
+        misses: [],
       };
     }
 
@@ -102,21 +116,27 @@ export function roundReducer(
       if (state.phase !== 'answering') return state; // duplicate / late events are ignored
       const question = state.questions[state.index]!;
       const input = action.text.slice(0, MAX_INPUT_LENGTH);
+      if (input.trim() === '') return state; // a stray Enter must not cost an attempt
 
       // A submission that arrives after the deadline is a timeout. The deadline
       // is authoritative, not the UI's countdown, so a throttled background
       // tab cannot buy extra time.
       if (action.nowMs >= state.deadlineMs) {
-        return reveal(state, timeoutResult(question, input));
+        return reveal(state, timeoutResult(question, [...state.misses, input]));
       }
-      return reveal(state, gradeSubmission(question, input, observations));
+
+      const match = matchAnswer(question, input);
+      if (match.kind === 'match') {
+        return reveal(state, correctResult(question, input, match, state.misses, observations));
+      }
+      return { ...state, misses: [...state.misses, input] };
     }
 
     case 'TIMEOUT': {
       if (state.phase !== 'answering') return state;
       // Ignore a premature TIMEOUT (e.g. a stale timer callback).
       if (action.nowMs < state.deadlineMs) return state;
-      return reveal(state, timeoutResult(state.questions[state.index]!, ''));
+      return reveal(state, timeoutResult(state.questions[state.index]!, state.misses));
     }
 
     case 'RESET':
@@ -135,6 +155,7 @@ export function roundReducer(
         deadlineMs: action.nowMs + state.secondsPerQuestion * 1000,
         secondsPerQuestion: state.secondsPerQuestion,
         results: state.results,
+        misses: [],
       };
     }
   }
@@ -150,50 +171,43 @@ function reveal(state: Extract<RoundState, { phase: 'answering' }>, result: Ques
   };
 }
 
-function timeoutResult(question: Question, input: string): QuestionResult {
+function needsReview(question: Question, misses: readonly string[]): boolean {
+  return question.answerSet === 'open' && misses.length > 0;
+}
+
+function timeoutResult(question: Question, misses: readonly string[]): QuestionResult {
   return {
     questionId: question.id,
-    input,
+    input: misses[misses.length - 1] ?? '',
     outcome: 'timeout',
     answerId: null,
     matchedVia: null,
     score: null,
     points: 0,
-    needsReview: false,
+    misses,
+    needsReview: needsReview(question, misses),
   };
 }
 
-export function gradeSubmission(
+function correctResult(
   question: Question,
   input: string,
-  observations: ObservationLookup = () => undefined,
+  match: Extract<MatchResult, { kind: 'match' }>,
+  misses: readonly string[],
+  observations: ObservationLookup,
 ): QuestionResult {
-  const match = matchAnswer(question, input);
-
-  if (match.kind === 'match') {
-    // The matcher only returns answers of this question, so a score always exists.
-    const score = scoreAnswer(question, match.answer.id, observations)!;
-    return {
-      questionId: question.id,
-      input,
-      outcome: 'correct',
-      answerId: match.answer.id,
-      matchedVia: match.via,
-      score,
-      points: score.points,
-      needsReview: false,
-    };
-  }
-
+  // The matcher only returns answers of this question, so a score always exists.
+  const score = scoreAnswer(question, match.answer.id, observations)!;
   return {
     questionId: question.id,
     input,
-    outcome: 'incorrect',
-    answerId: null,
-    matchedVia: null,
-    score: null,
-    points: 0,
-    needsReview: question.answerSet === 'open' && match.reason !== 'empty',
+    outcome: 'correct',
+    answerId: match.answer.id,
+    matchedVia: match.via,
+    score,
+    points: score.points,
+    misses,
+    needsReview: needsReview(question, misses),
   };
 }
 
