@@ -1,0 +1,2041 @@
+{
+  "question": {
+    "id": "tollywood-chiranjeevi-films",
+    "category": "tollywood",
+    "prompt": "Name a released movie featuring Chiranjeevi on screen, including cameos.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "pranam-khareedu",
+        "canonical": "Pranam Khareedu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Narsimha.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mana-voori-pandavulu",
+        "canonical": "Mana Voori Pandavulu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Parthu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "tayaramma-bangarayya",
+        "canonical": "Tayaramma Bangarayya",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a cameo by Chiranjeevi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kukka-katuku-cheppu-debba",
+        "canonical": "Kukka Katuku Cheppu Debba",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sekhar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kotta-alludu",
+        "canonical": "Kotta Alludu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Jagan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "i-love-you",
+        "canonical": "I Love You",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ramesh.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "punadhirallu",
+        "canonical": "Punadhirallu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this among Chiranjeevi's acting appearances.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "idhi-katha-kadhu",
+        "canonical": "Idhi Katha Kadhu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Subanakar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sri-rama-bantu",
+        "canonical": "Sri Rama Bantu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raghu Ram.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kothala-raayudu",
+        "canonical": "Kothala Raayudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Satyam.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "agni-samskaram",
+        "canonical": "Agni Samskaram",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this among Chiranjeevi's acting appearances.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kottapeta-rowdy",
+        "canonical": "Kottapeta Rowdy",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi's cameo as Prasanna Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chandipriya",
+        "canonical": "Chandipriya",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Anil.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aarani-mantalu",
+        "canonical": "Aarani Mantalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jathara",
+        "canonical": "Jathara",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Rambabu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mosagadu",
+        "canonical": "Mosagadu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Seshu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "punnami-naagu",
+        "canonical": "Punnami Naagu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Naagulu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "nakili-manishi",
+        "canonical": "Nakili Manishi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Prasad and Shyam.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kaali",
+        "canonical": "Kaali",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as GK.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "thathayya-premaleelalu",
+        "canonical": "Thathayya Premaleelalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Anil.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "love-in-singapore",
+        "canonical": "Love In Singapore",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Suresh.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "prema-tarangalu",
+        "canonical": "Prema Tarangalu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mogudu-kaavali",
+        "canonical": "Mogudu Kaavali",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi in the role of Chiranjeevi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rakta-bandham",
+        "canonical": "Rakta Bandham",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Tilak.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aadavaallu-meeku-joharlu",
+        "canonical": "Aadavaallu Meeku Joharlu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "parvathi-parameswarulu",
+        "canonical": "Parvathi Parameswarulu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Mohan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "todu-dongalu",
+        "canonical": "Todu Dongalu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kishore.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "tirugu-leni-manishi",
+        "canonical": "Tirugu Leni Manishi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kishore.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "prema-natakam",
+        "canonical": "Prema Natakam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "nyayam-kavali",
+        "canonical": "Nyayam Kavali",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Suresh Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "oorukichina-maata",
+        "canonical": "Oorukichina Maata",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ramudu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rani-kasula-rangamma",
+        "canonical": "Rani Kasula Rangamma",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sukumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "47-rojulu",
+        "canonical": "47 Rojulu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "srirasthu-subhamasthu",
+        "canonical": "Srirasthu Subhamasthu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Krishna.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "priya",
+        "canonical": "Priya",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chattaniki-kallu-levu",
+        "canonical": "Chattaniki Kallu Levu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kirayi-rowdylu",
+        "canonical": "Kirayi Rowdylu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "intlo-ramayya-veedhilo-krishnayya",
+        "canonical": "Intlo Ramayya Veedhilo Krishnayya",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Rajasekharam.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "subhalekha",
+        "canonical": "Subhalekha",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Narasimha Murthi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "idi-pellantara",
+        "canonical": "Idi Pellantara",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Deepak.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sitadevi",
+        "canonical": "Sitadevi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Prabhakar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "radha-my-darling",
+        "canonical": "Radha My Darling",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Mohan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "tingu-rangadu",
+        "canonical": "Tingu Rangadu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ranga.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "patnam-vachina-pativrathalu",
+        "canonical": "Patnam Vachina Pativrathalu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gopi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "billa-ranga",
+        "canonical": "Billa Ranga",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Billa and Inspector Vishnu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "yamakinkarudu",
+        "canonical": "Yamakinkarudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mondi-ghatam",
+        "canonical": "Mondi Ghatam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravindra.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "manchu-pallaki",
+        "canonical": "Manchu Pallaki",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sekhar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "bandhalu-anubandhalu",
+        "canonical": "Bandhalu Anubandhalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Inspector Chiranjeevi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "prema-pichollu",
+        "canonical": "Prema Pichollu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "palletoori-monagadu",
+        "canonical": "Palletoori Monagadu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "abhilasha",
+        "canonical": "Abhilasha",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi in the role of Chiranjeevi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aalaya-sikharam",
+        "canonical": "Aalaya Sikharam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Seenu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sivudu-sivudu-sivudu",
+        "canonical": "Sivudu Sivudu Sivudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sivudu and Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "puli-bebbuli",
+        "canonical": "Puli Bebbuli",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gopi Krishna.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "gudachari-no-1",
+        "canonical": "Gudachari No.1",
+        "aliases": [
+          "Gudachari No 1"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "maga-maharaju",
+        "canonical": "Maga Maharaju",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "roshagadu",
+        "canonical": "Roshagadu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sikindar and Srikanth.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "maa-inti-premayanam",
+        "canonical": "Maa Inti Premayanam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "simhapuri-simham",
+        "canonical": "Simhapuri Simham",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja Sekharam and Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "khaidi",
+        "canonical": "Khaidi",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sooryam.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mantri-gari-viyyankudu",
+        "canonical": "Mantri Gari Viyyankudu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Babji.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sangharshana",
+        "canonical": "Sangharshana",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Dilip.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "allullostunnaru",
+        "canonical": "Allullostunnaru",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gopi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "goonda",
+        "canonical": "Goonda",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kalidas, Raja and Ravi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "hero",
+        "canonical": "Hero",
+        "aliases": [
+          "Hero (1984)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Krishna.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "devanthakudu",
+        "canonical": "Devanthakudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mahanagaramlo-mayagadu",
+        "canonical": "Mahanagaramlo Mayagadu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "challenge",
+        "canonical": "Challenge",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gandhi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "intiguttu",
+        "canonical": "Intiguttu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "naagu",
+        "canonical": "Naagu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Naagu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "agni-gundam",
+        "canonical": "Agni Gundam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rustum",
+        "canonical": "Rustum",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Hari.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chattamtho-poratam",
+        "canonical": "Chattamtho Poratam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravishankar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "donga",
+        "canonical": "Donga",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Phani.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chiranjeevi",
+        "canonical": "Chiranjeevi",
+        "aliases": [
+          "Chiranjeevi (1985)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi acting in the film of the same name.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jwaala",
+        "canonical": "Jwaala",
+        "aliases": [
+          "Jwala"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju and Yuvaraju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "puli",
+        "canonical": "Puli",
+        "aliases": [
+          "Puli (1985)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kranthi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rakta-sindhuram",
+        "canonical": "Rakta Sindhuram",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gandragoddali and Gopi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "adavi-donga",
+        "canonical": "Adavi Donga",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kalidas.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "vijetha",
+        "canonical": "Vijetha",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Chinna Babu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kirathakudu",
+        "canonical": "Kirathakudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Charan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-raja",
+        "canonical": "Kondaveeti Raja",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "magadheerudu",
+        "canonical": "Magadheerudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "veta",
+        "canonical": "Veta",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ranapratap Kumar Varma.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chantabbai",
+        "canonical": "Chantabbai",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Panduranga Rao.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rakshasudu",
+        "canonical": "Rakshasudu",
+        "aliases": [
+          "Rakshasudu (1986)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Purusha.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "dhairyavanthudu",
+        "canonical": "Dhairyavanthudu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kishore.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chanakya-sapatham",
+        "canonical": "Chanakya Sapatham",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Chanakya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "donga-mogudu",
+        "canonical": "Donga Mogudu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravi Teja and Nagaraju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aradhana",
+        "canonical": "Aradhana",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Puli Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "chakravarthy",
+        "canonical": "Chakravarthy",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Chakravarthy and Anji.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "trimurtulu",
+        "canonical": "Trimurtulu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a cameo by Chiranjeevi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "pasivadi-pranam",
+        "canonical": "Pasivadi Pranam",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Madhu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "swayamkrushi",
+        "canonical": "Swayamkrushi",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sambayya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jebu-donga",
+        "canonical": "Jebu Donga",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Chitti Babu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "manchi-donga",
+        "canonical": "Manchi Donga",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Veerendra.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rudraveena",
+        "canonical": "Rudraveena",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Suryanarayana Sarma.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "yamudiki-mogudu",
+        "canonical": "Yamudiki Mogudu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kali and Balu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-no-786",
+        "canonical": "Khaidi No. 786",
+        "aliases": [
+          "Khaidi No 786",
+          "Khaidi 786"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Gopi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "marana-mrudangam",
+        "canonical": "Marana Mrudangam",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Janardhan and Johnny.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "trinetrudu",
+        "canonical": "Trinetrudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Abhimanyu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "yuddha-bhoomi",
+        "canonical": "Yuddha Bhoomi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "attaku-yamudu-ammayiki-mogudu",
+        "canonical": "Attaku Yamudu Ammayiki Mogudu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kalyan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "state-rowdy",
+        "canonical": "State Rowdy",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kalicharan and Pruthvi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rudranetra",
+        "canonical": "Rudranetra",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Nethra.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "lankeswarudu",
+        "canonical": "Lankeswarudu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Siva Shankar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-donga",
+        "canonical": "Kondaveeti Donga",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jagadeka-veerudu-athiloka-sundari",
+        "canonical": "Jagadeka Veerudu Athiloka Sundari",
+        "aliases": [
+          "JVAS"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "kodama-simham",
+        "canonical": "Kodama Simham",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Bharath.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "raja-vikramarka",
+        "canonical": "Raja Vikramarka",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja Vikramarka.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "stuartpuram-police-station",
+        "canonical": "Stuartpuram Police Station",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Inspector Rana Pratap.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "gang-leader",
+        "canonical": "Gang Leader",
+        "aliases": [
+          "Gang Leader (1991)"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Rajaram.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rowdy-alludu",
+        "canonical": "Rowdy Alludu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Auto Johnny and Kalyan.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "gharana-mogudu",
+        "canonical": "Gharana Mogudu",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aapadbandhavudu",
+        "canonical": "Aapadbandhavudu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Madhava.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "muta-mestri",
+        "canonical": "Muta Mestri",
+        "aliases": [
+          "Mutha Mestri"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Subhash Chandra Bose.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mechanic-alludu",
+        "canonical": "Mechanic Alludu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mugguru-monagallu",
+        "canonical": "Mugguru Monagallu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Prudhvi, Vikram and Dattatreya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "madam",
+        "canonical": "Madam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography includes this film in Chiranjeevi's acting table.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "s-p-parasuram",
+        "canonical": "S. P. Parasuram",
+        "aliases": [
+          "SP Parasuram"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as SP Parasuram IPS.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "alluda-majaka",
+        "canonical": "Alluda Majaka",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Sitaramudu and Toyota.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "big-boss",
+        "canonical": "Big Boss",
+        "aliases": [
+          "Big Boss (1995)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Surendra.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "rikshavodu",
+        "canonical": "Rikshavodu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju and Dharma Rayudu.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "hitler",
+        "canonical": "Hitler",
+        "aliases": [
+          "Hitler (1997)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Madhava Rao.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "master",
+        "canonical": "Master",
+        "aliases": [
+          "Master (1997)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raj Kumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "bavagaru-bagunnara",
+        "canonical": "Bavagaru Bagunnara?",
+        "aliases": [
+          "Bavagaru Bagunnara"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "choodalani-vundi",
+        "canonical": "Choodalani Vundi",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ramakrishna.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sneham-kosam",
+        "canonical": "Sneham Kosam",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Simhadri and Chinnayya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "iddaru-mitrulu",
+        "canonical": "Iddaru Mitrulu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "annayya",
+        "canonical": "Annayya",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Rajaram.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "hands-up",
+        "canonical": "Hands Up",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi's special appearance as Saraswati's husband.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mrugaraju",
+        "canonical": "Mrugaraju",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raju.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sri-manjunatha",
+        "canonical": "Sri Manjunatha",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Manjunatha and Lord Siva.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "daddy",
+        "canonical": "Daddy",
+        "aliases": [
+          "Daddy (2001)"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Rajkumar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "indra",
+        "canonical": "Indra",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Indrasena Reddy and Shankar Narayana.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "tagore",
+        "canonical": "Tagore",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Ravindranath Tagore.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "anji",
+        "canonical": "Anji",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Anji.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "shankar-dada-m-b-b-s",
+        "canonical": "Shankar Dada M.B.B.S.",
+        "aliases": [
+          "Shankar Dada MBBS"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Shankar Prasad, known as Shankar Dada.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "andarivaadu",
+        "canonical": "Andarivaadu",
+        "aliases": [
+          "Andarivadu"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Govindarajulu and Siddharth.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jai-chiranjeeva",
+        "canonical": "Jai Chiranjeeva",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Satyanarayana Murthy.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "stalin",
+        "canonical": "Stalin",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Major Stalin.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "style",
+        "canonical": "Style",
+        "aliases": [
+          "Style (2006)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "shankar-dada-zindabad",
+        "canonical": "Shankar Dada Zindabad",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Shankar Prasad, known as Shankar Dada.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "jagadguru-adi-shankara",
+        "canonical": "Jagadguru Adi Shankara",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists Chiranjeevi in an archival-footage cameo.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "bruce-lee-the-fighter",
+        "canonical": "Bruce Lee: The Fighter",
+        "aliases": [
+          "Bruce Lee",
+          "Bruce Lee The Fighter"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-no-150",
+        "canonical": "Khaidi No. 150",
+        "aliases": [
+          "Khaidi No 150",
+          "Khaidi 150"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kaththi Seenu and Konidela Sivasankara Varaprasad.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [
+          "Sye Raa",
+          "Sye Raa Narsimha Reddy"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Uyyalawada Narasimha Reddy.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "acharya",
+        "canonical": "Acharya",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Acharya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "godfather",
+        "canonical": "Godfather",
+        "aliases": [
+          "God Father",
+          "Godfather (2022)"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Brahma Teja and Abram Qureshi.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Waltair Veerayya.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "bhola-shankar",
+        "canonical": "Bhola Shankar",
+        "aliases": [
+          "Bholaa Shankar"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Bhola Shankar.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mana-shankara-vara-prasad-garu",
+        "canonical": "Mana Shankara Vara Prasad Garu",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table credits Chiranjeevi as Shankara Vara Prasad without an unreleased-film marker.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "47-natkal",
+        "canonical": "47 Natkal",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Kumar in this Tamil bilingual film.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "ranuva-veeran",
+        "canonical": "Ranuva Veeran",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as The Thief.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "mappillai",
+        "canonical": "Mappillai",
+        "aliases": [
+          "Mappillai (1989)"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "engal-swamy-ayyappan",
+        "canonical": "Engal Swamy Ayyappan",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Chiranjeevi appearing as himself in archival footage.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "pratibandh",
+        "canonical": "Pratibandh",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Siddhanth.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "aaj-ka-goonda-raaj",
+        "canonical": "Aaj Ka Goonda Raaj",
+        "aliases": [
+          "Aaj Ka Goonda Raj"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Raja.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "the-gentleman",
+        "canonical": "The Gentleman",
+        "aliases": [
+          "The Gentleman (1994)"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Vijay.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      },
+      {
+        "id": "sipayi",
+        "canonical": "Sipayi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Chiranjeevi as Major Chandrakanth.",
+        "sourceIds": [
+          "chiranjeevi-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied Chiranjeevi filmography's acting tables without an unreleased-film marker. Telugu and other-language films count, including special appearances and archival footage; narration-only and voice-only credits do not.",
+    "sources": [
+      {
+        "id": "chiranjeevi-filmography",
+        "title": "Chiranjeevi filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chiranjeevi_filmography",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "bde36078d7bd1699",
+    "brief": "Name a movie starring Chiranjeevi.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "chiranjeevi-filmography",
+        "version": "1380949278",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Pranam Khareedu": "1978 | Pranam Khareedu | Narsimha | |",
+      "Mana Voori Pandavulu": "1978 | Mana Voori Pandavulu | Parthu | |",
+      "Tayaramma Bangarayya": "1979 | Tayaramma Bangarayya | Juothi's Husband | Cameo |",
+      "Kukka Katuku Cheppu Debba": "1979 | Kukka Katuku Cheppu Debba | Sekhar | |",
+      "Kotta Alludu": "1979 | Kotta Alludu | Jagan | |",
+      "I Love You": "1979 | I Love You | Ramesh | |",
+      "Punadhirallu": "1979 | Punadhirallu | Unknown | |",
+      "Idhi Katha Kadhu": "1979 | Idhi Katha Kadhu | Subanakar | |",
+      "Sri Rama Bantu": "1979 | Sri Rama Bantu | Raghu Ram | |",
+      "Kothala Raayudu": "1979 | Kothala Raayudu | Satyam | |",
+      "Agni Samskaram": "1980 | Agni Samskaram | Unknown | |",
+      "Kottapeta Rowdy": "1980 | Kottapeta Rowdy | Prasanna Kumar | Cameo |",
+      "Chandipriya": "1980 | Chandipriya | Anil | |",
+      "Aarani Mantalu": "1980 | Aarani Mantalu | Ravi | |",
+      "Jathara": "1980 | Jathara | Rambabu | |",
+      "Mosagadu": "1980 | Mosagadu | Seshu | |",
+      "Punnami Naagu": "1980 | Punnami Naagu | Naagulu | |",
+      "Nakili Manishi": "1980 | Nakili Manishi | Prasad / Shyam | |",
+      "Kaali": "1980 | Kaali | GK | |",
+      "Thathayya Premaleelalu": "1980 | Thathayya Premaleelalu | Anil | |",
+      "Love In Singapore": "1980 | Love In Singapore | Suresh | |",
+      "Prema Tarangalu": "1980 | Prema Tarangalu | Kumar | |",
+      "Mogudu Kaavali": "1980 | Mogudu Kaavali | Chiranjeevi | |",
+      "Rakta Bandham": "1980 | Rakta Bandham | Tilak | 25th film |",
+      "Aadavaallu Meeku Joharlu": "1981 | Aadavaallu Meeku Joharlu | Himself | Special appearance |",
+      "Parvathi Parameswarulu": "1981 | Parvathi Parameswarulu | Mohan | |",
+      "Todu Dongalu": "1981 | Todu Dongalu | Kishore | |",
+      "Tirugu Leni Manishi": "1981 | Tirugu Leni Manishi | Kishore | |",
+      "Prema Natakam": "1981 | Prema Natakam | Himself | Special appearance |",
+      "Nyayam Kavali": "1981 | Nyayam Kavali | Suresh Kumar | |",
+      "Oorukichina Maata": "1981 | Oorukichina Maata | Ramudu | |",
+      "Rani Kasula Rangamma": "1981 | Rani Kasula Rangamma | Sukumar | |",
+      "47 Rojulu": "1981 | 47 Rojulu | Kumar | |",
+      "Srirasthu Subhamasthu": "1981 | Srirasthu Subhamasthu | Krishna | |",
+      "Priya": "1981 | Priya | Vijay | |",
+      "Chattaniki Kallu Levu": "1981 | Chattaniki Kallu Levu | Vijay | |",
+      "Kirayi Rowdylu": "1981 | Kirayi Rowdylu | Raja | |",
+      "Intlo Ramayya Veedhilo Krishnayya": "1982 | Intlo Ramayya Veedhilo Krishnayya | Rajasekharam | |",
+      "Subhalekha": "1982 | Subhalekha | Narasimha Murthi | Filmfare Award for Best Telugu Actor |",
+      "Idi Pellantara": "1982 | Idi Pellantara | Deepak | |",
+      "Sitadevi": "1982 | Sitadevi | Prabhakar | |",
+      "Radha My Darling": "1982 | Radha My Darling | Mohan | |",
+      "Tingu Rangadu": "1982 | Tingu Rangadu | Ranga | |",
+      "Patnam Vachina Pativrathalu": "1982 | Patnam Vachina Pativrathalu | Gopi | |",
+      "Billa Ranga": "1982 | Billa Ranga | Billa and Inspector Vishnu | |",
+      "Yamakinkarudu": "1982 | Yamakinkarudu | Vijay | |",
+      "Mondi Ghatam": "1982 | Mondi Ghatam | Ravindra | |",
+      "Manchu Pallaki": "1982 | Manchu Pallaki | Sekhar | |",
+      "Bandhalu Anubandhalu": "1982 | Bandhalu Anubandhalu | Inspector Chiranjeevi | 50th film |",
+      "Prema Pichollu": "1983 | Prema Pichollu | Ravi | |",
+      "Palletoori Monagadu": "1983 | Palletoori Monagadu | Raju | |",
+      "Abhilasha": "1983 | Abhilasha | Chiranjeevi | |",
+      "Aalaya Sikharam": "1983 | Aalaya Sikharam | Seenu | |",
+      "Sivudu Sivudu Sivudu": "1983 | Sivudu Sivudu Sivudu | Sivudu / Vijay | |",
+      "Puli Bebbuli": "1983 | Puli Bebbuli | Gopi Krishna | |",
+      "Gudachari No.1": "1983 | Gudachari No.1 | Vijay | |",
+      "Maga Maharaju": "1983 | Maga Maharaju | Raju | |",
+      "Roshagadu": "1983 | Roshagadu | Sikindar and Srikanth | |",
+      "Maa Inti Premayanam": "1983 | Maa Inti Premayanam | Himself | Special appearance |",
+      "Simhapuri Simham": "1983 | Simhapuri Simham | Raja Sekharam and Vijay | |",
+      "Khaidi": "1983 | Khaidi | Sooryam | |",
+      "Mantri Gari Viyyankudu": "1983 | Mantri Gari Viyyankudu | Babji | |",
+      "Sangharshana": "1983 | Sangharshana | Dilip | |",
+      "Allullostunnaru": "1984 | Allullostunnaru | Gopi | |",
+      "Goonda": "1984 | Goonda | Kalidas / Raja / Ravi | |",
+      "Hero": "1984 | Hero | Krishna | |",
+      "Devanthakudu": "1984 | Devanthakudu | Vijay Kumar | |",
+      "Mahanagaramlo Mayagadu": "1984 | Mahanagaramlo Mayagadu | Raja | |",
+      "Challenge": "1984 | Challenge | Gandhi | |",
+      "Intiguttu": "1984 | Intiguttu | Vijay Kumar | |",
+      "Naagu": "1984 | Naagu | Naagu | |",
+      "Agni Gundam": "1984 | Agni Gundam | Vijay | |",
+      "Rustum": "1984 | Rustum | Hari | |",
+      "Chattamtho Poratam": "1985 | Chattamtho Poratam | Ravishankar | 75th film |",
+      "Donga": "1985 | Donga | Phani | |",
+      "Chiranjeevi": "1985 | Chiranjeevi | Chiranjeevi | |",
+      "Jwaala": "1985 | Jwaala | Raju / Yuvaraju | |",
+      "Puli": "1985 | Puli | Kranthi | |",
+      "Rakta Sindhuram": "1985 | Rakta Sindhuram | Gandragoddali and Gopi | |",
+      "Adavi Donga": "1985 | Adavi Donga | Kalidas | |",
+      "Vijetha": "1985 | Vijetha | Chinna Babu | Filmfare Award for Best Telugu Actor |",
+      "Kirathakudu": "1986 | Kirathakudu | Charan | |",
+      "Kondaveeti Raja": "1986 | Kondaveeti Raja | Raja | |",
+      "Magadheerudu": "1986 | Magadheerudu | Raju | |",
+      "Veta": "1986 | Veta | Ranapratap Kumar Varma | |",
+      "Chantabbai": "1986 | Chantabbai | Panduranga Rao | |",
+      "Rakshasudu": "1986 | Rakshasudu | Purusha | |",
+      "Dhairyavanthudu": "1986 | Dhairyavanthudu | Kishore | |",
+      "Chanakya Sapatham": "1986 | Chanakya Sapatham | Chanakya | |",
+      "Donga Mogudu": "1987 | Donga Mogudu | Ravi Teja and Nagaraju | |",
+      "Aradhana": "1987 | Aradhana | Puli Raju | |",
+      "Chakravarthy": "1987 | Chakravarthy | Chakravarthy and Anji | |",
+      "Trimurtulu": "1987 | Trimurtulu | | Cameo |",
+      "Pasivadi Pranam": "1987 | Pasivadi Pranam | Madhu | |",
+      "Swayamkrushi": "1987 | Swayamkrushi | Sambayya | Nandi Award for Best Actor |",
+      "Jebu Donga": "1987 | Jebu Donga | Chitti Babu | |",
+      "Manchi Donga": "1988 | Manchi Donga | Veerendra | |",
+      "Rudraveena": "1988 | Rudraveena | Suryanarayana Sarma | Also presenter; Nandi Special Jury Award |",
+      "Yamudiki Mogudu": "1988 | Yamudiki Mogudu | Kali / Balu | |",
+      "Khaidi No. 786": "1988 | Khaidi No. 786 | Gopi | |",
+      "Marana Mrudangam": "1988 | Marana Mrudangam | Janardhan / Johnny | |",
+      "Trinetrudu": "1988 | Trinetrudu | Abhimanyu | 100th film |",
+      "Yuddha Bhoomi": "1988 | Yuddha Bhoomi | Vijay | |",
+      "Attaku Yamudu Ammayiki Mogudu": "1989 | Attaku Yamudu Ammayiki Mogudu | Kalyan | |",
+      "State Rowdy": "1989 | State Rowdy | Kalicharan/Pruthvi | |",
+      "Rudranetra": "1989 | Rudranetra | Nethra | |",
+      "Lankeswarudu": "1989 | Lankeswarudu | Siva Shankar | |",
+      "Kondaveeti Donga": "1990 | Kondaveeti Donga | Raja | |",
+      "Jagadeka Veerudu Athiloka Sundari": "1990 | Jagadeka Veerudu Athiloka Sundari | Raju | |",
+      "Kodama Simham": "1990 | Kodama Simham | Bharath | |",
+      "Raja Vikramarka": "1990 | Raja Vikramarka | Raja Vikramarka | |",
+      "Stuartpuram Police Station": "1991 | Stuartpuram Police Station | Inspector Rana Pratap | |",
+      "Gang Leader": "1991 | Gang Leader | Rajaram | |",
+      "Rowdy Alludu": "1991 | Rowdy Alludu | Auto Johnny / Kalyan | |",
+      "Gharana Mogudu": "1992 | Gharana Mogudu | Raju | |",
+      "Aapadbandhavudu": "1992 | Aapadbandhavudu | Madhava | Filmfare Award for Best Telugu ActorNandi Award for Best Actor |",
+      "Muta Mestri": "1993 | Muta Mestri | Subhash Chandra Bose | Filmfare Award for Best Telugu Actor |",
+      "Mechanic Alludu": "1993 | Mechanic Alludu | Ravi | |",
+      "Mugguru Monagallu": "1994 | Mugguru Monagallu | Prudhvi, Vikram, and Dattatreya | |",
+      "Madam": "1994 | Madam | | |",
+      "S. P. Parasuram": "1994 | S. P. Parasuram | SP Parasuram IPS | |",
+      "Alluda Majaka": "1995 | Alluda Majaka | Sitaramudu / Toyota | |",
+      "Big Boss": "1995 | Big Boss | Surendra | |",
+      "Rikshavodu": "1995 | Rikshavodu | Raju and Dharma Rayudu | |",
+      "Hitler": "1997 | Hitler | Madhava Rao | |",
+      "Master": "1997 | Master | Raj Kumar | Also playback singer |",
+      "Bavagaru Bagunnara?": "1998 | Bavagaru Bagunnara? | Raju | |",
+      "Choodalani Vundi": "1998 | Choodalani Vundi | Ramakrishna | |",
+      "Sneham Kosam": "1999 | Sneham Kosam | Simhadri / Chinnayya | 125th film; Filmfare Award for Best Telugu Actor |",
+      "Iddaru Mitrulu": "1999 | Iddaru Mitrulu | Vijay | |",
+      "Annayya": "2000 | Annayya | Rajaram | |",
+      "Hands Up": "2000 | Hands Up | Saraswati's husband | Special appearance |",
+      "Mrugaraju": "2001 | Mrugaraju | Raju | Also playback Singer |",
+      "Sri Manjunatha": "2001 | Sri Manjunatha | Manjunatha / Lord Siva | Kannada film; Partially reshot in Telugu |",
+      "Daddy": "2001 | Daddy | Rajkumar | |",
+      "Indra": "2002 | Indra | Indrasena Reddy / Shankar Narayana | Filmfare Award for Best Telugu ActorNandi Award for Best Actor |",
+      "Tagore": "2003 | Tagore | Ravindranath Tagore | |",
+      "Anji": "2004 | Anji | Anji | |",
+      "Shankar Dada M.B.B.S.": "2004 | Shankar Dada M.B.B.S. | Shankar Prasad \"Shankar Dada\" | Filmfare Award for Best Telugu Actor |",
+      "Andarivaadu": "2005 | Andarivaadu | Govindarajulu / Siddharth | |",
+      "Jai Chiranjeeva": "2005 | Jai Chiranjeeva | Satyanarayana Murthy | |",
+      "Stalin": "2006 | Stalin | Major Stalin | |",
+      "Style": "2006 | Style | Himself | Special appearance |",
+      "Shankar Dada Zindabad": "2007 | Shankar Dada Zindabad | Shankar Prasad \"Shankar Dada\" | |",
+      "Magadheera": "2009 | Magadheera | Himself | Special appearance |",
+      "Jagadguru Adi Shankara": "2013 | Jagadguru Adi Shankara | Manjunatha / Lord Siva | Cameo; archive footage |",
+      "Bruce Lee: The Fighter": "2015 | Bruce Lee: The Fighter | Himself | Special appearance |",
+      "Khaidi No. 150": "2017 | Khaidi No. 150 | Kaththi Seenu / Konidela Sivasankara Varaprasad | 150th film |",
+      "Sye Raa Narasimha Reddy": "2019 | Sye Raa Narasimha Reddy | Uyyalawada Narasimha Reddy | |",
+      "Acharya": "2022 | Acharya | Acharya | |",
+      "Godfather": "2022 | Godfather | Brahma Teja \"Godfather\" / Abram Qureshi | |",
+      "Waltair Veerayya": "2023 | Waltair Veerayya | Waltair Veerayya | |",
+      "Bhola Shankar": "2023 | Bhola Shankar | Bhola Shankar | |",
+      "Mana Shankara Vara Prasad Garu": "2026 | Mana Shankara Vara Prasad Garu | Shankara Vara Prasad | |",
+      "47 Natkal": "1981 | 47 Natkal | Kumar | Tamil | Bilingual film; Simultaneously shot in Telugu as 47 Rojulu |",
+      "Ranuva Veeran": "1981 | Ranuva Veeran | The Thief | Tamil | |",
+      "Mappillai": "1989 | Mappillai | Himself | Tamil | Special appearance |",
+      "Engal Swamy Ayyappan": "1990 | Engal Swamy Ayyappan | Himself | Tamil | Archival footage |",
+      "Pratibandh": "1990 | Pratibandh | Siddhanth | Hindi | Remake of Ankusam (1989) |",
+      "Aaj Ka Goonda Raaj": "1992 | Aaj Ka Goonda Raaj | Raja | Hindi | Remake of Gang Leader |",
+      "The Gentleman": "1994 | The Gentleman | Vijay | Hindi | Remake of Gentleman (1993) |",
+      "Sipayi": "1996 | Sipayi | Major Chandrakanth | Kannada | |"
+    },
+    "issues": []
+  }
+}

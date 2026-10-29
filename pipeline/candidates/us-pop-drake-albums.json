@@ -1,0 +1,323 @@
+{
+  "question": {
+    "id": "us-pop-drake-albums",
+    "category": "us-pop",
+    "prompt": "Name a Drake album or mixtape.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "thank-me-later",
+        "canonical": "Thank Me Later",
+        "aliases": [
+          "TML"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thank Me Later is listed as Drake's debut solo studio album, released in 2010.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "take-care",
+        "canonical": "Take Care",
+        "aliases": [],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Take Care is Drake's 2011 studio album.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "nothing-was-the-same",
+        "canonical": "Nothing Was the Same",
+        "aliases": [
+          "NWTS"
+        ],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nothing Was the Same is identified as Drake's third album.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "views",
+        "canonical": "Views",
+        "aliases": [
+          "Views from the 6"
+        ],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Views is Drake's fourth studio album, originally titled Views from the 6.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "scorpion",
+        "canonical": "Scorpion",
+        "aliases": [],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scorpion is identified as Drake's fifth studio album.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "certified-lover-boy",
+        "canonical": "Certified Lover Boy",
+        "aliases": [
+          "CLB"
+        ],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Certified Lover Boy is a Drake album released in September 2021.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "honestly-nevermind",
+        "canonical": "Honestly, Nevermind",
+        "aliases": [
+          "Honestly Nevermind",
+          "HNM"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Honestly, Nevermind is identified as Drake's seventh album.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "for-all-the-dogs",
+        "canonical": "For All the Dogs",
+        "aliases": [
+          "FATD"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "For All the Dogs is identified as Drake's eighth studio album.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "iceman",
+        "canonical": "Iceman",
+        "aliases": [
+          "Ice Man"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iceman is listed among Drake's solo studio albums.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "maid-of-honour",
+        "canonical": "Maid of Honour",
+        "aliases": [
+          "Maid of Honor"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maid of Honour is named as one of Drake's albums released alongside Iceman.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "habibti",
+        "canonical": "Habibti",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Habibti is named as one of Drake's albums released alongside Iceman.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "her-loss",
+        "canonical": "Her Loss",
+        "aliases": [],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her Loss is Drake's collaborative album with 21 Savage.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "some-sexy-songs-4-u",
+        "canonical": "Some Sexy Songs 4 U",
+        "aliases": [
+          "$ome $exy $ongs 4 U",
+          "Some Sexy Songs for You",
+          "SSS4U"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Some Sexy Songs 4 U is Drake's collaborative album with PartyNextDoor.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "room-for-improvement",
+        "canonical": "Room for Improvement",
+        "aliases": [
+          "RFI"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Room for Improvement is Drake's debut mixtape, released in 2006.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "comeback-season",
+        "canonical": "Comeback Season",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Comeback Season is Drake's second mixtape, released in 2007.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "so-far-gone",
+        "canonical": "So Far Gone",
+        "aliases": [
+          "SFG"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "So Far Gone is Drake's third mixtape, released in 2009.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "if-you-re-reading-this-it-s-too-late",
+        "canonical": "If You're Reading This It's Too Late",
+        "aliases": [
+          "If Youre Reading This Its Too Late",
+          "IYRTITL"
+        ],
+        "familiarity": 0.087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "If You're Reading This It's Too Late is a Drake release described as either an album or a mixtape.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "what-a-time-to-be-alive",
+        "canonical": "What a Time to Be Alive",
+        "aliases": [
+          "WATTBA"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "What a Time to Be Alive is Drake's collaborative mixtape with Future.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "dark-lane-demo-tapes",
+        "canonical": "Dark Lane Demo Tapes",
+        "aliases": [
+          "DLDT"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dark Lane Demo Tapes is Drake's commercial mixtape released in May 2020.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "more-life",
+        "canonical": "More Life",
+        "aliases": [],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "More Life is Drake's playlist project, explicitly included in the question's criteria.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "care-package",
+        "canonical": "Care Package",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Care Package is Drake's compilation album released in August 2019.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      }
+    ],
+    "explanation": "Drake's projects range from early independent mixtapes to solo studio albums and collaborations. Compilation album Care Package and the playlist More Life also count; EPs do not.",
+    "sources": [
+      {
+        "id": "drake-musician",
+        "title": "Drake (musician)",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drake_(musician)",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29",
+    "criteria": "Any released Drake solo or collaborative album or mixtape counts, including compilation albums and More Life, his playlist project. EPs, singles, and albums on which he is only a guest do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "089e8a7b598e42c7",
+    "brief": "Name a Drake album or mixtape.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "drake-musician",
+        "version": "1382252922",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Thank Me Later": "Drake's debut album, Thank Me Later (2010), debuted atop the Billboard 200",
+      "Take Care": "In November 2010, Drake revealed the title of his next studio album would be Take Care.",
+      "Nothing Was the Same": "Drake announced his third album, Nothing Was the Same, and released its first single.",
+      "Views": "The album was originally titled Views from the 6, but was later shortened to Views.",
+      "Scorpion": "In 2018, Drake released his fifth studio album, Scorpion,",
+      "Certified Lover Boy": "Certified Lover Boy was released on September 3, 2021, becoming Drake's tenth number-one album on the Billboard 200;",
+      "Honestly, Nevermind": "On June 16, Drake announced his seventh album, Honestly, Nevermind, which released a day later;",
+      "For All the Dogs": "Drake announced his eighth studio album, titled For All the Dogs.",
+      "Iceman": "For All the Dogs (2023)\nIceman (2026)\nMaid of Honour (2026)\nHabibti (2026)",
+      "Maid of Honour": "On May 14, 2026 it was announced that alongside Iceman, two new albums entitled Habibti and Maid of Honour would be released the following day.",
+      "Habibti": "On May 14, 2026 it was announced that alongside Iceman, two new albums entitled Habibti and Maid of Honour would be released the following day.",
+      "Her Loss": "On October 22, Drake announced Her Loss, a collaborative album with 21 Savage",
+      "Some Sexy Songs 4 U": "On February 3, 2025, Drake announced Some Sexy Songs 4 U, a collaborative album with PartyNextDoor, which was released on February 14, 2025.",
+      "Room for Improvement": "Drake self-released his debut mixtape, Room for Improvement featuring Trey Songz and Lupe Fiasco, in 2006.",
+      "Comeback Season": "In 2007, Drake released his second mixtape Comeback Season.",
+      "So Far Gone": "In 2009, Drake released his third mixtape So Far Gone.",
+      "If You're Reading This It's Too Late": "On February 12, 2015, Drake released If You're Reading This It's Too Late onto iTunes with no prior announcement. Despite debate on whether it was an album or a mixtape,",
+      "What a Time to Be Alive": "On September 20, Drake released a collaborative mixtape with Future, which was recorded in Atlanta in just under a week. What a Time to Be Alive debuted at number one on the Billboard 200,",
+      "Dark Lane Demo Tapes": "On May 1, 2020, Drake released the commercial mixtape Dark Lane Demo Tapes,",
+      "More Life": "During an episode of OVO Sound Radio, Drake confirmed he would be releasing a project titled More Life, described as a \"playlist of original music\".",
+      "Care Package": "On August 2, he released the compilation album Care Package, consisting of songs released between 2010 and 2016"
+    },
+    "issues": []
+  }
+}

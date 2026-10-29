@@ -1,0 +1,864 @@
+{
+  "question": {
+    "id": "tollywood-filmfare-best-film",
+    "category": "tollywood",
+    "prompt": "Name a film that has won the Filmfare Award for Best Film – Telugu.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "narthanasala",
+        "canonical": "Narthanasala",
+        "aliases": [
+          "Nartanasala"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Narthanasala is listed as the winner for 1963.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "mooga-manasulu",
+        "canonical": "Mooga Manasulu",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mooga Manasulu is listed as the winner for 1964.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "antastulu",
+        "canonical": "Antastulu",
+        "aliases": [
+          "Anthastulu"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antastulu is listed as the winner for 1965.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "aastiparulu",
+        "canonical": "Aastiparulu",
+        "aliases": [
+          "Asthiparulu",
+          "Aasthiparulu"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aastiparulu is listed as the winner for 1966.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "chadarangam",
+        "canonical": "Chadarangam",
+        "aliases": [],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chadarangam is listed as the winner for 1967.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "sudigundalu",
+        "canonical": "Sudigundalu",
+        "aliases": [],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sudigundalu is listed as the winner for 1968.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "bangaru-panjaram",
+        "canonical": "Bangaru Panjaram",
+        "aliases": [],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bangaru Panjaram is listed as the winner for 1969.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "dharma-daata",
+        "canonical": "Dharma Daata",
+        "aliases": [
+          "Dharma Data",
+          "Dharmadata"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dharma Daata is listed as the winner for 1970.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "tahsildar-gari-ammayi",
+        "canonical": "Tahsildar Gari Ammayi",
+        "aliases": [
+          "Tahsildar Gari Ammai"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tahsildar Gari Ammayi is listed as the winner for 1971.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "pandanti-kapuram",
+        "canonical": "Pandanti Kapuram",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pandanti Kapuram is listed as the winner for 1972.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "jeevana-tharangaalu",
+        "canonical": "Jeevana Tharangaalu",
+        "aliases": [
+          "Jeevana Tarangalu",
+          "Jeevana Tharangalu"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jeevana Tharangaalu is listed as the winner for 1973.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "o-seeta-katha",
+        "canonical": "O Seeta Katha",
+        "aliases": [
+          "O Seetha Katha",
+          "O Sita Katha"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "O Seeta Katha is listed as the winner for 1974.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "jeevana-jyothi",
+        "canonical": "Jeevana Jyothi",
+        "aliases": [
+          "Jeevana Jyoti"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jeevana Jyothi is listed as the winner for 1975.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "soggadu",
+        "canonical": "Soggadu",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Soggadu is listed as the winner for 1976.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "adavi-ramudu",
+        "canonical": "Adavi Ramudu",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adavi Ramudu is listed as the winner for 1977.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "manavoori-pandavulu",
+        "canonical": "Manavoori Pandavulu",
+        "aliases": [
+          "Mana Voori Pandavulu",
+          "Mana Oori Pandavulu"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manavoori Pandavulu is listed as the winner for 1978.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "gorintaku",
+        "canonical": "Gorintaku",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gorintaku is listed as the winner for 1979.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "maa-bhoomi",
+        "canonical": "Maa Bhoomi",
+        "aliases": [
+          "Ma Bhoomi"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maa Bhoomi is listed as the winner for 1980.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "saptapadi",
+        "canonical": "Saptapadi",
+        "aliases": [
+          "Sapthapadi"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saptapadi is listed as the winner for 1981.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "meghasandesam",
+        "canonical": "Meghasandesam",
+        "aliases": [
+          "Megha Sandesam",
+          "Meghasandhesam"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Meghasandesam is listed as the winner for 1982.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "neti-bharatam",
+        "canonical": "Neti Bharatam",
+        "aliases": [
+          "Neti Bharatham"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neti Bharatam is listed as the winner for 1983.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "swathi",
+        "canonical": "Swathi",
+        "aliases": [
+          "Swati"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Swathi is listed as the winner for 1984.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "pratighatana",
+        "canonical": "Pratighatana",
+        "aliases": [
+          "Pratighatana"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pratighatana is listed as the winner for 1985.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "repati-pourulu",
+        "canonical": "Repati Pourulu",
+        "aliases": [
+          "Repati Paurulu"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Repati Pourulu is listed as the winner for 1986.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "padamati-sandhya-ragam",
+        "canonical": "Padamati Sandhya Ragam",
+        "aliases": [
+          "Padamati Sandhya Raagam"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Padamati Sandhya Ragam is listed as the winner for 1987.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "swarnakamalam",
+        "canonical": "Swarnakamalam",
+        "aliases": [
+          "Swarna Kamalam"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Swarnakamalam is listed as the winner for 1988.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "siva",
+        "canonical": "Siva",
+        "aliases": [
+          "Shiva"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Siva is listed as the winner for 1989.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "karthavyam",
+        "canonical": "Karthavyam",
+        "aliases": [
+          "Kartavyam"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karthavyam is listed as the winner for 1990.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "seetharamaiah-gari-manavaralu",
+        "canonical": "Seetharamaiah Gari Manavaralu",
+        "aliases": [
+          "Sitaramaiah Gari Manavaralu"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seetharamaiah Gari Manavaralu is listed as the winner for 1991.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "gharana-mogudu",
+        "canonical": "Gharana Mogudu",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gharana Mogudu is listed as the winner for 1992.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "mathru-devo-bhava",
+        "canonical": "Mathru Devo Bhava",
+        "aliases": [
+          "Matru Devo Bhava"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mathru Devo Bhava is listed as the winner for 1993.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "aame",
+        "canonical": "Aame",
+        "aliases": [
+          "Aamey"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aame is listed as the winner for 1994.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "subha-sankalpam",
+        "canonical": "Subha Sankalpam",
+        "aliases": [
+          "Shubha Sankalpam"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subha Sankalpam is listed as the winner for 1995.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "ninne-pelladata",
+        "canonical": "Ninne Pelladata",
+        "aliases": [
+          "Ninne Pelladatha"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ninne Pelladata is listed as the winner for 1996.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "annamayya",
+        "canonical": "Annamayya",
+        "aliases": [
+          "Annamaya"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Annamayya is listed as the winner for 1997.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "anthapuram",
+        "canonical": "Anthapuram",
+        "aliases": [
+          "Antahpuram",
+          "Antahpuram"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthapuram is listed as the winner for 1998.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "raja",
+        "canonical": "Raja",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raja is listed as the winner for 1999.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "nuvve-kavali",
+        "canonical": "Nuvve Kavali",
+        "aliases": [
+          "Nuvve Kaavali",
+          "Nuvve Kavali"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvve Kavali is listed as the winner for 2000.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "nuvvu-nenu",
+        "canonical": "Nuvvu Nenu",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvvu Nenu is listed as the winner for 2001.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "santosham",
+        "canonical": "Santosham",
+        "aliases": [
+          "Santhosham"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Santosham is listed as the winner for 2002.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "okkadu",
+        "canonical": "Okkadu",
+        "aliases": [],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Okkadu is listed as the winner for 2003.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "varsham",
+        "canonical": "Varsham",
+        "aliases": [
+          "Varsham"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Varsham is listed as the winner for 2004.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "nuvvostanante-nenoddantana",
+        "canonical": "Nuvvostanante Nenoddantana",
+        "aliases": [
+          "Nuvvostanante Nenoddantana",
+          "Nuvvosthanante Nenoddantana"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvvostanante Nenoddantana is listed as the winner for 2005.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "bommarillu",
+        "canonical": "Bommarillu",
+        "aliases": [],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bommarillu is listed as the winner for 2006.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "happy-days",
+        "canonical": "Happy Days",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Happy Days is listed as the winner for 2007.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "gamyam",
+        "canonical": "Gamyam",
+        "aliases": [
+          "Gamyam"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gamyam is listed as the winner for 2008.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [
+          "Magadheera"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magadheera is listed as the winner for 2009.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "vedam",
+        "canonical": "Vedam",
+        "aliases": [
+          "Vedham"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vedam is listed as the winner for 2010.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "dookudu",
+        "canonical": "Dookudu",
+        "aliases": [
+          "Dukudu"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dookudu is listed as the winner for 2011.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eega is listed as the winner for 2012.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [
+          "Attarintiki Daaredi",
+          "Atharintiki Daredi"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Attarintiki Daredi is listed as the winner for 2013.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "manam",
+        "canonical": "Manam",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manam is listed as the winner for 2014.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baahubali: The Beginning is listed as the winner for 2015.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "pelli-choopulu",
+        "canonical": "Pelli Choopulu",
+        "aliases": [
+          "Pellichoopulu",
+          "Pelli Chupulu"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pelli Choopulu is listed as the winner for 2016.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baahubali 2: The Conclusion is listed as the winner for 2017.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [
+          "Mahanathi"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahanati is listed as the winner for 2018.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pushpa: The Rise is listed as the winner for the combined 2020–2021 period.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "R R R"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "RRR is listed as the winner for 2022, and the superlatives section also identifies its producer as a winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "balagam",
+        "canonical": "Balagam",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Balagam is listed as the winner for 2023.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule"
+        ],
+        "familiarity": 0.0456,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pushpa 2: The Rule is identified as the current award holder for 2024.",
+        "sourceIds": [
+          "filmfare-award-for-best-film-telugu"
+        ]
+      }
+    ],
+    "explanation": "The Filmfare Award for Best Film – Telugu is presented to a film's producers. It was first awarded in 1964 for films released around 1963. The years in the record refer to film releases, rather than award ceremonies.",
+    "sources": [
+      {
+        "id": "filmfare-award-for-best-film-telugu",
+        "title": "Filmfare Award for Best Film – Telugu",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Film_%E2%80%93_Telugu",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "61909a8cb5d98ba6",
+    "brief": "Name a film that has won the Filmfare Award for Best Film – Telugu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "filmfare-award-for-best-film-telugu",
+        "version": "1376318671",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Narthanasala": "1963 | Narthanasala | Lakshmi Rajyam and Sridhar Rao |",
+      "Mooga Manasulu": "1964 | Mooga Manasulu | C. Sundaram |",
+      "Antastulu": "1965 | Antastulu | V. B. Rajendra Prasad |",
+      "Aastiparulu": "1966 | Aastiparulu | V. B. Rajendra Prasad |",
+      "Chadarangam": "1967 | Chadarangam | Badeti Satyanarayana and Putla Venkata Rao (Producers) S. V. Ranga Rao (Director) |",
+      "Sudigundalu": "1968 | Sudigundalu | Adurthi Subba Rao and Akkineni Nageswara Rao |",
+      "Bangaru Panjaram": "1969 | Bangaru Panjaram | B. N. Reddy |",
+      "Dharma Daata": "1970 | Dharma Daata | Tammareddy Krishna Murthy |",
+      "Tahsildar Gari Ammayi": "1971 | Tahsildar Gari Ammayi | N. V. V. Sathya Narayana and A. Surya Narayana |",
+      "Pandanti Kapuram": "1972 | Pandanti Kapuram | G. Hanumantha Rao |",
+      "Jeevana Tharangaalu": "1973 | Jeevana Tharangaalu | D. Ramanaidu |",
+      "O Seeta Katha": "1974 | O Seeta Katha | Sharma |",
+      "Jeevana Jyothi": "1975 | Jeevana Jyothi | D. V. S. Raju |",
+      "Soggadu": "1976 | Soggadu | D. Ramanaidu |",
+      "Adavi Ramudu": "1977 | Adavi Ramudu | N. V. V. Sathya Narayana and A. Surya Narayana |",
+      "Manavoori Pandavulu": "1978 | Manavoori Pandavulu | Jayakrishna |",
+      "Gorintaku": "1979 | Gorintaku | K. Murari |",
+      "Maa Bhoomi": "1980 | Maa Bhoomi | B. Narsing Rao and G. Ravindranath |",
+      "Saptapadi": "1981 | Saptapadi | P. Butchi Reddy |",
+      "Meghasandesam": "1982 | Meghasandesam | Dasari Narayana Rao |",
+      "Neti Bharatam": "1983 | Neti Bharatam | P. Venkateswara Rao |",
+      "Swathi": "1984 | Swathi | Kranthi Kumar |",
+      "Pratighatana": "1985 | Pratighatana | Ramoji Rao and Atluri Rama Rao |",
+      "Repati Pourulu": "1986 | Repati Pourulu | P. Venkateswara Rao |",
+      "Padamati Sandhya Ragam": "1987 | Padamati Sandhya Ragam | G. Subba Rao |",
+      "Swarnakamalam": "1988 | Swarnakamalam | Ch. V. Appa Rao |",
+      "Siva": "1989 | Siva | Akkineni Venkat and Yarlagadda Surendra |",
+      "Karthavyam": "1990 | Karthavyam | A. M. Rathnam |",
+      "Seetharamaiah Gari Manavaralu": "1991 | Seetharamaiah Gari Manavaralu | V. Doraiswamy Raju |",
+      "Gharana Mogudu": "1992 | Gharana Mogudu | K. Devi Varaprasad |",
+      "Mathru Devo Bhava": "1993 | Mathru Devo Bhava | K. S. Rama Rao |",
+      "Aame": "1994 | Aame | Mullapudi Brahmanandam |",
+      "Subha Sankalpam": "1995 | Subha Sankalpam | S. P. Balasubrahmanyam |",
+      "Ninne Pelladata": "1996 | Ninne Pelladata | Nagarjuna |",
+      "Annamayya": "1997 | Annamayya | V. Doraiswamy Raju |",
+      "Anthapuram": "1998 | Anthapuram | P. Kiran |",
+      "Raja": "1999 | Raja | R. B. Choudary |",
+      "Nuvve Kavali": "2000 | Nuvve Kavali | Ramoji Rao |",
+      "Nuvvu Nenu": "2001 | Nuvvu Nenu | P. Kiran |",
+      "Santosham": "2002 | Santosham | K. L. Narayana |",
+      "Okkadu": "2003 | Okkadu | M. S. Raju |",
+      "Varsham": "2004 | Varsham | M. S. Raju |",
+      "Nuvvostanante Nenoddantana": "2005 | Nuvvostanante Nenoddantana | M. S. Raju |",
+      "Bommarillu": "2006 | Bommarillu | Dil Raju |",
+      "Happy Days": "2007 | Happy Days | Sekhar Kammula and Chandra S. Kammula |",
+      "Gamyam": "2008 | Gamyam | Saibabu Jagarlamudi |",
+      "Magadheera": "2009 | Magadheera | Allu Aravind and B. V. S. N. Prasad |",
+      "Vedam": "2010 | Vedam | Shobu Yarlagadda and Prasad Devineni |",
+      "Dookudu": "2011 | Dookudu | Ram Achanta, Gopichand Achanta and Anil Sunkara |",
+      "Eega": "2012 | Eega | Sai Korrapati |",
+      "Attarintiki Daredi": "2013 | Attarintiki Daredi | B. V. S. N. Prasad |",
+      "Manam": "2014 | Manam | Nagarjuna |",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Shobu Yarlagadda and Prasad Devineni |",
+      "Pelli Choopulu": "2016 | Pelli Choopulu | Raj Kandukuri and Yash Rangineni |",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Shobu Yarlagadda and Prasad Devineni |",
+      "Mahanati": "2018 | Mahanati | Swapna Dutt and Priyanka Dutt |",
+      "Pushpa: The Rise": "2020–2021 | Pushpa: The Rise | Naveen Yerneni and Yalamanchili Ravi Shankar |",
+      "RRR": "Oldest winner | D. V. V. Danayya | RRR | 63 | 2024",
+      "Balagam": "2023 | Balagam | Hanshita Reddy and Harshith Reddy |",
+      "Pushpa 2: The Rule": "Currently held by | Pushpa 2: The Rule (2024)"
+    },
+    "issues": []
+  }
+}

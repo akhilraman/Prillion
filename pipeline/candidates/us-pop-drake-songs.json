@@ -1,0 +1,1033 @@
+{
+  "question": {
+    "id": "us-pop-drake-songs",
+    "category": "us-pop",
+    "prompt": "Name a Drake song (including collaborations and songs featuring him).",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "best-i-ever-had",
+        "canonical": "Best I Ever Had",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's breakthrough hit.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "one-dance",
+        "canonical": "One Dance",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a single from Views.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "god-s-plan",
+        "canonical": "God's Plan",
+        "aliases": [
+          "Gods Plan"
+        ],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among Drake's Scorpion singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "nice-for-what",
+        "canonical": "Nice for What",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among Drake's Scorpion singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "in-my-feelings",
+        "canonical": "In My Feelings",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among Drake's Scorpion singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "do-what-you-do",
+        "canonical": "Do What You Do",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document calls this Drake's first recorded song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "replacement-girl",
+        "canonical": "Replacement Girl",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a single from Drake's Comeback Season featuring Trey Songz.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "ransom",
+        "canonical": "Ransom",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake and Lil Wayne recorded this together.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "forever",
+        "canonical": "Forever",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake and Lil Wayne recorded this together.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "brand-new",
+        "canonical": "Brand New",
+        "aliases": [
+          "Brand New Remix",
+          "Brand New (remix)"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake and Lil Wayne recorded a remix of this song together.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "successful",
+        "canonical": "Successful",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a commercially successful single from So Far Gone.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "i-m-goin-in",
+        "canonical": "I'm Goin' In",
+        "aliases": [
+          "Im Goin In",
+          "I'm Going In"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a song added to Drake's So Far Gone EP.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "fear",
+        "canonical": "Fear",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a song added to Drake's So Far Gone EP.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "over",
+        "canonical": "Over",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a lead single released by Drake in 2010.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "find-your-love",
+        "canonical": "Find Your Love",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's second single from Thank Me Later.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "miss-me",
+        "canonical": "Miss Me",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among Drake's Thank Me Later singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "fancy",
+        "canonical": "Fancy",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among Drake's Thank Me Later singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "dreams-money-can-buy",
+        "canonical": "Dreams Money Can Buy",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes this as a promotional single released on Drake's blog.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "marvins-room",
+        "canonical": "Marvins Room",
+        "aliases": [
+          "Marvin's Room"
+        ],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes this as a promotional single released on Drake's blog.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "headlines",
+        "canonical": "Headlines",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as the lead single from Take Care.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "the-motto",
+        "canonical": "The Motto",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly calls this Drake's single.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "take-care",
+        "canonical": "Take Care",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes the music video for this Drake single.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "hyfr",
+        "canonical": "HYFR",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as the final single from Take Care.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "enough-said",
+        "canonical": "Enough Said",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says this song was performed by Aaliyah and Drake.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "hold-on-we-re-going-home",
+        "canonical": "Hold On, We're Going Home",
+        "aliases": [
+          "Hold On We're Going Home",
+          "Hold On Were Going Home"
+        ],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as the second single from Nothing Was the Same.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "back-to-back",
+        "canonical": "Back to Back",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among four singles Drake released in July 2015.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "charged-up",
+        "canonical": "Charged Up",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among four singles Drake released in July 2015.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "hotline-bling",
+        "canonical": "Hotline Bling",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among four singles Drake released in July 2015.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "right-hand",
+        "canonical": "Right Hand",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among four singles Drake released in July 2015.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "summer-sixteen",
+        "canonical": "Summer Sixteen",
+        "aliases": [
+          "Summer 16"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a promotional single released by Drake.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "pop-style",
+        "canonical": "Pop Style",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as one of Drake's Views lead singles.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "child-s-play",
+        "canonical": "Child's Play",
+        "aliases": [
+          "Childs Play"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document discusses the release of this music video during Drake's Views era.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "diplomatic-immunity",
+        "canonical": "Diplomatic Immunity",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a song on Drake's Scary Hours EP.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "look-alive",
+        "canonical": "Look Alive",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly says Drake was featured on this BlocBoy JB single.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "i-m-upset",
+        "canonical": "I'm Upset",
+        "aliases": [
+          "Im Upset"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as the third single from Scorpion.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "sicko-mode",
+        "canonical": "Sicko Mode",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake supplied featured vocals on this Travis Scott song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "mia",
+        "canonical": "Mia",
+        "aliases": [
+          "Mía"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a Bad Bunny collaboration featuring Drake singing in Spanish.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "omert",
+        "canonical": "Omertà",
+        "aliases": [
+          "Omerta"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a song Drake released on The Best in the World Pack.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "money-in-the-grave",
+        "canonical": "Money in the Grave",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a song Drake released on The Best in the World Pack.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "war",
+        "canonical": "War",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly says Drake released this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "toosie-slide",
+        "canonical": "Toosie Slide",
+        "aliases": [],
+        "familiarity": 0.0298,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes Drake releasing this song with a dance-based music video.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "laugh-now-cry-later",
+        "canonical": "Laugh Now Cry Later",
+        "aliases": [
+          "Laugh Now, Cry Later"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this Drake single as featuring Lil Durk.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "what-s-next",
+        "canonical": "What's Next",
+        "aliases": [
+          "Whats Next"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this among the three songs on Drake's Scary Hours 2.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "wants-and-needs",
+        "canonical": "Wants and Needs",
+        "aliases": [
+          "Wants & Needs"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Lil Baby collaboration on Drake's Scary Hours 2.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "lemon-pepper-freestyle",
+        "canonical": "Lemon Pepper Freestyle",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Rick Ross collaboration on Drake's Scary Hours 2.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "way-2-sexy",
+        "canonical": "Way 2 Sexy",
+        "aliases": [
+          "Way Too Sexy"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's ninth number-one single.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "wait-for-u",
+        "canonical": "Wait for U",
+        "aliases": [
+          "Wait for You"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a Future song featuring Drake.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "jimmy-cooks",
+        "canonical": "Jimmy Cooks",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's eleventh US number-one song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "staying-alive",
+        "canonical": "Staying Alive",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document counts this among Drake's top-five Hot 100 songs.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "slime-you-out",
+        "canonical": "Slime You Out",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this SZA collaboration as a Drake lead single.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "8am-in-charlotte",
+        "canonical": "8AM in Charlotte",
+        "aliases": [
+          "8 AM in Charlotte"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a single Drake released from For All the Dogs.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "first-person-shooter",
+        "canonical": "First Person Shooter",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly identifies this as a song by Drake and J. Cole.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "push-ups",
+        "canonical": "Push Ups",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake released this response track during his 2024 feud.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "taylor-made-freestyle",
+        "canonical": "Taylor Made Freestyle",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake released this after Push Ups.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "family-matters",
+        "canonical": "Family Matters",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly says Drake released this response song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "the-heart-part-6",
+        "canonical": "The Heart Part 6",
+        "aliases": [
+          "The Heart Part Six",
+          "Heart Part 6"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly says Drake released this song on May 5.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "what-did-i-miss",
+        "canonical": "What Did I Miss?",
+        "aliases": [
+          "What Did I Miss"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's lead single for Iceman.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "sticky",
+        "canonical": "Sticky",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly calls this Drake's song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "bedrock",
+        "canonical": "BedRock",
+        "aliases": [
+          "Bed Rock"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Drake's appearance on this song as a member of Young Money.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "pound-cake-paris-morton-music-2",
+        "canonical": "Pound Cake / Paris Morton Music 2",
+        "aliases": [
+          "Pound Cake",
+          "Paris Morton Music 2",
+          "Pound Cake Paris Morton Music 2"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document discusses Drake's sampling on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "who-do-you-love",
+        "canonical": "Who Do You Love?",
+        "aliases": [
+          "Who Do You Love"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a song on which Drake collaborated with YG.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "no-guidance",
+        "canonical": "No Guidance",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake and Chris Brown collaborated on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "splash-brothers",
+        "canonical": "Splash Brothers",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's collaboration with French Montana.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "0-to-100-the-catch-up",
+        "canonical": "0 to 100 / The Catch Up",
+        "aliases": [
+          "0 to 100",
+          "The Catch Up",
+          "0 to 100 The Catch Up",
+          "Zero to 100"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes Drake appropriating the instrumental for this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "6-god",
+        "canonical": "6 God",
+        "aliases": [
+          "Six God"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a song Drake used to respond to Tyga.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "6pm-in-new-york",
+        "canonical": "6PM in New York",
+        "aliases": [
+          "6 PM in New York"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a song Drake used to respond to Tyga.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "r-i-c-o",
+        "canonical": "R.I.C.O.",
+        "aliases": [
+          "RICO"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly refers to Drake's verse on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "10-bands",
+        "canonical": "10 Bands",
+        "aliases": [
+          "Ten Bands"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document names this among the songs discussed in the controversy over writing assistance for Drake.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "know-yourself",
+        "canonical": "Know Yourself",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document names this among the songs discussed in the controversy over writing assistance for Drake.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "family-feud",
+        "canonical": "Family Feud",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes Drake ending his rivalry with Meek Mill on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "going-bad",
+        "canonical": "Going Bad",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake and Meek Mill collaborated on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "duppy-freestyle",
+        "canonical": "Duppy Freestyle",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as Drake's diss track responding to Pusha T.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "4pm-in-calabasas",
+        "canonical": "4PM in Calabasas",
+        "aliases": [
+          "4 PM in Calabasas"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a song through which Drake allegedly responded to Joe Budden.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "no-shopping",
+        "canonical": "No Shopping",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly says Drake appeared alongside French Montana on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "two-birds-one-stone",
+        "canonical": "Two Birds, One Stone",
+        "aliases": [
+          "Two Birds One Stone",
+          "2 Birds 1 Stone"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document says Drake dissed Kid Cudi on this song.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "imy2",
+        "canonical": "IMY2",
+        "aliases": [
+          "IMY 2"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies this as a collaboration between Drake and Kid Cudi.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      },
+      {
+        "id": "march-14",
+        "canonical": "March 14",
+        "aliases": [
+          "March Fourteen"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document describes Drake playing this song about his son and co-parent for Kanye West.",
+        "sourceIds": [
+          "drake-musician"
+        ]
+      }
+    ],
+    "explanation": "Drake's catalogue spans rap, R&B and pop, from early mixtape tracks to chart-topping singles. Collaborations, guest appearances and remixes count too.",
+    "sources": [
+      {
+        "id": "drake-musician",
+        "title": "Drake (musician)",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drake_(musician)",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29",
+    "criteria": "A song on which Drake performs as a lead artist, collaborator, featured artist or group member; remixes also count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "aea840d2d2f7c5c9",
+    "brief": "Name a Drake song.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "drake-musician",
+        "version": "1382252922",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Best I Ever Had": "Drake's debut album, Thank Me Later (2010), debuted atop the Billboard 200 and included his breakthrough hit \"Best I Ever Had\".",
+      "One Dance": "Its second single, \"One Dance\", became the first song to surpass 1 billion streams on Spotify.",
+      "God's Plan": "In 2018, Drake released his fifth studio album, Scorpion, spending 29 weeks atop the Billboard Hot 100 with its singles: \"God's Plan\", \"Nice for What\", and \"In My Feelings\".",
+      "Nice for What": "In 2018, Drake released his fifth studio album, Scorpion, spending 29 weeks atop the Billboard Hot 100 with its singles: \"God's Plan\", \"Nice for What\", and \"In My Feelings\".",
+      "In My Feelings": "In 2018, Drake released his fifth studio album, Scorpion, spending 29 weeks atop the Billboard Hot 100 with its singles: \"God's Plan\", \"Nice for What\", and \"In My Feelings\".",
+      "Do What You Do": "Drake's first recorded song, \"Do What You Do\", appeared on The N Soundtrack",
+      "Replacement Girl": "Released from his recently founded October's Very Own label, it spawned the single \"Replacement Girl\" featuring Trey Songz.",
+      "Ransom": "On tour, Drake and Lil Wayne recorded multiple songs together, including \"Ransom\", \"Forever\", and a remix to \"Brand New\".",
+      "Forever": "On tour, Drake and Lil Wayne recorded multiple songs together, including \"Ransom\", \"Forever\", and a remix to \"Brand New\".",
+      "Brand New": "On tour, Drake and Lil Wayne recorded multiple songs together, including \"Ransom\", \"Forever\", and a remix to \"Brand New\".",
+      "Successful": "finding mainstream commercial success from the singles \"Best I Ever Had\" and \"Successful\", both gaining Platinum certification by the Recording Industry Association of America (RIAA)",
+      "I'm Goin' In": "This prompted the mixtape's re-release as an EP, featuring four songs from the original, as well as the additions of the songs \"I'm Goin' In\" and \"Fear\".",
+      "Fear": "This prompted the mixtape's re-release as an EP, featuring four songs from the original, as well as the additions of the songs \"I'm Goin' In\" and \"Fear\".",
+      "Over": "On March 9, 2010, Drake released the lead single \"Over\", which peaked at number fourteen on the Billboard Hot 100, as well as topping the Rap Songs chart.",
+      "Find Your Love": "His second single, \"Find Your Love\", became a bigger success.",
+      "Miss Me": "The third single and fourth singles, \"Miss Me\" and \"Fancy\" respectively, attained moderate commercial success",
+      "Fancy": "The third single and fourth singles, \"Miss Me\" and \"Fancy\" respectively, attained moderate commercial success",
+      "Dreams Money Can Buy": "\"Dreams Money Can Buy\" and \"Marvins Room\" were released on Drake's October's Very Own Blog, on May 20 and June 9, respectively.",
+      "Marvins Room": "\"Dreams Money Can Buy\" and \"Marvins Room\" were released on Drake's October's Very Own Blog, on May 20 and June 9, respectively.",
+      "Headlines": "\"Headlines\" was released on August 9 as the album's lead single.",
+      "The Motto": "The Washington Post editor Maura Judkis credits Drake for popularizing the phrase \"YOLO\" in the United States with his single \"The Motto\"",
+      "Take Care": "The music video for \"Take Care\" met with widespread acclaim, receiving four nominations at the 2012 MTV Video Music Awards, including for Video of the Year.",
+      "HYFR": "\"HYFR\" was the final single to be released from the album, and became certified 2× Multi-Platinum.",
+      "Enough Said": "On August 5, 2012, Drake released \"Enough Said\", performed by Aaliyah and himself.",
+      "Hold On, We're Going Home": "The album's second single, \"Hold On, We're Going Home\", was released in August, peaking at number one on the Billboard Hot R&B/Hip-Hop Songs chart.",
+      "Back to Back": "On July 31, 2015, Drake released four singles: \"Back to Back\", \"Charged Up\", \"Hotline Bling\", and \"Right Hand\".",
+      "Charged Up": "On July 31, 2015, Drake released four singles: \"Back to Back\", \"Charged Up\", \"Hotline Bling\", and \"Right Hand\".",
+      "Hotline Bling": "On July 31, 2015, Drake released four singles: \"Back to Back\", \"Charged Up\", \"Hotline Bling\", and \"Right Hand\".",
+      "Right Hand": "On July 31, 2015, Drake released four singles: \"Back to Back\", \"Charged Up\", \"Hotline Bling\", and \"Right Hand\".",
+      "Summer Sixteen": "Drake announced in January 2016 that his fourth studio album would be launched during the spring, releasing the promotional single \"Summer Sixteen\" later that month.",
+      "Pop Style": "Drake soon released the album's lead singles, \"Pop Style\" and the dancehall-infused \"One Dance\", on April 5.",
+      "Child's Play": "Soon after, the music video for \"Child's Play\" was released.",
+      "Diplomatic Immunity": "Scary Hours featured the songs \"Diplomatic Immunity\" and \"God's Plan\", with the latter debuting at number one on the US Billboard Hot 100.",
+      "Look Alive": "He was later featured on BlocBoy JB's February 2018 debut single \"Look Alive\".",
+      "I'm Upset": "\"I'm Upset\" was released on May 26 as the album's third single.",
+      "Sicko Mode": "He then appeared on the Travis Scott album Astroworld, featuring vocals for the song \"Sicko Mode\", which peaked at number one on the Billboard Hot 100.",
+      "Mia": "This preceded a collaboration with Bad Bunny titled \"Mia\", which featured Drake performing in Spanish.",
+      "Omertà": "On June 15, Drake released two songs, \"Omertà\" and \"Money in the Grave\", on his EP The Best in the World Pack to celebrate the NBA Championship win of the Toronto Raptors.",
+      "Money in the Grave": "On June 15, Drake released two songs, \"Omertà\" and \"Money in the Grave\", on his EP The Best in the World Pack to celebrate the NBA Championship win of the Toronto Raptors.",
+      "War": "Drake released the song \"War\" on December 24, 2019, which was widely noted for its UK drill-inspired instrumental.",
+      "Toosie Slide": "On April 3, he released \"Toosie Slide\" with a music video, which features a dance created in collaboration with social media influencer Toosie.",
+      "Laugh Now Cry Later": "On August 14, \"Laugh Now Cry Later\" featuring Lil Durk was released, which was intended as the lead single from the upcoming album Certified Lover Boy, but not included on the final track listing.",
+      "What's Next": "On March 5, Drake released an EP titled Scary Hours 2, which includes three songs: \"What's Next\", \"Wants and Needs\" with Lil Baby, and \"Lemon Pepper Freestyle\" with Rick Ross.",
+      "Wants and Needs": "On March 5, Drake released an EP titled Scary Hours 2, which includes three songs: \"What's Next\", \"Wants and Needs\" with Lil Baby, and \"Lemon Pepper Freestyle\" with Rick Ross.",
+      "Lemon Pepper Freestyle": "On March 5, Drake released an EP titled Scary Hours 2, which includes three songs: \"What's Next\", \"Wants and Needs\" with Lil Baby, and \"Lemon Pepper Freestyle\" with Rick Ross.",
+      "Way 2 Sexy": "with \"Way 2 Sexy\" becoming Drake's ninth number-one single.",
+      "Wait for U": "one of the songs he featured on, \"Wait for U\", debuted atop the Billboard Hot 100, becoming Drake's tenth number-one song",
+      "Jimmy Cooks": "\"Jimmy Cooks\" also became Drake's eleventh US number-one song.",
+      "Staying Alive": "After the debut of \"Staying Alive\" on the US Billboard Hot 100, it marked the 30th Drake song to reach the top five on the chart",
+      "Slime You Out": "On September 15, Drake released the lead single of the album, \"Slime You Out\", featuring SZA.",
+      "8AM in Charlotte": "On October 5, Drake released the album's second single, \"8AM in Charlotte\", on his social media accounts.",
+      "First Person Shooter": "Drake and J. Cole's 2023 song \"First Person Shooter\" alleged to be a sneak diss.",
+      "Push Ups": "On April 19, Drake released \"Push Ups\" after early versions were leaked online as a response track while also addressing Future and Rick Ross, followed up with \"Taylor Made Freestyle\" later that day.",
+      "Taylor Made Freestyle": "On April 19, Drake released \"Push Ups\" after early versions were leaked online as a response track while also addressing Future and Rick Ross, followed up with \"Taylor Made Freestyle\" later that day.",
+      "Family Matters": "That same day, Drake released \"Family Matters\" exclusively on YouTube in response.",
+      "The Heart Part 6": "On May 5, Drake released \"The Heart Part 6\", a reference to Lamar's \"The Heart\" song series.",
+      "What Did I Miss?": "On July 5, 2025, Drake released the single \"What Did I Miss?\" as the lead single of his upcoming ninth studio album, Iceman.",
+      "Sticky": "wearing gorpcore in the music video for his song \"Sticky\".",
+      "BedRock": "including his appearance as a member of Young Money on \"BedRock\"",
+      "Pound Cake / Paris Morton Music 2": "The suit was filed by Smith's estate, who said Drake never asked for permission when sampling it for the intro on \"Pound Cake / Paris Morton Music 2\"",
+      "Who Do You Love?": "claiming Drake misused his lyrics when collaborating with YG on the song \"Who Do You Love?\".",
+      "No Guidance": "The pair later collaborated on the Diamond certified \"No Guidance\" in 2019.",
+      "Splash Brothers": "he reportedly delayed the release of \"Splash Brothers\", a collaboration with French Montana, as a result.",
+      "0 to 100 / The Catch Up": "The altercation was reported to be over Drake's usage of the instrumental for \"0 to 100 / The Catch Up\", allegedly produced by Boi-1da for Combs, before Drake appropriated it for himself.",
+      "6 God": "Drake would later respond on \"6 God\" and \"6PM in New York\", which has been interpreted as directly involved in Tyga's abrupt removal from Young Money Entertainment.",
+      "6PM in New York": "Drake would later respond on \"6 God\" and \"6PM in New York\", which has been interpreted as directly involved in Tyga's abrupt removal from Young Money Entertainment.",
+      "R.I.C.O.": "Controversy arose in July 2015 when Meek Mill alleged that Drake had used ghostwriters for his verse on \"R.I.C.O.\".",
+      "10 Bands": "Funkmaster Flex aired reference tracks by Miller, who was revealed to have helped write \"R.I.C.O.\", \"10 Bands\", and \"Know Yourself\".",
+      "Know Yourself": "Funkmaster Flex aired reference tracks by Miller, who was revealed to have helped write \"R.I.C.O.\", \"10 Bands\", and \"Know Yourself\".",
+      "Family Feud": "Drake stated \"Free Meek Mill\" at a concert in Australia, and ended their rivalry on \"Family Feud\" in 2018",
+      "Going Bad": "the pair later collaborated on \"Going Bad\" in 2019.",
+      "Duppy Freestyle": "Pusha T would use the same rationale to diss Drake on \"Infrared\" in 2018, leading Drake to respond with the \"Duppy Freestyle\" diss track on May 25.",
+      "4PM in Calabasas": "Drake would allegedly respond to Budden through \"4PM in Calabasas\", prompting Budden to respond with two diss tracks in the space of five days",
+      "No Shopping": "Drake would later appear on \"No Shopping\" alongside French Montana, directly referencing Budden throughout the song",
+      "Two Birds, One Stone": "In the same year, Drake dissed Kid Cudi on \"Two Birds, One Stone\" after Cudi launched an expletive-filled rant on the artist on Twitter.",
+      "IMY2": "the pair eventually resolved their feud, and collaborated on \"IMY2\" in 2021.",
+      "March 14": "they explored Drake's after he played West \"March 14\", which addressed Drake's relationship with his newborn son and co-parent."
+    },
+    "issues": []
+  }
+}

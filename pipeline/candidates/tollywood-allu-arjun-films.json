@@ -1,0 +1,406 @@
+{
+  "question": {
+    "id": "tollywood-allu-arjun-films",
+    "category": "tollywood",
+    "prompt": "Name a released film featuring Allu Arjun, including child roles, cameos and short films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "vijetha",
+        "canonical": "Vijetha",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun appeared as Saratha's son in Vijetha as a child artist.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "swathi-muthyam",
+        "canonical": "Swathi Muthyam",
+        "aliases": [
+          "Swati Muthyam"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun appeared as Sivayya's grandson in Swathi Muthyam as a child artist.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "daddy",
+        "canonical": "Daddy",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played the minor role of Gopi Krishna in Daddy.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "gangotri",
+        "canonical": "Gangotri",
+        "aliases": [],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun made his lead-actor debut as Simhadri in Gangotri.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "arya",
+        "canonical": "Arya",
+        "aliases": [
+          "Aarya"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played the title character in Arya.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "bunny",
+        "canonical": "Bunny",
+        "aliases": [],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Raja, known as Bunny, in Bunny.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "happy",
+        "canonical": "Happy",
+        "aliases": [],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Bunny in Happy.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "desamuduru",
+        "canonical": "Desamuduru",
+        "aliases": [
+          "Desamudhuru"
+        ],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Bala Govind in Desamuduru.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "shankar-dada-zindabad",
+        "canonical": "Shankar Dada Zindabad",
+        "aliases": [
+          "Shankardada Zindabad"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun made a guest appearance as himself in a song in Shankar Dada Zindabad.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "parugu",
+        "canonical": "Parugu",
+        "aliases": [],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Krishna in Parugu.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "arya-2",
+        "canonical": "Arya 2",
+        "aliases": [
+          "Aarya 2",
+          "Arya II"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Arya in Arya 2.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "varudu",
+        "canonical": "Varudu",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Sandeep Mohan Ram in Varudu.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "vedam",
+        "canonical": "Vedam",
+        "aliases": [],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Anand, known as Cable Raju, in Vedam.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "badrinath",
+        "canonical": "Badrinath",
+        "aliases": [
+          "Badh（rinath"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played the title character in Badrinath.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "julayi",
+        "canonical": "Julayi",
+        "aliases": [
+          "Julai"
+        ],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Ravindra Narayan in Julayi.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "iddarammayilatho",
+        "canonical": "Iddarammayilatho",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Sanjay Reddy in Iddarammayilatho.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "i-am-that-change",
+        "canonical": "I Am That Change",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun appeared as himself in the short film I Am That Change, which he also produced.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun appeared as Satya in a cameo in Yevadu.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "race-gurram",
+        "canonical": "Race Gurram",
+        "aliases": [
+          "Racegurram"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Lakshman, known as Lucky, in Race Gurram.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "s-o-satyamurthy",
+        "canonical": "S/O Satyamurthy",
+        "aliases": [
+          "Son of Satyamurthy",
+          "S/O Sathyamurthy",
+          "Son of Sathyamurthy"
+        ],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Viraj Anand in S/O Satyamurthy.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "rudhramadevi",
+        "canonical": "Rudhramadevi",
+        "aliases": [
+          "Rudramadevi",
+          "Rudrama Devi"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played the supporting role of Gona Ganna Reddy in Rudhramadevi.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "sarrainodu",
+        "canonical": "Sarrainodu",
+        "aliases": [
+          "Sarainodu"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Gana in Sarrainodu.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "dj-duvvada-jagannadham",
+        "canonical": "DJ: Duvvada Jagannadham",
+        "aliases": [
+          "DJ",
+          "Duvvada Jagannadham",
+          "Duvvada Jagannatham"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Duvvada Jagannadham Sasthri in DJ: Duvvada Jagannadham.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "naa-peru-surya",
+        "canonical": "Naa Peru Surya",
+        "aliases": [
+          "Na Peru Surya"
+        ],
+        "familiarity": 0.0322,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Surya in Naa Peru Surya.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikunthapurramulo",
+          "Ala Vaikuntapuramlo",
+          "AVPL"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Bantu in Ala Vaikunthapurramuloo.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun played Pushpa Raj in Pushpa: The Rise.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule",
+          "Pushpa II"
+        ],
+        "familiarity": 0.0804,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun reprised the role of Pushpa Raj in Pushpa 2: The Rule.",
+        "sourceIds": [
+          "allu-arjun"
+        ]
+      }
+    ],
+    "explanation": "These films appear in Allu Arjun's filmography, from his childhood appearances to Pushpa 2: The Rule (2024). Supporting roles, guest appearances and short films count; unreleased projects do not.",
+    "sources": [
+      {
+        "id": "allu-arjun",
+        "title": "Allu Arjun",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Allu_Arjun",
+        "retrievedOn": "2026-10-29"
+      }
+    ],
+    "approvedOn": "2026-10-29"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "a4e1291678087e3b",
+    "brief": "Name a movie starring Allu Arjun.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "allu-arjun",
+        "version": "1381438797",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Vijetha": "1985 | Vijetha | Saratha's son | Child artist |",
+      "Swathi Muthyam": "1986 | Swathi Muthyam | Sivayya's grandson | Child artist |",
+      "Daddy": "2001 | Daddy | Gopi Krishna | Debut in a minor role |",
+      "Gangotri": "2003 | Gangotri | Simhadri | Debut as lead actor |",
+      "Arya": "2004 | Arya | Arya | |",
+      "Bunny": "2005 | Bunny | Raja \"Bunny\" | |",
+      "Happy": "2006 | Happy | Bunny | |",
+      "Desamuduru": "2007 | Desamuduru | Bala Govind | |",
+      "Shankar Dada Zindabad": "2007 | Shankar Dada Zindabad | Himself | Guest appearance in the song \"Jagadeka Veerudiki\" |",
+      "Parugu": "2008 | Parugu | Krishna | |",
+      "Arya 2": "2009 | Arya 2 | Arya | |",
+      "Varudu": "2010 | Varudu | Sandeep \"Sandy\" Mohan Ram | |",
+      "Vedam": "2010 | Vedam | Anand \"Cable Raju\" Raj | Also choreographed the song \"E Prapancham\" |",
+      "Badrinath": "2011 | Badrinath | Badrinath | |",
+      "Julayi": "2012 | Julayi | Ravindra \"Ravi\" Narayan | |",
+      "Iddarammayilatho": "2013 | Iddarammayilatho | Sanjay \"Sanju\" Reddy | |",
+      "I Am That Change": "2014 | I Am That Change | Himself | Short film; Also producer |",
+      "Yevadu": "2014 | Yevadu | Satya (pre-operation) | Cameo |",
+      "Race Gurram": "2014 | Race Gurram | Lakshman \"Lucky\" | |",
+      "S/O Satyamurthy": "2015 | S/O Satyamurthy | Viraj Anand | |",
+      "Rudhramadevi": "2015 | Rudhramadevi | Gona Ganna Reddy | Supporting role |",
+      "Sarrainodu": "2016 | Sarrainodu | Gana | |",
+      "DJ: Duvvada Jagannadham": "2017 | DJ: Duvvada Jagannadham | Duvvada Jagannadham Sasthri \"DJ\" | |",
+      "Naa Peru Surya": "2018 | Naa Peru Surya | Surya | |",
+      "Ala Vaikunthapurramuloo": "2020 | Ala Vaikunthapurramuloo | Bantu | |",
+      "Pushpa: The Rise": "2021 | Pushpa: The Rise | Pushpa Raj | |",
+      "Pushpa 2: The Rule": "2024 | Pushpa 2: The Rule | Pushpa Raj | |"
+    },
+    "issues": []
+  }
+}
