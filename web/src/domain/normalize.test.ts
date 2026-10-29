@@ -17,6 +17,12 @@ describe('normalizeAnswer', () => {
     expect(normalizeAnswer('O\u2019Shea Jackson')).toBe('oshea jackson');
   });
 
+  it('ignores invisible layout characters instead of turning them into spaces', () => {
+    expect(normalizeAnswer('Philo\u00adphrosyne')).toBe('philophrosyne');
+    expect(normalizeAnswer('Ti\u200btan\ufeff')).toBe('titan');
+    expect(normalizeAnswer('Philo\u00adphrosyne')).toBe(normalizeAnswer('Philophrosyne'));
+  });
+
   it('strips accents', () => {
     expect(normalizeAnswer('Beyoncé')).toBe('beyonce');
   });

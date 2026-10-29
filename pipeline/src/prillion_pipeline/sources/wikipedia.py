@@ -146,11 +146,17 @@ def _span(value: str | None) -> int:
         return 1
 
 
+# Invisible layout hints that Wikipedia sprinkles into long names (soft hyphen: "Philo\u00adphrosyne").
+# They are never part of the real spelling. NOT stripped: U+200C/U+200D (joiners), which Telugu
+# and other Indic scripts need.
+_INVISIBLE = dict.fromkeys(map(ord, "\u00ad\u200b\u2060\ufeff"))
+
+
 def html_to_text(html: str) -> str:
     extractor = _TextExtractor()
     extractor.feed(html)
     extractor.close()
-    return extractor.text()
+    return extractor.text().translate(_INVISIBLE)
 
 
 class WikipediaSource:
