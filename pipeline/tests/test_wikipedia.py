@@ -237,3 +237,11 @@ def test_url_encodes_special_characters() -> None:
     doc = fetch(api_payload(title="Baahubali: The Beginning"))
     assert doc.url == "https://en.wikipedia.org/wiki/Baahubali:_The_Beginning"
     assert slugify(doc.title) == "baahubali-the-beginning"
+
+
+def test_invisible_layout_characters_are_removed_but_indic_joiners_are_kept() -> None:
+    text = html_to_text("<p>Philo\u00adphrosyne and Ti\u200btan\ufeff</p><p>\u0c15\u200d\u0c37</p>")
+
+    assert "Philophrosyne" in text and "Titan" in text
+    assert "\u00ad" not in text and "\u200b" not in text and "\ufeff" not in text
+    assert "\u200d" in text  # zero-width joiner is part of real Telugu spellings

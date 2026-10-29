@@ -10,7 +10,7 @@
       "id": "space-jupiter-moons",
       "category": "space",
       "pages": ["Moons of Jupiter"],
-      "brief": "Name a moon of Jupiter."
+      "brief": "Name an officially named moon of Jupiter. Only moons with an IAU-approved proper name count; leave out unnamed moons that have only a provisional designation such as S/2011 J 4."
     },
     {
       "id": "us-pop-nba-mvps-gen",

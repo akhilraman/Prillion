@@ -18,6 +18,10 @@ export function normalizeAnswer(input: string): string {
       .normalize('NFKD')
       // Drop combining marks (accents).
       .replace(/\p{M}/gu, '')
+      // Invisible layout characters (soft hyphen, zero-width space, word joiner, BOM) come along
+      // when text is pasted from the web. They are not part of any spelling, and without this
+      // they would turn into a space: "Philo\u00adphrosyne" must equal "Philophrosyne".
+      .replace(/[\u00ad\u200b\u2060\ufeff]/g, '')
       .toLowerCase()
       // "Dolce & Gabbana" and "Dolce and Gabbana" should match.
       .replace(/&/g, ' and ')
