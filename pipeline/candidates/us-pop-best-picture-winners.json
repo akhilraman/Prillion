@@ -2,7 +2,7 @@
   "question": {
     "id": "us-pop-best-picture-winners",
     "category": "us-pop",
-    "prompt": "Name a film that won the Academy Award for Best Picture at one of the first 98 ceremonies.",
+    "prompt": "Name a film that has won the Academy Award for Best Picture.",
     "answerSet": "closed",
     "answers": [
       {
