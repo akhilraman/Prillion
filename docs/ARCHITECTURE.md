@@ -18,6 +18,18 @@ seed-bank.json ──validate──▶ QuestionBank ──selectQuestions(histor
                  state machine
 ```
 
+## Layers (dependencies point downward only)
+
+```
+ui/            React components. Render state, forward events. No logic, no time, no storage.
+game/          useRound (reducer + clock + randomness + history side effect), deadlineTimer.
+storage/       localStorage play history, validated on read, failure-tolerant.
+content/       loadBank: validate untrusted JSON, return a result (never throws).
+domain/        Pure rules. Imports nothing from the layers above.
+```
+
+The round's `phase` **is** the screen (`idle` = home, `answering`/`revealed` = round, `finished` = results), so there is no router and no second source of truth to drift out of sync.
+
 ## Modules (`web/src/domain/`)
 
 | File | Responsibility |
@@ -48,6 +60,12 @@ The deadline is an absolute timestamp stored in state. The UI countdown is deriv
 ### Selection
 Freshness beats category balance: never-played questions are exhausted (balanced across categories) before any replay; replays go least-recently-played first.
 
+### Timer (UI)
+`Timer` owns its own tick state so only it re-renders ~5x/second; the question panel and the answer input never re-render because of the countdown. It uses `performance.now()` (monotonic: unaffected by the user changing the system clock) and re-checks on `visibilitychange`/`focus`. The reducer, not the UI, decides whether a submit beat the deadline.
+
+### Known content-quality finding
+With only 2-4 valid answers, most priors land in the same tier (e.g. every Eega star is "Common"), so rarity scoring adds little. Rarity needs **large answer sets**. The content pipeline's quality gate should require tier spread, and "open" questions with many valid answers should be prioritised.
+
 ## Prototype vs production (current gaps)
 
 | Area | Prototype now | Production would |
@@ -55,14 +73,14 @@ Freshness beats category balance: never-played questions are exhausted (balanced
 | Content storage | Static JSON in the bundle | PostgreSQL (Supabase) with a review workflow |
 | Scoring/validation | Client-side | Server-authoritative (required before multiplayer/leaderboards) |
 | Answers in the bundle | Shipped to the client | Withheld; checked via an API |
-| Play history | (M2) localStorage | Per-user rows |
+| Play history | localStorage (per browser, forgeable) | Per-user rows |
 | Rarity data | Curated priors | Aggregated answer-frequency statistics |
 | Schema validation | Hand-written | Shared JSON Schema for TS + Python |
 
 ## Roadmap
 
 1. **M1 (done):** Domain engine, seed bank, tests.
-2. **M2:** Playable solo UI: category select, 15-question round, countdown HUD, reveal, results, play history.
+2. **M2 (done):** Playable solo UI: category select, round, countdown HUD, reveal, results, play history.
 3. **M3:** CI (GitHub Actions) + deployment (Vercel).
 4. **M4:** Python content pipeline with review queue.
 5. **M5:** Supabase backend, server-authoritative scoring, leaderboards.

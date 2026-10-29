@@ -2,14 +2,17 @@
 
 An original underwater, pixel-art trivia game. Players answer **open-ended questions in free text**; every valid answer is accepted, and rarer answers earn more points.
 
-> Status: **Milestone 1 complete** (domain engine + seed content, no UI yet). See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+> Status: **Milestone 2 complete**: a playable solo game (plain styling; pixel-art theme comes later). See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ## Repository layout
 
 ```
 web/                    React + TypeScript + Vite frontend
   src/domain/           Pure game logic (no React, no browser APIs) + tests
-  src/content/          Question bank (JSON) consumed by the game
+  src/game/             React glue: round hook, deadline timer
+  src/storage/          localStorage play history
+  src/content/          Question bank (JSON) + validated loader
+  src/ui/               Screens and components
 docs/ARCHITECTURE.md    Design, data flow, trade-offs, roadmap
 .env.example            Environment variables (none required yet)
 ```
@@ -32,7 +35,8 @@ A `pipeline/` (Python) directory will be added in the content-engine milestone.
 | `npm run lint`         | oxlint                                              |
 | `npm run format`       | Format with Prettier                                |
 | `npm run check`        | Typecheck + lint + format check + tests (CI-style)  |
-| `npm run dev`          | Dev server (still the Vite starter page in M1)      |
+| `npm run dev`          | Dev server at http://localhost:5173                 |
+| `npm run build`        | Typecheck + production build into `web/dist`        |
 
 ## Content rules
 

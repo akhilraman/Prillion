@@ -9,5 +9,6 @@ export default defineConfig({
     // Switch individual UI test files to jsdom with a `// @vitest-environment jsdom` comment.
     environment: 'node',
     include: ['src/**/*.test.ts', 'src/**/*.test.tsx'],
+    setupFiles: ['src/test/setup.ts'],
   },
 });

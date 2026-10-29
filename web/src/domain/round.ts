@@ -68,7 +68,9 @@ export type RoundAction =
   | { type: 'START'; questions: readonly Question[]; nowMs: number; secondsPerQuestion?: number }
   | { type: 'SUBMIT'; text: string; nowMs: number }
   | { type: 'TIMEOUT'; nowMs: number }
-  | { type: 'NEXT'; nowMs: number };
+  | { type: 'NEXT'; nowMs: number }
+  /** Abandon the round (or leave the results screen) and return to idle. */
+  | { type: 'RESET' };
 
 /** Looks up gameplay statistics for an answer; undefined = no data. */
 export type ObservationLookup = (questionId: string, answerId: string) => AnswerObservation | undefined;
@@ -117,6 +119,9 @@ export function roundReducer(
       if (action.nowMs < state.deadlineMs) return state;
       return reveal(state, timeoutResult(state.questions[state.index]!, ''));
     }
+
+    case 'RESET':
+      return initialRoundState;
 
     case 'NEXT': {
       if (state.phase !== 'revealed') return state;

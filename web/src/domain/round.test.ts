@@ -223,6 +223,21 @@ describe('illegal transitions are ignored', () => {
   });
 });
 
+describe('RESET', () => {
+  it('returns to idle from any phase', () => {
+    const answering = run([start()]);
+    const revealed = run([start(), { type: 'TIMEOUT', nowMs: T0 + 99 * SECOND }]);
+    const finished = run([
+      start([q1]),
+      { type: 'TIMEOUT', nowMs: T0 + 99 * SECOND },
+      { type: 'NEXT', nowMs: T0 },
+    ]);
+    for (const s of [initialRoundState, answering, revealed, finished]) {
+      expect(roundReducer(s, { type: 'RESET' })).toEqual(initialRoundState);
+    }
+  });
+});
+
 describe('selectors', () => {
   it('currentQuestion follows the index', () => {
     expect(currentQuestion(run([start()]))?.id).toBe('q1');

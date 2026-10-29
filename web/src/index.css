@@ -1,109 +1,515 @@
+/*
+ * Global styles. Deliberately plain and readable for Milestone 2: an ocean-blue
+ * palette whose background darkens with depth. Pixel art, parallax and particles
+ * come after the game loop is proven fun.
+ *
+ * Responsive approach: mobile-first single column; one breakpoint widens the layout.
+ */
+
 :root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow: rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+  --surface-top: #1d6fa5;
+  --abyss: #050f24;
+  --panel: rgb(5 15 36 / 0.82);
+  --panel-border: #3b7fb0;
+  --text: #eaf6ff;
+  --text-muted: #a9c7dc;
+  --accent: #ffd166;
+  --accent-text: #1b1300;
+  --danger: #ff8b8b;
+  --success: #7ff0b0;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+  --tier-common: #8fa9bd;
+  --tier-uncommon: #5fd68a;
+  --tier-rare: #b98cff;
+  --tier-legendary: #ffd166;
 
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
+  --radius: 12px;
+  --max-width: 40rem;
+
+  font-family:
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
   color: var(--text);
-  background: var(--bg);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
+  color-scheme: dark;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #9ca3af;
-    --text-h: #f3f4f6;
-    --bg: #16171d;
-    --border: #2e303a;
-    --code-bg: #1f2028;
-    --accent: #c084fc;
-    --accent-bg: rgba(192, 132, 252, 0.15);
-    --accent-border: rgba(192, 132, 252, 0.5);
-    --social-bg: rgba(47, 48, 58, 0.5);
-    --shadow: rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
-  }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
-}
-
-#root {
-  width: 1126px;
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
+*,
+*::before,
+*::after {
   box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
 }
 
 body {
   margin: 0;
+  background: var(--abyss);
 }
 
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
+/* ---- Layout ---------------------------------------------------------- */
+
+.screen {
+  min-height: 100dvh;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: var(--max-width);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
 
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
-  }
+.screen--round {
+  /* --depth is set inline (0 = surface, 1 = deepest). color-mix blends the two ends. */
+  max-width: none;
+  align-items: center;
+  background: color-mix(in oklab, var(--surface-top), var(--abyss) calc(var(--depth, 0) * 100%));
+  transition: background-color 0.6s ease;
 }
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
+.screen--round > * {
+  width: 100%;
+  max-width: var(--max-width);
 }
-p {
+
+.screen--home,
+.screen--results,
+.screen--error {
+  background: linear-gradient(180deg, var(--surface-top), var(--abyss) 70%);
+  max-width: none;
+  align-items: center;
+}
+.screen--home > *,
+.screen--results > *,
+.screen--error > * {
+  width: 100%;
+  max-width: var(--max-width);
+}
+
+.title {
+  font-size: 2.6rem;
+  line-height: 1.1;
+  margin: 1.5rem 0 0;
+  letter-spacing: 0.04em;
+}
+.title--small {
+  font-size: 1.8rem;
+}
+.title:focus {
+  outline: none;
+}
+.tagline {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.rules,
+.notice {
+  margin: 0;
+  color: var(--text-muted);
+}
+.notice {
+  padding: 0.5rem 0.75rem;
+  border: 1px dashed var(--panel-border);
+  border-radius: var(--radius);
+}
+.section-title {
+  font-size: 1.1rem;
+  margin: 0.5rem 0 0;
+}
+
+/* ---- Buttons --------------------------------------------------------- */
+
+.button {
+  font: inherit;
+  font-weight: 700;
+  min-height: 48px; /* comfortable touch target */
+  padding: 0.5rem 1.25rem;
+  border-radius: var(--radius);
+  border: 2px solid transparent;
+  cursor: pointer;
+}
+.button--primary {
+  background: var(--accent);
+  color: var(--accent-text);
+}
+.button--primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.button--ghost {
+  background: transparent;
+  color: var(--text-muted);
+  border-color: var(--panel-border);
+}
+.quit {
+  align-self: center;
+  width: auto;
+}
+
+/* Strong, always-visible keyboard focus. */
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---- Home ------------------------------------------------------------ */
+
+.category-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+.category-card {
+  width: 100%;
+  font: inherit;
+  text-align: left;
+  color: var(--text);
+  background: var(--panel);
+  border: 2px solid var(--panel-border);
+  border-radius: var(--radius);
+  padding: 0.9rem 1rem;
+  min-height: 64px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.category-card:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+.category-card:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.category-card__name {
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+.category-card__meta {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* ---- HUD ------------------------------------------------------------- */
+
+.hud {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  background: var(--panel);
+  border: 2px solid var(--panel-border);
+  border-radius: var(--radius);
+  padding: 0.5rem 0.75rem;
+}
+.hud__item {
+  display: flex;
+  flex-direction: column;
+}
+.hud__label,
+.timer__label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+.hud__value,
+.timer__value {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.timer {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: 'label value' 'track track';
+  column-gap: 0.5rem;
+}
+.timer__label {
+  grid-area: label;
+}
+.timer__value {
+  grid-area: value;
+  text-align: right;
+}
+.timer__track {
+  grid-area: track;
+  height: 8px;
+  border-radius: 4px;
+  background: rgb(255 255 255 / 0.15);
+  overflow: hidden;
+}
+.timer__bar {
+  display: block;
+  height: 100%;
+  background: var(--success);
+  transform-origin: left center;
+}
+.timer--low .timer__bar {
+  background: var(--danger);
+}
+.timer--low .timer__value {
+  color: var(--danger);
+}
+.timer--idle {
+  min-height: 2.2rem;
+}
+
+/* ---- Question + answer ----------------------------------------------- */
+
+.question-card {
+  background: var(--panel);
+  border: 2px solid var(--panel-border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.question-card__category {
+  margin: 0;
+  color: var(--accent);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.question-card__prompt {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.3;
+}
+
+.answer-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.answer-form__label {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+.answer-form__row {
+  display: flex;
+  gap: 0.5rem;
+}
+.answer-form__input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: 1.1rem; /* >= 16px prevents iOS Safari from zooming on focus */
+  padding: 0.6rem 0.75rem;
+  min-height: 48px;
+  color: var(--text);
+  background: rgb(255 255 255 / 0.08);
+  border: 2px solid var(--panel-border);
+  border-radius: var(--radius);
+}
+
+/* ---- Reveal ---------------------------------------------------------- */
+
+.reveal {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  animation: fade-in 0.25s ease-out;
+}
+.reveal__headline {
+  margin: 0;
+  font-size: 1.3rem;
+}
+.reveal--correct .reveal__headline {
+  color: var(--success);
+}
+.reveal--incorrect .reveal__headline,
+.reveal--timeout .reveal__headline {
+  color: var(--danger);
+}
+.reveal__yours,
+.reveal__note,
+.reveal__explanation,
+.reveal__sources {
   margin: 0;
 }
-
-code,
-.counter {
-  font-family: var(--mono);
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
+.reveal__note,
+.reveal__sources {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+.reveal__subhead {
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+.reveal a {
+  color: var(--accent);
 }
 
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
+.answer-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.answer-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+.answer-list__item--yours {
+  border-color: var(--success);
+  background: rgb(127 240 176 / 0.12);
+}
+
+/* Tier is always shown as TEXT as well as colour, so it does not rely on colour vision. */
+.badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  border: 2px solid currentColor;
+  white-space: nowrap;
+}
+.badge--common {
+  color: var(--tier-common);
+}
+.badge--uncommon {
+  color: var(--tier-uncommon);
+}
+.badge--rare {
+  color: var(--tier-rare);
+}
+.badge--legendary {
+  color: var(--tier-legendary);
+}
+
+/* ---- Results --------------------------------------------------------- */
+
+.results__score {
+  margin: 0;
+  font-size: 1.2rem;
+}
+.results__points {
+  font-size: 3rem;
+  font-weight: 800;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.results__summary {
+  margin: 0;
+  color: var(--text-muted);
+}
+.tier-summary {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+.tier-summary__item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.tier-summary__count {
+  font-weight: 700;
+}
+.review-list {
+  margin: 0;
+  padding-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.review-list__prompt,
+.review-list__answer {
+  margin: 0;
+}
+.review-list__prompt {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+.review-list__item--correct .review-list__answer {
+  color: var(--success);
+}
+.review-list__item--incorrect .review-list__answer,
+.review-list__item--timeout .review-list__answer {
+  color: var(--danger);
+}
+.review-list__points {
+  font-weight: 700;
+}
+
+/* ---- Utilities ------------------------------------------------------- */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---- Larger screens -------------------------------------------------- */
+
+@media (min-width: 640px) {
+  .screen {
+    padding: 2rem;
+  }
+  .category-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .hud {
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+  }
+  .timer {
+    grid-column: auto;
+  }
+  .question-card {
+    padding: 1.5rem;
+  }
+  .question-card__prompt {
+    font-size: 1.7rem;
+  }
+}
+
+/* Respect the OS "reduce motion" setting: no animation, instant colour changes. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
 }
