@@ -44,3 +44,31 @@ jobs:
       # Proves the production bundle builds, which is what Vercel will run.
       - name: Build
         run: npm run build
+
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: pipeline
+    steps:
+      - uses: actions/checkout@v4
+
+      # Installs uv; uv then fetches the Python version pinned in pipeline/.python-version.
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+          cache-dependency-glob: pipeline/uv.lock
+
+      # `--locked` fails if uv.lock is out of date, like `npm ci` does for package-lock.json.
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Lint
+        run: uv run ruff check .
+
+      - name: Format check
+        run: uv run ruff format --check .
+
+      - name: Test
+        run: uv run python -m pytest

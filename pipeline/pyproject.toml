@@ -1,0 +1,35 @@
+[project]
+name = "prillion-pipeline"
+version = "0.1.0"
+description = "Content pipeline for Prillion: retrieve sources, generate and validate candidate questions."
+authors = [
+    { email = "akhilraman19@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "openai>=3.41.0",
+    "pydantic>=2.14.1",
+]
+
+[project.scripts]
+prillion-pipeline = "prillion_pipeline:main"
+
+[build-system]
+requires = ["uv_build>=0.11.32,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.3",
+]
+
+[tool.ruff]
+line-length = 110
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
