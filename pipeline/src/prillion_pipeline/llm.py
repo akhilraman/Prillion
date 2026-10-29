@@ -4,6 +4,7 @@ Everything else depends on the `LLM` protocol, so tests use a fake and a vendor
 change touches only this file.
 """
 
+import os
 from typing import Protocol
 
 from .candidate import GeneratedQuestion
@@ -32,7 +33,10 @@ class OpenAILLM:
         from openai import OpenAI
 
         self.model = model
-        self._client = OpenAI(api_key=api_key)  # falls back to OPENAI_API_KEY
+        # A secret pasted with a trailing newline/space makes the HTTP layer refuse the
+        # Authorization header, which the SDK reports only as "Connection error." Trim it.
+        key = (api_key or os.environ.get("OPENAI_API_KEY") or "").strip() or None
+        self._client = OpenAI(api_key=key)
 
     def generate(self, messages: list[Message]) -> GeneratedQuestion:
         try:
@@ -43,7 +47,12 @@ class OpenAILLM:
                 store=False,  # don't retain our prompts server-side
             )
         except Exception as exc:  # SDK raises many types; callers only need "it failed"
-            raise LLMError(f"OpenAI call failed: {exc}") from exc
+            # The SDK wraps network problems as a bare "Connection error."; the real reason is
+            # one level down. Show only its TYPE, never its text: that text can echo request
+            # headers, i.e. the API key.
+            cause = exc.__cause__
+            detail = f" (caused by {type(cause).__name__})" if cause is not None else ""
+            raise LLMError(f"OpenAI call failed: {exc}{detail}") from exc
         if response.output_parsed is None:
             raise LLMError("model returned no parseable output (refusal or empty)")
         return response.output_parsed
