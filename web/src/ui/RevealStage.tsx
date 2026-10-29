@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import type { QuestionResult } from '../domain/round.ts';
 import { scoreQuestionAnswers } from '../domain/scoring.ts';
+import { isAiKnowledge } from '../domain/types.ts';
 import type { Question } from '../domain/types.ts';
 import { NO_CATCH, RANKS, TIER_LABELS } from './labels.ts';
 import { CREATURES, EMPTY_HOOK } from './scene/creatures.ts';
@@ -97,17 +98,23 @@ export function RevealStage({ question, result }: RevealStageProps) {
           })}
         </ul>
         <p className="stage__explanation">{question.explanation}</p>
-        <p className="stage__sources">
-          Sources:{' '}
-          {question.sources.map((source, i) => (
-            <span key={source.id}>
-              {i > 0 && ', '}
-              <a href={source.url} target="_blank" rel="noopener noreferrer">
-                {source.publisher}
-              </a>
-            </span>
-          ))}
-        </p>
+        {isAiKnowledge(question) ? (
+          <p className="stage__sources">
+            These answers come from AI knowledge, not a cited source, so a few may be wrong or missing.
+          </p>
+        ) : (
+          <p className="stage__sources">
+            Sources:{' '}
+            {question.sources.map((source, i) => (
+              <span key={source.id}>
+                {i > 0 && ', '}
+                <a href={source.url} target="_blank" rel="noopener noreferrer">
+                  {source.publisher}
+                </a>
+              </span>
+            ))}
+          </p>
+        )}
       </details>
     </section>
   );

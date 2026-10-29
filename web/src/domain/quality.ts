@@ -14,7 +14,7 @@
  */
 
 import { scoreQuestionAnswers } from './scoring.ts';
-import { RARITY_TIERS } from './types.ts';
+import { isAiKnowledge, RARITY_TIERS } from './types.ts';
 import type { Question, RarityTier } from './types.ts';
 
 /** A question needs at least this many valid answers to be worth asking. */
@@ -26,9 +26,55 @@ export const MIN_DISTINCT_TIERS = 3;
 /** If one answer is more than this share of all responses, it is a one-answer question. */
 export const MAX_TOP_SHARE = 0.4;
 
+/**
+ * Topics an ai-knowledge question must not touch. Sourced questions are checked against a document;
+ * these are written from memory, so the gate is stricter: no allegations, crimes, sexual content,
+ * health or private-life rumours. Each entry is a whole-word regex fragment (so "rapeseed" is fine).
+ * It is deliberately blunt: a false alarm costs a reviewer a rewrite, a miss could put a damaging
+ * claim about a real person in front of players.
+ */
+const SENSITIVE_TERMS = [
+  'rap(?:e|ed|es|ist)',
+  'sexual assault',
+  'molest\\w*',
+  'p(?:a)?edophil\\w*',
+  'sex tape',
+  'nudes?',
+  'leaked',
+  'overdos\\w*',
+  'suicid\\w*',
+  'self-harm',
+  'alleged(?:ly)?',
+  'accused',
+  'arrest(?:ed|s)?',
+  'convicted',
+  'indicted',
+  'affairs?',
+  'cheating',
+  'pregnan\\w*',
+  'rehab',
+] as const;
+const SENSITIVE_PATTERN = new RegExp(`\\b(?:${SENSITIVE_TERMS.join('|')})\\b`, 'i');
+
 export interface QualityIssue {
-  code: 'too-few-answers' | 'too-few-tiers' | 'dominant-answer' | 'missing-criteria';
+  code:
+    | 'too-few-answers'
+    | 'too-few-tiers'
+    | 'dominant-answer'
+    | 'missing-criteria'
+    | 'ai-closed-set'
+    | 'sensitive-term';
   message: string;
+}
+
+/** Every piece of player-visible text, so a sensitive term cannot hide in an alias or the explanation. */
+function visibleText(question: Question): string[] {
+  return [
+    question.prompt,
+    question.criteria ?? '',
+    question.explanation,
+    ...question.answers.flatMap((a) => [a.canonical, ...a.aliases, a.evidence]),
+  ];
 }
 
 export function checkQuestionQuality(question: Question): QualityIssue[] {
@@ -46,6 +92,26 @@ export function checkQuestionQuality(question: Question): QualityIssue[] {
       code: 'missing-criteria',
       message: 'an open answer set needs `criteria` so players know what qualifies',
     });
+  }
+
+  if (isAiKnowledge(question)) {
+    if (question.answerSet !== 'open') {
+      issues.push({
+        code: 'ai-closed-set',
+        message:
+          'an ai-knowledge question must be an open set: without a source we cannot claim the list is complete',
+      });
+    }
+    for (const text of visibleText(question)) {
+      const hit = SENSITIVE_PATTERN.exec(text);
+      if (hit) {
+        issues.push({
+          code: 'sensitive-term',
+          message: `ai-knowledge content must avoid allegations and private-life topics; found "${hit[0]}" in: ${text.slice(0, 80)}`,
+        });
+        break; // one is enough to send it back; listing every hit adds noise
+      }
+    }
   }
 
   const scores = scoreQuestionAnswers(question);

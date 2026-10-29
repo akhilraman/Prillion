@@ -3,7 +3,7 @@ import seedBank from '../content/seed-bank.json';
 import { matchAnswer } from './matcher.ts';
 import { checkQuestionQuality } from './quality.ts';
 import { parseQuestionBank, validateQuestionBank } from './validateBank.ts';
-import { makeAnswer, makeQuestion } from './testFixtures.ts';
+import { makeAiQuestion, makeAnswer, makeQuestion } from './testFixtures.ts';
 import { CATEGORIES } from './types.ts';
 
 const bankOf = (...questions: unknown[]) => ({ schemaVersion: 1, questions });
@@ -197,6 +197,45 @@ describe('validateQuestionBank: malformed input', () => {
   it('parseQuestionBank throws with a readable list of problems', () => {
     expect(() => parseQuestionBank(bankOf(makeQuestion('d'), makeQuestion('d')))).toThrow(
       /Invalid question bank/,
+    );
+  });
+});
+
+describe('ai-knowledge questions (validateQuestionBank)', () => {
+  it('accepts one with no sources and no citations', () => {
+    expect(issuesFor(bankOf(makeAiQuestion('meme')))).toEqual([]);
+  });
+
+  it('refuses a question that claims to be ai-knowledge but cites a source', () => {
+    const q = makeAiQuestion('meme', {
+      sources: [
+        { id: 's1', title: 'T', publisher: 'P', url: 'https://example.com', retrievedOn: '2026-01-01' },
+      ],
+    });
+    expect(issuesFor(bankOf(q)).join('\n')).toMatch(/empty sources list/);
+  });
+
+  it('refuses an ai-knowledge answer that cites a source id', () => {
+    const q = makeAiQuestion('meme');
+    q.answers[0]!.sourceIds = ['s1'];
+    expect(issuesFor(bankOf(q)).join('\n')).toMatch(/must not cite sources/);
+  });
+
+  it('requires the llm-estimate basis on every ai-knowledge answer', () => {
+    const q = makeAiQuestion('meme');
+    q.answers[0]!.familiarityBasis = 'curated-estimate';
+    expect(issuesFor(bankOf(q)).join('\n')).toMatch(/"llm-estimate" basis/);
+  });
+
+  it('rejects an unknown basis value', () => {
+    const q = { ...makeQuestion('x'), basis: 'vibes' };
+    expect(issuesFor(bankOf(q)).join('\n')).toMatch(/\.basis: if present, must be one of/);
+  });
+
+  it('still requires sources for a sourced question, with or without an explicit basis', () => {
+    expect(issuesFor(bankOf(makeQuestion('a', { sources: [] }))).join('\n')).toMatch(/at least one source/);
+    expect(issuesFor(bankOf(makeQuestion('b', { sources: [], basis: 'sourced' }))).join('\n')).toMatch(
+      /at least one source/,
     );
   });
 });

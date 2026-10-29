@@ -93,6 +93,7 @@ What it guarantees:
 - **Rejected candidates** (`*.failed.json`) are refused.
 - **`approvedOn`** is the promotion date (override with `--approved-on YYYY-MM-DD`), not the generation date. `provenance` stays in the candidate file and git history; the live bank carries only what the game needs.
 - Quality warnings recorded in a candidate's provenance are printed as notes.
+- **AI-knowledge questions** (`basis: "ai-knowledge"`: written from model memory, no cited sources) are refused unless you pass `--allow-ai-knowledge`. Only do that after a human has checked every answer.
 
 Before promoting, review the candidate against its source page (see the checklist in the bot PR). Tiers are `llm-estimate`, not measured popularity.
 

@@ -8,6 +8,8 @@ This is the only code path that changes what players see, so it is deliberately 
   live file. A bad promotion can never be saved.
 - No silent overwrites: an id that is already live is refused unless `replace` is set.
 - Rejected candidates (`*.failed.json`) are refused outright.
+- `basis: "ai-knowledge"` questions (written from model memory, no sources) are refused unless the
+  caller opts in with `allow_ai_knowledge`, so they can never reach players by accident.
 
 The candidate's `provenance` stays in the candidate file (and git history); the live bank
 carries only what the game needs. `approvedOn` is set to the date of THIS promotion, i.e.
@@ -86,6 +88,7 @@ def promote(
     gate: BankGate,
     replace: bool = False,
     dry_run: bool = False,
+    allow_ai_knowledge: bool = False,
 ) -> list[Promotion]:
     bank = _read_json(bank_path, "bank")
     if not isinstance(bank, dict) or not isinstance(bank.get("questions"), list):
@@ -102,6 +105,12 @@ def promote(
         if question_id in batch:
             raise PromoteError(f"{question_id!r} appears twice in this batch")
         batch.add(question_id)
+
+        if question.get("basis") == "ai-knowledge" and not allow_ai_knowledge:
+            raise PromoteError(
+                f"{question_id!r} is an AI-knowledge question (no cited sources). Promote it only after "
+                "a human has checked every answer, and say so with --allow-ai-knowledge."
+            )
 
         question = {**question, "approvedOn": approved_on.isoformat()}
         if question_id in position:

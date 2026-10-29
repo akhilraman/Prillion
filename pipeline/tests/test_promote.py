@@ -201,3 +201,41 @@ def test_warnings_from_provenance_are_shown_but_do_not_block(tmp_path: Path) -> 
     code, text, _ = run(tmp_path, bank, str(candidate))
 
     assert code == 0 and "quote-does-not-name-answer" in text
+
+
+def write_ai_candidate(tmp_path: Path, question_id: str) -> Path:
+    question = {**bank_question(question_id), "basis": "ai-knowledge", "sources": []}
+    path = tmp_path / f"{question_id}.json"
+    path.write_text(json.dumps({"question": question, "provenance": {"issues": []}}), encoding="utf-8")
+    return path
+
+
+def test_ai_knowledge_questions_are_refused_without_an_explicit_opt_in(tmp_path: Path) -> None:
+    bank = write_bank(tmp_path)
+    candidate = write_ai_candidate(tmp_path, "us-pop-meme")
+    before = bank.read_text(encoding="utf-8")
+
+    code, output, gate = run(tmp_path, bank, str(candidate))
+
+    assert code == 2
+    assert "AI-knowledge" in output and "--allow-ai-knowledge" in output
+    assert bank.read_text(encoding="utf-8") == before
+    assert gate.seen == []  # refused before the bank was even built
+
+
+def test_ai_knowledge_questions_promote_with_the_opt_in_and_keep_their_basis(tmp_path: Path) -> None:
+    bank = write_bank(tmp_path)
+    candidate = write_ai_candidate(tmp_path, "us-pop-meme")
+
+    code, _output, _gate = run(tmp_path, bank, str(candidate), "--allow-ai-knowledge")
+
+    assert code == 0
+    [promoted] = live(bank)["questions"]
+    assert promoted["basis"] == "ai-knowledge" and promoted["sources"] == []
+
+
+def test_sourced_questions_never_need_the_opt_in(tmp_path: Path) -> None:
+    bank = write_bank(tmp_path)
+    candidate = write_candidate(tmp_path, "space-plain")
+    code, _output, _gate = run(tmp_path, bank, str(candidate))
+    assert code == 0
