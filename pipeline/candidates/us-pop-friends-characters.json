@@ -1,0 +1,1399 @@
+{
+  "question": {
+    "id": "us-pop-friends-characters",
+    "category": "us-pop",
+    "prompt": "Name a Friends character from the main-cast list or recurring-character table.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "rachel-green",
+        "canonical": "Rachel Green",
+        "aliases": [
+          "Rachel",
+          "Rachel Karen Green"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rachel is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "monica-geller",
+        "canonical": "Monica Geller",
+        "aliases": [
+          "Monica",
+          "Monica Elizabeth Geller",
+          "Monica Geller-Bing"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Monica is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "phoebe-buffay-hannigan",
+        "canonical": "Phoebe Buffay-Hannigan",
+        "aliases": [
+          "Phoebe",
+          "Phoebe Buffay"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoebe is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "joey-tribbiani",
+        "canonical": "Joey Tribbiani",
+        "aliases": [
+          "Joey",
+          "Joseph Francis Tribbiani Jr.",
+          "Joseph Tribbiani"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joey is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "chandler-bing",
+        "canonical": "Chandler Bing",
+        "aliases": [
+          "Chandler",
+          "Chandler Muriel Bing"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandler is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "ross-geller",
+        "canonical": "Ross Geller",
+        "aliases": [
+          "Ross",
+          "Ross Eustace Geller"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ross is one of the six main characters.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "gunther",
+        "canonical": "Gunther",
+        "aliases": [],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gunther appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "janice-litman-goralnik",
+        "canonical": "Janice Litman-Goralnik",
+        "aliases": [
+          "Janice",
+          "Janice Hosenstein",
+          "Janice Litman",
+          "Janice Goralnik"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Janice appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "carol-willick",
+        "canonical": "Carol Willick",
+        "aliases": [
+          "Carol"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carol appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "judy-geller",
+        "canonical": "Judy Geller",
+        "aliases": [
+          "Judy"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Judy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "jack-geller",
+        "canonical": "Jack Geller",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jack Geller appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "susan-bunch",
+        "canonical": "Susan Bunch",
+        "aliases": [
+          "Susan"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Susan appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "marcel",
+        "canonical": "Marcel",
+        "aliases": [
+          "Marcel the monkey"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marcel appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "barry-farber",
+        "canonical": "Barry Farber",
+        "aliases": [
+          "Barry"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barry appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-heckles",
+        "canonical": "Mr. Heckles",
+        "aliases": [
+          "Mr Heckles",
+          "Heckles"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Heckles appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "paolo",
+        "canonical": "Paolo",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paolo appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "ben-geller",
+        "canonical": "Ben Geller",
+        "aliases": [
+          "Ben"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ben appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "estelle-leonard",
+        "canonical": "Estelle Leonard",
+        "aliases": [
+          "Estelle"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Estelle appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "julie",
+        "canonical": "Julie",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julie appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mindy-hunter",
+        "canonical": "Mindy Hunter",
+        "aliases": [
+          "Mindy"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mindy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "fun-bobby",
+        "canonical": "Fun Bobby",
+        "aliases": [
+          "Bobby"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fun Bobby appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "terry",
+        "canonical": "Terry",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terry appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-douglas",
+        "canonical": "Mr. Douglas",
+        "aliases": [
+          "Mr Douglas"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Douglas appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "jasmine",
+        "canonical": "Jasmine",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jasmine appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "kiki",
+        "canonical": "Kiki",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kiki appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "nora-tyler-bing",
+        "canonical": "Nora Tyler Bing",
+        "aliases": [
+          "Nora Bing",
+          "Nora"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nora appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "david",
+        "canonical": "David",
+        "aliases": [
+          "The Scientist Guy",
+          "David the Scientist Guy"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "steve",
+        "canonical": "Steve",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The recurring-character table includes characters named Steve, portrayed by Jon Lovitz and Phill Lewis.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "frank-buffay-jr",
+        "canonical": "Frank Buffay Jr.",
+        "aliases": [
+          "Frank Jr.",
+          "Frank Jr",
+          "Frank Buffay Junior"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Buffay Jr. appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "richard-burke",
+        "canonical": "Richard Burke",
+        "aliases": [
+          "Richard",
+          "Dr. Richard Burke",
+          "Dr Richard Burke"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-treeger",
+        "canonical": "Mr. Treeger",
+        "aliases": [
+          "Mr Treeger",
+          "Treeger"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Treeger appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "sandra-green",
+        "canonical": "Sandra Green",
+        "aliases": [
+          "Sandra"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sandra appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "eddie-menuek",
+        "canonical": "Eddie Menuek",
+        "aliases": [
+          "Eddie"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eddie appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dr-mike-horton",
+        "canonical": "Dr. Mike Horton",
+        "aliases": [
+          "Dr Mike Horton",
+          "Mike Horton"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Mike Horton appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "joanna",
+        "canonical": "Joanna",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joanna appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dr-leonard-green",
+        "canonical": "Dr. Leonard Green",
+        "aliases": [
+          "Dr Leonard Green",
+          "Leonard Green",
+          "Leonard"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Leonard Green appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "the-duck",
+        "canonical": "The Duck",
+        "aliases": [
+          "Duck"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Duck appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "the-chick",
+        "canonical": "The Chick",
+        "aliases": [
+          "Chick"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chick appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "sophie",
+        "canonical": "Sophie",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sophie appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "bonnie",
+        "canonical": "Bonnie",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bonnie appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mark-robinson",
+        "canonical": "Mark Robinson",
+        "aliases": [
+          "Mark"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mark appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "pete-becker",
+        "canonical": "Pete Becker",
+        "aliases": [
+          "Pete"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pete appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "kate-miller",
+        "canonical": "Kate Miller",
+        "aliases": [
+          "Kate"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kate appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "marshall-townend",
+        "canonical": "Marshall Townend",
+        "aliases": [
+          "Marshall"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marshall appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "lauren",
+        "canonical": "Lauren",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lauren appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-kaplan-jr",
+        "canonical": "Mr. Kaplan Jr.",
+        "aliases": [
+          "Mr Kaplan Jr",
+          "Kaplan Jr."
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Kaplan Jr. appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "chloe",
+        "canonical": "Chloe",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chloe appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "isaac",
+        "canonical": "Isaac",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isaac appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "alice-knight-buffay",
+        "canonical": "Alice Knight Buffay",
+        "aliases": [
+          "Alice",
+          "Alice Knight",
+          "Alice Buffay"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alice appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "phoebe-abbot-sr",
+        "canonical": "Phoebe Abbot Sr.",
+        "aliases": [
+          "Phoebe Abbott",
+          "Phoebe Abbott Sr.",
+          "Phoebe Abbot",
+          "Phoebe Abbott Senior"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoebe's mother appears in the recurring-character table as Phoebe Abbot Sr.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "doug",
+        "canonical": "Doug",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Doug appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "ugly-naked-guy",
+        "canonical": "Ugly Naked Guy",
+        "aliases": [
+          "The Ugly Naked Guy",
+          "Cute Naked Guy"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ugly Naked Guy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dina-tribbiani",
+        "canonical": "Dina Tribbiani",
+        "aliases": [
+          "Dina"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dina appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "emily-waltham",
+        "canonical": "Emily Waltham",
+        "aliases": [
+          "Emily"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Emily appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "kathy",
+        "canonical": "Kathy",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kathy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "joshua-burgin",
+        "canonical": "Joshua Burgin",
+        "aliases": [
+          "Joshua"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joshua appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-waltham",
+        "canonical": "Mr. Waltham",
+        "aliases": [
+          "Mr Waltham"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Waltham appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "stephen-waltham",
+        "canonical": "Stephen Waltham",
+        "aliases": [
+          "Stephen"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Waltham appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "andrea-waltham",
+        "canonical": "Andrea Waltham",
+        "aliases": [
+          "Andrea"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andrea Waltham appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "stu",
+        "canonical": "Stu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stu appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "the-croupier",
+        "canonical": "The Croupier",
+        "aliases": [
+          "Croupier"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Croupier appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "gary",
+        "canonical": "Gary",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gary appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "danny",
+        "canonical": "Danny",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Danny appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dr-ledbetter",
+        "canonical": "Dr. Ledbetter",
+        "aliases": [
+          "Dr Ledbetter",
+          "Ledbetter"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Ledbetter appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "randall",
+        "canonical": "Randall",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Randall appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "frank-buffay-iii",
+        "canonical": "Frank Buffay III",
+        "aliases": [
+          "Frank Jr. Jr.",
+          "Frank Jr Jr",
+          "Frank Junior Junior"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Jr. Jr. is one of the triplets named in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "leslie-buffay",
+        "canonical": "Leslie Buffay",
+        "aliases": [
+          "Leslie"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leslie is one of the triplets named in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "chandler-buffay",
+        "canonical": "Chandler Buffay",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandler Buffay is one of the triplets named in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "kim-clozzi",
+        "canonical": "Kim Clozzi",
+        "aliases": [
+          "Kim"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kim appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "helena-handbasket",
+        "canonical": "Helena Handbasket",
+        "aliases": [
+          "Charles Bing",
+          "Helena"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helena appears in the recurring-character table under both Helena Handbasket and Charles Bing.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mr-zelner",
+        "canonical": "Mr. Zelner",
+        "aliases": [
+          "Mr Zelner",
+          "Zelner"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Zelner appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "janine-lecroix",
+        "canonical": "Janine Lecroix",
+        "aliases": [
+          "Janine"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Janine appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "jill-green",
+        "canonical": "Jill Green",
+        "aliases": [
+          "Jill"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jill appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "elizabeth-stevens",
+        "canonical": "Elizabeth Stevens",
+        "aliases": [
+          "Elizabeth"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elizabeth appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "paul-stevens",
+        "canonical": "Paul Stevens",
+        "aliases": [
+          "Paul"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "russell",
+        "canonical": "Russell",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Russell appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dr-roger",
+        "canonical": "Dr. Roger",
+        "aliases": [
+          "Dr Roger",
+          "Roger"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Roger appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "tag-jones",
+        "canonical": "Tag Jones",
+        "aliases": [
+          "Tag"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tag appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "jake",
+        "canonical": "Jake",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jake appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "richard-crosby",
+        "canonical": "Richard Crosby",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard Crosby appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mona",
+        "canonical": "Mona",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mona appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "dr-long",
+        "canonical": "Dr. Long",
+        "aliases": [
+          "Dr Long"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Long appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "eric",
+        "canonical": "Eric",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eric appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "parker",
+        "canonical": "Parker",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parker appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "emma-geller-green",
+        "canonical": "Emma Geller-Green",
+        "aliases": [
+          "Emma",
+          "Emma Geller",
+          "Emma Green"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Emma appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "mike-hannigan",
+        "canonical": "Mike Hannigan",
+        "aliases": [
+          "Mike",
+          "Michael Hannigan"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "charlie-wheeler",
+        "canonical": "Charlie Wheeler",
+        "aliases": [
+          "Charlie"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charlie appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "gavin-mitchell",
+        "canonical": "Gavin Mitchell",
+        "aliases": [
+          "Gavin"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gavin appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "molly",
+        "canonical": "Molly",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Molly appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "claudia",
+        "canonical": "Claudia",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Claudia appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "ken",
+        "canonical": "Ken",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ken appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "amy-green",
+        "canonical": "Amy Green",
+        "aliases": [
+          "Amy"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "clifford-burnett",
+        "canonical": "Clifford Burnett",
+        "aliases": [
+          "Clifford"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clifford appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "bitsy-hannigan",
+        "canonical": "Bitsy Hannigan",
+        "aliases": [
+          "Bitsy"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bitsy appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "theodore-hannigan",
+        "canonical": "Theodore Hannigan",
+        "aliases": [
+          "Theodore"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Theodore appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "the-waiter",
+        "canonical": "The Waiter",
+        "aliases": [
+          "Waiter"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Waiter appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "erica",
+        "canonical": "Erica",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erica, portrayed by Anna Faris, appears in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "jack-bing",
+        "canonical": "Jack Bing",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jack Bing is one of the twins named in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      },
+      {
+        "id": "erica-bing",
+        "canonical": "Erica Bing",
+        "aliases": [],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erica Bing is one of the twins named in the recurring-character table.",
+        "sourceIds": [
+          "list-of-friends-and-joey-characters"
+        ]
+      }
+    ],
+    "explanation": "These answers comprise the six main characters and every character named in the document's “Characters recurring throughout series” table, including entries marked as guests. Characters exclusive to the spin-off Joey are excluded.",
+    "sources": [
+      {
+        "id": "list-of-friends-and-joey-characters",
+        "title": "List of Friends and Joey characters",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Friends_and_Joey_characters",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "7dc8c220764b0a7b",
+    "brief": "Name a character from the TV sitcom Friends.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-friends-and-joey-characters",
+        "version": "1380639598",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Rachel Green": "Rachel Green (Jennifer Aniston)",
+      "Monica Geller": "Monica Geller (Courteney Cox)",
+      "Phoebe Buffay-Hannigan": "Phoebe Buffay-Hannigan (Lisa Kudrow)",
+      "Joey Tribbiani": "Joey Tribbiani (Matt LeBlanc)",
+      "Chandler Bing": "Chandler Bing (Matthew Perry)",
+      "Ross Geller": "Ross Geller (David Schwimmer)",
+      "Gunther": "Gunther | James Michael Tyler | Recurring",
+      "Janice Litman-Goralnik": "Janice Litman-Goralnik | Maggie Wheeler | Recurring",
+      "Carol Willick": "Carol Willick | Jane Sibbett | Recurring",
+      "Judy Geller": "Judy Geller | Christina Pickles | Recurring",
+      "Jack Geller": "Jack Geller | Elliott Gould | Recurring",
+      "Susan Bunch": "Susan Bunch | Jessica Hecht | Recurring",
+      "Marcel": "Marcel | Katie | Recurring",
+      "Barry Farber": "Barry Farber | Mitchell Whitfield | Recurring",
+      "Mr. Heckles": "Mr. Heckles | Larry Hankin | Recurring",
+      "Paolo": "Paolo | Cosimo Fusco | Recurring",
+      "Ben Geller": "Ben Geller | Cole Sprouse | Guest | Recurring",
+      "Estelle Leonard": "Estelle Leonard | June Gable | Guest | Recurring",
+      "Julie": "Julie | Lauren Tom | Guest | Recurring",
+      "Mindy Hunter": "Mindy Hunter | Jennifer Grey Jana Marie Hupp | Guest",
+      "Fun Bobby": "Fun Bobby | Vincent Ventresca | Guest",
+      "Terry": "Terry | Max Wright | Guest",
+      "Mr. Douglas": "Mr. Douglas | Dorien Wilson | Guest",
+      "Jasmine": "Jasmine | Cynthia Mann | Guest | | Recurring",
+      "Kiki": "Kiki | Michele Maika | Guest",
+      "Nora Tyler Bing": "Nora Tyler Bing | Morgan Fairchild | Guest",
+      "David": "David | Hank Azaria | Guest",
+      "Steve": "Steve | Jon Lovitz | Guest",
+      "Frank Buffay Jr.": "Frank Buffay Jr. | Giovanni Ribisi | | Recurring",
+      "Richard Burke": "Richard Burke | Tom Selleck | | Recurring",
+      "Mr. Treeger": "Mr. Treeger | Mike Hagerty | | Recurring",
+      "Sandra Green": "Sandra Green | Marlo Thomas | | Recurring",
+      "Eddie Menuek": "Eddie Menuek | Adam Goldberg | | Recurring",
+      "Dr. Mike Horton": "Dr. Mike Horton | Roark Critchlow | | Recurring",
+      "Joanna": "Joanna | Alison La Placa | | Guest | Recurring",
+      "Dr. Leonard Green": "Dr. Leonard Green | Ron Leibman | | Guest",
+      "The Duck": "The Duck | N/A | | | Recurring",
+      "The Chick": "The Chick | N/A | | | Recurring",
+      "Sophie": "Sophie | Laura Dean | | | Recurring",
+      "Bonnie": "Bonnie | Christine Taylor | | | Recurring",
+      "Mark Robinson": "Mark Robinson | Steven Eckholdt | | | Recurring",
+      "Pete Becker": "Pete Becker | Jon Favreau | | | Recurring",
+      "Kate Miller": "Kate Miller | Dina Meyer | | | Recurring",
+      "Marshall Townend": "Marshall Townend | Reg Rogers | | | Recurring",
+      "Lauren": "Lauren | Jennifer Milmore | | | Recurring",
+      "Mr. Kaplan Jr.": "Mr. Kaplan Jr. | Shelley Berman | | | Recurring",
+      "Chloe": "Chloe | Angela Featherstone | | | Recurring",
+      "Isaac": "Isaac | Maury Ginsberg | | | Recurring",
+      "Alice Knight Buffay": "Alice Knight Buffay | Debra Jo Rupp | | | Guest",
+      "Phoebe Abbot Sr.": "Phoebe Abbot Sr. | Teri Garr | | | Guest",
+      "Doug": "Doug | Sam McMurray | | | Guest",
+      "Ugly Naked Guy": "Ugly Naked Guy | Jon Haugen | | | Guest",
+      "Dina Tribbiani": "Dina Tribbiani | Lisa Melilli Marla Sokoloff | | | Guest",
+      "Emily Waltham": "Emily Waltham | Helen Baxendale | | | | Recurring",
+      "Kathy": "Kathy | Paget Brewster | | | | Recurring",
+      "Joshua Burgin": "Joshua Burgin | Tate Donovan | | | | Recurring",
+      "Mr. Waltham": "Mr. Waltham | Paxton Whitehead | | | | Recurring",
+      "Stephen Waltham": "Stephen Waltham | Tom Conti | | | | Guest",
+      "Andrea Waltham": "Andrea Waltham | Jennifer Saunders | | | | Guest",
+      "Stu": "Stu | Fred Stoller | | | | Guest",
+      "The Croupier": "The Croupier | Rick Pasqualone | | | | | Recurring",
+      "Gary": "Gary | Michael Rapaport | | | | | Recurring",
+      "Danny": "Danny | George Newbern | | | | | Recurring",
+      "Dr. Ledbetter": "Dr. Ledbetter | Michael Ensign | | | | | Recurring",
+      "Randall": "Randall | Thomas Lennon | | | | | Recurring",
+      "Frank Buffay III": "The Triplets (Frank Jr Jr, Leslie, & Chandler)",
+      "Leslie Buffay": "The Triplets (Frank Jr Jr, Leslie, & Chandler)",
+      "Chandler Buffay": "The Triplets (Frank Jr Jr, Leslie, & Chandler)",
+      "Kim Clozzi": "Kim Clozzi | Joanna Gleason | | | | | Guest",
+      "Helena Handbasket": "Helena Handbasket (formerly Charles Bing) | Kathleen Turner",
+      "Mr. Zelner": "Mr. Zelner | Steve Ireland | | | | | Guest",
+      "Janine Lecroix": "Janine Lecroix | Elle Macpherson | | | | | | Recurring",
+      "Jill Green": "Jill Green | Reese Witherspoon | | | | | | Recurring",
+      "Elizabeth Stevens": "Elizabeth Stevens | Alexandra Holden | | | | | | Recurring",
+      "Paul Stevens": "Paul Stevens | Bruce Willis | | | | | | Recurring",
+      "Russell": "Russell | Ron Glass | | | | | | Recurring",
+      "Dr. Roger": "Dr. Roger | Pat Finn | | | | | | Recurring",
+      "Tag Jones": "Tag Jones | Eddie Cahill | | | | | | | Recurring",
+      "Jake": "Jake | Troy Norton | | | | | | | Recurring",
+      "Richard Crosby": "Richard Crosby | Gary Oldman | | | | | | | Recurring",
+      "Mona": "Mona | Bonnie Somerville | | | | | | | | Recurring",
+      "Dr. Long": "Dr. Long | Amanda Carlin | | | | | | | | Recurring",
+      "Eric": "Eric | Sean Penn | | | | | | | | Recurring",
+      "Parker": "Parker | Alec Baldwin | | | | | | | | Recurring",
+      "Emma Geller-Green": "Emma Geller-Green | Cali & Noelle Sheldon",
+      "Mike Hannigan": "Mike Hannigan | Paul Rudd | | | | | | | | | Recurring",
+      "Charlie Wheeler": "Charlie Wheeler | Aisha Tyler | | | | | | | | | Recurring",
+      "Gavin Mitchell": "Gavin Mitchell | Dermot Mulroney | | | | | | | | | Recurring",
+      "Molly": "Molly | Melissa George | | | | | | | | | Recurring",
+      "Claudia": "Claudia | Monique Edwards | | | | | | | | | Recurring",
+      "Ken": "Ken | Brian Chenowith | | | | | | | | | Recurring",
+      "Amy Green": "Amy Green | Christina Applegate | | | | | | | | | Guest",
+      "Clifford Burnett": "Clifford Burnett | Eddie McClintock | | | | | | | | | Guest",
+      "Bitsy Hannigan": "Bitsy Hannigan | Cristine Rose | | | | | | | | | Guest",
+      "Theodore Hannigan": "Theodore Hannigan | Gregory Itzin | | | | | | | | | Guest",
+      "The Waiter": "The Waiter | Sam Pancake | | | | | | | | | Guest",
+      "Erica": "Erica | Anna Faris | | | | | | | | | | Recurring",
+      "Jack Bing": "Jack and Erica Bing | unknown",
+      "Erica Bing": "Jack and Erica Bing | unknown"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Chandler Buffay]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Jack Bing]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

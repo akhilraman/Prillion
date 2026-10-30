@@ -1,0 +1,385 @@
+{
+  "question": {
+    "id": "space-fictional-stations",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a fictional space station from a film, TV series, book or video game.",
+    "answerSet": "open",
+    "criteria": "Any named fictional space station depicted in a film, TV series, book or video game counts, including mobile stations but not ordinary spacecraft or surface bases.",
+    "answers": [
+      {
+        "id": "death-star",
+        "canonical": "Death Star",
+        "aliases": [
+          "The Death Star",
+          "Death Star I",
+          "First Death Star",
+          "DS-1"
+        ],
+        "familiarity": 0.1246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Death Star is the planet-destroying Imperial battle station introduced in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "deep-space-nine",
+        "canonical": "Deep Space Nine",
+        "aliases": [
+          "DS9",
+          "Terok Nor",
+          "Deep Space 9"
+        ],
+        "familiarity": 0.1246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deep Space Nine is the former Cardassian station that serves as the main setting of Star Trek: Deep Space Nine.",
+        "sourceIds": []
+      },
+      {
+        "id": "babylon-5",
+        "canonical": "Babylon 5",
+        "aliases": [
+          "Babylon Five",
+          "B5"
+        ],
+        "familiarity": 0.1246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Babylon 5 is the diplomatic space station at the center of the television series of the same name.",
+        "sourceIds": []
+      },
+      {
+        "id": "citadel",
+        "canonical": "Citadel",
+        "aliases": [
+          "The Citadel",
+          "Citadel Station",
+          "Mass Effect Citadel"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Citadel is an ancient space station that serves as a political hub in Mass Effect.",
+        "sourceIds": []
+      },
+      {
+        "id": "omega",
+        "canonical": "Omega",
+        "aliases": [
+          "Omega Station"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Omega is an asteroid-built space station featured in the Mass Effect games.",
+        "sourceIds": []
+      },
+      {
+        "id": "sevastopol",
+        "canonical": "Sevastopol",
+        "aliases": [
+          "Sevastopol Station"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sevastopol is the space station where most of Alien: Isolation takes place.",
+        "sourceIds": []
+      },
+      {
+        "id": "talos-i",
+        "canonical": "Talos I",
+        "aliases": [
+          "Talos 1",
+          "Talos One"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Talos I is the research station that serves as the setting of the 2017 game Prey.",
+        "sourceIds": []
+      },
+      {
+        "id": "elysium",
+        "canonical": "Elysium",
+        "aliases": [
+          "Elysium Station"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elysium is the luxurious orbital habitat inhabited by the wealthy in the film Elysium.",
+        "sourceIds": []
+      },
+      {
+        "id": "cooper-station",
+        "canonical": "Cooper Station",
+        "aliases": [],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cooper Station is the cylindrical space habitat shown near the end of Interstellar.",
+        "sourceIds": []
+      },
+      {
+        "id": "tycho-station",
+        "canonical": "Tycho Station",
+        "aliases": [
+          "Tycho"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tycho Station is a mobile construction station in The Expanse.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-station-v",
+        "canonical": "Space Station V",
+        "aliases": [
+          "Space Station 5",
+          "Space Station Five",
+          "Station V"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Station V is the rotating wheel-shaped station visited in 2001: A Space Odyssey.",
+        "sourceIds": []
+      },
+      {
+        "id": "regula-i",
+        "canonical": "Regula I",
+        "aliases": [
+          "Regula 1",
+          "Regula One",
+          "Regula I Station"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Regula I is the orbital research station associated with Project Genesis in Star Trek II: The Wrath of Khan.",
+        "sourceIds": []
+      },
+      {
+        "id": "deep-space-k-7",
+        "canonical": "Deep Space K-7",
+        "aliases": [
+          "K-7",
+          "Space Station K-7"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deep Space K-7 is the station visited in the Star Trek episode The Trouble with Tribbles.",
+        "sourceIds": []
+      },
+      {
+        "id": "watchtower",
+        "canonical": "Watchtower",
+        "aliases": [
+          "The Watchtower",
+          "Justice League Watchtower",
+          "JLA Watchtower"
+        ],
+        "familiarity": 0.0499,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Watchtower is the Justice League's orbital headquarters in the animated series Justice League.",
+        "sourceIds": []
+      },
+      {
+        "id": "yorktown",
+        "canonical": "Yorktown",
+        "aliases": [
+          "Yorktown Station",
+          "Starbase Yorktown"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yorktown is the vast Federation space station featured in Star Trek Beyond.",
+        "sourceIds": []
+      },
+      {
+        "id": "earth-spacedock",
+        "canonical": "Earth Spacedock",
+        "aliases": [
+          "Spacedock"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earth Spacedock is the large orbital Starfleet facility introduced in Star Trek III: The Search for Spock.",
+        "sourceIds": []
+      },
+      {
+        "id": "babylon-4",
+        "canonical": "Babylon 4",
+        "aliases": [
+          "Babylon Four",
+          "B4"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Babylon 4 is the vanished predecessor station whose fate is explored in Babylon 5.",
+        "sourceIds": []
+      },
+      {
+        "id": "empok-nor",
+        "canonical": "Empok Nor",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Empok Nor is an abandoned Cardassian space station featured in Star Trek: Deep Space Nine.",
+        "sourceIds": []
+      },
+      {
+        "id": "thunderbird-5",
+        "canonical": "Thunderbird 5",
+        "aliases": [
+          "Thunderbird Five",
+          "TB5",
+          "Thunderbird 5 Space Station",
+          "Thunderbird Five Space Station"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thunderbird 5 is International Rescue's orbital monitoring station in Thunderbirds.",
+        "sourceIds": []
+      },
+      {
+        "id": "satellite-five",
+        "canonical": "Satellite Five",
+        "aliases": [
+          "Satellite 5"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Satellite Five is the space station featured in the Doctor Who episode The Long Game.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Fictional space stations range from inhabited cities and trading hubs to military installations and planet-destroying battle stations.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "b9d5e1eb33826751",
+    "brief": "Name a fictional space station from a film, TV series, book or game.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Death Star": 3,
+      "Deep Space Nine": 3,
+      "Babylon 5": 3,
+      "Citadel": 3,
+      "Omega": 3,
+      "Sevastopol": 3,
+      "Talos I": 3,
+      "Elysium": 3,
+      "Cooper Station": 3,
+      "Watchtower": 2,
+      "Tycho Station": 3,
+      "Yorktown": 2,
+      "Earth Spacedock": 2,
+      "Space Station V": 3,
+      "Babylon 4": 2,
+      "Regula I": 3,
+      "Deep Space K-7": 3,
+      "Empok Nor": 2,
+      "Thunderbird 5": 2,
+      "Satellite Five": 2
+    },
+    "droppedForVotes": {
+      "Death Star II": 1,
+      "Space Colony ARK": 1,
+      "Death Egg": 1,
+      "Medina Station": 1,
+      "Alpha": 1,
+      "Nerva Beacon": 1,
+      "Anchor 9": 1,
+      "Cairo Station": 1,
+      "Gagarin Station": 1,
+      "Knowhere": 1,
+      "Citadel Station": 1,
+      "Battle School": 1,
+      "Starbase Yorktown": 1,
+      "Nerva": 1,
+      "Freeside": 1,
+      "Gateway": 1,
+      "Arcturus Station": 1
+    },
+    "verdicts": {
+      "Death Star": {
+        "verdict": "correct",
+        "reason": "The Imperial battle station introduced in Star Wars is a named fictional space station."
+      },
+      "Deep Space Nine": {
+        "verdict": "correct",
+        "reason": "The former Cardassian station is the central setting of Star Trek: Deep Space Nine."
+      },
+      "Babylon 5": {
+        "verdict": "correct",
+        "reason": "The named diplomatic space station is the principal setting of Babylon 5."
+      },
+      "Citadel": {
+        "verdict": "correct",
+        "reason": "The Citadel is an ancient space station and major political hub in Mass Effect."
+      },
+      "Omega": {
+        "verdict": "correct",
+        "reason": "Omega is a space station built into an asteroid in the Mass Effect games."
+      },
+      "Sevastopol": {
+        "verdict": "correct",
+        "reason": "Sevastopol is the space station that serves as the main setting of Alien: Isolation."
+      },
+      "Talos I": {
+        "verdict": "correct",
+        "reason": "Talos I is the orbital research station featured in Prey (2017)."
+      },
+      "Elysium": {
+        "verdict": "correct",
+        "reason": "Elysium is the named orbital habitat occupied by the wealthy in the film Elysium."
+      },
+      "Cooper Station": {
+        "verdict": "correct",
+        "reason": "Cooper Station is the cylindrical space habitat shown near the end of Interstellar."
+      },
+      "Tycho Station": {
+        "verdict": "correct",
+        "reason": "Tycho Station is a mobile construction station in The Expanse."
+      },
+      "Space Station V": {
+        "verdict": "correct",
+        "reason": "Space Station V is the rotating orbital station visited in 2001: A Space Odyssey."
+      },
+      "Regula I": {
+        "verdict": "correct",
+        "reason": "Regula I is the Project Genesis research station in Star Trek II: The Wrath of Khan."
+      },
+      "Deep Space K-7": {
+        "verdict": "correct",
+        "reason": "Deep Space K-7 is the space station featured in Star Trek's 'The Trouble with Tribbles.'"
+      },
+      "Watchtower": {
+        "verdict": "correct",
+        "reason": "The Watchtower is the Justice League's orbital headquarters in the animated series Justice League."
+      },
+      "Yorktown": {
+        "verdict": "correct",
+        "reason": "Yorktown is the large Federation space station featured in Star Trek Beyond."
+      },
+      "Earth Spacedock": {
+        "verdict": "correct",
+        "reason": "Earth Spacedock is the orbital Starfleet facility introduced in Star Trek III: The Search for Spock."
+      },
+      "Babylon 4": {
+        "verdict": "correct",
+        "reason": "Babylon 4 is a vanished space station whose fate is explored in Babylon 5."
+      },
+      "Empok Nor": {
+        "verdict": "correct",
+        "reason": "Empok Nor is an abandoned Cardassian space station in Star Trek: Deep Space Nine."
+      },
+      "Thunderbird 5": {
+        "verdict": "correct",
+        "reason": "Thunderbird 5 is International Rescue's orbital monitoring station in Thunderbirds."
+      },
+      "Satellite Five": {
+        "verdict": "correct",
+        "reason": "Satellite Five is the orbital station featured in the Doctor Who episode 'The Long Game.'"
+      }
+    },
+    "issues": []
+  }
+}

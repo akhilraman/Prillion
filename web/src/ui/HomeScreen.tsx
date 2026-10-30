@@ -1,7 +1,9 @@
 import { CATEGORIES } from '../domain/types.ts';
 import type { Category, CategorySelection } from '../domain/types.ts';
 import { DEFAULT_SECONDS_PER_QUESTION } from '../domain/round.ts';
+import { play } from '../game/sound.ts';
 import { CATEGORY_BLURBS, CATEGORY_LABELS } from './labels.ts';
+import { MuteToggle } from './MuteToggle.tsx';
 
 interface HomeScreenProps {
   counts: Record<Category, number>;
@@ -20,8 +22,14 @@ export function HomeScreen({
   loadError = null,
   onStart,
 }: HomeScreenProps) {
+  function begin(selection: CategorySelection) {
+    play('start');
+    onStart(selection);
+  }
+
   return (
     <main className="screen screen--home">
+      <MuteToggle className="mute--home" />
       <header className="home__sky">
         <h1 className="logo">Prillion</h1>
         <p className="home__subtitle">the rare-answer dive</p>
@@ -39,7 +47,7 @@ export function HomeScreen({
         <button
           className="begin"
           type="button"
-          onClick={() => onStart('mixed')}
+          onClick={() => begin('mixed')}
           disabled={loading || total === 0}
         >
           <span className="begin__label">
@@ -58,7 +66,7 @@ export function HomeScreen({
               <button
                 className="category-card"
                 type="button"
-                onClick={() => onStart(category)}
+                onClick={() => begin(category)}
                 disabled={loading || counts[category] === 0}
               >
                 <span className="category-card__name">{CATEGORY_LABELS[category]}</span>

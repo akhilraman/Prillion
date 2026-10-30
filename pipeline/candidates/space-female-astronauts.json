@@ -1,0 +1,1244 @@
+{
+  "question": {
+    "id": "space-female-astronauts",
+    "category": "space",
+    "prompt": "Name a woman who has flown in space.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "valentina-tereshkova",
+        "canonical": "Valentina Tereshkova",
+        "aliases": [
+          "Tereshkova"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She became the first woman in space aboard Vostok 6.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "svetlana-savitskaya",
+        "canonical": "Svetlana Savitskaya",
+        "aliases": [
+          "Savitskaya"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the first woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sally-ride",
+        "canonical": "Sally Ride",
+        "aliases": [
+          "Ride"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first American woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "judith-resnik",
+        "canonical": "Judith Resnik",
+        "aliases": [
+          "Judy Resnik",
+          "Resnik"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the fourth woman in space and flew on STS-41-D.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kathryn-d-sullivan",
+        "canonical": "Kathryn D. Sullivan",
+        "aliases": [
+          "Kathryn Sullivan",
+          "Kathy Sullivan"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and was the second woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "anna-lee-fisher",
+        "canonical": "Anna Lee Fisher",
+        "aliases": [
+          "Anna Fisher"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-51-A and was the first mother in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "margaret-rhea-seddon",
+        "canonical": "Margaret Rhea Seddon",
+        "aliases": [
+          "Rhea Seddon",
+          "Margaret Seddon"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-51-D, STS-40 and STS-58.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "shannon-lucid",
+        "canonical": "Shannon Lucid",
+        "aliases": [
+          "Lucid"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew multiple spaceflights and became the first American woman to fly on a space station.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "bonnie-j-dunbar",
+        "canonical": "Bonnie J. Dunbar",
+        "aliases": [
+          "Bonnie Dunbar"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-61-A and STS-32.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "mary-l-cleave",
+        "canonical": "Mary L. Cleave",
+        "aliases": [
+          "Mary Cleave"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-61-B and STS-30.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "ellen-s-baker",
+        "canonical": "Ellen S. Baker",
+        "aliases": [
+          "Ellen Baker"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-34, STS-50 and STS-71.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kathryn-c-thornton",
+        "canonical": "Kathryn C. Thornton",
+        "aliases": [
+          "Kathryn Thornton",
+          "Kathy Thornton"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the third woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "marsha-ivins",
+        "canonical": "Marsha Ivins",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-32 and STS-46.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "linda-m-godwin",
+        "canonical": "Linda M. Godwin",
+        "aliases": [
+          "Linda Godwin"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the fourth woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "helen-sharman",
+        "canonical": "Helen Sharman",
+        "aliases": [
+          "Sharman"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first British citizen in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "tamara-e-jernigan",
+        "canonical": "Tamara E. Jernigan",
+        "aliases": [
+          "Tamara Jernigan",
+          "Tammy Jernigan"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the fifth woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "millie-hughes-fulford",
+        "canonical": "Millie Hughes-Fulford",
+        "aliases": [
+          "Millie Hughes Fulford"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-40 as the first female payload specialist.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "roberta-bondar",
+        "canonical": "Roberta Bondar",
+        "aliases": [
+          "Bondar"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Canadian woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "nancy-jan-davis",
+        "canonical": "Nancy Jan Davis",
+        "aliases": [
+          "Jan Davis",
+          "Nancy Davis"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-47, STS-60 and STS-85.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "mae-jemison",
+        "canonical": "Mae Jemison",
+        "aliases": [
+          "Jemison"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first African American woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "susan-j-helms",
+        "canonical": "Susan J. Helms",
+        "aliases": [
+          "Susan Helms"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the sixth woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "ellen-ochoa",
+        "canonical": "Ellen Ochoa",
+        "aliases": [
+          "Ochoa"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Hispanic American woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "janice-e-voss",
+        "canonical": "Janice E. Voss",
+        "aliases": [
+          "Janice Voss"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-57 and STS-63.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "nancy-j-currie",
+        "canonical": "Nancy J. Currie",
+        "aliases": [
+          "Nancy Currie",
+          "Nancy Currie-Gregg"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-57 and STS-70.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "chiaki-mukai",
+        "canonical": "Chiaki Mukai",
+        "aliases": [
+          "Mukai"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Japanese woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "yelena-v-kondakova",
+        "canonical": "Yelena V. Kondakova",
+        "aliases": [
+          "Yelena Kondakova",
+          "Elena Kondakova"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She traveled to Mir aboard Soyuz and the Space Shuttle.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "eileen-collins",
+        "canonical": "Eileen Collins",
+        "aliases": [
+          "Collins"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew as the first female shuttle pilot and shuttle commander.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "wendy-b-lawrence",
+        "canonical": "Wendy B. Lawrence",
+        "aliases": [
+          "Wendy Lawrence"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include STS-67 and STS-86.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "mary-e-weber",
+        "canonical": "Mary E. Weber",
+        "aliases": [
+          "Mary Weber"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-70 and STS-101.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "catherine-coleman",
+        "canonical": "Catherine Coleman",
+        "aliases": [
+          "Cady Coleman"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her listed spaceflights include two shuttle missions and Soyuz TMA-20.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "claudie-haigner",
+        "canonical": "Claudie Haigneré",
+        "aliases": [
+          "Claudie Haignere",
+          "Claudie André-Deshays",
+          "Claudie Andre-Deshays"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Frenchwoman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "susan-still-kilrain",
+        "canonical": "Susan Still Kilrain",
+        "aliases": [
+          "Susan Kilrain",
+          "Susan Still"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-83 and STS-94 as a shuttle pilot.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kalpana-chawla",
+        "canonical": "Kalpana Chawla",
+        "aliases": [
+          "Chawla"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first woman of Indian origin in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kathryn-p-hire",
+        "canonical": "Kathryn P. Hire",
+        "aliases": [
+          "Kathryn Hire",
+          "Kay Hire"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-90 and STS-130.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "janet-l-kavandi",
+        "canonical": "Janet L. Kavandi",
+        "aliases": [
+          "Janet Kavandi"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-91, STS-99 and STS-104.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "julie-payette",
+        "canonical": "Julie Payette",
+        "aliases": [
+          "Payette"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the second Canadian woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "pamela-melroy",
+        "canonical": "Pamela Melroy",
+        "aliases": [
+          "Pam Melroy"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the second female shuttle commander.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "peggy-whitson",
+        "canonical": "Peggy Whitson",
+        "aliases": [
+          "Whitson"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She has flown multiple space missions, including STS-111/113 and Soyuz TMA-11.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sandra-magnus",
+        "canonical": "Sandra Magnus",
+        "aliases": [
+          "Sandy Magnus"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-112, STS-126/119 and STS-135.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "laurel-b-clark",
+        "canonical": "Laurel B. Clark",
+        "aliases": [
+          "Laurel Clark"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-107.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "stephanie-wilson",
+        "canonical": "Stephanie Wilson",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the second African American woman to go into space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "lisa-nowak",
+        "canonical": "Lisa Nowak",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-121.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "heidemarie-stefanyshyn-piper",
+        "canonical": "Heidemarie Stefanyshyn-Piper",
+        "aliases": [
+          "Heidemarie Stefanyshyn Piper",
+          "Heide Stefanyshyn-Piper"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the eighth woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "anousheh-ansari",
+        "canonical": "Anousheh Ansari",
+        "aliases": [
+          "Ansari"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first female space tourist and the first Iranian woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sunita-williams",
+        "canonical": "Sunita Williams",
+        "aliases": [
+          "Suni Williams"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She has flown on shuttle, Soyuz and Starliner missions.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "joan-higginbotham",
+        "canonical": "Joan Higginbotham",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-116.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "tracy-caldwell-dyson",
+        "canonical": "Tracy Caldwell Dyson",
+        "aliases": [
+          "Tracy Caldwell",
+          "Tracy Dyson"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and became the eleventh woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "barbara-morgan",
+        "canonical": "Barbara Morgan",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-118 as an educator astronaut.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "yi-so-yeon",
+        "canonical": "Yi So-yeon",
+        "aliases": [
+          "Yi Soyeon",
+          "Yi So Yeon"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Korean in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "karen-l-nyberg",
+        "canonical": "Karen L. Nyberg",
+        "aliases": [
+          "Karen Nyberg"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-124 and Soyuz TMA-09M.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "k-megan-mcarthur",
+        "canonical": "K. Megan McArthur",
+        "aliases": [
+          "Megan McArthur",
+          "Katherine Megan McArthur"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-125 and SpaceX Crew-2.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "nicole-p-stott",
+        "canonical": "Nicole P. Stott",
+        "aliases": [
+          "Nicole Stott"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on shuttle missions and performed a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "dorothy-metcalf-lindenburger",
+        "canonical": "Dorothy Metcalf-Lindenburger",
+        "aliases": [
+          "Dorothy Metcalf Lindenburger",
+          "Dottie Metcalf-Lindenburger"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-131.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "naoko-yamazaki",
+        "canonical": "Naoko Yamazaki",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on STS-131.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "shannon-walker",
+        "canonical": "Shannon Walker",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Soyuz TMA-19 and SpaceX Crew-1.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "liu-yang",
+        "canonical": "Liu Yang",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Chinese woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "wang-yaping",
+        "canonical": "Wang Yaping",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Shenzhou missions and became the first Chinese woman to perform a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "yelena-serova",
+        "canonical": "Yelena Serova",
+        "aliases": [
+          "Elena Serova"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Russian woman to visit the ISS.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "samantha-cristoforetti",
+        "canonical": "Samantha Cristoforetti",
+        "aliases": [
+          "Cristoforetti"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Italian woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kathleen-rubins",
+        "canonical": "Kathleen Rubins",
+        "aliases": [
+          "Kate Rubins"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and performed spacewalks during ISS Expedition 48.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "serena-au-n-chancellor",
+        "canonical": "Serena Auñón-Chancellor",
+        "aliases": [
+          "Serena Aunon-Chancellor",
+          "Serena Aunon Chancellor",
+          "Serena Auñón"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Soyuz MS-09.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "anne-mcclain",
+        "canonical": "Anne McClain",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and performed spacewalks during ISS Expedition 59.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "beth-moses",
+        "canonical": "Beth Moses",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Her commercial suborbital flight reached space under the US definition.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "christina-koch",
+        "canonical": "Christina Koch",
+        "aliases": [
+          "Koch"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Soyuz MS-12/13 and participated in the first all-female spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "jessica-meir",
+        "canonical": "Jessica Meir",
+        "aliases": [
+          "Meir"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew in space and participated in the first all-female spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sian-proctor",
+        "canonical": "Sian Proctor",
+        "aliases": [
+          "Proctor"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Inspiration4 as a commercial astronaut pilot.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "hayley-arceneaux",
+        "canonical": "Hayley Arceneaux",
+        "aliases": [
+          "Arceneaux"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Inspiration4 and was the first person in space with a prosthesis.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "yulia-peresild",
+        "canonical": "Yulia Peresild",
+        "aliases": [
+          "Julia Peresild"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She traveled to the ISS as the first actress in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kayla-barron",
+        "canonical": "Kayla Barron",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on SpaceX Crew-3 and performed a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "jessica-watkins",
+        "canonical": "Jessica Watkins",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on SpaceX Crew-4 on a long-duration mission.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "nicole-aunapu-mann",
+        "canonical": "Nicole Aunapu Mann",
+        "aliases": [
+          "Nicole Mann"
+        ],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She was the first Native American woman in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "anna-kikina",
+        "canonical": "Anna Kikina",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on SpaceX Crew-5.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "rayyanah-barnawi",
+        "canonical": "Rayyanah Barnawi",
+        "aliases": [
+          "Rayana Barnawi"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Axiom Mission 2 as the first female Saudi astronaut in space.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kelly-latimer",
+        "canonical": "Kelly Latimer",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as having flown Virgin Galactic missions including Galactic 02.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "jasmin-moghbeli",
+        "canonical": "Jasmin Moghbeli",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on SpaceX Crew-7 and performed a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "loral-o-hara",
+        "canonical": "Loral O'Hara",
+        "aliases": [
+          "Loral Ohara",
+          "Loral O Hara"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Soyuz MS-24 and performed a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "kellie-gerardi",
+        "canonical": "Kellie Gerardi",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as having flown on Galactic 05.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "jeanette-j-epps",
+        "canonical": "Jeanette J. Epps",
+        "aliases": [
+          "Jeanette Epps"
+        ],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on SpaceX Crew-8.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "marina-vasilevskaya",
+        "canonical": "Marina Vasilevskaya",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Soyuz MS-25/MS-24.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sarah-gillis",
+        "canonical": "Sarah Gillis",
+        "aliases": [],
+        "familiarity": 0.0159,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Polaris Dawn and performed a spacewalk.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "anna-menon",
+        "canonical": "Anna Menon",
+        "aliases": [],
+        "familiarity": 0.0048,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She flew on Polaris Dawn.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "wang-haoze",
+        "canonical": "Wang Haoze",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as having flown on Shenzhou 19.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "nichole-ayers",
+        "canonical": "Nichole Ayers",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as having flown on SpaceX Crew-10.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "jannicke-mikkelsen",
+        "canonical": "Jannicke Mikkelsen",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as the first Norwegian in space, flying on Fram2.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "rabea-rogge",
+        "canonical": "Rabea Rogge",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "She is listed as having flown on Fram2.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "zena-cardman",
+        "canonical": "Zena Cardman",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists her maiden spaceflight as commander of SpaceX Crew-11.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "sophie-adenot",
+        "canonical": "Sophie Adenot",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes her under current and completed spaceflights with SpaceX Crew-12.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      },
+      {
+        "id": "lai-ka-ying",
+        "canonical": "Lai Ka-ying",
+        "aliases": [
+          "Lai Ka Ying",
+          "Lai Kaying"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies her as the first Hong Kong woman in space on Shenzhou 23.",
+        "sourceIds": [
+          "list-of-women-astronauts"
+        ]
+      }
+    ],
+    "explanation": "Women have flown as astronauts, cosmonauts and private space travelers. Valentina Tereshkova became the first in 1963. Both orbital and qualifying suborbital flights count here, but being selected for astronaut training does not.",
+    "sources": [
+      {
+        "id": "list-of-women-astronauts",
+        "title": "List of women astronauts",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_women_astronauts",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A woman documented as having reached space on an orbital or suborbital flight; flights recognized under the US 50-mile definition count. Astronaut selection alone, or a launch that did not reach space, does not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ba556cea3308883d",
+    "brief": "Name a woman who has flown in space.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-women-astronauts",
+        "version": "1373879029",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Valentina Tereshkova": "In 1963 Soviet cosmonaut Valentina Tereshkova became the first woman in space on her Vostok 6 flight of 48 orbits, and is the only woman to fly solo in space.",
+      "Svetlana Savitskaya": "Svetlana Savitskaya Aug. 8, 1948 | Soviet Union | First woman to fly on a space station (Salyut 7, 1982). First woman to perform a spacewalk (Jul. 25, 1984).",
+      "Sally Ride": "Sally Ride May 26, 1951 died Jul. 23, 2012 | United States | First American woman in space.",
+      "Judith Resnik": "Judith Resnik Apr. 5, 1949 died Jan. 28, 1986 | United States | Fourth woman in space, second American woman in space.",
+      "Kathryn D. Sullivan": "Kathryn D. Sullivan Oct. 3, 1951 | United States | Second woman to perform a spacewalk. (Oct. 11, 1984) | STS-41-G (Oct. 5, 1984)",
+      "Anna Lee Fisher": "Anna Lee Fisher Aug. 24, 1949 | United States | First mother in space. | STS-51-A (Nov. 8, 1984)",
+      "Margaret Rhea Seddon": "Margaret Rhea Seddon Nov. 8, 1947 | United States | | STS-51-D (Apr. 12, 1985) STS-40 (Jun. 5, 1991) STS-58 (Oct. 18, 1993)",
+      "Shannon Lucid": "Shannon Lucid Jan. 14, 1943 | United States | First American woman to fly on a space station (Mir, 1996).",
+      "Bonnie J. Dunbar": "Bonnie J. Dunbar Mar. 3, 1949 | United States | | STS-61-A (Oct. 30, 1985) STS-32 (Jan. 9, 1990)",
+      "Mary L. Cleave": "Mary L. Cleave Feb. 5, 1947 died Nov. 27 2023 | United States | | STS-61-B (Nov. 26, 1985) STS-30 (May 4, 1989)",
+      "Ellen S. Baker": "Ellen S. Baker Apr. 27, 1953 | United States | | STS-34 (Oct. 18, 1989) STS-50 (Jun. 25, 1992) STS-71 (Jun. 27, 1995)",
+      "Kathryn C. Thornton": "Kathryn C. Thornton Aug. 17, 1952 | United States | Third woman to walk in space.",
+      "Marsha Ivins": "Marsha Ivins Apr. 15, 1951 | United States | | STS-32 (Jan. 9, 1990) STS-46 (Jul. 31, 1992)",
+      "Linda M. Godwin": "Linda M. Godwin Jul. 2, 1952 | United States | Fourth woman to walk in space (Mar. 27, 1996, Dec. 10, 2001)",
+      "Helen Sharman": "Helen Sharman May 30, 1963 | United Kingdom | First British citizen in space.",
+      "Tamara E. Jernigan": "Tamara E. Jernigan May 7, 1959 | United States | Fifth woman to walk in space (May 30, 1999) | STS-40 (Jun. 5, 1991)",
+      "Millie Hughes-Fulford": "Millie Hughes-Fulford Dec. 21, 1945 died Feb. 2, 2021 | United States | First female payload specialist. | STS-40 (Jun. 5, 1991)",
+      "Roberta Bondar": "Roberta Bondar Dec. 4, 1945 | Canada | First Canadian woman in space.",
+      "Nancy Jan Davis": "Nancy Jan Davis Nov. 1, 1953 | United States | With husband Mark Lee, became the first married couple to launch into space together (STS-47). | STS-47 (Sep. 12, 1992) STS-60 (Feb. 3, 1994) STS-85 (Aug. 7, 1997)",
+      "Mae Jemison": "Mae Jemison Oct. 17, 1956 | United States | First African American woman in space | STS-47 (Sep. 12, 1992)",
+      "Susan J. Helms": "Susan J. Helms Feb. 26, 1958 | United States | Sixth woman to walk in space (Mar. 11, 2001).",
+      "Ellen Ochoa": "Ellen Ochoa May 10, 1958 | United States | First Hispanic American woman in space. | STS-56 (Apr. 8, 1993)",
+      "Janice E. Voss": "Janice E. Voss Oct. 8, 1956 died Feb. 6, 2012 | United States | | STS-57 (Jun. 21, 1993) STS-63 (Feb. 3, 1995)",
+      "Nancy J. Currie": "Nancy J. Currie Dec. 29, 1958 | United States | | STS-57 (Jun. 21, 1993) STS-70 (Jul. 13, 1995)",
+      "Chiaki Mukai": "Chiaki Mukai May 6, 1952 | Japan | First Japanese woman and first Asian woman in space. | STS-65 (Jul. 8, 1994)",
+      "Yelena V. Kondakova": "Yelena V. Kondakova Mar. 30, 1957 | Russia | First Russian woman to travel in two different spacecraft, Soyuz TM-20 and STS-84; both were on trips to Mir Space Station.",
+      "Eileen Collins": "Eileen Collins Nov. 19, 1956 | United States | First female shuttle pilot (STS-63) and shuttle commander (STS-93).",
+      "Wendy B. Lawrence": "Wendy B. Lawrence Jul. 2, 1959 | United States | Second known LGBT person in space. | STS-67 (Mar. 2, 1995) STS-86 (Sep. 25, 1997)",
+      "Mary E. Weber": "Mary E. Weber Aug. 24, 1962 | United States | | STS-70 (Jul. 13, 1995) STS-101 (May 19, 2000)",
+      "Catherine Coleman": "Catherine Coleman Dec. 14, 1960 | United States | | STS-73 (Oct. 20, 1995) STS-93 (Jul. 23, 1999) Soyuz TMA-20 (Dec. 15, 2010)",
+      "Claudie Haigneré": "Claudie Haigneré May 13, 1957 | France | First Frenchwoman in space. 1996 flight as Claudie André-Deshays.",
+      "Susan Still Kilrain": "Susan Still Kilrain Oct. 24, 1961 | United States | Second female shuttle pilot. | STS-83 (Apr. 4, 1997) STS-94 (Jul. 1, 1997)",
+      "Kalpana Chawla": "Kalpana Chawla Mar. 17, 1962 died Feb. 1, 2003 | United States | First Asian American (Indian origin, naturalized U.S. citizen) woman in space.",
+      "Kathryn P. Hire": "Kathryn P. Hire Aug. 26, 1959 | United States | | STS-90 (Apr. 17, 1998) STS-130 (Feb. 8, 2010)",
+      "Janet L. Kavandi": "Janet L. Kavandi Jul. 17, 1959 | United States | | STS-91 (Jun. 2, 1998) STS-99 (Feb. 11, 2000) STS-104 (Jul. 12, 2001)",
+      "Julie Payette": "Julie Payette Oct. 20, 1963 | Canada | Second Canadian woman in space. First French Canadian woman in space.",
+      "Pamela Melroy": "Pamela Melroy Sep. 17, 1961 | United States | Second female shuttle commander (STS-120).",
+      "Peggy Whitson": "STS-111/113 (Jun. 5, 2002) Soyuz TMA-11 (Oct. 10, 2007) Soyuz MS-03/04 (Nov. 17, 2016) Axiom Mission 2 (May 21, 2023)",
+      "Sandra Magnus": "Sandra Magnus Oct. 30, 1964 | United States | | STS-112 (Oct. 7, 2002) STS-126/119 (Nov. 14, 2008) STS-135 (Jul. 8, 2011)",
+      "Laurel B. Clark": "Laurel B. Clark Mar. 10, 1961 died Feb. 1, 2003 | United States | Died in the Columbia disaster. | STS-107 (Jan. 16, 2003)",
+      "Stephanie Wilson": "Stephanie Wilson Sep. 27, 1966 | United States | The second African American woman to go into space | STS-121 (Jul. 4, 2006)",
+      "Lisa Nowak": "Lisa Nowak May 10, 1963 | United States | | STS-121 (Jul. 4, 2006)",
+      "Heidemarie Stefanyshyn-Piper": "Heidemarie Stefanyshyn-Piper Feb. 7, 1963 | United States | Eighth woman to walk in space",
+      "Anousheh Ansari": "Anousheh Ansari Sep. 12, 1966 | Iran / United States | Fourth space tourist and first female space tourist. First Iranian and first Muslim woman in space.",
+      "Sunita Williams": "STS-116/117 (December 9, 2006) Soyuz TMA-05M (July 15, 2012) Starliner Crewed Flight Test (June 5, 2024)",
+      "Joan Higginbotham": "Joan Higginbotham August 3, 1964 | United States | | STS-116 (Dec. 9, 2006)",
+      "Tracy Caldwell Dyson": "Tracy Caldwell Dyson August 14, 1969 | United States | Eleventh woman to walk in space (Aug. 7, 2010, Aug. 11, 2010, Aug. 16, 2010).",
+      "Barbara Morgan": "Barbara Morgan Nov. 28, 1951 | United States | First educator astronaut. Originally selected for the Teacher in Space Project. | STS-118 (Aug. 8, 2007)",
+      "Yi So-yeon": "Yi So-yeon Jun. 2, 1978 | Republic of Korea | First Korean in space. | Soyuz TMA-12 (Apr. 8, 2008)",
+      "Karen L. Nyberg": "Karen L. Nyberg Oct. 7, 1969 | United States | | STS-124 (May 31, 2008) Soyuz TMA-09M (May 28, 2013)",
+      "K. Megan McArthur": "K. Megan McArthur Aug. 30, 1971 | United States | | STS-125 (May 11, 2009) SpaceX Crew-2 (Apr. 23, 2021)",
+      "Nicole P. Stott": "Nicole P. Stott Nov. 11, 1962 | United States | Tenth woman to walk in space (Sep. 1–2, 2009). | STS-128/129 (Aug. 28, 2009) STS-133 (Feb. 24, 2011)",
+      "Dorothy Metcalf-Lindenburger": "Dorothy Metcalf-Lindenburger May 15, 1975 | United States | First Space Camp alumna to become an astronaut | STS-131 (Apr. 5, 2010)",
+      "Naoko Yamazaki": "Naoko Yamazaki Dec. 27, 1970 | Japan | | STS-131 (Apr. 5, 2010)",
+      "Shannon Walker": "Soyuz TMA-19 (Jun. 15, 2010) SpaceX Crew-1 (Nov. 15, 2020)",
+      "Liu Yang": "Liu Yang Oct. 6, 1978 | China | First Chinese woman in space.",
+      "Wang Yaping": "Wang Yaping Jan. 27, 1980 | China | First Chinese woman on long duration expedition. Sixteenth woman to walk in space (November 7, 2021) during Shenzhou 13.",
+      "Yelena Serova": "Yelena Serova Apr. 22, 1976 | Russia | Member of ISS Expedition 41. First Russian woman to visit the ISS. | Soyuz TMA-14M (Sep. 25, 2014)",
+      "Samantha Cristoforetti": "Samantha Cristoforetti Apr. 26, 1977 | Italy | ESA Astronaut. First Italian woman in space and first Italian woman on the ISS, with Expedition 42/43.",
+      "Kathleen Rubins": "Kathleen Rubins Oct. 14, 1978 | United States | Twelfth woman to walk in space (Aug. 19, 2016, Sep. 01, 2016) during ISS Expedition 48.",
+      "Serena Auñón-Chancellor": "Serena Auñón-Chancellor Apr. 9, 1976 | United States | | Soyuz MS-09 (Jun. 6, 2018)",
+      "Anne McClain": "Anne McClain Jun. 7, 1979 | United States | Thirteenth woman to walk in space (Mar. 22, 2019, Apr. 08, 2019) during ISS Expedition 59.",
+      "Beth Moses": "Beth Moses May 29, 1969 | United States | Virgin Galactic Chief instructor. First woman to make a spaceflight (US Department of Defense classification i.e. >50 mi (80.47 km)) on a commercially launched vehicle.",
+      "Christina Koch": "Christina Koch Feb. 2, 1979 | United States | Fourteenth woman to walk in space, during Expedition 59. Jointly with Jessica Meir, became the first two women to undertake an all-female EVA during ISS Expedition 61 (Oct 18, 2019).",
+      "Jessica Meir": "Jessica Meir Jul. 15, 1977 | United States / Sweden | Fifteenth woman to walk in space, during Expedition 61. Jointly with Christina Koch, became the first two women to undertake an all-female EVA.",
+      "Sian Proctor": "Sian Proctor Mar. 26, 1970 | United States | First female commercial astronaut spaceship pilot First African-American commercial astronaut | Inspiration4 (Sep. 16, 2021)",
+      "Hayley Arceneaux": "Hayley Arceneaux Dec. 9, 1991 | United States | First in space with a prosthesis, a St. Jude Children's Research Hospital employee and bone cancer survivor who is now a physician assistant | Inspiration4 (Sep. 16, 2021)",
+      "Yulia Peresild": "Yulia Peresild Sep. 5, 1984 | Russia | First actress in space, filming footage for the 2023 film The Challenge aboard the International Space Station. | Soyuz MS-19 (Oct. 5, 2021)",
+      "Kayla Barron": "Kayla Barron Sep. 19, 1987 | United States | Seventeenth woman to walk in space. | SpaceX Crew-3/Expedition 66. (Nov. 10, 2021)",
+      "Jessica Watkins": "Jessica Watkins May 14, 1988 | United States | First African-American woman on a long-duration mission. | SpaceX Crew-4 (Apr. 27, 2022)",
+      "Nicole Aunapu Mann": "Nicole Aunapu Mann Jun. 27, 1977 | United States | First Native American woman in space.",
+      "Anna Kikina": "Anna Kikina Aug.27, 1984 | Russia | First Russian cosmonaut to fly a Crew Dragon. | SpaceX Crew-5 (Oct. 5, 2022)",
+      "Rayyanah Barnawi": "Rayyanah Barnawi Sep., 1988 | Saudi Arabia | First female Saudi astronaut in space. | Axiom Mission 2 (May 21, 2023)",
+      "Kelly Latimer": "Kelly Latimer | United States | Pilot. Virgin Galactic | Galactic 02 (Aug. 10, 2023) Galactic 04 (Oct. 06, 2023) Galactic 05 (Nov. 02, 2023)",
+      "Jasmin Moghbeli": "Jasmin Moghbeli Jun. 24, 1983 | United States | Twenty-first woman to walk in space, during Expedition 70. | SpaceX Crew-7 (Aug. 26, 2023)",
+      "Loral O'Hara": "Loral O'Hara May 3, 1983 | United States | Twenty-second woman to walk in space, during Expedition 70. | Soyuz MS-24 (Sep. 15, 2023)",
+      "Kellie Gerardi": "Kellie Gerardi February 16, 1989 | United States | | Galactic 05 (Nov. 02, 2023)",
+      "Jeanette J. Epps": "Jeanette J. Epps Nov. 2, 1970 | United States | | SpaceX Crew-8 (Mar. 4, 2024)",
+      "Marina Vasilevskaya": "Marina Vasilevskaya Sept. 14, 1990 | Belarus | | Soyuz MS-25/MS-24 (Mar. 23, 2024)",
+      "Sarah Gillis": "Sarah Gillis Jan. 1, 1994 | United States | Twenty-second woman, and first female private spaceflight participant to walk in space.",
+      "Anna Menon": "Anna Menon Dec. 24, 1985 | United States | | Polaris Dawn (Sep. 10, 2024)",
+      "Wang Haoze": "Wang Haoze Mar. 1990 | China | | Shenzhou 19 (Oct. 29, 2024)",
+      "Nichole Ayers": "Nichole Ayers Dec. 13, 1988 | United States | | SpaceX Crew-10 (Mar. 14, 2025)",
+      "Jannicke Mikkelsen": "Jannicke Mikkelsen Jun. 8, 1986 | Norway / United Kingdom | First Norwegian in space. First polar retrograde orbit, i.e., flying over Earth's poles. The first European astronaut to command a spacecraft. | Fram2 (Apr. 1, 2025)",
+      "Rabea Rogge": "Rabea Rogge 1995 | Germany | First German woman. First polar retrograde orbit with Jannicke Mikkelsen. | Fram2 (Apr. 1, 2025)",
+      "Zena Cardman": "Zena Cardman Oct. 26, 1987 | United States | NASA Astronaut Group 22 First female astronaut to assume command on her maiden spaceflight. | SpaceX Crew-11 (Aug. 1, 2025)",
+      "Sophie Adenot": "Sophie Adenot 1982 | France | 2022 ESA Astronaut Group | SpaceX Crew-12 (Expedition 74/75)",
+      "Lai Ka-ying": "Lai Ka-ying Nov. 1982 | China | CNSA Group 4 First Hong Kong born and raised astronaut in space First Hong Kong woman in space | Shenzhou 23 (May 24, 2026)"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Peggy Whitson]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Sunita Williams]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Shannon Walker]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

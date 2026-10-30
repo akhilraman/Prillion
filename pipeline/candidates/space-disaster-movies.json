@@ -1,0 +1,287 @@
+{
+  "question": {
+    "id": "space-disaster-movies",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a film about a space disaster, stranded astronauts, or an asteroid or comet threatening Earth.",
+    "answerSet": "open",
+    "criteria": "A released feature film whose central plot involves a disastrous space mission, people stranded beyond Earth, or an asteroid or comet threatening to hit Earth.",
+    "answers": [
+      {
+        "id": "apollo-13",
+        "canonical": "Apollo 13",
+        "aliases": [
+          "Apollo Thirteen"
+        ],
+        "familiarity": 0.1261,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apollo 13 dramatizes the damaged lunar mission and the effort to bring its astronauts safely back to Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "gravity",
+        "canonical": "Gravity",
+        "aliases": [
+          "Gravity (2013)"
+        ],
+        "familiarity": 0.1261,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gravity follows astronauts struggling to survive after orbital debris destroys their space shuttle.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-martian",
+        "canonical": "The Martian",
+        "aliases": [
+          "Martian",
+          "The Martian (2015)"
+        ],
+        "familiarity": 0.1261,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Martian follows an astronaut accidentally left behind on Mars.",
+        "sourceIds": []
+      },
+      {
+        "id": "armageddon",
+        "canonical": "Armageddon",
+        "aliases": [
+          "Armageddon (1998)"
+        ],
+        "familiarity": 0.1261,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Armageddon follows a mission to stop a massive asteroid from striking Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "don-t-look-up",
+        "canonical": "Don't Look Up",
+        "aliases": [],
+        "familiarity": 0.1261,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Don't Look Up follows astronomers trying to warn humanity about a comet heading toward Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "deep-impact",
+        "canonical": "Deep Impact",
+        "aliases": [
+          "Deep Impact (1998)"
+        ],
+        "familiarity": 0.0504,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deep Impact depicts humanity's response to a comet on a collision course with Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "sunshine",
+        "canonical": "Sunshine",
+        "aliases": [
+          "Sunshine (2007)"
+        ],
+        "familiarity": 0.0504,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunshine follows a crew whose mission to revive the dying Sun becomes a struggle for survival.",
+        "sourceIds": []
+      },
+      {
+        "id": "stowaway",
+        "canonical": "Stowaway",
+        "aliases": [
+          "Stowaway (2021)"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stowaway follows a Mars-bound crew facing an oxygen shortage after discovering an accidental passenger.",
+        "sourceIds": []
+      },
+      {
+        "id": "europa-report",
+        "canonical": "Europa Report",
+        "aliases": [
+          "Europa Report (2013)"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Europa Report depicts a crewed expedition to Jupiter's moon Europa that suffers a series of disasters.",
+        "sourceIds": []
+      },
+      {
+        "id": "spacecamp",
+        "canonical": "SpaceCamp",
+        "aliases": [
+          "SpaceCamp (1986)"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SpaceCamp follows young campers and their instructor who are accidentally launched into orbit aboard a space shuttle.",
+        "sourceIds": []
+      },
+      {
+        "id": "apollo-18",
+        "canonical": "Apollo 18",
+        "aliases": [
+          "Apollo Eighteen",
+          "Apollo 18 (2011)"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apollo 18 is a fictional found-footage film about a lunar mission endangered by hostile creatures.",
+        "sourceIds": []
+      },
+      {
+        "id": "marooned",
+        "canonical": "Marooned",
+        "aliases": [
+          "Marooned (1969)"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marooned follows three astronauts trapped in Earth orbit after their spacecraft's engine fails.",
+        "sourceIds": []
+      },
+      {
+        "id": "lost-in-space",
+        "canonical": "Lost in Space",
+        "aliases": [
+          "Lost in Space (1998)"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lost in Space follows the Robinson family after sabotage sends their spacecraft off course.",
+        "sourceIds": []
+      },
+      {
+        "id": "moonfall",
+        "canonical": "Moonfall",
+        "aliases": [
+          "Moonfall (2022)"
+        ],
+        "familiarity": 0.0504,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moonfall follows a mission to stop the Moon from colliding with Earth.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These films turn space exploration and cosmic hazards into survival stories, ranging from the historical Apollo 13 mission to fictional asteroid impacts and astronauts trapped far from home.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "296467f60fa48f81",
+    "brief": "Name a well-known film about a space disaster, stranded astronauts or a threat from space.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Apollo 13": 3,
+      "Gravity": 3,
+      "The Martian": 3,
+      "Armageddon": 3,
+      "Don't Look Up": 3,
+      "Deep Impact": 3,
+      "Sunshine": 3,
+      "Lost in Space": 2,
+      "Stowaway": 3,
+      "Europa Report": 3,
+      "SpaceCamp": 3,
+      "Apollo 18": 3,
+      "Marooned": 3,
+      "Independence Day": 2,
+      "War of the Worlds": 2,
+      "Moonfall": 2,
+      "Melancholia": 2
+    },
+    "droppedForVotes": {
+      "Mission to Mars": 1,
+      "Red Planet": 1,
+      "The Cloverfield Paradox": 1,
+      "Meteor": 1,
+      "Aniara": 1,
+      "Approaching the Unknown": 1,
+      "Stranded": 1,
+      "Mars Attacks!": 1,
+      "Knowing": 1,
+      "The Wandering Earth": 1,
+      "The Day the Earth Stood Still": 1,
+      "The Last Days on Mars": 1,
+      "Alien": 1,
+      "Aliens": 1,
+      "The Thing": 1,
+      "Passengers": 1,
+      "Life": 1
+    },
+    "verdicts": {
+      "Apollo 13": {
+        "verdict": "correct",
+        "reason": "Dramatizes the disastrous Apollo 13 mission and the effort to return its stranded crew safely."
+      },
+      "Gravity": {
+        "verdict": "correct",
+        "reason": "Astronauts struggle to survive in orbit after debris destroys their shuttle."
+      },
+      "The Martian": {
+        "verdict": "correct",
+        "reason": "Its central plot concerns an astronaut stranded on Mars."
+      },
+      "Armageddon": {
+        "verdict": "correct",
+        "reason": "A crew attempts to prevent an asteroid from striking Earth."
+      },
+      "Don't Look Up": {
+        "verdict": "correct",
+        "reason": "A comet on a collision course with Earth drives the central plot."
+      },
+      "Deep Impact": {
+        "verdict": "correct",
+        "reason": "Depicts a comet threatening Earth and a space mission to stop it."
+      },
+      "Sunshine": {
+        "verdict": "correct",
+        "reason": "Its mission to revive the Sun becomes a disastrous struggle for the spacecraft's crew."
+      },
+      "Stowaway": {
+        "verdict": "correct",
+        "reason": "A Mars-bound mission suffers a life-threatening oxygen shortage."
+      },
+      "Europa Report": {
+        "verdict": "correct",
+        "reason": "A crewed mission to Europa suffers equipment failures and fatal disasters."
+      },
+      "SpaceCamp": {
+        "verdict": "correct",
+        "reason": "An accidental shuttle launch leaves campers and their instructor struggling to return from orbit."
+      },
+      "Apollo 18": {
+        "verdict": "correct",
+        "reason": "A fictional lunar mission becomes a disaster involving hostile lunar creatures."
+      },
+      "Marooned": {
+        "verdict": "correct",
+        "reason": "Three astronauts become stranded in orbit when their spacecraft cannot return to Earth."
+      },
+      "Lost in Space": {
+        "verdict": "correct",
+        "reason": "Sabotage leaves the Robinson family lost in space and struggling to survive."
+      },
+      "Independence Day": {
+        "verdict": "incorrect",
+        "reason": "Its central plot is an alien invasion, not a disastrous space mission, stranded astronauts, or an asteroid or comet threat."
+      },
+      "War of the Worlds": {
+        "verdict": "incorrect",
+        "reason": "An Earthbound alien-invasion survival story does not meet the specified criteria."
+      },
+      "Moonfall": {
+        "verdict": "correct",
+        "reason": "Its central plot includes a perilous crewed space mission to prevent the Moon's collision with Earth."
+      },
+      "Melancholia": {
+        "verdict": "incorrect",
+        "reason": "The threatening object is a planet, not an asteroid or comet, and there is no stranded crew or disastrous space mission."
+      }
+    },
+    "issues": []
+  }
+}

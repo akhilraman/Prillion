@@ -25,8 +25,8 @@ bank-index.json (counts, ids) ──home screen
 
 ```
 ui/            React components. Render state, forward events. No logic, no time, no storage.
-game/          useRound (reducer + clock + randomness + history side effect), deadlineTimer.
-storage/       localStorage play history, validated on read, failure-tolerant.
+game/          useRound (reducer + clock + randomness + history side effect), deadlineTimer, original Web Audio cues (`sound.ts`).
+storage/       localStorage play history and SFX mute, validated on read, failure-tolerant.
 content/       loadBank: tiny index at startup; per-category JSON lazy-loaded on dive start. Validates untrusted JSON, returns a result (never throws).
 domain/        Pure rules. Imports nothing from the layers above.
 ```
@@ -64,7 +64,7 @@ Structure and quality are checked separately:
 - `checkQuestionQuality` (editorial) runs in the seed-bank contract test, and will be the pipeline's publish gate. It requires: at least 10 answers; at least 3 distinct rarity tiers reachable from the priors; no answer above 40% of responses; and `criteria` ("What counts") for every `open` set.
 
 ### Subjective questions need a rubric
-"Name a Tollywood movie that follows the saviour trope" has no official answer key. Membership is an editorial call, so the question carries `criteria` (shown to the player as "What counts"), every answer carries plot `evidence` with a source, and the explanation says the list is not exhaustive. Unlisted answers go to the review queue instead of being marked wrong.
+"Name a Tollywood movie that follows the saviour trope" has no official answer key. Membership is an editorial call, so the question carries `criteria` (shown after answering, inside the accepted-answers panel, as "What counts" — kept off the prompt so a phone still has room to type), every answer carries plot `evidence` with a source, and the explanation says the list is not exhaustive. Unlisted answers go to the review queue instead of being marked wrong.
 
 ### Typo tolerance
 Allowed edits: 0 for normalised names < 5 chars, 1 for 5-8, 2 for 9+. Extra guards: digit sequences must match exactly (Apollo 11 vs 12), and ties between different answers are refused. Known false-positive class: a real word one edit from a valid answer (e.g. "Europe" -> "Europa"). Accepted risk for this game; revisit with gameplay data.
@@ -88,6 +88,7 @@ The pipeline still writes one `seed-bank.json` (the quality gate and `promote` k
 - **Art is code, not image files.** Sprites are rows of characters plus a palette (`ui/scene/sprites.ts`) rendered as one SVG path per colour (`PixelSprite`). That keeps art reviewable in a diff, crisp at any scale, and recolourable by CSS (`currentColor` for silhouettes). All scene layers are `aria-hidden` and `pointer-events: none`; the layout is the real UI.
 - **Fonts are self-hosted** (`web/public/fonts`, SIL OFL licences alongside): Silkscreen for display text and VT323 for body text and prompts. Pixelify Sans was tried first and rejected: its "5"/"S" and "C"/"O" are too alike for a quiz. Silkscreen has the same weakness for lowercase letters and digits, so numbers that must be unambiguous (HUD values, the countdown) use VT323.
 - **Accessibility is unchanged by the art:** real labels (the answer field label is visually hidden, the placeholder is only a hint), visible focus rings, the timer exposes `role="timer"`, and `prefers-reduced-motion` switches all animation off.
+- **Sound is synthesized, not sampled.** Krillion also builds its cues in the Web Audio API (a 1150 Hz submit blip, a 1.3 s downward whoosh, a small/big/legendary landing sting, a reject thud, a 5 s tick, a surface wash on the results). `game/sound.ts` follows those shapes and timings; it does not use Krillion's code or any audio files. The bus gain is 0.28, about a third of Krillion's 0.75, so a phone speaker stays quiet. A mute toggle (home, round, results) persists in localStorage (`prillion.soundMuted.v1`). AudioContext stays suspended until the first pointer or key. Missing AudioContext (jsdom, locked autoplay) is a silent no-op so a submit can never fail because of sound.
 
 ### AI-knowledge questions (memes, trolls, hoaxes)
 - **Why:** no tidy document lists "famous memes" or "internet hoaxes", so the grounded pipeline cannot write them. A second, clearly separate trust level covers them: `Question.basis = 'ai-knowledge'` (absent means `sourced`, so the existing bank is unchanged).
@@ -118,4 +119,4 @@ The first seed bank had 2-4 valid answers per question, so most priors landed in
 4. **M4 (in progress):** Python content pipeline with review queue, built in slices: (1) manual single-topic run producing a candidate file (built: Wikipedia and IMDb sources, grounded LLM generation with a verbatim-quote check, the web app's own gate as the publish check; see `pipeline/README.md`); (2) scheduled GitHub Actions run that opens a review PR (never writes to the live bank directly); (3) topic discovery, dedupe, signal-based rarity. An AI-knowledge track for memes, trolls and hoaxes is in progress: the data contract, gates, labelling and the self-consistency + verifier generator are done; a large reviewed topic list is next.
 5. **M5:** Supabase backend, server-authoritative scoring, leaderboards.
 6. **M6:** Multiplayer rooms.
-7. Visual polish interleaved after M2: **pixel ocean scene, HUD, depth ruler, title screen (done)**; reveal redesign with retry-on-miss, creature ranks and score-based depth **(done)**; next the results screen, then sound.
+7. Visual polish interleaved after M2: **pixel ocean scene, HUD, depth ruler, title screen (done)**; reveal redesign with retry-on-miss, creature ranks and score-based depth **(done)**; original quiet Web Audio cues on submit / sink / miss / Descend, with a persisted mute toggle **(done)**; next the results screen.

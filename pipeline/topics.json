@@ -1123,6 +1123,284 @@
       "category": "us-pop",
       "mode": "ai-knowledge",
       "brief": "Name an artist who has collaborated with Drake on a song."
-    }
+    },
+  {
+    "id": "tollywood-mohan-babu-films",
+    "category": "tollywood",
+    "pages": [
+      "Mohan Babu filmography"
+    ],
+    "brief": "Name a film starring Mohan Babu."
+  },
+  {
+    "id": "space-galaxies",
+    "category": "space",
+    "pages": [
+      "List of galaxies"
+    ],
+    "brief": "Name a well-known galaxy."
+  },
+  {
+    "id": "us-pop-best-actor",
+    "category": "us-pop",
+    "pages": [
+      "Academy Award for Best Actor"
+    ],
+    "brief": "Name an actor who has won the Academy Award for Best Actor."
+  },
+  {
+    "id": "tollywood-sukumar-films",
+    "category": "tollywood",
+    "pages": [
+      "Sukumar"
+    ],
+    "brief": "Name a film directed by Sukumar."
+  },
+  {
+    "id": "space-comets",
+    "category": "space",
+    "pages": [
+      "List of comets"
+    ],
+    "brief": "Name a comet."
+  },
+  {
+    "id": "us-pop-best-actress",
+    "category": "us-pop",
+    "pages": [
+      "Academy Award for Best Actress"
+    ],
+    "brief": "Name an actress who has won the Academy Award for Best Actress."
+  },
+  {
+    "id": "tollywood-trivikram-films",
+    "category": "tollywood",
+    "pages": [
+      "Trivikram Srinivas"
+    ],
+    "brief": "Name a film directed by Trivikram Srinivas."
+  },
+  {
+    "id": "space-earth-craters",
+    "category": "space",
+    "pages": [
+      "List of impact craters on Earth"
+    ],
+    "brief": "Name an impact crater on Earth."
+  },
+  {
+    "id": "us-pop-friends-characters",
+    "category": "us-pop",
+    "pages": [
+      "List of Friends characters"
+    ],
+    "brief": "Name a character from the TV sitcom Friends."
+  },
+  {
+    "id": "tollywood-thaman-films",
+    "category": "tollywood",
+    "pages": [
+      "S. Thaman"
+    ],
+    "brief": "Name a Telugu film scored by S. Thaman."
+  },
+  {
+    "id": "space-crewed-spacecraft",
+    "category": "space",
+    "pages": [
+      "List of crewed spacecraft"
+    ],
+    "brief": "Name a crewed spacecraft."
+  },
+  {
+    "id": "us-pop-super-bowl-champions",
+    "category": "us-pop",
+    "pages": [
+      "List of Super Bowl champions"
+    ],
+    "brief": "Name an NFL team that has won the Super Bowl."
+  },
+  {
+    "id": "tollywood-koratala-films",
+    "category": "tollywood",
+    "pages": [
+      "Koratala Siva"
+    ],
+    "brief": "Name a film directed by Koratala Siva."
+  },
+  {
+    "id": "space-female-astronauts",
+    "category": "space",
+    "pages": [
+      "List of female astronauts"
+    ],
+    "brief": "Name a woman who has flown in space."
+  },
+  {
+    "id": "us-pop-nba-champions",
+    "category": "us-pop",
+    "pages": [
+      "List of NBA champions"
+    ],
+    "brief": "Name an NBA franchise that has won the NBA championship."
+  },
+  {
+    "id": "tollywood-telugu-films-2020",
+    "category": "tollywood",
+    "pages": [
+      "List of Telugu films of 2020"
+    ],
+    "brief": "Name a Telugu film released in 2020."
+  },
+  {
+    "id": "space-mercury-missions",
+    "category": "space",
+    "pages": [
+      "Exploration of Mercury"
+    ],
+    "brief": "Name a spacecraft or mission that has visited or is planned to visit Mercury."
+  },
+  {
+    "id": "us-pop-song-of-the-year",
+    "category": "us-pop",
+    "pages": [
+      "Grammy Award for Song of the Year"
+    ],
+    "brief": "Name a song that has won the Grammy Award for Song of the Year."
+  },
+  {
+    "id": "tollywood-telugu-films-2019",
+    "category": "tollywood",
+    "pages": [
+      "List of Telugu films of 2019"
+    ],
+    "brief": "Name a Telugu film released in 2019."
+  },
+  {
+    "id": "space-venus-missions",
+    "category": "space",
+    "pages": [
+      "Exploration of Venus"
+    ],
+    "brief": "Name a spacecraft or mission that has visited Venus."
+  },
+  {
+    "id": "us-pop-breaking-bad",
+    "category": "us-pop",
+    "pages": [
+      "List of Breaking Bad characters"
+    ],
+    "brief": "Name a character from Breaking Bad."
+  },
+  {
+    "id": "tollywood-keeravani-films",
+    "category": "tollywood",
+    "pages": [
+      "M. M. Keeravani"
+    ],
+    "brief": "Name a film whose music was composed by M. M. Keeravani."
+  },
+  {
+    "id": "space-named-stars",
+    "category": "space",
+    "pages": [
+      "List of proper names of stars"
+    ],
+    "brief": "Name a star that has an IAU-approved proper name."
+  },
+  {
+    "id": "us-pop-disney-princesses",
+    "category": "us-pop",
+    "pages": [
+      "Disney Princess"
+    ],
+    "brief": "Name an official Disney Princess."
+  },
+  {
+    "id": "us-pop-j-cole-songs",
+    "category": "us-pop",
+    "pages": [
+      "J. Cole discography"
+    ],
+    "brief": "Name a J. Cole album or single."
+  },
+  {
+    "id": "tollywood-mass-entries",
+    "category": "tollywood",
+    "mode": "ai-knowledge",
+    "brief": "Name a Telugu film famous for a mass hero entry scene (the hero's first appearance in the film)."
+  },
+  {
+    "id": "space-scifi-weapons",
+    "category": "space",
+    "mode": "ai-knowledge",
+    "brief": "Name a famous fictional weapon from a space-based sci-fi film, TV series or game (for example a lightsaber or phaser)."
+  },
+  {
+    "id": "us-pop-movie-quotes",
+    "category": "us-pop",
+    "mode": "ai-knowledge",
+    "brief": "Name a widely quoted line from a well-known American film."
+  },
+  {
+    "id": "tollywood-duets",
+    "category": "tollywood",
+    "mode": "ai-knowledge",
+    "brief": "Name a famous romantic duet song from a Telugu film."
+  },
+  {
+    "id": "space-fictional-stations",
+    "category": "space",
+    "mode": "ai-knowledge",
+    "brief": "Name a fictional space station from a film, TV series, book or game."
+  },
+  {
+    "id": "us-pop-wwe-wrestlers",
+    "category": "us-pop",
+    "mode": "ai-knowledge",
+    "brief": "Name a famous WWE wrestler, by ring name."
+  },
+  {
+    "id": "tollywood-sports-films",
+    "category": "tollywood",
+    "mode": "ai-knowledge",
+    "brief": "Name a Telugu film whose story is built around a sport."
+  },
+  {
+    "id": "space-disaster-movies",
+    "category": "space",
+    "mode": "ai-knowledge",
+    "brief": "Name a well-known film about a space disaster, stranded astronauts or a threat from space."
+  },
+  {
+    "id": "us-pop-reality-tv",
+    "category": "us-pop",
+    "mode": "ai-knowledge",
+    "brief": "Name a popular American reality TV show."
+  },
+  {
+    "id": "tollywood-spy-films",
+    "category": "tollywood",
+    "mode": "ai-knowledge",
+    "brief": "Name a Telugu spy, espionage or secret-agent film."
+  },
+  {
+    "id": "space-astronomy-myths",
+    "category": "space",
+    "mode": "ai-knowledge",
+    "brief": "Name a widely documented popular myth or misconception about astronomy or space (not a conspiracy theory about a real person)."
+  },
+  {
+    "id": "us-pop-2010s-rap-hits",
+    "category": "us-pop",
+    "mode": "ai-knowledge",
+    "brief": "Name a widely known rap or hip-hop hit song from the 2010s."
+  },
+  {
+    "id": "us-pop-nba-announcer-calls",
+    "category": "us-pop",
+    "mode": "ai-knowledge",
+    "brief": "Name a famous NBA play-by-play call, catchphrase or commentator line that fans still repeat."
+  }
   ]
 }

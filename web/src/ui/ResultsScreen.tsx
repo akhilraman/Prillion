@@ -2,7 +2,9 @@ import { useEffect, useRef } from 'react';
 import type { RoundState } from '../domain/round.ts';
 import { tierCounts, totalPoints } from '../domain/round.ts';
 import { RARITY_TIERS } from '../domain/types.ts';
+import { play } from '../game/sound.ts';
 import { TIER_LABELS } from './labels.ts';
+import { MuteToggle } from './MuteToggle.tsx';
 
 interface ResultsScreenProps {
   state: Extract<RoundState, { phase: 'finished' }>;
@@ -15,6 +17,7 @@ export function ResultsScreen({ state, onPlayAgain }: ResultsScreenProps) {
   const headingRef = useRef<HTMLHeadingElement>(null);
   useEffect(() => {
     headingRef.current?.focus();
+    play('finish', { onceKey: 'finish' });
   }, []);
 
   const counts = tierCounts(state.results);
@@ -23,6 +26,7 @@ export function ResultsScreen({ state, onPlayAgain }: ResultsScreenProps) {
 
   return (
     <main className="screen screen--results">
+      <MuteToggle className="mute--home" />
       <h1 ref={headingRef} tabIndex={-1} className="title title--small">
         Round complete
       </h1>

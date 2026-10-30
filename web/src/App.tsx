@@ -1,8 +1,9 @@
-import { useCallback, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { indexFromQuestions, loadCategories, loadIndex } from './content/loadBank.ts';
 import type { BankIndex, BankLoad } from './content/loadBank.ts';
 import { DEFAULT_ROUND_LENGTH } from './domain/selection.ts';
 import type { CategorySelection, Question } from './domain/types.ts';
+import { installUnlock } from './game/sound.ts';
 import { useRound } from './game/useRound.ts';
 import { ErrorScreen } from './ui/ErrorScreen.tsx';
 import { HomeScreen } from './ui/HomeScreen.tsx';
@@ -50,6 +51,8 @@ function Game({ index, injected }: { index: BankIndex; injected?: readonly Quest
   const [loading, setLoading] = useState(false);
   const [loadError, setLoadError] = useState<string | null>(null);
   const loadingRef = useRef(false);
+
+  useEffect(() => installUnlock(), []);
 
   const onStart = useCallback(
     (selection: CategorySelection) => {

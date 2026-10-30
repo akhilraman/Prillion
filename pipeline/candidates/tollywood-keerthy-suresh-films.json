@@ -1,0 +1,591 @@
+{
+  "question": {
+    "id": "tollywood-keerthy-suresh-films",
+    "category": "tollywood",
+    "prompt": "Name a released movie featuring Keerthy Suresh, in any language. Child roles, cameos and voice roles count.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "pilots",
+        "canonical": "Pilots",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy is credited as a church kid in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "achaneyanenikkishtam",
+        "canonical": "Achaneyanenikkishtam",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy appears as Kunjunni's classmate in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "kuberan",
+        "canonical": "Kuberan",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Siddharth's adopted child in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "geethaanjali",
+        "canonical": "Geethaanjali",
+        "aliases": [
+          "Geethanjali"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy made her lead debut playing Geetha and Anjali in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "ring-master",
+        "canonical": "Ring Master",
+        "aliases": [
+          "Ringmaster"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Karthika in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "idhu-enna-maayam",
+        "canonical": "Idhu Enna Maayam",
+        "aliases": [
+          "Idhu Enna Mayam"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Maya in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "nenu-sailaja",
+        "canonical": "Nenu Sailaja",
+        "aliases": [
+          "Nenu Shailaja"
+        ],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Sailaja in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "rajinimurugan",
+        "canonical": "Rajinimurugan",
+        "aliases": [
+          "Rajini Murugan"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays N. Karthika Devi in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "thodari",
+        "canonical": "Thodari",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Saroja in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "remo",
+        "canonical": "Remo",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Dr. Kavya in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "bairavaa",
+        "canonical": "Bairavaa",
+        "aliases": [
+          "Bairava"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Malarvizhi in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "paambhu-sattai",
+        "canonical": "Paambhu Sattai",
+        "aliases": [
+          "Paambhu Sattai",
+          "Pambhu Sattai"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Veni in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "nenu-local",
+        "canonical": "Nenu Local",
+        "aliases": [],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays a character named Keerthy in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "agnyaathavaasi",
+        "canonical": "Agnyaathavaasi",
+        "aliases": [
+          "Agnyaathavasi",
+          "Agnathavasi"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Sukumari in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Savitri in this Telugu biographical film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "thaanaa-serndha-koottam",
+        "canonical": "Thaanaa Serndha Koottam",
+        "aliases": [
+          "TSK",
+          "Thaana Serndha Koottam"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Madhu Iyengar in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "seemaraja",
+        "canonical": "Seemaraja",
+        "aliases": [
+          "Seema Raja"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy makes a cameo appearance as Bhoomi in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "saamy-square",
+        "canonical": "Saamy Square",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Diya in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "sandakozhi-2",
+        "canonical": "Sandakozhi 2",
+        "aliases": [
+          "Sandakozhi II"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Sembaruthi in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "sarkar",
+        "canonical": "Sarkar",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Nila in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "manmadhudu-2",
+        "canonical": "Manmadhudu 2",
+        "aliases": [
+          "Manmadhudu II"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy makes a cameo appearance as Suma in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "penguin",
+        "canonical": "Penguin",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Rhythm in this film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "miss-india",
+        "canonical": "Miss India",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Manasa Samyuktha in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "jathi-ratnalu",
+        "canonical": "Jathi Ratnalu",
+        "aliases": [
+          "Jathi Rathnalu"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy makes a cameo appearance as Vanajakshi in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "rang-de",
+        "canonical": "Rang De",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Anupama in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "annaatthe",
+        "canonical": "Annaatthe",
+        "aliases": [
+          "Annatthe"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Thanga Meenatchi in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "marakkar-arabikadalinte-simham",
+        "canonical": "Marakkar: Arabikadalinte Simham",
+        "aliases": [
+          "Marakkar"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Aarcha in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "vaashi",
+        "canonical": "Vaashi",
+        "aliases": [
+          "Vashi"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays advocate Madhavi Mohan in this Malayalam film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "saani-kaayidham",
+        "canonical": "Saani Kaayidham",
+        "aliases": [
+          "Saani Kayidham"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Ponni in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "good-luck-sakhi",
+        "canonical": "Good Luck Sakhi",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Sakhi Pawar in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "sarkaru-vaari-paata",
+        "canonical": "Sarkaru Vaari Paata",
+        "aliases": [
+          "Sarkaru Vari Pata",
+          "Sarkaru Vari Paata"
+        ],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Kalaavathi in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "dasara",
+        "canonical": "Dasara",
+        "aliases": [],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Vennela in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "bhola-shankar",
+        "canonical": "Bhola Shankar",
+        "aliases": [
+          "Bholaa Shankar"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Mahalakshmi in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "maamannan",
+        "canonical": "Maamannan",
+        "aliases": [
+          "Mamannan"
+        ],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Leela in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "siren",
+        "canonical": "Siren",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Inspector K. Nandhini in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "raghu-thatha",
+        "canonical": "Raghu Thatha",
+        "aliases": [
+          "Raghu Thaatha"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Kayalvizhi Pandian in this Tamil film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki 2898 A.D.",
+          "Kalki"
+        ],
+        "familiarity": 0.0715,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy provides the voice of Bujji in this Telugu film.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "baby-john",
+        "canonical": "Baby John",
+        "aliases": [],
+        "familiarity": 0.0286,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy plays Dr. Meera Verma in her Hindi film debut.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "uppu-kappurambu",
+        "canonical": "Uppu Kappurambu",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy is credited as Apoorva in this Telugu film, which is not marked as unreleased.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "revolver-rita",
+        "canonical": "Revolver Rita",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy is credited as Rita in this Tamil film, which is not marked as unreleased.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "the-paradise",
+        "canonical": "The Paradise",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy is credited with a special song appearance in this Telugu film, which is not marked as unreleased.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      },
+      {
+        "id": "dorothy",
+        "canonical": "Dorothy",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy is credited in the title role of this Tamil film, which is not marked as unreleased.",
+        "sourceIds": [
+          "keerthy-suresh"
+        ]
+      }
+    ],
+    "explanation": "These are the films in the supplied Keerthy Suresh filmography that are not marked as unreleased. Her credits span Telugu, Tamil, Malayalam and Hindi cinema, including child appearances, cameos and voice acting.",
+    "sources": [
+      {
+        "id": "keerthy-suresh",
+        "title": "Keerthy Suresh",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Keerthy_Suresh",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "4ecbc3b3404a36c4",
+    "brief": "Name a movie starring Keerthy Suresh.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "keerthy-suresh",
+        "version": "1382026698",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Pilots": "2000 | Pilots | Church kid | Malayalam | Child actress |",
+      "Achaneyanenikkishtam": "2001 | Achaneyanenikkishtam | Kunjunni's classmate | Malayalam | Child actress |",
+      "Kuberan": "2002 | Kuberan | Siddharth's adopted child | Malayalam | Child actress |",
+      "Geethaanjali": "2013 | Geethaanjali | Geetha, Anjali | Malayalam | Lead Debut |",
+      "Ring Master": "2014 | Ring Master | Karthika | Malayalam | |",
+      "Idhu Enna Maayam": "2015 | Idhu Enna Maayam | Maya | Tamil | |",
+      "Nenu Sailaja": "2016 | Nenu Sailaja | Sailaja | Telugu | |",
+      "Rajinimurugan": "2016 | Rajinimurugan | N. Karthika Devi | Tamil | |",
+      "Thodari": "2016 | Thodari | Saroja | Tamil | |",
+      "Remo": "2016 | Remo | Dr. Kavya | Tamil | |",
+      "Bairavaa": "2017 | Bairavaa | Malarvizhi | Tamil | |",
+      "Paambhu Sattai": "2017 | Paambhu Sattai | Veni | Tamil | |",
+      "Nenu Local": "2017 | Nenu Local | Keerthy | Telugu | |",
+      "Agnyaathavaasi": "2018 | Agnyaathavaasi | Sukumari | Telugu | |",
+      "Mahanati": "2018 | Mahanati | Savitri | Telugu | |",
+      "Thaanaa Serndha Koottam": "2018 | Thaanaa Serndha Koottam | Madhu Iyengar | Tamil | |",
+      "Seemaraja": "2018 | Seemaraja | Bhoomi | Tamil | Cameo appearance |",
+      "Saamy Square": "2018 | Saamy Square | Diya | Tamil | Also singer for \"Pudhu Metro Rail\" |",
+      "Sandakozhi 2": "2018 | Sandakozhi 2 | Sembaruthi | Tamil | |",
+      "Sarkar": "2018 | Sarkar | Nila | Tamil | |",
+      "Manmadhudu 2": "2019 | Manmadhudu 2 | Suma | Telugu | Cameo appearance |",
+      "Penguin": "2020 | Penguin | Rhythm | Tamil | |",
+      "Miss India": "2020 | Miss India | Manasa Samyuktha | Telugu | |",
+      "Jathi Ratnalu": "2021 | Jathi Ratnalu | Vanajakshi | Telugu | Cameo appearance |",
+      "Rang De": "2021 | Rang De | Anupama | Telugu | |",
+      "Annaatthe": "2021 | Annaatthe | Thanga Meenatchi | Tamil | |",
+      "Marakkar: Arabikadalinte Simham": "2021 | Marakkar: Arabikadalinte Simham | Aarcha | Malayalam | |",
+      "Vaashi": "2022 | Vaashi | Adv. Madhavi Mohan | Malayalam | |",
+      "Saani Kaayidham": "2022 | Saani Kaayidham | Ponni | Tamil | |",
+      "Good Luck Sakhi": "2022 | Good Luck Sakhi | Sakhi Pawar | Telugu | |",
+      "Sarkaru Vaari Paata": "2022 | Sarkaru Vaari Paata | Kalaavathi | Telugu | |",
+      "Dasara": "2023 | Dasara | Vennela | Telugu | |",
+      "Bhola Shankar": "2023 | Bhola Shankar | Mahalakshmi | Telugu | |",
+      "Maamannan": "2023 | Maamannan | Leela | Tamil | |",
+      "Siren": "2024 | Siren | Inspector K. Nandhini | Tamil | |",
+      "Raghu Thatha": "2024 | Raghu Thatha | Kayalvizhi Pandian \"Kayal\" / Ka. Pandian | Tamil | |",
+      "Kalki 2898 AD": "2024 | Kalki 2898 AD | Bujji | Telugu | Voice role |",
+      "Baby John": "2024 | Baby John | Dr. Meera Verma | Hindi | Debut in Hindi Cinema |",
+      "Uppu Kappurambu": "2025 | Uppu Kappurambu | Apoorva | Telugu | |",
+      "Revolver Rita": "2025 | Revolver Rita | Rita | Tamil | |",
+      "The Paradise": "2026 | The Paradise | Herself | Telugu | Special appearance in the song \"Yeshanagula\" |",
+      "Dorothy": "2026 | Dorothy | Dorothy | Tamil | |"
+    },
+    "issues": []
+  }
+}

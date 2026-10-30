@@ -1,0 +1,1103 @@
+{
+  "question": {
+    "id": "us-pop-best-actor",
+    "category": "us-pop",
+    "prompt": "Name an actor who has won the Academy Award for Best Actor.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "emil-jannings",
+        "canonical": "Emil Jannings",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jannings was the inaugural Best Actor winner.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "warner-baxter",
+        "canonical": "Warner Baxter",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baxter won Best Actor for In Old Arizona.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "george-arliss",
+        "canonical": "George Arliss",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arliss won Best Actor for Disraeli.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "lionel-barrymore",
+        "canonical": "Lionel Barrymore",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barrymore won Best Actor for A Free Soul.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "fredric-march",
+        "canonical": "Fredric March",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "March won Best Actor twice, for Dr. Jekyll and Mr. Hyde and The Best Years of Our Lives.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "wallace-beery",
+        "canonical": "Wallace Beery",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beery won Best Actor for The Champ in a tie with Fredric March.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "charles-laughton",
+        "canonical": "Charles Laughton",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Laughton won Best Actor for The Private Life of Henry VIII.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "clark-gable",
+        "canonical": "Clark Gable",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gable won Best Actor for It Happened One Night.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "victor-mclaglen",
+        "canonical": "Victor McLaglen",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "McLaglen won Best Actor for The Informer.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "paul-muni",
+        "canonical": "Paul Muni",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Muni won Best Actor for The Story of Louis Pasteur.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "spencer-tracy",
+        "canonical": "Spencer Tracy",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tracy won consecutive Best Actor awards for Captains Courageous and Boys Town.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "robert-donat",
+        "canonical": "Robert Donat",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Donat won Best Actor for Goodbye, Mr. Chips.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "james-stewart",
+        "canonical": "James Stewart",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stewart won Best Actor for The Philadelphia Story.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "gary-cooper",
+        "canonical": "Gary Cooper",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cooper won Best Actor for Sergeant York and High Noon.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "james-cagney",
+        "canonical": "James Cagney",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cagney won Best Actor for Yankee Doodle Dandy.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "paul-lukas",
+        "canonical": "Paul Lukas",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lukas won Best Actor for Watch on the Rhine.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "bing-crosby",
+        "canonical": "Bing Crosby",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crosby won Best Actor for Going My Way.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "ray-milland",
+        "canonical": "Ray Milland",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Milland won Best Actor for The Lost Weekend.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "ronald-colman",
+        "canonical": "Ronald Colman",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Colman won Best Actor for A Double Life.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "laurence-olivier",
+        "canonical": "Laurence Olivier",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Olivier won Best Actor for Hamlet.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "broderick-crawford",
+        "canonical": "Broderick Crawford",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crawford won Best Actor for All the King's Men.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jos-ferrer",
+        "canonical": "José Ferrer",
+        "aliases": [
+          "Jose Ferrer"
+        ],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ferrer won Best Actor for Cyrano de Bergerac.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "humphrey-bogart",
+        "canonical": "Humphrey Bogart",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bogart won Best Actor for The African Queen.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "william-holden",
+        "canonical": "William Holden",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Holden won Best Actor for Stalag 17.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "marlon-brando",
+        "canonical": "Marlon Brando",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brando won Best Actor for On the Waterfront and The Godfather.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "ernest-borgnine",
+        "canonical": "Ernest Borgnine",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Borgnine won Best Actor for Marty.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "yul-brynner",
+        "canonical": "Yul Brynner",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brynner won Best Actor for The King and I.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "alec-guinness",
+        "canonical": "Alec Guinness",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guinness won Best Actor for The Bridge on the River Kwai.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "david-niven",
+        "canonical": "David Niven",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Niven won Best Actor for Separate Tables.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "charlton-heston",
+        "canonical": "Charlton Heston",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Heston won Best Actor for Ben-Hur.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "burt-lancaster",
+        "canonical": "Burt Lancaster",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lancaster won Best Actor for Elmer Gantry.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "maximilian-schell",
+        "canonical": "Maximilian Schell",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Schell won Best Actor for Judgment at Nuremberg.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "gregory-peck",
+        "canonical": "Gregory Peck",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Peck won Best Actor for To Kill a Mockingbird.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "sidney-poitier",
+        "canonical": "Sidney Poitier",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Poitier won Best Actor for Lilies of the Field.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "rex-harrison",
+        "canonical": "Rex Harrison",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Harrison won Best Actor for My Fair Lady.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "lee-marvin",
+        "canonical": "Lee Marvin",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marvin won Best Actor for his dual roles in Cat Ballou.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "paul-scofield",
+        "canonical": "Paul Scofield",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scofield won Best Actor for A Man for All Seasons.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "rod-steiger",
+        "canonical": "Rod Steiger",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Steiger won Best Actor for In the Heat of the Night.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "cliff-robertson",
+        "canonical": "Cliff Robertson",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robertson won Best Actor for Charly.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "john-wayne",
+        "canonical": "John Wayne",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wayne won Best Actor for True Grit.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "george-c-scott",
+        "canonical": "George C. Scott",
+        "aliases": [
+          "George C Scott",
+          "George Scott"
+        ],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scott won Best Actor for Patton.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "gene-hackman",
+        "canonical": "Gene Hackman",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hackman won Best Actor for The French Connection.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jack-lemmon",
+        "canonical": "Jack Lemmon",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lemmon won Best Actor for Save the Tiger.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "art-carney",
+        "canonical": "Art Carney",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carney won Best Actor for Harry and Tonto.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jack-nicholson",
+        "canonical": "Jack Nicholson",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nicholson won Best Actor for One Flew Over the Cuckoo's Nest and As Good as It Gets.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "peter-finch",
+        "canonical": "Peter Finch",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Finch won Best Actor posthumously for Network.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "richard-dreyfuss",
+        "canonical": "Richard Dreyfuss",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dreyfuss won Best Actor for The Goodbye Girl.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jon-voight",
+        "canonical": "Jon Voight",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Voight won Best Actor for Coming Home.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "dustin-hoffman",
+        "canonical": "Dustin Hoffman",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hoffman won Best Actor for Kramer vs. Kramer and Rain Man.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "robert-de-niro",
+        "canonical": "Robert De Niro",
+        "aliases": [
+          "Robert DeNiro"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "De Niro won Best Actor for Raging Bull.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "henry-fonda",
+        "canonical": "Henry Fonda",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fonda won Best Actor for On Golden Pond.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "ben-kingsley",
+        "canonical": "Ben Kingsley",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kingsley won Best Actor for Gandhi.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "robert-duvall",
+        "canonical": "Robert Duvall",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duvall won Best Actor for Tender Mercies.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "f-murray-abraham",
+        "canonical": "F. Murray Abraham",
+        "aliases": [
+          "F Murray Abraham",
+          "Murray Abraham"
+        ],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abraham won Best Actor for Amadeus.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "william-hurt",
+        "canonical": "William Hurt",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hurt won Best Actor for Kiss of the Spider Woman.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "paul-newman",
+        "canonical": "Paul Newman",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Newman won Best Actor for The Color of Money.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "michael-douglas",
+        "canonical": "Michael Douglas",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Douglas won Best Actor for Wall Street.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "daniel-day-lewis",
+        "canonical": "Daniel Day-Lewis",
+        "aliases": [
+          "Daniel Day Lewis"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Day-Lewis won Best Actor three times, for My Left Foot, There Will Be Blood, and Lincoln.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jeremy-irons",
+        "canonical": "Jeremy Irons",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Irons won Best Actor for Reversal of Fortune.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "anthony-hopkins",
+        "canonical": "Anthony Hopkins",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hopkins won Best Actor for The Silence of the Lambs and The Father.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "al-pacino",
+        "canonical": "Al Pacino",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pacino won Best Actor for Scent of a Woman.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "tom-hanks",
+        "canonical": "Tom Hanks",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hanks won consecutive Best Actor awards for Philadelphia and Forrest Gump.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "nicolas-cage",
+        "canonical": "Nicolas Cage",
+        "aliases": [
+          "Nic Cage"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cage won Best Actor for Leaving Las Vegas.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "geoffrey-rush",
+        "canonical": "Geoffrey Rush",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rush won Best Actor for Shine.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "roberto-benigni",
+        "canonical": "Roberto Benigni",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Benigni won Best Actor for Life Is Beautiful.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "kevin-spacey",
+        "canonical": "Kevin Spacey",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spacey won Best Actor for American Beauty.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "russell-crowe",
+        "canonical": "Russell Crowe",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crowe won Best Actor for Gladiator.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "denzel-washington",
+        "canonical": "Denzel Washington",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Washington won Best Actor for Training Day.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "adrien-brody",
+        "canonical": "Adrien Brody",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brody won Best Actor for The Pianist and The Brutalist.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "sean-penn",
+        "canonical": "Sean Penn",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Penn won Best Actor for Mystic River and Milk.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jamie-foxx",
+        "canonical": "Jamie Foxx",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Foxx won Best Actor for Ray.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "philip-seymour-hoffman",
+        "canonical": "Philip Seymour Hoffman",
+        "aliases": [
+          "Phillip Seymour Hoffman"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hoffman won Best Actor for Capote.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "forest-whitaker",
+        "canonical": "Forest Whitaker",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Whitaker won Best Actor for The Last King of Scotland.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jeff-bridges",
+        "canonical": "Jeff Bridges",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bridges won Best Actor for Crazy Heart.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "colin-firth",
+        "canonical": "Colin Firth",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Firth won Best Actor for The King's Speech.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "jean-dujardin",
+        "canonical": "Jean Dujardin",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dujardin won Best Actor for The Artist.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "matthew-mcconaughey",
+        "canonical": "Matthew McConaughey",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "McConaughey won Best Actor for Dallas Buyers Club.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "eddie-redmayne",
+        "canonical": "Eddie Redmayne",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Redmayne won Best Actor for The Theory of Everything.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "leonardo-dicaprio",
+        "canonical": "Leonardo DiCaprio",
+        "aliases": [
+          "Leonardo Di Caprio",
+          "Leo DiCaprio"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DiCaprio won Best Actor for The Revenant.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "casey-affleck",
+        "canonical": "Casey Affleck",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Affleck won Best Actor for Manchester by the Sea.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "gary-oldman",
+        "canonical": "Gary Oldman",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oldman won Best Actor for Darkest Hour.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "rami-malek",
+        "canonical": "Rami Malek",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malek won Best Actor for Bohemian Rhapsody.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "joaquin-phoenix",
+        "canonical": "Joaquin Phoenix",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoenix won Best Actor for Joker.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "will-smith",
+        "canonical": "Will Smith",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smith won Best Actor for King Richard.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "brendan-fraser",
+        "canonical": "Brendan Fraser",
+        "aliases": [],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fraser won Best Actor for The Whale.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "cillian-murphy",
+        "canonical": "Cillian Murphy",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Murphy won Best Actor for Oppenheimer.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      },
+      {
+        "id": "michael-b-jordan",
+        "canonical": "Michael B. Jordan",
+        "aliases": [
+          "Michael B Jordan"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan won Best Actor for his dual role in Sinners.",
+        "sourceIds": [
+          "academy-award-for-best-actor"
+        ]
+      }
+    ],
+    "explanation": "These actors won the Oscar for a leading performance, not merely a nomination or a supporting role. The winners listed run from Emil Jannings at the first Academy Awards through Michael B. Jordan at the 2026 ceremony.",
+    "sources": [
+      {
+        "id": "academy-award-for-best-actor",
+        "title": "Academy Award for Best Actor",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "30e38c6160da757a",
+    "brief": "Name an actor who has won the Academy Award for Best Actor.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "academy-award-for-best-actor",
+        "version": "1379425900",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Emil Jannings": "Emil Jannings was the inaugural winner, for two films: The Last Command (1928) and The Way of All Flesh (1927).",
+      "Warner Baxter": "Warner Baxter won for In Old Arizona (1928).",
+      "George Arliss": "George Arliss won for Disraeli (1929).",
+      "Lionel Barrymore": "Lionel Barrymore won for A Free Soul (1931).",
+      "Fredric March": "Fredric March won twice, for Dr. Jekyll and Mr. Hyde (1931) and The Best Years of Our Lives (1946).",
+      "Wallace Beery": "Wallace Beery won for The Champ (1931), in a tie with Fredric March.",
+      "Charles Laughton": "Charles Laughton won for The Private Life of Henry VIII (1933).",
+      "Clark Gable": "Clark Gable won for It Happened One Night (1934).",
+      "Victor McLaglen": "Victor McLaglen won for The Informer (1935).",
+      "Paul Muni": "Paul Muni won for The Story of Louis Pasteur (1936).",
+      "Spencer Tracy": "Spencer Tracy was the first actor to consecutively win twice, for Captains Courageous (1937) and Boys Town (1938).",
+      "Robert Donat": "Robert Donat won for Goodbye, Mr. Chips (1939).",
+      "James Stewart": "James Stewart won for The Philadelphia Story (1940).",
+      "Gary Cooper": "Gary Cooper won twice, for Sergeant York (1941) and High Noon (1952).",
+      "James Cagney": "James Cagney won for Yankee Doodle Dandy (1942).",
+      "Paul Lukas": "Paul Lukas won for Watch on the Rhine (1943).",
+      "Bing Crosby": "Bing Crosby won for Going My Way (1944).",
+      "Ray Milland": "Ray Milland won for The Lost Weekend (1945).",
+      "Ronald Colman": "Ronald Colman won for A Double Life (1947).",
+      "Laurence Olivier": "Laurence Olivier won for Hamlet (1948); first self-directed win (and simultaneous Best Picture).",
+      "Broderick Crawford": "Broderick Crawford won for All the King's Men (1949).",
+      "José Ferrer": "José Ferrer won for Cyrano de Bergerac (1950);",
+      "Humphrey Bogart": "Humphrey Bogart won for The African Queen (1951).",
+      "William Holden": "William Holden won for Stalag 17 (1953).",
+      "Marlon Brando": "Marlon Brando won twice, for On the Waterfront (1954) and The Godfather (1972).",
+      "Ernest Borgnine": "Ernest Borgnine won for Marty (1955).",
+      "Yul Brynner": "Yul Brynner won for The King and I (1956); first Asian and Russian winner in the category.",
+      "Alec Guinness": "Alec Guinness won for The Bridge on the River Kwai (1957).",
+      "David Niven": "David Niven won for Separate Tables (1958).",
+      "Charlton Heston": "Charlton Heston won for Ben-Hur (1959).",
+      "Burt Lancaster": "Burt Lancaster won for Elmer Gantry (1960).",
+      "Maximilian Schell": "Maximilian Schell won for Judgment at Nuremberg (1961).",
+      "Gregory Peck": "Gregory Peck won for To Kill a Mockingbird (1962).",
+      "Sidney Poitier": "Sidney Poitier won for Lilies of the Field (1963); first black actor to win.",
+      "Rex Harrison": "Rex Harrison won for My Fair Lady (1964).",
+      "Lee Marvin": "Lee Marvin won for playing dual roles in Cat Ballou (1965).",
+      "Paul Scofield": "Paul Scofield won for A Man for All Seasons (1966).",
+      "Rod Steiger": "Rod Steiger won for In the Heat of the Night (1967).",
+      "Cliff Robertson": "Cliff Robertson won for CHAЯLY (1968).",
+      "John Wayne": "John Wayne won for True Grit (1969).",
+      "George C. Scott": "George C. Scott won for Patton (1970).",
+      "Gene Hackman": "Gene Hackman won for The French Connection (1971).",
+      "Jack Lemmon": "Jack Lemmon won for Save the Tiger (1973).",
+      "Art Carney": "Art Carney won for Harry and Tonto (1974).",
+      "Jack Nicholson": "Jack Nicholson won twice, for One Flew Over the Cuckoo's Nest (1975) and As Good as It Gets (1997).",
+      "Peter Finch": "Peter Finch won for Network (1976); first actor to win posthumously.",
+      "Richard Dreyfuss": "Richard Dreyfuss won for The Goodbye Girl (1977).",
+      "Jon Voight": "Jon Voight won for Coming Home (1978).",
+      "Dustin Hoffman": "Dustin Hoffman won twice, for Kramer vs. Kramer (1979) and Rain Man (1988).",
+      "Robert De Niro": "Robert De Niro won for Raging Bull (1980).",
+      "Henry Fonda": "Henry Fonda won for On Golden Pond (1981)",
+      "Ben Kingsley": "Ben Kingsley won for Gandhi (1982).",
+      "Robert Duvall": "Robert Duvall won for Tender Mercies (1983).",
+      "F. Murray Abraham": "F. Murray Abraham won for Amadeus (1984).",
+      "William Hurt": "William Hurt won for Kiss of the Spider Woman (1985).",
+      "Paul Newman": "Paul Newman won for The Color of Money (1986).",
+      "Michael Douglas": "Michael Douglas won for Wall Street (1987).",
+      "Daniel Day-Lewis": "Daniel Day-Lewis won thrice, for My Left Foot (1989), There Will Be Blood (2007), and Lincoln (2012).",
+      "Jeremy Irons": "Jeremy Irons won for Reversal of Fortune (1990).",
+      "Anthony Hopkins": "Anthony Hopkins won twice, for The Silence of the Lambs (1991) and The Father (2020)",
+      "Al Pacino": "Al Pacino won for Scent of a Woman (1992).",
+      "Tom Hanks": "Tom Hanks won twice consecutively, for Philadelphia (1993) and Forrest Gump (1994).",
+      "Nicolas Cage": "Nicolas Cage won for Leaving Las Vegas (1995).",
+      "Geoffrey Rush": "Geoffrey Rush won for Shine (1996).",
+      "Roberto Benigni": "1998 (71st) | Roberto Benigni ‡ | Guido Orefice | Life Is Beautiful |",
+      "Kevin Spacey": "Kevin Spacey won for American Beauty (1999).",
+      "Russell Crowe": "Russell Crowe won for Gladiator (2000).",
+      "Denzel Washington": "Denzel Washington won for Training Day (2001).",
+      "Adrien Brody": "Adrien Brody won twice, for The Pianist (2002) and The Brutalist (2024).",
+      "Sean Penn": "Sean Penn won twice, for Mystic River (2003) and Milk (2008).",
+      "Jamie Foxx": "Jamie Foxx won for Ray (2004).",
+      "Philip Seymour Hoffman": "Philip Seymour Hoffman won for Capote (2005).",
+      "Forest Whitaker": "Forest Whitaker won for The Last King of Scotland (2006).",
+      "Jeff Bridges": "Jeff Bridges won for Crazy Heart (2009).",
+      "Colin Firth": "Colin Firth won for The King's Speech (2010).",
+      "Jean Dujardin": "Jean Dujardin won for The Artist (2011).",
+      "Matthew McConaughey": "Matthew McConaughey won for Dallas Buyers Club (2013).",
+      "Eddie Redmayne": "Eddie Redmayne won for The Theory of Everything (2014).",
+      "Leonardo DiCaprio": "Leonardo DiCaprio won for The Revenant (2015).",
+      "Casey Affleck": "Casey Affleck won for Manchester by the Sea (2016).",
+      "Gary Oldman": "Gary Oldman won for Darkest Hour (2017).",
+      "Rami Malek": "Rami Malek won for Bohemian Rhapsody (2018).",
+      "Joaquin Phoenix": "Joaquin Phoenix won for Joker (2019).",
+      "Will Smith": "Will Smith won for King Richard (2021).",
+      "Brendan Fraser": "Brendan Fraser won for The Whale (2022); first Canadian winner in category.",
+      "Cillian Murphy": "Cillian Murphy won for Oppenheimer (2023).",
+      "Michael B. Jordan": "2025 (98th) | Michael B. Jordan ‡ | Elijah \"Smoke\" Moore / Elias \"Stack\" Moore | Sinners |"
+    },
+    "issues": []
+  }
+}

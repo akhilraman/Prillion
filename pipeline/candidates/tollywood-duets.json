@@ -1,0 +1,277 @@
+{
+  "question": {
+    "id": "tollywood-duets",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a romantic duet song from a Telugu film.",
+    "answerSet": "open",
+    "criteria": "A love song from an originally Telugu-language film, performed as a duet with male and female lead vocals.",
+    "answers": [
+      {
+        "id": "oh-sita-hey-rama",
+        "canonical": "Oh Sita Hey Rama",
+        "aliases": [
+          "Oh Sita Hey Raama",
+          "O Sita Hey Rama",
+          "Oh Sitaa Hey Raamaa",
+          "Oh Sita Hey Ram"
+        ],
+        "familiarity": 0.1554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oh Sita Hey Rama is a romantic duet from Sita Ramam sung by S. P. Charan and Ramya Behara.",
+        "sourceIds": []
+      },
+      {
+        "id": "cheppave-chirugali",
+        "canonical": "Cheppave Chirugali",
+        "aliases": [
+          "Cheppave Chirugaali",
+          "Cheppave Chirugalee"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cheppave Chirugali is a romantic duet from Okkadu sung by Udit Narayan and Sujatha Mohan.",
+        "sourceIds": []
+      },
+      {
+        "id": "mellaga",
+        "canonical": "Mellaga",
+        "aliases": [
+          "Mellagaa",
+          "Mellaga Karagani"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mellaga is a romantic duet from Varsham sung by S. P. Charan and Sumangali.",
+        "sourceIds": []
+      },
+      {
+        "id": "subhalekha-rasukunna",
+        "canonical": "Subhalekha Rasukunna",
+        "aliases": [
+          "Shubhalekha Rasukunna",
+          "Subhalekha Raasukunna"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subhalekha Rasukunna is a romantic duet from Kondaveeti Donga sung by S. P. Balasubrahmanyam and K. S. Chithra.",
+        "sourceIds": []
+      },
+      {
+        "id": "om-namaha",
+        "canonical": "Om Namaha",
+        "aliases": [
+          "Om Namah",
+          "Om Namaha Nayana",
+          "Om Namahaa"
+        ],
+        "familiarity": 0.0186,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Om Namaha is a romantic duet from Geethanjali sung by S. P. Balasubrahmanyam and S. Janaki.",
+        "sourceIds": []
+      },
+      {
+        "id": "yamuna-theeram",
+        "canonical": "Yamuna Theeram",
+        "aliases": [
+          "Yamuna Teeram"
+        ],
+        "familiarity": 0.0047,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yamuna Theeram is a romantic duet from Anand sung by Hariharan and K. S. Chithra.",
+        "sourceIds": []
+      },
+      {
+        "id": "panchadara-bomma",
+        "canonical": "Panchadara Bomma",
+        "aliases": [
+          "Panchadaara Bomma"
+        ],
+        "familiarity": 0.1554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Panchadara Bomma is a romantic duet from Magadheera sung by Anuj Gurwara and Rita.",
+        "sourceIds": []
+      },
+      {
+        "id": "telusa-manasa",
+        "canonical": "Telusa Manasa",
+        "aliases": [
+          "Telusaa Manasaa"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Telusa Manasa is a romantic duet from Criminal sung by S. P. Balasubrahmanyam and K. S. Chithra.",
+        "sourceIds": []
+      },
+      {
+        "id": "bommanu-geesthe",
+        "canonical": "Bommanu Geesthe",
+        "aliases": [
+          "Bommanu Geeste",
+          "Bommanu Gisthe"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bommanu Geesthe is a romantic duet from Bommarillu sung by Jeans Srinivas and Gopika Poornima.",
+        "sourceIds": []
+      },
+      {
+        "id": "nuvvostanante",
+        "canonical": "Nuvvostanante",
+        "aliases": [
+          "Nuvvosthanante",
+          "Nuvvosthanante Nenoddantana"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvvostanante is a romantic duet from Varsham sung by K. S. Chithra and Raqeeb Alam.",
+        "sourceIds": []
+      },
+      {
+        "id": "o-priya-priya",
+        "canonical": "O Priya Priya",
+        "aliases": [
+          "Oh Priya Priya"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "O Priya Priya is a romantic duet from Geethanjali sung by S. P. Balasubrahmanyam and K. S. Chithra.",
+        "sourceIds": []
+      },
+      {
+        "id": "nuvvena",
+        "canonical": "Nuvvena",
+        "aliases": [
+          "Nuvvenaa",
+          "Nuvvena Nuvvena"
+        ],
+        "familiarity": 0.0186,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvvena is a romantic duet from Anand sung by K. M. Radha Krishnan and Shreya Ghoshal.",
+        "sourceIds": []
+      },
+      {
+        "id": "kaanunna-kalyanam",
+        "canonical": "Kaanunna Kalyanam",
+        "aliases": [
+          "Kanunna Kalyanam",
+          "Kaanunna Kalyanam Emannadi"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kaanunna Kalyanam is a romantic duet from Sita Ramam.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has romantic duets spanning generations, from classic S. P. Balasubrahmanyam collaborations to newer soundtrack favorites. Solo love songs do not count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "ed8cb5497033100a",
+    "brief": "Name a famous romantic duet song from a Telugu film.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Oh Sita Hey Rama": 3,
+      "Panchadara Bomma": 2,
+      "Telusa Manasa": 2,
+      "Cheppave Chirugali": 3,
+      "Bommanu Geesthe": 2,
+      "Mellaga": 3,
+      "Nuvvostanante": 2,
+      "Subhalekha Rasukunna": 3,
+      "O Priya Priya": 2,
+      "Om Namaha": 3,
+      "Nuvvena": 2,
+      "Yamuna Theeram": 3,
+      "Kaanunna Kalyanam": 2
+    },
+    "droppedForVotes": {
+      "Kadalalle": 1,
+      "Niluvaddam": 1,
+      "Jaamu Rathiri": 1,
+      "Abbanee Teeyani": 1,
+      "Rooba Rooba": 1,
+      "Muvvala Navvakala": 1,
+      "Kannullo Nee Roopame": 1,
+      "Kopama": 1,
+      "Aradhya": 1,
+      "Nuvvunte": 1,
+      "Yem Sandeham Ledu": 1,
+      "Mounamelanoyi": 1,
+      "Abbanee Tiyyani Debba": 1,
+      "Enno Ratrulosthayi": 1,
+      "Balapam Patti": 1,
+      "Sumam Prathi Sumam": 1,
+      "Neeli Neeli Aakasam": 1,
+      "Vintunnava": 1,
+      "Cheliya Cheliya": 1,
+      "Em Sandeham Ledu": 1,
+      "Choosi Chudangane": 1,
+      "Abbanee Tiyyani": 1,
+      "Ammaye Sannaga": 1,
+      "Manasaa": 1,
+      "Nuvvena Nuvvena": 1,
+      "Naalo Oohalaku": 1
+    },
+    "verdicts": {
+      "Oh Sita Hey Rama": {
+        "verdict": "correct",
+        "reason": "A romantic duet from the Telugu film Sita Ramam, sung by S. P. Charan and Ramya Behara."
+      },
+      "Cheppave Chirugali": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Okkadu, sung by Udit Narayan and Sujatha Mohan."
+      },
+      "Mellaga": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Varsham, sung by S. P. Charan and Sumangali."
+      },
+      "Subhalekha Rasukunna": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Kondaveeti Donga, sung by S. P. Balasubrahmanyam and K. S. Chithra."
+      },
+      "Om Namaha": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Geethanjali, sung by S. P. Balasubrahmanyam and S. Janaki."
+      },
+      "Yamuna Theeram": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Anand, sung by Hariharan and K. S. Chithra."
+      },
+      "Panchadara Bomma": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Magadheera, sung by Anuj Gurwara and Rita."
+      },
+      "Telusa Manasa": {
+        "verdict": "correct",
+        "reason": "A romantic duet from the Telugu film Criminal, sung by S. P. Balasubrahmanyam and K. S. Chithra."
+      },
+      "Bommanu Geesthe": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Bommarillu, sung by Jeans Srinivas and Gopika Poornima."
+      },
+      "Nuvvostanante": {
+        "verdict": "correct",
+        "reason": "A romantic song from Varsham featuring female vocals by K. S. Chithra and male vocals by Raqeeb Alam."
+      },
+      "O Priya Priya": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Geethanjali, sung by S. P. Balasubrahmanyam and K. S. Chithra."
+      },
+      "Nuvvena": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Anand, sung by K. M. Radha Krishnan and Shreya Ghoshal."
+      },
+      "Kaanunna Kalyanam": {
+        "verdict": "correct",
+        "reason": "A romantic duet from Sita Ramam, sung by Anurag Kulkarni and Sinduri Vishal."
+      }
+    },
+    "issues": []
+  }
+}

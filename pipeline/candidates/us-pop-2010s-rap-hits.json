@@ -1,0 +1,451 @@
+{
+  "question": {
+    "id": "us-pop-2010s-rap-hits",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a rap or hip-hop hit from the 2010s that reached the top 40 of the US Billboard Hot 100.",
+    "answerSet": "open",
+    "criteria": "Any rap or hip-hop song first released from 2010 through 2019 that reached No. 40 or higher on the US Billboard Hot 100 counts, including crossover hits.",
+    "answers": [
+      {
+        "id": "god-s-plan",
+        "canonical": "God's Plan",
+        "aliases": [],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "God's Plan is a chart-topping rap song by Drake.",
+        "sourceIds": []
+      },
+      {
+        "id": "humble",
+        "canonical": "Humble",
+        "aliases": [],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Humble is a chart-topping single by Kendrick Lamar.",
+        "sourceIds": []
+      },
+      {
+        "id": "sicko-mode",
+        "canonical": "Sicko Mode",
+        "aliases": [],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sicko Mode is a chart-topping song by Travis Scott featuring vocals from Drake.",
+        "sourceIds": []
+      },
+      {
+        "id": "thrift-shop",
+        "canonical": "Thrift Shop",
+        "aliases": [
+          "Macklemore Thrift Shop"
+        ],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thrift Shop is a hit by Macklemore & Ryan Lewis featuring Wanz.",
+        "sourceIds": []
+      },
+      {
+        "id": "can-t-hold-us",
+        "canonical": "Can't Hold Us",
+        "aliases": [],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Can't Hold Us is a hit by Macklemore & Ryan Lewis featuring Ray Dalton.",
+        "sourceIds": []
+      },
+      {
+        "id": "see-you-again",
+        "canonical": "See You Again",
+        "aliases": [
+          "Wiz Khalifa See You Again"
+        ],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "See You Again is a hit by Wiz Khalifa featuring Charlie Puth from the Furious 7 soundtrack.",
+        "sourceIds": []
+      },
+      {
+        "id": "black-and-yellow",
+        "canonical": "Black and Yellow",
+        "aliases": [
+          "Black & Yellow"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Black and Yellow is a chart-topping single by Wiz Khalifa.",
+        "sourceIds": []
+      },
+      {
+        "id": "rap-god",
+        "canonical": "Rap God",
+        "aliases": [
+          "Eminem Rap God"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rap God is an Eminem single that reached the Hot 100 top ten.",
+        "sourceIds": []
+      },
+      {
+        "id": "bodak-yellow",
+        "canonical": "Bodak Yellow",
+        "aliases": [
+          "Bodak Yellow (Money Moves)"
+        ],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bodak Yellow is a chart-topping rap single by Cardi B.",
+        "sourceIds": []
+      },
+      {
+        "id": "panda",
+        "canonical": "Panda",
+        "aliases": [
+          "Desiigner Panda"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Panda is a chart-topping debut single by Desiigner.",
+        "sourceIds": []
+      },
+      {
+        "id": "fancy",
+        "canonical": "Fancy",
+        "aliases": [
+          "Iggy Azalea Fancy"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fancy is a chart-topping Iggy Azalea song featuring Charli XCX.",
+        "sourceIds": []
+      },
+      {
+        "id": "bad-and-boujee",
+        "canonical": "Bad and Boujee",
+        "aliases": [
+          "Bad & Boujee",
+          "Bad and Boujee Migos"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad and Boujee is a chart-topping Migos song featuring Lil Uzi Vert.",
+        "sourceIds": []
+      },
+      {
+        "id": "old-town-road",
+        "canonical": "Old Town Road",
+        "aliases": [
+          "Old Town Road Remix"
+        ],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Old Town Road is a country-rap hit by Lil Nas X, also released in a remix featuring Billy Ray Cyrus.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-monster",
+        "canonical": "The Monster",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Monster is a chart-topping Eminem song featuring Rihanna.",
+        "sourceIds": []
+      },
+      {
+        "id": "super-bass",
+        "canonical": "Super Bass",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Super Bass is a Nicki Minaj single that reached the Hot 100 top five.",
+        "sourceIds": []
+      },
+      {
+        "id": "lucid-dreams",
+        "canonical": "Lucid Dreams",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lucid Dreams is a Juice WRLD single that reached No. 2 on the Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "xo-tour-llif3",
+        "canonical": "XO Tour Llif3",
+        "aliases": [
+          "XO Tour Life"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "XO Tour Llif3 is a Lil Uzi Vert single that reached the Hot 100 top ten.",
+        "sourceIds": []
+      },
+      {
+        "id": "hit-the-quan",
+        "canonical": "Hit the Quan",
+        "aliases": [
+          "iLoveMemphis Hit the Quan"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hit the Quan is an iLoveMemphis single associated with a viral dance.",
+        "sourceIds": []
+      },
+      {
+        "id": "juju-on-that-beat",
+        "canonical": "Juju on That Beat",
+        "aliases": [
+          "Juju on That Beat (TZ Anthem)",
+          "Juju on the Beat"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Juju on That Beat is a hit by Zay Hilfigerrr and Zayion McCall associated with a viral dance challenge.",
+        "sourceIds": []
+      },
+      {
+        "id": "trap-queen",
+        "canonical": "Trap Queen",
+        "aliases": [
+          "Fetty Wap Trap Queen"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fetty Wap's 2014 single reached No. 2 on the Billboard Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "love-the-way-you-lie",
+        "canonical": "Love the Way You Lie",
+        "aliases": [
+          "Love The Way U Lie"
+        ],
+        "familiarity": 0.0587,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eminem's 2010 single featuring Rihanna reached No. 1 on the Billboard Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "not-afraid",
+        "canonical": "Not Afraid",
+        "aliases": [
+          "Eminem Not Afraid"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eminem's 2010 single reached No. 1 on the Billboard Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-like-it",
+        "canonical": "I Like It",
+        "aliases": [
+          "Cardi B I Like It"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cardi B, Bad Bunny and J Balvin's 2018 song reached No. 1 on the Billboard Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "mo-bamba",
+        "canonical": "Mo Bamba",
+        "aliases": [
+          "Sheck Wes Mo Bamba"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sheck Wes's 2017 single reached No. 6 on the Billboard Hot 100.",
+        "sourceIds": []
+      },
+      {
+        "id": "dance-a",
+        "canonical": "Dance (A$$)",
+        "aliases": [
+          "Dance",
+          "Dance Ass",
+          "Big Sean Dance"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Big Sean's 2011 song reached No. 10 on the Billboard Hot 100.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "The 2010s brought chart-topping rap anthems, melodic crossover hits, and viral dance tracks. These are qualifying examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "eab43496da7664d9",
+    "brief": "Name a widely known rap or hip-hop hit song from the 2010s.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Old Town Road": 2,
+      "God's Plan": 3,
+      "Humble": 3,
+      "Sicko Mode": 3,
+      "Thrift Shop": 3,
+      "Can't Hold Us": 3,
+      "See You Again": 3,
+      "Black and Yellow": 3,
+      "Rap God": 3,
+      "The Monster": 2,
+      "Super Bass": 2,
+      "Bodak Yellow": 3,
+      "Panda": 3,
+      "Fancy": 3,
+      "Lucid Dreams": 2,
+      "XO Tour Llif3": 2,
+      "Bad and Boujee": 3,
+      "Hit the Quan": 2,
+      "Juju on That Beat": 2,
+      "Trap Queen": 2,
+      "Love the Way You Lie": 2,
+      "Not Afraid": 2,
+      "I Like It": 2,
+      "Mo Bamba": 2,
+      "Dance (A$$)": 2
+    },
+    "droppedForVotes": {
+      "Watch Me": 1,
+      "Congratulations": 1,
+      "White Iverson": 1,
+      "All I Do Is Win": 1,
+      "Teach Me How to Dougie": 1,
+      "i": 1,
+      "All Day": 1,
+      "Power": 1,
+      "All of the Lights": 1,
+      "In My Feelings": 1,
+      "Nice for What": 1,
+      "Started from the Bottom": 1,
+      "The Show Goes On": 1,
+      "6 Foot 7 Foot": 1,
+      "She Will": 1,
+      "Bounce Back": 1,
+      "Right Above It": 1,
+      "My Chick Bad": 1,
+      "Hotline Bling": 1,
+      "Black Beatles": 1,
+      "Watch Me (Whip/Nae Nae)": 1,
+      "DNA.": 1,
+      "Stir Fry": 1,
+      "MotorSport": 1,
+      "Walk It Talk It": 1,
+      "679": 1,
+      "GDFR": 1,
+      "Rake It Up": 1,
+      "Berzerk": 1,
+      "Nasty Freestyle": 1
+    },
+    "verdicts": {
+      "God's Plan": {
+        "verdict": "correct",
+        "reason": "Drake's 2018 single reached No. 1 on the Hot 100."
+      },
+      "Humble": {
+        "verdict": "correct",
+        "reason": "Kendrick Lamar's 2017 single reached No. 1 on the Hot 100."
+      },
+      "Sicko Mode": {
+        "verdict": "correct",
+        "reason": "Travis Scott's 2018 song, with vocals from Drake, reached No. 1."
+      },
+      "Thrift Shop": {
+        "verdict": "correct",
+        "reason": "Macklemore & Ryan Lewis's 2012 single featuring Wanz reached No. 1."
+      },
+      "Can't Hold Us": {
+        "verdict": "correct",
+        "reason": "First released in 2011, this single featuring Ray Dalton reached No. 1 in 2013."
+      },
+      "See You Again": {
+        "verdict": "correct",
+        "reason": "Wiz Khalifa's 2015 single featuring Charlie Puth reached No. 1."
+      },
+      "Black and Yellow": {
+        "verdict": "correct",
+        "reason": "Wiz Khalifa's 2010 single reached No. 1 on the Hot 100."
+      },
+      "Rap God": {
+        "verdict": "correct",
+        "reason": "Eminem's 2013 single reached No. 7 on the Hot 100."
+      },
+      "Bodak Yellow": {
+        "verdict": "correct",
+        "reason": "Cardi B's 2017 single reached No. 1 on the Hot 100."
+      },
+      "Panda": {
+        "verdict": "correct",
+        "reason": "Desiigner's debut single, released in 2015, reached No. 1 in 2016."
+      },
+      "Fancy": {
+        "verdict": "correct",
+        "reason": "Iggy Azalea's 2014 single featuring Charli XCX reached No. 1."
+      },
+      "Bad and Boujee": {
+        "verdict": "correct",
+        "reason": "Migos's 2016 single featuring Lil Uzi Vert reached No. 1 in 2017."
+      },
+      "Old Town Road": {
+        "verdict": "correct",
+        "reason": "First released in 2018, the country-rap song reached No. 1 in 2019."
+      },
+      "The Monster": {
+        "verdict": "correct",
+        "reason": "Eminem's 2013 single featuring Rihanna reached No. 1."
+      },
+      "Super Bass": {
+        "verdict": "correct",
+        "reason": "First released on Nicki Minaj's 2010 album, the song reached No. 3 in 2011."
+      },
+      "Lucid Dreams": {
+        "verdict": "correct",
+        "reason": "First released in 2017, Juice WRLD's song reached No. 2 in 2018."
+      },
+      "XO Tour Llif3": {
+        "verdict": "correct",
+        "reason": "Lil Uzi Vert's 2017 single reached No. 7 on the Hot 100."
+      },
+      "Hit the Quan": {
+        "verdict": "correct",
+        "reason": "iLoveMemphis's 2015 dance-rap single reached No. 15."
+      },
+      "Juju on That Beat": {
+        "verdict": "correct",
+        "reason": "Zay Hilfigerrr and Zayion McCall's 2016 single reached No. 5."
+      },
+      "Trap Queen": {
+        "verdict": "correct",
+        "reason": "Fetty Wap's song was first released in 2014 and reached No. 2 in 2015."
+      },
+      "Love the Way You Lie": {
+        "verdict": "correct",
+        "reason": "Eminem's 2010 single featuring Rihanna reached No. 1."
+      },
+      "Not Afraid": {
+        "verdict": "correct",
+        "reason": "Eminem's 2010 single debuted at No. 1 on the Hot 100."
+      },
+      "I Like It": {
+        "verdict": "correct",
+        "reason": "Cardi B, Bad Bunny and J Balvin's 2018 song reached No. 1."
+      },
+      "Mo Bamba": {
+        "verdict": "correct",
+        "reason": "Sheck Wes's 2017 single reached No. 6 in 2018."
+      },
+      "Dance (A$$)": {
+        "verdict": "correct",
+        "reason": "Big Sean's 2011 song reached No. 10 on the Hot 100."
+      }
+    },
+    "issues": []
+  }
+}

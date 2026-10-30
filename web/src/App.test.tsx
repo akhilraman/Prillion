@@ -35,6 +35,18 @@ describe('home screen', () => {
     expect(screen.getByRole('button', { name: /^tollywood/i })).toHaveTextContent('short round');
   });
 
+  it('lets the player mute sound effects and remembers the choice', async () => {
+    const user = userEvent.setup();
+    render(<App bank={bank} />);
+    const toggle = screen.getByRole('button', { name: 'Mute sounds' });
+    expect(toggle).toHaveTextContent('SFX on');
+    await user.click(toggle);
+    expect(screen.getByRole('button', { name: 'Unmute sounds' })).toHaveTextContent('SFX off');
+    cleanup();
+    render(<App bank={bank} />);
+    expect(screen.getByRole('button', { name: 'Unmute sounds' })).toHaveTextContent('SFX off');
+  });
+
   it('disables a category with no questions', () => {
     render(<App bank={{ ok: true, questions: questions.filter((q) => q.category !== 'tollywood') }} />);
     expect(screen.getByRole('button', { name: /^tollywood/i })).toBeDisabled();
@@ -42,21 +54,19 @@ describe('home screen', () => {
 });
 
 describe('question criteria', () => {
-  it('shows "What counts" when a question defines criteria, and nothing when it does not', async () => {
+  it('keeps "What counts" off the prompt, and shows it in the reveal panel after answering', async () => {
     const user = userEvent.setup();
     const withCriteria = makeBank({ tollywood: 0, space: 1, 'us-pop': 0 }).map((q) => ({
       ...q,
       criteria: 'The hero frees a village from a tyrant.',
     }));
-    const { unmount } = render(<App bank={{ ok: true, questions: withCriteria }} />);
-    await user.click(screen.getByRole('button', { name: /^space/i }));
-    expect(screen.getByText('What counts:')).toBeInTheDocument();
-    expect(screen.getByText(/frees a village from a tyrant/)).toBeInTheDocument();
-    unmount();
-
-    render(<App bank={{ ok: true, questions: makeBank({ tollywood: 0, space: 1, 'us-pop': 0 }) }} />);
+    render(<App bank={{ ok: true, questions: withCriteria }} />);
     await user.click(screen.getByRole('button', { name: /^space/i }));
     expect(screen.queryByText('What counts:')).not.toBeInTheDocument();
+
+    await user.type(screen.getByLabelText('Your answer'), `${CORRECT}{Enter}`);
+    expect(screen.getByText('What counts:')).toBeInTheDocument();
+    expect(screen.getByText(/frees a village from a tyrant/)).toBeInTheDocument();
   });
 });
 

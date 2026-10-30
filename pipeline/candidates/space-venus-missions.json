@@ -1,0 +1,481 @@
+{
+  "question": {
+    "id": "space-venus-missions",
+    "category": "space",
+    "prompt": "Name a spacecraft or mission that has visited Venus, including by flyby, orbit, atmospheric entry, or landing.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "venera-1",
+        "canonical": "Venera 1",
+        "aliases": [
+          "Venera-1"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 1 approached within 100,000 km of Venus after losing contact with Earth.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-2",
+        "canonical": "Venera 2",
+        "aliases": [
+          "Venera-2"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 2 completed a Venus flyby but transmitted no data.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-3",
+        "canonical": "Venera 3",
+        "aliases": [
+          "Venera-3"
+        ],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 3 crash-landed on Venus in 1966.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-4",
+        "canonical": "Venera 4",
+        "aliases": [
+          "Venera-4"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 4 entered Venus's atmosphere and returned direct atmospheric measurements.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-5",
+        "canonical": "Venera 5",
+        "aliases": [
+          "Venera-5"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 5 descended into Venus's atmosphere but was crushed before reaching the surface.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-6",
+        "canonical": "Venera 6",
+        "aliases": [
+          "Venera-6"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 6 descended into Venus's atmosphere but was crushed before reaching the surface.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-7",
+        "canonical": "Venera 7",
+        "aliases": [
+          "Venera-7"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 7 made the first successful soft landing on Venus in 1970.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-8",
+        "canonical": "Venera 8",
+        "aliases": [
+          "Venera-8"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 8 landed on Venus in July 1972.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-9",
+        "canonical": "Venera 9",
+        "aliases": [
+          "Venera-9"
+        ],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 9 became the first artificial satellite of Venus in 1975 and deployed a lander.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-10",
+        "canonical": "Venera 10",
+        "aliases": [
+          "Venera-10"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 10 arrived at Venus shortly after Venera 9 and conducted a similar program.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-11",
+        "canonical": "Venera 11",
+        "aliases": [
+          "Venera-11"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 11 flew past Venus and released a descent vehicle in December 1978.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-12",
+        "canonical": "Venera 12",
+        "aliases": [
+          "Venera-12"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 12 flew past Venus and released a descent vehicle in December 1978.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-13",
+        "canonical": "Venera 13",
+        "aliases": [
+          "Venera-13"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 13 operated on Venus's surface and returned its first color image in 1982.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-14",
+        "canonical": "Venera 14",
+        "aliases": [
+          "Venera-14"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Venera 14 lander investigated Venus's crust in 1982.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-15",
+        "canonical": "Venera 15",
+        "aliases": [
+          "Venera-15"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 15 entered a polar orbit around Venus in October 1983.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venera-16",
+        "canonical": "Venera 16",
+        "aliases": [
+          "Venera-16"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venera 16 entered a polar orbit around Venus in October 1983.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "mariner-2",
+        "canonical": "Mariner 2",
+        "aliases": [
+          "Mariner-2"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 2 made the first successful Venus flyby in 1962.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "mariner-5",
+        "canonical": "Mariner 5",
+        "aliases": [
+          "Mariner-5"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 5 measured Venus's magnetic field during a 1967 flyby.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "mariner-10",
+        "canonical": "Mariner 10",
+        "aliases": [
+          "Mariner-10"
+        ],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 10 flew past Venus on its way to Mercury in 1974.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "pioneer-venus-orbiter",
+        "canonical": "Pioneer Venus Orbiter",
+        "aliases": [],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer Venus Orbiter entered Venusian orbit in December 1978.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "pioneer-venus-multiprobe",
+        "canonical": "Pioneer Venus Multiprobe",
+        "aliases": [],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer Venus Multiprobe delivered four atmospheric probes that entered Venus's atmosphere in December 1978.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "vega-1",
+        "canonical": "Vega 1",
+        "aliases": [
+          "Vega-1"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vega 1 encountered Venus in June 1985 and deployed a lander and balloon.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "vega-2",
+        "canonical": "Vega 2",
+        "aliases": [
+          "Vega-2"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vega 2 encountered Venus in June 1985 and deployed a lander and balloon.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "magellan",
+        "canonical": "Magellan",
+        "aliases": [
+          "Magellan probe"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magellan entered orbit around Venus in August 1990 to map it using radar.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "venus-express",
+        "canonical": "Venus Express",
+        "aliases": [],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venus Express entered a polar orbit around Venus in April 2006.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "akatsuki",
+        "canonical": "Akatsuki",
+        "aliases": [],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Akatsuki achieved an elliptical Venusian orbit in December 2015 after its initial insertion attempt failed.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "galileo",
+        "canonical": "Galileo",
+        "aliases": [
+          "Galileo mission"
+        ],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Galileo observed Venus's radio emissions during its 1990 flyby.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "cassini-huygens",
+        "canonical": "Cassini–Huygens",
+        "aliases": [
+          "Cassini",
+          "Cassini-Huygens",
+          "Cassini Huygens"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cassini–Huygens made two Venus flybys on its journey to Saturn.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "messenger",
+        "canonical": "MESSENGER",
+        "aliases": [],
+        "familiarity": 0.03,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MESSENGER flew past Venus twice en route to Mercury.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "bepicolombo",
+        "canonical": "BepiColombo",
+        "aliases": [
+          "Bepi Colombo"
+        ],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "BepiColombo made two Venus flybys on its way to Mercury.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "parker-solar-probe",
+        "canonical": "Parker Solar Probe",
+        "aliases": [
+          "Parker"
+        ],
+        "familiarity": 0.075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parker Solar Probe completed seven Venus flybys between 2018 and 2024.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      },
+      {
+        "id": "solar-orbiter",
+        "canonical": "Solar Orbiter",
+        "aliases": [],
+        "familiarity": 0.009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solar Orbiter made its first Venus flyby on December 26, 2020.",
+        "sourceIds": [
+          "observations-and-explorations-of-venus"
+        ]
+      }
+    ],
+    "explanation": "Venus has been visited by dedicated explorers and by spacecraft using its gravity on the way elsewhere. Visits include the Venera landers, radar-mapping orbiters, atmospheric probes, and gravity-assist flybys.",
+    "sources": [
+      {
+        "id": "observations-and-explorations-of-venus",
+        "title": "Observations and explorations of Venus",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Observations_and_explorations_of_Venus",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A named spacecraft or mission that actually reached Venus for a flyby, entered Venusian orbit or atmosphere, or reached its surface; planned and canceled missions do not count. A flyby counts even if contact was lost."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "58b9eca1666d563b",
+    "brief": "Name a spacecraft or mission that has visited Venus.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "observations-and-explorations-of-venus",
+        "version": "1376650410",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Venera 1": "An overheated orientation sensor caused it to malfunction, losing contact with Earth before its closest approach to Venus of 100,000 km.",
+      "Venera 2": "The Soviet Union launched the Venera 2 probe to Venus in 1966, but it malfunctioned sometime after its May 16 telemetry session. The probe completed a flyby of Venus, but failed to transmit any data.",
+      "Venera 3": "On March 1, 1966, the Venera 3 Soviet space probe crash-landed on Venus, becoming the first spacecraft to reach the surface of another planet.",
+      "Venera 4": "The descent capsule of Venera 4 entered the atmosphere of Venus on October 18, 1967, making it the first probe to return direct measurements from another planet's atmosphere.",
+      "Venera 5": "Venera 4's battery ran out while still slowly floating through the massive atmosphere, and Venera 5 and 6 were crushed by high pressure 18 km (60,000 ft) above the surface.",
+      "Venera 6": "Venera 4's battery ran out while still slowly floating through the massive atmosphere, and Venera 5 and 6 were crushed by high pressure 18 km (60,000 ft) above the surface.",
+      "Venera 7": "The first successful landing on Venus was by Venera 7 on December 15, 1970 — the first successful soft landing on another planet, as well as the first successful transmission of data from another planet's surface to Earth.",
+      "Venera 8": "Venera 8 landed on July 22, 1972. In addition to pressure and temperature profiles, a photometer showed that the clouds of Venus formed a layer ending over 35 kilometres (22 mi) above the surface.",
+      "Venera 9": "The Soviet probe Venera 9 entered orbit on October 22, 1975, becoming the first artificial satellite of Venus.",
+      "Venera 10": "On October 25, Venera 10 arrived and carried out a similar program of study.",
+      "Venera 11": "Also in 1978, Venera 11 and Venera 12 flew past Venus, dropping descent vehicles on December 21 and December 25 respectively.",
+      "Venera 12": "Also in 1978, Venera 11 and Venera 12 flew past Venus, dropping descent vehicles on December 21 and December 25 respectively.",
+      "Venera 13": "In 1982, the Soviet Venera 13 sent the first colour image of Venus's surface, revealing an orange-brown flat bedrock surface covered with loose regolith and small flat thin angular rocks, and analysed the X-ray fluorescence of an excavated soil sample.",
+      "Venera 14": "Also in 1982, the Venera 14 lander detected possible seismic activity in the planet's crust.",
+      "Venera 15": "In October 1983, Venera 15 and Venera 16 entered polar orbits around Venus.",
+      "Venera 16": "In October 1983, Venera 15 and Venera 16 entered polar orbits around Venus.",
+      "Mariner 2": "The first successful flyby Venus probe was the American Mariner 2 spacecraft, which flew past Venus in 1962, coming within 35,000 km.",
+      "Mariner 5": "During another American flyby in 1967, Mariner 5 measured the strength of Venus's magnetic field.",
+      "Mariner 10": "In 1974, Mariner 10 swung by Venus on its way to Mercury and took ultraviolet photographs of the clouds, revealing the extraordinarily high wind speeds in the Venusian atmosphere.",
+      "Pioneer Venus Orbiter": "The Pioneer Venus Orbiter was inserted into an elliptical orbit around Venus on December 4, 1978.",
+      "Pioneer Venus Multiprobe": "The Pioneer Venus Multiprobe carried one large and three small atmospheric probes. The large probe was released on November 16, 1978, and the three small probes on November 20. All four probes entered the Venusian atmosphere on December 9, followed by the delivery vehicle.",
+      "Vega 1": "Vega 1 and Vega 2 encountered Venus in June 1985, each deploying a lander and an instrumented helium balloon.",
+      "Vega 2": "Vega 1 and Vega 2 encountered Venus in June 1985, each deploying a lander and an instrumented helium balloon.",
+      "Magellan": "On August 10, 1990, the American Magellan probe, named after the explorer Ferdinand Magellan, arrived at its orbit around the planet and started a mission of detailed radar mapping at a frequency of 2.38 GHz.",
+      "Venus Express": "Venus Express successfully assumed a polar orbit on April 11, 2006.",
+      "Akatsuki": "It was placed on an alternative elliptical Venerian orbit on 7 December 2015 by firing its attitude control thrusters for 1,233 seconds.",
+      "Galileo": "An examination of Venus's radio emissions by the Galileo spacecraft during its flyby in 1990 was interpreted at the time to be indicative of lightning.",
+      "Cassini–Huygens": "These include the Galileo mission to Jupiter, and the Cassini–Huygens mission to Saturn, which made two flybys.",
+      "MESSENGER": "MESSENGER passed by Venus twice on its way to Mercury.",
+      "BepiColombo": "BepiColombo also flew by Venus twice on its way to Mercury, the first time on October 15, 2020.",
+      "Parker Solar Probe": "Parker Solar Probe has performed seven Venus flybys, which occurred on October 3, 2018, December 26, 2019, July 11, 2020, February 20, 2021, October 16, 2021, August 21, 2023, and November 6, 2024.",
+      "Solar Orbiter": "Solar Orbiter | February 9, 2020 | 26 December 2020 (1st flyby) | ongoing | 8 flybys during gravity-assist maneuvers from 2020 to 2030"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Venera 1]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Venera 6]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Akatsuki]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

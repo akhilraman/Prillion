@@ -12,7 +12,7 @@ An original underwater, pixel-art trivia game. Players answer **open-ended quest
 web/                    React + TypeScript + Vite frontend
   src/domain/           Pure game logic (no React, no browser APIs) + tests
   src/game/             React glue: round hook, deadline timer
-  src/storage/          localStorage play history
+  src/storage/          localStorage play history and SFX mute
   src/content/          Question bank (JSON) + lazy per-category loader
   src/ui/               Screens and components
 docs/ARCHITECTURE.md    Design, data flow, trade-offs, roadmap

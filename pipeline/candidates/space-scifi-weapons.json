@@ -1,0 +1,397 @@
+{
+  "question": {
+    "id": "space-scifi-weapons",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a fictional weapon from a space-based sci-fi film, TV series or video game.",
+    "answerSet": "open",
+    "criteria": "Any established fictional weapon, weapon type or weaponized installation appearing in a space-based science-fiction film, television series or video game counts.",
+    "answers": [
+      {
+        "id": "lightsaber",
+        "canonical": "Lightsaber",
+        "aliases": [
+          "Laser sword"
+        ],
+        "familiarity": 0.1025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A lightsaber is an energy-bladed weapon used by Jedi and Sith in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "phaser",
+        "canonical": "Phaser",
+        "aliases": [
+          "Phasers",
+          "Star Trek phaser"
+        ],
+        "familiarity": 0.1025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phasers are directed-energy weapons used aboard ships and as handheld weapons in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "death-star",
+        "canonical": "Death Star",
+        "aliases": [
+          "Death Star superlaser",
+          "The Death Star"
+        ],
+        "familiarity": 0.1025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Death Star is a Star Wars battle station armed with a planet-destroying superlaser.",
+        "sourceIds": []
+      },
+      {
+        "id": "blaster",
+        "canonical": "Blaster",
+        "aliases": [
+          "Blaster pistol",
+          "Blaster rifle"
+        ],
+        "familiarity": 0.1025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blasters are energy weapons widely used throughout Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "photon-torpedo",
+        "canonical": "Photon torpedo",
+        "aliases": [
+          "Photon torpedoes"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Photon torpedoes are starship weapons used in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "bowcaster",
+        "canonical": "Bowcaster",
+        "aliases": [
+          "Wookiee bowcaster",
+          "Chewbacca's bowcaster"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A bowcaster is the crossbow-shaped weapon carried by Chewbacca in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "thermal-detonator",
+        "canonical": "Thermal detonator",
+        "aliases": [
+          "Thermal detonators"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A thermal detonator is an explosive weapon featured in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "disruptor",
+        "canonical": "Disruptor",
+        "aliases": [
+          "Disruptor pistol",
+          "Disruptor rifle"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Disruptors are energy weapons used by factions including the Klingons and Romulans in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "needler",
+        "canonical": "Needler",
+        "aliases": [
+          "Halo Needler"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Needler is a Covenant weapon in Halo that fires tracking crystalline projectiles.",
+        "sourceIds": []
+      },
+      {
+        "id": "energy-sword",
+        "canonical": "Energy sword",
+        "aliases": [
+          "Halo energy sword",
+          "Covenant energy sword",
+          "Plasma sword"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The energy sword is a plasma-bladed melee weapon used by Sangheili warriors in Halo.",
+        "sourceIds": []
+      },
+      {
+        "id": "gravity-hammer",
+        "canonical": "Gravity hammer",
+        "aliases": [
+          "Halo gravity hammer"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The gravity hammer is a powerful melee weapon associated with the Brutes in Halo.",
+        "sourceIds": []
+      },
+      {
+        "id": "spartan-laser",
+        "canonical": "Spartan Laser",
+        "aliases": [
+          "M6 Spartan Laser",
+          "Splaser",
+          "Spartan lazer"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Spartan Laser is a powerful directed-energy weapon used by the UNSC in Halo.",
+        "sourceIds": []
+      },
+      {
+        "id": "bat-leth",
+        "canonical": "Bat'leth",
+        "aliases": [],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The bat'leth is a curved Klingon melee weapon featured in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "zat-nik-tel",
+        "canonical": "Zat'nik'tel",
+        "aliases": [
+          "Zat",
+          "Zat gun",
+          "Zatnikitel"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The zat'nik'tel is a handheld Goa'uld energy weapon in Stargate SG-1.",
+        "sourceIds": []
+      },
+      {
+        "id": "staff-weapon",
+        "canonical": "Staff weapon",
+        "aliases": [
+          "Goa'uld staff weapon",
+          "Jaffa staff weapon",
+          "Ma'Tok",
+          "Ma'Tok staff"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The staff weapon is a pole-shaped Goa'uld energy weapon carried by Jaffa in Stargate SG-1.",
+        "sourceIds": []
+      },
+      {
+        "id": "proton-torpedo",
+        "canonical": "Proton torpedo",
+        "aliases": [
+          "Proton torpedoes"
+        ],
+        "familiarity": 0.041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Proton torpedoes are starfighter weapons used in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "quantum-torpedo",
+        "canonical": "Quantum torpedo",
+        "aliases": [
+          "Quantum torpedoes"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Quantum torpedoes are advanced starship weapons featured in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "wave-motion-gun",
+        "canonical": "Wave Motion Gun",
+        "aliases": [
+          "Hadouhou",
+          "Hadoho"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Wave Motion Gun is the Yamato's signature ship-mounted weapon in Space Battleship Yamato.",
+        "sourceIds": []
+      },
+      {
+        "id": "m-920-cain",
+        "canonical": "M-920 Cain",
+        "aliases": [
+          "Cain"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The M-920 Cain is a heavy weapon featured in Mass Effect 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "m-98-widow",
+        "canonical": "M-98 Widow",
+        "aliases": [
+          "Widow",
+          "Widow sniper rifle"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The M-98 Widow is a powerful sniper rifle featured in the Mass Effect games.",
+        "sourceIds": []
+      },
+      {
+        "id": "smartgun",
+        "canonical": "Smartgun",
+        "aliases": [
+          "M56",
+          "M56 smartgun"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The M56 smartgun is a harness-mounted weapon used by Colonial Marines in Aliens.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space sci-fi weapons range from handheld blades and energy guns to ship-mounted cannons and planet-destroying installations. Answers can come from franchises such as Star Wars, Star Trek, Halo, Mass Effect and Stargate.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "288c0cfd20244053",
+    "brief": "Name a famous fictional weapon from a space-based sci-fi film, TV series or game (for example a lightsaber or phaser).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Lightsaber": 3,
+      "Phaser": 3,
+      "Death Star": 3,
+      "Blaster": 3,
+      "Photon torpedo": 3,
+      "Bowcaster": 3,
+      "Thermal detonator": 3,
+      "Proton torpedo": 2,
+      "Disruptor": 3,
+      "Needler": 3,
+      "Energy sword": 3,
+      "Gravity hammer": 3,
+      "Spartan Laser": 3,
+      "Quantum torpedo": 2,
+      "Bat'leth": 3,
+      "Zat'nik'tel": 3,
+      "Staff weapon": 3,
+      "Wave Motion Gun": 2,
+      "M-920 Cain": 2,
+      "M-98 Widow": 2,
+      "Smartgun": 2
+    },
+    "droppedForVotes": {
+      "Darksaber": 1,
+      "Starkiller Base": 1,
+      "Halo Array": 1,
+      "Yamato Cannon": 1,
+      "M-8 Avenger": 1,
+      "BFG 9000": 1,
+      "Pulse rifle": 1,
+      "Crysknife": 1,
+      "Lasgun": 1,
+      "M-490 Blackstorm": 1,
+      "Dakara superweapon": 1,
+      "Plasma pistol": 1,
+      "M41A pulse rifle": 1,
+      "PPG": 1,
+      "Magnetic Accelerator Cannon": 1
+    },
+    "verdicts": {
+      "Lightsaber": {
+        "verdict": "correct",
+        "reason": "The iconic energy-bladed weapon appears throughout the Star Wars films."
+      },
+      "Phaser": {
+        "verdict": "correct",
+        "reason": "Handheld and ship-mounted phasers are established weapons in Star Trek."
+      },
+      "Death Star": {
+        "verdict": "correct",
+        "reason": "Star Wars features this battle station and its planet-destroying superlaser."
+      },
+      "Blaster": {
+        "verdict": "correct",
+        "reason": "Blasters are widely used fictional energy weapons in Star Wars."
+      },
+      "Photon torpedo": {
+        "verdict": "correct",
+        "reason": "Photon torpedoes are established starship weapons in Star Trek."
+      },
+      "Bowcaster": {
+        "verdict": "correct",
+        "reason": "Chewbacca uses a bowcaster in the Star Wars films."
+      },
+      "Thermal detonator": {
+        "verdict": "correct",
+        "reason": "This explosive weapon appears in Star Wars, including Return of the Jedi."
+      },
+      "Disruptor": {
+        "verdict": "correct",
+        "reason": "Klingon and Romulan disruptors are established weapons in Star Trek."
+      },
+      "Needler": {
+        "verdict": "correct",
+        "reason": "Halo features this Covenant weapon firing homing crystalline projectiles."
+      },
+      "Energy sword": {
+        "verdict": "correct",
+        "reason": "The Sangheili energy sword is an established plasma weapon in Halo."
+      },
+      "Gravity hammer": {
+        "verdict": "correct",
+        "reason": "Halo features gravity hammers wielded by Brutes."
+      },
+      "Spartan Laser": {
+        "verdict": "correct",
+        "reason": "This UNSC directed-energy weapon appears in Halo games."
+      },
+      "Bat'leth": {
+        "verdict": "correct",
+        "reason": "The bat'leth is a well-established Klingon melee weapon in Star Trek."
+      },
+      "Zat'nik'tel": {
+        "verdict": "correct",
+        "reason": "This handheld Goa'uld energy weapon appears in Stargate SG-1."
+      },
+      "Staff weapon": {
+        "verdict": "correct",
+        "reason": "Jaffa use Goa'uld staff weapons throughout Stargate SG-1."
+      },
+      "Proton torpedo": {
+        "verdict": "correct",
+        "reason": "Star Wars starfighters use proton torpedoes, notably during the Death Star attack."
+      },
+      "Quantum torpedo": {
+        "verdict": "correct",
+        "reason": "Quantum torpedoes appear in Star Trek, including aboard the Defiant."
+      },
+      "Wave Motion Gun": {
+        "verdict": "correct",
+        "reason": "The Yamato uses this signature ship-mounted weapon in Space Battleship Yamato."
+      },
+      "M-920 Cain": {
+        "verdict": "correct",
+        "reason": "The M-920 Cain is an obtainable heavy weapon in Mass Effect 2."
+      },
+      "M-98 Widow": {
+        "verdict": "correct",
+        "reason": "The M-98 Widow is an established sniper rifle in the Mass Effect games."
+      },
+      "Smartgun": {
+        "verdict": "correct",
+        "reason": "Colonial Marines use harness-mounted M56 smartguns in Aliens."
+      }
+    },
+    "issues": []
+  }
+}

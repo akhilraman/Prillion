@@ -1,0 +1,356 @@
+{
+  "question": {
+    "id": "us-pop-movie-quotes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a widely quoted line from a well-known American film.",
+    "answerSet": "open",
+    "criteria": "A recognizable quotation spoken in an American feature film; minor wording variations are accepted.",
+    "answers": [
+      {
+        "id": "may-the-force-be-with-you",
+        "canonical": "May the Force be with you",
+        "aliases": [
+          "May the force be with u"
+        ],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This blessing is spoken in Star Wars and other films in the series.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-ll-be-back",
+        "canonical": "I'll be back",
+        "aliases": [
+          "I will be back"
+        ],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Terminator says this line in The Terminator.",
+        "sourceIds": []
+      },
+      {
+        "id": "there-s-no-place-like-home",
+        "canonical": "There's no place like home",
+        "aliases": [
+          "There is no place like home"
+        ],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dorothy repeats this line in The Wizard of Oz.",
+        "sourceIds": []
+      },
+      {
+        "id": "to-infinity-and-beyond",
+        "canonical": "To infinity and beyond!",
+        "aliases": [
+          "To infinity & beyond",
+          "Infinity and beyond"
+        ],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This is Buzz Lightyear's catchphrase in Toy Story.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-see-dead-people",
+        "canonical": "I see dead people",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cole Sear says this line in The Sixth Sense.",
+        "sourceIds": []
+      },
+      {
+        "id": "you-can-t-handle-the-truth",
+        "canonical": "You can't handle the truth!",
+        "aliases": [
+          "You cannot handle the truth"
+        ],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Colonel Jessup delivers this line during the courtroom confrontation in A Few Good Men.",
+        "sourceIds": []
+      },
+      {
+        "id": "you-talking-to-me",
+        "canonical": "You talking to me?",
+        "aliases": [
+          "Are you talking to me",
+          "You talkin' to me"
+        ],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Travis Bickle says this while facing a mirror in Taxi Driver.",
+        "sourceIds": []
+      },
+      {
+        "id": "here-s-looking-at-you-kid",
+        "canonical": "Here's looking at you, kid",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Blaine says this line to Ilsa in Casablanca.",
+        "sourceIds": []
+      },
+      {
+        "id": "show-me-the-money",
+        "canonical": "Show me the money!",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rod Tidwell and Jerry Maguire shout this phrase during a phone conversation in Jerry Maguire.",
+        "sourceIds": []
+      },
+      {
+        "id": "klaatu-barada-nikto",
+        "canonical": "Klaatu barada nikto",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helen Benson speaks this phrase to Gort in The Day the Earth Stood Still.",
+        "sourceIds": []
+      },
+      {
+        "id": "you-re-gonna-need-a-bigger-boat",
+        "canonical": "You're gonna need a bigger boat",
+        "aliases": [
+          "We're gonna need a bigger boat",
+          "You're going to need a bigger boat"
+        ],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chief Brody says this after seeing the shark in Jaws.",
+        "sourceIds": []
+      },
+      {
+        "id": "houston-we-have-a-problem",
+        "canonical": "Houston, we have a problem",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jim Lovell says this line in Apollo 13.",
+        "sourceIds": []
+      },
+      {
+        "id": "just-keep-swimming",
+        "canonical": "Just keep swimming",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dory repeats this encouragement in Finding Nemo.",
+        "sourceIds": []
+      },
+      {
+        "id": "inconceivable",
+        "canonical": "Inconceivable!",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vizzini repeatedly exclaims this word in The Princess Bride.",
+        "sourceIds": []
+      },
+      {
+        "id": "life-finds-a-way",
+        "canonical": "Life finds a way",
+        "aliases": [
+          "Life, uh, finds a way"
+        ],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ian Malcolm makes this observation in Jurassic Park.",
+        "sourceIds": []
+      },
+      {
+        "id": "well-nobody-s-perfect",
+        "canonical": "Well, nobody's perfect",
+        "aliases": [
+          "Nobody's perfect",
+          "Nobody is perfect",
+          "Well nobody is perfect"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Osgood Fielding III delivers this closing line in Some Like It Hot.",
+        "sourceIds": []
+      },
+      {
+        "id": "rosebud",
+        "canonical": "Rosebud",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charles Foster Kane utters this word at the beginning of Citizen Kane.",
+        "sourceIds": []
+      },
+      {
+        "id": "what-a-dump",
+        "canonical": "What a dump!",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rosa Moline says this line in Beyond the Forest.",
+        "sourceIds": []
+      },
+      {
+        "id": "as-you-wish",
+        "canonical": "As you wish",
+        "aliases": [],
+        "familiarity": 0.0336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Westley repeatedly says this line in The Princess Bride.",
+        "sourceIds": []
+      },
+      {
+        "id": "why-so-serious",
+        "canonical": "Why so serious?",
+        "aliases": [],
+        "familiarity": 0.0841,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Joker says this line in The Dark Knight.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "American movies have supplied catchphrases, punchlines and dramatic declarations that people quote far beyond the films themselves. These are examples, not a complete list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "9f55a524e35a0c0c",
+    "brief": "Name a widely quoted line from a well-known American film.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "May the Force be with you": 3,
+      "I'll be back": 3,
+      "There's no place like home": 3,
+      "To infinity and beyond!": 3,
+      "You're gonna need a bigger boat": 2,
+      "I see dead people": 3,
+      "You can't handle the truth!": 3,
+      "Houston, we have a problem": 2,
+      "You talking to me?": 3,
+      "Here's looking at you, kid": 3,
+      "Show me the money!": 3,
+      "Just keep swimming": 2,
+      "Inconceivable!": 2,
+      "Life finds a way": 2,
+      "Well, nobody's perfect": 2,
+      "Rosebud": 2,
+      "What a dump!": 2,
+      "Klaatu barada nikto": 3,
+      "As you wish": 2,
+      "Why so serious?": 2
+    },
+    "droppedForVotes": {
+      "I'm the king of the world!": 1,
+      "E.T. phone home": 1,
+      "As if!": 1,
+      "This is Sparta!": 1,
+      "Don't call me Shirley": 1,
+      "That'll do, pig": 1,
+      "Be excellent to each other": 1,
+      "These go to eleven": 1,
+      "You're killing me, Smalls!": 1,
+      "It's alive!": 1,
+      "I'm walking here!": 1,
+      "Plastics": 1,
+      "Soylent Green is people!": 1,
+      "Shut up and deal": 1,
+      "It's a trap!": 1,
+      "Get in, loser. We're going shopping": 1,
+      "Game over, man!": 1,
+      "I'm your huckleberry": 1,
+      "You're tearing me apart, Lisa!": 1,
+      "Put the candle back": 1,
+      "It's all in the reflexes": 1,
+      "No matter where you go, there you are": 1
+    },
+    "verdicts": {
+      "May the Force be with you": {
+        "verdict": "correct",
+        "reason": "A widely recognized quotation spoken in Star Wars and other films in the series."
+      },
+      "I'll be back": {
+        "verdict": "correct",
+        "reason": "The Terminator famously says this in The Terminator (1984)."
+      },
+      "There's no place like home": {
+        "verdict": "correct",
+        "reason": "Dorothy repeats this line in The Wizard of Oz (1939)."
+      },
+      "To infinity and beyond!": {
+        "verdict": "correct",
+        "reason": "Buzz Lightyear's famous catchphrase in Toy Story (1995)."
+      },
+      "I see dead people": {
+        "verdict": "correct",
+        "reason": "Cole Sear says this widely quoted line in The Sixth Sense (1999)."
+      },
+      "You can't handle the truth!": {
+        "verdict": "correct",
+        "reason": "Colonel Jessup delivers this famous courtroom line in A Few Good Men (1992)."
+      },
+      "You talking to me?": {
+        "verdict": "correct",
+        "reason": "Travis Bickle says this during the famous mirror scene in Taxi Driver (1976)."
+      },
+      "Here's looking at you, kid": {
+        "verdict": "correct",
+        "reason": "Rick Blaine says this memorable line to Ilsa in Casablanca (1942)."
+      },
+      "Show me the money!": {
+        "verdict": "correct",
+        "reason": "Rod Tidwell and Jerry Maguire shout this during their phone conversation in Jerry Maguire (1996)."
+      },
+      "Klaatu barada nikto": {
+        "verdict": "correct",
+        "reason": "Helen Benson speaks this famous command to Gort in The Day the Earth Stood Still (1951)."
+      },
+      "You're gonna need a bigger boat": {
+        "verdict": "correct",
+        "reason": "Chief Brody says this after seeing the shark in Jaws (1975)."
+      },
+      "Houston, we have a problem": {
+        "verdict": "correct",
+        "reason": "Jim Lovell says this line in Apollo 13 (1995), though the historical transmission used different wording."
+      },
+      "Just keep swimming": {
+        "verdict": "correct",
+        "reason": "Dory repeats this recognizable encouragement in Finding Nemo (2003)."
+      },
+      "Inconceivable!": {
+        "verdict": "correct",
+        "reason": "Vizzini repeatedly exclaims this in The Princess Bride (1987)."
+      },
+      "Life finds a way": {
+        "verdict": "correct",
+        "reason": "Ian Malcolm says this in Jurassic Park (1993); the proposed wording is an accepted minor variation."
+      },
+      "Well, nobody's perfect": {
+        "verdict": "correct",
+        "reason": "Osgood Fielding III delivers this famous closing line in Some Like It Hot (1959)."
+      },
+      "Rosebud": {
+        "verdict": "correct",
+        "reason": "Charles Foster Kane utters this iconic word at the beginning of Citizen Kane (1941)."
+      },
+      "What a dump!": {
+        "verdict": "correct",
+        "reason": "Rosa Moline, played by Bette Davis, says this famous line in Beyond the Forest (1949)."
+      },
+      "As you wish": {
+        "verdict": "correct",
+        "reason": "Westley repeatedly says this memorable phrase in The Princess Bride (1987)."
+      },
+      "Why so serious?": {
+        "verdict": "correct",
+        "reason": "The Joker says this famous line in The Dark Knight (2008)."
+      }
+    },
+    "issues": []
+  }
+}

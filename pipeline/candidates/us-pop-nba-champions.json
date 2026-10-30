@@ -1,0 +1,381 @@
+{
+  "question": {
+    "id": "us-pop-nba-champions",
+    "category": "us-pop",
+    "prompt": "Name an NBA franchise that has won an NBA championship, including titles won under a former name or in the BAA.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "boston-celtics",
+        "canonical": "Boston Celtics",
+        "aliases": [
+          "Celtics",
+          "Boston"
+        ],
+        "familiarity": 0.1018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The franchise records credit the Boston Celtics with 18 championships.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "los-angeles-lakers",
+        "canonical": "Los Angeles Lakers",
+        "aliases": [
+          "Lakers",
+          "LA Lakers",
+          "L.A. Lakers",
+          "Minneapolis Lakers"
+        ],
+        "familiarity": 0.1018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The franchise records credit the Lakers with 17 championships, including their Minneapolis titles.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "golden-state-warriors",
+        "canonical": "Golden State Warriors",
+        "aliases": [
+          "Warriors",
+          "Golden State",
+          "Philadelphia Warriors",
+          "San Francisco Warriors"
+        ],
+        "familiarity": 0.1018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The franchise records credit the Warriors with seven championships.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "chicago-bulls",
+        "canonical": "Chicago Bulls",
+        "aliases": [
+          "Bulls",
+          "Chicago"
+        ],
+        "familiarity": 0.1018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chicago Bulls won six championships in the 1990s.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "san-antonio-spurs",
+        "canonical": "San Antonio Spurs",
+        "aliases": [
+          "Spurs",
+          "San Antonio"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Antonio Spurs are credited with five championships.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "philadelphia-76ers",
+        "canonical": "Philadelphia 76ers",
+        "aliases": [
+          "76ers",
+          "Sixers",
+          "Philadelphia Sixers",
+          "Philadelphia",
+          "Syracuse Nationals"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 76ers franchise is credited with championships in 1955, 1967 and 1983.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "new-york-knicks",
+        "canonical": "New York Knicks",
+        "aliases": [
+          "Knicks",
+          "New York"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source credits the New York Knicks with championships in 1970, 1973 and 2026.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "detroit-pistons",
+        "canonical": "Detroit Pistons",
+        "aliases": [
+          "Pistons",
+          "Detroit",
+          "Fort Wayne Pistons"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Detroit Pistons won championships in 1989, 1990 and 2004.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "miami-heat",
+        "canonical": "Miami Heat",
+        "aliases": [
+          "Heat",
+          "Miami"
+        ],
+        "familiarity": 0.1018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Miami Heat won championships in 2006, 2012 and 2013.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "oklahoma-city-thunder",
+        "canonical": "Oklahoma City Thunder",
+        "aliases": [
+          "Thunder",
+          "OKC Thunder",
+          "OKC",
+          "Oklahoma City",
+          "Seattle SuperSonics",
+          "Seattle Supersonics",
+          "Seattle Sonics",
+          "Sonics"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source credits the Thunder franchise with the 1979 and 2025 championships, including its Seattle history.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "houston-rockets",
+        "canonical": "Houston Rockets",
+        "aliases": [
+          "Rockets",
+          "Houston"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Houston Rockets won consecutive championships in 1994 and 1995.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "milwaukee-bucks",
+        "canonical": "Milwaukee Bucks",
+        "aliases": [
+          "Bucks",
+          "Milwaukee"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Bucks won championships in 1971 and 2021.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "cleveland-cavaliers",
+        "canonical": "Cleveland Cavaliers",
+        "aliases": [
+          "Cavaliers",
+          "Cavs",
+          "Cleveland Cavs",
+          "Cleveland"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers won the 2016 championship.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "atlanta-hawks",
+        "canonical": "Atlanta Hawks",
+        "aliases": [
+          "Hawks",
+          "Atlanta",
+          "St. Louis Hawks",
+          "St Louis Hawks"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hawks franchise is credited with the 1958 championship, won under its St. Louis name.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "washington-wizards",
+        "canonical": "Washington Wizards",
+        "aliases": [
+          "Wizards",
+          "Washington",
+          "Washington Bullets"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Wizards franchise is credited with the 1978 championship, won as the Washington Bullets.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "portland-trail-blazers",
+        "canonical": "Portland Trail Blazers",
+        "aliases": [
+          "Trail Blazers",
+          "Trailblazers",
+          "Portland Trailblazers",
+          "Blazers",
+          "Portland"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Portland Trail Blazers won the 1977 championship.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "dallas-mavericks",
+        "canonical": "Dallas Mavericks",
+        "aliases": [
+          "Mavericks",
+          "Mavs",
+          "Dallas Mavs",
+          "Dallas"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dallas Mavericks won the 2011 championship.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "baltimore-bullets-original-folded-in-1954",
+        "canonical": "Baltimore Bullets (original) (folded in 1954)",
+        "aliases": [
+          "Baltimore Bullets",
+          "Original Baltimore Bullets",
+          "Baltimore Bullets (original)",
+          "Baltimore"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The original Baltimore Bullets won the 1948 championship before folding in 1954.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "sacramento-kings",
+        "canonical": "Sacramento Kings",
+        "aliases": [
+          "Kings",
+          "Sacramento",
+          "Rochester Royals",
+          "Royals"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Kings franchise is credited with the 1951 championship, won as the Rochester Royals.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "toronto-raptors",
+        "canonical": "Toronto Raptors",
+        "aliases": [
+          "Raptors",
+          "Toronto"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Toronto Raptors won the 2019 championship.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      },
+      {
+        "id": "denver-nuggets",
+        "canonical": "Denver Nuggets",
+        "aliases": [
+          "Nuggets",
+          "Denver"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Denver Nuggets won the 2023 championship.",
+        "sourceIds": [
+          "list-of-nba-champions"
+        ]
+      }
+    ],
+    "explanation": "These franchises have at least one championship in the source's franchise records. Championships won under earlier team names count toward the same franchise, and the list includes the defunct original Baltimore Bullets.",
+    "sources": [
+      {
+        "id": "list-of-nba-champions",
+        "title": "List of NBA champions",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_NBA_champions",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "0f264ce048df05fe",
+    "brief": "Name an NBA franchise that has won the NBA championship.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-nba-champions",
+        "version": "1382447977",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Boston Celtics": "Boston Celtics | 18 | 5 | 23 | .783 | 1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, 1969, 1974, 1976, 1981, 1984, 1986, 2008, 2024",
+      "Los Angeles Lakers": "Los Angeles Lakers | 17 | 15 | 32 | .531 | 1949, 1950, 1952, 1953, 1954, 1972, 1980, 1982, 1985, 1987, 1988, 2000, 2001, 2002, 2009, 2010, 2020",
+      "Golden State Warriors": "Golden State Warriors | 7 | 5 | 12 | .583 | 1947, 1956, 1975, 2015, 2017, 2018, 2022",
+      "Chicago Bulls": "Chicago Bulls | 6 | 0 | 6 | 1.000 | 1991, 1992, 1993, 1996, 1997, 1998 | —",
+      "San Antonio Spurs": "San Antonio Spurs | 5 | 2 | 7 | .714 | 1999, 2003, 2005, 2007, 2014 | 2013, 2026",
+      "Philadelphia 76ers": "Philadelphia 76ers | 3 | 6 | 9 | .333 | 1955, 1967, 1983 | 1950, 1954, 1977, 1980, 1982, 2001",
+      "New York Knicks": "New York Knicks | 3 | 6 | 9 | .333 | 1970, 1973, 2026 | 1951, 1952, 1953, 1972, 1994, 1999",
+      "Detroit Pistons": "Detroit Pistons | 3 | 4 | 7 | .429 | 1989, 1990, 2004 | 1955, 1956, 1988, 2005",
+      "Miami Heat": "Miami Heat | 3 | 4 | 7 | .429 | 2006, 2012, 2013 | 2011, 2014, 2020, 2023",
+      "Oklahoma City Thunder": "Oklahoma City Thunder | 2 | 3 | 5 | .400 | 1979, 2025 | 1978, 1996, 2012",
+      "Houston Rockets": "Houston Rockets | 2 | 2 | 4 | .500 | 1994, 1995 | 1981, 1986",
+      "Milwaukee Bucks": "Milwaukee Bucks | 2 | 1 | 3 | .667 | 1971, 2021 | 1974",
+      "Cleveland Cavaliers": "Cleveland Cavaliers | 1 | 4 | 5 | .200 | 2016 | 2007, 2015, 2017, 2018",
+      "Atlanta Hawks": "Atlanta Hawks | 1 | 3 | 4 | .250 | 1958 | 1957, 1960, 1961",
+      "Washington Wizards": "Washington Wizards | 1 | 3 | 4 | .250 | 1978 | 1971, 1975, 1979",
+      "Portland Trail Blazers": "Portland Trail Blazers | 1 | 2 | 3 | .333 | 1977 | 1990, 1992",
+      "Dallas Mavericks": "Dallas Mavericks | 1 | 2 | 3 | .333 | 2011 | 2006, 2024",
+      "Baltimore Bullets (original) (folded in 1954)": "Baltimore Bullets (original) (folded in 1954) | 1 | 0 | 1 | 1.000 | 1948 | —",
+      "Sacramento Kings": "Sacramento Kings | 1 | 0 | 1 | 1.000 | 1951 | —",
+      "Toronto Raptors": "Toronto Raptors | 1 | 0 | 1 | 1.000 | 2019 | —",
+      "Denver Nuggets": "Denver Nuggets | 1 | 0 | 1 | 1.000 | 2023 | —"
+    },
+    "issues": []
+  }
+}
