@@ -1,0 +1,815 @@
+{
+  "question": {
+    "id": "tollywood-kajal-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Kajal Aggarwal has appeared, including cameos and special appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "kyun-ho-gaya-na",
+        "canonical": "Kyun! Ho Gaya Na...",
+        "aliases": [
+          "Kyun Ho Gaya Na"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal made a minor appearance as Diya's sister in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "lakshmi-kalyanam",
+        "canonical": "Lakshmi Kalyanam",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Lakshmi in her debut lead role.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "chandamama",
+        "canonical": "Chandamama",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Maha Lakshmi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "pourudu",
+        "canonical": "Pourudu",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Samyukhta in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "aatadista",
+        "canonical": "Aatadista",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Sunanda in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "pazhani",
+        "canonical": "Pazhani",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Deepthi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "saroja",
+        "canonical": "Saroja",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal appeared as Pooja in a cameo.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "bommalattam",
+        "canonical": "Bommalattam",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Anitha in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "modhi-vilayadu",
+        "canonical": "Modhi Vilayadu",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Easwari Lakshmi Ram in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Yuvaraani Mithravindha Devi and Indira in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "ganesh",
+        "canonical": "Ganesh",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Divya in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "arya-2",
+        "canonical": "Arya 2",
+        "aliases": [
+          "Arya-2",
+          "Arya II"
+        ],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Geethanjali in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "om-shanti",
+        "canonical": "Om Shanti",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Meghana in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "darling",
+        "canonical": "Darling",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Nandini in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "brindavanam",
+        "canonical": "Brindavanam",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Bhumi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "naan-mahaan-alla",
+        "canonical": "Naan Mahaan Alla",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Priya Sudharsan in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "singham",
+        "canonical": "Singham",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Kaavya Bhosle in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "mr-perfect",
+        "canonical": "Mr. Perfect",
+        "aliases": [
+          "Mr Perfect",
+          "Mister Perfect"
+        ],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Priya/Ammulu in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "veera",
+        "canonical": "Veera",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Chitra in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "dhada",
+        "canonical": "Dhada",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Rhea in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "businessman",
+        "canonical": "Businessman",
+        "aliases": [
+          "Business Man"
+        ],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Chitra Bhardwaj in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "sarocharu",
+        "canonical": "Sarocharu",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Sandhya in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "maattrraan",
+        "canonical": "Maattrraan",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Anjali Akhilan in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "thuppakki",
+        "canonical": "Thuppakki",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Nisha in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "naayak",
+        "canonical": "Naayak",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Madhu in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "baadshah",
+        "canonical": "Baadshah",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Janaki in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "special-26",
+        "canonical": "Special 26",
+        "aliases": [
+          "Special Twenty Six"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Priya Chauhan in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "all-in-all-azhagu-raja",
+        "canonical": "All in All Azhagu Raja",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Chithra Devi Priya in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "jilla",
+        "canonical": "Jilla",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Shanthi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal appeared as Deepti in a cameo.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "govindudu-andarivadele",
+        "canonical": "Govindudu Andarivadele",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Satya in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "temper",
+        "canonical": "Temper",
+        "aliases": [],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Shanvi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "size-zero",
+        "canonical": "Size Zero",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal made a guest appearance as herself in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "inji-iduppazhagi",
+        "canonical": "Inji Iduppazhagi",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal made a guest appearance as herself in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "maari",
+        "canonical": "Maari",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Sri Devi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "paayum-puli",
+        "canonical": "Paayum Puli",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Sowmya in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "sardaar-gabbar-singh",
+        "canonical": "Sardaar Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Arshi Devi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "brahmotsavam",
+        "canonical": "Brahmotsavam",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Kasi Annapurna in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "janatha-garage",
+        "canonical": "Janatha Garage",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal made a special appearance in the song \"Pakka Local\" in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "do-lafzon-ki-kahani",
+        "canonical": "Do Lafzon Ki Kahani",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Dr. Jenny Mathias in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "final-cut-of-director",
+        "canonical": "Final Cut of Director",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Anitha in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "kavalai-vendam",
+        "canonical": "Kavalai Vendam",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Divya Priyadharshini in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "vivegam",
+        "canonical": "Vivegam",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Yazhini Ajay Kumar in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "mersal",
+        "canonical": "Mersal",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Anu Pallavi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-no-150",
+        "canonical": "Khaidi No. 150",
+        "aliases": [
+          "Khaidi No 150",
+          "Khaidi 150"
+        ],
+        "familiarity": 0.0433,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Lakshmi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "nene-raju-nene-mantri",
+        "canonical": "Nene Raju Nene Mantri",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Radha Jogendra in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "awe",
+        "canonical": "Awe",
+        "aliases": [
+          "Awe!"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Kali in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "mla",
+        "canonical": "MLA",
+        "aliases": [
+          "M.L.A."
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Indu in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "kavacham",
+        "canonical": "Kavacham",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Samyuktha Chaganti in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "sita",
+        "canonical": "Sita",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played V. Sita Maha Lakshmi in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "ranarangam",
+        "canonical": "Ranarangam",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Geetha in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "comali",
+        "canonical": "Comali",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Rithika Mohan in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "mumbai-saga",
+        "canonical": "Mumbai Saga",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Seema Rao Naik in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "mosagallu",
+        "canonical": "Mosagallu",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Anu Mukund in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "hey-sinamika",
+        "canonical": "Hey Sinamika",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Dr. Malarvizhi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "ghosty",
+        "canonical": "Ghosty",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Aarthi in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "karungaapiyam",
+        "canonical": "Karungaapiyam",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Karthika in this Tamil film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "bhagavanth-kesari",
+        "canonical": "Bhagavanth Kesari",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Dr. Kathyayani in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "satyabhama",
+        "canonical": "Satyabhama",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Satyabhama, an IPS officer, in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "indian-2",
+        "canonical": "Indian 2",
+        "aliases": [
+          "Indian II"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal appeared as Dakshayini in a cameo.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "sikandar",
+        "canonical": "Sikandar",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal played Vaidehi Rangachari in this Hindi film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "kannappa",
+        "canonical": "Kannappa",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal made a guest appearance as Parvathi / Sati in this Telugu film.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      },
+      {
+        "id": "the-india-story",
+        "canonical": "The India Story",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggarwal is listed as playing Archana Patil in this Hindi film, which is not marked as unreleased.",
+        "sourceIds": [
+          "kajal-aggarwal-filmography"
+        ]
+      }
+    ],
+    "explanation": "Kajal Aggarwal's filmography spans Telugu, Tamil and Hindi cinema. Lead roles, minor roles, cameos and song appearances count; television, singing-only credits and films marked as unreleased do not.",
+    "sources": [
+      {
+        "id": "kajal-aggarwal-filmography",
+        "title": "Kajal Aggarwal filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kajal_Aggarwal_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "8a2471a1ff8d83a5",
+    "brief": "Name a film in which Kajal Aggarwal has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "kajal-aggarwal-filmography",
+        "version": "1381802461",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Kyun! Ho Gaya Na...": "2004 | Kyun! Ho Gaya Na... | Diya's sister | Hindi | Minor role |",
+      "Lakshmi Kalyanam": "2007 | Lakshmi Kalyanam | Lakshmi | Telugu | Debut in a lead role |",
+      "Chandamama": "2007 | Chandamama | Maha Lakshmi | Telugu | |",
+      "Pourudu": "2008 | Pourudu | Samyukhta | Telugu | |",
+      "Aatadista": "2008 | Aatadista | Sunanda | Telugu | |",
+      "Pazhani": "2008 | Pazhani | Deepthi | Tamil | |",
+      "Saroja": "2008 | Saroja | Pooja | Tamil | Cameo |",
+      "Bommalattam": "2008 | Bommalattam | Anitha | Tamil | |",
+      "Modhi Vilayadu": "2009 | Modhi Vilayadu | Easwari Lakshmi Ram | Tamil | |",
+      "Magadheera": "2009 | Magadheera | Yuvaraani Mithravindha Devi / Indira Indu’ | Telugu | |",
+      "Ganesh": "2009 | Ganesh | Divya | Telugu | |",
+      "Arya 2": "2009 | Arya 2 | Geethanjali | Telugu | |",
+      "Om Shanti": "2010 | Om Shanti | Meghana | Telugu | |",
+      "Darling": "2010 | Darling | Nandini | Telugu | |",
+      "Brindavanam": "2010 | Brindavanam | Bhumi | Telugu | |",
+      "Naan Mahaan Alla": "2010 | Naan Mahaan Alla | Priya Sudharsan | Tamil | |",
+      "Singham": "2011 | Singham | Kaavya Bhosle | Hindi | |",
+      "Mr. Perfect": "2011 | Mr. Perfect | Priya/Ammulu | Telugu | credited as Kajal |",
+      "Veera": "2011 | Veera | Chitra | Telugu | |",
+      "Dhada": "2011 | Dhada | Rhea | Telugu | |",
+      "Businessman": "2012 | Businessman | Chitra Bhardwaj | Telugu | |",
+      "Sarocharu": "2012 | Sarocharu | Sandhya | Telugu | |",
+      "Maattrraan": "2012 | Maattrraan | Anjali Akhilan | Tamil | |",
+      "Thuppakki": "2012 | Thuppakki | Nisha | Tamil | |",
+      "Naayak": "2013 | Naayak | Madhu | Telugu | |",
+      "Baadshah": "2013 | Baadshah | Janaki | Telugu | |",
+      "Special 26": "2013 | Special 26 | Priya Chauhan | Hindi | |",
+      "All in All Azhagu Raja": "2013 | All in All Azhagu Raja | Chithra Devi Priya | Tamil | |",
+      "Jilla": "2014 | Jilla | Shanthi | Tamil | |",
+      "Yevadu": "2014 | Yevadu | Deepti | Telugu | Cameo |",
+      "Govindudu Andarivadele": "2014 | Govindudu Andarivadele | Satya | Telugu | |",
+      "Temper": "2015 | Temper | Shanvi | Telugu | credited as Kajal |",
+      "Size Zero": "2015 | Size Zero | Herself | Telugu | Guest appearance; Bilingual film |",
+      "Inji Iduppazhagi": "2015 | Inji Iduppazhagi | Herself | Tamil | Guest appearance; Bilingual film |",
+      "Maari": "2015 | Maari | Sri Devi | Tamil | |",
+      "Paayum Puli": "2015 | Paayum Puli | Sowmya | Tamil | |",
+      "Sardaar Gabbar Singh": "2016 | Sardaar Gabbar Singh | Arshi Devi | Telugu | |",
+      "Brahmotsavam": "2016 | Brahmotsavam | Kasi Annapurna | Telugu | |",
+      "Janatha Garage": "2016 | Janatha Garage | Herself | Telugu | Special appearance in the song \"Pakka Local\" |",
+      "Do Lafzon Ki Kahani": "2016 | Do Lafzon Ki Kahani | Dr. Jenny Mathias | Hindi | |",
+      "Final Cut of Director": "2016 | Final Cut of Director | Anitha | Hindi | |",
+      "Kavalai Vendam": "2016 | Kavalai Vendam | Divya Priyadharshini | Tamil | |",
+      "Vivegam": "2017 | Vivegam | Yazhini Ajay Kumar | Tamil | |",
+      "Mersal": "2017 | Mersal | Anu Pallavi | Tamil | |",
+      "Khaidi No. 150": "2017 | Khaidi No. 150 | Lakshmi | Telugu | |",
+      "Nene Raju Nene Mantri": "2017 | Nene Raju Nene Mantri | Radha Jogendra | Telugu | |",
+      "Awe": "2018 | Awe | Kali | Telugu | |",
+      "MLA": "2018 | MLA | Indu | Telugu | |",
+      "Kavacham": "2018 | Kavacham | Samyuktha Chaganti | Telugu | |",
+      "Sita": "2019 | Sita | V. Sita Maha Lakshmi | Telugu | |",
+      "Ranarangam": "2019 | Ranarangam | Geetha | Telugu | |",
+      "Comali": "2019 | Comali | Rithika Mohan | Tamil | |",
+      "Mumbai Saga": "2021 | Mumbai Saga | Seema Rao Naik | Hindi | |",
+      "Mosagallu": "2021 | Mosagallu | Anu Mukund | Telugu | |",
+      "Hey Sinamika": "2022 | Hey Sinamika | Dr. Malarvizhi | Tamil | |",
+      "Ghosty": "2023 | Ghosty | Aarthi | Tamil | |",
+      "Karungaapiyam": "2023 | Karungaapiyam | Karthika | Tamil | |",
+      "Bhagavanth Kesari": "2023 | Bhagavanth Kesari | Dr. Kathyayani | Telugu | |",
+      "Satyabhama": "2024 | Satyabhama | Satyabhama \"Satya\" IPS | Telugu | |",
+      "Indian 2": "2024 | Indian 2 | Dakshayini | Tamil | Cameo |",
+      "Sikandar": "2025 | Sikandar | Vaidehi Rangachari | Hindi | |",
+      "Kannappa": "2025 | Kannappa | Parvathi / Sati | Telugu | Guest appearance |",
+      "The India Story": "2026 | The India Story | Archana Patil | Hindi | |"
+    },
+    "issues": []
+  }
+}

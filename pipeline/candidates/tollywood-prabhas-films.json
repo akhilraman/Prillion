@@ -1,0 +1,388 @@
+{
+  "question": {
+    "id": "tollywood-prabhas-films",
+    "category": "tollywood",
+    "prompt": "Name a released movie starring Prabhas, excluding cameo-only and voice-over appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "eeswar",
+        "canonical": "Eeswar",
+        "aliases": [
+          "Eswar",
+          "Eeshwar"
+        ],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Eeswar in this 2002 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "raghavendra",
+        "canonical": "Raghavendra",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Raghava in this 2003 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "varsham",
+        "canonical": "Varsham",
+        "aliases": [
+          "Varsam"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Venkat in this 2004 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "adavi-ramudu",
+        "canonical": "Adavi Ramudu",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Ramudu in this 2004 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "chakram",
+        "canonical": "Chakram",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Chakram in this 2005 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "chatrapathi",
+        "canonical": "Chatrapathi",
+        "aliases": [
+          "Chhatrapathi",
+          "Chatrapati",
+          "Chhatrapati"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Sivaji / Chatrapathi in this 2005 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "pournami",
+        "canonical": "Pournami",
+        "aliases": [
+          "Pourn EMI",
+          "Pournami"
+        ],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Sivakeshava Naidu in this 2006 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "yogi",
+        "canonical": "Yogi",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Eeswar Prasad / Yogi in this 2007 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "munna",
+        "canonical": "Munna",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Mahesh Kumar/Munna in this 2007 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "bujjigadu",
+        "canonical": "Bujjigadu",
+        "aliases": [
+          "Bujji Gadu"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Bujji in this 2008 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "billa",
+        "canonical": "Billa",
+        "aliases": [],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing David Billa and Ranga in this 2009 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "ek-niranjan",
+        "canonical": "Ek Niranjan",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Chotu in this 2009 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "darling",
+        "canonical": "Darling",
+        "aliases": [],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Prabhas \"Prabha\" in this 2010 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "mr-perfect",
+        "canonical": "Mr. Perfect",
+        "aliases": [
+          "Mr Perfect",
+          "Mister Perfect"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Vicky in this 2011 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "rebel",
+        "canonical": "Rebel",
+        "aliases": [],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Rishi / Rebel in this 2012 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "mirchi",
+        "canonical": "Mirchi",
+        "aliases": [],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Jai in this 2013 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Amarendra Baahubali and Mahendra Baahubali/Sivudu in this 2015 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Amarendra Baahubali and Mahendra Baahubali/Sivudu in this 2017 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "saaho",
+        "canonical": "Saaho",
+        "aliases": [
+          "Saho"
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Siddhanth Nandan Saaho / Ashok Chakravarthy in this 2019 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "radhe-shyam",
+        "canonical": "Radhe Shyam",
+        "aliases": [
+          "RadheShyam"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Vikramaditya in this 2022 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "adipurush",
+        "canonical": "Adipurush",
+        "aliases": [
+          "Adi Purush"
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Raghava in this 2023 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "salaar-part-1-ceasefire",
+        "canonical": "Salaar: Part 1 – Ceasefire",
+        "aliases": [
+          "Salaar",
+          "Salaar Part 1",
+          "Salaar: Ceasefire",
+          "Salaar Part 1 Ceasefire"
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Devaratha \"Deva\" Raisaar (Salaar) in this 2023 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki",
+          "Kalki 2898",
+          "Kalki 2898 A.D."
+        ],
+        "familiarity": 0.0917,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Bhairava and Karna in this 2024 film.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-epic",
+        "canonical": "Baahubali: The Epic",
+        "aliases": [
+          "Bahubali: The Epic",
+          "Baahubali The Epic",
+          "Bahubali The Epic"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this 2025 combined recut with Prabhas playing Amarendra Baahubali and Mahendra Baahubali/Sivudu.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      },
+      {
+        "id": "the-rajasaab",
+        "canonical": "The RajaSaab",
+        "aliases": [
+          "RajaSaab",
+          "The Raja Saab",
+          "Raja Saab"
+        ],
+        "familiarity": 0.0367,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prabhas playing Raju \"Rajasaab\" as well as a Joker cameo, and does not mark the film unreleased.",
+        "sourceIds": [
+          "prabhas-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films are listed in Prabhas's filmography with an on-screen character role and are not marked unreleased. Cameo-only appearances, voice-over credits, television credits and music videos are excluded; the combined recut Baahubali: The Epic is included.",
+    "sources": [
+      {
+        "id": "prabhas-filmography",
+        "title": "Prabhas filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Prabhas_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "bf2b487f6e59c06d",
+    "brief": "Name a movie starring Prabhas.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "prabhas-filmography",
+        "version": "1382174207",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Eeswar": "2002 | Eeswar | Eeswar | |",
+      "Raghavendra": "2003 | Raghavendra | Raghava | |",
+      "Varsham": "2004 | Varsham | Venkat | |",
+      "Adavi Ramudu": "2004 | Adavi Ramudu | Ramudu | |",
+      "Chakram": "2005 | Chakram | Chakram | |",
+      "Chatrapathi": "2005 | Chatrapathi | Sivaji / Chatrapathi | |",
+      "Pournami": "2006 | Pournami | Sivakeshava Naidu | |",
+      "Yogi": "2007 | Yogi | Eeswar Prasad / Yogi | |",
+      "Munna": "2007 | Munna | Mahesh Kumar/Munna | |",
+      "Bujjigadu": "2008 | Bujjigadu | Bujji | |",
+      "Billa": "2009 | Billa | David Billa and Ranga | |",
+      "Ek Niranjan": "2009 | Ek Niranjan | Chotu | |",
+      "Darling": "2010 | Darling | Prabhas \"Prabha\" | |",
+      "Mr. Perfect": "2011 | Mr. Perfect | Vicky | |",
+      "Rebel": "2012 | Rebel | Rishi / Rebel | |",
+      "Mirchi": "2013 | Mirchi | Jai | |",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Amarendra Baahubali and Mahendra Baahubali/Sivudu | Simultaneously shot in Tamil |",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Amarendra Baahubali and Mahendra Baahubali/Sivudu | |",
+      "Saaho": "2019 | Saaho | Siddhanth Nandan Saaho / Ashok Chakravarthy | Simultaneously shot in Hindi |",
+      "Radhe Shyam": "2022 | Radhe Shyam | Vikramaditya | Simultaneously shot in Hindi |",
+      "Adipurush": "2023 | Adipurush | Raghava | Simultaneously shot in Hindi |",
+      "Salaar: Part 1 – Ceasefire": "2023 | Salaar: Part 1 – Ceasefire | Devaratha \"Deva\" Raisaar (Salaar) | |",
+      "Kalki 2898 AD": "2024 | Kalki 2898 AD | Bhairava and Karna | |",
+      "Baahubali: The Epic": "2025 | Baahubali: The Epic | Amarendra Baahubali and Mahendra Baahubali/Sivudu | Combined recut version of The Beginning and The Conclusion |",
+      "The RajaSaab": "2026 | The RajaSaab | Raju \"Rajasaab\" / Joker (cameo) | |"
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "question": {
+    "id": "us-pop-rap-memes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a hip-hop or rap meme, viral moment, or internet running joke from public music, interviews, or videos.",
+    "answerSet": "open",
+    "criteria": "Any documented internet meme, viral moment, or recurring joke originating in publicly released hip-hop or rap music, performances, interviews, or videos, including rap parodies.",
+    "answers": [
+      {
+        "id": "mom-s-spaghetti",
+        "canonical": "Mom's spaghetti",
+        "aliases": [
+          "Eminem spaghetti",
+          "Mom's Spaghetti meme",
+          "Mom spaghetti"
+        ],
+        "familiarity": 0.1336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The spaghetti lyric in Eminem's Lose Yourself became a recurring joke in remixes and image memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "another-one",
+        "canonical": "Another one",
+        "aliases": [
+          "DJ Khaled another one",
+          "Anotha One"
+        ],
+        "familiarity": 0.1336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DJ Khaled's repeated phrase Another one became a catchphrase used in memes and remix videos.",
+        "sourceIds": []
+      },
+      {
+        "id": "man-s-not-hot",
+        "canonical": "Man's Not Hot",
+        "aliases": [
+          "Big Shaq",
+          "The ting goes",
+          "The Ting Goes Skrrrahh",
+          "Man not hot",
+          "The ting goes skrrra"
+        ],
+        "familiarity": 0.1336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Big Shaq's comedy rap performance became viral for its sound effects and insistence that man's not hot.",
+        "sourceIds": []
+      },
+      {
+        "id": "mustard",
+        "canonical": "Mustard!",
+        "aliases": [
+          "Mustaaaaard",
+          "Kendrick Mustard",
+          "TV Off Mustard",
+          "Mustard scream"
+        ],
+        "familiarity": 0.0535,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar's shouted Mustard on TV Off became a viral audio clip and caption.",
+        "sourceIds": []
+      },
+      {
+        "id": "hotline-bling",
+        "canonical": "Hotline Bling",
+        "aliases": [
+          "Drakeposting",
+          "Drake Hotline Bling",
+          "Drake approval meme"
+        ],
+        "familiarity": 0.1336,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Images of Drake rejecting and approving things in the Hotline Bling video became a two-panel comparison meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "raindrop-drop-top",
+        "canonical": "Raindrop drop top",
+        "aliases": [
+          "Bad and Boujee"
+        ],
+        "familiarity": 0.0535,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The opening words of Migos' Bad and Boujee became a popular setup for rhyming social-media jokes.",
+        "sourceIds": []
+      },
+      {
+        "id": "suffering-from-success",
+        "canonical": "Suffering from Success",
+        "aliases": [
+          "DJ Khaled Suffering from Success"
+        ],
+        "familiarity": 0.0535,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DJ Khaled's Suffering from Success album cover became a reaction image for problems caused by doing well.",
+        "sourceIds": []
+      },
+      {
+        "id": "21-can-you-do-something",
+        "canonical": "21, can you do something",
+        "aliases": [
+          "21 can you do something for me",
+          "Rich Flex",
+          "Drake 21",
+          "Twenty One Can You Do Something for Me",
+          "Rich Flex meme"
+        ],
+        "familiarity": 0.0535,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake's requests to 21 Savage on Rich Flex became a viral audio and parody format.",
+        "sourceIds": []
+      },
+      {
+        "id": "you-ain-t-got-the-answers",
+        "canonical": "You ain't got the answers",
+        "aliases": [
+          "You ain't got the answers Sway",
+          "Kanye Sway",
+          "How Sway"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kanye West's repeated declaration to Sway during a radio interview became a reaction catchphrase.",
+        "sourceIds": []
+      },
+      {
+        "id": "lil-uzi-shoulder-roll",
+        "canonical": "Lil Uzi shoulder roll",
+        "aliases": [
+          "Uzi shoulder roll",
+          "Lil Uzi Vert shoulder roll",
+          "Money Longer dance",
+          "Lil Uzi dance"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lil Uzi Vert's shoulder-rolling dance to Money Longer became a viral dance clip.",
+        "sourceIds": []
+      },
+      {
+        "id": "lil-yachty-walkout",
+        "canonical": "Lil Yachty walkout",
+        "aliases": [
+          "Lil Yachty entrance",
+          "Yachty walkout",
+          "Yachty stage entrance",
+          "Lil Yachty stage entrance",
+          "Lil Yachty walkout meme"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Footage of Lil Yachty walking onto a festival stage became a meme with replacement music.",
+        "sourceIds": []
+      },
+      {
+        "id": "supa-hot-fire",
+        "canonical": "Supa Hot Fire",
+        "aliases": [
+          "Super Hot Fire",
+          "Supa Hot Fire rap battle",
+          "I'm Not a Rapper",
+          "But I'm not a rapper"
+        ],
+        "familiarity": 0.0535,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Supa Hot Fire parody rap battles became famous for exaggerated crowd reactions and reaction GIFs.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Rap lyrics, music-video images, interview reactions, and comedy performances have all become internet shorthand. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "bbbb9182e22baa2e",
+    "brief": "Name a widely known hip-hop or rap meme, viral moment or running joke on the internet (public music, interviews and videos only).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Hotline Bling": 2,
+      "Mom's spaghetti": 3,
+      "Another one": 3,
+      "Man's Not Hot": 3,
+      "Imma let you finish": 2,
+      "Mustard!": 3,
+      "Raindrop drop top": 2,
+      "Suffering from Success": 2,
+      "21, can you do something": 2,
+      "You ain't got the answers": 2,
+      "Lil Uzi shoulder roll": 2,
+      "Lil Yachty walkout": 2,
+      "Supa Hot Fire": 2
+    },
+    "droppedForVotes": {
+      "Draaaake?!": 1,
+      "Put some respect": 1,
+      "Poopity scoop": 1,
+      "Supah Hot Fire": 1,
+      "DAMN. cover": 1,
+      "Mask Off flute": 1,
+      "Conceited reaction": 1,
+      "Runaway piano intro": 1,
+      "Put Some Respek": 1,
+      "Scoopity Poop": 1,
+      "Drake?!": 1,
+      "Jiggle Jiggle": 1,
+      "Poland": 1,
+      "Airplanes": 1,
+      "It's Everyday Bro": 1,
+      "The Baddest": 1,
+      "Drakeposting": 1,
+      "Soulja Boy's Drake Reaction": 1,
+      "How Sway?": 1,
+      "Mooo!": 1,
+      "Lift Yourself": 1,
+      "21, Can You Do Something for Me?": 1,
+      "Mordetwi": 1,
+      "Mask Off Challenge": 1,
+      "Gucci Gang": 1,
+      "Astronaut in the Ocean": 1,
+      "Island Boys": 1,
+      "Shmoney Dance": 1,
+      "Crank That": 1,
+      "Toosie Slide": 1,
+      "Dracula Flow": 1,
+      "Godzilla Challenge": 1
+    },
+    "verdicts": {
+      "Mom's spaghetti": {
+        "verdict": "correct",
+        "reason": "The Lose Yourself lyric is widely documented in image memes, remixes, and parody edits."
+      },
+      "Another one": {
+        "verdict": "correct",
+        "reason": "DJ Khaled's catchphrase became a widely used meme and remix sound bite."
+      },
+      "Man's Not Hot": {
+        "verdict": "correct",
+        "reason": "Big Shaq's comedy rap and its sound effects became a documented viral phenomenon."
+      },
+      "Mustard!": {
+        "verdict": "correct",
+        "reason": "Kendrick Lamar's shouted producer callout on TV Off became a viral sound bite and meme."
+      },
+      "Hotline Bling": {
+        "verdict": "correct",
+        "reason": "Frames from Drake's music video became the widely documented rejection-and-approval meme."
+      },
+      "Imma let you finish": {
+        "verdict": "incorrect",
+        "reason": "Although a documented meme, it depends on a real-person scandal: Kanye West's interruption of Taylor Swift at the VMAs."
+      },
+      "Raindrop drop top": {
+        "verdict": "correct",
+        "reason": "The Bad and Boujee lyric became a widely circulated setup for rhyming jokes."
+      },
+      "Suffering from Success": {
+        "verdict": "correct",
+        "reason": "DJ Khaled's album cover became a recurring reaction meme about success creating problems."
+      },
+      "21, can you do something": {
+        "verdict": "correct",
+        "reason": "Drake's Rich Flex refrain became a widely documented viral audio and parody format."
+      },
+      "You ain't got the answers": {
+        "verdict": "correct",
+        "reason": "Kanye West's repeated line during his Sway interview became a widely reused reaction sound bite."
+      },
+      "Lil Uzi shoulder roll": {
+        "verdict": "correct",
+        "reason": "Lil Uzi Vert's shoulder-rolling dance associated with Money Longer became a viral clip and dance meme."
+      },
+      "Lil Yachty walkout": {
+        "verdict": "correct",
+        "reason": "His festival-stage entrance became a documented meme featuring replacement music."
+      },
+      "Supa Hot Fire": {
+        "verdict": "correct",
+        "reason": "The parody rap-battle videos generated widely used crowd-reaction clips and GIFs."
+      }
+    },
+    "issues": []
+  }
+}

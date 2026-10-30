@@ -6,7 +6,7 @@ import type { RoundNotice } from '../game/useRound.ts';
 import { AnswerForm } from './AnswerForm.tsx';
 import { CATEGORY_LABELS, headlineFor } from './labels.ts';
 import { RevealStage } from './RevealStage.tsx';
-import { diveMetres, sinkMetres } from './scene/depth.ts';
+import { SINK_MS, diveMetres, sinkMetres } from './scene/depth.ts';
 import { Timer } from './Timer.tsx';
 import { useCountUp } from './useCountUp.ts';
 
@@ -30,8 +30,8 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
   }, [revealed, index]);
 
   // Cosmetic: the HUD numbers glide up while the scene scrolls down.
-  const depth = useCountUp(diveMetres(state));
-  const score = useCountUp(totalPoints(state));
+  const depth = useCountUp(diveMetres(state), { durationMs: SINK_MS - 200 });
+  const score = useCountUp(totalPoints(state), { durationMs: SINK_MS - 200 });
 
   const question = state.questions[index];
   if (!question) return null; // unreachable: the reducer guarantees a valid index
@@ -132,17 +132,17 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
           {state.phase === 'answering' ? (
             <>
               <Timer
-                key={index}
+                key={`timer-${index}`}
                 deadlineMs={state.deadlineMs}
                 totalSeconds={state.secondsPerQuestion}
                 onExpire={onTimeout}
               />
-              <AnswerForm key={index} onSubmit={onSubmit} misses={state.misses} />
+              <AnswerForm key={`form-${index}`} onSubmit={onSubmit} misses={state.misses} />
             </>
           ) : (
             <button
               ref={descendRef}
-              className="button button--primary descend"
+              className={`button button--primary descend${lastResult?.outcome === 'correct' ? '' : ' descend--miss'}`}
               type="button"
               onClick={onNext}
             >

@@ -1,0 +1,361 @@
+{
+  "question": {
+    "id": "tollywood-ram-pothineni-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in Ram Pothineni’s acting filmography, including voice roles and cameos.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "devadasu",
+        "canonical": "Devadasu",
+        "aliases": [
+          "Devadas"
+        ],
+        "familiarity": 0.101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Devadas in the 2006 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "jagadam",
+        "canonical": "Jagadam",
+        "aliases": [],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Seenu in the 2007 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "ready",
+        "canonical": "Ready",
+        "aliases": [],
+        "familiarity": 0.101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Chandu (Danayya) in the 2008 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "maska",
+        "canonical": "Maska",
+        "aliases": [],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Krishna, also called Krish, in the 2009 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "ganesh",
+        "canonical": "Ganesh",
+        "aliases": [],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played the title character in the 2009 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "rama-rama-krishna-krishna",
+        "canonical": "Rama Rama Krishna Krishna",
+        "aliases": [
+          "RRKK"
+        ],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Rama Krishna in the 2010 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "kandireega",
+        "canonical": "Kandireega",
+        "aliases": [
+          "Kandirega"
+        ],
+        "familiarity": 0.101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Srinivas, also called Sreenu, in the 2011 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "endukante-premanta",
+        "canonical": "Endukante... Premanta!",
+        "aliases": [
+          "Endukante Premanta",
+          "Endukante Premanta!"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played the dual roles of Krishna and Ram in the 2012 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "ongole-githa",
+        "canonical": "Ongole Githa",
+        "aliases": [
+          "Ongole Gitta"
+        ],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Dorababu (White) in the 2013 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "masala",
+        "canonical": "Masala",
+        "aliases": [],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Ram (Rehman) in the 2013 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "rey",
+        "canonical": "Rey",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni provided the narrator's voice in the 2015 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "pandaga-chesko",
+        "canonical": "Pandaga Chesko",
+        "aliases": [
+          "Pandaga Chesuko"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Karthik in the 2015 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "shivam",
+        "canonical": "Shivam",
+        "aliases": [
+          "Sivam"
+        ],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Shiva (Ram) in the 2015 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "nenu-sailaja",
+        "canonical": "Nenu Sailaja",
+        "aliases": [
+          "Nenu Shailaja"
+        ],
+        "familiarity": 0.101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Hari in the 2016 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "hyper",
+        "canonical": "Hyper",
+        "aliases": [],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Suryanarayana Murthy in the 2016 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "vunnadhi-okate-zindagi",
+        "canonical": "Vunnadhi Okate Zindagi",
+        "aliases": [
+          "Unnadi Okate Zindagi",
+          "Vunnadi Okate Zindagi"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Abhiram in the 2017 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "hello-guru-prema-kosame",
+        "canonical": "Hello Guru Prema Kosame",
+        "aliases": [
+          "Hello Guru Prema Kosam"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Sanju in the 2018 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "ismart-shankar",
+        "canonical": "iSmart Shankar",
+        "aliases": [
+          "Ismart Shankar",
+          "Smart Shankar"
+        ],
+        "familiarity": 0.101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Ustaad iSmart Shankar / Arun in the 2019 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "red",
+        "canonical": "Red",
+        "aliases": [],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played the dual roles of Aditya and Siddharth in the 2021 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "romantic",
+        "canonical": "Romantic",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni appeared as himself in a song cameo in the 2021 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "the-warriorr",
+        "canonical": "The Warriorr",
+        "aliases": [
+          "The Warrior",
+          "Warriorr",
+          "Warrior"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Satya in the 2022 Telugu-Tamil bilingual film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "skanda",
+        "canonical": "Skanda",
+        "aliases": [],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played the dual roles of Bhaskar Raju and Skanda in the 2023 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "double-ismart",
+        "canonical": "Double iSmart",
+        "aliases": [
+          "Double Ismart",
+          "Double Smart"
+        ],
+        "familiarity": 0.0404,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Ustaad iSmart Shankar in the 2024 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      },
+      {
+        "id": "andhra-king-taluka",
+        "canonical": "Andhra King Taluka",
+        "aliases": [
+          "Andhra King Tალuka",
+          "Andhra King Thaluka"
+        ],
+        "familiarity": 0.0121,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni played Sagar in the 2025 film.",
+        "sourceIds": [
+          "ram-pothineni"
+        ]
+      }
+    ],
+    "explanation": "These are the released films listed in Ram Pothineni’s acting filmography in the supplied source. Voice roles and cameo appearances count; unreleased projects do not.",
+    "sources": [
+      {
+        "id": "ram-pothineni",
+        "title": "Ram Pothineni",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ram_Pothineni",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "e89eab60710d9aff",
+    "brief": "Name a film in which the Telugu actor Ram Pothineni has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "ram-pothineni",
+        "version": "1377637522",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Devadasu": "2006 | Devadasu | Devadas | |",
+      "Jagadam": "2007 | Jagadam | Seenu | |",
+      "Ready": "2008 | Ready | Chandu (Danayya) | |",
+      "Maska": "2009 | Maska | Krishna \"Krish\" | |",
+      "Ganesh": "2009 | Ganesh | Ganesh | |",
+      "Rama Rama Krishna Krishna": "2010 | Rama Rama Krishna Krishna | Rama Krishna | |",
+      "Kandireega": "2011 | Kandireega | Srinivas \"Sreenu\" | |",
+      "Endukante... Premanta!": "2012 | Endukante... Premanta! | Krishna & Ram | Dual role |",
+      "Ongole Githa": "2013 | Ongole Githa | Dorababu (White) | |",
+      "Masala": "2013 | Masala | Ram (Rehman) | |",
+      "Rey": "2015 | Rey | Narrator | Voice role |",
+      "Pandaga Chesko": "2015 | Pandaga Chesko | Karthik | |",
+      "Shivam": "2015 | Shivam | Shiva (Ram) | |",
+      "Nenu Sailaja": "2016 | Nenu Sailaja | Hari | |",
+      "Hyper": "2016 | Hyper | Suryanarayana Murthy | |",
+      "Vunnadhi Okate Zindagi": "2017 | Vunnadhi Okate Zindagi | Abhiram | |",
+      "Hello Guru Prema Kosame": "2018 | Hello Guru Prema Kosame | Sanju | Also singer for \"Idea Cheppu Friendu\" |",
+      "iSmart Shankar": "2019 | iSmart Shankar | Ustaad \"iSmart\" Shankar / Arun | |",
+      "Red": "2021 | Red | Aditya & Siddharth | Dual role |",
+      "Romantic": "2021 | Romantic | Himself | Cameo appearance in the song \"Peene Ke Baad\" |",
+      "The Warriorr": "2022 | The Warriorr | Satya | Telugu-Tamil bilingual film |",
+      "Skanda": "2023 | Skanda | Bhaskar Raju & Skanda | Dual role |",
+      "Double iSmart": "2024 | Double iSmart | Ustaad \"iSmart\" Shankar | |",
+      "Andhra King Taluka": "2025 | Andhra King Taluka | Sagar | Also lyricist and playback singer |"
+    },
+    "issues": []
+  }
+}

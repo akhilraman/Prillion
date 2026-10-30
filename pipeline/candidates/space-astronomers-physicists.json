@@ -1,0 +1,485 @@
+{
+  "question": {
+    "id": "space-astronomers-physicists",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a scientist known for work in astronomy, astrophysics, or cosmology.",
+    "answerSet": "open",
+    "criteria": "Any real scientist with documented research contributions to astronomy, astrophysics, or cosmology counts.",
+    "answers": [
+      {
+        "id": "albert-einstein",
+        "canonical": "Albert Einstein",
+        "aliases": [
+          "Einstein"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Albert Einstein developed general relativity, a foundation of modern cosmology.",
+        "sourceIds": []
+      },
+      {
+        "id": "stephen-hawking",
+        "canonical": "Stephen Hawking",
+        "aliases": [
+          "Hawking",
+          "Steven Hawking"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Hawking studied black holes and the origins of the universe.",
+        "sourceIds": []
+      },
+      {
+        "id": "galileo-galilei",
+        "canonical": "Galileo Galilei",
+        "aliases": [
+          "Galileo"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Galileo Galilei made pioneering telescopic observations of the Moon, planets, and stars.",
+        "sourceIds": []
+      },
+      {
+        "id": "isaac-newton",
+        "canonical": "Isaac Newton",
+        "aliases": [
+          "Newton",
+          "Sir Isaac Newton"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isaac Newton developed laws of motion and universal gravitation that explained planetary motion.",
+        "sourceIds": []
+      },
+      {
+        "id": "carl-sagan",
+        "canonical": "Carl Sagan",
+        "aliases": [
+          "Sagan"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carl Sagan researched planetary atmospheres and helped popularize astronomy.",
+        "sourceIds": []
+      },
+      {
+        "id": "neil-degrasse-tyson",
+        "canonical": "Neil deGrasse Tyson",
+        "aliases": [
+          "Neil Tyson",
+          "Tyson",
+          "DeGrasse Tyson",
+          "Neil Degrasse"
+        ],
+        "familiarity": 0.085,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neil deGrasse Tyson is an astrophysicist whose research has included star formation and the structure of the Milky Way.",
+        "sourceIds": []
+      },
+      {
+        "id": "nicolaus-copernicus",
+        "canonical": "Nicolaus Copernicus",
+        "aliases": [
+          "Copernicus",
+          "Nicolas Copernicus",
+          "Nikolaj Kopernik",
+          "Mikolaj Kopernik",
+          "Mikołaj Kopernik"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nicolaus Copernicus developed a heliocentric model in which Earth and the other planets orbit the Sun.",
+        "sourceIds": []
+      },
+      {
+        "id": "johannes-kepler",
+        "canonical": "Johannes Kepler",
+        "aliases": [
+          "Kepler",
+          "Johann Kepler"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johannes Kepler formulated three laws describing planetary motion.",
+        "sourceIds": []
+      },
+      {
+        "id": "edwin-hubble",
+        "canonical": "Edwin Hubble",
+        "aliases": [
+          "Hubble",
+          "Edwin Powell Hubble"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Edwin Hubble established that galaxies exist beyond the Milky Way and studied the relationship between their distances and recession speeds.",
+        "sourceIds": []
+      },
+      {
+        "id": "edmond-halley",
+        "canonical": "Edmond Halley",
+        "aliases": [
+          "Halley",
+          "Edmund Halley"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Edmond Halley calculated the orbit and predicted the return of the comet now named after him.",
+        "sourceIds": []
+      },
+      {
+        "id": "vera-rubin",
+        "canonical": "Vera Rubin",
+        "aliases": [
+          "Rubin",
+          "Vera Cooper Rubin"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vera Rubin studied galaxy rotation and provided influential evidence for dark matter.",
+        "sourceIds": []
+      },
+      {
+        "id": "william-herschel",
+        "canonical": "William Herschel",
+        "aliases": [
+          "Frederick William Herschel",
+          "Friedrich Wilhelm Herschel",
+          "Herschel",
+          "Sir William Herschel"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "William Herschel discovered Uranus and conducted extensive surveys of stars and nebulae.",
+        "sourceIds": []
+      },
+      {
+        "id": "jocelyn-bell-burnell",
+        "canonical": "Jocelyn Bell Burnell",
+        "aliases": [
+          "Jocelyn Bell",
+          "Bell Burnell",
+          "Susan Jocelyn Bell Burnell"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jocelyn Bell Burnell discovered the first radio pulsars.",
+        "sourceIds": []
+      },
+      {
+        "id": "cecilia-payne-gaposchkin",
+        "canonical": "Cecilia Payne-Gaposchkin",
+        "aliases": [
+          "Cecilia Payne",
+          "Payne-Gaposchkin"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cecilia Payne-Gaposchkin established that stars are composed predominantly of hydrogen and helium.",
+        "sourceIds": []
+      },
+      {
+        "id": "annie-jump-cannon",
+        "canonical": "Annie Jump Cannon",
+        "aliases": [
+          "Annie Cannon",
+          "Cannon"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Annie Jump Cannon developed a widely used system for classifying stars by their spectra.",
+        "sourceIds": []
+      },
+      {
+        "id": "subrahmanyan-chandrasekhar",
+        "canonical": "Subrahmanyan Chandrasekhar",
+        "aliases": [
+          "Chandrasekhar",
+          "S. Chandrasekhar",
+          "Chandra"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subrahmanyan Chandrasekhar studied stellar structure and established a mass limit for white dwarf stars.",
+        "sourceIds": []
+      },
+      {
+        "id": "georges-lema-tre",
+        "canonical": "Georges Lemaître",
+        "aliases": [
+          "Lemaître",
+          "George Lemaitre"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Georges Lemaître proposed an expanding universe and an early version of the Big Bang theory.",
+        "sourceIds": []
+      },
+      {
+        "id": "jan-oort",
+        "canonical": "Jan Oort",
+        "aliases": [
+          "Oort",
+          "Jan Hendrik Oort"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jan Oort studied the Milky Way and proposed a distant reservoir of comets surrounding the solar system.",
+        "sourceIds": []
+      },
+      {
+        "id": "tycho-brahe",
+        "canonical": "Tycho Brahe",
+        "aliases": [
+          "Brahe",
+          "Tycho"
+        ],
+        "familiarity": 0.034,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tycho Brahe collected highly precise astronomical observations before the invention of the telescope.",
+        "sourceIds": []
+      },
+      {
+        "id": "caroline-herschel",
+        "canonical": "Caroline Herschel",
+        "aliases": [
+          "Caroline Lucretia Herschel",
+          "Carolina Herschel"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Caroline Herschel discovered comets and contributed to astronomical catalogues.",
+        "sourceIds": []
+      },
+      {
+        "id": "henrietta-swan-leavitt",
+        "canonical": "Henrietta Swan Leavitt",
+        "aliases": [
+          "Henrietta Leavitt",
+          "Leavitt"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Henrietta Swan Leavitt discovered the relationship between Cepheid variable stars’ pulsation periods and luminosities.",
+        "sourceIds": []
+      },
+      {
+        "id": "arthur-eddington",
+        "canonical": "Arthur Eddington",
+        "aliases": [
+          "Eddington",
+          "Arthur Stanley Eddington",
+          "Sir Arthur Eddington"
+        ],
+        "familiarity": 0.0102,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arthur Eddington studied stellar structure and helped test general relativity through eclipse observations.",
+        "sourceIds": []
+      },
+      {
+        "id": "fritz-zwicky",
+        "canonical": "Fritz Zwicky",
+        "aliases": [
+          "Zwicky"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fritz Zwicky inferred the presence of dark matter from the motions of galaxies in a galaxy cluster.",
+        "sourceIds": []
+      },
+      {
+        "id": "beatrice-tinsley",
+        "canonical": "Beatrice Tinsley",
+        "aliases": [
+          "Beatrice Hill Tinsley",
+          "Tinsley"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beatrice Tinsley developed models explaining how galaxies evolve over time.",
+        "sourceIds": []
+      },
+      {
+        "id": "meghnad-saha",
+        "canonical": "Meghnad Saha",
+        "aliases": [
+          "Saha"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Meghnad Saha developed an ionization equation that helps explain the spectra of stars.",
+        "sourceIds": []
+      },
+      {
+        "id": "ejnar-hertzsprung",
+        "canonical": "Ejnar Hertzsprung",
+        "aliases": [
+          "Hertzsprung"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ejnar Hertzsprung helped establish the relationship between stars’ temperatures and luminosities.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Valid answers include scientists who studied planets, stars, galaxies, gravity, and the universe’s origins and evolution—not just the examples listed here.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "82ae40ea2502bb06",
+    "brief": "Name a scientist famous for astronomy, astrophysics or cosmology.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Albert Einstein": 3,
+      "Stephen Hawking": 3,
+      "Galileo Galilei": 3,
+      "Isaac Newton": 3,
+      "Carl Sagan": 3,
+      "Neil deGrasse Tyson": 3,
+      "Nicolaus Copernicus": 3,
+      "Johannes Kepler": 3,
+      "Edwin Hubble": 3,
+      "Edmond Halley": 3,
+      "Tycho Brahe": 2,
+      "Vera Rubin": 3,
+      "William Herschel": 3,
+      "Caroline Herschel": 2,
+      "Jocelyn Bell Burnell": 3,
+      "Cecilia Payne-Gaposchkin": 3,
+      "Henrietta Swan Leavitt": 2,
+      "Annie Jump Cannon": 3,
+      "Arthur Eddington": 2,
+      "Subrahmanyan Chandrasekhar": 3,
+      "Georges Lemaître": 3,
+      "Fritz Zwicky": 2,
+      "Jan Oort": 3,
+      "Beatrice Tinsley": 2,
+      "Meghnad Saha": 2,
+      "Ejnar Hertzsprung": 2
+    },
+    "droppedForVotes": {
+      "George Gamow": 1,
+      "Henry Norris Russell": 1,
+      "Ptolemy": 1,
+      "Henrietta Leavitt": 1,
+      "Fred Hoyle": 1,
+      "Hipparchus": 1,
+      "Annie Maunder": 1,
+      "Al-Sufi": 1
+    },
+    "verdicts": {
+      "Albert Einstein": {
+        "verdict": "correct",
+        "reason": "Developed general relativity and made foundational contributions to cosmology."
+      },
+      "Stephen Hawking": {
+        "verdict": "correct",
+        "reason": "Made major theoretical contributions to black hole physics and cosmology."
+      },
+      "Galileo Galilei": {
+        "verdict": "correct",
+        "reason": "Made pioneering telescopic discoveries concerning the Moon, planets, and stars."
+      },
+      "Isaac Newton": {
+        "verdict": "correct",
+        "reason": "Developed universal gravitation and explained planetary motion."
+      },
+      "Carl Sagan": {
+        "verdict": "correct",
+        "reason": "Conducted documented research on planetary atmospheres and planetary science."
+      },
+      "Neil deGrasse Tyson": {
+        "verdict": "correct",
+        "reason": "Has published astrophysics research on topics including star formation and Galactic structure."
+      },
+      "Nicolaus Copernicus": {
+        "verdict": "correct",
+        "reason": "Developed an influential heliocentric model of the planetary system."
+      },
+      "Johannes Kepler": {
+        "verdict": "correct",
+        "reason": "Formulated the three laws of planetary motion."
+      },
+      "Edwin Hubble": {
+        "verdict": "correct",
+        "reason": "Established the extragalactic nature of distant nebulae and the distance–recession relationship."
+      },
+      "Edmond Halley": {
+        "verdict": "correct",
+        "reason": "Calculated the orbit and predicted the return of the comet bearing his name."
+      },
+      "Vera Rubin": {
+        "verdict": "correct",
+        "reason": "Her galaxy rotation research provided major evidence for dark matter."
+      },
+      "William Herschel": {
+        "verdict": "correct",
+        "reason": "Discovered Uranus and conducted major surveys of stars and nebulae."
+      },
+      "Jocelyn Bell Burnell": {
+        "verdict": "correct",
+        "reason": "Discovered the first radio pulsars through her radio astronomy research."
+      },
+      "Cecilia Payne-Gaposchkin": {
+        "verdict": "correct",
+        "reason": "Established the predominance of hydrogen and helium in stellar composition."
+      },
+      "Annie Jump Cannon": {
+        "verdict": "correct",
+        "reason": "Developed the stellar spectral classification system underlying the modern Harvard classification."
+      },
+      "Subrahmanyan Chandrasekhar": {
+        "verdict": "correct",
+        "reason": "Made foundational contributions to stellar structure, including the white dwarf mass limit."
+      },
+      "Georges Lemaître": {
+        "verdict": "correct",
+        "reason": "Proposed an expanding universe and the primeval-atom precursor to Big Bang cosmology."
+      },
+      "Jan Oort": {
+        "verdict": "correct",
+        "reason": "Made major contributions to Galactic astronomy and proposed the distant comet reservoir called the Oort cloud."
+      },
+      "Tycho Brahe": {
+        "verdict": "correct",
+        "reason": "Produced exceptionally precise pretelescopic astronomical observations."
+      },
+      "Caroline Herschel": {
+        "verdict": "correct",
+        "reason": "Discovered comets and compiled important astronomical catalogues."
+      },
+      "Henrietta Swan Leavitt": {
+        "verdict": "correct",
+        "reason": "Discovered the Cepheid period–luminosity relationship."
+      },
+      "Arthur Eddington": {
+        "verdict": "correct",
+        "reason": "Researched stellar structure and helped test general relativity through eclipse observations."
+      },
+      "Fritz Zwicky": {
+        "verdict": "correct",
+        "reason": "Inferred dark matter from the dynamics of galaxies in the Coma cluster."
+      },
+      "Beatrice Tinsley": {
+        "verdict": "correct",
+        "reason": "Pioneered theoretical models of galaxy evolution."
+      },
+      "Meghnad Saha": {
+        "verdict": "correct",
+        "reason": "Developed the Saha ionization equation, fundamental to interpreting stellar spectra."
+      },
+      "Ejnar Hertzsprung": {
+        "verdict": "correct",
+        "reason": "Helped establish the stellar temperature–luminosity relationship represented by the Hertzsprung–Russell diagram."
+      }
+    },
+    "issues": []
+  }
+}

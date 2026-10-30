@@ -1,0 +1,394 @@
+{
+  "question": {
+    "id": "space-uranus-moons",
+    "category": "space",
+    "prompt": "Name a known moon of Uranus.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "titania",
+        "canonical": "Titania",
+        "aliases": [],
+        "familiarity": 0.1242,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Titania is listed as one of Uranus's five major moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "oberon",
+        "canonical": "Oberon",
+        "aliases": [],
+        "familiarity": 0.1242,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oberon is listed as one of Uranus's five major moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "miranda",
+        "canonical": "Miranda",
+        "aliases": [],
+        "familiarity": 0.1242,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miranda is listed as one of Uranus's five major moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "ariel",
+        "canonical": "Ariel",
+        "aliases": [],
+        "familiarity": 0.1242,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ariel is listed as one of Uranus's five major moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "umbriel",
+        "canonical": "Umbriel",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Umbriel is listed as one of Uranus's five major moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "puck",
+        "canonical": "Puck",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Puck is identified as Uranus's largest inner moon.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "cordelia",
+        "canonical": "Cordelia",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cordelia is identified as one of Uranus's two innermost moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "ophelia",
+        "canonical": "Ophelia",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ophelia is identified as one of Uranus's two innermost moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "bianca",
+        "canonical": "Bianca",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bianca belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "cressida",
+        "canonical": "Cressida",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cressida belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "desdemona",
+        "canonical": "Desdemona",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Desdemona belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "juliet",
+        "canonical": "Juliet",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Juliet belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "portia",
+        "canonical": "Portia",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Portia belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "rosalind",
+        "canonical": "Rosalind",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rosalind belongs to the Portia group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "cupid",
+        "canonical": "Cupid",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cupid belongs to the Belinda group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "belinda",
+        "canonical": "Belinda",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Belinda belongs to the Belinda group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "perdita",
+        "canonical": "Perdita",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Perdita belongs to the Belinda group of Uranus's inner moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "mab",
+        "canonical": "Mab",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mab is identified as one of Uranus's outermost inner satellites.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "s-2025-u-1",
+        "canonical": "S/2025 U 1",
+        "aliases": [
+          "Uranus XXVIII",
+          "S/2025 U1"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S/2025 U 1 is listed as Uranus's moon XXVIII, discovered in 2025.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "francisco",
+        "canonical": "Francisco",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Francisco appears in the source's table of Uranian moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "caliban",
+        "canonical": "Caliban",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Caliban is identified as a retrograde moon in Uranus's Caliban group.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "stephano",
+        "canonical": "Stephano",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephano is identified as a retrograde moon in Uranus's Caliban group.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "s-2023-u-1",
+        "canonical": "S/2023 U 1",
+        "aliases": [
+          "S/2023 U1"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S/2023 U 1 is identified as a retrograde moon in Uranus's Caliban group.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "trinculo",
+        "canonical": "Trinculo",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trinculo appears in the source's table of Uranian moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "sycorax",
+        "canonical": "Sycorax",
+        "aliases": [],
+        "familiarity": 0.0497,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sycorax is identified among Uranus's irregular moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "margaret",
+        "canonical": "Margaret",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Margaret is identified as Uranus's only known irregular prograde moon.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "prospero",
+        "canonical": "Prospero",
+        "aliases": [],
+        "familiarity": 0.0149,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prospero appears in the source's table of Uranian moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "setebos",
+        "canonical": "Setebos",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Setebos appears in the source's table of Uranian moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      },
+      {
+        "id": "ferdinand",
+        "canonical": "Ferdinand",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ferdinand appears in the source's table of Uranian moons.",
+        "sourceIds": [
+          "moons-of-uranus"
+        ]
+      }
+    ],
+    "explanation": "The source lists 29 known moons of Uranus: 14 inner moons, five major moons and ten irregular moons. Two have provisional designations rather than names; the 27 named moons take their names from characters in Shakespeare's plays or in Alexander Pope's poem about Belinda and a stolen lock of hair.",
+    "sources": [
+      {
+        "id": "moons-of-uranus",
+        "title": "Moons of Uranus",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moons_of_Uranus",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "6e9d412d35eaf47a",
+    "brief": "Name a moon of Uranus.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "moons-of-uranus",
+        "version": "1379033338",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Titania": "Uranus has five major moons: Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "Oberon": "Uranus has five major moons: Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "Miranda": "Uranus has five major moons: Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "Ariel": "Uranus has five major moons: Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "Umbriel": "Uranus has five major moons: Miranda, Ariel, Umbriel, Titania, and Oberon.",
+      "Puck": "At 162 km, Puck is the largest of the inner moons of Uranus and the only one imaged by Voyager 2 in any detail.",
+      "Cordelia": "The two innermost moons, Cordelia and Ophelia, are shepherds of Uranus's ε ring",
+      "Ophelia": "The two innermost moons, Cordelia and Ophelia, are shepherds of Uranus's ε ring",
+      "Bianca": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Cressida": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Desdemona": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Juliet": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Portia": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Rosalind": "the Portia group, which includes the six moons Bianca, Cressida, Desdemona, Juliet, Portia, and Rosalind",
+      "Cupid": "the Belinda group, which includes the three moons Cupid, Belinda, and Perdita.",
+      "Belinda": "the Belinda group, which includes the three moons Cupid, Belinda, and Perdita.",
+      "Perdita": "the Belinda group, which includes the three moons Cupid, Belinda, and Perdita.",
+      "Mab": "Puck and Mab are the two outermost inner satellites of Uranus.",
+      "S/2025 U 1": "XXVIII | S/2025 U 1 | | | ≈ 13.6 | ≈ 8–10 | ≈ 0.04 | 57844 | +0.4201 | 4.0 | 0.039 | 2025 | 2025 | El Moutamid et al. (JWST) |",
+      "Francisco": "XXII | Francisco | /frænˈsɪskoʊ/ | | 12.9 | ≈ 22",
+      "Caliban": "The Caliban group includes three retrograde moons, which are Caliban, S/2023 U 1, and Stephano.",
+      "Stephano": "The Caliban group includes three retrograde moons, which are Caliban, S/2023 U 1, and Stephano.",
+      "S/2023 U 1": "The Caliban group includes three retrograde moons, which are Caliban, S/2023 U 1, and Stephano.",
+      "Trinculo": "XXI | Trinculo | /ˈtrɪŋkjʊloʊ/ | | 12.7 | ≈ 18",
+      "Sycorax": "Uranus's irregular moons range in size from 120 to 200 km (Sycorax) to under 10 km (S/2023 U 1).",
+      "Margaret": "Margaret is the only known irregular prograde moon of Uranus",
+      "Prospero": "XVIII | Prospero | /ˈprɒspəroʊ/ | | 10.6 | ≈ 50",
+      "Setebos": "XIX | Setebos | /ˈsɛtɛbʌs/ | | 10.6 | ≈ 47",
+      "Ferdinand": "XXIV | Ferdinand | /ˈfɜːrdənænd/ | | 12.4 | ≈ 21"
+    },
+    "issues": [],
+    "editedInReview": {
+      "explanationBefore": "The source lists 29 known moons of Uranus: 14 inner moons, five major moons and ten irregular moons. Two have provisional designations rather than names; the 27 named moons take their names from characters in Shakespeare's plays or Alexander Pope's The Rape of the Lock."
+    }
+  }
+}

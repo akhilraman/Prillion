@@ -1,0 +1,920 @@
+{
+  "question": {
+    "id": "space-meteor-showers",
+    "category": "space",
+    "prompt": "Name a meteor shower, including those with provisional names.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "antihelion-source",
+        "canonical": "Antihelion Source",
+        "aliases": [
+          "Antihelion"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes the Antihelion Source in its table of meteor showers.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "quadrantids",
+        "canonical": "Quadrantids",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Quadrantids as a meteor shower peaking on 3 January.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "gamma-ursae-minorids",
+        "canonical": "Gamma Ursae Minorids",
+        "aliases": [
+          "Gamma Ursa Minorids"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Gamma Ursae Minorids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "alpha-centaurids",
+        "canonical": "Alpha Centaurids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Alpha Centaurids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "lyrids",
+        "canonical": "Lyrids",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Lyrids as a meteor shower peaking on 22 April.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "pi-puppids",
+        "canonical": "Pi Puppids",
+        "aliases": [
+          "Pi-Puppids"
+        ],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Pi Puppids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "eta-aquariids",
+        "canonical": "Eta Aquariids",
+        "aliases": [
+          "Eta Aquarids"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Eta Aquariids as a meteor shower peaking on 6 May.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "eta-lyrids",
+        "canonical": "Eta Lyrids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Eta Lyrids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "daytime-arietids",
+        "canonical": "Daytime Arietids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Daytime Arietids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "june-bootids",
+        "canonical": "June Bootids",
+        "aliases": [
+          "June Boötids"
+        ],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the June Bootids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "july-pegasids",
+        "canonical": "July Pegasids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the July Pegasids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "july-gamma-draconids",
+        "canonical": "July Gamma Draconids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the July Gamma Draconids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "southern-delta-aquariids",
+        "canonical": "Southern Delta Aquariids",
+        "aliases": [
+          "Southern Delta Aquarids"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Southern Delta Aquariids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "alpha-capricornids",
+        "canonical": "Alpha Capricornids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Alpha Capricornids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "eta-eridanids",
+        "canonical": "Eta Eridanids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Eta Eridanids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "perseids",
+        "canonical": "Perseids",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Perseids as a meteor shower peaking on 13 August.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "kappa-cygnids",
+        "canonical": "Kappa Cygnids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Kappa Cygnids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "aurigids",
+        "canonical": "Aurigids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Aurigids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "september-epsilon-perseids",
+        "canonical": "September Epsilon Perseids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the September Epsilon Perseids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "september-lyncids",
+        "canonical": "September Lyncids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the September Lyncids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "daytime-sextantids",
+        "canonical": "Daytime Sextantids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Daytime Sextantids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "october-camelopardalids",
+        "canonical": "October Camelopardalids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the October Camelopardalids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "october-draconids",
+        "canonical": "October Draconids",
+        "aliases": [
+          "Draconids"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the October Draconids as a meteor shower peaking on 9 October.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "epsilon-geminids",
+        "canonical": "Epsilon Geminids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Epsilon Geminids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "orionids",
+        "canonical": "Orionids",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Orionids as a meteor shower peaking on 21 October.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "leonis-minorids",
+        "canonical": "Leonis Minorids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Leonis Minorids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "southern-taurids",
+        "canonical": "Southern Taurids",
+        "aliases": [
+          "South Taurids"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Southern Taurids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "northern-taurids",
+        "canonical": "Northern Taurids",
+        "aliases": [
+          "North Taurids"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Northern Taurids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "leonids",
+        "canonical": "Leonids",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Leonids as a meteor shower peaking on 17 November.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "alpha-monocerotids",
+        "canonical": "Alpha Monocerotids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Alpha Monocerotids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "november-orionids",
+        "canonical": "November Orionids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the November Orionids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "phoenicids",
+        "canonical": "Phoenicids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Phoenicids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "puppid-velids",
+        "canonical": "Puppid-Velids",
+        "aliases": [
+          "Puppid Velids"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Puppid-Velids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "monocerotids",
+        "canonical": "Monocerotids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Monocerotids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "sigma-hydrids",
+        "canonical": "Sigma Hydrids",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Sigma Hydrids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "geminids",
+        "canonical": "Geminids",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Geminids as a meteor shower peaking on 14 December.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "comae-berenicids",
+        "canonical": "Comae Berenicids",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Comae Berenicids as a meteor shower.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "ursids",
+        "canonical": "Ursids",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Ursids as a meteor shower peaking on 22 December.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "jan-alpha-bootids",
+        "canonical": "Jan. alpha-Bootids",
+        "aliases": [
+          "January Alpha Bootids",
+          "January Alpha Boötids",
+          "M2023-D1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Jan. alpha-Bootids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "theta-dracondis",
+        "canonical": "theta-Dracondis",
+        "aliases": [
+          "Theta Dracondis",
+          "M2023-D2"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists theta-Dracondis as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "aug-nu-ursae-majorids",
+        "canonical": "Aug. nu-Ursae Majorids",
+        "aliases": [
+          "August Nu Ursae Majorids",
+          "M2023-F1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Aug. nu-Ursae Majorids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "chi-delphinids",
+        "canonical": "chi Delphinids",
+        "aliases": [
+          "Chi-Delphinids",
+          "M2023-F2"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists chi Delphinids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "xi-serpentids",
+        "canonical": "xi Serpentids",
+        "aliases": [
+          "Xi-Serpentids",
+          "M2023-F3"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists xi Serpentids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "sep-beta-ursae-majorids",
+        "canonical": "Sep. beta Ursae-Majorids",
+        "aliases": [
+          "September Beta Ursae Majorids",
+          "M2023-F4"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Sep. beta Ursae-Majorids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "delta-leonids",
+        "canonical": "delta-Leonids",
+        "aliases": [
+          "Delta Leonids",
+          "M2023-F5"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists delta-Leonids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "51-sagittids",
+        "canonical": "51-Sagittids",
+        "aliases": [
+          "51 Sagittids",
+          "M2023-K1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists 51-Sagittids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "nu-herculids",
+        "canonical": "nu-Herculids",
+        "aliases": [
+          "Nu Herculids",
+          "M2023-O1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists nu-Herculids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "lambda-sculptorids",
+        "canonical": "lambda-Sculptorids",
+        "aliases": [
+          "Lambda Sculptorids",
+          "M2023-V1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists lambda-Sculptorids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "iota-herculids",
+        "canonical": "iota-Herculids",
+        "aliases": [
+          "Iota Herculids",
+          "M2024-H1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists iota-Herculids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "psi-fornacids",
+        "canonical": "psi-Fornacids",
+        "aliases": [
+          "Psi Fornacids",
+          "M2024-N1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists psi-Fornacids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "nu-capricornids",
+        "canonical": "nu-Capricornids",
+        "aliases": [
+          "Nu Capricornids",
+          "M2024-P1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists nu-Capricornids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "zeta-ursae-minorids",
+        "canonical": "zeta-Ursae Minorids",
+        "aliases": [
+          "Zeta Ursae Minorids",
+          "M2024-S1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists zeta-Ursae Minorids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "theta-lyrids",
+        "canonical": "theta-Lyrids",
+        "aliases": [
+          "Theta Lyrids",
+          "M2024-U1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists theta-Lyrids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "september-psi-cassiopeiids",
+        "canonical": "September psi-Cassiopeiids",
+        "aliases": [
+          "September Psi Cassiopeiids",
+          "M2024-Y1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists September psi-Cassiopeiids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "theta-pegasids",
+        "canonical": "theta-Pegasids",
+        "aliases": [
+          "Theta Pegasids",
+          "M2025-B1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists theta-Pegasids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "march-zeta-puppids",
+        "canonical": "March zeta-Puppids",
+        "aliases": [
+          "March Zeta Puppids",
+          "M2025-F1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists March zeta-Puppids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "xi-octantids",
+        "canonical": "xi-Octantids",
+        "aliases": [
+          "Xi Octantids",
+          "M2025-K1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists xi-Octantids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "tau-herculids",
+        "canonical": "(tau-Herculids)",
+        "aliases": [
+          "Tau Herculids",
+          "Tau-Herculids",
+          "M2025-L1",
+          "M2025-L2"
+        ],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document uses the provisional name (tau-Herculids) for two listed designations.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "delta-equuleids",
+        "canonical": "delta-Equuleids",
+        "aliases": [
+          "Delta Equuleids",
+          "M2025-O1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists delta-Equuleids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "delta-tucanids",
+        "canonical": "delta-Tucanids",
+        "aliases": [
+          "Delta Tucanids",
+          "M2025-O2"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists delta-Tucanids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "july-upsilon-cetids",
+        "canonical": "July upsilon-Cetids",
+        "aliases": [
+          "July Upsilon Cetids",
+          "M2025-P1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists July upsilon-Cetids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "august-arietids",
+        "canonical": "August Arietids",
+        "aliases": [
+          "M2025-Q1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists August Arietids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "september-delphinids",
+        "canonical": "September Delphinids",
+        "aliases": [
+          "M2025-S1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists September Delphinids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "horologiids",
+        "canonical": "Horologiids",
+        "aliases": [
+          "M2025-S2"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Horologiids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      },
+      {
+        "id": "october-gamma-piscids",
+        "canonical": "October gamma-Piscids",
+        "aliases": [
+          "October Gamma Piscids",
+          "M2025-U1"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists October gamma-Piscids as a provisional meteor-shower name.",
+        "sourceIds": [
+          "list-of-meteor-showers"
+        ]
+      }
+    ],
+    "explanation": "Meteor showers recur at approximately the same dates each year and appear to radiate from particular points in the sky. The source lists familiar annual showers alongside less familiar showers and provisional names.",
+    "sources": [
+      {
+        "id": "list-of-meteor-showers",
+        "title": "List of meteor showers",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_meteor_showers",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A named meteor shower or meteor-shower source listed in the supplied document, including provisionally named showers; designations and unambiguous alternative spellings also count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "b7fa41fc0155d09c",
+    "brief": "Name a meteor shower.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-meteor-showers",
+        "version": "1377881420",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Antihelion Source": "Antihelion Source | 10 Dec – 20 Sep | multiple",
+      "Quadrantids": "Quadrantids | 28 Dec – 12 Jan | 3 Jan",
+      "Gamma Ursae Minorids": "Gamma Ursae Minorids | 10 Jan – 22 Jan | 18 Jan",
+      "Alpha Centaurids": "Alpha Centaurids | 31 Jan – 20 Feb | 8 Feb",
+      "Lyrids": "Lyrids | 14 Apr – 30 Apr | 22 Apr",
+      "Pi Puppids": "Pi Puppids | 15 Apr – 28 Apr | 24 Apr",
+      "Eta Aquariids": "Eta Aquariids | 19 Apr – 28 May | 6 May",
+      "Eta Lyrids": "Eta Lyrids | 3 May – 14 May | 11 May",
+      "Daytime Arietids": "Daytime Arietids | 14 May – 24 Jun | 7 Jun",
+      "June Bootids": "June Bootids | 22 Jun – 2 Jul | 22 Jun",
+      "July Pegasids": "July Pegasids | 1 Jul – 20 Jul | 10 Jul",
+      "July Gamma Draconids": "July Gamma Draconids | 25 Jul – 31 Jul | 28 Jul",
+      "Southern Delta Aquariids": "Southern Delta Aquariids | 12 Jul – 23 Aug | 31 Jul",
+      "Alpha Capricornids": "Alpha Capricornids | 3 Jul – 15 Aug | 31 Jul",
+      "Eta Eridanids": "Eta Eridanids | 31 Jul – 19 Aug | 7 Aug",
+      "Perseids": "Perseids | 17 Jul – 24 Aug | 13 Aug",
+      "Kappa Cygnids": "Kappa Cygnids | 3 Aug – 28 Aug | 17 Aug",
+      "Aurigids": "Aurigids | 28 Aug – 5 Sep | 1 Sep",
+      "September Epsilon Perseids": "September Epsilon Perseids | 5 Sep – 21 Sep | 9 Sep",
+      "September Lyncids": "September Lyncids | 10 Sep – 8 Oct | 13 Sep",
+      "Daytime Sextantids": "Daytime Sextantids | 20 Sep – 6 Oct | 1 Oct",
+      "October Camelopardalids": "October Camelopardalids | 5 Oct – 6 Oct | 6 Oct",
+      "October Draconids": "October Draconids | 6 Oct – 10 Oct | 9 Oct",
+      "Epsilon Geminids": "Epsilon Geminids | 14 Oct – 27 Oct | 18 Oct",
+      "Orionids": "Orionids | 2 Oct – 7 Nov | 21 Oct",
+      "Leonis Minorids": "Leonis Minorids | 19 Oct – 27 Oct | 24 Oct",
+      "Southern Taurids": "Southern Taurids | 20 Sep – 20 Nov | 5 Nov",
+      "Northern Taurids": "Northern Taurids | 20 Oct – 10 Dec | 12 Nov",
+      "Leonids": "Leonids | 6 Nov – 30 Nov | 17 Nov",
+      "Alpha Monocerotids": "Alpha Monocerotids | 15 Nov – 25 Nov | 22 Nov",
+      "November Orionids": "November Orionids | 13 Nov – 6 Dec | 28 Nov",
+      "Phoenicids": "Phoenicids | 1 Dec – 5 Dec | 2 Dec",
+      "Puppid-Velids": "Puppid-Velids | 1 Dec – 15 Dec | multiple",
+      "Monocerotids": "Monocerotids | 1 Dec – 19 Dec | 9 Dec",
+      "Sigma Hydrids": "Sigma Hydrids | 3 Dec – 20 Dec | 9 Dec",
+      "Geminids": "Geminids | 4 Dec – 20 Dec | 14 Dec",
+      "Comae Berenicids": "Comae Berenicids | 4 Dec – 30 Jan | 23 Dec",
+      "Ursids": "Ursids | 17 Dec – 26 Dec | 22 Dec",
+      "Jan. alpha-Bootids": "M2023-D1 | Jan. alpha-Bootids | JAB | 1213",
+      "theta-Dracondis": "M2023-D2 | theta-Dracondis | TDR | 1214",
+      "Aug. nu-Ursae Majorids": "M2023-F1 | Aug. nu-Ursae Majorids | ANU | 1215",
+      "chi Delphinids": "M2023-F2 | chi Delphinids | CHD | 1216",
+      "xi Serpentids": "M2023-F3 | xi Serpentids | XIS | 1217",
+      "Sep. beta Ursae-Majorids": "M2023-F4 | Sep. beta Ursae-Majorids | SBU | 1218",
+      "delta-Leonids": "M2023-F5 | delta-Leonids | DEO | 1219",
+      "51-Sagittids": "M2023-K1 | 51-Sagittids | FSG | 1220",
+      "nu-Herculids": "M2023-O1 | nu-Herculids | NUH | 1221",
+      "lambda-Sculptorids": "M2023-V1 | lambda-Sculptorids | LSC | 1222",
+      "iota-Herculids": "M2024-H1 | iota-Herculids | IHE | 1223",
+      "psi-Fornacids": "M2024-N1 | psi-Fornacids | PFO | 1224",
+      "nu-Capricornids": "M2024-P1 | nu-Capricornids | NUC | 1225",
+      "zeta-Ursae Minorids": "M2024-S1 | zeta-Ursae Minorids | ZUM | 1226",
+      "theta-Lyrids": "M2024-U1 | theta-Lyrids | THL | 1227",
+      "September psi-Cassiopeiids": "M2024-Y1 | September psi-Cassiopeiids | SPC | 1228",
+      "theta-Pegasids": "M2025-B1 | theta-Pegasids | TAP | 1229",
+      "March zeta-Puppids": "M2025-F1 | March zeta-Puppids | MZP | 1230",
+      "xi-Octantids": "M2025-K1 | xi-Octantids | XOC | 1231",
+      "(tau-Herculids)": "M2025-L1 | (tau-Herculids) | TAH | 1232 | 69.5 | 197.0 | +51.5 | 12.1\nM2025-L2 | (tau-Herculids) | TAH | 1233 | 71.5 | 203.1 | +7.5 | 11.7",
+      "delta-Equuleids": "M2025-O1 | delta-Equuleids | DQU | 1234",
+      "delta-Tucanids": "M2025-O2 | delta-Tucanids | DTU | 1235",
+      "July upsilon-Cetids": "M2025-P1 | July upsilon-Cetids | JUC | 1236",
+      "August Arietids": "M2025-Q1 | August Arietids | AAR | 1237",
+      "September Delphinids": "M2025-S1 | September Delphinids | SDE | 1238",
+      "Horologiids": "M2025-S2 | Horologiids | HOR | 1239",
+      "October gamma-Piscids": "M2025-U1 | October gamma-Piscids | OGP | 1240"
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,2093 @@
+{
+  "question": {
+    "id": "space-missions-to-the-moon",
+    "category": "space",
+    "prompt": "Name a mission in the main “Mission” column of the launched-missions tables in “List of missions to the Moon.” Failed attempts and lunar flybys count.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "pioneer-0-able-i",
+        "canonical": "Pioneer 0 (Able I)",
+        "aliases": [
+          "Pioneer 0",
+          "Able I"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in August 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-1-no-1",
+        "canonical": "Luna E-1 No.1",
+        "aliases": [
+          "Luna E-1 No. 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar impactor launched in September 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-1-able-ii",
+        "canonical": "Pioneer 1 (Able II)",
+        "aliases": [
+          "Pioneer 1",
+          "Able II"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in October 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-1-no-2",
+        "canonical": "Luna E-1 No.2",
+        "aliases": [
+          "Luna E-1 No. 2"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar impactor launched in October 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-2-able-iii",
+        "canonical": "Pioneer 2 (Able III)",
+        "aliases": [
+          "Pioneer 2",
+          "Able III"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in November 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-1-no-3",
+        "canonical": "Luna E-1 No.3",
+        "aliases": [
+          "Luna E-1 No. 3"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar impactor launched in December 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-3",
+        "canonical": "Pioneer 3",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in December 1958.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-1-e-1-no-4",
+        "canonical": "Luna 1 (E-1 No.4)",
+        "aliases": [
+          "Luna 1",
+          "E-1 No.4"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar impactor mission launched in January 1959 that partially failed.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-4",
+        "canonical": "Pioneer 4",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar flyby mission launched in March 1959.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "e-1a-no-1",
+        "canonical": "E-1A No.1",
+        "aliases": [
+          "E-1A No. 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar impactor launched in June 1959.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-2-e-1a-no-2",
+        "canonical": "Luna 2 (E-1A No.2)",
+        "aliases": [
+          "Luna 2",
+          "E-1A No.2"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar impactor launched in September 1959.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-3-e-2a-no-1",
+        "canonical": "Luna 3 (E-2A No.1)",
+        "aliases": [
+          "Luna 3",
+          "E-2A No.1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby launched in October 1959.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-p-3-able-ivb",
+        "canonical": "Pioneer P-3 Able IVB",
+        "aliases": [
+          "Pioneer P-3",
+          "Able IVB"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in November 1959.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-3-no-1",
+        "canonical": "Luna E-3 No.1",
+        "aliases": [
+          "Luna E-3 No. 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in April 1960.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-3-no-2",
+        "canonical": "Luna E-3 No.2",
+        "aliases": [
+          "Luna E-3 No. 2"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in April 1960.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-p-30-able-va",
+        "canonical": "Pioneer P-30 (Able VA)",
+        "aliases": [
+          "Pioneer P-30",
+          "Able VA"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in September 1960.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pioneer-p-31-able-vb",
+        "canonical": "Pioneer P-31 (Able VB)",
+        "aliases": [
+          "Pioneer P-31",
+          "Able VB"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in December 1960.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-3-p-34",
+        "canonical": "Ranger 3 (P-34)",
+        "aliases": [
+          "Ranger 3",
+          "P-34"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar impactor mission launched in January 1962.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-4-p-35",
+        "canonical": "Ranger 4 (P-35)",
+        "aliases": [
+          "Ranger 4",
+          "P-35"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar impactor mission launched in April 1962.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-5-p-36",
+        "canonical": "Ranger 5 (P-36)",
+        "aliases": [
+          "Ranger 5",
+          "P-36"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar impactor mission launched in October 1962.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6-no-2",
+        "canonical": "Luna E-6 No.2",
+        "aliases": [
+          "Luna E-6 No. 2"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in January 1963.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6-no-3",
+        "canonical": "Luna E-6 No.3",
+        "aliases": [
+          "Luna E-6 No. 3"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in February 1963.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-4-e-6-no-4",
+        "canonical": "Luna 4 (E-6 No.4)",
+        "aliases": [
+          "Luna 4",
+          "E-6 No.4"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in April 1963.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-6-p-54",
+        "canonical": "Ranger 6 (P-54)",
+        "aliases": [
+          "Ranger 6",
+          "P-54"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar impactor mission launched in January 1964.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6-no-6",
+        "canonical": "Luna E-6 No.6",
+        "aliases": [
+          "Luna E-6 No. 6"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in March 1964.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6-no-5",
+        "canonical": "Luna E-6 No.5",
+        "aliases": [
+          "Luna E-6 No. 5"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in April 1964.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-7",
+        "canonical": "Ranger 7",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar impactor launched in July 1964.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-8",
+        "canonical": "Ranger 8",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar impactor launched in February 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "kosmos-60-e-6-no-9",
+        "canonical": "Kosmos 60 (E-6 No.9)",
+        "aliases": [
+          "Kosmos 60",
+          "Cosmos 60",
+          "E-6 No.9"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in March 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ranger-9",
+        "canonical": "Ranger 9",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar impactor launched in March 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6-no-8",
+        "canonical": "Luna E-6 No.8",
+        "aliases": [
+          "Luna E-6 No. 8"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a failed lunar lander mission launched in April 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-5-e-6-no-10",
+        "canonical": "Luna 5 (E-6 No.10)",
+        "aliases": [
+          "Luna 5",
+          "E-6 No.10"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in May 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-6-e-6-no-7",
+        "canonical": "Luna 6 (E-6 No.7)",
+        "aliases": [
+          "Luna 6",
+          "E-6 No.7"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in June 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "zond-3-3mv-4-no-3",
+        "canonical": "Zond 3 (3MV-4 No.3)",
+        "aliases": [
+          "Zond 3",
+          "3MV-4 No.3"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby launched in July 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-7-e-6-no-11",
+        "canonical": "Luna 7 (E-6 No.11)",
+        "aliases": [
+          "Luna 7",
+          "E-6 No.11"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in October 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-8-e-6-no-12",
+        "canonical": "Luna 8 (E-6 No.12)",
+        "aliases": [
+          "Luna 8",
+          "E-6 No.12"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in December 1965.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-9-e-6-no-13",
+        "canonical": "Luna 9 (E-6 No.13)",
+        "aliases": [
+          "Luna 9",
+          "E-6 No.13"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in January 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "kosmos-111-e-6s-no-204",
+        "canonical": "Kosmos 111 (E-6S No.204)",
+        "aliases": [
+          "Kosmos 111",
+          "Cosmos 111",
+          "E-6S No.204"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in March 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-10-e-6s-no-206",
+        "canonical": "Luna 10 (E-6S No.206)",
+        "aliases": [
+          "Luna 10",
+          "E-6S No.206"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in March 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-1",
+        "canonical": "Surveyor 1",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in May 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "explorer-33-aimp-d",
+        "canonical": "Explorer 33 (AIMP-D)",
+        "aliases": [
+          "Explorer 33",
+          "AIMP-D"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in July 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-orbiter-1",
+        "canonical": "Lunar Orbiter 1",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter launched in August 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-11-e-6lf-no-101",
+        "canonical": "Luna 11 (E-6LF No.101)",
+        "aliases": [
+          "Luna 11",
+          "E-6LF No.101"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter launched in August 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-2",
+        "canonical": "Surveyor 2",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in September 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-12-e-6lf-no-102",
+        "canonical": "Luna 12 (E-6LF No.102)",
+        "aliases": [
+          "Luna 12",
+          "E-6LF No.102"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in October 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-orbiter-2",
+        "canonical": "Lunar Orbiter 2",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in November 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-13-e-6m-no-205",
+        "canonical": "Luna 13 (E-6M No.205)",
+        "aliases": [
+          "Luna 13",
+          "E-6M No.205"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in December 1966.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-orbiter-3",
+        "canonical": "Lunar Orbiter 3",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in February 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-3",
+        "canonical": "Surveyor 3",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in April 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-orbiter-4",
+        "canonical": "Lunar Orbiter 4",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in May 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-4",
+        "canonical": "Surveyor 4",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in July 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "explorer-35-aimp-e",
+        "canonical": "Explorer 35 (AIMP-E)",
+        "aliases": [
+          "Explorer 35",
+          "AIMP-E"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in July 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-orbiter-5",
+        "canonical": "Lunar Orbiter 5",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in August 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-5",
+        "canonical": "Surveyor 5",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in September 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1-no-4l",
+        "canonical": "Soyuz 7K-L1 No.4L",
+        "aliases": [
+          "Soyuz 7K-L1 No. 4L"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a failed lunar flyby attempt launched in September 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-6",
+        "canonical": "Surveyor 6",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in November 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1-no-5l",
+        "canonical": "Soyuz 7K-L1 No.5L",
+        "aliases": [
+          "Soyuz 7K-L1 No. 5L"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in November 1967.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "surveyor-7",
+        "canonical": "Surveyor 7",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in January 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-6ls-no-112",
+        "canonical": "Luna E-6LS No.112",
+        "aliases": [
+          "Luna E-6LS No. 112"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in February 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-14-e-6ls-no-113",
+        "canonical": "Luna 14 (E-6LS No.113)",
+        "aliases": [
+          "Luna 14",
+          "E-6LS No.113"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in April 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1-no-7l",
+        "canonical": "Soyuz 7K-L1 No.7L",
+        "aliases": [
+          "Soyuz 7K-L1 No. 7L"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in April 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "zond-5-7k-l1-no-9l",
+        "canonical": "Zond 5 (7K-L1 No.9L)",
+        "aliases": [
+          "Zond 5",
+          "7K-L1 No.9L"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby launched in September 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "zond-6-7k-l1-no-12l",
+        "canonical": "Zond 6 (7K-L1 No.12L)",
+        "aliases": [
+          "Zond 6",
+          "7K-L1 No.12L"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar flyby mission launched in November 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-8",
+        "canonical": "Apollo 8",
+        "aliases": [
+          "Apollo VIII"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful crewed lunar orbiter launched in December 1968.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1-no-13l",
+        "canonical": "Soyuz 7K-L1 No.13L",
+        "aliases": [
+          "Soyuz 7K-L1 No. 13L"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar flyby launched in January 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-8-no-201",
+        "canonical": "Luna E-8 No.201",
+        "aliases": [
+          "Luna E-8 No. 201"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander mission launched in February 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1s-no-3",
+        "canonical": "Soyuz 7K-L1S No.3",
+        "aliases": [
+          "Soyuz 7K-L1S No. 3"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in February 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-10",
+        "canonical": "Apollo 10",
+        "aliases": [
+          "Apollo X"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter mission launched in May 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-8-5-no-402",
+        "canonical": "Luna E-8-5 No.402",
+        "aliases": [
+          "Luna E-8-5 No. 402"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in June 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-l1s-no-5",
+        "canonical": "Soyuz 7K-L1S No.5",
+        "aliases": [
+          "Soyuz 7K-L1S No. 5"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in July 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-15-e-8-5-no-401",
+        "canonical": "Luna 15 (E-8-5 No.401)",
+        "aliases": [
+          "Luna 15",
+          "E-8-5 No.401"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in July 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-11",
+        "canonical": "Apollo 11",
+        "aliases": [
+          "Apollo XI"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the mission that accomplished the first crewed Moon landing.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "zond-7-7k-l1-no-11l",
+        "canonical": "Zond 7 (7K-L1 No.11L)",
+        "aliases": [
+          "Zond 7",
+          "7K-L1 No.11L"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby launched in August 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "kosmos-300-e-8-5-no-403",
+        "canonical": "Kosmos 300 (E-8-5 No.403)",
+        "aliases": [
+          "Kosmos 300",
+          "Cosmos 300",
+          "E-8-5 No.403"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in September 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "kosmos-305-e-8-5-no-404",
+        "canonical": "Kosmos 305 (E-8-5 No.404)",
+        "aliases": [
+          "Kosmos 305",
+          "Cosmos 305",
+          "E-8-5 No.404"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in October 1969.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-12",
+        "canonical": "Apollo 12",
+        "aliases": [
+          "Apollo XII"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the second crewed lunar landing mission.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-8-5-no-405",
+        "canonical": "Luna E-8-5 No.405",
+        "aliases": [
+          "Luna E-8-5 No. 405"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in February 1970.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-13",
+        "canonical": "Apollo 13",
+        "aliases": [
+          "Apollo XIII"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a mission that flew past the Moon after its landing was aborted.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-16-e-8-5-no-406",
+        "canonical": "Luna 16 (E-8-5 No.406)",
+        "aliases": [
+          "Luna 16",
+          "E-8-5 No.406"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in September 1970.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "zond-8-7k-l1-no-14l",
+        "canonical": "Zond 8 (7K-L1 No.14L)",
+        "aliases": [
+          "Zond 8",
+          "7K-L1 No.14L"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby launched in October 1970.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-17-e-8-no-203",
+        "canonical": "Luna 17 (E-8 No.203)",
+        "aliases": [
+          "Luna 17",
+          "E-8 No.203"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in November 1970.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-14",
+        "canonical": "Apollo 14",
+        "aliases": [
+          "Apollo XIV"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the third crewed lunar landing mission.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-15",
+        "canonical": "Apollo 15",
+        "aliases": [
+          "Apollo XV"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the fourth crewed lunar landing and first to use the Lunar Roving Vehicle.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pfs-1",
+        "canonical": "PFS-1",
+        "aliases": [
+          "PFS 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in July 1971.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-18-e-8-5-no-407",
+        "canonical": "Luna 18 (E-8-5 No.407)",
+        "aliases": [
+          "Luna 18",
+          "E-8-5 No.407"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in September 1971.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-19-e-8ls-no-202",
+        "canonical": "Luna 19 (E-8LS No.202)",
+        "aliases": [
+          "Luna 19",
+          "E-8LS No.202"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in September 1971.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-20-e-8-5-no-408",
+        "canonical": "Luna 20 (E-8-5 No.408)",
+        "aliases": [
+          "Luna 20",
+          "E-8-5 No.408"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in February 1972.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-16",
+        "canonical": "Apollo 16",
+        "aliases": [
+          "Apollo XVI"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the fifth crewed lunar landing mission.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "pfs-2",
+        "canonical": "PFS-2",
+        "aliases": [
+          "PFS 2"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in April 1972.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "soyuz-7k-lok-no-1",
+        "canonical": "Soyuz 7K-LOK No.1",
+        "aliases": [
+          "Soyuz 7K-LOK No. 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar orbiter launched in November 1972.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "apollo-17",
+        "canonical": "Apollo 17",
+        "aliases": [
+          "Apollo XVII"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the sixth and last crewed Apollo lunar landing.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-21-e-8-no-204",
+        "canonical": "Luna 21 (E-8 No.204)",
+        "aliases": [
+          "Luna 21",
+          "E-8 No.204"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in January 1973.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "explorer-49-rae-b",
+        "canonical": "Explorer 49 (RAE-B)",
+        "aliases": [
+          "Explorer 49",
+          "RAE-B"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in June 1973.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "mariner-10",
+        "canonical": "Mariner 10",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in November 1973.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-22-e-8ls-no-206",
+        "canonical": "Luna 22 (E-8LS No.206)",
+        "aliases": [
+          "Luna 22",
+          "E-8LS No.206"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in May 1974.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-23-e-8-5m-no-410",
+        "canonical": "Luna 23 (E-8-5M No.410)",
+        "aliases": [
+          "Luna 23",
+          "E-8-5M No.410"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a partially failed lunar lander launched in October 1974.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-e-8-5m-no-412",
+        "canonical": "Luna E-8-5M No.412",
+        "aliases": [
+          "Luna E-8-5M No. 412"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an attempted lunar lander launched in October 1975.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-24-e-8-5m-no-413",
+        "canonical": "Luna 24 (E-8-5M No.413)",
+        "aliases": [
+          "Luna 24",
+          "E-8-5M No.413"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander launched in August 1976.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "isee-3-ice-explorer-59",
+        "canonical": "ISEE-3 (ICE/Explorer 59)",
+        "aliases": [
+          "ISEE-3",
+          "ISEE 3",
+          "ICE",
+          "Explorer 59"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in August 1978.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "hiten-muses-a",
+        "canonical": "Hiten (MUSES-A)",
+        "aliases": [
+          "Hiten",
+          "MUSES-A"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in January 1990.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "geotail",
+        "canonical": "Geotail",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in July 1992.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "wind",
+        "canonical": "WIND",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in November 1994.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "clementine-dspse",
+        "canonical": "Clementine (DSPSE)",
+        "aliases": [
+          "Clementine",
+          "DSPSE"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in January 1994.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "hgs-1",
+        "canonical": "HGS-1",
+        "aliases": [
+          "HGS 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in December 1997.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-prospector-discovery-3",
+        "canonical": "Lunar Prospector (Discovery 3)",
+        "aliases": [
+          "Lunar Prospector",
+          "Discovery 3"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in January 1998.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "nozomi-planet-b",
+        "canonical": "Nozomi (PLANET-B)",
+        "aliases": [
+          "Nozomi",
+          "PLANET-B"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in July 1998.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "wmap",
+        "canonical": "WMAP",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in June 2001.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "smart-1",
+        "canonical": "SMART-1",
+        "aliases": [
+          "SMART 1"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in September 2003.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "stereo",
+        "canonical": "STEREO",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar flyby mission launched in October 2006.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "artemis",
+        "canonical": "ARTEMIS",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the mission that moved two THEMIS spacecraft into lunar orbit.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "selene",
+        "canonical": "SELENE",
+        "aliases": [
+          "Kaguya"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter mission launched in September 2007.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-1",
+        "canonical": "Chang'e 1",
+        "aliases": [
+          "Chang'e-1",
+          "Change 1",
+          "Chang’e 1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in October 2007.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chandrayaan-1",
+        "canonical": "Chandrayaan-1",
+        "aliases": [
+          "Chandrayaan 1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in October 2008.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lro-lcross",
+        "canonical": "LRO & LCROSS",
+        "aliases": [
+          "LRO",
+          "LCROSS",
+          "Lunar Reconnaissance Orbiter",
+          "LRO and LCROSS"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The tables group the Lunar Reconnaissance Orbiter and LCROSS under one mission entry.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-2",
+        "canonical": "Chang'e 2",
+        "aliases": [
+          "Chang'e-2",
+          "Change 2",
+          "Chang’e 2"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in October 2010.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "grail",
+        "canonical": "GRAIL",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter mission launched in September 2011.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "ladee",
+        "canonical": "LADEE",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar orbiter launched in September 2013.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-3",
+        "canonical": "Chang'e 3",
+        "aliases": [
+          "Chang'e-3",
+          "Change 3",
+          "Chang’e 3"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in December 2013.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-5-t1",
+        "canonical": "Chang'e 5-T1",
+        "aliases": [
+          "Chang'e-5-T1",
+          "Change 5-T1",
+          "Chang’e 5-T1"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter mission launched in October 2014.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "tess",
+        "canonical": "TESS",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in April 2018.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "queqiao",
+        "canonical": "Queqiao",
+        "aliases": [
+          "Queqiao relay satellite"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar relay mission launched in May 2018.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-4",
+        "canonical": "Chang'e 4",
+        "aliases": [
+          "Chang'e-4",
+          "Change 4",
+          "Chang’e 4"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the first spacecraft to soft-land on the Moon's far side.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "beresheet",
+        "canonical": "Beresheet",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in February 2019.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chandrayaan-2",
+        "canonical": "Chandrayaan-2",
+        "aliases": [
+          "Chandrayaan 2"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar mission launched in July 2019 with an operational orbiter.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-5",
+        "canonical": "Chang'e 5",
+        "aliases": [
+          "Chang'e-5",
+          "Change 5",
+          "Chang’e 5"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as China's first lunar sample-return mission.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "capstone",
+        "canonical": "CAPSTONE",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter mission launched in June 2022.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "danuri",
+        "canonical": "Danuri",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter mission launched in August 2022.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "artemis-i",
+        "canonical": "Artemis I",
+        "aliases": [
+          "Artemis 1"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an uncrewed Orion test involving lunar flyby and distant retrograde orbit.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "hakuto-r-mission-1",
+        "canonical": "Hakuto-R Mission 1",
+        "aliases": [
+          "Hakuto-R M1",
+          "Hakuto R Mission 1",
+          "Hakuto-R 1"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in December 2022.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "jupiter-icy-moons-explorer",
+        "canonical": "Jupiter Icy Moons Explorer",
+        "aliases": [
+          "JUICE"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as having flown by the Moon in August 2024 on its way to Jupiter.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chandrayaan-3",
+        "canonical": "Chandrayaan-3",
+        "aliases": [
+          "Chandrayaan 3"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar mission launched in July 2023.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "luna-25",
+        "canonical": "Luna 25",
+        "aliases": [
+          "Luna-25"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in August 2023.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "slim",
+        "canonical": "SLIM",
+        "aliases": [],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander mission launched in September 2023.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "peregrine-mission-one",
+        "canonical": "Peregrine Mission One",
+        "aliases": [
+          "Peregrine",
+          "Peregrine Mission 1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a failed lunar lander mission launched in January 2024.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "im-1",
+        "canonical": "IM-1",
+        "aliases": [
+          "IM 1",
+          "Odysseus",
+          "Nova-C Odysseus",
+          "Intuitive Machines 1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander mission launched in February 2024.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "dro-a-b",
+        "canonical": "DRO A/B",
+        "aliases": [
+          "DRO-A/B",
+          "DRO A and B"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a relay-satellite mission launched in March 2024.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "queqiao-2",
+        "canonical": "Queqiao-2",
+        "aliases": [
+          "Queqiao 2"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar relay-satellite mission launched in March 2024.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chang-e-6",
+        "canonical": "Chang'e 6",
+        "aliases": [
+          "Chang'e-6",
+          "Change 6",
+          "Chang’e 6"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as the first mission to collect samples from the Moon's far side.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "blue-ghost-m1",
+        "canonical": "Blue Ghost M1",
+        "aliases": [
+          "Blue Ghost Mission 1",
+          "Blue Ghost 1"
+        ],
+        "familiarity": 0.0136,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar lander mission launched in January 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "hakuto-r-mission-2",
+        "canonical": "Hakuto-R Mission 2",
+        "aliases": [
+          "Hakuto-R M2",
+          "Hakuto R Mission 2",
+          "Hakuto-R 2"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar lander mission launched in January 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "lunar-trailblazer",
+        "canonical": "Lunar Trailblazer",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar orbiter mission launched in February 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "brokkr-2",
+        "canonical": "Brokkr-2",
+        "aliases": [
+          "Brokkr 2"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a lunar flyby mission launched in February 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "chimera-1",
+        "canonical": "Chimera-1",
+        "aliases": [
+          "Chimera 1"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in February 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "im-2",
+        "canonical": "IM-2",
+        "aliases": [
+          "IM 2",
+          "Intuitive Machines 2",
+          "Nova-C Athena",
+          "Athena"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a partially failed lunar lander mission launched in February 2025.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      },
+      {
+        "id": "artemis-ii",
+        "canonical": "Artemis II",
+        "aliases": [
+          "Artemis 2"
+        ],
+        "familiarity": 0.0341,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a successful lunar flyby mission launched in April 2026.",
+        "sourceIds": [
+          "list-of-missions-to-the-moon"
+        ]
+      }
+    ],
+    "explanation": "The source lists 145 launched missions, including unsuccessful attempts, crewed expeditions, robotic exploration and spacecraft making lunar flybys. This question uses mission-level entries, not separately listed component spacecraft or future missions.",
+    "sources": [
+      {
+        "id": "list-of-missions-to-the-moon",
+        "title": "List of missions to the Moon",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_missions_to_the_Moon",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "fc7620d30ed6a18d",
+    "brief": "Name a spacecraft mission that has been sent to the Moon.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-missions-to-the-moon",
+        "version": "1380188613",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Pioneer 0 (Able I)": "1 | Pioneer 0 (Able I) | 17 August 1958 | USAF | Thor DM-18 Able I | Pioneer 0 | Orbiter | Launch failure",
+      "Luna E-1 No.1": "2 | Luna E-1 No.1 | 23 September 1958 | OKB-1 | Luna | Luna E-1 No.1 | Impactor | Launch failure",
+      "Pioneer 1 (Able II)": "3 | Pioneer 1 (Able II) | 11 October 1958 | NASA | Thor DM-18 Able I | Pioneer 1 | Orbiter | Launch failure",
+      "Luna E-1 No.2": "4 | Luna E-1 No.2 | 11 October 1958 | OKB-1 | Luna | Luna E-1 No.2 | Impactor | Launch failure",
+      "Pioneer 2 (Able III)": "5 | Pioneer 2 (Able III) | 8 November 1958 | NASA | Thor DM-18 Able I | Pioneer 2 | Orbiter | Launch failure",
+      "Luna E-1 No.3": "6 | Luna E-1 No.3 | 4 December 1958 | OKB-1 | Luna | Luna E-1 No.3 | Impactor | Launch failure",
+      "Pioneer 3": "7 | Pioneer 3 | 6 December 1958 | NASA | Juno II | Pioneer 3 | Flyby | Launch failure",
+      "Luna 1 (E-1 No.4)": "8 | Luna 1 (E-1 No.4) | 2 January 1959 | OKB-1 | Luna | Luna 1 | Impactor | Partial failure",
+      "Pioneer 4": "9 | Pioneer 4 | 3 March 1959 | NASA | Juno II | Pioneer 4 | Flyby | Partial failure",
+      "E-1A No.1": "10 | E-1A No.1 | 18 June 1959 | OKB-1 | Luna | E-1A No.1 | Impactor | Launch failure",
+      "Luna 2 (E-1A No.2)": "11 | Luna 2 (E-1A No.2) | 12 September 1959 | OKB-1 | Luna | Luna 2 | Impactor | Success",
+      "Luna 3 (E-2A No.1)": "12 | Luna 3 (E-2A No.1) | 4 October 1959 | OKB-1 | Luna | Luna 3 | Flyby | Success",
+      "Pioneer P-3 Able IVB": "13 | Pioneer P-3 Able IVB | 26 November 1959 | NASA | Atlas-D Able | Pioneer P-3 | Orbiter | Launch failure",
+      "Luna E-3 No.1": "14 | Luna E-3 No.1 | 15 April 1960 | OKB-1 | Luna | Luna E-3 No.1 | Flyby | Launch failure",
+      "Luna E-3 No.2": "15 | Luna E-3 No.2 | 16 April 1960 | OKB-1 | Luna | Luna E-3 No.2 | Flyby | Launch failure",
+      "Pioneer P-30 (Able VA)": "16 | Pioneer P-30 (Able VA) | 25 September 1960 | NASA | Atlas-D Able | Pioneer P-30 | Orbiter | Launch failure",
+      "Pioneer P-31 (Able VB)": "17 | Pioneer P-31 (Able VB) | 15 December 1960 | NASA | Atlas-D Able | Pioneer P-31 | Orbiter | Launch failure",
+      "Ranger 3 (P-34)": "18 | Ranger 3 (P-34) | 26 January 1962 | NASA | Atlas LV-3 Agena-B | Ranger 3 | Impactor | Spacecraft failure",
+      "Ranger 4 (P-35)": "19 | Ranger 4 (P-35) | 23 April 1962 | NASA | Atlas LV-3 Agena-B | Ranger 4 | Impactor | Spacecraft failure",
+      "Ranger 5 (P-36)": "20 | Ranger 5 (P-36) | 18 October 1962 | NASA | Atlas LV-3 Agena-B | Ranger 5 | Impactor | Spacecraft failure",
+      "Luna E-6 No.2": "21 | Luna E-6 No.2 | 4 January 1963 | OKB-1 | Molniya-L | Luna E-6 No.2 | Lander | Launch failure",
+      "Luna E-6 No.3": "22 | Luna E-6 No.3 | 3 February 1963 | OKB-1 | Molniya-L | Luna E-6 No.3 | Lander | Launch failure",
+      "Luna 4 (E-6 No.4)": "23 | Luna 4 (E-6 No.4) | 2 April 1963 | OKB-1 | Molniya-L | Luna 4 | Lander | Spacecraft failure",
+      "Ranger 6 (P-54)": "24 | Ranger 6 (P-54) | 30 January 1964 | NASA | Atlas LV-3 Agena-B | Ranger 6 | Impactor | Spacecraft failure",
+      "Luna E-6 No.6": "25 | Luna E-6 No.6 | 21 March 1964 | OKB-1 | Molniya-M | Luna E-6 No.6 | Lander | Launch failure",
+      "Luna E-6 No.5": "26 | Luna E-6 No.5 | 20 April 1964 | OKB-1 | Molniya-M | Luna E-6 No.5 | Lander | Launch failure",
+      "Ranger 7": "27 | Ranger 7 | 28 July 1964 | NASA | Atlas LV-3 Agena-B | Ranger 7 | Impactor | Success",
+      "Ranger 8": "28 | Ranger 8 | 17 February 1965 | NASA | Atlas LV-3 Agena-B | Ranger 8 | Impactor | Success",
+      "Kosmos 60 (E-6 No.9)": "29 | Kosmos 60 (E-6 No.9) | 12 March 1965 | Lavochkin | Molniya-L | Kosmos 60 | Lander | Launch failure",
+      "Ranger 9": "30 | Ranger 9 | 21 March 1965 | NASA | Atlas LV-3 Agena-B | Ranger 9 | Impactor | Success",
+      "Luna E-6 No.8": "31 | Luna E-6 No.8 | 10 April 1965 | Lavochkin | Molniya-L | Luna E-6 No.8 | Lander | Spacecraft failure",
+      "Luna 5 (E-6 No.10)": "32 | Luna 5 (E-6 No.10) | 9 May 1965 | Lavochkin | Molniya-M | Luna 5 | Lander | Spacecraft failure",
+      "Luna 6 (E-6 No.7)": "33 | Luna 6 (E-6 No.7) | 8 June 1965 | Lavochkin | Molniya-M | Luna 6 | Lander | Spacecraft failure",
+      "Zond 3 (3MV-4 No.3)": "34 | Zond 3 (3MV-4 No.3) | 18 July 1965 | Lavochkin | Molniya | Zond 3 | Flyby | Success",
+      "Luna 7 (E-6 No.11)": "35 | Luna 7 (E-6 No.11) | 4 October 1965 | Lavochkin | Molniya | Luna 7 | Lander | Spacecraft failure",
+      "Luna 8 (E-6 No.12)": "36 | Luna 8 (E-6 No.12) | 3 December 1965 | Lavochkin | Molniya | Luna 8 | Lander | Spacecraft failure",
+      "Luna 9 (E-6 No.13)": "37 | Luna 9 (E-6 No.13) | 31 January 1966 | Lavochkin | Molniya-M | Luna 9 | Lander | Success",
+      "Kosmos 111 (E-6S No.204)": "38 | Kosmos 111 (E-6S No.204) | 1 March 1966 | Lavochkin | Molniya-M | Kosmos 111 | Orbiter | Launch failure",
+      "Luna 10 (E-6S No.206)": "39 | Luna 10 (E-6S No.206) | 31 March 1966 | Lavochkin | Molniya-M | Luna 10 | Orbiter | Success",
+      "Surveyor 1": "40 | Surveyor 1 | 30 May 1966 | NASA | Atlas LV-3C Centaur-D | Surveyor 1 | Lander | Success",
+      "Explorer 33 (AIMP-D)": "41 | Explorer 33 (AIMP-D) | 1 July 1966 | NASA | Delta E1 | Explorer 33 | Orbiter | Launch failure",
+      "Lunar Orbiter 1": "42 | Lunar Orbiter 1 | 10 August 1966 | NASA | Atlas SLV-3 Agena-D | Lunar Orbiter 1 | Orbiter | Partial failure",
+      "Luna 11 (E-6LF No.101)": "43 | Luna 11 (E-6LF No.101) | 21 August 1966 | Lavochkin | Molniya-M | Luna 11 | Orbiter | Partial failure",
+      "Surveyor 2": "44 | Surveyor 2 | 20 September 1966 | NASA | Atlas LV-3C Centaur-D | Surveyor 2 | Lander | Spacecraft failure",
+      "Luna 12 (E-6LF No.102)": "45 | Luna 12 (E-6LF No.102) | 22 October 1966 | Lavochkin | Molniya-M | Luna 12 | Orbiter | Success",
+      "Lunar Orbiter 2": "46 | Lunar Orbiter 2 | 6 November 1966 | NASA | Atlas SLV-3 Agena-D | Lunar Orbiter 2 | Orbiter | Success",
+      "Luna 13 (E-6M No.205)": "47 | Luna 13 (E-6M No.205) | 21 December 1966 | Lavochkin | Molniya-M | Luna 13 | Lander | Success",
+      "Lunar Orbiter 3": "48 | Lunar Orbiter 3 | 5 February 1967 | NASA | Atlas SLV-3 Agena-D | Lunar Orbiter 3 | Orbiter | Success",
+      "Surveyor 3": "49 | Surveyor 3 | 17 April 1967 | NASA | Atlas LV-3C Centaur-D | Surveyor 3 | Lander | Success",
+      "Lunar Orbiter 4": "50 | Lunar Orbiter 4 | 4 May 1967 | NASA | Atlas SLV-3 Agena-D | Lunar Orbiter 4 | Orbiter | Success",
+      "Surveyor 4": "51 | Surveyor 4 | 14 July 1967 | NASA | Atlas LV-3C Centaur-D | Surveyor 4 | Lander | Spacecraft failure",
+      "Explorer 35 (AIMP-E)": "52 | Explorer 35 (AIMP-E) | 19 July 1967 | NASA | Delta E1 | Explorer 35 (AIMP-E) | Orbiter | Success",
+      "Lunar Orbiter 5": "53 | Lunar Orbiter 5 | 1 August 1967 | NASA | Atlas SLV-3 Agena-D | Lunar Orbiter 5 | Orbiter | Success",
+      "Surveyor 5": "54 | Surveyor 5 | 8 September 1967 | NASA | Atlas SLV-3C Centaur-D | Surveyor 5 | Lander | Success",
+      "Soyuz 7K-L1 No.4L": "55 | Soyuz 7K-L1 No.4L | 27 September 1967 | Lavochkin | Proton-K/D | Soyuz 7K-L1 No.4L | Flyby | Spacecraft failure",
+      "Surveyor 6": "56 | Surveyor 6 | 7 November 1967 | NASA | Atlas SLV-3C Centaur-D | Surveyor 6 | Lander | Success",
+      "Soyuz 7K-L1 No.5L": "57 | Soyuz 7K-L1 No.5L | 22 November 1967 | Lavochkin | Proton-K/D | Soyuz 7K-L1 No.5L | Flyby | Launch failure",
+      "Surveyor 7": "58 | Surveyor 7 | 7 January 1968 | NASA | Atlas SLV-3C Centaur-D | Surveyor 7 | Lander | Success",
+      "Luna E-6LS No.112": "59 | Luna E-6LS No.112 | 7 February 1968 | Lavochkin | Molniya-M | Luna E-6LS No.112 | Orbiter | Launch failure",
+      "Luna 14 (E-6LS No.113)": "60 | Luna 14 (E-6LS No.113) | 7 April 1968 | Lavochkin | Molniya-M | Luna 14 | Orbiter | Success",
+      "Soyuz 7K-L1 No.7L": "61 | Soyuz 7K-L1 No.7L | 22 April 1968 | Lavochkin | Proton-K/D | Soyuz 7K-L1 No.7L | Flyby | Launch failure",
+      "Zond 5 (7K-L1 No.9L)": "62 | Zond 5 (7K-L1 No.9L) | 14 September 1968 | Lavochkin | Proton-K/D | Zond 5 | Flyby | Success",
+      "Zond 6 (7K-L1 No.12L)": "63 | Zond 6 (7K-L1 No.12L) | 10 November 1968 | Lavochkin | Proton-K/D | Zond 6 | Flyby | Spacecraft failure",
+      "Apollo 8": "64 | Apollo 8 | 21 December 1968 | NASA | Saturn V | Apollo 8 | Crewed orbiter | Success",
+      "Soyuz 7K-L1 No.13L": "65 | Soyuz 7K-L1 No.13L | 20 January 1969 | Lavochkin | Proton-K/D | Soyuz 7K-L1 No.13L | Flyby | Launch failure",
+      "Luna E-8 No.201": "66 | Luna E-8 No.201 | 19 February 1969 | Lavochkin | Proton-K/D | Luna E-8 No.201 | Lander | Launch failure",
+      "Soyuz 7K-L1S No.3": "67 | Soyuz 7K-L1S No.3 | 21 February 1969 | OKB-1 | N1 | Soyuz 7K-L1S No.3 | Orbiter | Launch failure",
+      "Apollo 10": "68 | Apollo 10 | 18 May 1969 | NASA | Saturn V | Apollo 10 | Orbiter | Success",
+      "Luna E-8-5 No.402": "69 | Luna E-8-5 No.402 | 14 June 1969 | Lavochkin | Proton-K/D | Luna E-8-5 No.402 | Lander | Launch failure",
+      "Soyuz 7K-L1S No.5": "70 | Soyuz 7K-L1S No.5 | 3 July 1969 | OKB-1 | N1 | Soyuz 7K-L1S No.5 | Orbiter | Launch failure",
+      "Luna 15 (E-8-5 No.401)": "71 | Luna 15 (E-8-5 No.401) | 13 July 1969 | Lavochkin | Proton-K/D | Luna 15 | Lander | Spacecraft failure",
+      "Apollo 11": "72 | Apollo 11 | First crewed landing on the Moon. The Lunar Module Eagle landed at 20:17 UTC on 20 July 1969.",
+      "Zond 7 (7K-L1 No.11L)": "73 | Zond 7 (7K-L1 No.11L) | 7 August 1969 | Lavochkin | Proton-K/D | Zond 7 | Flyby | Success",
+      "Kosmos 300 (E-8-5 No.403)": "74 | Kosmos 300 (E-8-5 No.403) | 23 September 1969 | Lavochkin | Proton-K/D | Kosmos 300 | Lander | Launch failure",
+      "Kosmos 305 (E-8-5 No.404)": "75 | Kosmos 305 (E-8-5 No.404) | 22 October 1969 | Lavochkin | Proton-K/D | Kosmos 305 | Lander | Launch failure",
+      "Apollo 12": "76 | Apollo 12 | Second crewed lunar landing.",
+      "Luna E-8-5 No.405": "77 | Luna E-8-5 No.405 | 6 February 1970 | Lavochkin | Proton-K/D | Luna E-8-5 No.405 | Lander | Launch failure",
+      "Apollo 13": "78 | Apollo 13 | Lunar landing aborted following Service Module oxygen tank explosion en route to the Moon; flew past the Moon (free-return trajectory) and returned the crew safely to Earth.",
+      "Luna 16 (E-8-5 No.406)": "79 | Luna 16 (E-8-5 No.406) | 12 September 1970 | Lavochkin | Proton-K/D | Luna 16 | Lander | Success",
+      "Zond 8 (7K-L1 No.14L)": "80 | Zond 8 (7K-L1 No.14L) | 20 October 1970 | Lavochkin | Proton-K/D | Zond 8 | Flyby | Success",
+      "Luna 17 (E-8 No.203)": "81 | Luna 17 (E-8 No.203) | 10 November 1970 | Lavochkin | Proton-K/D | Luna 17 | Lander | Success",
+      "Apollo 14": "82 | Apollo 14 | Third crewed lunar landing.",
+      "Apollo 15": "83 | Apollo 15 | Fourth crewed lunar landing, and first to use the Lunar Roving Vehicle.",
+      "PFS-1": "84 | PFS-1 | 26 July 1971 | NASA | Saturn V | PFS-1 | Orbiter | Success",
+      "Luna 18 (E-8-5 No.407)": "85 | Luna 18 (E-8-5 No.407) | 2 September 1971 | Lavochkin | Proton-K/D | Luna 18 | Lander | Spacecraft failure",
+      "Luna 19 (E-8LS No.202)": "86 | Luna 19 (E-8LS No.202) | 28 September 1971 | Lavochkin | Proton-K/D | Luna 19 | Orbiter | Success",
+      "Luna 20 (E-8-5 No.408)": "87 | Luna 20 (E-8-5 No.408) | 14 February 1972 | Lavochkin | Proton-K/D | Luna 20 | Lander | Success",
+      "Apollo 16": "88 | Apollo 16 | 5th crewed lunar landing.",
+      "PFS-2": "89 | PFS-2 | 16 April 1972 | NASA | Saturn V | PFS-2 | Orbiter | Success",
+      "Soyuz 7K-LOK No.1": "90 | Soyuz 7K-LOK No.1 | 23 November 1972 | OKB-1 | N1 | Soyuz 7K-LOK No.1 | Orbiter | Launch failure",
+      "Apollo 17": "91 | Apollo 17 | Sixth and last crewed Apollo lunar landing and last use of the Lunar Roving Vehicle; the orbiting command module included five mice.",
+      "Luna 21 (E-8 No.204)": "92 | Luna 21 (E-8 No.204) | 8 January 1973 | Lavochkin | Proton-K/D | Luna 21 | Lander | Success",
+      "Explorer 49 (RAE-B)": "93 | Explorer 49 (RAE-B) | 10 June 1973 | NASA | Delta 1913 | Explorer 49 | Orbiter | Success",
+      "Mariner 10": "94 | Mariner 10 | 3 November 1973 | NASA | Atlas SLV-3D Centaur-D1A | Mariner 10 | Flyby | Success",
+      "Luna 22 (E-8LS No.206)": "95 | Luna 22 (E-8LS No.206) | 29 May 1974 | Lavochkin | Proton-K/D | Luna 22 | Orbiter | Success",
+      "Luna 23 (E-8-5M No.410)": "96 | Luna 23 (E-8-5M No.410) | 28 October 1974 | Lavochkin | Proton-K/D | Luna 23 | Lander | Partial failure",
+      "Luna E-8-5M No.412": "97 | Luna E-8-5M No.412 | 16 October 1975 | Lavochkin | Proton-K/D | Luna E-8-5M No.412 | Lander | Launch failure",
+      "Luna 24 (E-8-5M No.413)": "98 | Luna 24 (E-8-5M No.413) | 9 August 1976 | Lavochkin | Proton-K/D | Luna 24 | Lander | Success",
+      "ISEE-3 (ICE/Explorer 59)": "99 | ISEE-3 (ICE/Explorer 59) | 12 August 1978 | NASA | Delta 2914 | ISEE-3 | Flyby | Success",
+      "Hiten (MUSES-A)": "100 | Hiten (MUSES-A) | 24 January 1990 | ISAS | Mu-3S-II | Hiten | Orbiter | Success",
+      "Geotail": "101 | Geotail | 24 July 1992 | ISAS/NASA | Delta II 6925 | Geotail | Flyby | Success",
+      "WIND": "102 | WIND | 1 November 1994 | NASA | Delta II 7925-10 | WIND | Flyby | Success",
+      "Clementine (DSPSE)": "103 | Clementine (DSPSE) | 25 January 1994 | USAF/NASA | Titan II (23)G Star-37FM | Clementine | Orbiter | Success",
+      "HGS-1": "104 | HGS-1 | 24 December 1997 | Hughes | Proton-K/DM3 | HGS-1 | Flyby | Success",
+      "Lunar Prospector (Discovery 3)": "105 | Lunar Prospector (Discovery 3) | 7 January 1998 | NASA | Athena II | Lunar Prospector | Orbiter | Success",
+      "Nozomi (PLANET-B)": "106 | Nozomi (PLANET-B) | 3 July 1998 | ISAS | M-V | Nozomi | Flyby | Success",
+      "WMAP": "107 | WMAP | 30 June 2001 | NASA | Delta II 7425-10 | WMAP | Flyby | Success",
+      "SMART-1": "108 | SMART-1 | 27 September 2003 | ESA | Ariane 5G | SMART-1 | Orbiter | Success",
+      "STEREO": "109 | STEREO | 25 October 2006 | NASA | Delta II 7925-10L | STEREO A | Flyby | Success",
+      "ARTEMIS": "110 | ARTEMIS | Two THEMIS spacecraft moved to selenocentric orbit for extended mission; entered orbit July 2011.",
+      "SELENE": "111 | SELENE | 14 September 2007 | JAXA | H-IIA 2022 | Kaguya | Orbiter | Success",
+      "Chang'e 1": "112 | Chang'e 1 | 24 October 2007 | CNSA | Long March 3A | Chang'e 1 | Orbiter | Success",
+      "Chandrayaan-1": "113 | Chandrayaan-1 | 22 October 2008 | ISRO | PSLV-XL C11 | Chandrayaan-1 | Orbiter | Success",
+      "LRO & LCROSS": "114 | LRO & LCROSS | 18 June 2009 | NASA | Atlas V 401 | Lunar Reconnaissance Orbiter | Orbiter | Operational\n114 | LRO & LCROSS | 18 June 2009 | NASA | Atlas V 401 | LCROSS | Impactor | Success",
+      "Chang'e 2": "115 | Chang'e 2 | 1 October 2010 | CNSA | Long March 3C | Chang'e 2 | Orbiter | Success",
+      "GRAIL": "116 | GRAIL | 10 September 2011 | NASA | Delta II 7920H | Ebb (GRAIL-A) | Orbiter | Success",
+      "LADEE": "117 | LADEE | 7 September 2013 | NASA | Minotaur V | LADEE | Orbiter | Success",
+      "Chang'e 3": "118 | Chang'e 3 | 1 December 2013 | CNSA | Long March 3B | Chang'e 3 | Lander | Operational",
+      "Chang'e 5-T1": "119 | Chang'e 5-T1 | 23 October 2014 | CNSA | Long March 3C | Chang'e 5-T1 | Orbiter | Operational",
+      "TESS": "120 | TESS | 18 April 2018 | NASA | Falcon 9 Full Thrust | TESS | Flyby | Success",
+      "Queqiao": "121 | Queqiao | 21 May 2018 | CNSA | Long March 4C | Queqiao relay satellite | Relay Satellite | Operational",
+      "Chang'e 4": "122 | Chang'e 4 | First spacecraft to soft land on the far side of the Moon (South Pole–Aitken basin). Landed 3 January 2019 and deployed the Yutu-2 rover.",
+      "Beresheet": "123 | Beresheet | 22 February 2019 | SpaceIL | Falcon 9 | Beresheet | Lander | Spacecraft failure",
+      "Chandrayaan-2": "124 | Chandrayaan-2 | 22 July 2019 | ISRO | LVM3 | Chandrayaan-2 Orbiter | Orbiter | Operational",
+      "Chang'e 5": "125 | Chang'e 5 | First lunar sample return mission from China, which returned 1.731 kg (61.1 oz) of lunar samples on 16 December 2020.",
+      "CAPSTONE": "126 | CAPSTONE | 28 June 2022 | NASA | Electron | ⚀ CAPSTONE | Orbiter | Operational",
+      "Danuri": "127 | Danuri | 4 August 2022 | KARI | Falcon 9 | Danuri | Orbiter | Operational",
+      "Artemis I": "128 | Artemis I | Uncrewed test of Orion spacecraft in lunar flyby and lunar Distant retrograde orbit.",
+      "Hakuto-R Mission 1": "129 | Hakuto-R Mission 1 | 11 December 2022 | ispace | Falcon 9 Block 5 | Hakuto-R | Lander | Spacecraft failure",
+      "Jupiter Icy Moons Explorer": "130 | Jupiter Icy Moons Explorer | Flew by the Moon on 19 August 2024 en route to Jupiter.",
+      "Chandrayaan-3": "131 | Chandrayaan-3 | 14 July 2023 | ISRO | LVM3 | Vikram | Lander | Success",
+      "Luna 25": "132 | Luna 25 | 10 August 2023 | Roscosmos | Soyuz-2.1b/Fregat | Luna 25 | Lander | Spacecraft failure",
+      "SLIM": "133 | SLIM | 6 September 2023 | JAXA | H-IIA | SLIM | Lander | Success",
+      "Peregrine Mission One": "134 | Peregrine Mission One | 8 January 2024 | Astrobotic Technology | Vulcan Centaur VC2 | Peregrine | Lander | Spacecraft failure",
+      "IM-1": "135 | IM-1 | 14 February 2024 | Intuitive Machines | Falcon 9 B5 | Nova-C Odysseus | Lander | Success",
+      "DRO A/B": "136 | DRO A/B | 13 March 2024 | CAS | Long March 2C | DRO-A | Relay Satellite | Operational",
+      "Queqiao-2": "137 | Queqiao-2 | 20 March 2024 | CNSA | Long March 8 | Queqiao-2 | Relay Satellite | Operational",
+      "Chang'e 6": "138 | Chang'e 6 | First spacecraft to have collected lunar samples from the far side of the Moon (Apollo crater, South Pole–Aitken basin).",
+      "Blue Ghost M1": "139 | Blue Ghost M1 | 15 January 2025 | Firefly Aerospace | Falcon 9 B5 | Blue Ghost Lander | Lander | Success",
+      "Hakuto-R Mission 2": "140 | Hakuto-R Mission 2 | 15 January 2025 | ispace | Falcon 9 B5 | Hakuto-R | Lander | Spacecraft failure",
+      "Lunar Trailblazer": "141 | Lunar Trailblazer | 27 February 2025 | NASA | Falcon 9 B5 | Lunar Trailblazer | Orbiter | Spacecraft failure",
+      "Brokkr-2": "142 | Brokkr-2 | 27 February 2025 | AstroForge | Falcon 9 B5 | Brokkr-2 | Flyby | Spacecraft failure",
+      "Chimera-1": "143 | Chimera-1 | 27 February 2025 | Epic Aerospace | Falcon 9 B5 | Chimera-1 | Flyby | Success",
+      "IM-2": "144 | IM-2 | 27 February 2025 | Intuitive Machines | Falcon 9 B5 | Nova-C | Lander | Partial failure",
+      "Artemis II": "145 | Artemis II | 1 April 2026 | NASA | SLS Block 1 | Orion CM-003 | Flyby | Success"
+    },
+    "issues": []
+  }
+}

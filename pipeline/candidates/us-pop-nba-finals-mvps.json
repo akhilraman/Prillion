@@ -1,0 +1,583 @@
+{
+  "question": {
+    "id": "us-pop-nba-finals-mvps",
+    "category": "us-pop",
+    "prompt": "Name a player who has won the NBA Finals MVP award.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "jerry-west",
+        "canonical": "Jerry West",
+        "aliases": [
+          "West"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jerry West won the inaugural NBA Finals MVP award in 1969.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "willis-reed",
+        "canonical": "Willis Reed",
+        "aliases": [
+          "Reed"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Willis Reed won NBA Finals MVP in 1970 and 1973.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kareem-abdul-jabbar",
+        "canonical": "Kareem Abdul-Jabbar",
+        "aliases": [
+          "Kareem",
+          "Abdul-Jabbar",
+          "Kareem Abdul Jabbar",
+          "Lew Alcindor"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kareem Abdul-Jabbar won NBA Finals MVP in 1971 and 1985.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "wilt-chamberlain",
+        "canonical": "Wilt Chamberlain",
+        "aliases": [
+          "Wilt",
+          "Chamberlain"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilt Chamberlain won NBA Finals MVP with the Lakers in 1972.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "john-havlicek",
+        "canonical": "John Havlicek",
+        "aliases": [
+          "Havlicek"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Havlicek won NBA Finals MVP with the Celtics in 1974.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "rick-barry",
+        "canonical": "Rick Barry",
+        "aliases": [
+          "Barry"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Barry won NBA Finals MVP with the Warriors in 1975.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jo-jo-white",
+        "canonical": "Jo Jo White",
+        "aliases": [
+          "JoJo White",
+          "Jojo White",
+          "Jo Jo"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jo Jo White won NBA Finals MVP with the Celtics in 1976.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bill-walton",
+        "canonical": "Bill Walton",
+        "aliases": [
+          "Walton"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Walton won NBA Finals MVP with the Trail Blazers in 1977.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "wes-unseld",
+        "canonical": "Wes Unseld",
+        "aliases": [
+          "Unseld"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wes Unseld won NBA Finals MVP with the Washington Bullets in 1978.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dennis-johnson",
+        "canonical": "Dennis Johnson",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dennis Johnson won NBA Finals MVP with the Seattle SuperSonics in 1979.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "magic-johnson",
+        "canonical": "Magic Johnson",
+        "aliases": [
+          "Magic"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magic Johnson won NBA Finals MVP in 1980, 1982 and 1987.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "cedric-maxwell",
+        "canonical": "Cedric Maxwell",
+        "aliases": [
+          "Maxwell"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cedric Maxwell won NBA Finals MVP with the Celtics in 1981.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "moses-malone",
+        "canonical": "Moses Malone",
+        "aliases": [
+          "Moses"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moses Malone won NBA Finals MVP with the Philadelphia 76ers in 1983.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "larry-bird",
+        "canonical": "Larry Bird",
+        "aliases": [
+          "Bird"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Bird won NBA Finals MVP in 1984 and 1986.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "james-worthy",
+        "canonical": "James Worthy",
+        "aliases": [
+          "Worthy"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Worthy won NBA Finals MVP with the Lakers in 1988.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "joe-dumars",
+        "canonical": "Joe Dumars",
+        "aliases": [
+          "Dumars"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joe Dumars won NBA Finals MVP with the Pistons in 1989.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "isiah-thomas",
+        "canonical": "Isiah Thomas",
+        "aliases": [
+          "Isiah",
+          "Isaiah Thomas"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isiah Thomas won NBA Finals MVP with the Pistons in 1990.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "Jordan",
+          "MJ"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jordan won NBA Finals MVP six times with the Chicago Bulls.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "hakeem-olajuwon",
+        "canonical": "Hakeem Olajuwon",
+        "aliases": [
+          "Hakeem",
+          "Olajuwon"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hakeem Olajuwon won NBA Finals MVP in 1994 and 1995.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [
+          "Duncan"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Duncan won NBA Finals MVP in 1999, 2003 and 2005.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille",
+          "Shaquille ONeal",
+          "O'Neal"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shaquille O'Neal won NBA Finals MVP in three consecutive years from 2000 through 2002.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "chauncey-billups",
+        "canonical": "Chauncey Billups",
+        "aliases": [
+          "Billups",
+          "Chauncey"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chauncey Billups won NBA Finals MVP with the Pistons in 2004.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dwyane-wade",
+        "canonical": "Dwyane Wade",
+        "aliases": [
+          "Wade",
+          "Dwayne Wade",
+          "Dwyane"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dwyane Wade won NBA Finals MVP with the Miami Heat in 2006.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "tony-parker",
+        "canonical": "Tony Parker",
+        "aliases": [
+          "Parker"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tony Parker won NBA Finals MVP with the Spurs in 2007.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "paul-pierce",
+        "canonical": "Paul Pierce",
+        "aliases": [
+          "Pierce"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Pierce won NBA Finals MVP with the Celtics in 2008.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kobe-bryant",
+        "canonical": "Kobe Bryant",
+        "aliases": [
+          "Kobe",
+          "Bryant"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kobe Bryant won NBA Finals MVP in 2009 and 2010.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dirk-nowitzki",
+        "canonical": "Dirk Nowitzki",
+        "aliases": [
+          "Dirk",
+          "Nowitzki"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dirk Nowitzki won NBA Finals MVP with the Mavericks in 2011.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron",
+          "Lebron James"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James won NBA Finals MVP in 2012, 2013, 2016 and 2020.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kawhi-leonard",
+        "canonical": "Kawhi Leonard",
+        "aliases": [
+          "Kawhi",
+          "Leonard"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kawhi Leonard won NBA Finals MVP in 2014 and 2019.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "andre-iguodala",
+        "canonical": "Andre Iguodala",
+        "aliases": [
+          "Iguodala"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andre Iguodala won NBA Finals MVP with the Warriors in 2015.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kevin-durant",
+        "canonical": "Kevin Durant",
+        "aliases": [
+          "Durant",
+          "KD"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Durant won NBA Finals MVP in 2017 and 2018.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "giannis-antetokounmpo",
+        "canonical": "Giannis Antetokounmpo",
+        "aliases": [
+          "Giannis",
+          "Antetokounmpo"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giannis Antetokounmpo won NBA Finals MVP with the Bucks in 2021.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "stephen-curry",
+        "canonical": "Stephen Curry",
+        "aliases": [
+          "Steph Curry",
+          "Curry",
+          "Steph"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Curry won NBA Finals MVP with the Warriors in 2022.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "nikola-joki",
+        "canonical": "Nikola Jokić",
+        "aliases": [
+          "Nikola Jokic",
+          "Jokic",
+          "Jokić"
+        ],
+        "familiarity": 0.0578,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nikola Jokić won NBA Finals MVP with the Nuggets in 2023.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jaylen-brown",
+        "canonical": "Jaylen Brown",
+        "aliases": [
+          "Jaylen",
+          "Brown"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jaylen Brown won NBA Finals MVP with the Celtics in 2024.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "shai-gilgeous-alexander",
+        "canonical": "Shai Gilgeous-Alexander",
+        "aliases": [
+          "Shai",
+          "SGA",
+          "Shai Gilgeous Alexander",
+          "Gilgeous-Alexander"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shai Gilgeous-Alexander is listed as the 2025 NBA Finals MVP with the Thunder.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jalen-brunson",
+        "canonical": "Jalen Brunson",
+        "aliases": [
+          "Brunson"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jalen Brunson is listed as the 2026 NBA Finals MVP with the Knicks.",
+        "sourceIds": [
+          "nba-finals-most-valuable-player"
+        ]
+      }
+    ],
+    "explanation": "The NBA Finals MVP award has been presented since 1969. Michael Jordan holds the record with six wins, and Jerry West is the only recipient to win while playing for the losing team.",
+    "sources": [
+      {
+        "id": "nba-finals-most-valuable-player",
+        "title": "NBA Finals Most Valuable Player",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_Finals_Most_Valuable_Player",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "5770217c9d3a26cb",
+    "brief": "Name a player who has won NBA Finals MVP.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-finals-most-valuable-player",
+        "version": "1381429284",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Jerry West": "1969 | Jerry West* | G | | Los Angeles Lakers ‡",
+      "Willis Reed": "2 | Willis Reed | New York Knicks | 1970, 1973",
+      "Kareem Abdul-Jabbar": "2 | Kareem Abdul-Jabbar | Milwaukee Bucks, Los Angeles Lakers | 1971, 1985",
+      "Wilt Chamberlain": "1972 | Wilt Chamberlain* | C | | Los Angeles Lakers (2)",
+      "John Havlicek": "1974 | John Havlicek* | F/G | | Boston Celtics",
+      "Rick Barry": "1975 | Rick Barry* | F | | Golden State Warriors",
+      "Jo Jo White": "1976 | Jo Jo White* | G | | Boston Celtics (2)",
+      "Bill Walton": "1977 | Bill Walton* | C | | Portland Trail Blazers",
+      "Wes Unseld": "1978 | Wes Unseld* | C/F | | Washington Bullets",
+      "Dennis Johnson": "1979 | Dennis Johnson* | G | | Seattle SuperSonics",
+      "Magic Johnson": "3 | Magic Johnson | Los Angeles Lakers | 1980, 1982, 1987",
+      "Cedric Maxwell": "1981 | Cedric Maxwell | F | | Boston Celtics (3)",
+      "Moses Malone": "1983 | Moses Malone* | C | | Philadelphia 76ers",
+      "Larry Bird": "2 | Larry Bird | Boston Celtics | 1984, 1986",
+      "James Worthy": "1988 | James Worthy* | F | | Los Angeles Lakers (7)",
+      "Joe Dumars": "1989 | Joe Dumars* | G | | Detroit Pistons",
+      "Isiah Thomas": "1990 | Isiah Thomas* | G | | Detroit Pistons (2)",
+      "Michael Jordan": "6 | Michael Jordan | Chicago Bulls | 1991, 1992, 1993, 1996, 1997, 1998",
+      "Hakeem Olajuwon": "2 | Hakeem Olajuwon | Houston Rockets | 1994, 1995",
+      "Tim Duncan": "3 | Tim Duncan | San Antonio Spurs | 1999, 2003, 2005",
+      "Shaquille O'Neal": "3 | Shaquille O'Neal | Los Angeles Lakers | 2000, 2001, 2002",
+      "Chauncey Billups": "2004 | Chauncey Billups* | G | | Detroit Pistons (3)",
+      "Dwyane Wade": "2006 | Dwyane Wade* | G | | Miami Heat",
+      "Tony Parker": "2007 | Tony Parker* | G | | San Antonio Spurs (4)",
+      "Paul Pierce": "2008 | Paul Pierce* | F | | Boston Celtics (6)",
+      "Kobe Bryant": "2 | Kobe Bryant | Los Angeles Lakers | 2009, 2010",
+      "Dirk Nowitzki": "2011 | Dirk Nowitzki* | F | | Dallas Mavericks",
+      "LeBron James": "4 | LeBron James | Miami Heat (2), Cleveland Cavaliers, Los Angeles Lakers | 2012, 2013, 2016, 2020",
+      "Kawhi Leonard": "2 | Kawhi Leonard | San Antonio Spurs, Toronto Raptors | 2014, 2019",
+      "Andre Iguodala": "2015 | Andre Iguodala | F/G | | Golden State Warriors (2)",
+      "Kevin Durant": "2 | Kevin Durant | Golden State Warriors | 2017, 2018",
+      "Giannis Antetokounmpo": "2021 | Giannis Antetokounmpo^ | F | | Milwaukee Bucks (2)",
+      "Stephen Curry": "2022 | Stephen Curry^ | G | | Golden State Warriors (5)",
+      "Nikola Jokić": "2023 | Nikola Jokić^ | C | | Denver Nuggets",
+      "Jaylen Brown": "2024 | Jaylen Brown^ | F/G | | Boston Celtics (7)",
+      "Shai Gilgeous-Alexander": "2025 | Shai Gilgeous-Alexander^ | G | | Oklahoma City Thunder (2)",
+      "Jalen Brunson": "2026 | Jalen Brunson^ | G | | New York Knicks (3)"
+    },
+    "issues": []
+  }
+}

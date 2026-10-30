@@ -1,0 +1,362 @@
+{
+  "question": {
+    "id": "tollywood-vijay-deverakonda-films",
+    "category": "tollywood",
+    "prompt": "Name a film in Vijay Deverakonda's acting filmography, including cameos and unreleased films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "nuvvila",
+        "canonical": "Nuvvila",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda is credited as Vishnuvardhan in Nuvvila.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "life-is-beautiful",
+        "canonical": "Life Is Beautiful",
+        "aliases": [],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Ajay in Life Is Beautiful.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "yevade-subramanyam",
+        "canonical": "Yevade Subramanyam",
+        "aliases": [
+          "Evade Subramanyam"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Rishi in Yevade Subramanyam.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "pelli-choopulu",
+        "canonical": "Pelli Choopulu",
+        "aliases": [
+          "Pelli Chupulu",
+          "Pellichoopulu"
+        ],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda made his lead-actor debut as Prashanth in Pelli Choopulu.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "dwaraka",
+        "canonical": "Dwaraka",
+        "aliases": [
+          "Dwaraka"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Erra Srinu in Dwaraka.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "arjun-reddy",
+        "canonical": "Arjun Reddy",
+        "aliases": [],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played the title character, Dr. Arjun Reddy Deshmukh.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "ye-mantram-vesave",
+        "canonical": "Ye Mantram Vesave",
+        "aliases": [
+          "Ee Mantram Vesave"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Nikhil in Ye Mantram Vesave.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Vijay Anthony in Mahanati.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "geetha-govindam",
+        "canonical": "Geetha Govindam",
+        "aliases": [
+          "Geeta Govindam"
+        ],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Vijay Govind in Geetha Govindam.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "nota",
+        "canonical": "NOTA",
+        "aliases": [],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Varun Subramanyam in the Tamil film NOTA.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "ee-nagaraniki-emaindhi",
+        "canonical": "Ee Nagaraniki Emaindhi",
+        "aliases": [
+          "Ee Nagaraniki Emaindi"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda made a cameo as himself in Ee Nagaraniki Emaindhi.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "taxiwaala",
+        "canonical": "Taxiwaala",
+        "aliases": [
+          "Taxiwala",
+          "Taxi Waala"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Shiva Rawaali in Taxiwaala.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "dear-comrade",
+        "canonical": "Dear Comrade",
+        "aliases": [],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Chaitanya, nicknamed Bobby, in Dear Comrade.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "meeku-maathrame-cheptha",
+        "canonical": "Meeku Maathrame Cheptha",
+        "aliases": [
+          "Meeku Mathrame Cheptha",
+          "Meeku Maathrame Chepta"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda made a cameo as himself in Meeku Maathrame Cheptha, which he also produced.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "world-famous-lover",
+        "canonical": "World Famous Lover",
+        "aliases": [],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda's acting filmography credits him in World Famous Lover.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "jathi-ratnalu",
+        "canonical": "Jathi Ratnalu",
+        "aliases": [
+          "Jathi Rathnalu",
+          "Jaathi Ratnalu"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda made a cameo as a court attendee in Jathi Ratnalu.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "liger",
+        "canonical": "Liger",
+        "aliases": [],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda starred in the Hindi–Telugu bilingual film Liger.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "kushi",
+        "canonical": "Kushi",
+        "aliases": [
+          "Khushi",
+          "Kushi (2023)"
+        ],
+        "familiarity": 0.0996,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Viplav in the 2023 film Kushi.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "the-family-star",
+        "canonical": "The Family Star",
+        "aliases": [
+          "Family Star"
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Govardhan in The Family Star.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki",
+          "Kalki 2898 A.D."
+        ],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda made a cameo as Arjuna in Kalki 2898 AD.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "kingdom",
+        "canonical": "Kingdom",
+        "aliases": [],
+        "familiarity": 0.0398,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deverakonda played Constable Surya in Kingdom.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "sing-geetham",
+        "canonical": "Sing Geetham",
+        "aliases": [
+          "Sing Geetam"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting filmography lists Deverakonda in a cameo as a business mogul in Sing Geetham.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "ranabaali",
+        "canonical": "Ranabaali",
+        "aliases": [
+          "Ranabali"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting filmography credits Deverakonda as Singanamala Bobbili Ranabaali in Ranabaali.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      },
+      {
+        "id": "rowdy-janardhana",
+        "canonical": "Rowdy Janardhana",
+        "aliases": [
+          "Rowdy Janardhan"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting filmography lists Deverakonda in the title role of Rowdy Janardhana, marked as filming.",
+        "sourceIds": [
+          "vijay-deverakonda"
+        ]
+      }
+    ],
+    "explanation": "These films are listed in Vijay Deverakonda's acting filmography in the supplied source. Lead roles, supporting roles, cameos and unreleased films all count; producer-only credits do not.",
+    "sources": [
+      {
+        "id": "vijay-deverakonda",
+        "title": "Vijay Deverakonda",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vijay_Deverakonda",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "acef422f6dc158d7",
+    "brief": "Name a film in which Vijay Deverakonda has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "vijay-deverakonda",
+        "version": "1382662157",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Nuvvila": "2011 | Nuvvila | Vishnuvardhan \"Vishnu\" | Credited as Vijay Sai |",
+      "Life Is Beautiful": "2012 | Life Is Beautiful | Ajay | |",
+      "Yevade Subramanyam": "2015 | Yevade Subramanyam | Rishi | |",
+      "Pelli Choopulu": "2016 | Pelli Choopulu | Prashanth | Debut as Lead Actor |",
+      "Dwaraka": "2017 | Dwaraka | Erra Srinu aka Sri Krishnananda Swamy | |",
+      "Arjun Reddy": "2017 | Arjun Reddy | Dr. Arjun Reddy Deshmukh | Credited as Devarakonda Vijay Sai |",
+      "Ye Mantram Vesave": "2018 | Ye Mantram Vesave | Nikhil \"Nikki\" | Delayed film; shot in 2013 |",
+      "Mahanati": "2018 | Mahanati | Vijay Anthony | |",
+      "Geetha Govindam": "2018 | Geetha Govindam | Vijay Govind | Also singer for \"What the Life\" |",
+      "NOTA": "2018 | NOTA | Varun Subramanyam | Tamil film |",
+      "Ee Nagaraniki Emaindhi": "2018 | Ee Nagaraniki Emaindhi | Himself | Cameo appearance |",
+      "Taxiwaala": "2018 | Taxiwaala | Shiva Rawaali | |",
+      "Dear Comrade": "2019 | Dear Comrade | Chaitanya \"Bobby\" Krishna | |",
+      "Meeku Maathrame Cheptha": "2019 | Meeku Maathrame Cheptha | Himself | Cameo appearance; also producer |",
+      "World Famous Lover": "2020 | World Famous Lover | Gautham / Seenayya \"Srinu\" Prajapat | |",
+      "Jathi Ratnalu": "2021 | Jathi Ratnalu | Court attendee | Cameo appearance |",
+      "Liger": "2022 | Liger | Lion Tiger Balram Agarwal / Sashwath Agarwal (Liger) | Hindi-Telugu bilingual film |",
+      "Kushi": "2023 | Kushi | Viplav | |",
+      "The Family Star": "2024 | The Family Star | Govardhan | |",
+      "Kalki 2898 AD": "2024 | Kalki 2898 AD | Arjuna | Cameo appearance |",
+      "Kingdom": "2025 | Kingdom | Constable Surya \"Suri\" | |",
+      "Sing Geetham": "2026 | Sing Geetham | Business mogul | Cameo appearance |",
+      "Ranabaali": "2026 | Ranabaali | Singanamala Bobbili Ranabaali | |",
+      "Rowdy Janardhana": "2026 | Rowdy Janardhana † | Rowdy Janardhana | Filming |"
+    },
+    "issues": []
+  }
+}

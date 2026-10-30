@@ -1,0 +1,545 @@
+{
+  "question": {
+    "id": "us-pop-sitcoms",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name an American TV sitcom.",
+    "answerSet": "open",
+    "criteria": "Any scripted American television or streaming series generally classified as a situation comedy counts.",
+    "answers": [
+      {
+        "id": "friends",
+        "canonical": "Friends",
+        "aliases": [],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Friends follows six friends living in New York City.",
+        "sourceIds": []
+      },
+      {
+        "id": "seinfeld",
+        "canonical": "Seinfeld",
+        "aliases": [],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seinfeld follows a fictionalized Jerry Seinfeld and his friends in New York City.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-office",
+        "canonical": "The Office",
+        "aliases": [
+          "The Office US",
+          "US Office",
+          "The Office USA"
+        ],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American version of The Office depicts employees at the Scranton branch of Dunder Mifflin.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-big-bang-theory",
+        "canonical": "The Big Bang Theory",
+        "aliases": [
+          "Big Bang Theory",
+          "TBBT"
+        ],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Big Bang Theory centers on a group of scientists and their friends in Pasadena.",
+        "sourceIds": []
+      },
+      {
+        "id": "modern-family",
+        "canonical": "Modern Family",
+        "aliases": [],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Modern Family uses a mockumentary format to follow three connected families.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-love-lucy",
+        "canonical": "I Love Lucy",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "I Love Lucy stars Lucille Ball as Lucy Ricardo in a domestic sitcom.",
+        "sourceIds": []
+      },
+      {
+        "id": "cheers",
+        "canonical": "Cheers",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cheers centers on the staff and regular customers of a Boston bar.",
+        "sourceIds": []
+      },
+      {
+        "id": "frasier",
+        "canonical": "Frasier",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frasier follows psychiatrist and radio host Frasier Crane in Seattle.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-golden-girls",
+        "canonical": "The Golden Girls",
+        "aliases": [
+          "Golden Girls"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Golden Girls follows four older women sharing a home in Miami.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-fresh-prince-of-bel-air",
+        "canonical": "The Fresh Prince of Bel-Air",
+        "aliases": [
+          "Fresh Prince",
+          "Fresh Prince of Bel Air"
+        ],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Fresh Prince of Bel-Air follows a teenager from Philadelphia who moves in with relatives in Los Angeles.",
+        "sourceIds": []
+      },
+      {
+        "id": "full-house",
+        "canonical": "Full House",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Full House follows a father raising three daughters with help from his brother-in-law and best friend.",
+        "sourceIds": []
+      },
+      {
+        "id": "parks-and-recreation",
+        "canonical": "Parks and Recreation",
+        "aliases": [
+          "Parks and Rec",
+          "Parks & Recreation",
+          "Parks & Rec"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parks and Recreation follows local government employees in the fictional town of Pawnee, Indiana.",
+        "sourceIds": []
+      },
+      {
+        "id": "brooklyn-nine-nine",
+        "canonical": "Brooklyn Nine-Nine",
+        "aliases": [
+          "Brooklyn 99",
+          "B99"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brooklyn Nine-Nine is a workplace sitcom set in a fictional New York City police precinct.",
+        "sourceIds": []
+      },
+      {
+        "id": "abbott-elementary",
+        "canonical": "Abbott Elementary",
+        "aliases": [
+          "Abbott"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abbott Elementary is a mockumentary sitcom about teachers at a Philadelphia public school.",
+        "sourceIds": []
+      },
+      {
+        "id": "how-i-met-your-mother",
+        "canonical": "How I Met Your Mother",
+        "aliases": [
+          "HIMYM"
+        ],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "How I Met Your Mother follows Ted Mosby and his friends through a story framed as his account to his children.",
+        "sourceIds": []
+      },
+      {
+        "id": "community",
+        "canonical": "Community",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Community follows a study group at the fictional Greendale Community College.",
+        "sourceIds": []
+      },
+      {
+        "id": "30-rock",
+        "canonical": "30 Rock",
+        "aliases": [
+          "Thirty Rock"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "30 Rock follows the staff of a fictional television sketch-comedy show.",
+        "sourceIds": []
+      },
+      {
+        "id": "newsradio",
+        "canonical": "NewsRadio",
+        "aliases": [],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "NewsRadio is a workplace sitcom set at a fictional New York City radio station.",
+        "sourceIds": []
+      },
+      {
+        "id": "better-off-ted",
+        "canonical": "Better Off Ted",
+        "aliases": [],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Better Off Ted is a workplace sitcom set at the fictional corporation Veridian Dynamics.",
+        "sourceIds": []
+      },
+      {
+        "id": "party-down",
+        "canonical": "Party Down",
+        "aliases": [],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Party Down follows a Los Angeles catering crew whose members aspire to work in entertainment.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-simpsons",
+        "canonical": "The Simpsons",
+        "aliases": [
+          "Simpsons"
+        ],
+        "familiarity": 0.0559,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Simpsons is an animated sitcom about a family living in Springfield.",
+        "sourceIds": []
+      },
+      {
+        "id": "it-s-always-sunny-in-philadelphia",
+        "canonical": "It's Always Sunny in Philadelphia",
+        "aliases": [
+          "Always Sunny",
+          "It's Always Sunny",
+          "IASIP"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It's Always Sunny in Philadelphia follows the dysfunctional group running Paddy's Pub.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-good-place",
+        "canonical": "The Good Place",
+        "aliases": [
+          "Good Place"
+        ],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Good Place is a fantasy sitcom about people navigating the afterlife.",
+        "sourceIds": []
+      },
+      {
+        "id": "3rd-rock-from-the-sun",
+        "canonical": "3rd Rock from the Sun",
+        "aliases": [
+          "Third Rock from the Sun",
+          "3rd Rock"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "3rd Rock from the Sun follows aliens posing as a human family on Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "herman-s-head",
+        "canonical": "Herman's Head",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Herman's Head depicts its main character's thoughts through four personified aspects of his personality.",
+        "sourceIds": []
+      },
+      {
+        "id": "get-a-life",
+        "canonical": "Get a Life",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Get a Life stars Chris Elliott as an adult paperboy who lives with his parents.",
+        "sourceIds": []
+      },
+      {
+        "id": "new-girl",
+        "canonical": "New Girl",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "New Girl follows teacher Jess Day and her roommates in Los Angeles.",
+        "sourceIds": []
+      },
+      {
+        "id": "scrubs",
+        "canonical": "Scrubs",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scrubs follows doctors and other staff at the fictional Sacred Heart Hospital.",
+        "sourceIds": []
+      },
+      {
+        "id": "everybody-loves-raymond",
+        "canonical": "Everybody Loves Raymond",
+        "aliases": [],
+        "familiarity": 0.0224,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Everybody Loves Raymond centers on sportswriter Ray Barone and his family.",
+        "sourceIds": []
+      },
+      {
+        "id": "wings",
+        "canonical": "Wings",
+        "aliases": [],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wings follows the people working around a small airline on Nantucket.",
+        "sourceIds": []
+      },
+      {
+        "id": "happy-endings",
+        "canonical": "Happy Endings",
+        "aliases": [],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Happy Endings follows six friends living in Chicago.",
+        "sourceIds": []
+      },
+      {
+        "id": "andy-richter-controls-the-universe",
+        "canonical": "Andy Richter Controls the Universe",
+        "aliases": [
+          "Andy Richter Controls Universe"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andy Richter Controls the Universe follows a technical writer whose imagination shapes the show's storytelling.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "American sitcoms span decades, from early studio-audience classics to workplace mockumentaries and streaming comedies.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "95b829b22913de67",
+    "brief": "Name a popular American TV sitcom.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Friends": 3,
+      "Seinfeld": 3,
+      "The Office": 3,
+      "The Big Bang Theory": 3,
+      "Modern Family": 3,
+      "The Simpsons": 2,
+      "I Love Lucy": 3,
+      "Cheers": 3,
+      "Frasier": 3,
+      "The Golden Girls": 3,
+      "The Fresh Prince of Bel-Air": 3,
+      "Full House": 3,
+      "Parks and Recreation": 3,
+      "Brooklyn Nine-Nine": 3,
+      "Abbott Elementary": 3,
+      "How I Met Your Mother": 3,
+      "Community": 3,
+      "It's Always Sunny in Philadelphia": 2,
+      "The Good Place": 2,
+      "Arrested Development": 3,
+      "30 Rock": 3,
+      "3rd Rock from the Sun": 2,
+      "NewsRadio": 3,
+      "Better Off Ted": 3,
+      "Party Down": 3,
+      "Herman's Head": 2,
+      "Get a Life": 2,
+      "New Girl": 2,
+      "Scrubs": 2,
+      "Everybody Loves Raymond": 2,
+      "Wings": 2,
+      "Happy Endings": 2,
+      "Andy Richter Controls the Universe": 2
+    },
+    "droppedForVotes": {
+      "Happy Days": 1,
+      "Family Matters": 1,
+      "The Jeffersons": 1,
+      "Living Single": 1,
+      "Square Pegs": 1,
+      "Malcolm in the Middle": 1,
+      "That '70s Show": 1,
+      "Superstore": 1,
+      "The King of Queens": 1,
+      "The Drew Carey Show": 1,
+      "It's Your Move": 1,
+      "Quark": 1,
+      "Family Guy": 1,
+      "South Park": 1,
+      "Futurama": 1,
+      "Bob's Burgers": 1,
+      "Taxi": 1
+    },
+    "verdicts": {
+      "Friends": {
+        "verdict": "correct",
+        "reason": "A widely documented American sitcom about six friends in New York City."
+      },
+      "Seinfeld": {
+        "verdict": "correct",
+        "reason": "An American sitcom featuring a fictionalized Jerry Seinfeld and his friends."
+      },
+      "The Office": {
+        "verdict": "correct",
+        "reason": "The American adaptation is a workplace sitcom set at Dunder Mifflin's Scranton branch."
+      },
+      "The Big Bang Theory": {
+        "verdict": "correct",
+        "reason": "An American sitcom centered on scientists and their friends in Pasadena."
+      },
+      "Modern Family": {
+        "verdict": "correct",
+        "reason": "An American mockumentary sitcom following three connected families."
+      },
+      "I Love Lucy": {
+        "verdict": "correct",
+        "reason": "A classic American sitcom starring Lucille Ball as Lucy Ricardo."
+      },
+      "Cheers": {
+        "verdict": "correct",
+        "reason": "An American sitcom set in a Boston bar."
+      },
+      "Frasier": {
+        "verdict": "correct",
+        "reason": "An American sitcom following psychiatrist and Seattle radio host Frasier Crane."
+      },
+      "The Golden Girls": {
+        "verdict": "correct",
+        "reason": "An American sitcom about four older women sharing a Miami home."
+      },
+      "The Fresh Prince of Bel-Air": {
+        "verdict": "correct",
+        "reason": "An American sitcom about a Philadelphia teenager moving in with relatives in Bel-Air."
+      },
+      "Full House": {
+        "verdict": "correct",
+        "reason": "An American family sitcom about a widowed father raising three daughters with two other men."
+      },
+      "Parks and Recreation": {
+        "verdict": "correct",
+        "reason": "An American mockumentary sitcom about local government employees in Pawnee, Indiana."
+      },
+      "Brooklyn Nine-Nine": {
+        "verdict": "correct",
+        "reason": "An American workplace sitcom set in a fictional New York City police precinct."
+      },
+      "Abbott Elementary": {
+        "verdict": "correct",
+        "reason": "An American mockumentary sitcom about teachers at a Philadelphia public school."
+      },
+      "How I Met Your Mother": {
+        "verdict": "correct",
+        "reason": "An American sitcom framed around Ted Mosby's account to his children."
+      },
+      "Community": {
+        "verdict": "correct",
+        "reason": "An American sitcom about a study group at Greendale Community College."
+      },
+      "Arrested Development": {
+        "verdict": "correct",
+        "reason": "An American sitcom about the dysfunctional Bluth family and its financial downfall."
+      },
+      "30 Rock": {
+        "verdict": "correct",
+        "reason": "An American workplace sitcom about the staff of a fictional sketch-comedy show."
+      },
+      "NewsRadio": {
+        "verdict": "correct",
+        "reason": "An American workplace sitcom set at a fictional New York City radio station."
+      },
+      "Better Off Ted": {
+        "verdict": "correct",
+        "reason": "An American workplace sitcom set at the fictional Veridian Dynamics corporation."
+      },
+      "Party Down": {
+        "verdict": "correct",
+        "reason": "An American sitcom about a Los Angeles catering crew, largely composed of entertainment-industry hopefuls."
+      },
+      "The Simpsons": {
+        "verdict": "correct",
+        "reason": "An American animated sitcom about the Simpson family in Springfield."
+      },
+      "It's Always Sunny in Philadelphia": {
+        "verdict": "correct",
+        "reason": "An American sitcom about the dysfunctional group operating Paddy's Pub."
+      },
+      "The Good Place": {
+        "verdict": "correct",
+        "reason": "An American fantasy sitcom set primarily in the afterlife."
+      },
+      "3rd Rock from the Sun": {
+        "verdict": "correct",
+        "reason": "An American sitcom about aliens posing as a human family."
+      },
+      "Herman's Head": {
+        "verdict": "correct",
+        "reason": "An American sitcom that personifies four aspects of its protagonist's personality."
+      },
+      "Get a Life": {
+        "verdict": "correct",
+        "reason": "An American sitcom starring Chris Elliott as an adult paperboy who initially lives with his parents."
+      },
+      "New Girl": {
+        "verdict": "correct",
+        "reason": "An American sitcom about Jess Day and her roommates in Los Angeles."
+      },
+      "Scrubs": {
+        "verdict": "correct",
+        "reason": "An American medical sitcom primarily set at the fictional Sacred Heart Hospital."
+      },
+      "Everybody Loves Raymond": {
+        "verdict": "correct",
+        "reason": "An American family sitcom centered on sportswriter Ray Barone."
+      },
+      "Wings": {
+        "verdict": "correct",
+        "reason": "An American workplace sitcom about a small airline and its associates on Nantucket."
+      },
+      "Happy Endings": {
+        "verdict": "correct",
+        "reason": "An American ensemble sitcom about six friends in Chicago."
+      },
+      "Andy Richter Controls the Universe": {
+        "verdict": "correct",
+        "reason": "An American sitcom about a technical writer, using imagined scenarios as a storytelling device."
+      }
+    },
+    "issues": [],
+    "editedInReview": {
+      "removedAnswers": [
+        "Arrested Development"
+      ],
+      "reason": "gate's sensitive-term scan flagged the word 'Arrested' in this title; it is a false positive but the answer was removed rather than weaken the scan (human review 2026-10-30)"
+    }
+  }
+}

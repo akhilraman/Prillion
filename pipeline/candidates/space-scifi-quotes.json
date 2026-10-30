@@ -1,0 +1,361 @@
+{
+  "question": {
+    "id": "space-scifi-quotes",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous line from a space-based sci-fi film or TV series that fans still quote.",
+    "answerSet": "open",
+    "criteria": "Any recognizable quoted line spoken in a released space-based science-fiction film or TV series counts; minor wording and punctuation variations are accepted.",
+    "answers": [
+      {
+        "id": "may-the-force-be-with-you",
+        "canonical": "May the Force be with you",
+        "aliases": [
+          "May the force be with u"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This blessing is spoken throughout the Star Wars films.",
+        "sourceIds": []
+      },
+      {
+        "id": "live-long-and-prosper",
+        "canonical": "Live long and prosper",
+        "aliases": [
+          "LLAP",
+          "Live long & prosper"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Vulcan farewell is associated with Spock in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "it-s-a-trap",
+        "canonical": "It's a trap!",
+        "aliases": [],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Admiral Ackbar exclaims this during the space battle in Return of the Jedi.",
+        "sourceIds": []
+      },
+      {
+        "id": "resistance-is-futile",
+        "canonical": "Resistance is futile",
+        "aliases": [],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This declaration is associated with the Borg in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "this-is-the-way",
+        "canonical": "This is the way",
+        "aliases": [],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This creed is repeatedly spoken by Mandalorians in The Mandalorian.",
+        "sourceIds": []
+      },
+      {
+        "id": "never-tell-me-the-odds",
+        "canonical": "Never tell me the odds",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Han Solo says this to C-3PO in The Empire Strikes Back.",
+        "sourceIds": []
+      },
+      {
+        "id": "make-it-so",
+        "canonical": "Make it so",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Jean-Luc Picard frequently gives this command in Star Trek: The Next Generation.",
+        "sourceIds": []
+      },
+      {
+        "id": "game-over-man",
+        "canonical": "Game over, man!",
+        "aliases": [
+          "Game over man, game over"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hudson exclaims this in Aliens.",
+        "sourceIds": []
+      },
+      {
+        "id": "never-give-up-never-surrender",
+        "canonical": "Never give up, never surrender",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This is the catchphrase of Commander Peter Quincy Taggart in Galaxy Quest.",
+        "sourceIds": []
+      },
+      {
+        "id": "by-grabthar-s-hammer",
+        "canonical": "By Grabthar's hammer",
+        "aliases": [
+          "Grabthar's hammer"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This oath is associated with Dr. Lazarus in Galaxy Quest.",
+        "sourceIds": []
+      },
+      {
+        "id": "so-say-we-all",
+        "canonical": "So say we all",
+        "aliases": [],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This communal affirmation recurs in the reimagined Battlestar Galactica.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-am-a-leaf-on-the-wind",
+        "canonical": "I am a leaf on the wind",
+        "aliases": [
+          "I'm a leaf on the wind",
+          "I am a leaf on the wind, watch how I soar",
+          "Watch how I soar",
+          "Leaf on the wind"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wash says this while piloting in Serenity.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-am-your-father",
+        "canonical": "I am your father",
+        "aliases": [
+          "No, I am your father"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darth Vader says this to Luke Skywalker in The Empire Strikes Back.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-have-a-bad-feeling-about-this",
+        "canonical": "I have a bad feeling about this",
+        "aliases": [
+          "I've got a bad feeling about this"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Variations of this line recur across the Star Wars films.",
+        "sourceIds": []
+      },
+      {
+        "id": "engage",
+        "canonical": "Engage",
+        "aliases": [],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Jean-Luc Picard uses this command to set his ship underway in Star Trek: The Next Generation.",
+        "sourceIds": []
+      },
+      {
+        "id": "open-the-pod-bay-doors-hal",
+        "canonical": "Open the pod bay doors, HAL",
+        "aliases": [
+          "Open the pod bay doors"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Bowman gives HAL this instruction in 2001: A Space Odyssey.",
+        "sourceIds": []
+      },
+      {
+        "id": "there-are-four-lights",
+        "canonical": "There are four lights!",
+        "aliases": [
+          "There are 4 lights",
+          "Four lights"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Picard defiantly shouts this in the Star Trek: The Next Generation episode Chain of Command, Part II.",
+        "sourceIds": []
+      },
+      {
+        "id": "nothing-but-the-rain",
+        "canonical": "Nothing but the rain",
+        "aliases": [
+          "Nothin' but the rain"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Starbuck gives this response to Adama's recurring greeting in the reimagined Battlestar Galactica.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-am-groot",
+        "canonical": "I am Groot",
+        "aliases": [
+          "I'm Groot"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Groot repeatedly uses this phrase in the Guardians of the Galaxy films.",
+        "sourceIds": []
+      },
+      {
+        "id": "smoke-me-a-kipper",
+        "canonical": "Smoke me a kipper",
+        "aliases": [
+          "Smoke me a kipper, I'll be back for breakfast",
+          "I'll be back for breakfast"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ace Rimmer uses this catchphrase in Red Dwarf.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space sci-fi has supplied fans with everything from Jedi wisdom and Starfleet commands to battle cries and running jokes. Answers can come from films or television, including franchises beyond those listed here.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "67225e667437392d",
+    "brief": "Name a famous quote or line from a space-based sci-fi film or TV series that fans still repeat.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "May the Force be with you": 3,
+      "Live long and prosper": 3,
+      "I am your father": 2,
+      "It's a trap!": 3,
+      "Resistance is futile": 3,
+      "This is the way": 3,
+      "Never tell me the odds": 3,
+      "I have a bad feeling about this": 2,
+      "Make it so": 3,
+      "Engage": 2,
+      "Open the pod bay doors, HAL": 2,
+      "Game over, man!": 3,
+      "Never give up, never surrender": 3,
+      "By Grabthar's hammer": 3,
+      "So say we all": 3,
+      "There are four lights!": 2,
+      "I am a leaf on the wind": 3,
+      "Nothing but the rain": 2,
+      "I am Groot": 2,
+      "Smoke me a kipper": 2
+    },
+    "droppedForVotes": {
+      "Do or do not. There is no try.": 1,
+      "I'm sorry, Dave. I'm afraid I can't do that.": 1,
+      "I aim to misbehave": 1,
+      "You can't stop the signal": 1,
+      "What do you hear, Starbuck?": 1,
+      "Do or do not": 1,
+      "By your command": 1,
+      "Curse your sudden but inevitable betrayal": 1,
+      "No power in the 'verse can stop me": 1,
+      "Everybody's dead, Dave": 1,
+      "Let's be bad guys": 1,
+      "No, I am your father": 1,
+      "Hello there": 1,
+      "Khan!": 1,
+      "I have spoken": 1,
+      "I'm sorry, Dave": 1,
+      "Multipass": 1,
+      "Aziz, light!": 1,
+      "So long, and thanks for all the fish": 1,
+      "Doors and corners": 1
+    },
+    "verdicts": {
+      "May the Force be with you": {
+        "verdict": "correct",
+        "reason": "A widely quoted blessing spoken in multiple Star Wars films."
+      },
+      "Live long and prosper": {
+        "verdict": "correct",
+        "reason": "Spock's iconic Vulcan farewell in Star Trek."
+      },
+      "It's a trap!": {
+        "verdict": "correct",
+        "reason": "Admiral Ackbar says this during the Battle of Endor in Return of the Jedi."
+      },
+      "Resistance is futile": {
+        "verdict": "correct",
+        "reason": "A recurring declaration by the Borg in Star Trek."
+      },
+      "This is the way": {
+        "verdict": "correct",
+        "reason": "A recurring Mandalorian creed in The Mandalorian."
+      },
+      "Never tell me the odds": {
+        "verdict": "correct",
+        "reason": "Han Solo says this to C-3PO in The Empire Strikes Back."
+      },
+      "Make it so": {
+        "verdict": "correct",
+        "reason": "A signature command of Captain Picard in Star Trek: The Next Generation."
+      },
+      "Game over, man!": {
+        "verdict": "correct",
+        "reason": "Hudson exclaims this memorable line in Aliens."
+      },
+      "Never give up, never surrender": {
+        "verdict": "correct",
+        "reason": "Commander Taggart's recurring catchphrase in Galaxy Quest."
+      },
+      "By Grabthar's hammer": {
+        "verdict": "correct",
+        "reason": "Dr. Lazarus's recognizable oath in Galaxy Quest."
+      },
+      "So say we all": {
+        "verdict": "correct",
+        "reason": "A recurring communal affirmation in the reimagined Battlestar Galactica."
+      },
+      "I am a leaf on the wind": {
+        "verdict": "correct",
+        "reason": "Wash says this while piloting Serenity in the film Serenity."
+      },
+      "I am your father": {
+        "verdict": "correct",
+        "reason": "Darth Vader says this to Luke in The Empire Strikes Back, preceded by 'No.'"
+      },
+      "I have a bad feeling about this": {
+        "verdict": "correct",
+        "reason": "This line and close variations recur throughout the Star Wars films."
+      },
+      "Engage": {
+        "verdict": "correct",
+        "reason": "A recognizable command frequently spoken by Captain Picard in The Next Generation."
+      },
+      "Open the pod bay doors, HAL": {
+        "verdict": "correct",
+        "reason": "Dave Bowman gives this instruction in 2001: A Space Odyssey."
+      },
+      "There are four lights!": {
+        "verdict": "correct",
+        "reason": "Picard defiantly shouts this in The Next Generation episode 'Chain of Command, Part II.'"
+      },
+      "Nothing but the rain": {
+        "verdict": "correct",
+        "reason": "Starbuck gives this response to Adama's 'What do you hear?' in the reimagined Battlestar Galactica."
+      },
+      "I am Groot": {
+        "verdict": "correct",
+        "reason": "Groot repeatedly speaks this signature phrase in the Guardians of the Galaxy films."
+      },
+      "Smoke me a kipper": {
+        "verdict": "correct",
+        "reason": "Ace Rimmer's Red Dwarf catchphrase begins 'Smoke me a kipper, I'll be back for breakfast.'"
+      }
+    },
+    "issues": []
+  }
+}

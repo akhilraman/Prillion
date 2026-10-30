@@ -1,0 +1,1292 @@
+{
+  "question": {
+    "id": "tollywood-venkatesh-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Venkatesh has an on-screen acting credit, including cameos and child roles.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "prema-nagar",
+        "canonical": "Prema Nagar",
+        "aliases": [
+          "Prem Nagar"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Young Kesava Varma, a child role.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "vasantha-maligai",
+        "canonical": "Vasantha Maligai",
+        "aliases": [
+          "Vasantha Maaligai"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Young Vijay Kumar using footage from Prema Nagar.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "kaliyuga-pandavulu",
+        "canonical": "Kaliyuga Pandavulu",
+        "aliases": [
+          "Kali Yuga Pandavulu"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "brahma-rudrulu",
+        "canonical": "Brahma Rudrulu",
+        "aliases": [
+          "Brahmarudrulu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Satya Prasad.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "ajeyudu",
+        "canonical": "Ajeyudu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Murali.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "bharatamlo-arjunudu",
+        "canonical": "Bharatamlo Arjunudu",
+        "aliases": [
+          "Bharathamlo Arjunudu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Arjun.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "trimurtulu",
+        "canonical": "Trimurtulu",
+        "aliases": [
+          "Trimurthulu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raja.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "vijetha-vikram",
+        "canonical": "Vijetha Vikram",
+        "aliases": [
+          "Vijeta Vikram"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vikram.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "srinivasa-kalyanam",
+        "canonical": "Srinivasa Kalyanam",
+        "aliases": [
+          "Srinivasa Kalyanam (1987)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has an on-screen credit as Srinivas in the 1987 film.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "raktha-tilakam",
+        "canonical": "Raktha Tilakam",
+        "aliases": [
+          "Raktha Thilakam",
+          "Rakta Tilakam"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Krishna Prasad.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "brahma-puthrudu",
+        "canonical": "Brahma Puthrudu",
+        "aliases": [
+          "Brahma Putrudu",
+          "Brahmaputrudu"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Sakthi.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "swarna-kamalam",
+        "canonical": "Swarna Kamalam",
+        "aliases": [
+          "Swarnakamalam"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Chandra Sehkar.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "varasudochhadu",
+        "canonical": "Varasudochhadu",
+        "aliases": [
+          "Varasudochadu",
+          "Varasudocchadu"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raghu / Bose.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "prema",
+        "canonical": "Prema",
+        "aliases": [
+          "Prema (1989)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Pruthvi.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "ontari-poratam",
+        "canonical": "Ontari Poratam",
+        "aliases": [
+          "Ontari Poratam (1989)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raja.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "dhruva-nakshatram",
+        "canonical": "Dhruva Nakshatram",
+        "aliases": [
+          "Dhruva Nakshathram"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Dhruva Kumar.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "jayammu-nischayammu-raa",
+        "canonical": "Jayammu Nischayammu Raa",
+        "aliases": [
+          "Jayammu Nischayammu Ra"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh appears as himself in a cameo.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "two-town-rowdy",
+        "canonical": "Two Town Rowdy",
+        "aliases": [
+          "2 Town Rowdy"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Sakthi.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "aggiramudu",
+        "canonical": "Aggiramudu",
+        "aliases": [
+          "Aggi Ramudu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Aggi Ramudu Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "bobbili-raja",
+        "canonical": "Bobbili Raja",
+        "aliases": [],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raja.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "sathruvu",
+        "canonical": "Sathruvu",
+        "aliases": [
+          "Shatruvu",
+          "Satruvu"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ashok.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "coolie-no-1",
+        "canonical": "Coolie No.1",
+        "aliases": [
+          "Coolie No 1",
+          "Coolie Number One"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raju / Bharath.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "surya-ips",
+        "canonical": "Surya IPS",
+        "aliases": [
+          "Surya I.P.S."
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Surya.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "kshana-kshanam",
+        "canonical": "Kshana Kshanam",
+        "aliases": [
+          "Kshana Kshanam (1991)",
+          "Kshanakshanam"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Chandu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "chanti",
+        "canonical": "Chanti",
+        "aliases": [
+          "Chanti (1992)"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "chinarayudu",
+        "canonical": "Chinarayudu",
+        "aliases": [
+          "Chinna Rayudu",
+          "Chinna Rayudu (1992)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "sundarakanda",
+        "canonical": "Sundarakanda",
+        "aliases": [
+          "Sundara Kanda"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venkateswarlu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "anari",
+        "canonical": "Anari",
+        "aliases": [
+          "Anari (1993)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Rama in this Hindi film.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "kondapalli-raja",
+        "canonical": "Kondapalli Raja",
+        "aliases": [],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raja.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "abbaigaru",
+        "canonical": "Abbaigaru",
+        "aliases": [
+          "Abbayigaru",
+          "Abbaigaaru"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Dora Babu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "super-police",
+        "canonical": "Super Police",
+        "aliases": [
+          "Super Police (1994)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "muddula-priyudu",
+        "canonical": "Muddula Priyudu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ramu Raju.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "pokiri-raja",
+        "canonical": "Pokiri Raja",
+        "aliases": [
+          "Pokiri Raja (1995)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Chanti Balaraju.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "taqdeerwala",
+        "canonical": "Taqdeerwala",
+        "aliases": [
+          "Takdeerwala",
+          "Taqdeer Wala"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Suraj in this Hindi film.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "dharma-chakram",
+        "canonical": "Dharma Chakram",
+        "aliases": [
+          "Dharmachakram"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Rakesh.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "sahasa-veerudu-sagara-kanya",
+        "canonical": "Sahasa Veerudu Sagara Kanya",
+        "aliases": [
+          "Sahasa Veerudu Sagarakanya"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ravi Chandra.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "intlo-illalu-vantintlo-priyuralu",
+        "canonical": "Intlo Illalu Vantintlo Priyuralu",
+        "aliases": [
+          "Intlo Illalu Vantintlo Priyuraalu"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Sriram.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "saradha-bullodu",
+        "canonical": "Saradha Bullodu",
+        "aliases": [
+          "Sarada Bullodu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "pavithra-bandham",
+        "canonical": "Pavithra Bandham",
+        "aliases": [
+          "Pavitra Bandham"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "chinnabbayi",
+        "canonical": "Chinnabbayi",
+        "aliases": [
+          "Chinnabbai"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Sundarayya.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "preminchukundam-raa",
+        "canonical": "Preminchukundam Raa",
+        "aliases": [
+          "Preminchukundam Ra"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Giri.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "pellichesukundam",
+        "canonical": "Pellichesukundam",
+        "aliases": [
+          "Pelli Chesukundam"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Aanand.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "suryavamsam",
+        "canonical": "Suryavamsam",
+        "aliases": [
+          "Surya Vamsam",
+          "Suryavamsham"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Harischandra Prasad Bhanu Prasad.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "ganesh",
+        "canonical": "Ganesh",
+        "aliases": [
+          "Ganesh (1998)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "premante-idera",
+        "canonical": "Premante Idera",
+        "aliases": [
+          "Premante Idhera"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Murali.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "raja",
+        "canonical": "Raja",
+        "aliases": [
+          "Raja (1999)"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "seenu",
+        "canonical": "Seenu",
+        "aliases": [
+          "Seenu (1999)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "kalisundam-raa",
+        "canonical": "Kalisundam Raa",
+        "aliases": [
+          "Kalisundam Ra"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raghu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "jayam-manade-raa",
+        "canonical": "Jayam Manade Raa",
+        "aliases": [
+          "Jayam Manade Ra"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Venkatesh in dual roles.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "devi-putrudu",
+        "canonical": "Devi Putrudu",
+        "aliases": [
+          "Devi Puthrudu",
+          "Deviputrudu"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Venkatesh in dual roles.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "prematho-raa",
+        "canonical": "Prematho Raa",
+        "aliases": [
+          "Prematho Ra"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Chandra Sekhar, also called Chandu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "nuvvu-naaku-nachav",
+        "canonical": "Nuvvu Naaku Nachav",
+        "aliases": [
+          "Nuvvu Naku Nachav",
+          "Nuvvu Naaku Nachavu"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venkateswarlu, also called Venky.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "vasu",
+        "canonical": "Vasu",
+        "aliases": [
+          "Vasu (2002)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "gemeni",
+        "canonical": "Gemeni",
+        "aliases": [
+          "Gemini",
+          "Gemini (2002)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "vasantham",
+        "canonical": "Vasantham",
+        "aliases": [
+          "Vasantam"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ashok.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "malliswari",
+        "canonical": "Malliswari",
+        "aliases": [
+          "Malleeswari",
+          "Malliswari (2004)"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Vara Prasad.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "gharshana",
+        "canonical": "Gharshana",
+        "aliases": [
+          "Gharshana (2004)"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as DCP Raamachandra.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "sankranthi",
+        "canonical": "Sankranthi",
+        "aliases": [
+          "Sankranti"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Raghavendra.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "subash-chandra-bose",
+        "canonical": "Subash Chandra Bose",
+        "aliases": [
+          "Subhash Chandra Bose",
+          "Subhas Chandra Bose"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Subash Chandra Bose Asok.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "lakshmi",
+        "canonical": "Lakshmi",
+        "aliases": [
+          "Lakshmi (2006)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Lakshmi Narayana.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "adavari-matalaku-ardhalu-verule",
+        "canonical": "Adavari Matalaku Ardhalu Verule",
+        "aliases": [
+          "Aadavari Matalaku Arthale Verule",
+          "Aadavari Matalaku Ardhalu Verule",
+          "AMAV"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ganesh.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "tulasi",
+        "canonical": "Tulasi",
+        "aliases": [
+          "Thulasi",
+          "Tulasi (2007)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Parvathaneni Tulasi Ram.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "chintakayala-ravi",
+        "canonical": "Chintakayala Ravi",
+        "aliases": [
+          "Chinthakayala Ravi"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Ravi.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "eenaadu",
+        "canonical": "Eenaadu",
+        "aliases": [
+          "Eenadu",
+          "Eenaadu (2009)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Commissioner Eeshwar Prasad.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "namo-venkatesa",
+        "canonical": "Namo Venkatesa",
+        "aliases": [
+          "Namo Venkatesha"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Parvateneni Venkataramana, also called Venky.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "nagavalli",
+        "canonical": "Nagavalli",
+        "aliases": [
+          "Nagavalli (2010)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Naagabhairava Raajasekhara Vijay.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "bodyguard",
+        "canonical": "Bodyguard",
+        "aliases": [
+          "Bodyguard (2012)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venkatadri / Venky.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "krishnam-vande-jagadgurum",
+        "canonical": "Krishnam Vande Jagadgurum",
+        "aliases": [
+          "Krishnam Vande Jagadgurum (2012)"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has a special appearance as Ballari Babu in a song.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "seethamma-vakitlo-sirimalle-chettu",
+        "canonical": "Seethamma Vakitlo Sirimalle Chettu",
+        "aliases": [
+          "SVSC",
+          "Seethamma Vaakitlo Sirimalle Chettu"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Peddodu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "shadow",
+        "canonical": "Shadow",
+        "aliases": [
+          "Shadow (2013)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Rajaram.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "masala",
+        "canonical": "Masala",
+        "aliases": [
+          "Masala (2013)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venkata Raja Narasimha Balaram.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "drushyam",
+        "canonical": "Drushyam",
+        "aliases": [
+          "Drushyam (2014)",
+          "Drishyam"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Rambabu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "gopala-gopala",
+        "canonical": "Gopala Gopala",
+        "aliases": [],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Gopalaraao.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "babu-bangaram",
+        "canonical": "Babu Bangaram",
+        "aliases": [
+          "Baabu Bangaram"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as ACP Krishna.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "premam",
+        "canonical": "Premam",
+        "aliases": [
+          "Premam (2016)"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has a cameo as DCP Rama Chandra.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "guru",
+        "canonical": "Guru",
+        "aliases": [
+          "Guru (2017)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Aditya.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "agnyaathavaasi",
+        "canonical": "Agnyaathavaasi",
+        "aliases": [
+          "Agnathavasi",
+          "Agnyathavasi",
+          "Agnyaathavaasi (2018)"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has a cameo as Guru.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "f2-fun-and-frustration",
+        "canonical": "F2: Fun and Frustration",
+        "aliases": [
+          "F2",
+          "F2 Fun and Frustration",
+          "F 2"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venky.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "venky-mama",
+        "canonical": "Venky Mama",
+        "aliases": [
+          "Venky Maama"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venkataratnam in this film.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "narappa",
+        "canonical": "Narappa",
+        "aliases": [
+          "Naarappa"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh plays the title character.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "drushyam-2",
+        "canonical": "Drushyam 2",
+        "aliases": [
+          "Drishyam 2",
+          "Drushyam II"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Rambabu.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "f3-fun-and-frustration",
+        "canonical": "F3: Fun and Frustration",
+        "aliases": [
+          "F3",
+          "F3 Fun and Frustration",
+          "F 3"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Venky.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "ori-devuda",
+        "canonical": "Ori Devuda",
+        "aliases": [
+          "Ori Devudaa"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has an extended cameo as God.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "kisi-ka-bhai-kisi-ki-jaan",
+        "canonical": "Kisi Ka Bhai Kisi Ki Jaan",
+        "aliases": [
+          "KKBKKJ"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Gundamaneni Balakrishna in this Hindi film.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "saindhav",
+        "canonical": "Saindhav",
+        "aliases": [
+          "Saindhav (2024)"
+        ],
+        "familiarity": 0.0116,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Saindhav Koneru, also called SaiKo.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "sankranthiki-vasthunam",
+        "canonical": "Sankranthiki Vasthunam",
+        "aliases": [
+          "Sankranthiki Vastunnam",
+          "Sankranthiki Vasthunnam"
+        ],
+        "familiarity": 0.0289,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Yadagiri Damodara Sinaraju IPS.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "mana-shankara-vara-prasad-garu",
+        "canonical": "Mana Shankara Vara Prasad Garu",
+        "aliases": [
+          "Mana Shankara Varaprasad Garu"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited with an extended cameo as Venky Gowda, and the entry is not marked unreleased.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      },
+      {
+        "id": "aadarsha-kutumbam-house-no-47-ak47",
+        "canonical": "Aadarsha Kutumbam House No: 47 - AK47",
+        "aliases": [
+          "Aadarsha Kutumbam",
+          "Adarsha Kutumbam",
+          "AK47",
+          "Aadarsha Kutumbam House No 47"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is credited as Chittibabu, and the entry is not marked unreleased.",
+        "sourceIds": [
+          "venkatesh-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are the films listed in the supplied filmography's acting table that are not marked unreleased. Telugu, Tamil and Hindi films count, including cameos and child roles; television and voice-only credits do not.",
+    "sources": [
+      {
+        "id": "venkatesh-filmography",
+        "title": "Venkatesh filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Venkatesh_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "12b29d326e794185",
+    "brief": "Name a film in which the Telugu actor Venkatesh has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "venkatesh-filmography",
+        "version": "1382751602",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Prema Nagar": "1971 | Prema Nagar | Young Kesava Varma | Child artist |",
+      "Vasantha Maligai": "1972 | Vasantha Maligai | Young Vijay Kumar | Child artist; Tamil film; footage reused from Prema Nagar |",
+      "Kaliyuga Pandavulu": "1986 | Kaliyuga Pandavulu | Vijay | |",
+      "Brahma Rudrulu": "1986 | Brahma Rudrulu | Satya Prasad | |",
+      "Ajeyudu": "1987 | Ajeyudu | Murali | |",
+      "Bharatamlo Arjunudu": "1987 | Bharatamlo Arjunudu | Arjun | |",
+      "Trimurtulu": "1987 | Trimurtulu | Raja | |",
+      "Vijetha Vikram": "1987 | Vijetha Vikram | Vikram | |",
+      "Srinivasa Kalyanam": "1987 | Srinivasa Kalyanam | Srinivas | |",
+      "Raktha Tilakam": "1988 | Raktha Tilakam | Krishna Prasad | |",
+      "Brahma Puthrudu": "1988 | Brahma Puthrudu | Sakthi | |",
+      "Swarna Kamalam": "1988 | Swarna Kamalam | Chandra Sehkar | |",
+      "Varasudochhadu": "1988 | Varasudochhadu | Raghu / Bose | |",
+      "Prema": "1989 | Prema | Pruthvi | |",
+      "Ontari Poratam": "1989 | Ontari Poratam | Raja | |",
+      "Dhruva Nakshatram": "1989 | Dhruva Nakshatram | Dhruva Kumar | |",
+      "Jayammu Nischayammu Raa": "1989 | Jayammu Nischayammu Raa | Himself | Cameo appearance |",
+      "Two Town Rowdy": "1989 | Two Town Rowdy | Sakthi | |",
+      "Aggiramudu": "1990 | Aggiramudu | Aggi Ramudu Vijay | |",
+      "Bobbili Raja": "1990 | Bobbili Raja | Raja | |",
+      "Sathruvu": "1991 | Sathruvu | Ashok | |",
+      "Coolie No.1": "1991 | Coolie No.1 | Raju / Bharath | |",
+      "Surya IPS": "1991 | Surya IPS | Surya | |",
+      "Kshana Kshanam": "1991 | Kshana Kshanam | Chandu | |",
+      "Chanti": "1992 | Chanti | Chanti | |",
+      "Chinarayudu": "1992 | Chinarayudu | Chinarayudu | |",
+      "Sundarakanda": "1992 | Sundarakanda | Venkateswarlu | |",
+      "Anari": "1993 | Anari | Rama | Hindi film |",
+      "Kondapalli Raja": "1993 | Kondapalli Raja | Raja | |",
+      "Abbaigaru": "1993 | Abbaigaru | Dora Babu | |",
+      "Super Police": "1994 | Super Police | Vijay | |",
+      "Muddula Priyudu": "1994 | Muddula Priyudu | Ramu Raju | |",
+      "Pokiri Raja": "1995 | Pokiri Raja | Chanti Balaraju | |",
+      "Taqdeerwala": "1995 | Taqdeerwala | Suraj | Hindi film |",
+      "Dharma Chakram": "1996 | Dharma Chakram | Rakesh | |",
+      "Sahasa Veerudu Sagara Kanya": "1996 | Sahasa Veerudu Sagara Kanya | Ravi Chandra | |",
+      "Intlo Illalu Vantintlo Priyuralu": "1996 | Intlo Illalu Vantintlo Priyuralu | Sriram | |",
+      "Saradha Bullodu": "1996 | Saradha Bullodu | Vijay | |",
+      "Pavithra Bandham": "1996 | Pavithra Bandham | Vijay | |",
+      "Chinnabbayi": "1997 | Chinnabbayi | Sundarayya | |",
+      "Preminchukundam Raa": "1997 | Preminchukundam Raa | Giri | |",
+      "Pellichesukundam": "1997 | Pellichesukundam | Aanand | |",
+      "Suryavamsam": "1998 | Suryavamsam | Harischandra Prasad Bhanu Prasad | |",
+      "Ganesh": "1998 | Ganesh | Ganesh | |",
+      "Premante Idera": "1998 | Premante Idera | Murali | |",
+      "Raja": "1999 | Raja | Raja | |",
+      "Seenu": "1999 | Seenu | Seenu | |",
+      "Kalisundam Raa": "2000 | Kalisundam Raa | Raghu | |",
+      "Jayam Manade Raa": "2000 | Jayam Manade Raa | Mahadeva Naidu Rudrama Naidu / Abhiram | Dual role in both films |",
+      "Devi Putrudu": "2001 | Devi Putrudu | Balaram Krishna | Dual role in both films |",
+      "Prematho Raa": "2001 | Prematho Raa | Chandra Sekhar \"Chandu\" | |",
+      "Nuvvu Naaku Nachav": "2001 | Nuvvu Naaku Nachav | Venkateswarlu \"Venky\" | |",
+      "Vasu": "2002 | Vasu | Vasu | |",
+      "Gemeni": "2002 | Gemeni | Gemeni | |",
+      "Vasantham": "2003 | Vasantham | Ashok | |",
+      "Malliswari": "2004 | Malliswari | Vara Prasad | |",
+      "Gharshana": "2004 | Gharshana | DCP Raamachandra | |",
+      "Sankranthi": "2005 | Sankranthi | Raghavendra | |",
+      "Subash Chandra Bose": "2005 | Subash Chandra Bose | Subash Chandra Bose Asok | |",
+      "Lakshmi": "2006 | Lakshmi | Lakshmi Narayana | |",
+      "Adavari Matalaku Ardhalu Verule": "2007 | Adavari Matalaku Ardhalu Verule | Ganesh | |",
+      "Tulasi": "2007 | Tulasi | Parvathaneni Tulasi Ram | |",
+      "Chintakayala Ravi": "2008 | Chintakayala Ravi | Ravi | |",
+      "Eenaadu": "2009 | Eenaadu | Commissioner Eeshwar Prasad | |",
+      "Namo Venkatesa": "2010 | Namo Venkatesa | Parvateneni Venkataramana \"Venky\" | |",
+      "Nagavalli": "2010 | Nagavalli | Naagabhairava Raajasekhara Vijay | |",
+      "Bodyguard": "2012 | Bodyguard | Venkatadri / Venky | |",
+      "Krishnam Vande Jagadgurum": "2012 | Krishnam Vande Jagadgurum | Ballari Babu | Special appearance in the song \"Sye Andre Nanu\"",
+      "Seethamma Vakitlo Sirimalle Chettu": "2013 | Seethamma Vakitlo Sirimalle Chettu | Peddodu | |",
+      "Shadow": "2013 | Shadow | Rajaram | |",
+      "Masala": "2013 | Masala | Venkata Raja Narasimha Balaram | |",
+      "Drushyam": "2014 | Drushyam | Rambabu | |",
+      "Gopala Gopala": "2015 | Gopala Gopala | Gopalaraao | |",
+      "Babu Bangaram": "2016 | Babu Bangaram | ACP Krishna | |",
+      "Premam": "2016 | Premam | DCP Rama Chandra | Cameo appearance |",
+      "Guru": "2017 | Guru | Aditya | |",
+      "Agnyaathavaasi": "2018 | Agnyaathavaasi | Guru | Cameo appearance |",
+      "F2: Fun and Frustration": "2019 | F2: Fun and Frustration | Venky | |",
+      "Venky Mama": "2019 | Venky Mama | Venkataratnam",
+      "Narappa": "2021 | Narappa | Narappa | |",
+      "Drushyam 2": "2021 | Drushyam 2 | Rambabu | |",
+      "F3: Fun and Frustration": "2022 | F3: Fun and Frustration | Venky | |",
+      "Ori Devuda": "2022 | Ori Devuda | God | Extended Cameo |",
+      "Kisi Ka Bhai Kisi Ki Jaan": "2023 | Kisi Ka Bhai Kisi Ki Jaan | Gundamaneni Balakrishna alias \"Rowdy Anna\" | Hindi film |",
+      "Saindhav": "2024 | Saindhav | Saindhav Koneru \"SaiKo\" | 75th Film |",
+      "Sankranthiki Vasthunam": "2025 | Sankranthiki Vasthunam | Yadagiri Damodara Sinaraju IPS \"Raju\" alias YD Raju / Yama Dharma Raju | |",
+      "Mana Shankara Vara Prasad Garu": "2026 | Mana Shankara Vara Prasad Garu | Venky Gowda | Extended Cameo |",
+      "Aadarsha Kutumbam House No: 47 - AK47": "2026 | Aadarsha Kutumbam House No: 47 - AK47 | Chittibabu | |"
+    },
+    "issues": []
+  }
+}

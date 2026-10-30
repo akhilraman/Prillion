@@ -1,0 +1,475 @@
+{
+  "question": {
+    "id": "tollywood-pawan-kalyan-films",
+    "category": "tollywood",
+    "prompt": "Name a movie in Pawan Kalyan's acting filmography, including cameo appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "akkada-ammayi-ikkada-abbayi",
+        "canonical": "Akkada Ammayi Ikkada Abbayi",
+        "aliases": [
+          "Akkada Ammai Ikkada Abbai"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Pawan Kalyan as Kalyan in this 1996 film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "gokulamlo-seeta",
+        "canonical": "Gokulamlo Seeta",
+        "aliases": [
+          "Gokulamlo Sita",
+          "Gokulamlo Seetha"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him in this 1997 film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "suswagatham",
+        "canonical": "Suswagatham",
+        "aliases": [
+          "Suswagatam"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Ganesh in Suswagatham.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "tholi-prema",
+        "canonical": "Tholi Prema",
+        "aliases": [
+          "Toli Prema",
+          "Tholiprema"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Balu in this 1998 film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "thammudu",
+        "canonical": "Thammudu",
+        "aliases": [
+          "Thamudu",
+          "Tammudu"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Subramanyam in Thammudu.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "badri",
+        "canonical": "Badri",
+        "aliases": [],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Badrinath in Badri.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "kushi",
+        "canonical": "Kushi",
+        "aliases": [
+          "Khushi",
+          "Kushi (2001)"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Siddhartha Roy in Kushi.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "johnny",
+        "canonical": "Johnny",
+        "aliases": [
+          "Johny"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role of Johnny.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "gudumba-shankar",
+        "canonical": "Gudumba Shankar",
+        "aliases": [
+          "Gudumba Sankar"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Gudumba Shankar / Kalyan in this film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "shankar-dada-m-b-b-s",
+        "canonical": "Shankar Dada M.B.B.S.",
+        "aliases": [
+          "Shankar Dada MBBS",
+          "Shankardada MBBS"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him with a cameo as Gudumba Shankar.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "balu",
+        "canonical": "Balu",
+        "aliases": [],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Balu / Ghani in this 2005 film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "bangaram",
+        "canonical": "Bangaram",
+        "aliases": [
+          "Bangaaram"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him in the title role of Bangaram.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "annavaram",
+        "canonical": "Annavaram",
+        "aliases": [],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Annavaram / Pothu Raju.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "shankar-dada-zindabad",
+        "canonical": "Shankar Dada Zindabad",
+        "aliases": [
+          "Shankardada Zindabad"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him with a cameo as Suresh.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "jalsa",
+        "canonical": "Jalsa",
+        "aliases": [],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Sanjay Saahu in Jalsa.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "puli",
+        "canonical": "Puli",
+        "aliases": [
+          "Komaram Puli"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Komaram Puli in Puli.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "teen-maar",
+        "canonical": "Teen Maar",
+        "aliases": [
+          "Teenmar",
+          "Teenmaar",
+          "Teen Mar"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table credits him with dual roles in Teen Maar.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "panjaa",
+        "canonical": "Panjaa",
+        "aliases": [
+          "Panja"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Jai in Panjaa.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as CI Venkataratnam Naidu / Gabbar Singh.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "cameraman-gangatho-rambabu",
+        "canonical": "Cameraman Gangatho Rambabu",
+        "aliases": [
+          "Cameraman Ganga Tho Rambabu"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Ram Prakash in this film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [
+          "Attarintiki Daaredi",
+          "Atharintiki Daredi"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Gowtham Nanda / Siddhu.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "gopala-gopala",
+        "canonical": "Gopala Gopala",
+        "aliases": [],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Lord Krishna in Gopala Gopala.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "sardaar-gabbar-singh",
+        "canonical": "Sardaar Gabbar Singh",
+        "aliases": [
+          "Sardar Gabbar Singh"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him in the title role of Sardaar Gabbar Singh.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "katamarayudu",
+        "canonical": "Katamarayudu",
+        "aliases": [
+          "Katama Rayudu",
+          "Kaatamarayudu"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role of Katamarayudu.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "agnyaathavaasi",
+        "canonical": "Agnyaathavaasi",
+        "aliases": [
+          "Agnathavasi",
+          "Agnyaathavasi",
+          "Agnyathavasi"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Abhishiktha Bhargav / Balasubramanyam.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "vakeel-saab",
+        "canonical": "Vakeel Saab",
+        "aliases": [
+          "Vakil Saab",
+          "Vakeel Sab"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as advocate Konidela Sathyadev in Vakeel Saab.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "bheemla-nayak",
+        "canonical": "Bheemla Nayak",
+        "aliases": [
+          "Bhimla Nayak",
+          "Bheemla Naik"
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as SI Sarhad Bheemla Nayak.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "bro",
+        "canonical": "Bro",
+        "aliases": [
+          "Bro (2023)"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as the God of Time in Bro.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "hari-hara-veera-mallu",
+        "canonical": "Hari Hara Veera Mallu",
+        "aliases": [
+          "Harihara Veera Mallu",
+          "Hari Hara Veeramallu"
+        ],
+        "familiarity": 0.0255,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Veera Mallu in this 2025 entry.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "they-call-him-og",
+        "canonical": "They Call Him OG",
+        "aliases": [
+          "OG",
+          "They Call Him O.G."
+        ],
+        "familiarity": 0.0637,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Ojas Gambheera / Master Orochi Genshin in this film.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      },
+      {
+        "id": "ustaad-bhagat-singh",
+        "canonical": "Ustaad Bhagat Singh",
+        "aliases": [
+          "Ustad Bhagat Singh"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting table lists him as Ustaad Bhagat Singh IPS in this 2026 entry.",
+        "sourceIds": [
+          "pawan-kalyan-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are the 31 titles listed in the acting section of Pawan Kalyan's filmography, including cameos and entries dated through 2026. Films listed only under his other crew roles do not count.",
+    "sources": [
+      {
+        "id": "pawan-kalyan-filmography",
+        "title": "Pawan Kalyan filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pawan_Kalyan_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "3870d73bd00debc5",
+    "brief": "Name a movie starring Pawan Kalyan.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "pawan-kalyan-filmography",
+        "version": "1380059870",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Akkada Ammayi Ikkada Abbayi": "1996 | Akkada Ammayi Ikkada Abbayi | Kalyan | credited as Kalyan Babu |",
+      "Gokulamlo Seeta": "1997 | Gokulamlo Seeta | Pawan Kalyan | |",
+      "Suswagatham": "1998 | Suswagatham | Ganesh | |",
+      "Tholi Prema": "1998 | Tholi Prema | Balu | |",
+      "Thammudu": "1999 | Thammudu | Subramanyam \"Subhash/Subbu\" | |",
+      "Badri": "2000 | Badri | Badrinath \"Badri\" | |",
+      "Kushi": "2001 | Kushi | Siddhartha \"Siddhu\" Roy | |",
+      "Johnny": "2003 | Johnny | Johnny | |",
+      "Gudumba Shankar": "2004 | Gudumba Shankar | Gudumba Shankar / Kalyan | |",
+      "Shankar Dada M.B.B.S.": "2004 | Shankar Dada M.B.B.S. | Gudumba Shankar | Cameo appearance |",
+      "Balu": "2005 | Balu | Balu / Ghani | |",
+      "Bangaram": "2006 | Bangaram | Bangaram | |",
+      "Annavaram": "2006 | Annavaram | Annavaram / Pothu Raju | |",
+      "Shankar Dada Zindabad": "2007 | Shankar Dada Zindabad | Suresh | Cameo appearance |",
+      "Jalsa": "2008 | Jalsa | Sanjay \"Sanju\" Saahu | |",
+      "Puli": "2010 | Puli | Komaram Puli | |",
+      "Teen Maar": "2011 | Teen Maar | Arjun Palwai and Michael Velayudham | Dual role |",
+      "Panjaa": "2011 | Panjaa | Jai | |",
+      "Gabbar Singh": "2012 | Gabbar Singh | CI Venkataratnam Naidu / Gabbar Singh | |",
+      "Cameraman Gangatho Rambabu": "2012 | Cameraman Gangatho Rambabu | Ram Prakash “Rambabu” | |",
+      "Attarintiki Daredi": "2013 | Attarintiki Daredi | Gowtham Nanda / Siddhu | |",
+      "Gopala Gopala": "2015 | Gopala Gopala | Lord Krishna | |",
+      "Sardaar Gabbar Singh": "2016 | Sardaar Gabbar Singh | Sardaar Gabbar Singh | |",
+      "Katamarayudu": "2017 | Katamarayudu | Katamarayudu | |",
+      "Agnyaathavaasi": "2018 | Agnyaathavaasi | Abhishiktha Bhargav / Balasubramanyam | |",
+      "Vakeel Saab": "2021 | Vakeel Saab | Adv. Konidela Sathyadev | |",
+      "Bheemla Nayak": "2022 | Bheemla Nayak | SI Sarhad Bheemla Nayak | |",
+      "Bro": "2023 | Bro | God of Time \"Titan\" | |",
+      "Hari Hara Veera Mallu": "2025 | Hari Hara Veera Mallu | Veera Mallu | |",
+      "They Call Him OG": "2025 | They Call Him OG | Ojas Gambheera / Master Orochi Genshin \"OG\" | |",
+      "Ustaad Bhagat Singh": "2026 | Ustaad Bhagat Singh | Ustaad Bhagat Singh IPS | |"
+    },
+    "issues": []
+  }
+}

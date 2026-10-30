@@ -1,0 +1,395 @@
+{
+  "question": {
+    "id": "space-fictional-planets",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a fictional planet from a movie, TV show, book or video game.",
+    "answerSet": "open",
+    "criteria": "Any invented planet named or depicted in a released movie, TV show, book or video game counts; real planets, moons and space stations do not.",
+    "answers": [
+      {
+        "id": "tatooine",
+        "canonical": "Tatooine",
+        "aliases": [],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tatooine is the desert planet where Luke Skywalker grows up in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "krypton",
+        "canonical": "Krypton",
+        "aliases": [],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krypton is Superman's original home planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "arrakis",
+        "canonical": "Arrakis",
+        "aliases": [
+          "Dune",
+          "Rakis"
+        ],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arrakis is the desert planet central to the Dune series.",
+        "sourceIds": []
+      },
+      {
+        "id": "vulcan",
+        "canonical": "Vulcan",
+        "aliases": [],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vulcan is Spock's home planet in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "coruscant",
+        "canonical": "Coruscant",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coruscant is a city-covered planet that serves as the Republic's capital in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "hoth",
+        "canonical": "Hoth",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hoth is the icy planet housing a Rebel base in The Empire Strikes Back.",
+        "sourceIds": []
+      },
+      {
+        "id": "naboo",
+        "canonical": "Naboo",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naboo is Padmé Amidala's home planet in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "alderaan",
+        "canonical": "Alderaan",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alderaan is Princess Leia's home planet in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "dagobah",
+        "canonical": "Dagobah",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dagobah is the swamp planet where Yoda trains Luke Skywalker in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "mustafar",
+        "canonical": "Mustafar",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mustafar is the volcanic planet where Obi-Wan Kenobi duels Anakin Skywalker in Revenge of the Sith.",
+        "sourceIds": []
+      },
+      {
+        "id": "gallifrey",
+        "canonical": "Gallifrey",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gallifrey is the home planet of the Time Lords in Doctor Who.",
+        "sourceIds": []
+      },
+      {
+        "id": "cybertron",
+        "canonical": "Cybertron",
+        "aliases": [],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cybertron is the home planet of the Transformers.",
+        "sourceIds": []
+      },
+      {
+        "id": "namek",
+        "canonical": "Namek",
+        "aliases": [
+          "Planet Namek",
+          "Namekku"
+        ],
+        "familiarity": 0.0393,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Namek is the home planet of the Namekians in Dragon Ball.",
+        "sourceIds": []
+      },
+      {
+        "id": "reach",
+        "canonical": "Reach",
+        "aliases": [
+          "Planet Reach"
+        ],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Reach is a human colony planet and the principal setting of Halo: Reach.",
+        "sourceIds": []
+      },
+      {
+        "id": "magrathea",
+        "canonical": "Magrathea",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magrathea is a planet associated with custom planet construction in The Hitchhiker's Guide to the Galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "trantor",
+        "canonical": "Trantor",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trantor is the city-covered capital planet of the Galactic Empire in Isaac Asimov's Foundation series.",
+        "sourceIds": []
+      },
+      {
+        "id": "solaris",
+        "canonical": "Solaris",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solaris is the planet with a mysterious ocean in Stanisław Lem's novel Solaris and its film adaptations.",
+        "sourceIds": []
+      },
+      {
+        "id": "zebes",
+        "canonical": "Zebes",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zebes is the planet explored in Metroid and Super Metroid.",
+        "sourceIds": []
+      },
+      {
+        "id": "tallon-iv",
+        "canonical": "Tallon IV",
+        "aliases": [
+          "Tallon 4"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tallon IV is the main planetary setting of Metroid Prime.",
+        "sourceIds": []
+      },
+      {
+        "id": "terminus",
+        "canonical": "Terminus",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terminus is the planet where the Foundation is established in Isaac Asimov's Foundation series.",
+        "sourceIds": []
+      },
+      {
+        "id": "pern",
+        "canonical": "Pern",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pern is the planet that gives Anne McCaffrey's Dragonriders of Pern series its name.",
+        "sourceIds": []
+      },
+      {
+        "id": "vogsphere",
+        "canonical": "Vogsphere",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vogsphere is the Vogons' home planet in The Hitchhiker's Guide to the Galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "bespin",
+        "canonical": "Bespin",
+        "aliases": [],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bespin is the gas giant containing Cloud City in The Empire Strikes Back.",
+        "sourceIds": []
+      },
+      {
+        "id": "omicron-persei-8",
+        "canonical": "Omicron Persei 8",
+        "aliases": [
+          "Omicron Persei VIII",
+          "Omicron Persei Eight"
+        ],
+        "familiarity": 0.0118,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Omicron Persei 8 is the home planet of Lrrr in Futurama.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Fictional planets can be homeworlds, capitals, battlefields or entire story settings. Answers can come from any franchise, not just space-themed ones.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "d1fdf0e76c3fdb8b",
+    "brief": "Name a fictional planet from a movie, TV show, book or game.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Tatooine": 3,
+      "Krypton": 3,
+      "Arrakis": 3,
+      "Vulcan": 3,
+      "Coruscant": 3,
+      "Hoth": 3,
+      "Naboo": 3,
+      "Alderaan": 3,
+      "Dagobah": 3,
+      "Mustafar": 3,
+      "Gallifrey": 3,
+      "Cybertron": 3,
+      "Namek": 3,
+      "Reach": 3,
+      "Zebes": 2,
+      "Tallon IV": 2,
+      "Magrathea": 3,
+      "Trantor": 3,
+      "Terminus": 2,
+      "Solaris": 3,
+      "Pern": 2,
+      "Vogsphere": 2,
+      "Bespin": 2,
+      "Omicron Persei 8": 2
+    },
+    "droppedForVotes": {
+      "Planet Vegeta": 1,
+      "Caprica": 1,
+      "Klendathu": 1,
+      "Gethen": 1,
+      "Pandora": 1,
+      "Azeroth": 1,
+      "Caladan": 1,
+      "Giedi Prime": 1,
+      "Corneria": 1,
+      "Sera": 1,
+      "Decapod 10": 1,
+      "Skaro": 1,
+      "Eternia": 1,
+      "Melmac": 1,
+      "Z'ha'dum": 1
+    },
+    "verdicts": {
+      "Tatooine": {
+        "verdict": "correct",
+        "reason": "Fictional desert planet in Star Wars where Luke Skywalker grows up."
+      },
+      "Krypton": {
+        "verdict": "correct",
+        "reason": "Superman's fictional home planet, depicted in released films and TV shows."
+      },
+      "Arrakis": {
+        "verdict": "correct",
+        "reason": "Fictional desert planet central to the Dune novels and films."
+      },
+      "Vulcan": {
+        "verdict": "correct",
+        "reason": "Spock's fictional home planet in Star Trek."
+      },
+      "Coruscant": {
+        "verdict": "correct",
+        "reason": "Fictional city-covered capital planet of the Republic in Star Wars."
+      },
+      "Hoth": {
+        "verdict": "correct",
+        "reason": "Fictional ice planet hosting the Rebel base in The Empire Strikes Back."
+      },
+      "Naboo": {
+        "verdict": "correct",
+        "reason": "Fictional planet in Star Wars and Padmé Amidala's homeworld."
+      },
+      "Alderaan": {
+        "verdict": "correct",
+        "reason": "Fictional planet in Star Wars where Princess Leia was raised."
+      },
+      "Dagobah": {
+        "verdict": "correct",
+        "reason": "Fictional swamp planet where Yoda trains Luke in Star Wars."
+      },
+      "Mustafar": {
+        "verdict": "correct",
+        "reason": "Fictional volcanic planet featured in Revenge of the Sith."
+      },
+      "Gallifrey": {
+        "verdict": "correct",
+        "reason": "Fictional home planet of the Time Lords in Doctor Who."
+      },
+      "Cybertron": {
+        "verdict": "correct",
+        "reason": "Fictional home planet of the Transformers, depicted in television and films."
+      },
+      "Namek": {
+        "verdict": "correct",
+        "reason": "Fictional home planet of the Namekians, featured in Dragon Ball Z."
+      },
+      "Reach": {
+        "verdict": "correct",
+        "reason": "Fictional human colony planet serving as the main setting of Halo: Reach."
+      },
+      "Magrathea": {
+        "verdict": "correct",
+        "reason": "Fictional planet associated with planet-building in The Hitchhiker's Guide to the Galaxy."
+      },
+      "Trantor": {
+        "verdict": "correct",
+        "reason": "Fictional city-covered imperial capital planet in Asimov's Foundation series."
+      },
+      "Solaris": {
+        "verdict": "correct",
+        "reason": "Fictional ocean-covered planet in Lem's Solaris and its film adaptations."
+      },
+      "Zebes": {
+        "verdict": "correct",
+        "reason": "Fictional planet serving as the setting of Metroid and Super Metroid."
+      },
+      "Tallon IV": {
+        "verdict": "correct",
+        "reason": "Fictional planet that is the main setting of Metroid Prime."
+      },
+      "Terminus": {
+        "verdict": "correct",
+        "reason": "Fictional planet where the Foundation is established in Asimov's series."
+      },
+      "Pern": {
+        "verdict": "correct",
+        "reason": "Fictional planet that is the setting of Anne McCaffrey's Dragonriders of Pern books."
+      },
+      "Vogsphere": {
+        "verdict": "correct",
+        "reason": "Fictional Vogon home planet, depicted in The Hitchhiker's Guide to the Galaxy film."
+      },
+      "Bespin": {
+        "verdict": "correct",
+        "reason": "Fictional gas giant whose atmosphere hosts Cloud City in The Empire Strikes Back."
+      },
+      "Omicron Persei 8": {
+        "verdict": "correct",
+        "reason": "Fictional planet ruled by Lrrr in Futurama."
+      }
+    },
+    "issues": []
+  }
+}

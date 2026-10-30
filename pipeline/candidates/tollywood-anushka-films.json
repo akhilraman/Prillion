@@ -1,0 +1,686 @@
+{
+  "question": {
+    "id": "tollywood-anushka-films",
+    "category": "tollywood",
+    "prompt": "Name a movie in Anushka Shetty's filmography, including cameos and unreleased films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "super",
+        "canonical": "Super",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Sasha in this 2005 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "mahanandi",
+        "canonical": "Mahanandi",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Nandini in this 2005 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "astram",
+        "canonical": "Astram",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Anusha in this 2006 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "vikramarkudu",
+        "canonical": "Vikramarkudu",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Neeraja Goswami in this 2006 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "stalin",
+        "canonical": "Stalin",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a special song appearance in this 2006 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "rendu",
+        "canonical": "Rendu",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Jyothi in this 2006 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "lakshyam",
+        "canonical": "Lakshyam",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Indu in this 2007 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "don",
+        "canonical": "Don",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Priya in this 2007 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "okka-magaadu",
+        "canonical": "Okka Magaadu",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Bhavani in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "swagatam",
+        "canonical": "Swagatam",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Sailaja in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "baladoor",
+        "canonical": "Baladoor",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Bhanu in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "souryam",
+        "canonical": "Souryam",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Swetha in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "chintakayala-ravi",
+        "canonical": "Chintakayala Ravi",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Sunitha in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "king",
+        "canonical": "King",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a special song appearance in this 2008 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "arundhati",
+        "canonical": "Arundhati",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Arundhati and Jejamma in this 2009 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "billa",
+        "canonical": "Billa",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Maya in this 2009 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "vettaikaaran",
+        "canonical": "Vettaikaaran",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Susheela in this 2009 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "kedi",
+        "canonical": "Kedi",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a special song appearance in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "singam",
+        "canonical": "Singam",
+        "aliases": [
+          "Singam 1"
+        ],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Kavya Mahalingam in this 2010 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "vedam",
+        "canonical": "Vedam",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Saroja in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "panchakshari",
+        "canonical": "Panchakshari",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Panchakshari, Honey and Goddess Durga in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "khaleja",
+        "canonical": "Khaleja",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Subashini in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "thakita-thakita",
+        "canonical": "Thakita Thakita",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a cameo as herself in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "nagavalli",
+        "canonical": "Nagavalli",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Chandramukhi, also called Nagavalli, in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "ragada",
+        "canonical": "Ragada",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Sirisha in this 2010 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "vaanam",
+        "canonical": "Vaanam",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Saroja in this 2011 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "deiva-thirumagal",
+        "canonical": "Deiva Thirumagal",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Anuradha Raghunathan in this 2011 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "saguni",
+        "canonical": "Saguni",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a cameo as Inspector Anushka in this 2012 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "thaandavam",
+        "canonical": "Thaandavam",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Dr. Meenakshi Shiva Kumar in this 2012 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "damarukam",
+        "canonical": "Damarukam",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Maheshwari in this 2012 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "alex-pandian",
+        "canonical": "Alex Pandian",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Divya in this 2013 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "mirchi",
+        "canonical": "Mirchi",
+        "aliases": [],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Vennela in this 2013 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "singam-ii",
+        "canonical": "Singam II",
+        "aliases": [
+          "Singam 2"
+        ],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Kavya Mahalingam in this 2013 Tamil sequel.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "irandaam-ulagam",
+        "canonical": "Irandaam Ulagam",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Ramya, Varna and Anushka in this 2013 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "lingaa",
+        "canonical": "Lingaa",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Lakshmi in this 2014 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "yennai-arindhaal",
+        "canonical": "Yennai Arindhaal",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Thenmozhi in this 2015 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Devasena in this 2015 bilingual film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "rudhramadevi",
+        "canonical": "Rudhramadevi",
+        "aliases": [
+          "Rudramadevi",
+          "Rudrama Devi"
+        ],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played the title monarch in this 2015 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "size-zero",
+        "canonical": "Size Zero",
+        "aliases": [
+          "Inji Iduppazhagi"
+        ],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty appeared in Size Zero, filmed simultaneously in Tamil as Inji Iduppazhagi.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "soggade-chinni-nayana",
+        "canonical": "Soggade Chinni Nayana",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a cameo as Krishna Kumari in this 2016 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "oopiri",
+        "canonical": "Oopiri",
+        "aliases": [
+          "Thozha"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty had a cameo in Oopiri, filmed in Tamil as Thozha.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "si3",
+        "canonical": "Si3",
+        "aliases": [
+          "Singam 3",
+          "Singam III",
+          "S3"
+        ],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Kavya Durai Singam in this 2017 Tamil film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "om-namo-venkatesaya",
+        "canonical": "Om Namo Venkatesaya",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Krishnamma in this 2017 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty reprised Devasena in this 2017 film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "bhaagamathie",
+        "canonical": "Bhaagamathie",
+        "aliases": [
+          "Bhagamathie",
+          "Bhaagamathi",
+          "Bhagamathi"
+        ],
+        "familiarity": 0.0509,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Bhaagamathie and Chanchala in this 2018 bilingual film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty made a cameo as Rani Lakshmi Bai in this 2019 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "nishabdham",
+        "canonical": "Nishabdham",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Sakshi in this 2020 film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "miss-shetty-mr-polishetty",
+        "canonical": "Miss Shetty Mr Polishetty",
+        "aliases": [
+          "Miss Shetty Mr. Polishetty"
+        ],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shetty played Anvitha Ravali Shetty in this 2023 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "ghaati",
+        "canonical": "Ghaati",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Shetty as Sheelavathi in this 2025 Telugu film.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-epic",
+        "canonical": "Baahubali: The Epic",
+        "aliases": [
+          "Bahubali: The Epic"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography includes Shetty as Devasena in this combined re-release of the two Baahubali films.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      },
+      {
+        "id": "kathanar-the-wild-sorcerer",
+        "canonical": "Kathanar – The Wild Sorcerer",
+        "aliases": [
+          "Kathanar",
+          "Kathanar - The Wild Sorcerer"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Shetty as Nila in this unreleased Malayalam film in post-production.",
+        "sourceIds": [
+          "anushka-shetty-filmography"
+        ]
+      }
+    ],
+    "explanation": "These movies appear in the supplied filmography's Films section. Cameos, special appearances, the combined Baahubali re-release and the unreleased Kathanar count. Alternate-language titles of the same bilingual film are accepted together; television and music videos do not count.",
+    "sources": [
+      {
+        "id": "anushka-shetty-filmography",
+        "title": "Anushka Shetty filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anushka_Shetty_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "be0fb9bdc4637cd6",
+    "brief": "Name a movie starring Anushka Shetty.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "anushka-shetty-filmography",
+        "version": "1380190440",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Super": "2005 | Super | Sasha | Telugu",
+      "Mahanandi": "2005 | Mahanandi | Nandini | Telugu",
+      "Astram": "2006 | Astram | Anusha | Telugu",
+      "Vikramarkudu": "2006 | Vikramarkudu | Neeraja Goswami | Telugu",
+      "Stalin": "2006 | Stalin | Herself | Telugu | Special appearance in the song \"I Wanna Spider Man\"",
+      "Rendu": "2006 | Rendu | Jyothi | Tamil",
+      "Lakshyam": "2007 | Lakshyam | Indu | Telugu",
+      "Don": "2007 | Don | Priya | Telugu",
+      "Okka Magaadu": "2008 | Okka Magaadu | Bhavani | Telugu",
+      "Swagatam": "2008 | Swagatam | Sailaja (Sailu) | Telugu",
+      "Baladoor": "2008 | Baladoor | Bhanu | Telugu",
+      "Souryam": "2008 | Souryam | Swetha | Telugu",
+      "Chintakayala Ravi": "2008 | Chintakayala Ravi | Sunitha | Telugu",
+      "King": "2008 | King | Herself | Telugu | Special appearance in the song \"Nuvvu Ready Nenu Ready\"",
+      "Arundhati": "2009 | Arundhati | Arundhati / Jejamma | Telugu",
+      "Billa": "2009 | Billa | Maya | Telugu",
+      "Vettaikaaran": "2009 | Vettaikaaran | Susheela (Susi) | Tamil",
+      "Kedi": "2010 | Kedi | Herself | Telugu | Special appearance in the song \"Kedigaadu\"",
+      "Singam": "2010 | Singam | Kavya Mahalingam | Tamil",
+      "Vedam": "2010 | Vedam | Saroja | Telugu",
+      "Panchakshari": "2010 | Panchakshari | Panchakshari / Honey / Goddess Durga | Telugu",
+      "Khaleja": "2010 | Khaleja | Subashini | Telugu",
+      "Thakita Thakita": "2010 | Thakita Thakita | Herself | Telugu | Cameo appearance",
+      "Nagavalli": "2010 | Nagavalli | Chandramukhi (Nagavalli) | Telugu",
+      "Ragada": "2010 | Ragada | Sirisha | Telugu | 25th Film",
+      "Vaanam": "2011 | Vaanam | Saroja | Tamil",
+      "Deiva Thirumagal": "2011 | Deiva Thirumagal | Anuradha Raghunathan | Tamil",
+      "Saguni": "2012 | Saguni | Inspector Anushka | Tamil | Cameo appearance",
+      "Thaandavam": "2012 | Thaandavam | Dr. Meenakshi Shiva Kumar | Tamil",
+      "Damarukam": "2012 | Damarukam | Maheshwari (Mahi) | Telugu",
+      "Alex Pandian": "2013 | Alex Pandian | Divya | Tamil",
+      "Mirchi": "2013 | Mirchi | Vennela | Telugu",
+      "Singam II": "2013 | Singam II | Kavya Mahalingam | Tamil",
+      "Irandaam Ulagam": "2013 | Irandaam Ulagam | Ramya / Varna / Anushka | Tamil",
+      "Lingaa": "2014 | Lingaa | Lakshmi | Tamil",
+      "Yennai Arindhaal": "2015 | Yennai Arindhaal | Thenmozhi | Tamil",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Devasena | Telugu | Bilingual film",
+      "Rudhramadevi": "2015 | Rudhramadevi | Rudrama Devi (Rudradeva Maharaja) | Telugu",
+      "Size Zero": "She then appeared in the Telugu romantic comedy Size Zero (filmed simultaneously in Tamil as Inji Iduppazhagi), in a role for which she gained 20 kilograms (44 lb) of weight.",
+      "Soggade Chinni Nayana": "2016 | Soggade Chinni Nayana | Krishna Kumari | Telugu | Cameo appearance",
+      "Oopiri": "Her only roles in 2016 were cameos in Soggade Chinni Nayana and Oopiri (filmed in Tamil as Thozha).",
+      "Si3": "2017 | Si3 | Kavya Durai Singam | Tamil",
+      "Om Namo Venkatesaya": "2017 | Om Namo Venkatesaya | Krishnamma | Telugu",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Devasena | Telugu | Partially reshot in Tamil",
+      "Bhaagamathie": "2018 | Bhaagamathie | Bhaagamathie / Chanchala | Telugu | Bilingual film",
+      "Sye Raa Narasimha Reddy": "2019 | Sye Raa Narasimha Reddy | Rani Lakshmi Bai | Telugu | Cameo appearance",
+      "Nishabdham": "2020 | Nishabdham | Sakshi | Telugu | Partially reshot in Tamil",
+      "Miss Shetty Mr Polishetty": "2023 | Miss Shetty Mr Polishetty | Anvitha Ravali Shetty | Telugu",
+      "Ghaati": "2025 | Ghaati | Sheelavathi | Telugu",
+      "Baahubali: The Epic": "2025 | Baahubali: The Epic | Devasena | Telugu | Combined re-release version of The Beginning and The Conclusion",
+      "Kathanar – The Wild Sorcerer": "2026 | Kathanar – The Wild Sorcerer † | Nila | Malayalam | 50th Film Post-production"
+    },
+    "issues": []
+  }
+}

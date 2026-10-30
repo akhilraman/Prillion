@@ -1,0 +1,962 @@
+{
+  "question": {
+    "id": "us-pop-album-of-the-year",
+    "category": "us-pop",
+    "prompt": "Name an album that won the Grammy Award for Album of the Year between 1959 and 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "the-music-from-peter-gunn",
+        "canonical": "The Music from Peter Gunn",
+        "aliases": [
+          "Music from Peter Gunn",
+          "Peter Gunn"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Henry Mancini's album won in 1959.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "come-dance-with-me",
+        "canonical": "Come Dance with Me!",
+        "aliases": [
+          "Come Dance with Me"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Sinatra's album won in 1960.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-button-down-mind-of-bob-newhart",
+        "canonical": "The Button-Down Mind of Bob Newhart",
+        "aliases": [
+          "The Button Down Mind of Bob Newhart",
+          "Button-Down Mind of Bob Newhart"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Newhart's comedy album won in 1961.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "judy-at-carnegie-hall",
+        "canonical": "Judy at Carnegie Hall",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Judy Garland's live album won in 1962.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-first-family",
+        "canonical": "The First Family",
+        "aliases": [
+          "First Family"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vaughn Meader's comedy album won in 1963.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-barbra-streisand-album",
+        "canonical": "The Barbra Streisand Album",
+        "aliases": [
+          "Barbra Streisand Album"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barbra Streisand's album won in 1964.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "getz-gilberto",
+        "canonical": "Getz/Gilberto",
+        "aliases": [
+          "Getz Gilberto"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stan Getz and João Gilberto's album won in 1965.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "september-of-my-years",
+        "canonical": "September of My Years",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Sinatra's album won in 1966.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "a-man-and-his-music",
+        "canonical": "A Man and His Music",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Sinatra's album won in 1967.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "sgt-pepper-s-lonely-hearts-club-band",
+        "canonical": "Sgt. Pepper's Lonely Hearts Club Band",
+        "aliases": [
+          "Sgt Pepper's Lonely Hearts Club Band",
+          "Sergeant Pepper's Lonely Hearts Club Band",
+          "Sgt Pepper",
+          "Sgt. Pepper's"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Beatles' album won in 1968.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "by-the-time-i-get-to-phoenix",
+        "canonical": "By the Time I Get to Phoenix",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Glen Campbell's album won in 1969.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "blood-sweat-tears",
+        "canonical": "Blood, Sweat & Tears",
+        "aliases": [
+          "Blood Sweat and Tears",
+          "Blood Sweat & Tears"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blood, Sweat & Tears' self-titled album won in 1970.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "bridge-over-troubled-water",
+        "canonical": "Bridge over Troubled Water",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Simon & Garfunkel's album won in 1971.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "tapestry",
+        "canonical": "Tapestry",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carole King's album won in 1972.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-concert-for-bangladesh",
+        "canonical": "The Concert for Bangladesh",
+        "aliases": [
+          "Concert for Bangladesh",
+          "The Concert for Bangla Desh",
+          "Concert for Bangla Desh"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The live album credited to George Harrison & Friends won in 1973.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "innervisions",
+        "canonical": "Innervisions",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stevie Wonder's album won in 1974.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "fulfillingness-first-finale",
+        "canonical": "Fulfillingness' First Finale",
+        "aliases": [
+          "Fulfillingness First Finale",
+          "Fulfillingness's First Finale"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stevie Wonder's album won in 1975.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "still-crazy-after-all-these-years",
+        "canonical": "Still Crazy After All These Years",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Simon's album won in 1976.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "songs-in-the-key-of-life",
+        "canonical": "Songs in the Key of Life",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stevie Wonder's album won in 1977.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "rumours",
+        "canonical": "Rumours",
+        "aliases": [
+          "Rumors"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fleetwood Mac's album won in 1978.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "saturday-night-fever-soundtrack",
+        "canonical": "Saturday Night Fever – Soundtrack",
+        "aliases": [
+          "Saturday Night Fever",
+          "Saturday Night Fever Soundtrack"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Saturday Night Fever soundtrack won in 1979.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "52nd-street",
+        "canonical": "52nd Street",
+        "aliases": [
+          "Fifty Second Street"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billy Joel's album won in 1980.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "christopher-cross",
+        "canonical": "Christopher Cross",
+        "aliases": [
+          "Christopher Cross self-titled"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Christopher Cross' self-titled album won in 1981.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "double-fantasy",
+        "canonical": "Double Fantasy",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Lennon and Yoko Ono's album won in 1982.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "toto-iv",
+        "canonical": "Toto IV",
+        "aliases": [
+          "Toto 4",
+          "Toto Four"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toto's album won in 1983.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "thriller",
+        "canonical": "Thriller",
+        "aliases": [],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jackson's album won in 1984.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "can-t-slow-down",
+        "canonical": "Can't Slow Down",
+        "aliases": [
+          "Cant Slow Down"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lionel Richie's album won in 1985.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "no-jacket-required",
+        "canonical": "No Jacket Required",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phil Collins' album won in 1986.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "graceland",
+        "canonical": "Graceland",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Simon's album won in 1987.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-joshua-tree",
+        "canonical": "The Joshua Tree",
+        "aliases": [
+          "Joshua Tree"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "U2's album won in 1988.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "faith",
+        "canonical": "Faith",
+        "aliases": [
+          "Faith by George Michael"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George Michael's album won in 1989.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "nick-of-time",
+        "canonical": "Nick of Time",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bonnie Raitt's album won in 1990.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "back-on-the-block",
+        "canonical": "Back on the Block",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Quincy Jones' album won in 1991.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "unforgettable-with-love",
+        "canonical": "Unforgettable... with Love",
+        "aliases": [
+          "Unforgettable with Love",
+          "Unforgettable"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Natalie Cole's album won in 1992.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "unplugged",
+        "canonical": "Unplugged",
+        "aliases": [
+          "Eric Clapton Unplugged",
+          "Unplugged by Eric Clapton"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eric Clapton's live album won in 1993.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-bodyguard-original-soundtrack-album",
+        "canonical": "The Bodyguard – Original Soundtrack Album",
+        "aliases": [
+          "The Bodyguard",
+          "Bodyguard",
+          "The Bodyguard Soundtrack"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bodyguard soundtrack, credited to Whitney Houston, won in 1994.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "mtv-unplugged",
+        "canonical": "MTV Unplugged",
+        "aliases": [
+          "Tony Bennett MTV Unplugged",
+          "Tony Bennett Unplugged"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tony Bennett's live album won in 1995.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "jagged-little-pill",
+        "canonical": "Jagged Little Pill",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alanis Morissette's album won in 1996.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "falling-into-you",
+        "canonical": "Falling into You",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Celine Dion's album won in 1997.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "time-out-of-mind",
+        "canonical": "Time Out of Mind",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Dylan's album won in 1998.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-miseducation-of-lauryn-hill",
+        "canonical": "The Miseducation of Lauryn Hill",
+        "aliases": [
+          "Miseducation of Lauryn Hill",
+          "The Miseducation"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lauryn Hill's album won in 1999.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "supernatural",
+        "canonical": "Supernatural",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Santana's album won in 2000.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "two-against-nature",
+        "canonical": "Two Against Nature",
+        "aliases": [
+          "2 Against Nature"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Steely Dan's album won in 2001.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "o-brother-where-art-thou-soundtrack",
+        "canonical": "O Brother, Where Art Thou? – Soundtrack",
+        "aliases": [
+          "O Brother Where Art Thou",
+          "O Brother, Where Art Thou?",
+          "O Brother Where Art Thou Soundtrack"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The O Brother, Where Art Thou? soundtrack won in 2002.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "come-away-with-me",
+        "canonical": "Come Away with Me",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Norah Jones' album won in 2003.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "speakerboxxx-the-love-below",
+        "canonical": "Speakerboxxx/The Love Below",
+        "aliases": [
+          "Speakerboxxx / The Love Below",
+          "Speakerboxx/The Love Below",
+          "Speakerboxxx and The Love Below"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "OutKast's double album won in 2004.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "genius-loves-company",
+        "canonical": "Genius Loves Company",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ray Charles & Various Artists' album won in 2005.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "how-to-dismantle-an-atomic-bomb",
+        "canonical": "How to Dismantle an Atomic Bomb",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "U2's album won in 2006.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "taking-the-long-way",
+        "canonical": "Taking the Long Way",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dixie Chicks' album won in 2007.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "river-the-joni-letters",
+        "canonical": "River: The Joni Letters",
+        "aliases": [
+          "River The Joni Letters",
+          "The Joni Letters"
+        ],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Herbie Hancock's album won in 2008.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "raising-sand",
+        "canonical": "Raising Sand",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robert Plant and Alison Krauss' album won in 2009.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "fearless",
+        "canonical": "Fearless",
+        "aliases": [
+          "Fearless by Taylor Swift"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taylor Swift's album won in 2010.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "the-suburbs",
+        "canonical": "The Suburbs",
+        "aliases": [
+          "Suburbs"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arcade Fire's album won in 2011.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "21",
+        "canonical": "21",
+        "aliases": [
+          "Twenty One",
+          "Twenty-One",
+          "Adele 21"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adele's album won in 2012.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "babel",
+        "canonical": "Babel",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mumford & Sons' album won in 2013.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "random-access-memories",
+        "canonical": "Random Access Memories",
+        "aliases": [
+          "RAM"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daft Punk's album won in 2014.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "morning-phase",
+        "canonical": "Morning Phase",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beck's album won in 2015.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "1989",
+        "canonical": "1989",
+        "aliases": [
+          "Nineteen Eighty Nine",
+          "Nineteen Eighty-Nine",
+          "Taylor Swift 1989"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taylor Swift's album won in 2016.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "25",
+        "canonical": "25",
+        "aliases": [
+          "Twenty Five",
+          "Twenty-Five",
+          "Adele 25"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adele's album won in 2017.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "24k-magic",
+        "canonical": "24K Magic",
+        "aliases": [
+          "24 Karat Magic",
+          "Twenty Four Karat Magic"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bruno Mars' album won in 2018.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "golden-hour",
+        "canonical": "Golden Hour",
+        "aliases": [],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kacey Musgraves' album won in 2019.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "when-we-all-fall-asleep-where-do-we-go",
+        "canonical": "When We All Fall Asleep, Where Do We Go?",
+        "aliases": [
+          "When We All Fall Asleep Where Do We Go",
+          "When We All Fall Asleep",
+          "WWAFAWDWG"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billie Eilish's debut album won in 2020.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "folklore",
+        "canonical": "Folklore",
+        "aliases": [],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taylor Swift's album won in 2021.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "we-are",
+        "canonical": "We Are",
+        "aliases": [
+          "We Are by Jon Batiste"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jon Batiste's album won in 2022.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "harry-s-house",
+        "canonical": "Harry's House",
+        "aliases": [
+          "Harrys House"
+        ],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Harry Styles' album won in 2023.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "midnights",
+        "canonical": "Midnights",
+        "aliases": [],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taylor Swift's album won in 2024.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "cowboy-carter",
+        "canonical": "Cowboy Carter",
+        "aliases": [],
+        "familiarity": 0.0407,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beyoncé's album won in 2025.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      },
+      {
+        "id": "deb-tirar-m-s-fotos",
+        "canonical": "Debí Tirar Más Fotos",
+        "aliases": [
+          "Debi Tirar Mas Fotos",
+          "DTMF"
+        ],
+        "familiarity": 0.0163,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad Bunny's album won in 2026 and was the first Spanish-language album to win.",
+        "sourceIds": [
+          "grammy-award-for-album-of-the-year"
+        ]
+      }
+    ],
+    "explanation": "These albums won Album of the Year, the Grammy awarded for a whole album rather than an individual track. Years refer to the award ceremony, not necessarily the album's release year.",
+    "sources": [
+      {
+        "id": "grammy-award-for-album-of-the-year",
+        "title": "Grammy Award for Album of the Year",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "b19b9d4dd1b4c5f8",
+    "brief": "Name an album that has won the Grammy Award for Album of the Year.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "grammy-award-for-album-of-the-year",
+        "version": "1379160923",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "The Music from Peter Gunn": "1959 | The Music from Peter Gunn | Henry Mancini",
+      "Come Dance with Me!": "1960 | Come Dance with Me! | Frank Sinatra |",
+      "The Button-Down Mind of Bob Newhart": "1961 | The Button-Down Mind of Bob Newhart | Bob Newhart |",
+      "Judy at Carnegie Hall": "The first woman to win the award was Judy Garland in 1962, for Judy at Carnegie Hall.",
+      "The First Family": "1963 | The First Family | Vaughn Meader |",
+      "The Barbra Streisand Album": "1964 | The Barbra Streisand Album | Barbra Streisand |",
+      "Getz/Gilberto": "1965 | Getz/Gilberto | Stan Getz & João Gilberto |",
+      "September of My Years": "1966 | September of My Years | Frank Sinatra | Sonny Burke, producer",
+      "A Man and His Music": "1967 | A Man and His Music | Frank Sinatra | Sonny Burke, producer",
+      "Sgt. Pepper's Lonely Hearts Club Band": "1968 | Sgt. Pepper's Lonely Hearts Club Band | The Beatles | George Martin, producer",
+      "By the Time I Get to Phoenix": "1969 | By the Time I Get to Phoenix | Glen Campbell | Al De Lory, producer",
+      "Blood, Sweat & Tears": "1970 | Blood, Sweat & Tears | Blood, Sweat & Tears | James William Guercio, producer",
+      "Bridge over Troubled Water": "1971 | Bridge over Troubled Water | Simon & Garfunkel | Roy Halee & Simon & Garfunkel, producers",
+      "Tapestry": "1972 | Tapestry | Carole King | Lou Adler, producer",
+      "The Concert for Bangladesh": "1973 | The Concert for Bangladesh | George Harrison & Friends (Ravi Shankar, Bob Dylan, Leon Russell, Ringo Starr, Billy Preston, Eric Clapton & Klaus Voormann) | George Harrison & Phil Spector, producers",
+      "Innervisions": "1974 | Innervisions | Stevie Wonder | Stevie Wonder, producer",
+      "Fulfillingness' First Finale": "1975 | Fulfillingness' First Finale | Stevie Wonder | Stevie Wonder, producer",
+      "Still Crazy After All These Years": "1976 | Still Crazy After All These Years | Paul Simon | Paul Simon & Phil Ramone, producers",
+      "Songs in the Key of Life": "1977 | Songs in the Key of Life | Stevie Wonder | Stevie Wonder, producer",
+      "Rumours": "1978 | Rumours | Fleetwood Mac | Fleetwood Mac, Ken Caillat & Richard Dashut, producers",
+      "Saturday Night Fever – Soundtrack": "1979 | Saturday Night Fever – Soundtrack | Various Artists |",
+      "52nd Street": "1980 | 52nd Street | Billy Joel | Phil Ramone, producer",
+      "Christopher Cross": "1981 | Christopher Cross | Christopher Cross | Michael Omartian, producer",
+      "Double Fantasy": "1982 | Double Fantasy | John Lennon & Yoko Ono | Jack Douglas, John Lennon & Yoko Ono, producers",
+      "Toto IV": "1983 | Toto IV | Toto | Toto, producers",
+      "Thriller": "1984 | Thriller | Michael Jackson | Michael Jackson & Quincy Jones, producers",
+      "Can't Slow Down": "1985 | Can't Slow Down | Lionel Richie | James Anthony Carmichael & Lionel Richie, producers",
+      "No Jacket Required": "1986 | No Jacket Required | Phil Collins | Hugh Padgham & Phil Collins, producers",
+      "Graceland": "1987 | Graceland | Paul Simon | Paul Simon, producer",
+      "The Joshua Tree": "1988 | The Joshua Tree | U2 | Brian Eno & Daniel Lanois, producers",
+      "Faith": "1989 | Faith | George Michael | George Michael, producer",
+      "Nick of Time": "1990 | Nick of Time | Bonnie Raitt | Don Was, producer",
+      "Back on the Block": "1991 | Back on the Block | Quincy Jones | Quincy Jones, producer",
+      "Unforgettable... with Love": "1992 | Unforgettable... with Love | Natalie Cole | Andre Fischer, David Foster & Tommy LiPuma, producers",
+      "Unplugged": "1993 | Unplugged | Eric Clapton | Russ Titelman, producer",
+      "The Bodyguard – Original Soundtrack Album": "1994 | The Bodyguard – Original Soundtrack Album | Whitney Houston |",
+      "MTV Unplugged": "1995 | MTV Unplugged | Tony Bennett | David Kahne, producer",
+      "Jagged Little Pill": "1996 | Jagged Little Pill | Alanis Morissette | Glen Ballard, producer",
+      "Falling into You": "1997 | Falling into You | Celine Dion |",
+      "Time Out of Mind": "1998 | Time Out of Mind | Bob Dylan | Daniel Lanois, producer",
+      "The Miseducation of Lauryn Hill": "1999 | The Miseducation of Lauryn Hill | Lauryn Hill | Lauryn Hill, producer;",
+      "Supernatural": "2000 | Supernatural | Santana |",
+      "Two Against Nature": "2001 | Two Against Nature | Steely Dan | Walter Becker & Donald Fagen, producers;",
+      "O Brother, Where Art Thou? – Soundtrack": "2002 | O Brother, Where Art Thou? – Soundtrack | Various Artists |",
+      "Come Away with Me": "2003 | Come Away with Me | Norah Jones | Norah Jones, Arif Mardin, Jay Newland & Craig Street, producers;",
+      "Speakerboxxx/The Love Below": "2004 | Speakerboxxx/The Love Below | OutKast | André 3000 & Antwon \"Big Boi\" Patton, producers;",
+      "Genius Loves Company": "2005 | Genius Loves Company | Ray Charles & Various Artists |",
+      "How to Dismantle an Atomic Bomb": "2006 | How to Dismantle an Atomic Bomb | U2 |",
+      "Taking the Long Way": "2007 | Taking the Long Way | Dixie Chicks | Rick Rubin, producer;",
+      "River: The Joni Letters": "2008 | River: The Joni Letters | Herbie Hancock |",
+      "Raising Sand": "2009 | Raising Sand | Robert Plant & Alison Krauss | T Bone Burnett, producer;",
+      "Fearless": "2010 | Fearless | Taylor Swift |",
+      "The Suburbs": "2011 | The Suburbs | Arcade Fire | Arcade Fire & Markus Dravs, producers;",
+      "21": "2012 | 21 | Adele |",
+      "Babel": "2013 | Babel | Mumford & Sons | Markus Dravs, producer;",
+      "Random Access Memories": "2014 | Random Access Memories | Daft Punk |",
+      "Morning Phase": "2015 | Morning Phase | Beck | Beck Hansen, producer;",
+      "1989": "2016 | 1989 | Taylor Swift |",
+      "25": "2017 | 25 | Adele |",
+      "24K Magic": "2018 | 24K Magic | Bruno Mars | Shampoo Press & Curl, producers;",
+      "Golden Hour": "2019 | Golden Hour | Kacey Musgraves |",
+      "When We All Fall Asleep, Where Do We Go?": "2020 | When We All Fall Asleep, Where Do We Go? | Billie Eilish |",
+      "Folklore": "2021 | Folklore | Taylor Swift |",
+      "We Are": "2022 | We Are | Jon Batiste |",
+      "Harry's House": "2023 | Harry's House | Harry Styles |",
+      "Midnights": "2024 | Midnights | Taylor Swift |",
+      "Cowboy Carter": "2025 | Cowboy Carter | Beyoncé |",
+      "Debí Tirar Más Fotos": "Currently held by | Bad Bunny – Debí Tirar Más Fotos (2026)"
+    },
+    "issues": []
+  }
+}

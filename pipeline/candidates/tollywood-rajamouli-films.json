@@ -1,0 +1,237 @@
+{
+  "question": {
+    "id": "tollywood-rajamouli-films",
+    "category": "tollywood",
+    "prompt": "Name a film credited to S. S. Rajamouli as director, including unreleased films and re-release versions.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "student-no-1",
+        "canonical": "Student No: 1",
+        "aliases": [
+          "Student No. 1",
+          "Student No 1",
+          "Student Number 1"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Student No: 1 in 2001.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "simhadri",
+        "canonical": "Simhadri",
+        "aliases": [],
+        "familiarity": 0.0563,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Simhadri in 2003.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "sye",
+        "canonical": "Sye",
+        "aliases": [],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Sye in 2004.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "chatrapathi",
+        "canonical": "Chatrapathi",
+        "aliases": [
+          "Chhatrapathi",
+          "Chatrapati"
+        ],
+        "familiarity": 0.0563,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Chatrapathi in 2005.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "vikramarkudu",
+        "canonical": "Vikramarkudu",
+        "aliases": [],
+        "familiarity": 0.0563,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Vikramarkudu in 2006.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "yamadonga",
+        "canonical": "Yamadonga",
+        "aliases": [
+          "Yama Donga"
+        ],
+        "familiarity": 0.0563,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Yamadonga in 2007.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [
+          "Magadheera"
+        ],
+        "familiarity": 0.1406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Magadheera in 2009.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "maryada-ramanna",
+        "canonical": "Maryada Ramanna",
+        "aliases": [
+          "Maryadha Ramanna"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Maryada Ramanna in 2010.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [
+          "Naan Ee"
+        ],
+        "familiarity": 0.1406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Eega and identifies its simultaneously shot Tamil version as Naan Ee.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning",
+          "Baahubali The Beginning"
+        ],
+        "familiarity": 0.1406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Baahubali: The Beginning in 2015.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion",
+          "Baahubali The Conclusion"
+        ],
+        "familiarity": 0.1406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Baahubali 2: The Conclusion in 2017.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "R R R"
+        ],
+        "familiarity": 0.1406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of RRR in 2022.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-epic",
+        "canonical": "Baahubali: The Epic",
+        "aliases": [
+          "Bahubali: The Epic",
+          "Baahubali The Epic",
+          "Bahubali The Epic"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Baahubali: The Epic, a combined re-release of the two earlier films.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      },
+      {
+        "id": "varanasi",
+        "canonical": "Varanasi",
+        "aliases": [],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Rajamouli as director of Varanasi, marked as unreleased and filming.",
+        "sourceIds": [
+          "s-s-rajamouli-filmography"
+        ]
+      }
+    ],
+    "explanation": "Rajamouli's directing filmography spans Telugu action, fantasy and epic films. This list also includes Baahubali: The Epic, a combined re-release, and Varanasi, which is listed as unreleased and filming.",
+    "sources": [
+      {
+        "id": "s-s-rajamouli-filmography",
+        "title": "S. S. Rajamouli filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/S._S._Rajamouli_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "588fb2b3b72e5837",
+    "brief": "Name a film directed by S. S. Rajamouli.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "s-s-rajamouli-filmography",
+        "version": "1376748492",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Student No: 1": "2001 | Student No: 1 | Yes | No |",
+      "Simhadri": "2003 | Simhadri | Yes | Yes | Debut as screenwriter",
+      "Sye": "2004 | Sye | Yes | Yes |",
+      "Chatrapathi": "2005 | Chatrapathi | Yes | Yes |",
+      "Vikramarkudu": "2006 | Vikramarkudu | Yes | Yes |",
+      "Yamadonga": "2007 | Yamadonga | Yes | Yes |",
+      "Magadheera": "2009 | Magadheera | Yes | Yes |",
+      "Maryada Ramanna": "2010 | Maryada Ramanna | Yes | Yes |",
+      "Eega": "2012 | Eega | Yes | Yes | Also story writer; Shot simultaneously in Tamil as Naan Ee",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Yes | Yes | Shot simultaneously in Tamil",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Yes | Yes |",
+      "RRR": "2022 | RRR | Yes | Yes |",
+      "Baahubali: The Epic": "2025 | Baahubali: The Epic | Yes | Yes | Combined re-release version of The Beginning and The Conclusion",
+      "Varanasi": "2027 | Varanasi † | Yes | Yes | Filming"
+    },
+    "issues": []
+  }
+}

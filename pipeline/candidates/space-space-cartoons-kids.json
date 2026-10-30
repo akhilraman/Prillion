@@ -1,0 +1,430 @@
+{
+  "question": {
+    "id": "space-space-cartoons-kids",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a space-themed cartoon, animated film, or children's TV show.",
+    "answerSet": "open",
+    "criteria": "Any released animated film, animated series, or children's television series with outer space, space travel, or life on other planets as a central theme.",
+    "answers": [
+      {
+        "id": "wall-e",
+        "canonical": "WALL-E",
+        "aliases": [],
+        "familiarity": 0.1014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "WALL-E is a Pixar animated film in which a waste-collecting robot travels into space.",
+        "sourceIds": []
+      },
+      {
+        "id": "futurama",
+        "canonical": "Futurama",
+        "aliases": [],
+        "familiarity": 0.1014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Futurama is an animated comedy about a delivery crew whose work takes them across space.",
+        "sourceIds": []
+      },
+      {
+        "id": "lightyear",
+        "canonical": "Lightyear",
+        "aliases": [],
+        "familiarity": 0.0406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lightyear is a Pixar animated science-fiction film about space ranger Buzz Lightyear.",
+        "sourceIds": []
+      },
+      {
+        "id": "treasure-planet",
+        "canonical": "Treasure Planet",
+        "aliases": [],
+        "familiarity": 0.0406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Treasure Planet is a Disney animated film that reimagines Treasure Island as an adventure through space.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-wars-the-clone-wars",
+        "canonical": "Star Wars: The Clone Wars",
+        "aliases": [
+          "The Clone Wars",
+          "Clone Wars"
+        ],
+        "familiarity": 0.1014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars: The Clone Wars is an animated series following conflicts across the Star Wars galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-wars-rebels",
+        "canonical": "Star Wars Rebels",
+        "aliases": [
+          "Rebels"
+        ],
+        "familiarity": 0.0406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars Rebels is an animated series about a rebel spaceship crew opposing the Galactic Empire.",
+        "sourceIds": []
+      },
+      {
+        "id": "duck-dodgers",
+        "canonical": "Duck Dodgers",
+        "aliases": [],
+        "familiarity": 0.0406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duck Dodgers is an animated series featuring Daffy Duck as a space adventurer.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-ghost",
+        "canonical": "Space Ghost",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Ghost is an animated superhero series about a masked hero fighting villains in outer space.",
+        "sourceIds": []
+      },
+      {
+        "id": "clangers",
+        "canonical": "Clangers",
+        "aliases": [
+          "The Clangers"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clangers is a stop-motion children's series about creatures living on a small planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "ready-jet-go",
+        "canonical": "Ready Jet Go!",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ready Jet Go! is an animated children's series about an alien boy and his friends exploring space and science.",
+        "sourceIds": []
+      },
+      {
+        "id": "miles-from-tomorrowland",
+        "canonical": "Miles from Tomorrowland",
+        "aliases": [
+          "Miles From Tomorrow",
+          "Miles of Tomorrowland",
+          "Mission Force One"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miles from Tomorrowland is an animated children's series about a boy and his family having adventures in space.",
+        "sourceIds": []
+      },
+      {
+        "id": "lloyd-in-space",
+        "canonical": "Lloyd in Space",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lloyd in Space is an animated series about an alien teenager living on a space station.",
+        "sourceIds": []
+      },
+      {
+        "id": "wander-over-yonder",
+        "canonical": "Wander Over Yonder",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wander Over Yonder is an animated series about a cheerful traveler and his companion exploring the galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "final-space",
+        "canonical": "Final Space",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Final Space is an animated science-fiction series about an astronaut and an alien named Mooncake.",
+        "sourceIds": []
+      },
+      {
+        "id": "ulysses-31",
+        "canonical": "Ulysses 31",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ulysses 31 is an animated series that reimagines Greek mythology as a space adventure.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-racers",
+        "canonical": "Space Racers",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Racers is an animated preschool series about young spacecraft exploring the solar system.",
+        "sourceIds": []
+      },
+      {
+        "id": "astroblast",
+        "canonical": "Astroblast!",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Astroblast! is an animated children's series about animal friends running a smoothie cafe in space.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-lower-decks",
+        "canonical": "Star Trek: Lower Decks",
+        "aliases": [
+          "Lower Decks"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: Lower Decks is an animated comedy about junior officers aboard a Starfleet ship.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-prodigy",
+        "canonical": "Star Trek: Prodigy",
+        "aliases": [
+          "Prodigy"
+        ],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: Prodigy is an animated series about young aliens who discover a Starfleet ship.",
+        "sourceIds": []
+      },
+      {
+        "id": "button-moon",
+        "canonical": "Button Moon",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Button Moon is a children's puppet series about Mr Spoon's rocket journeys to Button Moon.",
+        "sourceIds": []
+      },
+      {
+        "id": "captain-star",
+        "canonical": "Captain Star",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Star is an animated science-fiction comedy about a spaceship crew stationed on a remote planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "rick-and-morty",
+        "canonical": "Rick and Morty",
+        "aliases": [
+          "Rick & Morty"
+        ],
+        "familiarity": 0.1014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick and Morty is an animated series featuring frequent adventures on alien planets and across dimensions.",
+        "sourceIds": []
+      },
+      {
+        "id": "lilo-stitch",
+        "canonical": "Lilo & Stitch",
+        "aliases": [
+          "Lilo and Stitch"
+        ],
+        "familiarity": 0.1014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lilo & Stitch is an animated film about a Hawaiian girl who befriends an alien experiment.",
+        "sourceIds": []
+      },
+      {
+        "id": "invader-zim",
+        "canonical": "Invader Zim",
+        "aliases": [
+          "Zim"
+        ],
+        "familiarity": 0.0406,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Invader Zim is an animated series about an alien sent to conquer Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "buzz-lightyear-of-star-command",
+        "canonical": "Buzz Lightyear of Star Command",
+        "aliases": [],
+        "familiarity": 0.0122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Buzz Lightyear of Star Command is an animated series about Buzz and his fellow space rangers.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-zula-patrol",
+        "canonical": "The Zula Patrol",
+        "aliases": [
+          "Zula Patrol"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Zula Patrol is an animated children's series about aliens exploring science and space.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space-themed animation and children's television range from interplanetary adventures and science-fiction comedies to puppet shows set among the stars.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "3ef75011e5924dbb",
+    "brief": "Name a space-themed cartoon, animated film or children's show.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "WALL-E": 3,
+      "Futurama": 3,
+      "Lightyear": 3,
+      "Treasure Planet": 3,
+      "Star Wars: The Clone Wars": 3,
+      "Star Wars Rebels": 3,
+      "Star Trek: Lower Decks": 2,
+      "Star Trek: Prodigy": 2,
+      "Duck Dodgers": 3,
+      "Space Ghost": 3,
+      "Clangers": 3,
+      "Button Moon": 2,
+      "Ready Jet Go!": 3,
+      "Miles from Tomorrowland": 3,
+      "Lloyd in Space": 3,
+      "Wander Over Yonder": 3,
+      "Final Space": 3,
+      "Ulysses 31": 3,
+      "Captain Star": 2,
+      "Space Racers": 3,
+      "Astroblast!": 3,
+      "Rick and Morty": 2,
+      "Lilo & Stitch": 2,
+      "Invader Zim": 2,
+      "Buzz Lightyear of Star Command": 2,
+      "The Zula Patrol": 2
+    },
+    "droppedForVotes": {
+      "Star Trek: The Animated Series": 1,
+      "Bucky O'Hare and the Toad Wars": 1,
+      "Titan A.E.": 1,
+      "Space Chimps": 1,
+      "Planet 51": 1,
+      "Escape from Planet Earth": 1,
+      "The Adventures of the Galaxy Rangers": 1,
+      "Voltron": 1,
+      "Space Dandy": 1,
+      "The Adventures of Jimmy Neutron, Boy Genius": 1,
+      "Solar Opposites": 1,
+      "Once Upon a Time... Space": 1
+    },
+    "verdicts": {
+      "WALL-E": {
+        "verdict": "correct",
+        "reason": "Pixar animated film with space travel and life aboard a spacecraft central to its story."
+      },
+      "Futurama": {
+        "verdict": "correct",
+        "reason": "Animated science-fiction comedy centered on an interplanetary delivery crew."
+      },
+      "Lightyear": {
+        "verdict": "correct",
+        "reason": "Pixar animated film about a space ranger stranded on an alien planet."
+      },
+      "Treasure Planet": {
+        "verdict": "correct",
+        "reason": "Disney animated adaptation of Treasure Island set in outer space."
+      },
+      "Star Wars: The Clone Wars": {
+        "verdict": "correct",
+        "reason": "Animated series featuring interplanetary warfare and space adventures."
+      },
+      "Star Wars Rebels": {
+        "verdict": "correct",
+        "reason": "Animated series following a rebel spaceship crew across the Star Wars galaxy."
+      },
+      "Duck Dodgers": {
+        "verdict": "correct",
+        "reason": "Animated series starring Daffy Duck as a futuristic space adventurer."
+      },
+      "Space Ghost": {
+        "verdict": "correct",
+        "reason": "Animated superhero series centered on adventures and battles in outer space."
+      },
+      "Clangers": {
+        "verdict": "correct",
+        "reason": "Stop-motion children's series about creatures inhabiting a small celestial world."
+      },
+      "Ready Jet Go!": {
+        "verdict": "correct",
+        "reason": "Animated children's series featuring an alien boy and educational space exploration."
+      },
+      "Miles from Tomorrowland": {
+        "verdict": "correct",
+        "reason": "Animated children's series about a family traveling and working in space."
+      },
+      "Lloyd in Space": {
+        "verdict": "correct",
+        "reason": "Animated series about an alien teenager living on a space station."
+      },
+      "Wander Over Yonder": {
+        "verdict": "correct",
+        "reason": "Animated series following travelers on adventures across the galaxy."
+      },
+      "Final Space": {
+        "verdict": "correct",
+        "reason": "Animated science-fiction series centered on space adventures and alien beings."
+      },
+      "Ulysses 31": {
+        "verdict": "correct",
+        "reason": "Animated series that relocates Greek mythological adventures to outer space."
+      },
+      "Space Racers": {
+        "verdict": "correct",
+        "reason": "Animated preschool series about spacecraft characters exploring space."
+      },
+      "Astroblast!": {
+        "verdict": "correct",
+        "reason": "Animated children's series set at a smoothie-serving establishment in space."
+      },
+      "Star Trek: Lower Decks": {
+        "verdict": "correct",
+        "reason": "Animated comedy following junior Starfleet officers on a spaceship."
+      },
+      "Star Trek: Prodigy": {
+        "verdict": "correct",
+        "reason": "Animated series about young aliens traveling aboard a discovered Starfleet vessel."
+      },
+      "Button Moon": {
+        "verdict": "correct",
+        "reason": "Children's puppet series featuring Mr Spoon's rocket trips to Button Moon."
+      },
+      "Captain Star": {
+        "verdict": "correct",
+        "reason": "Animated science-fiction comedy about a spaceship crew stationed on a remote planet."
+      },
+      "Rick and Morty": {
+        "verdict": "correct",
+        "reason": "Animated science-fiction series with recurring space travel and adventures on alien planets."
+      },
+      "Lilo & Stitch": {
+        "verdict": "correct",
+        "reason": "Animated film whose central story involves an extraterrestrial experiment, alien pursuers, and spacecraft."
+      },
+      "Invader Zim": {
+        "verdict": "correct",
+        "reason": "Animated science-fiction series centered on an extraterrestrial invader and his alien civilization."
+      },
+      "Buzz Lightyear of Star Command": {
+        "verdict": "correct",
+        "reason": "Animated series about space rangers defending the galaxy."
+      },
+      "The Zula Patrol": {
+        "verdict": "correct",
+        "reason": "Animated children's series featuring alien characters and educational space adventures."
+      }
+    },
+    "issues": []
+  }
+}

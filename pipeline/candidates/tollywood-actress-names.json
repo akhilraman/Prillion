@@ -1,0 +1,467 @@
+{
+  "question": {
+    "id": "tollywood-actress-names",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name an actress who has acted in Telugu films.",
+    "answerSet": "open",
+    "criteria": "Any actress with a credited acting role in a released Telugu-language film counts, including multilingual productions but excluding dubbed-only releases.",
+    "answers": [
+      {
+        "id": "samantha-ruth-prabhu",
+        "canonical": "Samantha Ruth Prabhu",
+        "aliases": [
+          "Samantha",
+          "Samantha Akkineni"
+        ],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha Ruth Prabhu starred in the Telugu film Ye Maaya Chesave.",
+        "sourceIds": []
+      },
+      {
+        "id": "anushka-shetty",
+        "canonical": "Anushka Shetty",
+        "aliases": [
+          "Anushka"
+        ],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anushka Shetty played the title role in the Telugu film Arundhati.",
+        "sourceIds": []
+      },
+      {
+        "id": "kajal-aggarwal",
+        "canonical": "Kajal Aggarwal",
+        "aliases": [
+          "Kajal",
+          "Kajal Agarwal"
+        ],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kajal Aggarwal starred in the Telugu film Magadheera.",
+        "sourceIds": []
+      },
+      {
+        "id": "tamannaah-bhatia",
+        "canonical": "Tamannaah Bhatia",
+        "aliases": [
+          "Tamannaah",
+          "Tamanna",
+          "Tamanna Bhatia"
+        ],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah Bhatia starred in the Telugu film Happy Days.",
+        "sourceIds": []
+      },
+      {
+        "id": "rashmika-mandanna",
+        "canonical": "Rashmika Mandanna",
+        "aliases": [
+          "Rashmika"
+        ],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rashmika Mandanna played Srivalli in the Telugu film Pushpa: The Rise.",
+        "sourceIds": []
+      },
+      {
+        "id": "sai-pallavi",
+        "canonical": "Sai Pallavi",
+        "aliases": [],
+        "familiarity": 0.0719,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi starred in the Telugu film Fidaa.",
+        "sourceIds": []
+      },
+      {
+        "id": "pooja-hegde",
+        "canonical": "Pooja Hegde",
+        "aliases": [
+          "Pooja"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pooja Hegde starred in the Telugu film Ala Vaikunthapurramuloo.",
+        "sourceIds": []
+      },
+      {
+        "id": "keerthy-suresh",
+        "canonical": "Keerthy Suresh",
+        "aliases": [
+          "Keerthi Suresh"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy Suresh portrayed Savitri in the Telugu film Mahanati.",
+        "sourceIds": []
+      },
+      {
+        "id": "sreeleela",
+        "canonical": "Sreeleela",
+        "aliases": [
+          "Srileela"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sreeleela starred in the Telugu film Pelli SandaD.",
+        "sourceIds": []
+      },
+      {
+        "id": "trisha-krishnan",
+        "canonical": "Trisha Krishnan",
+        "aliases": [
+          "Trisha"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha Krishnan starred in the Telugu film Varsham.",
+        "sourceIds": []
+      },
+      {
+        "id": "rakul-preet-singh",
+        "canonical": "Rakul Preet Singh",
+        "aliases": [
+          "Rakul",
+          "Rakul Preet"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rakul Preet Singh starred in the Telugu film Venkatadri Express.",
+        "sourceIds": []
+      },
+      {
+        "id": "ramya-krishnan",
+        "canonical": "Ramya Krishnan",
+        "aliases": [
+          "Ramya Krishna"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ramya Krishnan played Sivagami in Baahubali: The Beginning, which was filmed in Telugu and Tamil.",
+        "sourceIds": []
+      },
+      {
+        "id": "soundarya",
+        "canonical": "Soundarya",
+        "aliases": [
+          "Soundarya Raghu",
+          "Soundariya"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Soundarya starred in the Telugu film Ammoru.",
+        "sourceIds": []
+      },
+      {
+        "id": "nithya-menen",
+        "canonical": "Nithya Menen",
+        "aliases": [
+          "Nithya Menon",
+          "Nitya Menon"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nithya Menen starred in the Telugu film Ala Modalaindi.",
+        "sourceIds": []
+      },
+      {
+        "id": "vijayashanti",
+        "canonical": "Vijayashanti",
+        "aliases": [
+          "Vijayashanthi"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vijayashanti starred in the Telugu film Karthavyam.",
+        "sourceIds": []
+      },
+      {
+        "id": "ritu-varma",
+        "canonical": "Ritu Varma",
+        "aliases": [
+          "Ritu Verma",
+          "Rithu Varma"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ritu Varma starred in the Telugu film Pelli Choopulu.",
+        "sourceIds": []
+      },
+      {
+        "id": "chandini-chowdary",
+        "canonical": "Chandini Chowdary",
+        "aliases": [
+          "Chandini Choudhary",
+          "Chandini Chowdhary"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandini Chowdary starred in the Telugu film Colour Photo.",
+        "sourceIds": []
+      },
+      {
+        "id": "nayanthara",
+        "canonical": "Nayanthara",
+        "aliases": [
+          "Nayantara",
+          "Nayanthara Kurian"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara played Sita in the Telugu film Sri Rama Rajyam.",
+        "sourceIds": []
+      },
+      {
+        "id": "ileana-d-cruz",
+        "canonical": "Ileana D'Cruz",
+        "aliases": [
+          "Ileana"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ileana D'Cruz starred in the Telugu film Devadasu.",
+        "sourceIds": []
+      },
+      {
+        "id": "mrunal-thakur",
+        "canonical": "Mrunal Thakur",
+        "aliases": [
+          "Mrunal"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrunal Thakur starred in the Telugu film Sita Ramam.",
+        "sourceIds": []
+      },
+      {
+        "id": "genelia-d-souza",
+        "canonical": "Genelia D'Souza",
+        "aliases": [
+          "Genelia",
+          "Genelia Deshmukh"
+        ],
+        "familiarity": 0.0287,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genelia D'Souza starred in the Telugu film Bommarillu.",
+        "sourceIds": []
+      },
+      {
+        "id": "jamuna",
+        "canonical": "Jamuna",
+        "aliases": [],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jamuna played Sita in the Telugu film Missamma.",
+        "sourceIds": []
+      },
+      {
+        "id": "bhanumathi",
+        "canonical": "Bhanumathi",
+        "aliases": [
+          "P. Bhanumathi",
+          "Bhanumathi Ramakrishna",
+          "Bhanumati",
+          "Banumathi"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhanumathi starred in the Telugu film Malliswari.",
+        "sourceIds": []
+      },
+      {
+        "id": "eesha-rebba",
+        "canonical": "Eesha Rebba",
+        "aliases": [
+          "Isha Rebba",
+          "Eesha"
+        ],
+        "familiarity": 0.0086,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eesha Rebba appeared in the Telugu film Awe.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-gouri-priya",
+        "canonical": "Sri Gouri Priya",
+        "aliases": [
+          "Sri Gouri Priya Reddy",
+          "Sri Gowri Priya",
+          "Gouri Priya"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Gouri Priya appeared in the Telugu film MAD.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema, often called Tollywood, includes actresses from many generations and language industries. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "068168e6c7fbc28c",
+    "brief": "Name an actress who has acted in Telugu films.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Samantha Ruth Prabhu": 3,
+      "Anushka Shetty": 3,
+      "Kajal Aggarwal": 3,
+      "Tamannaah Bhatia": 3,
+      "Rashmika Mandanna": 3,
+      "Sai Pallavi": 3,
+      "Pooja Hegde": 3,
+      "Keerthy Suresh": 3,
+      "Sreeleela": 3,
+      "Nayanthara": 2,
+      "Trisha Krishnan": 3,
+      "Ileana D'Cruz": 2,
+      "Rakul Preet Singh": 3,
+      "Mrunal Thakur": 2,
+      "Ramya Krishnan": 3,
+      "Soundarya": 3,
+      "Nithya Menen": 3,
+      "Genelia D'Souza": 2,
+      "Vijayashanti": 3,
+      "Ritu Varma": 3,
+      "Chandini Chowdary": 3,
+      "Savitri": 2,
+      "Jamuna": 2,
+      "Bhanumathi": 2,
+      "Eesha Rebba": 2,
+      "Sri Gouri Priya": 2
+    },
+    "droppedForVotes": {
+      "Sridevi": 1,
+      "Bhumika Chawla": 1,
+      "Krithi Shetty": 1,
+      "Jayasudha": 1,
+      "Jaya Prada": 1,
+      "Bhanupriya": 1,
+      "Kamalinee Mukherjee": 1,
+      "Richa Gangopadhyay": 1,
+      "Girija Shettar": 1,
+      "Shruti Haasan": 1,
+      "Divya Sripada": 1,
+      "Kalpika Ganesh": 1,
+      "Nivetha Thomas": 1,
+      "Nivetha Pethuraj": 1,
+      "Malavika Nair": 1,
+      "Priyanka Jawalkar": 1,
+      "Faria Abdullah": 1,
+      "Ananya Nagalla": 1
+    },
+    "verdicts": {
+      "Samantha Ruth Prabhu": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Ye Maaya Chesave."
+      },
+      "Anushka Shetty": {
+        "verdict": "correct",
+        "reason": "Played the title role in the Telugu film Arundhati."
+      },
+      "Kajal Aggarwal": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Magadheera."
+      },
+      "Tamannaah Bhatia": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Happy Days."
+      },
+      "Rashmika Mandanna": {
+        "verdict": "correct",
+        "reason": "Played Srivalli in the Telugu film Pushpa: The Rise."
+      },
+      "Sai Pallavi": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Fidaa."
+      },
+      "Pooja Hegde": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Ala Vaikunthapurramuloo."
+      },
+      "Keerthy Suresh": {
+        "verdict": "correct",
+        "reason": "Portrayed Savitri in the Telugu film Mahanati."
+      },
+      "Sreeleela": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Pelli SandaD."
+      },
+      "Trisha Krishnan": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Varsham."
+      },
+      "Rakul Preet Singh": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Venkatadri Express."
+      },
+      "Ramya Krishnan": {
+        "verdict": "correct",
+        "reason": "Played Sivagami in Baahubali: The Beginning, filmed in Telugu and Tamil."
+      },
+      "Soundarya": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Ammoru."
+      },
+      "Nithya Menen": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Ala Modalaindi."
+      },
+      "Vijayashanti": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Karthavyam."
+      },
+      "Ritu Varma": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Pelli Choopulu."
+      },
+      "Chandini Chowdary": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Colour Photo."
+      },
+      "Nayanthara": {
+        "verdict": "correct",
+        "reason": "Played Sita in the Telugu film Sri Rama Rajyam."
+      },
+      "Ileana D'Cruz": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Devadasu."
+      },
+      "Mrunal Thakur": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Sita Ramam."
+      },
+      "Genelia D'Souza": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Bommarillu."
+      },
+      "Savitri": {
+        "verdict": "incorrect",
+        "reason": "She qualifies as a Telugu-film actress, but the stated role is wrong: she played Mary, also revealed as Mahalakshmi, in Missamma—not Savitri."
+      },
+      "Jamuna": {
+        "verdict": "correct",
+        "reason": "Played Sita in the Telugu film Missamma."
+      },
+      "Bhanumathi": {
+        "verdict": "correct",
+        "reason": "Starred in the Telugu film Malliswari."
+      },
+      "Eesha Rebba": {
+        "verdict": "correct",
+        "reason": "Appeared in the Telugu film Awe."
+      },
+      "Sri Gouri Priya": {
+        "verdict": "correct",
+        "reason": "Played Shruthi in the Telugu film MAD."
+      }
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "question": {
+    "id": "us-pop-super-bowl-halftime",
+    "category": "us-pop",
+    "prompt": "Name a solo musical artist or group credited as a Super Bowl halftime-show headliner between 1993 and 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "michael-jackson",
+        "canonical": "Michael Jackson",
+        "aliases": [
+          "MJ"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jackson headlined the 1993 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "clint-black",
+        "canonical": "Clint Black",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clint Black was a co-headliner of the 1994 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "tanya-tucker",
+        "canonical": "Tanya Tucker",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tanya Tucker was a co-headliner of the 1994 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "travis-tritt",
+        "canonical": "Travis Tritt",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Travis Tritt was a co-headliner of the 1994 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-judds",
+        "canonical": "The Judds",
+        "aliases": [
+          "Judds"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Judds were co-headliners of the 1994 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "patti-labelle",
+        "canonical": "Patti LaBelle",
+        "aliases": [
+          "Patti Labelle"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Patti LaBelle was listed among the 1995 musical headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "tony-bennett",
+        "canonical": "Tony Bennett",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tony Bennett was listed among the 1995 musical headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "miami-sound-machine",
+        "canonical": "Miami Sound Machine",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miami Sound Machine was listed among the 1995 musical headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "diana-ross",
+        "canonical": "Diana Ross",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Diana Ross headlined the 1996 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-blues-brothers",
+        "canonical": "The Blues Brothers",
+        "aliases": [
+          "Blues Brothers"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Blues Brothers headlined the 1997 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "boyz-ii-men",
+        "canonical": "Boyz II Men",
+        "aliases": [
+          "Boyz 2 Men",
+          "Boys II Men"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Boyz II Men were co-headliners of the 1998 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "smokey-robinson",
+        "canonical": "Smokey Robinson",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smokey Robinson was a co-headliner of the 1998 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "martha-reeves",
+        "canonical": "Martha Reeves",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Martha Reeves was a co-headliner of the 1998 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-temptations",
+        "canonical": "The Temptations",
+        "aliases": [
+          "Temptations"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Temptations were co-headliners of the 1998 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "queen-latifah",
+        "canonical": "Queen Latifah",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Queen Latifah was a co-headliner of the 1998 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "gloria-estefan",
+        "canonical": "Gloria Estefan",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gloria Estefan co-headlined the 1999 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "stevie-wonder",
+        "canonical": "Stevie Wonder",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stevie Wonder co-headlined the 1999 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "phil-collins",
+        "canonical": "Phil Collins",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phil Collins was a musical co-headliner of the 2000 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "christina-aguilera",
+        "canonical": "Christina Aguilera",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Christina Aguilera was a musical co-headliner of the 2000 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "enrique-iglesias",
+        "canonical": "Enrique Iglesias",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Enrique Iglesias was a musical co-headliner of the 2000 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "toni-braxton",
+        "canonical": "Toni Braxton",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toni Braxton was a musical co-headliner of the 2000 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "aerosmith",
+        "canonical": "Aerosmith",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aerosmith co-headlined the 2001 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "nsync",
+        "canonical": "NSYNC",
+        "aliases": [
+          "*NSYNC",
+          "N Sync",
+          "N'Sync"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "NSYNC co-headlined the 2001 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "u2",
+        "canonical": "U2",
+        "aliases": [
+          "U 2"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "U2 headlined the 2002 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "shania-twain",
+        "canonical": "Shania Twain",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shania Twain co-headlined the 2003 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "no-doubt",
+        "canonical": "No Doubt",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "No Doubt co-headlined the 2003 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "janet-jackson",
+        "canonical": "Janet Jackson",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Janet Jackson was listed among the 2004 halftime-show headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "p-diddy",
+        "canonical": "P. Diddy",
+        "aliases": [
+          "Diddy",
+          "P Diddy",
+          "Puff Daddy",
+          "Sean Combs"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "P. Diddy was listed among the 2004 halftime-show headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "nelly",
+        "canonical": "Nelly",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nelly was listed among the 2004 halftime-show headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "kid-rock",
+        "canonical": "Kid Rock",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kid Rock was listed among the 2004 halftime-show headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "justin-timberlake",
+        "canonical": "Justin Timberlake",
+        "aliases": [
+          "JT"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Justin Timberlake was a headliner in both 2004 and 2018.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "jessica-simpson",
+        "canonical": "Jessica Simpson",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jessica Simpson was listed among the 2004 halftime-show headliners.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "paul-mccartney",
+        "canonical": "Paul McCartney",
+        "aliases": [
+          "Paul McCartney"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul McCartney headlined the 2005 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-rolling-stones",
+        "canonical": "The Rolling Stones",
+        "aliases": [
+          "Rolling Stones"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Rolling Stones headlined the 2006 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "prince",
+        "canonical": "Prince",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prince headlined the 2007 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "tom-petty-and-the-heartbreakers",
+        "canonical": "Tom Petty and the Heartbreakers",
+        "aliases": [
+          "Tom Petty",
+          "Tom Petty & the Heartbreakers"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tom Petty and the Heartbreakers headlined the 2008 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "bruce-springsteen-and-the-e-street-band",
+        "canonical": "Bruce Springsteen and the E Street Band",
+        "aliases": [
+          "Bruce Springsteen",
+          "Bruce Springsteen & the E Street Band"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bruce Springsteen and the E Street Band headlined the 2009 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-who",
+        "canonical": "The Who",
+        "aliases": [
+          "Who"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Who headlined the 2010 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-black-eyed-peas",
+        "canonical": "The Black Eyed Peas",
+        "aliases": [
+          "Black Eyed Peas"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Black Eyed Peas headlined the 2011 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "madonna",
+        "canonical": "Madonna",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Madonna headlined the 2012 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "beyonc",
+        "canonical": "Beyoncé",
+        "aliases": [
+          "Beyonce",
+          "Beyoncé Knowles",
+          "Beyonce Knowles"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beyoncé headlined the 2013 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "bruno-mars",
+        "canonical": "Bruno Mars",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bruno Mars headlined the 2014 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "katy-perry",
+        "canonical": "Katy Perry",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Katy Perry headlined the 2015 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "coldplay",
+        "canonical": "Coldplay",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coldplay headlined the 2016 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "lady-gaga",
+        "canonical": "Lady Gaga",
+        "aliases": [
+          "Gaga"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lady Gaga headlined the 2017 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "maroon-5",
+        "canonical": "Maroon 5",
+        "aliases": [
+          "Maroon Five"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maroon 5 headlined the 2019 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "shakira",
+        "canonical": "Shakira",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shakira co-headlined the 2020 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "jennifer-lopez",
+        "canonical": "Jennifer Lopez",
+        "aliases": [
+          "J.Lo",
+          "J Lo",
+          "JLo"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jennifer Lopez co-headlined the 2020 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "the-weeknd",
+        "canonical": "The Weeknd",
+        "aliases": [
+          "Weeknd",
+          "The Weekend"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Weeknd headlined the 2021 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "dr-dre",
+        "canonical": "Dr. Dre",
+        "aliases": [
+          "Dr Dre",
+          "Doctor Dre"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Dre was a co-headliner of the 2022 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "snoop-dogg",
+        "canonical": "Snoop Dogg",
+        "aliases": [
+          "Snoop"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Snoop Dogg was a co-headliner of the 2022 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "eminem",
+        "canonical": "Eminem",
+        "aliases": [
+          "Slim Shady",
+          "Marshall Mathers"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eminem was a co-headliner of the 2022 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "mary-j-blige",
+        "canonical": "Mary J. Blige",
+        "aliases": [
+          "Mary J Blige",
+          "Mary Blige"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mary J. Blige was a co-headliner of the 2022 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "kendrick-lamar",
+        "canonical": "Kendrick Lamar",
+        "aliases": [
+          "Kendrick"
+        ],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar headlined the halftime show in 2022 and 2025.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "rihanna",
+        "canonical": "Rihanna",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rihanna headlined the 2023 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "usher",
+        "canonical": "Usher",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Usher headlined the 2024 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      },
+      {
+        "id": "bad-bunny",
+        "canonical": "Bad Bunny",
+        "aliases": [],
+        "familiarity": 0.0381,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad Bunny headlined the 2026 halftime show.",
+        "sourceIds": [
+          "list-of-super-bowl-halftime-shows"
+        ]
+      }
+    ],
+    "explanation": "These acts appear in the source's headliner listings for 1993–2026. Co-headliners count, but special guests do not unless they also headlined another year. Groups are counted under their group names, rather than as separate members.",
+    "sources": [
+      {
+        "id": "list-of-super-bowl-halftime-shows",
+        "title": "List of Super Bowl halftime shows",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "1eec74cb3685675a",
+    "brief": "Name an artist who has headlined a Super Bowl halftime show.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-super-bowl-halftime-shows",
+        "version": "1382388391",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Michael Jackson": "An Unprecedented Super Bowl Spectacular starring Michael Jackson | Michael Jackson | —N/a",
+      "Clint Black": "Rockin' Country Sunday | Clint Black Tanya Tucker Travis Tritt The Judds |",
+      "Tanya Tucker": "Rockin' Country Sunday | Clint Black Tanya Tucker Travis Tritt The Judds |",
+      "Travis Tritt": "Rockin' Country Sunday | Clint Black Tanya Tucker Travis Tritt The Judds |",
+      "The Judds": "Rockin' Country Sunday | Clint Black Tanya Tucker Travis Tritt The Judds |",
+      "Patti LaBelle": "Indiana Jones and the Temple of the Forbidden Eye | Indiana Jones Patti LaBelle Tony Bennett Miami Sound Machine |",
+      "Tony Bennett": "Indiana Jones and the Temple of the Forbidden Eye | Indiana Jones Patti LaBelle Tony Bennett Miami Sound Machine |",
+      "Miami Sound Machine": "Indiana Jones and the Temple of the Forbidden Eye | Indiana Jones Patti LaBelle Tony Bennett Miami Sound Machine |",
+      "Diana Ross": "Take Me Higher: A Celebration of 30 Years of the Super Bowl | Diana Ross | —N/a",
+      "The Blues Brothers": "Blues Brothers Bash | The Blues Brothers (Dan Aykroyd, John Goodman and Jim Belushi) |",
+      "Boyz II Men": "Salute to Motown's 40th Anniversary | Boyz II Men Smokey Robinson Martha Reeves The Temptations Queen Latifah |",
+      "Smokey Robinson": "Salute to Motown's 40th Anniversary | Boyz II Men Smokey Robinson Martha Reeves The Temptations Queen Latifah |",
+      "Martha Reeves": "Salute to Motown's 40th Anniversary | Boyz II Men Smokey Robinson Martha Reeves The Temptations Queen Latifah |",
+      "The Temptations": "Salute to Motown's 40th Anniversary | Boyz II Men Smokey Robinson Martha Reeves The Temptations Queen Latifah |",
+      "Queen Latifah": "Salute to Motown's 40th Anniversary | Boyz II Men Smokey Robinson Martha Reeves The Temptations Queen Latifah |",
+      "Gloria Estefan": "Celebration of Soul, Salsa and Swing | Gloria Estefan Stevie Wonder |",
+      "Stevie Wonder": "Celebration of Soul, Salsa and Swing | Gloria Estefan Stevie Wonder |",
+      "Phil Collins": "Tapestry of Nations | Phil Collins Christina Aguilera Enrique Iglesias Toni Braxton Edward James Olmos (narrator) |",
+      "Christina Aguilera": "Tapestry of Nations | Phil Collins Christina Aguilera Enrique Iglesias Toni Braxton Edward James Olmos (narrator) |",
+      "Enrique Iglesias": "Tapestry of Nations | Phil Collins Christina Aguilera Enrique Iglesias Toni Braxton Edward James Olmos (narrator) |",
+      "Toni Braxton": "Tapestry of Nations | Phil Collins Christina Aguilera Enrique Iglesias Toni Braxton Edward James Olmos (narrator) |",
+      "Aerosmith": "The Kings of Rock and Pop | Aerosmith NSYNC | Britney Spears Mary J. Blige Nelly |",
+      "NSYNC": "The Kings of Rock and Pop | Aerosmith NSYNC | Britney Spears Mary J. Blige Nelly |",
+      "U2": "Tribute to those killed in the September 11 attacks | U2 | —N/a",
+      "Shania Twain": "XXXVII (show) | January 26, 2003 | Qualcomm Stadium (San Diego, California) | —N/a | Shania Twain No Doubt | Sting |",
+      "No Doubt": "XXXVII (show) | January 26, 2003 | Qualcomm Stadium (San Diego, California) | —N/a | Shania Twain No Doubt | Sting |",
+      "Janet Jackson": "Choose or Lose | Janet Jackson P. Diddy Nelly Kid Rock Justin Timberlake Jessica Simpson |",
+      "P. Diddy": "Choose or Lose | Janet Jackson P. Diddy Nelly Kid Rock Justin Timberlake Jessica Simpson |",
+      "Nelly": "Choose or Lose | Janet Jackson P. Diddy Nelly Kid Rock Justin Timberlake Jessica Simpson |",
+      "Kid Rock": "Choose or Lose | Janet Jackson P. Diddy Nelly Kid Rock Justin Timberlake Jessica Simpson |",
+      "Justin Timberlake": "Justin Timberlake | 3 | XXXV (2001) (as a member of NSYNC); XXXVIII (2004); LII (2018) | —N/a",
+      "Jessica Simpson": "Choose or Lose | Janet Jackson P. Diddy Nelly Kid Rock Justin Timberlake Jessica Simpson |",
+      "Paul McCartney": "XXXIX | February 6, 2005 | Alltel Stadium (Jacksonville, Florida) | —N/a | Paul McCartney | —N/a",
+      "The Rolling Stones": "XL (show) | February 5, 2006 | Ford Field (Detroit, Michigan) | —N/a | The Rolling Stones | —N/a",
+      "Prince": "XLI (show) | February 4, 2007 | Dolphin Stadium (Miami Gardens, Florida) | —N/a | Prince |",
+      "Tom Petty and the Heartbreakers": "XLII | February 3, 2008 | University of Phoenix Stadium (Glendale, Arizona) | —N/a | Tom Petty and the Heartbreakers |",
+      "Bruce Springsteen and the E Street Band": "XLIII | February 1, 2009 | Raymond James Stadium (Tampa, Florida) | —N/a | Bruce Springsteen and the E Street Band |",
+      "The Who": "XLIV (show) | February 7, 2010 | Sun Life Stadium (Miami Gardens, Florida) | The Who | —N/a",
+      "The Black Eyed Peas": "XLV (show) | February 6, 2011 | Cowboys Stadium (Arlington, Texas) | The Black Eyed Peas |",
+      "Madonna": "XLVI (show) | February 5, 2012 | Lucas Oil Stadium (Indianapolis, Indiana) | Madonna |",
+      "Beyoncé": "XLVII (show) | February 3, 2013 | Mercedes-Benz Superdome (New Orleans, Louisiana) | Beyoncé | Destiny's Child |",
+      "Bruno Mars": "XLVIII (show) | February 2, 2014 | MetLife Stadium (East Rutherford, New Jersey) | Bruno Mars | Red Hot Chili Peppers |",
+      "Katy Perry": "XLIX (show) | February 1, 2015 | University of Phoenix Stadium (Glendale, Arizona) | Katy Perry |",
+      "Coldplay": "50 (show) | February 7, 2016 | Levi's Stadium (Santa Clara, California) | Coldplay |",
+      "Lady Gaga": "LI (show) | February 5, 2017 | NRG Stadium (Houston, Texas) | Lady Gaga | —N/a",
+      "Maroon 5": "LIII (show) | February 3, 2019 | Mercedes-Benz Stadium (Atlanta, Georgia) | Maroon 5 |",
+      "Shakira": "LIV (show) | February 2, 2020 | Hard Rock Stadium (Miami Gardens, Florida) | Shakira Jennifer Lopez |",
+      "Jennifer Lopez": "LIV (show) | February 2, 2020 | Hard Rock Stadium (Miami Gardens, Florida) | Shakira Jennifer Lopez |",
+      "The Weeknd": "LV (show) | February 7, 2021 | Raymond James Stadium (Tampa, Florida) | The Weeknd |",
+      "Dr. Dre": "LVI (show) | February 13, 2022 | SoFi Stadium (Inglewood, California) | Dr. Dre Snoop Dogg Eminem Mary J. Blige Kendrick Lamar |",
+      "Snoop Dogg": "LVI (show) | February 13, 2022 | SoFi Stadium (Inglewood, California) | Dr. Dre Snoop Dogg Eminem Mary J. Blige Kendrick Lamar |",
+      "Eminem": "LVI (show) | February 13, 2022 | SoFi Stadium (Inglewood, California) | Dr. Dre Snoop Dogg Eminem Mary J. Blige Kendrick Lamar |",
+      "Mary J. Blige": "LVI (show) | February 13, 2022 | SoFi Stadium (Inglewood, California) | Dr. Dre Snoop Dogg Eminem Mary J. Blige Kendrick Lamar |",
+      "Kendrick Lamar": "Kendrick Lamar | 2 | LVI (2022); LIX (2025) | —N/a",
+      "Rihanna": "LVII (show) | February 12, 2023 | State Farm Stadium (Glendale, Arizona) | Rihanna |",
+      "Usher": "LVIII (show) | February 11, 2024 | Allegiant Stadium (Paradise, Nevada) | Usher |",
+      "Bad Bunny": "LX (show) | February 8, 2026 | Levi's Stadium (Santa Clara, California) | Bad Bunny | Ricky Martin Lady Gaga |"
+    },
+    "issues": []
+  }
+}

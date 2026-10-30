@@ -1,0 +1,297 @@
+{
+  "question": {
+    "id": "tollywood-brahmanandam-memes",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Brahmanandam comedy scene, dialogue or expression that became a social-media meme. You can identify it by the character's name.",
+    "answerSet": "open",
+    "criteria": "A scene, dialogue or reaction template featuring Brahmanandam from a Telugu film that has circulated as a meme; a character name counts when it identifies the source.",
+    "answers": [
+      {
+        "id": "kill-bill-pandey",
+        "canonical": "Kill Bill Pandey",
+        "aliases": [
+          "Kill Bill",
+          "Race Gurram police comedy",
+          "Kill Bill Pandey entrance",
+          "Race Gurram Brahmi",
+          "Kill Bill Pande"
+        ],
+        "familiarity": 0.1731,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's swaggering police character Kill Bill Pandey in Race Gurram supplies widely shared comedy clips and reaction images.",
+        "sourceIds": []
+      },
+      {
+        "id": "gajala",
+        "canonical": "Gajala",
+        "aliases": [
+          "Gazala",
+          "Gajala from Washington",
+          "Venky train comedy",
+          "Gajala CEO",
+          "Sonic Solutions CEO",
+          "Venky train scene",
+          "Gajala from Washington DC"
+        ],
+        "familiarity": 0.1731,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam plays Gajala in Venky, whose encounters with the other train passengers are a recurring source of memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "lavangam",
+        "canonical": "Lavangam",
+        "aliases": [
+          "Lavangam restaurant scene",
+          "Manmadhudu Paris comedy",
+          "They paid no",
+          "Lavangam reactions",
+          "Manmadhudu Brahmi",
+          "Lavangam escalator",
+          "Manmadhudu escalator"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's Lavangam in Manmadhudu appears in the Paris restaurant comedy associated with the line 'They paid no'.",
+        "sourceIds": []
+      },
+      {
+        "id": "khan-dada",
+        "canonical": "Khan Dada",
+        "aliases": [
+          "Khan Dhada",
+          "Khan Dada entry",
+          "Money Khan Dada",
+          "Khan Dadha",
+          "Khan Dada Money"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's self-important gangster Khan Dada in Money became an enduring source of comedy references and memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "bhattu",
+        "canonical": "Bhattu",
+        "aliases": [
+          "Bhattacharya",
+          "Adhurs Bhattu",
+          "Adhurs priest comedy",
+          "Battu",
+          "Adhurs Brahmi",
+          "Bhattu garu"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's jealous and exasperated reactions as Bhattu opposite Chari in Adhurs are used in reaction memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "padmanabha-simha",
+        "canonical": "Padmanabha Simha",
+        "aliases": [
+          "Padmanabha Simham",
+          "Baadshah dream sequence",
+          "Baadshah Brahmi",
+          "Baadshah dream machine"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's Padmanabha Simha is central to the dream-based comedy in Baadshah that supplies numerous reaction clips.",
+        "sourceIds": []
+      },
+      {
+        "id": "jayasurya",
+        "canonical": "Jayasurya",
+        "aliases": [
+          "King music director",
+          "King music director scene",
+          "King Brahmi",
+          "King Jayasurya"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam plays music director Jayasurya in King, whose recording-session comedy is frequently reused in memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "mcdowell-murthy",
+        "canonical": "McDowell Murthy",
+        "aliases": [
+          "McDowell Moorthy",
+          "Ready Murthy",
+          "Ready Brahmi comedy",
+          "Ready Brahmi",
+          "Ready drinking scene",
+          "McDowell Murthi"
+        ],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's reactions as McDowell Murthy in Ready are reused in Telugu comedy memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "halwa-raj",
+        "canonical": "Halwa Raj",
+        "aliases": [
+          "Halwa Raju",
+          "Kick Halwa Raj",
+          "Kick Brahmi comedy",
+          "Kick Brahmi",
+          "Halwa Raj Dubai Seenu",
+          "Dubai Seenu Brahmi"
+        ],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's confused reactions as Halwa Raj in Kick circulate as comedy clips and reaction memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "chari",
+        "canonical": "Chari",
+        "aliases": [
+          "Chary",
+          "Dhee Chari",
+          "Dhee office comedy",
+          "Dhee Brahmi",
+          "Chari panic reaction"
+        ],
+        "familiarity": 0.0692,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's anxious office-worker reactions as Chari in Dhee became familiar Telugu reaction templates.",
+        "sourceIds": []
+      },
+      {
+        "id": "padmasri",
+        "canonical": "Padmasri",
+        "aliases": [
+          "Padmashri",
+          "Dookudu reality show",
+          "Dookudu Brahmi",
+          "Dookudu aspiring actor"
+        ],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's aspiring actor Padmasri in Dookudu is drawn into a supposed reality show, producing frequently shared comedy reactions.",
+        "sourceIds": []
+      },
+      {
+        "id": "ara-gundu",
+        "canonical": "Ara Gundu",
+        "aliases": [
+          "Ara Gundu servant",
+          "Aha Naa Pellanta servant",
+          "Aha Naa Pellanta Brahmi"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam's put-upon servant Ara Gundu in Aha Naa Pellanta provides exasperated expressions reused in Telugu memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "jilebi",
+        "canonical": "Jilebi",
+        "aliases": [
+          "Jalebi",
+          "Naayak Jilebi",
+          "Naayak Brahmi",
+          "Nayak Jilebi"
+        ],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam’s distressed and exasperated expressions as Jilebi in Naayak appear in reaction memes.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Brahmanandam's exaggerated expressions and comedy sequences have become staples of Telugu reaction memes. These are some recognizable sources; other qualifying examples also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "0e8d8041b038735c",
+    "brief": "Name a Brahmanandam comedy scene, dialogue or expression that became a famous meme or reaction template on social media.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Kill Bill Pandey": 3,
+      "Gajala": 3,
+      "Lavangam": 3,
+      "Khan Dada": 3,
+      "Bhattu": 3,
+      "Padmanabha Simha": 3,
+      "Jayasurya": 3,
+      "Chari": 2,
+      "McDowell Murthy": 3,
+      "Padmasri": 2,
+      "Halwa Raj": 3,
+      "Ara Gundu": 2,
+      "Jilebi": 2
+    },
+    "droppedForVotes": {
+      "Baddam Bhaskar": 1,
+      "Idli Viswanath": 1,
+      "Nannu Involve Cheyakandi": 1,
+      "Nellore Pedda Reddy": 1,
+      "Kathi Ramdas": 1
+    },
+    "verdicts": {
+      "Kill Bill Pandey": {
+        "verdict": "correct",
+        "reason": "His exaggerated police-hero antics in Race Gurram are a well-known source of memes and reaction clips."
+      },
+      "Gajala": {
+        "verdict": "correct",
+        "reason": "Gajala’s train-sequence comedy in Venky is widely reused in Telugu memes."
+      },
+      "Lavangam": {
+        "verdict": "correct",
+        "reason": "Lavangam is his character in Manmadhudu; the Paris comedy, including 'They paid no,' is a familiar meme source."
+      },
+      "Khan Dada": {
+        "verdict": "correct",
+        "reason": "His Khan Dada character in Money is iconic, with dialogue and expressions widely reused as memes."
+      },
+      "Bhattu": {
+        "verdict": "correct",
+        "reason": "Bhattu’s jealousy and exchanges with Chari in Adhurs are established reaction-meme material."
+      },
+      "Padmanabha Simha": {
+        "verdict": "correct",
+        "reason": "His dream-related comedy as Padmanabha Simha in Baadshah supplies widely circulated reaction clips."
+      },
+      "Jayasurya": {
+        "verdict": "correct",
+        "reason": "His music-director character Jayasurya in King and the recording-session scenes are well-known meme sources."
+      },
+      "McDowell Murthy": {
+        "verdict": "correct",
+        "reason": "McDowell Murthy is his character in Ready, whose comedy scenes and reactions circulate as memes."
+      },
+      "Halwa Raj": {
+        "verdict": "correct",
+        "reason": "His Halwa Raj character in Kick provides recognizable comedy reactions used in Telugu memes."
+      },
+      "Chari": {
+        "verdict": "correct",
+        "reason": "His nervous reactions as Chari in Dhee are familiar Telugu reaction templates."
+      },
+      "Padmasri": {
+        "verdict": "correct",
+        "reason": "His aspiring-actor character in Dookudu is deceived by a supposed reality show, producing widely shared comedy reactions."
+      },
+      "Ara Gundu": {
+        "verdict": "correct",
+        "reason": "His mistreated servant character in Aha Naa Pellanta is a classic source of exasperated reaction images."
+      },
+      "Jilebi": {
+        "verdict": "correct",
+        "reason": "Jilebi is his character in Naayak, and his distressed expressions from the film circulate as reaction memes."
+      }
+    },
+    "issues": []
+  }
+}

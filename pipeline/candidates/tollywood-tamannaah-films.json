@@ -1,0 +1,560 @@
+{
+  "question": {
+    "id": "tollywood-tamannaah-films",
+    "category": "tollywood",
+    "prompt": "Name a Telugu-language film in which Tamannaah Bhatia has appeared, including cameos and song appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "sree",
+        "canonical": "Sree",
+        "aliases": [
+          "Sri"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Sandhya in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "happy-days",
+        "canonical": "Happy Days",
+        "aliases": [],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Madhu in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "kalidasu",
+        "canonical": "Kalidasu",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Archana in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "ready",
+        "canonical": "Ready",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a cameo as Swapna in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "ninna-nedu-repu",
+        "canonical": "Ninna Nedu Repu",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a cameo as Aasha in this Telugu-language bilingual film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "konchem-ishtam-konchem-kashtam",
+        "canonical": "Konchem Ishtam Konchem Kashtam",
+        "aliases": [
+          "Koncham Ishtam Koncham Kashtam"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Geetha Subramanyam in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "100-love",
+        "canonical": "100% Love",
+        "aliases": [
+          "100 Percent Love"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Mahalakshmi in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "badrinath",
+        "canonical": "Badrinath",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Alakananda in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "oosaravelli",
+        "canonical": "Oosaravelli",
+        "aliases": [],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Niharika in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "racha",
+        "canonical": "Racha",
+        "aliases": [
+          "Rachcha"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Chaitra, also called Ammu, in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "endukante-premanta",
+        "canonical": "Endukante Premanta",
+        "aliases": [
+          "Endukante Premanta!"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Srinidhi and Sravanthi in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "rebel",
+        "canonical": "Rebel",
+        "aliases": [],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Nandini in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "cameraman-gangatho-rambabu",
+        "canonical": "Cameraman Gangatho Rambabu",
+        "aliases": [
+          "Cameraman Ganga Tho Rambabu"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Ganga in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "tadakha",
+        "canonical": "Tadakha",
+        "aliases": [
+          "Thadaka",
+          "Tadaka"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Pallavi in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "alludu-seenu",
+        "canonical": "Alludu Seenu",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "aagadu",
+        "canonical": "Aagadu",
+        "aliases": [
+          "Agadu"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Saroja in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Avanthika in this bilingual film, which has a Telugu entry in the filmography.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "size-zero",
+        "canonical": "Size Zero",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah appeared as herself in a cameo in this Telugu-language bilingual film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "bengal-tiger",
+        "canonical": "Bengal Tiger",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Meera in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "speedunnodu",
+        "canonical": "Speedunnodu",
+        "aliases": [
+          "Speedunodu"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "oopiri",
+        "canonical": "Oopiri",
+        "aliases": [],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Keerthi in this Telugu-language bilingual film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "jaguar",
+        "canonical": "Jaguar",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in the Telugu version of this film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "abhinetri",
+        "canonical": "Abhinetri",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Devi and Ruby in this Telugu-language entry of a trilingual film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Avanthika in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "jai-lava-kusa",
+        "canonical": "Jai Lava Kusa",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "naa-nuvve",
+        "canonical": "Naa Nuvve",
+        "aliases": [
+          "Na Nuvve"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Meera in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "next-enti",
+        "canonical": "Next Enti?",
+        "aliases": [
+          "Next Enti"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Tammy in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "f2-fun-and-frustration",
+        "canonical": "F2: Fun and Frustration",
+        "aliases": [
+          "F2",
+          "F2 Fun & Frustration"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Harika in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "abhinetri-2",
+        "canonical": "Abhinetri 2",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Devi in this Telugu-language bilingual film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [
+          "Sye Raa",
+          "Sye Raa Narsimha Reddy"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Lakshmi Narasimha Reddy in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "seetimaarr",
+        "canonical": "Seetimaarr",
+        "aliases": [
+          "Seetimaar"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Jwala Reddy in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "maestro",
+        "canonical": "Maestro",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Simran in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "ghani",
+        "canonical": "Ghani",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah made a special song appearance in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "f3-fun-and-frustration",
+        "canonical": "F3: Fun and Frustration",
+        "aliases": [
+          "F3",
+          "F3 Fun & Frustration"
+        ],
+        "familiarity": 0.0593,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Harika in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "gurthunda-seethakalam",
+        "canonical": "Gurthunda Seethakalam",
+        "aliases": [
+          "Gurtunda Seethakalam"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Nidhi in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "bhola-shankar",
+        "canonical": "Bhola Shankar",
+        "aliases": [
+          "Bholaa Shankar"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Lasya in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "odela-2",
+        "canonical": "Odela 2",
+        "aliases": [
+          "Odela II"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tamannaah played Bhairavi and Bhavani in this Telugu film.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-epic",
+        "canonical": "Baahubali: The Epic",
+        "aliases": [
+          "Bahubali: The Epic",
+          "Baahubali The Epic",
+          "Bahubali The Epic"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Tamannaah as Avanthika in this Telugu combined remastered version of the two Baahubali films.",
+        "sourceIds": [
+          "tamannaah-bhatia-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films are listed as Telugu-language entries in Tamannaah Bhatia's filmography. Lead roles, cameos, special song appearances and multilingual productions all count.",
+    "sources": [
+      {
+        "id": "tamannaah-bhatia-filmography",
+        "title": "Tamannaah Bhatia filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tamannaah_Bhatia_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "76f2333029617f8f",
+    "brief": "Name a film in which Tamannaah has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "tamannaah-bhatia-filmography",
+        "version": "1381563690",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Sree": "2005 | Sree | Sandhya | Telugu",
+      "Happy Days": "2007 | Happy Days | Madhu | Telugu",
+      "Kalidasu": "2008 | Kalidasu | Archana | Telugu",
+      "Ready": "2008 | Ready | Swapna | Telugu | Cameo",
+      "Ninna Nedu Repu": "2008 | Ninna Nedu Repu | Aasha | Telugu | Bilingual film; cameo",
+      "Konchem Ishtam Konchem Kashtam": "2009 | Konchem Ishtam Konchem Kashtam | Geetha Subramanyam | Telugu",
+      "100% Love": "2011 | 100% Love | Mahalakshmi | Telugu",
+      "Badrinath": "2011 | Badrinath | Alakananda | Telugu",
+      "Oosaravelli": "2011 | Oosaravelli | Niharika | Telugu",
+      "Racha": "2012 | Racha | Chaitra \"Ammu\" | Telugu",
+      "Endukante Premanta": "2012 | Endukante Premanta | Srinidhi / Sravanthi | Telugu",
+      "Rebel": "2012 | Rebel | Nandini | Telugu",
+      "Cameraman Gangatho Rambabu": "2012 | Cameraman Gangatho Rambabu | Ganga | Telugu",
+      "Tadakha": "2013 | Tadakha | Pallavi | Telugu",
+      "Alludu Seenu": "2014 | Alludu Seenu | — | Telugu | Special appearance in song \"Labbar Bomma\"",
+      "Aagadu": "2014 | Aagadu | Saroja | Telugu",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Avanthika | Telugu | Bilingual film",
+      "Size Zero": "2015 | Size Zero | Herself | Telugu | Bilingual film; cameo",
+      "Bengal Tiger": "2015 | Bengal Tiger | Meera | Telugu",
+      "Speedunnodu": "2016 | Speedunnodu | — | Telugu | Special appearance in song \"Bachelor Babu\"",
+      "Oopiri": "2016 | Oopiri | Keerthi | Telugu | Bilingual film",
+      "Jaguar": "2016 | Jaguar | — | Telugu | Special appearance in song \"Mandara Thailam\"",
+      "Abhinetri": "2016 | Abhinetri | Devi / Ruby | Telugu | Trilingual film",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Avanthika | Telugu | Partially reshot in Tamil",
+      "Jai Lava Kusa": "2017 | Jai Lava Kusa | — | Telugu | Special appearance in song \"Swing Zara\"",
+      "Naa Nuvve": "2018 | Naa Nuvve | Meera | Telugu",
+      "Next Enti?": "2018 | Next Enti? | Tammy | Telugu",
+      "F2: Fun and Frustration": "2019 | F2: Fun and Frustration | Harika | Telugu",
+      "Abhinetri 2": "2019 | Abhinetri 2 | Devi | Telugu | Bilingual film",
+      "Sye Raa Narasimha Reddy": "2019 | Sye Raa Narasimha Reddy | Lakshmi Narasimha Reddy | Telugu",
+      "Sarileru Neekevvaru": "2020 | Sarileru Neekevvaru | — | Telugu | Special appearance in song \"Daang Daang\"",
+      "Seetimaarr": "2021 | Seetimaarr | Jwala Reddy | Telugu",
+      "Maestro": "2021 | Maestro | Simran | Telugu",
+      "Ghani": "2022 | Ghani | — | Telugu | Special appearance in song \"Kodthe\"",
+      "F3: Fun and Frustration": "2022 | F3: Fun and Frustration | Harika | Telugu",
+      "Gurthunda Seethakalam": "2022 | Gurthunda Seethakalam | Nidhi | Telugu",
+      "Bhola Shankar": "2023 | Bhola Shankar | Lasya | Telugu",
+      "Odela 2": "2025 | Odela 2 | Bhairavi / Bhavani | Telugu",
+      "Baahubali: The Epic": "2025 | Baahubali: The Epic | Avanthika | Telugu | Combined remastered version of two-part Baahubali films."
+    },
+    "issues": []
+  }
+}

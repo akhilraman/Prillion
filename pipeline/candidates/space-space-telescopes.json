@@ -1,0 +1,314 @@
+{
+  "question": {
+    "id": "space-space-telescopes",
+    "category": "space",
+    "prompt": "Name a space telescope or telescope constellation listed for visible-light observations in the supplied source, including planned missions.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "hipparcos",
+        "canonical": "Hipparcos",
+        "aliases": [],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hipparcos appears in the source's visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "hubble-space-telescope",
+        "canonical": "Hubble Space Telescope",
+        "aliases": [
+          "Hubble",
+          "HST"
+        ],
+        "familiarity": 0.2028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hubble Space Telescope appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "most",
+        "canonical": "MOST",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MOST is listed among the visible-light space telescopes.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "neil-gehrels-swift-observatory",
+        "canonical": "Neil Gehrels Swift Observatory",
+        "aliases": [
+          "Swift",
+          "Swift Observatory",
+          "Neil Gehrels Swift"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Neil Gehrels Swift Observatory appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "corot",
+        "canonical": "COROT",
+        "aliases": [
+          "CoRoT"
+        ],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "COROT is listed in the source's visible-light section.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "kepler",
+        "canonical": "Kepler",
+        "aliases": [
+          "Kepler Space Telescope",
+          "Kepler telescope"
+        ],
+        "familiarity": 0.2028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kepler appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "brite-constellation",
+        "canonical": "BRITE constellation",
+        "aliases": [
+          "BRITE"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The BRITE constellation is an entry in the visible-light section.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "near-earth-object-surveillance-satellite-neossat",
+        "canonical": "Near Earth Object Surveillance Satellite (NEOSSat)",
+        "aliases": [
+          "NEOSSat",
+          "Near Earth Object Surveillance Satellite"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "NEOSSat appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "gaia-astrometry",
+        "canonical": "Gaia (astrometry)",
+        "aliases": [
+          "Gaia",
+          "Gaia Space Telescope"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gaia is listed in the source's visible-light section.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "astrosat",
+        "canonical": "AstroSat",
+        "aliases": [
+          "Astrosat"
+        ],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "AstroSat appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "transiting-exoplanet-survey-satellite-tess",
+        "canonical": "Transiting Exoplanet Survey Satellite (TESS)",
+        "aliases": [
+          "TESS",
+          "Transiting Exoplanet Survey Satellite"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "TESS is listed among the visible-light space telescopes.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "cheops",
+        "canonical": "CHEOPS",
+        "aliases": [],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "CHEOPS appears in the source's visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "ilo-x",
+        "canonical": "ILO-X",
+        "aliases": [
+          "ILO X"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ILO-X is listed in the visible-light section with a lunar-surface location.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "space-variable-objects-monitor-svom",
+        "canonical": "Space Variable Objects Monitor (SVOM)",
+        "aliases": [
+          "SVOM",
+          "Space Variable Objects Monitor"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SVOM appears in the visible-light telescope table.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "nancy-grace-roman-space-telescope",
+        "canonical": "Nancy Grace Roman Space Telescope",
+        "aliases": [
+          "Roman",
+          "Roman Space Telescope",
+          "Nancy Grace Roman"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Nancy Grace Roman Space Telescope is an entry in the visible-light section.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "xuntian",
+        "canonical": "Xuntian",
+        "aliases": [],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The future-launch table explicitly lists visible light as one of Xuntian's observation types.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "cubespec",
+        "canonical": "CubeSpec",
+        "aliases": [
+          "Cube Spec"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "CubeSpec is listed as a future mission for visible-light and ultraviolet observations.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "plato",
+        "canonical": "PLATO",
+        "aliases": [],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "PLATO's future-launch entry specifies visible-light observations of planet transits.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "ariel",
+        "canonical": "ARIEL",
+        "aliases": [],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ARIEL is listed as a future mission observing visible light and near-infrared wavelengths.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      },
+      {
+        "id": "arrakihs",
+        "canonical": "ARRAKIHS",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ARRAKIHS has visible light explicitly included in its future-launch observation type.",
+        "sourceIds": [
+          "list-of-space-telescopes"
+        ]
+      }
+    ],
+    "explanation": "These are the entries in the source's “Visible light” section, plus future missions whose observation types explicitly include visible light. The list includes past, current, and planned observatories.",
+    "sources": [
+      {
+        "id": "list-of-space-telescopes",
+        "title": "List of space telescopes",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_space_telescopes",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "dbea4fdde4ba98a1",
+    "brief": "Name a space telescope.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-space-telescopes",
+        "version": "1382364978",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Hipparcos": "| Hipparcos | ESA | 8 Aug 1989 | Mar 1993 | Earth orbit (223–35,632 km) |",
+      "Hubble Space Telescope": "| Hubble Space Telescope | NASA & ESA | 24 Apr 1990 | — | Earth orbit (586.47–610.44 km) |",
+      "MOST": "| MOST | CSA | 30 Jun 2003 | Mar 2019 | Earth orbit (819–832 km) |",
+      "Neil Gehrels Swift Observatory": "| Neil Gehrels Swift Observatory | NASA | 20 Nov 2004 | — | Earth orbit (585–604 km) |",
+      "COROT": "| COROT | CNES & ESA | 27 Dec 2006 | 2013 | Earth orbit (872–884 km) |",
+      "Kepler": "| Kepler | NASA | 6 Mar 2009 | 30 Oct 2018 | Earth-trailing heliocentric orbit |",
+      "BRITE constellation": "| BRITE constellation | Austria, Canada, Poland | 25 Feb 2013 - 19 Aug 2014 | — | Earth orbit |",
+      "Near Earth Object Surveillance Satellite (NEOSSat)": "| Near Earth Object Surveillance Satellite (NEOSSat) | CSA, DRDC | 25 Feb 2013 | — | Sun-synchronous Earth orbit (776–792 km) |",
+      "Gaia (astrometry)": "| Gaia (astrometry) | ESA | 19 Dec 2013 | 27 Mar 2025 | Sun-Earth L2 Lagrange point |",
+      "AstroSat": "| AstroSat | ISRO | 28 Sep 2015 | — | Earth orbit (600–650 km) |",
+      "Transiting Exoplanet Survey Satellite (TESS)": "| Transiting Exoplanet Survey Satellite (TESS) | NASA | 18 Apr 2018 | — | High Earth Orbit |",
+      "CHEOPS": "| CHEOPS | ESA | 18 Dec 2019 | — | Sun-synchronous orbit |",
+      "ILO-X": "| ILO-X | ILOA | 15 Feb 2024 | — | Lunar surface |",
+      "Space Variable Objects Monitor (SVOM)": "| Space Variable Objects Monitor (SVOM) | CNSA & CNES | 22 Jun 2024 | — | Earth orbit (625–625 km) |",
+      "Nancy Grace Roman Space Telescope": "| Nancy Grace Roman Space Telescope | NASA | 30 Aug 2026 | — | Sun–Earth L2 Lagrange point |",
+      "Xuntian": "| Xuntian | CNSA/CAS | Visible light/Terahertz radiation | 2026 | Low Earth orbit |",
+      "CubeSpec": "| CubeSpec | ESA | Visible light/UV | 2027 | Low Earth orbit |",
+      "PLATO": "| PLATO | ESA | Visible light (planet transits) | 2027 | Geosynchronous orbit |",
+      "ARIEL": "| ARIEL | ESA | Visible light/Near-infrared | 2029 | Sun–Earth L2 Lagrange point |",
+      "ARRAKIHS": "| ARRAKIHS | ESA | Visible light/Near-infrared | 2030 | Low Earth orbit |"
+    },
+    "issues": []
+  }
+}

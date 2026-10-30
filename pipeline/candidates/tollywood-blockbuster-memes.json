@@ -1,0 +1,270 @@
+{
+  "question": {
+    "id": "tollywood-blockbuster-memes",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a scene, dialogue, dance step or moment from a Telugu blockbuster that became an internet meme or viral trend.",
+    "answerSet": "open",
+    "criteria": "Name an identifiable on-screen moment, dialogue or dance from a Telugu blockbuster that has been widely circulated as a meme or recreated as a viral trend. A film title alone does not count.",
+    "answers": [
+      {
+        "id": "naatu-naatu",
+        "canonical": "Naatu Naatu",
+        "aliases": [
+          "Natu Natu",
+          "Naatu Naatu dance",
+          "RRR hook step",
+          "Naatu Naatu step",
+          "Nacho Nacho",
+          "Naacho Naacho",
+          "Naatu Naatu hook step"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The synchronized dance from RRR became a widely recreated international dance trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "thaggede-le",
+        "canonical": "Thaggede Le",
+        "aliases": [
+          "Taggede Le",
+          "Thaggedhe Le",
+          "Pushpa chin swipe",
+          "Pushpa beard swipe",
+          "Jhukega Nahi",
+          "Main jhukega nahi"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pushpa's defiant catchphrase and accompanying hand-under-the-chin gesture became widely imitated.",
+        "sourceIds": []
+      },
+      {
+        "id": "butta-bomma",
+        "canonical": "Butta Bomma",
+        "aliases": [
+          "Butta Bomma dance",
+          "Butta Bomma hook step",
+          "Butta Bomma step"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The choreography of Butta Bomma from Ala Vaikunthapurramuloo inspired viral dance recreations.",
+        "sourceIds": []
+      },
+      {
+        "id": "ramuloo-ramulaa",
+        "canonical": "Ramuloo Ramulaa",
+        "aliases": [
+          "Ramulo Ramula",
+          "Ramuloo Ramula",
+          "Ramuloo Ramulaa dance",
+          "Ramuloo Ramulaa step",
+          "Ramuloo Ramulaa hook step"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ramuloo Ramulaa from Ala Vaikunthapurramuloo became a widely recreated dance number.",
+        "sourceIds": []
+      },
+      {
+        "id": "why-kattappa-killed-baahubali",
+        "canonical": "Why Kattappa killed Baahubali",
+        "aliases": [
+          "Why did Kattappa kill Baahubali",
+          "Why Kattappa killed Bahubali",
+          "WKKB",
+          "Kattappa kills Baahubali",
+          "Why Katappa killed Bahubali",
+          "Kattappa ne Bahubali ko kyun mara"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The ending of Baahubali: The Beginning inspired a viral question about why Kattappa killed Baahubali.",
+        "sourceIds": []
+      },
+      {
+        "id": "baahubali-shiva-lingam-lift",
+        "canonical": "Baahubali Shiva lingam lift",
+        "aliases": [
+          "Shivling lift",
+          "Shivalinga lift",
+          "Baahubali lifts Shivling",
+          "Baahubali Shiva statue lift",
+          "Shiva linga lifting",
+          "Baahubali lifting lingam"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The scene of Shivudu carrying a massive Shiva lingam in Baahubali: The Beginning became a recurring meme image.",
+        "sourceIds": []
+      },
+      {
+        "id": "mind-block",
+        "canonical": "Mind Block",
+        "aliases": [
+          "Mind Block dance",
+          "Mind Block hook step",
+          "Sarileru Neekevvaru Mind Block",
+          "Mind Block step"
+        ],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Mind Block dance from Sarileru Neekevvaru inspired widely shared dance recreations.",
+        "sourceIds": []
+      },
+      {
+        "id": "sooseki",
+        "canonical": "Sooseki",
+        "aliases": [
+          "Sooseki dance",
+          "Sooseki hook step",
+          "Suseki",
+          "Angaaron",
+          "The Couple Song",
+          "Sooseki step"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The couple choreography associated with Sooseki from Pushpa 2: The Rule became a social-media dance trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "baahubali-palm-tree-catapult",
+        "canonical": "Baahubali palm-tree catapult",
+        "aliases": [
+          "Palm tree catapult",
+          "Baahubali human catapult",
+          "Baahubali coconut tree scene",
+          "Baahubali flying soldiers",
+          "Baahubali catapult"
+        ],
+        "familiarity": 0.0043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The palm-tree launch of shield-bearing soldiers in Baahubali 2: The Conclusion became a viral subject of memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "srivalli",
+        "canonical": "Srivalli",
+        "aliases": [
+          "Srivalli step",
+          "Srivalli shoulder step",
+          "Srivalli slipper step",
+          "Srivalli hook step"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun's shoulder-dropping, foot-sliding dance in Pushpa: The Rise became a widely recreated online trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "seeti-maar",
+        "canonical": "Seeti Maar",
+        "aliases": [
+          "Seeti Maar step",
+          "DJ Seeti Maar"
+        ],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun and Pooja Hegde's choreography for Seeti Maar from Duvvada Jagannadham became popular in online dance covers.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has inspired everything from dance challenges to reaction memes and catchphrases. These are examples; other answers meeting the criteria also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "1fc20e3d04b9585c",
+    "brief": "Name a scene, dialogue, song step or moment from a Telugu blockbuster (for example Baahubali, RRR, Pushpa, Magadheera or Arjun Reddy) that became a widely shared meme or viral trend.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Naatu Naatu": 3,
+      "Why Kattappa killed Baahubali": 2,
+      "Thaggede Le": 3,
+      "Butta Bomma": 3,
+      "Ramuloo Ramulaa": 3,
+      "Baahubali Shiva lingam lift": 2,
+      "Mind Block": 2,
+      "Sooseki": 2,
+      "Baahubali palm-tree catapult": 2,
+      "Srivalli": 2,
+      "Seeti Maar": 2
+    },
+    "droppedForVotes": {
+      "Srivalli step": 1,
+      "Flower anukuntiva": 1,
+      "Okasari commit aithe": 1,
+      "Kill Bill Pandey entry": 1,
+      "Pushpa ante flower anukuntiva": 1,
+      "Kurchi Madathapetti": 1,
+      "Chuttamalle": 1,
+      "Daavudi": 1,
+      "Peelings": 1,
+      "Veena step": 1,
+      "Shiva lingam lift": 1,
+      "Palm tree catapult": 1,
+      "Ammadu Let's Do Kummudu": 1,
+      "Pushpa flower or fire": 1,
+      "Oo Antava": 1,
+      "Saami Saami": 1,
+      "Kill Bill Pandey": 1,
+      "Okka sari commit aithe": 1,
+      "Evadu kodithe": 1,
+      "Magadheera hundred-man fight": 1
+    },
+    "verdicts": {
+      "Naatu Naatu": {
+        "verdict": "correct",
+        "reason": "RRR’s synchronized hook-step dance became a widely documented international recreation trend."
+      },
+      "Thaggede Le": {
+        "verdict": "correct",
+        "reason": "Pushpa’s catchphrase and signature hand-under-the-chin gesture were widely imitated online."
+      },
+      "Butta Bomma": {
+        "verdict": "correct",
+        "reason": "The song’s recognizable choreography from Ala Vaikunthapurramuloo inspired numerous viral dance recreations."
+      },
+      "Ramuloo Ramulaa": {
+        "verdict": "correct",
+        "reason": "The song’s dance steps from Ala Vaikunthapurramuloo were widely recreated, including in viral celebrity videos."
+      },
+      "Why Kattappa killed Baahubali": {
+        "verdict": "correct",
+        "reason": "The first film’s cliffhanger generated the enormously popular question and meme, ‘Why did Kattappa kill Baahubali?’"
+      },
+      "Baahubali Shiva lingam lift": {
+        "verdict": "correct",
+        "reason": "Shivudu carrying the enormous Shiva lingam is an identifiable scene widely reused in memes and visual parodies."
+      },
+      "Mind Block": {
+        "verdict": "correct",
+        "reason": "The Sarileru Neekevvaru song’s choreography inspired viral dance recreations, notably by David Warner and his wife."
+      },
+      "Sooseki": {
+        "verdict": "correct",
+        "reason": "The Pushpa 2 duet’s signature couple choreography became a widely recreated social-media dance trend."
+      },
+      "Baahubali palm-tree catapult": {
+        "verdict": "correct",
+        "reason": "The palm-tree launch sequence from Baahubali 2 circulated widely as a clip and a subject of memes about its exaggerated physics."
+      },
+      "Srivalli": {
+        "verdict": "correct",
+        "reason": "Allu Arjun’s distinctive shoulder-and-foot hook step became a major viral dance trend."
+      },
+      "Seeti Maar": {
+        "verdict": "correct",
+        "reason": "The original Duvvada Jagannadham song’s recognizable choreography was widely circulated through online dance covers and recreations."
+      }
+    },
+    "issues": []
+  }
+}

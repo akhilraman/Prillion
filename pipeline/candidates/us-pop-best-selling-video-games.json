@@ -1,0 +1,821 @@
+{
+  "question": {
+    "id": "us-pop-best-selling-video-games",
+    "category": "us-pop",
+    "prompt": "Name a video game in Wikipedia’s list of the best-selling video games of all time, ranked through 50th place.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "tetris",
+        "canonical": "Tetris",
+        "aliases": [],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Tetris with 520 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "minecraft",
+        "canonical": "Minecraft",
+        "aliases": [],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Minecraft with 425 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "grand-theft-auto-v",
+        "canonical": "Grand Theft Auto V",
+        "aliases": [
+          "GTA V",
+          "GTA 5",
+          "Grand Theft Auto 5"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Grand Theft Auto V with 230 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "red-dead-redemption-2",
+        "canonical": "Red Dead Redemption 2",
+        "aliases": [
+          "RDR2",
+          "Red Dead Redemption II"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Red Dead Redemption 2 with 87 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "wii-sports",
+        "canonical": "Wii Sports",
+        "aliases": [],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Wii Sports with 82.9 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "mario-kart-8-deluxe",
+        "canonical": "Mario Kart 8 / Deluxe",
+        "aliases": [
+          "Mario Kart 8",
+          "Mario Kart 8 Deluxe",
+          "MK8",
+          "MK8 Deluxe"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Mario Kart 8 and Deluxe with 79.99 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pubg-battlegrounds",
+        "canonical": "PUBG: Battlegrounds",
+        "aliases": [
+          "PUBG",
+          "PlayerUnknown's Battlegrounds",
+          "PUBG Battlegrounds"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists PUBG: Battlegrounds with 75 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "terraria",
+        "canonical": "Terraria",
+        "aliases": [],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Terraria with 70 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "the-elder-scrolls-v-skyrim",
+        "canonical": "The Elder Scrolls V: Skyrim",
+        "aliases": [
+          "Skyrim",
+          "The Elder Scrolls 5: Skyrim",
+          "Elder Scrolls V Skyrim"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists The Elder Scrolls V: Skyrim with 65 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "the-witcher-3-wild-hunt",
+        "canonical": "The Witcher 3: Wild Hunt",
+        "aliases": [
+          "The Witcher 3",
+          "Witcher 3",
+          "Witcher III"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists The Witcher 3: Wild Hunt with 65 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "super-mario-bros",
+        "canonical": "Super Mario Bros.",
+        "aliases": [
+          "Super Mario Bros",
+          "Super Mario Brothers"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Super Mario Bros. with 58 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "human-fall-flat",
+        "canonical": "Human: Fall Flat",
+        "aliases": [
+          "Human Fall Flat"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Human: Fall Flat with 58 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "animal-crossing-new-horizons",
+        "canonical": "Animal Crossing: New Horizons",
+        "aliases": [
+          "Animal Crossing New Horizons",
+          "New Horizons",
+          "ACNH"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Animal Crossing: New Horizons with 50.29 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "the-sims",
+        "canonical": "The Sims",
+        "aliases": [
+          "Sims",
+          "The Sims 1"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists The Sims with 50 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "stardew-valley",
+        "canonical": "Stardew Valley",
+        "aliases": [],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Stardew Valley with 50 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "overwatch",
+        "canonical": "Overwatch",
+        "aliases": [
+          "Overwatch 1"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Overwatch with 50 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-red-blue-yellow",
+        "canonical": "Pokémon Red / Blue / Yellow",
+        "aliases": [
+          "Pokemon Red",
+          "Pokemon Blue",
+          "Pokemon Yellow",
+          "Pokémon Red",
+          "Pokémon Blue",
+          "Pokémon Yellow",
+          "Pokemon Red Blue Yellow"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Red, Blue, and Yellow with 47.44 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "wii-fit-plus",
+        "canonical": "Wii Fit / Plus",
+        "aliases": [
+          "Wii Fit",
+          "Wii Fit Plus"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Wii Fit and Plus with 43.8 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "call-of-duty-black-ops-iii",
+        "canonical": "Call of Duty: Black Ops III",
+        "aliases": [
+          "Call of Duty Black Ops 3",
+          "Black Ops III",
+          "Black Ops 3",
+          "COD Black Ops 3",
+          "BO3"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Call of Duty: Black Ops III with 43 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "call-of-duty-modern-warfare",
+        "canonical": "Call of Duty: Modern Warfare",
+        "aliases": [
+          "Call of Duty Modern Warfare",
+          "Modern Warfare",
+          "Modern Warfare 2019",
+          "COD Modern Warfare 2019"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists the 2019 Call of Duty: Modern Warfare with 41 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "sonic-the-hedgehog",
+        "canonical": "Sonic the Hedgehog",
+        "aliases": [
+          "Sonic the Hedgehog 1991",
+          "Sonic 1"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists the 1991 Sonic the Hedgehog with 40 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "payday-2",
+        "canonical": "Payday 2",
+        "aliases": [
+          "Payday II"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Payday 2 with 40 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "cyberpunk-2077",
+        "canonical": "Cyberpunk 2077",
+        "aliases": [
+          "Cyberpunk"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Cyberpunk 2077 with 40 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "hogwarts-legacy",
+        "canonical": "Hogwarts Legacy",
+        "aliases": [],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Hogwarts Legacy with 40 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "super-smash-bros-ultimate",
+        "canonical": "Super Smash Bros. Ultimate",
+        "aliases": [
+          "Super Smash Bros Ultimate",
+          "Smash Ultimate",
+          "Super Smash Brothers Ultimate",
+          "SSBU"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Super Smash Bros. Ultimate with 38.14 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "mario-kart-wii",
+        "canonical": "Mario Kart Wii",
+        "aliases": [
+          "MKWii"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Mario Kart Wii with 37.38 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "the-legend-of-zelda-breath-of-the-wild",
+        "canonical": "The Legend of Zelda: Breath of the Wild",
+        "aliases": [
+          "Breath of the Wild",
+          "Zelda Breath of the Wild",
+          "BOTW"
+        ],
+        "familiarity": 0.0463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists The Legend of Zelda: Breath of the Wild with 35.76 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "fallout-4",
+        "canonical": "Fallout 4",
+        "aliases": [
+          "Fallout IV"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Fallout 4 with 35 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "wii-sports-resort",
+        "canonical": "Wii Sports Resort",
+        "aliases": [],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Wii Sports Resort with 33.14 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "borderlands-2",
+        "canonical": "Borderlands 2",
+        "aliases": [
+          "Borderlands II",
+          "BL2"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Borderlands 2 with 31 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "new-super-mario-bros",
+        "canonical": "New Super Mario Bros.",
+        "aliases": [
+          "New Super Mario Bros",
+          "New Super Mario Brothers",
+          "New Super Mario Bros DS",
+          "NSMB"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists New Super Mario Bros. for Nintendo DS with 30.8 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "super-mario-odyssey",
+        "canonical": "Super Mario Odyssey",
+        "aliases": [
+          "Mario Odyssey"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Super Mario Odyssey with 30.8 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "monster-hunter-world",
+        "canonical": "Monster Hunter: World",
+        "aliases": [
+          "Monster Hunter World",
+          "MHW"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Monster Hunter: World with 30.4 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "new-super-mario-bros-wii",
+        "canonical": "New Super Mario Bros. Wii",
+        "aliases": [
+          "New Super Mario Bros Wii",
+          "New Super Mario Brothers Wii",
+          "NSMB Wii"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists New Super Mario Bros. Wii with 30.32 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-gold-silver-crystal",
+        "canonical": "Pokémon Gold / Silver / Crystal",
+        "aliases": [
+          "Pokemon Gold",
+          "Pokemon Silver",
+          "Pokemon Crystal",
+          "Pokémon Gold",
+          "Pokémon Silver",
+          "Pokémon Crystal",
+          "Pokemon Gold Silver Crystal"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Gold, Silver, and Crystal with 30.12 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "phasmophobia",
+        "canonical": "Phasmophobia",
+        "aliases": [
+          "Phasmo"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Phasmophobia with 30 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "call-of-duty-black-ops-cold-war",
+        "canonical": "Call of Duty: Black Ops Cold War",
+        "aliases": [
+          "Call of Duty Black Ops Cold War",
+          "Black Ops Cold War",
+          "COD Cold War",
+          "Cold War"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Call of Duty: Black Ops Cold War with 30 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "it-takes-two",
+        "canonical": "It Takes Two",
+        "aliases": [
+          "It Takes 2"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists It Takes Two with 30 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "elden-ring",
+        "canonical": "Elden Ring",
+        "aliases": [],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Elden Ring with 30 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-scarlet-violet",
+        "canonical": "Pokémon Scarlet / Violet",
+        "aliases": [
+          "Pokemon Scarlet",
+          "Pokemon Violet",
+          "Pokémon Scarlet",
+          "Pokémon Violet",
+          "Pokemon Scarlet and Violet"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Scarlet and Violet with 28.46 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "duck-hunt",
+        "canonical": "Duck Hunt",
+        "aliases": [],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Duck Hunt with 28.3 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "wii-play",
+        "canonical": "Wii Play",
+        "aliases": [],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Wii Play with 28.02 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "black-myth-wukong",
+        "canonical": "Black Myth: Wukong",
+        "aliases": [
+          "Black Myth Wukong",
+          "Wukong"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Black Myth: Wukong with 28 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "grand-theft-auto-san-andreas",
+        "canonical": "Grand Theft Auto: San Andreas",
+        "aliases": [
+          "GTA San Andreas",
+          "San Andreas",
+          "GTA SA"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Grand Theft Auto: San Andreas with 27.5 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-sword-shield",
+        "canonical": "Pokémon Sword / Shield",
+        "aliases": [
+          "Pokemon Sword",
+          "Pokemon Shield",
+          "Pokémon Sword",
+          "Pokémon Shield",
+          "Pokemon Sword and Shield"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Sword and Shield with 27.26 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "call-of-duty-modern-warfare-3",
+        "canonical": "Call of Duty: Modern Warfare 3",
+        "aliases": [
+          "Call of Duty Modern Warfare 3",
+          "Modern Warfare 3",
+          "MW3",
+          "COD MW3",
+          "Modern Warfare 3 2011"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists the 2011 Call of Duty: Modern Warfare 3 with 26.5 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "call-of-duty-black-ops",
+        "canonical": "Call of Duty: Black Ops",
+        "aliases": [
+          "Call of Duty Black Ops",
+          "Black Ops",
+          "Black Ops 1",
+          "COD Black Ops",
+          "BO1"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Call of Duty: Black Ops with 26.2 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-sun-moon-ultra-sun-ultra-moon",
+        "canonical": "Pokémon Sun / Moon / Ultra Sun / Ultra Moon",
+        "aliases": [
+          "Pokemon Sun",
+          "Pokemon Moon",
+          "Pokemon Ultra Sun",
+          "Pokemon Ultra Moon",
+          "Pokémon Sun",
+          "Pokémon Moon",
+          "Pokémon Ultra Sun",
+          "Pokémon Ultra Moon",
+          "Pokemon Sun and Moon",
+          "Pokemon Ultra Sun and Ultra Moon"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Sun, Moon, Ultra Sun, and Ultra Moon with 25.62 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "garry-s-mod",
+        "canonical": "Garry's Mod",
+        "aliases": [
+          "Garrys Mod",
+          "GMod"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Garry's Mod with 25.56 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "pok-mon-diamond-pearl-platinum",
+        "canonical": "Pokémon Diamond / Pearl / Platinum",
+        "aliases": [
+          "Pokemon Diamond",
+          "Pokemon Pearl",
+          "Pokemon Platinum",
+          "Pokémon Diamond",
+          "Pokémon Pearl",
+          "Pokémon Platinum",
+          "Pokemon Diamond Pearl Platinum"
+        ],
+        "familiarity": 0.0056,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table groups Pokémon Diamond, Pearl, and Platinum with 25.5 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      },
+      {
+        "id": "grand-theft-auto-iv",
+        "canonical": "Grand Theft Auto IV",
+        "aliases": [
+          "Grand Theft Auto 4",
+          "GTA IV",
+          "GTA 4"
+        ],
+        "familiarity": 0.0185,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Grand Theft Auto IV with 25 million sales.",
+        "sourceIds": [
+          "list-of-best-selling-video-games"
+        ]
+      }
+    ],
+    "explanation": "These are the entries in the supplied best-selling games table, based on reported worldwide sales. Ties mean there are more than 50 entries. Some editions and related releases are grouped together; naming a version included in a grouped entry counts.",
+    "sources": [
+      {
+        "id": "list-of-best-selling-video-games",
+        "title": "List of best-selling video games",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "6f12c5a732d2aabc",
+    "brief": "Name one of the best-selling video games of all time.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-best-selling-video-games",
+        "version": "1380747619",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Tetris": "1 | Tetris | 520 | None | Multi-platform | 1988",
+      "Minecraft": "1 | Minecraft | 425 | Minecraft | Multi-platform | 2011",
+      "Grand Theft Auto V": "2 | Grand Theft Auto V | 230 | Grand Theft Auto | Multi-platform | 2013",
+      "Red Dead Redemption 2": "3 | Red Dead Redemption 2 | 87 | Red Dead | Multi-platform | 2018",
+      "Wii Sports": "4 | Wii Sports | 82.9 | Wii | Wii | 2006",
+      "Mario Kart 8 / Deluxe": "5 | Mario Kart 8 / Deluxe | 79.99 | Mario Kart | Wii U / Switch | 2014",
+      "PUBG: Battlegrounds": "6 | PUBG: Battlegrounds | 75 | PUBG Universe | Multi-platform | 2017",
+      "Terraria": "7 | Terraria | 70 | None | Multi-platform | 2011",
+      "The Elder Scrolls V: Skyrim": "8 | The Elder Scrolls V: Skyrim | 65 | The Elder Scrolls | Multi-platform | 2011",
+      "The Witcher 3: Wild Hunt": "8 | The Witcher 3: Wild Hunt | 65 | The Witcher | Multi-platform | 2015",
+      "Super Mario Bros.": "10 | Super Mario Bros. | 58 | Super Mario | Multi-platform | 1985",
+      "Human: Fall Flat": "10 | Human: Fall Flat | 58 | None | Multi-platform | 2016",
+      "Animal Crossing: New Horizons": "12 | Animal Crossing: New Horizons | 50.29 | Animal Crossing | Nintendo Switch | 2020",
+      "The Sims": "13 | The Sims | 50 | The Sims | Multi-platform | 2000",
+      "Stardew Valley": "13 | Stardew Valley | 50 | None | Multi-platform | 2016",
+      "Overwatch": "13 | Overwatch | 50 | Overwatch | Multi-platform | 2016",
+      "Pokémon Red / Blue / Yellow": "16 | Pokémon Red / Blue / Yellow | 47.44 | Pokémon | Multi-platform | 1996",
+      "Wii Fit / Plus": "17 | Wii Fit / Plus | 43.8 | Wii | Wii | 2007",
+      "Call of Duty: Black Ops III": "18 | Call of Duty: Black Ops III | 43 | Call of Duty | Multi-platform | 2015",
+      "Call of Duty: Modern Warfare": "19 | Call of Duty: Modern Warfare | 41 | Call of Duty | Multi-platform | 2019",
+      "Sonic the Hedgehog": "20 | Sonic the Hedgehog | 40 | Sonic the Hedgehog | Multi-platform | 1991",
+      "Payday 2": "20 | Payday 2 | 40 | Payday | Multi-platform | 2013",
+      "Cyberpunk 2077": "20 | Cyberpunk 2077 | 40 | Cyberpunk | Multi-platform | 2020",
+      "Hogwarts Legacy": "20 | Hogwarts Legacy | 40 | Wizarding World | Multi-platform | 2023",
+      "Super Smash Bros. Ultimate": "24 | Super Smash Bros. Ultimate | 38.14 | Super Smash Bros. | Nintendo Switch | 2018",
+      "Mario Kart Wii": "25 | Mario Kart Wii | 37.38 | Mario Kart | Wii | 2008",
+      "The Legend of Zelda: Breath of the Wild": "26 | The Legend of Zelda: Breath of the Wild | 35.76 | The Legend of Zelda | Multi-platform | 2017",
+      "Fallout 4": "27 | Fallout 4 | 35 | Fallout | Multi-platform | 2015",
+      "Wii Sports Resort": "28 | Wii Sports Resort | 33.14 | Wii | Wii | 2009",
+      "Borderlands 2": "29 | Borderlands 2 | 31 | Borderlands | Multi-platform | 2012",
+      "New Super Mario Bros.": "30 | New Super Mario Bros. | 30.8 | Super Mario | Nintendo DS | 2006",
+      "Super Mario Odyssey": "30 | Super Mario Odyssey | 30.8 | Super Mario | Nintendo Switch | 2017",
+      "Monster Hunter: World": "32 | Monster Hunter: World | 30.4 | Monster Hunter | Multi-platform | 2018",
+      "New Super Mario Bros. Wii": "33 | New Super Mario Bros. Wii | 30.32 | Super Mario | Wii | 2009",
+      "Pokémon Gold / Silver / Crystal": "34 | Pokémon Gold / Silver / Crystal | 30.12 | Pokémon | Game Boy Color | 1999",
+      "Phasmophobia": "35 | Phasmophobia | 30 | None | Multi-platform | 2020",
+      "Call of Duty: Black Ops Cold War": "35 | Call of Duty: Black Ops Cold War | 30 | Call of Duty | Multi-platform | 2020",
+      "It Takes Two": "35 | It Takes Two | 30 | None | Multi-platform | 2021",
+      "Elden Ring": "35 | Elden Ring | 30 | Elden Ring | Multi-platform | 2022",
+      "Pokémon Scarlet / Violet": "39 | Pokémon Scarlet / Violet | 28.46 | Pokémon | Nintendo Switch | 2022",
+      "Duck Hunt": "40 | Duck Hunt | 28.3 | None | Famicom / NES | 1984",
+      "Wii Play": "41 | Wii Play | 28.02 | Wii | Wii | 2006",
+      "Black Myth: Wukong": "42 | Black Myth: Wukong | 28 | Black Myth | Multi-platform | 2024",
+      "Grand Theft Auto: San Andreas": "43 | Grand Theft Auto: San Andreas | 27.5 | Grand Theft Auto | Multi-platform | 2004",
+      "Pokémon Sword / Shield": "44 | Pokémon Sword / Shield | 27.26 | Pokémon | Nintendo Switch | 2019",
+      "Call of Duty: Modern Warfare 3": "45 | Call of Duty: Modern Warfare 3 | 26.5 | Call of Duty | Multi-platform | 2011",
+      "Call of Duty: Black Ops": "46 | Call of Duty: Black Ops | 26.2 | Call of Duty | Multi-platform | 2010",
+      "Pokémon Sun / Moon / Ultra Sun / Ultra Moon": "47 | Pokémon Sun / Moon / Ultra Sun / Ultra Moon | 25.62 | Pokémon | Nintendo 3DS | 2016",
+      "Garry's Mod": "48 | Garry's Mod | 25.56 | None | PC | 2006",
+      "Pokémon Diamond / Pearl / Platinum": "49 | Pokémon Diamond / Pearl / Platinum | 25.5 | Pokémon | Nintendo DS | 2006",
+      "Grand Theft Auto IV": "50 | Grand Theft Auto IV | 25 | Grand Theft Auto | Multi-platform | 2008"
+    },
+    "issues": []
+  }
+}

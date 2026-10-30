@@ -1,0 +1,244 @@
+{
+  "question": {
+    "id": "tollywood-pan-india-films",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film that was released in several Indian languages and became a box-office hit beyond the Telugu market.",
+    "answerSet": "open",
+    "criteria": "A Telugu-origin film, including a multilingual production, released theatrically in at least three Indian languages and commercially successful in at least one non-Telugu-language market.",
+    "answers": [
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.1347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. S. Rajamouli's fantasy epic achieved theatrical success across Telugu, Tamil, Hindi and Malayalam releases.",
+        "sourceIds": []
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali: The Conclusion"
+        ],
+        "familiarity": 0.1347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The concluding Baahubali film became a major box-office success across multiple Indian-language markets.",
+        "sourceIds": []
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "Roudram Ranam Rudhiram"
+        ],
+        "familiarity": 0.1347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. S. Rajamouli's action epic was released in multiple Indian languages and became a major hit beyond the Telugu market.",
+        "sourceIds": []
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1"
+        ],
+        "familiarity": 0.1347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The first Pushpa film became a multilingual theatrical hit, including a successful Hindi release.",
+        "sourceIds": []
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule"
+        ],
+        "familiarity": 0.1347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Pushpa sequel achieved major theatrical success in multiple languages, particularly Hindi.",
+        "sourceIds": []
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki",
+          "Kalki 2898"
+        ],
+        "familiarity": 0.0539,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This science-fiction epic starring Prabhas became a multilingual box-office success with a substantial Hindi-language run.",
+        "sourceIds": []
+      },
+      {
+        "id": "hanu-man",
+        "canonical": "Hanu-Man",
+        "aliases": [],
+        "familiarity": 0.0539,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prasanth Varma's Telugu superhero film became a theatrical hit with a successful Hindi-dubbed release.",
+        "sourceIds": []
+      },
+      {
+        "id": "karthikeya-2",
+        "canonical": "Karthikeya 2",
+        "aliases": [
+          "Karthikeya II",
+          "Kartikeya 2",
+          "Kartikeya II"
+        ],
+        "familiarity": 0.0162,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Telugu adventure film expanded into a multilingual hit through its successful Hindi-dubbed release.",
+        "sourceIds": []
+      },
+      {
+        "id": "sita-ramam",
+        "canonical": "Sita Ramam",
+        "aliases": [
+          "Seetha Ramam",
+          "Sita Raman"
+        ],
+        "familiarity": 0.0162,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Telugu romantic drama received theatrical releases in several languages and found success in non-Telugu markets.",
+        "sourceIds": []
+      },
+      {
+        "id": "lucky-baskhar",
+        "canonical": "Lucky Baskhar",
+        "aliases": [
+          "Lucky Bhaskar",
+          "Lucky Baskar",
+          "Lucky Bhaskhar"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Telugu financial drama starring Dulquer Salmaan became a multilingual theatrical success, including in Tamil Nadu and Kerala.",
+        "sourceIds": []
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [
+          "Naan Ee",
+          "Naan E",
+          "Makkhi",
+          "Eecha"
+        ],
+        "familiarity": 0.0162,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. S. Rajamouli's fantasy film succeeded in Telugu and Tamil and also received a Hindi theatrical release as Makkhi.",
+        "sourceIds": []
+      },
+      {
+        "id": "saaho",
+        "canonical": "Saaho",
+        "aliases": [
+          "Saho",
+          "Sahoo"
+        ],
+        "familiarity": 0.0162,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This multilingual action film starring Prabhas had a commercially successful Hindi version despite uneven results elsewhere.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These films reached audiences through dubbed or simultaneously produced versions. Their success was not necessarily equal across languages: a successful non-Telugu release qualifies even if another version underperformed.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "342f08c097bc786f",
+    "brief": "Name a Telugu film that was released in several Indian languages and became a pan-India hit.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Baahubali: The Beginning": 3,
+      "Baahubali 2: The Conclusion": 3,
+      "RRR": 3,
+      "Pushpa: The Rise": 3,
+      "Pushpa 2: The Rule": 3,
+      "Kalki 2898 AD": 3,
+      "Salaar: Part 1 – Ceasefire": 2,
+      "Saaho": 2,
+      "Hanu-Man": 3,
+      "Karthikeya 2": 3,
+      "Sita Ramam": 3,
+      "Lucky Baskhar": 3,
+      "Eega": 3
+    },
+    "droppedForVotes": {
+      "Salaar": 1
+    },
+    "verdicts": {
+      "Baahubali: The Beginning": {
+        "verdict": "correct",
+        "reason": "Released theatrically in Telugu, Tamil, Hindi and Malayalam, with major commercial success outside the Telugu market."
+      },
+      "Baahubali 2: The Conclusion": {
+        "verdict": "correct",
+        "reason": "Released in at least four Indian languages and achieved blockbuster success in Hindi and other non-Telugu markets."
+      },
+      "RRR": {
+        "verdict": "correct",
+        "reason": "Released theatrically in Telugu, Hindi, Tamil, Malayalam and Kannada; its Hindi version was a major commercial success."
+      },
+      "Pushpa: The Rise": {
+        "verdict": "correct",
+        "reason": "Had theatrical releases in five Indian languages, and its Hindi version became a widely documented box-office hit."
+      },
+      "Pushpa 2: The Rule": {
+        "verdict": "correct",
+        "reason": "Released theatrically in multiple Indian languages and achieved exceptional box-office success with its Hindi version."
+      },
+      "Kalki 2898 AD": {
+        "verdict": "correct",
+        "reason": "Released theatrically in five Indian languages and had a commercially successful Hindi run."
+      },
+      "Hanu-Man": {
+        "verdict": "correct",
+        "reason": "Released theatrically in multiple Indian languages, including Telugu, Hindi and Tamil, with a successful Hindi-dubbed run."
+      },
+      "Karthikeya 2": {
+        "verdict": "correct",
+        "reason": "Received theatrical releases in Telugu, Hindi and Tamil; its Hindi version became a notable commercial hit."
+      },
+      "Sita Ramam": {
+        "verdict": "correct",
+        "reason": "Released theatrically in Telugu, Tamil and Malayalam, followed by Hindi, and enjoyed commercial success in non-Telugu markets."
+      },
+      "Lucky Baskhar": {
+        "verdict": "correct",
+        "reason": "Released theatrically in several Indian languages and achieved documented commercial success in Tamil Nadu and Kerala."
+      },
+      "Eega": {
+        "verdict": "correct",
+        "reason": "A Telugu–Tamil production whose Tamil version, Naan Ee, was successful; its Hindi theatrical release as Makkhi supplies the third language."
+      },
+      "Salaar: Part 1 – Ceasefire": {
+        "verdict": "unsure",
+        "reason": "Its theatrical release in five Indian languages is established, but I cannot confidently verify commercial success for a particular non-Telugu version."
+      },
+      "Saaho": {
+        "verdict": "correct",
+        "reason": "Released theatrically in Telugu, Hindi, Tamil and Malayalam; its Hindi version was commercially successful despite weaker results elsewhere."
+      }
+    },
+    "issues": []
+  }
+}

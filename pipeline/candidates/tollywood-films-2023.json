@@ -1,0 +1,2322 @@
+{
+  "question": {
+    "id": "tollywood-films-2023",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film released in 2023.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "adipurush",
+        "canonical": "Adipurush",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among the highest-grossing Telugu films released in 2023.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sir",
+        "canonical": "Sir",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among the highest-grossing Telugu films released in 2023.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "prathyardhi",
+        "canonical": "Prathyardhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "veera-simha-reddy",
+        "canonical": "Veera Simha Reddy",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [
+          "Waltair Veeraya"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kalyanam-kamaneeyam",
+        "canonical": "Kalyanam Kamaneeyam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "hunt",
+        "canonical": "Hunt",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "valentines-night",
+        "canonical": "Valentines Night",
+        "aliases": [
+          "Valentine's Night"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sindhooram",
+        "canonical": "Sindhooram",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "michael",
+        "canonical": "Michael",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "suvarna-sundari",
+        "canonical": "Suvarna Sundari",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "writer-padmabhushan",
+        "canonical": "Writer Padmabhushan",
+        "aliases": [
+          "Writer Padma Bhushan"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mayagadu",
+        "canonical": "Mayagadu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "butta-bomma",
+        "canonical": "Butta Bomma",
+        "aliases": [
+          "Buttabomma"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "amigos",
+        "canonical": "Amigos",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "vinaro-bhagyamu-vishnu-katha",
+        "canonical": "Vinaro Bhagyamu Vishnu Katha",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sridevi-shoban-babu",
+        "canonical": "Sridevi Shoban Babu",
+        "aliases": [
+          "Sridevi Shobhan Babu"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mr-king",
+        "canonical": "Mr. King",
+        "aliases": [
+          "Mr King"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "balagam",
+        "canonical": "Balagam",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "organic-mama-hybrid-alludu",
+        "canonical": "Organic Mama Hybrid Alludu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "richie-gadi-pelli",
+        "canonical": "Richie Gadi Pelli",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "csi-sanatan",
+        "canonical": "CSI Sanatan",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "phalana-abbayi-phalana-ammayi",
+        "canonical": "Phalana Abbayi Phalana Ammayi",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "das-ka-dhamki",
+        "canonical": "Das Ka Dhamki",
+        "aliases": [
+          "Das Ka Dhamkee"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ranga-maarthaanda",
+        "canonical": "Ranga Maarthaanda",
+        "aliases": [
+          "Ranga Marthanda"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "dasara",
+        "canonical": "Dasara",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ravanasura",
+        "canonical": "Ravanasura",
+        "aliases": [
+          "Ravanasura"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "meter",
+        "canonical": "Meter",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "asalu",
+        "canonical": "Asalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "shaakuntalam",
+        "canonical": "Shaakuntalam",
+        "aliases": [
+          "Shakuntalam"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "10-rupees",
+        "canonical": "10 Rupees",
+        "aliases": [
+          "Ten Rupees"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "hello-meera",
+        "canonical": "Hello Meera",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "two-souls",
+        "canonical": "Two Souls",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "virupaksha",
+        "canonical": "Virupaksha",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "agent",
+        "canonical": "Agent",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "raa-raa-penimiti",
+        "canonical": "Raa Raa Penimiti",
+        "aliases": [
+          "Ra Ra Penimiti"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "vidyarthi",
+        "canonical": "Vidyarthi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ramabanam",
+        "canonical": "Ramabanam",
+        "aliases": [
+          "Rama Banam"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ugram",
+        "canonical": "Ugram",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "arangetram",
+        "canonical": "Arangetram",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bhuvana-vijayam",
+        "canonical": "Bhuvana Vijayam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "katha-venuka-katha",
+        "canonical": "Katha Venuka Katha",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "custody",
+        "canonical": "Custody",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kalyanamasthu",
+        "canonical": "Kalyanamasthu",
+        "aliases": [
+          "Kalyanamastu"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "tea-break",
+        "canonical": "Tea Break",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "the-story-of-a-beautiful-girl",
+        "canonical": "The Story of A Beautiful Girl",
+        "aliases": [
+          "The Story of a Beautiful Girl",
+          "Story of a Beautiful Girl"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "anni-manchi-sakunamule",
+        "canonical": "Anni Manchi Sakunamule",
+        "aliases": [
+          "Anni Manchi Shakunamule"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "haseena",
+        "canonical": "Haseena",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "malli-pelli",
+        "canonical": "Malli Pelli",
+        "aliases": [
+          "MalliPelli"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "grey-the-spy-who-loved-me",
+        "canonical": "Grey: The Spy Who Loved Me",
+        "aliases": [
+          "Grey"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "boo",
+        "canonical": "Boo",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ahimsa",
+        "canonical": "Ahimsa",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "chakravyuham-the-trap",
+        "canonical": "Chakravyuham: The Trap",
+        "aliases": [
+          "Chakravyuham"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "nenu-student-sir",
+        "canonical": "Nenu Student Sir",
+        "aliases": [
+          "Nenu Student Sir!"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mem-famous",
+        "canonical": "Mem Famous",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "pareshan",
+        "canonical": "Pareshan",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "anantha",
+        "canonical": "Anantha",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "intinti-ramayanam",
+        "canonical": "Intinti Ramayanam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "unstoppable",
+        "canonical": "Unstoppable",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "vimanam",
+        "canonical": "Vimanam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kanulu-therichinaa-kanulu-moosinaa",
+        "canonical": "Kanulu Therichinaa Kanulu Moosinaa",
+        "aliases": [
+          "Kanulu Therichina Kanulu Moosina"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "karna",
+        "canonical": "Karna",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "spy",
+        "canonical": "Spy",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "samajavaragamana",
+        "canonical": "Samajavaragamana",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "maya-petika",
+        "canonical": "Maya Petika",
+        "aliases": [
+          "Mayapetika"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "7-11-pm",
+        "canonical": "7:11 PM",
+        "aliases": [
+          "7 11 PM",
+          "711 PM"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bhaag-saale",
+        "canonical": "Bhaag Saale",
+        "aliases": [
+          "Bhag Saale"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "circle",
+        "canonical": "Circle",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "lily",
+        "canonical": "Lily",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mohankrishnas-gang-leader",
+        "canonical": "Mohankrishnas Gang Leader",
+        "aliases": [
+          "Mohankrishna's Gang Leader"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "o-saathiya",
+        "canonical": "O Saathiya",
+        "aliases": [
+          "O Sathiya"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rangabali",
+        "canonical": "Rangabali",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rudrangi",
+        "canonical": "Rudrangi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "baby",
+        "canonical": "Baby",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "revenge",
+        "canonical": "Revenge",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "hidimbha",
+        "canonical": "Hidimbha",
+        "aliases": [
+          "Hidimba"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ala-ila-ela",
+        "canonical": "Ala Ila Ela",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "detective-karthik",
+        "canonical": "Detective Karthik",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "annapurna-photo-studio",
+        "canonical": "Annapurna Photo Studio",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "her-chapter-1",
+        "canonical": "Her - Chapter 1",
+        "aliases": [
+          "Her",
+          "Her Chapter 1"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "natho-nenu",
+        "canonical": "Natho Nenu",
+        "aliases": [
+          "Naatho Nenu"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bro",
+        "canonical": "Bro",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "okkaroju-48-hours",
+        "canonical": "Okkaroju...48 Hours",
+        "aliases": [
+          "Okkaroju 48 Hours",
+          "Okka Roju 48 Hours"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sakshi",
+        "canonical": "Sakshi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "slum-dog-husband",
+        "canonical": "Slum Dog Husband",
+        "aliases": [
+          "Slumdog Husband"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "dilse",
+        "canonical": "Dilse",
+        "aliases": [
+          "Dil Se"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "krishna-gadu-ante-oka-range",
+        "canonical": "Krishna Gadu Ante Oka Range",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mistake",
+        "canonical": "Mistake",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rajugari-kodipulao",
+        "canonical": "Rajugari Kodipulao",
+        "aliases": [
+          "Raju Gari Kodi Pulao"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bhola-shankar",
+        "canonical": "Bhola Shankar",
+        "aliases": [
+          "Bholaa Shankar"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ustaad",
+        "canonical": "Ustaad",
+        "aliases": [
+          "Ustad"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "jilebi",
+        "canonical": "Jilebi",
+        "aliases": [
+          "Jalebi"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "madhilo-madhi",
+        "canonical": "Madhilo Madhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mr-pregnant",
+        "canonical": "Mr. Pregnant",
+        "aliases": [
+          "Mr Pregnant"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "prem-kumar",
+        "canonical": "Prem Kumar",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bedurulanka-2012",
+        "canonical": "Bedurulanka 2012",
+        "aliases": [
+          "Bedurulanka"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "daksha",
+        "canonical": "Daksha",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "em-chesthunnav",
+        "canonical": "Em Chesthunnav?",
+        "aliases": [
+          "Em Chesthunnav",
+          "Em Chestunnav"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "gandeevadhari-arjuna",
+        "canonical": "Gandeevadhari Arjuna",
+        "aliases": [
+          "Gandivadhari Arjuna"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "nene-naa",
+        "canonical": "Nene Naa",
+        "aliases": [
+          "Nene Na"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rent-not-for-sale",
+        "canonical": "Rent (Not For Sale)",
+        "aliases": [
+          "Rent",
+          "Rent Not For Sale"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kushi",
+        "canonical": "Kushi",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "prema-deshapu-yuvarani",
+        "canonical": "Prema Deshapu Yuvarani",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "miss-shetty-mr-polishetty",
+        "canonical": "Miss Shetty Mr Polishetty",
+        "aliases": [
+          "Miss Shetty Mr. Polishetty"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "govindaa-bhaja-govindaa",
+        "canonical": "Govindaa Bhaja Govindaa",
+        "aliases": [
+          "Govinda Bhaja Govinda"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "thurum-khanlu",
+        "canonical": "Thurum Khanlu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "changure-bangaru-raja",
+        "canonical": "Changure Bangaru Raja",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ramanna-youth",
+        "canonical": "Ramanna Youth",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sodara-sodarimanulara",
+        "canonical": "Sodara Sodarimanulara",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ashtadigbandhanam",
+        "canonical": "Ashtadigbandhanam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "cheater",
+        "canonical": "Cheater",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "matti-katha",
+        "canonical": "Matti Katha",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "nachinavadu",
+        "canonical": "Nachinavadu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "nelluri-nerajana",
+        "canonical": "Nelluri Nerajana",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "oye-idiot",
+        "canonical": "Oye Idiot",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rudramkota",
+        "canonical": "Rudramkota",
+        "aliases": [
+          "Rudram Kota"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "varevva-jathagallu",
+        "canonical": "Varevva Jathagallu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "skanda-the-attacker",
+        "canonical": "Skanda: The Attacker",
+        "aliases": [
+          "Skanda"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "peddha-kapu-1",
+        "canonical": "Peddha Kapu 1",
+        "aliases": [
+          "Pedda Kapu 1",
+          "Peddha Kapu"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "gta-guns-trance-action",
+        "canonical": "GTA (Guns Trance Action)",
+        "aliases": [
+          "GTA",
+          "Guns Trance Action"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mama-mascheendra",
+        "canonical": "Mama Mascheendra",
+        "aliases": [
+          "Mama Maschindra"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mad",
+        "canonical": "Mad",
+        "aliases": [],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "month-of-madhu",
+        "canonical": "Month of Madhu",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "nene-saroja",
+        "canonical": "Nene Saroja",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "rules-ranjann",
+        "canonical": "Rules Ranjann",
+        "aliases": [
+          "Rules Ranjan"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "yendira-ee-panchayithi",
+        "canonical": "Yendira Ee Panchayithi",
+        "aliases": [
+          "Endira Ee Panchayithi"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "tantiram",
+        "canonical": "Tantiram",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bhagavanth-kesari",
+        "canonical": "Bhagavanth Kesari",
+        "aliases": [
+          "Bhagavant Kesari"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "tiger-nageswara-rao",
+        "canonical": "Tiger Nageswara Rao",
+        "aliases": [
+          "Tiger Nageshwar Rao"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "krishna-rama",
+        "canonical": "Krishna Rama",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "martin-luther-king-film",
+        "canonical": "Martin Luther King (film)",
+        "aliases": [
+          "Martin Luther King"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "anukunnavanni-jaragavu-konni",
+        "canonical": "Anukunnavanni Jaragavu Konni",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "drohi-the-criminal",
+        "canonical": "Drohi - The Criminal",
+        "aliases": [
+          "Drohi",
+          "Drohi The Criminal"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "keedaa-cola",
+        "canonical": "Keedaa Cola",
+        "aliases": [
+          "Keeda Cola"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "krishna-ghattam",
+        "canonical": "Krishna Ghattam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "maa-oori-polimera-2",
+        "canonical": "Maa Oori Polimera 2",
+        "aliases": [
+          "Polimera 2",
+          "Ma Oori Polimera 2"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "midnight-killers",
+        "canonical": "Midnight Killers",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "narakasura",
+        "canonical": "Narakasura",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "okkasari-preminchaka",
+        "canonical": "Okkasari Preminchaka",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "plot",
+        "canonical": "Plot",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "vidhi",
+        "canonical": "Vidhi",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ala-ninnu-cheri",
+        "canonical": "Ala Ninnu Cheri",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "anveshi",
+        "canonical": "Anveshi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "janam",
+        "canonical": "Janam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mangalavaaram",
+        "canonical": "Mangalavaaram",
+        "aliases": [
+          "Mangalavaram"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "my-name-is-shruthi",
+        "canonical": "My Name Is Shruthi",
+        "aliases": [
+          "My Name Is Sruthi"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "spark-l-i-f-e",
+        "canonical": "Spark L.I.F.E",
+        "aliases": [
+          "Spark",
+          "Spark Life"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "ye-chota-nuvvunna",
+        "canonical": "Ye Chota Nuvvunna",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "aadikeshava",
+        "canonical": "Aadikeshava",
+        "aliases": [
+          "Adikeshava"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kota-bommali-ps",
+        "canonical": "Kota Bommali PS",
+        "aliases": [
+          "Kotabommali PS",
+          "Kota Bommali P.S."
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "madhave-madhusudhana",
+        "canonical": "Madhave Madhusudhana",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "perfume",
+        "canonical": "Perfume",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sound-party",
+        "canonical": "Sound Party",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "the-trial",
+        "canonical": "The Trial",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "atharva",
+        "canonical": "Atharva",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "calling-sahasra",
+        "canonical": "Calling Sahasra",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "palle-gootiki-pandagocchindhi",
+        "canonical": "Palle Gootiki Pandagocchindhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "upendra-gadi-adda",
+        "canonical": "Upendra Gadi Adda",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "breathe",
+        "canonical": "Breathe",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "hi-nanna",
+        "canonical": "Hi Nanna",
+        "aliases": [],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "extra-ordinary-man",
+        "canonical": "Extra Ordinary Man",
+        "aliases": [
+          "Extraordinary Man"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "mayalo",
+        "canonical": "#MayaLo",
+        "aliases": [
+          "MayaLo",
+          "Maya Lo"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "che-long-live",
+        "canonical": "Che Long Live",
+        "aliases": [
+          "Che"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "dalari",
+        "canonical": "Dalari",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "jorugaa-husharugaa",
+        "canonical": "Jorugaa Husharugaa",
+        "aliases": [
+          "Joruga Husharuga"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "kalasa-the-symbol-of-abundance",
+        "canonical": "Kalasa: The Symbol of Abundance",
+        "aliases": [
+          "Kalasa"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "pindam",
+        "canonical": "Pindam",
+        "aliases": [],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "thika-maka-thanda",
+        "canonical": "Thika Maka Thanda",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "sakhi",
+        "canonical": "Sakhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "shantala",
+        "canonical": "Shantala",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "salaar-part-1-ceasefire",
+        "canonical": "Salaar: Part 1 – Ceasefire",
+        "aliases": [
+          "Salaar",
+          "Salaar Part 1",
+          "Salaar Ceasefire",
+          "Salaar Part 1 Ceasefire"
+        ],
+        "familiarity": 0.0235,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "badmash-gallaki-bumper-offer",
+        "canonical": "Badmash Gallaki Bumper Offer",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "bubblegum",
+        "canonical": "Bubblegum",
+        "aliases": [
+          "Bubble Gum"
+        ],
+        "familiarity": 0.0028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "currency-nagar",
+        "canonical": "Currency Nagar",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "devil-the-british-secret-agent",
+        "canonical": "Devil: The British Secret Agent",
+        "aliases": [
+          "Devil",
+          "Devil The British Secret Agent"
+        ],
+        "familiarity": 0.0094,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "right",
+        "canonical": "Right",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      },
+      {
+        "id": "umapathi",
+        "canonical": "Umapathi",
+        "aliases": [
+          "Umapati"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2023 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2023"
+        ]
+      }
+    ],
+    "explanation": "The source lists Telugu releases throughout 2023, from major box-office films to smaller theatrical and streaming releases.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2023",
+        "title": "List of Telugu films of 2023",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2023",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A Telugu-language film released in 2023, including multilingual films released in Telugu."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "f1d7311d917597a6",
+    "brief": "Name a Telugu film released in 2023.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2023",
+        "version": "1382215453",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Adipurush": "2 | Adipurush | T-Series Films Retrophiles | ₹392.70 crore |",
+      "Sir": "7 | Sir | Sithara Entertainments Fortune Four Cinemas Srikara Studios | ₹118 crore |",
+      "Prathyardhi": "J A N U A R Y | 6 | Prathyardhi | Shankar Mudavath",
+      "Veera Simha Reddy": "J A N U A R Y | 12 | Veera Simha Reddy | Gopichand Malineni",
+      "Waltair Veerayya": "J A N U A R Y | 13 | Waltair Veerayya | K. S. Ravindra",
+      "Kalyanam Kamaneeyam": "J A N U A R Y | 14 | Kalyanam Kamaneeyam | Anil Kumar Aalla",
+      "Hunt": "J A N U A R Y | 26 | Hunt | Mahesh Surapaneni",
+      "Valentines Night": "J A N U A R Y | 26 | Valentines Night | Anil Gopireddy",
+      "Sindhooram": "J A N U A R Y | 26 | Sindhooram | Shyam Tummalapalli",
+      "Michael": "F E B R U A R Y | 3 | Michael | Ranjit Jeyakodi",
+      "Suvarna Sundari": "F E B R U A R Y | 3 | Suvarna Sundari | Surendra Madarapu",
+      "Writer Padmabhushan": "F E B R U A R Y | 3 | Writer Padmabhushan | Shanmukha Prashant",
+      "Mayagadu": "F E B R U A R Y | 3 | Mayagadu | G. Karthik Reddy",
+      "Butta Bomma": "F E B R U A R Y | 4 | Butta Bomma | Shouree Chandrashekhar T Ramesh",
+      "Amigos": "F E B R U A R Y | 10 | Amigos | Rajendra Reddy",
+      "Vinaro Bhagyamu Vishnu Katha": "F E B R U A R Y | 18 | Vinaro Bhagyamu Vishnu Katha | Murali Kishor Abburu",
+      "Sridevi Shoban Babu": "F E B R U A R Y | 18 | Sridevi Shoban Babu | Prasanth Kumar Dimmala",
+      "Mr. King": "F E B R U A R Y | 24 | Mr. King | Sasiidhar Chavali",
+      "Balagam": "M A R C H | 3 | Balagam | Venu Yeldandi",
+      "Organic Mama Hybrid Alludu": "M A R C H | 3 | Organic Mama Hybrid Alludu | S. V. Krishna Reddy",
+      "Richie Gadi Pelli": "M A R C H | 3 | Richie Gadi Pelli | K.S. Hemraj",
+      "CSI Sanatan": "M A R C H | 10 | CSI Sanatan | Sivashankar Dev",
+      "Phalana Abbayi Phalana Ammayi": "M A R C H | 17 | Phalana Abbayi Phalana Ammayi | Srinivas Avasarala",
+      "Das Ka Dhamki": "M A R C H | 22 | Das Ka Dhamki | Vishwak Sen",
+      "Ranga Maarthaanda": "M A R C H | 22 | Ranga Maarthaanda | Krishna Vamsi",
+      "Dasara": "M A R C H | 30 | Dasara | Srikanth Odela",
+      "Ravanasura": "A P R I L | 7 | Ravanasura | Sudheer Varma",
+      "Meter": "A P R I L | 7 | Meter | Ramesh Kaduri",
+      "Asalu": "A P R I L | 13 | Asalu | Uday–Suresh",
+      "Shaakuntalam": "A P R I L | 14 | Shaakuntalam | Gunasekhar",
+      "10 Rupees": "A P R I L | 21 | 10 Rupees | Afzal Shaik",
+      "Hello Meera": "A P R I L | 21 | Hello Meera | Srinivasu Kakarla",
+      "Two Souls": "A P R I L | 21 | Two Souls | K. Shravan Kumar",
+      "Virupaksha": "A P R I L | 21 | Virupaksha | Karthik Varma Dandu",
+      "Agent": "A P R I L | 28 | Agent | Surender Reddy",
+      "Raa Raa Penimiti": "A P R I L | 28 | Raa Raa Penimiti | Satya Venkat",
+      "Vidyarthi": "A P R I L | 29 | Vidyarthi | Madhu Madasu",
+      "Ramabanam": "M A Y | 5 | Ramabanam | Sriwass",
+      "Ugram": "M A Y | 5 | Ugram | Vijay Kanakamedala",
+      "Arangetram": "M A Y | 5 | Arangetram | Srinivaas Praban",
+      "Bhuvana Vijayam": "M A Y | 12 | Bhuvana Vijayam | Yalamanda Charan",
+      "Katha Venuka Katha": "M A Y | 12 | Katha Venuka Katha | Krishna Chaitanya",
+      "Custody": "M A Y | 12 | Custody | Venkat Prabhu",
+      "Kalyanamasthu": "M A Y | 12 | Kalyanamasthu | Onthala Saai",
+      "Tea Break": "M A Y | 12 | Tea Break | Tanniru Ramesh",
+      "The Story of A Beautiful Girl": "M A Y | 12 | The Story of A Beautiful Girl | Ravi Prakash Bodapati",
+      "Anni Manchi Sakunamule": "M A Y | 18 | Anni Manchi Sakunamule | B. V. Nandini Reddy",
+      "Haseena": "M A Y | 19 | Haseena | Naveen Eragani",
+      "Malli Pelli": "M A Y | 26 | Malli Pelli | M. S. Raju",
+      "Grey: The Spy Who Loved Me": "M A Y | 26 | Grey: The Spy Who Loved Me | Raj Madiraju",
+      "Boo": "M A Y | 27 | Boo | A. L. Vijay",
+      "Ahimsa": "J U N E | 2 | Ahimsa | Teja",
+      "Chakravyuham: The Trap": "J U N E | 2 | Chakravyuham: The Trap | Chetkuri Madhusudhan",
+      "Nenu Student Sir": "J U N E | 2 | Nenu Student Sir | Rakhi Uppalapati",
+      "Mem Famous": "J U N E | 2 | Mem Famous | Sumanth Prabhas",
+      "Pareshan": "J U N E | 2 | Pareshan | Rupak Ronaldson",
+      "Anantha": "J U N E | 9 | Anantha | Madhu Babu Thokala",
+      "Intinti Ramayanam": "J U N E | 9 | Intinti Ramayanam | Suresh Naredla",
+      "Unstoppable": "J U N E | 9 | Unstoppable | Diamond Ratnababu",
+      "Vimanam": "J U N E | 9 | Vimanam | Siva Prasad Yanala",
+      "Kanulu Therichinaa Kanulu Moosinaa": "J U N E | 16 | Kanulu Therichinaa Kanulu Moosinaa | Sandeep Reddi Katkuri",
+      "Karna": "J U N E | 23 | Karna | Kaladhar Kokkonda",
+      "Spy": "J U N E | 29 | Spy | Garry BH",
+      "Samajavaragamana": "J U N E | 29 | Samajavaragamana | Ram Abbaraju",
+      "Maya Petika": "J U N E | 30 | Maya Petika | Ramesh Raparthi",
+      "7:11 PM": "J U L Y | 7 | 7:11 PM | Chaitu Madala",
+      "Bhaag Saale": "J U L Y | 7 | Bhaag Saale | Pranith Bramandapally",
+      "Circle": "J U L Y | 7 | Circle | Neelakanta",
+      "Lily": "J U L Y | 7 | Lily | M. Sivam",
+      "Mohankrishnas Gang Leader": "J U L Y | 7 | Mohankrishnas Gang Leader | Gangarapu Sree Laxman",
+      "O Saathiya": "J U L Y | 7 | O Saathiya | Divya Bhavana",
+      "Rangabali": "J U L Y | 7 | Rangabali | Pawan Basamsetti",
+      "Rudrangi": "J U L Y | 7 | Rudrangi | Ajay Samrat",
+      "Baby": "J U L Y | 14 | Baby | Sai Rajesh Neelam",
+      "Revenge": "J U L Y | 14 | Revenge | Shrinivas Rettadi",
+      "Hidimbha": "J U L Y | 20 | Hidimbha | Aneel Kanneganti",
+      "Ala Ila Ela": "J U L Y | 21 | Ala Ila Ela | Dwarki Raghav",
+      "Detective Karthik": "J U L Y | 21 | Detective Karthik | Venkat Narendra",
+      "Annapurna Photo Studio": "J U L Y | 21 | Annapurna Photo Studio | Chendu Muddu",
+      "Her - Chapter 1": "J U L Y | 21 | Her - Chapter 1 | Sreedhar Swaraghav",
+      "Natho Nenu": "J U L Y | 21 | Natho Nenu | Santhi Kumar Turlapati",
+      "Bro": "J U L Y | 28 | Bro | Samuthirakani",
+      "Okkaroju...48 Hours": "J U L Y | 29 | Okkaroju...48 Hours | Niranjan Bandi",
+      "Sakshi": "J U L Y | 29 | Sakshi | Siva Kesanakurthi",
+      "Slum Dog Husband": "J U L Y | 29 | Slum Dog Husband | A. R. Sreedhar",
+      "Dilse": "A U G U S T | 4 | Dilse | Mankhal Veerendra",
+      "Krishna Gadu Ante Oka Range": "A U G U S T | 4 | Krishna Gadu Ante Oka Range | Rajesh Dondapati",
+      "Mistake": "A U G U S T | 4 | Mistake | Bharrath Komalapati",
+      "Rajugari Kodipulao": "A U G U S T | 4 | Rajugari Kodipulao | Shiva Kona",
+      "Bhola Shankar": "A U G U S T | 11 | Bhola Shankar | Meher Ramesh",
+      "Ustaad": "A U G U S T | 12 | Ustaad | Phanideep",
+      "Jilebi": "A U G U S T | 18 | Jilebi | K. Vijaya Bhaskar",
+      "Madhilo Madhi": "A U G U S T | 18 | Madhilo Madhi | Prakash Palla",
+      "Mr. Pregnant": "A U G U S T | 18 | Mr. Pregnant | Srinivas Vinjanampati",
+      "Prem Kumar": "A U G U S T | 18 | Prem Kumar | Abhishek Maharshi",
+      "Bedurulanka 2012": "A U G U S T | 25 | Bedurulanka 2012 | Clax",
+      "Daksha": "A U G U S T | 25 | Daksha | Vivekananda Vikranth",
+      "Em Chesthunnav?": "A U G U S T | 25 | Em Chesthunnav? | Bharath Mithra",
+      "Gandeevadhari Arjuna": "A U G U S T | 25 | Gandeevadhari Arjuna | Praveen Sattaru",
+      "Nene Naa": "A U G U S T | 25 | Nene Naa | Caarthick Raju",
+      "Rent (Not For Sale)": "A U G U S T | 25 | Rent (Not For Sale) | Raguvardhan Reddy",
+      "Kushi": "S E P T E M B E R | 1 | Kushi | Shiva Nirvana",
+      "Prema Deshapu Yuvarani": "S E P T E M B E R | 2 | Prema Deshapu Yuvarani | Sai Suneel Nimmala",
+      "Miss Shetty Mr Polishetty": "S E P T E M B E R | 7 | Miss Shetty Mr Polishetty | Mahesh Babu P.",
+      "Govindaa Bhaja Govindaa": "S E P T E M B E R | 8 | Govindaa Bhaja Govindaa | Surya Karthikeya",
+      "Thurum Khanlu": "S E P T E M B E R | 8 | Thurum Khanlu | Nakinamoni Shivakalyan",
+      "Changure Bangaru Raja": "S E P T E M B E R | 15 | Changure Bangaru Raja | Sathish Varma",
+      "Ramanna Youth": "S E P T E M B E R | 15 | Ramanna Youth | Abhay Bethiganti",
+      "Sodara Sodarimanulara": "S E P T E M B E R | 15 | Sodara Sodarimanulara | Raghupati Reddy",
+      "Ashtadigbandhanam": "S E P T E M B E R | 22 | Ashtadigbandhanam | Baba P. R.",
+      "Cheater": "S E P T E M B E R | 22 | Cheater | Barla Narayana",
+      "Matti Katha": "S E P T E M B E R | 22 | Matti Katha | Pavan Kadiyala",
+      "Nachinavadu": "S E P T E M B E R | 22 | Nachinavadu | Laxman Chinna",
+      "Nelluri Nerajana": "S E P T E M B E R | 22 | Nelluri Nerajana | Subramanyam Chigurupati",
+      "Oye Idiot": "S E P T E M B E R | 22 | Oye Idiot | Venkat Kadali",
+      "Rudramkota": "S E P T E M B E R | 22 | Rudramkota | Ramu Kona",
+      "Varevva Jathagallu": "S E P T E M B E R | 22 | Varevva Jathagallu | Satya Saladi",
+      "Skanda: The Attacker": "S E P T E M B E R | 28 | Skanda: The Attacker | Boyapati Srinu",
+      "Peddha Kapu 1": "S E P T E M B E R | 29 | Peddha Kapu 1 | Srikanth Addala",
+      "GTA (Guns Trance Action)": "O C T O B E R | 6 | GTA (Guns Trance Action) | Deepak Sidhanth",
+      "Mama Mascheendra": "O C T O B E R | 6 | Mama Mascheendra | Harsha Vardhan",
+      "Mad": "O C T O B E R | 6 | Mad | Kalyan Shankar",
+      "Month of Madhu": "O C T O B E R | 6 | Month of Madhu | Srikanth Nagothi",
+      "Nene Saroja": "O C T O B E R | 6 | Nene Saroja | Sreeman Gummadavelli",
+      "Rules Ranjann": "O C T O B E R | 6 | Rules Ranjann | Rathinam Krishna",
+      "Yendira Ee Panchayithi": "O C T O B E R | 6 | Yendira Ee Panchayithi | Gangadhar. T",
+      "Tantiram": "O C T O B E R | 13 | Tantiram | Muthyala Meher Deepak",
+      "Bhagavanth Kesari": "O C T O B E R | 19 | Bhagavanth Kesari | Anil Ravipudi",
+      "Tiger Nageswara Rao": "O C T O B E R | 20 | Tiger Nageswara Rao | Vamsee",
+      "Krishna Rama": "O C T O B E R | 22 | Krishna Rama | Raj Madiraju",
+      "Martin Luther King (film)": "O C T O B E R | 27 | Martin Luther King (film) | Puja Kolluru",
+      "Anukunnavanni Jaragavu Konni": "N O V E M B E R | 3 | Anukunnavanni Jaragavu Konni | Gundluru Sandeep",
+      "Drohi - The Criminal": "N O V E M B E R | 3 | Drohi - The Criminal | Vijay Das Pendurty",
+      "Keedaa Cola": "N O V E M B E R | 3 | Keedaa Cola | Tharun Bhascker",
+      "Krishna Ghattam": "N O V E M B E R | 3 | Krishna Ghattam | Suresh Palla",
+      "Maa Oori Polimera 2": "N O V E M B E R | 3 | Maa Oori Polimera 2 | Anil Vishwanath",
+      "Midnight Killers": "N O V E M B E R | 3 | Midnight Killers | Raju Shetty Boyana",
+      "Narakasura": "N O V E M B E R | 3 | Narakasura | Sebastian Noah Acosta Jr.",
+      "Okkasari Preminchaka": "N O V E M B E R | 3 | Okkasari Preminchaka | Srikanth Aerolla",
+      "Plot": "N O V E M B E R | 3 | Plot | Bhanu Bhava Tharaka",
+      "Vidhi": "N O V E M B E R | 3 | Vidhi | Srikanth Ranganathan",
+      "Ala Ninnu Cheri": "N O V E M B E R | 10 | Ala Ninnu Cheri | Maresh Shivan",
+      "Anveshi": "N O V E M B E R | 17 | Anveshi | V J Khanna",
+      "Janam": "N O V E M B E R | 17 | Janam | Venkataramana Pasupuleti",
+      "Mangalavaaram": "N O V E M B E R | 17 | Mangalavaaram | Ajay Bhupathi",
+      "My Name Is Shruthi": "N O V E M B E R | 17 | My Name Is Shruthi | Srinivas Omkar",
+      "Spark L.I.F.E": "N O V E M B E R | 17 | Spark L.I.F.E | Vikranth Reddy",
+      "Ye Chota Nuvvunna": "N O V E M B E R | 17 | Ye Chota Nuvvunna | Pasalapudi Satti Venkata",
+      "Aadikeshava": "N O V E M B E R | 24 | Aadikeshava | Srikanth N. Reddy",
+      "Kota Bommali PS": "N O V E M B E R | 24 | Kota Bommali PS | Teja Marni",
+      "Madhave Madhusudhana": "N O V E M B E R | 24 | Madhave Madhusudhana | Bommadevara Ramachandra Rao",
+      "Perfume": "N O V E M B E R | 24 | Perfume | Jaligapu Durga Swamy",
+      "Sound Party": "N O V E M B E R | 24 | Sound Party | Sanjay Sheri",
+      "The Trial": "N O V E M B E R | 24 | The Trial | Raam Ganni",
+      "Atharva": "D E C E M B E R | 1 | Atharva | Mahesh Reddy",
+      "Calling Sahasra": "D E C E M B E R | 1 | Calling Sahasra | Arun Vikkirala",
+      "Palle Gootiki Pandagocchindhi": "D E C E M B E R | 1 | Palle Gootiki Pandagocchindhi | Tirumalarao Kancharana",
+      "Upendra Gadi Adda": "D E C E M B E R | 1 | Upendra Gadi Adda | Aryan Subhan Shaik",
+      "Breathe": "D E C E M B E R | 2 | Breathe | Vamsi Krishna Akella",
+      "Hi Nanna": "D E C E M B E R | 7 | Hi Nanna | Shouryuv",
+      "Extra Ordinary Man": "D E C E M B E R | 8 | Extra Ordinary Man | Vakkantham Vamsi",
+      "#MayaLo": "D E C E M B E R | 15 | #MayaLo | Megha Mithra Pervar",
+      "Che Long Live": "D E C E M B E R | 15 | Che Long Live | BR Sabawat Naik",
+      "Dalari": "D E C E M B E R | 15 | Dalari | Gopal Reddy Kachidi",
+      "Jorugaa Husharugaa": "D E C E M B E R | 15 | Jorugaa Husharugaa | Anu Prasad",
+      "Kalasa: The Symbol of Abundance": "D E C E M B E R | 15 | Kalasa: The Symbol of Abundance | Konda Rambabu",
+      "Pindam": "D E C E M B E R | 15 | Pindam | Sai Kiran Daida",
+      "Thika Maka Thanda": "D E C E M B E R | 15 | Thika Maka Thanda | Venkat Mallam",
+      "Sakhi": "D E C E M B E R | 15 | Sakhi | Johnny Basha",
+      "Shantala": "D E C E M B E R | 15 | Shantala | Seshu Babu Peddireddy",
+      "Salaar: Part 1 – Ceasefire": "D E C E M B E R | 22 | Salaar: Part 1 – Ceasefire | Prashanth Neel",
+      "Badmash Gallaki Bumper Offer": "D E C E M B E R | 29 | Badmash Gallaki Bumper Offer | Ravi Chavali",
+      "Bubblegum": "D E C E M B E R | 29 | Bubblegum | Ravikanth Perepu",
+      "Currency Nagar": "D E C E M B E R | 29 | Currency Nagar | Vennela Kumar Pothepalli",
+      "Devil: The British Secret Agent": "D E C E M B E R | 29 | Devil: The British Secret Agent | Abhishek Nama",
+      "Right": "D E C E M B E R | 29 | Right | Gubaala Shankar",
+      "Umapathi": "D E C E M B E R | 29 | Umapathi | Satya Dwarapudi"
+    },
+    "issues": []
+  }
+}

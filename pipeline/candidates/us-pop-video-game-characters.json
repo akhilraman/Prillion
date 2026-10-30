@@ -1,0 +1,476 @@
+{
+  "question": {
+    "id": "us-pop-video-game-characters",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous character who originated in a video game.",
+    "answerSet": "open",
+    "criteria": "Any named fictional character first introduced in a released video game counts; characters adapted from other media do not.",
+    "answers": [
+      {
+        "id": "mario",
+        "canonical": "Mario",
+        "aliases": [
+          "Super Mario"
+        ],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mario is Nintendo's plumber hero who debuted in Donkey Kong.",
+        "sourceIds": []
+      },
+      {
+        "id": "luigi",
+        "canonical": "Luigi",
+        "aliases": [],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luigi is Mario's brother and the protagonist of the Luigi's Mansion games.",
+        "sourceIds": []
+      },
+      {
+        "id": "princess-peach",
+        "canonical": "Princess Peach",
+        "aliases": [
+          "Peach",
+          "Princess Toadstool"
+        ],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Princess Peach is the Mushroom Kingdom princess introduced in Super Mario Bros.",
+        "sourceIds": []
+      },
+      {
+        "id": "bowser",
+        "canonical": "Bowser",
+        "aliases": [
+          "King Koopa"
+        ],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bowser is the Koopa king and a recurring antagonist in the Mario games.",
+        "sourceIds": []
+      },
+      {
+        "id": "pikachu",
+        "canonical": "Pikachu",
+        "aliases": [],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pikachu is an Electric-type Pokémon introduced in the original Pokémon video games.",
+        "sourceIds": []
+      },
+      {
+        "id": "pac-man",
+        "canonical": "Pac-Man",
+        "aliases": [],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pac-Man is the yellow maze-navigating protagonist of the arcade game Pac-Man.",
+        "sourceIds": []
+      },
+      {
+        "id": "link",
+        "canonical": "Link",
+        "aliases": [],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Link is the recurring hero of The Legend of Zelda series.",
+        "sourceIds": []
+      },
+      {
+        "id": "princess-zelda",
+        "canonical": "Princess Zelda",
+        "aliases": [
+          "Zelda"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Princess Zelda is the royal character whose name appears in The Legend of Zelda series title.",
+        "sourceIds": []
+      },
+      {
+        "id": "kirby",
+        "canonical": "Kirby",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kirby is Nintendo's pink hero who debuted in Kirby's Dream Land.",
+        "sourceIds": []
+      },
+      {
+        "id": "lara-croft",
+        "canonical": "Lara Croft",
+        "aliases": [
+          "Lara"
+        ],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lara Croft is the adventurer who stars in the Tomb Raider games.",
+        "sourceIds": []
+      },
+      {
+        "id": "samus-aran",
+        "canonical": "Samus Aran",
+        "aliases": [
+          "Samus"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samus Aran is the armored bounty hunter who stars in the Metroid series.",
+        "sourceIds": []
+      },
+      {
+        "id": "kratos",
+        "canonical": "Kratos",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kratos is the protagonist of the God of War video-game series.",
+        "sourceIds": []
+      },
+      {
+        "id": "chun-li",
+        "canonical": "Chun-Li",
+        "aliases": [],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chun-Li is a playable fighter introduced in Street Fighter II.",
+        "sourceIds": []
+      },
+      {
+        "id": "cloud-strife",
+        "canonical": "Cloud Strife",
+        "aliases": [
+          "Cloud"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cloud Strife is the main protagonist of Final Fantasy VII.",
+        "sourceIds": []
+      },
+      {
+        "id": "solid-snake",
+        "canonical": "Solid Snake",
+        "aliases": [
+          "Snake"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solid Snake is the operative introduced as the protagonist of Metal Gear.",
+        "sourceIds": []
+      },
+      {
+        "id": "crash-bandicoot",
+        "canonical": "Crash Bandicoot",
+        "aliases": [
+          "Crash"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crash Bandicoot is the protagonist of the platform-game series bearing his name.",
+        "sourceIds": []
+      },
+      {
+        "id": "spyro",
+        "canonical": "Spyro",
+        "aliases": [
+          "Spyro the Dragon"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spyro is the purple dragon protagonist introduced in Spyro the Dragon.",
+        "sourceIds": []
+      },
+      {
+        "id": "glados",
+        "canonical": "GLaDOS",
+        "aliases": [
+          "GLaDOS AI"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "GLaDOS is the artificial intelligence that oversees the test chambers in Portal.",
+        "sourceIds": []
+      },
+      {
+        "id": "guybrush-threepwood",
+        "canonical": "Guybrush Threepwood",
+        "aliases": [
+          "Guybrush"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guybrush Threepwood is the aspiring pirate protagonist introduced in The Secret of Monkey Island.",
+        "sourceIds": []
+      },
+      {
+        "id": "scorpion",
+        "canonical": "Scorpion",
+        "aliases": [
+          "Hanzo Hasashi"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scorpion is the spear-wielding fighter introduced in the original Mortal Kombat.",
+        "sourceIds": []
+      },
+      {
+        "id": "sans",
+        "canonical": "Sans",
+        "aliases": [
+          "Sans Undertale"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sans is a skeleton character introduced in Undertale.",
+        "sourceIds": []
+      },
+      {
+        "id": "razputin-aquato",
+        "canonical": "Razputin Aquato",
+        "aliases": [
+          "Raz",
+          "Razputin"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Razputin Aquato is the young psychic protagonist of Psychonauts.",
+        "sourceIds": []
+      },
+      {
+        "id": "quote",
+        "canonical": "Quote",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Quote is the robot protagonist of Cave Story.",
+        "sourceIds": []
+      },
+      {
+        "id": "donkey-kong",
+        "canonical": "Donkey Kong",
+        "aliases": [
+          "DK"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Donkey Kong is Nintendo's gorilla character and the namesake of the Donkey Kong series.",
+        "sourceIds": []
+      },
+      {
+        "id": "sonic",
+        "canonical": "Sonic",
+        "aliases": [
+          "Sonic the Hedgehog"
+        ],
+        "familiarity": 0.0592,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sonic is Sega's blue hedgehog hero known for running at high speed.",
+        "sourceIds": []
+      },
+      {
+        "id": "mega-man",
+        "canonical": "Mega Man",
+        "aliases": [
+          "Rockman"
+        ],
+        "familiarity": 0.0237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mega Man is the robotic hero of Capcom's original Mega Man series.",
+        "sourceIds": []
+      },
+      {
+        "id": "ryu",
+        "canonical": "Ryu",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ryu is a martial artist and recurring playable fighter in the Street Fighter series.",
+        "sourceIds": []
+      },
+      {
+        "id": "manny-calavera",
+        "canonical": "Manny Calavera",
+        "aliases": [
+          "Manny"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manny Calavera is the skeletal travel agent who stars in Grim Fandango.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Video games have introduced recognizable heroes, villains, and supporting characters across platformers, fighting games, adventures, and more. These are examples, not a complete list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "0dc61ccc1edb2b0a",
+    "brief": "Name a famous video-game character.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Mario": 3,
+      "Luigi": 3,
+      "Princess Peach": 3,
+      "Bowser": 3,
+      "Pikachu": 3,
+      "Pac-Man": 3,
+      "Link": 3,
+      "Princess Zelda": 3,
+      "Kirby": 3,
+      "Lara Croft": 3,
+      "Master Chief": 3,
+      "Samus Aran": 3,
+      "Kratos": 3,
+      "Chun-Li": 3,
+      "Scorpion": 2,
+      "Cloud Strife": 3,
+      "Solid Snake": 3,
+      "Crash Bandicoot": 3,
+      "Spyro": 3,
+      "GLaDOS": 3,
+      "Sans": 2,
+      "Guybrush Threepwood": 3,
+      "Razputin Aquato": 2,
+      "Quote": 2,
+      "Donkey Kong": 2,
+      "Sonic": 2,
+      "Mega Man": 2,
+      "Ryu": 2,
+      "Manny Calavera": 2
+    },
+    "droppedForVotes": {
+      "Sonic the Hedgehog": 1,
+      "Amaterasu": 1,
+      "Tails": 1,
+      "Steve": 1,
+      "Isabelle": 1,
+      "Raz": 1,
+      "Yoshi": 1,
+      "Commander Keen": 1
+    },
+    "verdicts": {
+      "Mario": {
+        "verdict": "correct",
+        "reason": "Debuted in Nintendo's Donkey Kong (1981), initially known as Jumpman."
+      },
+      "Luigi": {
+        "verdict": "correct",
+        "reason": "Originated in Nintendo's Mario Bros. games in 1983."
+      },
+      "Princess Peach": {
+        "verdict": "correct",
+        "reason": "Debuted in Super Mario Bros. (1985)."
+      },
+      "Bowser": {
+        "verdict": "correct",
+        "reason": "Debuted as the antagonist in Super Mario Bros. (1985)."
+      },
+      "Pikachu": {
+        "verdict": "correct",
+        "reason": "Introduced in Pokémon Red and Green (1996)."
+      },
+      "Pac-Man": {
+        "verdict": "correct",
+        "reason": "Debuted in the arcade game Pac-Man (1980)."
+      },
+      "Link": {
+        "verdict": "correct",
+        "reason": "Debuted in The Legend of Zelda (1986)."
+      },
+      "Princess Zelda": {
+        "verdict": "correct",
+        "reason": "Debuted in The Legend of Zelda (1986)."
+      },
+      "Kirby": {
+        "verdict": "correct",
+        "reason": "Debuted in Kirby's Dream Land (1992)."
+      },
+      "Lara Croft": {
+        "verdict": "correct",
+        "reason": "Debuted in Tomb Raider (1996)."
+      },
+      "Master Chief": {
+        "verdict": "incorrect",
+        "reason": "First appeared in the novel Halo: The Fall of Reach, published before Halo: Combat Evolved was released in 2001; this fails the strict first-introduced-in-a-released-game criterion."
+      },
+      "Samus Aran": {
+        "verdict": "correct",
+        "reason": "Debuted in Metroid (1986)."
+      },
+      "Kratos": {
+        "verdict": "correct",
+        "reason": "This fictional protagonist debuted in God of War (2005), distinct from the ancient mythological figure with the same name."
+      },
+      "Chun-Li": {
+        "verdict": "correct",
+        "reason": "Debuted in Street Fighter II (1991)."
+      },
+      "Cloud Strife": {
+        "verdict": "correct",
+        "reason": "Debuted in Final Fantasy VII (1997)."
+      },
+      "Solid Snake": {
+        "verdict": "correct",
+        "reason": "Debuted in Metal Gear (1987)."
+      },
+      "Crash Bandicoot": {
+        "verdict": "correct",
+        "reason": "Debuted in Crash Bandicoot (1996)."
+      },
+      "Spyro": {
+        "verdict": "correct",
+        "reason": "Debuted in Spyro the Dragon (1998)."
+      },
+      "GLaDOS": {
+        "verdict": "correct",
+        "reason": "Debuted in Portal (2007)."
+      },
+      "Guybrush Threepwood": {
+        "verdict": "correct",
+        "reason": "Debuted in The Secret of Monkey Island (1990)."
+      },
+      "Scorpion": {
+        "verdict": "correct",
+        "reason": "Debuted in Mortal Kombat (1992)."
+      },
+      "Sans": {
+        "verdict": "correct",
+        "reason": "Debuted in Undertale (2015)."
+      },
+      "Razputin Aquato": {
+        "verdict": "correct",
+        "reason": "Debuted as the protagonist of Psychonauts (2005)."
+      },
+      "Quote": {
+        "verdict": "correct",
+        "reason": "Originated as the robot protagonist of Cave Story (2004)."
+      },
+      "Donkey Kong": {
+        "verdict": "correct",
+        "reason": "Originated in the arcade game Donkey Kong (1981)."
+      },
+      "Sonic": {
+        "verdict": "correct",
+        "reason": "Originated in video games; his cameo in Rad Mobile (1991) preceded Sonic the Hedgehog that year."
+      },
+      "Mega Man": {
+        "verdict": "correct",
+        "reason": "Debuted in Mega Man (1987)."
+      },
+      "Ryu": {
+        "verdict": "correct",
+        "reason": "Debuted in Street Fighter (1987)."
+      },
+      "Manny Calavera": {
+        "verdict": "correct",
+        "reason": "Debuted as the protagonist of Grim Fandango (1998)."
+      }
+    },
+    "issues": []
+  }
+}

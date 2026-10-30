@@ -1,0 +1,229 @@
+{
+  "question": {
+    "id": "space-viral-moments-memes",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a viral internet moment, meme, or running joke about space, NASA, SpaceX, or astronauts.",
+    "answerSet": "open",
+    "criteria": "Any documented internet meme, running joke, hoax, or viral public moment centered on space, space exploration, NASA, SpaceX, or astronauts counts, including fictional space-themed memes.",
+    "answers": [
+      {
+        "id": "always-has-been",
+        "canonical": "Always Has Been",
+        "aliases": [
+          "Always has been meme",
+          "Wait, it's all Ohio?",
+          "Ohio astronaut meme"
+        ],
+        "familiarity": 0.1745,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This meme shows one astronaut discovering something about Earth while another responds, “Always has been.”",
+        "sourceIds": []
+      },
+      {
+        "id": "nyan-cat",
+        "canonical": "Nyan Cat",
+        "aliases": [
+          "Pop Tart Cat"
+        ],
+        "familiarity": 0.1745,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nyan Cat is a viral animated cat with a pastry body that flies through space trailing a rainbow.",
+        "sourceIds": []
+      },
+      {
+        "id": "moon-s-haunted",
+        "canonical": "Moon's Haunted",
+        "aliases": [
+          "Moon is haunted",
+          "The moon is haunted"
+        ],
+        "familiarity": 0.0698,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This viral joke imagines an astronaut returning to Earth, announcing that the Moon is haunted, and preparing to go back.",
+        "sourceIds": []
+      },
+      {
+        "id": "starman",
+        "canonical": "Starman",
+        "aliases": [
+          "SpaceX Starman",
+          "Tesla in space",
+          "Space Tesla",
+          "Space Roadster"
+        ],
+        "familiarity": 0.0698,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Images of the Starman mannequin riding in a Tesla Roadster launched by SpaceX became a viral space spectacle.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-core",
+        "canonical": "Space Core",
+        "aliases": [
+          "Portal Space Core",
+          "SPAAAAACE",
+          "Space Sphere",
+          "SPAAACE"
+        ],
+        "familiarity": 0.0698,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Portal 2's space-obsessed personality core became a recurring internet joke through its enthusiastic dialogue about space.",
+        "sourceIds": []
+      },
+      {
+        "id": "earth-chan",
+        "canonical": "Earth-chan",
+        "aliases": [],
+        "familiarity": 0.0209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earth-chan is an anime-style personification of Earth that became an internet meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "broom-challenge",
+        "canonical": "Broom Challenge",
+        "aliases": [
+          "NASA broom challenge",
+          "Standing broom challenge",
+          "Broomstick challenge"
+        ],
+        "familiarity": 0.0698,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This viral challenge falsely claimed that NASA had identified a special day when gravitational conditions would let brooms stand upright.",
+        "sourceIds": []
+      },
+      {
+        "id": "rapid-unscheduled-disassembly",
+        "canonical": "Rapid Unscheduled Disassembly",
+        "aliases": [
+          "RUD",
+          "Rapid unscheduled disassembly meme"
+        ],
+        "familiarity": 0.0209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This euphemism for a vehicle breaking apart became a recurring online joke associated with rocket failures and SpaceX.",
+        "sourceIds": []
+      },
+      {
+        "id": "chorizo-star",
+        "canonical": "Chorizo Star",
+        "aliases": [
+          "Chorizo Proxima Centauri",
+          "James Webb chorizo",
+          "Space sausage",
+          "JWST chorizo"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scientist Étienne Klein shared a photograph of chorizo as a purported space-telescope image of Proxima Centauri before revealing the joke.",
+        "sourceIds": []
+      },
+      {
+        "id": "aliens",
+        "canonical": "Aliens",
+        "aliases": [
+          "Ancient Aliens meme",
+          "Giorgio Tsoukalos meme",
+          "I'm not saying it was aliens"
+        ],
+        "familiarity": 0.1745,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This image macro uses Ancient Aliens presenter Giorgio Tsoukalos to jokingly attribute unexplained things to extraterrestrials.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space culture online includes astronaut reaction images, fictional characters, memorable launches, rover tributes, and hoaxes that NASA has had to debunk.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "f9e7d6638dfd5dc6",
+    "brief": "Name a viral internet moment, meme or running joke about space, NASA, SpaceX or astronauts.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Always Has Been": 3,
+      "Nyan Cat": 3,
+      "Moon's Haunted": 3,
+      "Starman": 3,
+      "Space Core": 3,
+      "Broom Challenge": 2,
+      "Earth-chan": 3,
+      "Rapid Unscheduled Disassembly": 2,
+      "Chorizo Star": 2,
+      "Aliens": 2
+    },
+    "droppedForVotes": {
+      "Houston, We Have a Problem": 1,
+      "Opportunity's Last Words": 1,
+      "Chris Hadfield's Space Oddity": 1,
+      "Curiosity's Birthday": 1,
+      "Falcon Heavy Booster Landing": 1,
+      "Starship Chopstick Catch": 1,
+      "SpaceX Landing Blooper Reel": 1,
+      "COLBERT Treadmill": 1,
+      "Space Oddity": 1,
+      "Shooting Stars": 1,
+      "Space Pants": 1,
+      "Face on Mars": 1,
+      "Pluto Never Forget": 1,
+      "Flat Mars": 1,
+      "That's No Moon": 1,
+      "Hadfield's Space Oddity": 1,
+      "Space Gorilla": 1,
+      "NASA Broom Challenge": 1,
+      "Space Pen Myth": 1,
+      "Humans Are Space Orcs": 1,
+      "Crying Cooper": 1,
+      "Tremor": 1,
+      "Little Earth": 1
+    },
+    "verdicts": {
+      "Always Has Been": {
+        "verdict": "correct",
+        "reason": "Widely documented astronaut meme featuring a revelation about Earth and the response “Always has been.”"
+      },
+      "Nyan Cat": {
+        "verdict": "correct",
+        "reason": "The viral animation depicts a pastry-bodied cat flying through space with a rainbow trail."
+      },
+      "Moon's Haunted": {
+        "verdict": "correct",
+        "reason": "Documented viral joke about an astronaut returning from a haunted Moon and preparing to return armed."
+      },
+      "Starman": {
+        "verdict": "correct",
+        "reason": "SpaceX’s launch of a Tesla Roadster carrying the Starman mannequin produced widely shared images and memes."
+      },
+      "Space Core": {
+        "verdict": "correct",
+        "reason": "Portal 2’s space-obsessed core and its repeated declarations about space became a documented internet meme."
+      },
+      "Earth-chan": {
+        "verdict": "correct",
+        "reason": "The anime-style personification of Earth became a widely documented space-themed internet meme."
+      },
+      "Broom Challenge": {
+        "verdict": "correct",
+        "reason": "The viral challenge circulated with a false NASA attribution about special gravitational conditions allowing brooms to stand."
+      },
+      "Rapid Unscheduled Disassembly": {
+        "verdict": "correct",
+        "reason": "This euphemism for destructive vehicle failures is a well-documented running joke associated with rockets and SpaceX."
+      },
+      "Chorizo Star": {
+        "verdict": "correct",
+        "reason": "Étienne Klein’s chorizo photograph, presented jokingly as a telescope image of Proxima Centauri, was a documented viral space hoax."
+      },
+      "Aliens": {
+        "verdict": "correct",
+        "reason": "The Giorgio Tsoukalos image macro is a widely documented meme attributing events or mysteries to extraterrestrials."
+      }
+    },
+    "issues": []
+  }
+}

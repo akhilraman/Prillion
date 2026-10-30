@@ -1,6 +1,96 @@
 {
   "topics": [
     {
+      "id": "tollywood-brahmanandam-memes",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Brahmanandam comedy scene, dialogue or expression that became a famous meme or reaction template on social media."
+    },
+    {
+      "id": "us-pop-drake-memes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely known internet meme, running joke or viral moment involving the rapper Drake (public work, public appearances and public moments only)."
+    },
+    {
+      "id": "space-hoaxes-conspiracies",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely documented space-related hoax, conspiracy theory or viral internet myth (for example about moon landings, NASA or aliens)."
+    },
+    {
+      "id": "us-pop-nba-memes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely known NBA meme, viral moment or running joke from broadcasts, interviews, games or social media."
+    },
+    {
+      "id": "space-viral-moments-memes",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a viral internet moment, meme or running joke about space, NASA, SpaceX or astronauts."
+    },
+    {
+      "id": "us-pop-rap-memes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely known hip-hop or rap meme, viral moment or running joke on the internet (public music, interviews and videos only)."
+    },
+    {
+      "id": "space-doomsday-predictions",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely publicised doomsday or end-of-the-world prediction linked to space, such as an asteroid, comet, planet or celestial alignment."
+    },
+    {
+      "id": "tollywood-blockbuster-memes",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a scene, dialogue, song step or moment from a Telugu blockbuster (for example Baahubali, RRR, Pushpa, Magadheera or Arjun Reddy) that became a widely shared meme or viral trend."
+    },
+    {
+      "id": "us-pop-classic-internet-memes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a classic internet meme from the 2000s or 2010s (an image macro, video, catchphrase or character)."
+    },
+    {
+      "id": "space-scifi-quotes",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous quote or line from a space-based sci-fi film or TV series that fans still repeat."
+    },
+    {
+      "id": "tollywood-comedy-memes-other",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film comedy character or scene, other than Brahmanandam's, that became a popular meme."
+    },
+    {
+      "id": "us-pop-movie-tv-reaction-memes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a movie or TV scene that became a widely used meme or reaction image."
+    },
+    {
+      "id": "space-famous-images",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous photograph or image from space exploration or astronomy that is widely shared online."
+    },
+    {
+      "id": "tollywood-dance-trends",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film song or dance step that became a viral reel or dance trend on social media."
+    },
+    {
+      "id": "us-pop-viral-challenges",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a viral social media challenge or trend that spread widely online."
+    },
+    {
       "id": "space-saturn-moons",
       "category": "space",
       "pages": [
@@ -399,6 +489,640 @@
         "List of best-selling video games"
       ],
       "brief": "Name one of the best-selling video games of all time."
+    },
+    {
+      "id": "tollywood-venkatesh-films",
+      "category": "tollywood",
+      "pages": [
+        "Venkatesh filmography"
+      ],
+      "brief": "Name a film in which the Telugu actor Venkatesh has acted."
+    },
+    {
+      "id": "tollywood-balakrishna-films",
+      "category": "tollywood",
+      "pages": [
+        "Nandamuri Balakrishna filmography"
+      ],
+      "brief": "Name a film in which the Telugu actor Nandamuri Balakrishna has acted."
+    },
+    {
+      "id": "tollywood-ravi-teja-films",
+      "category": "tollywood",
+      "pages": [
+        "Ravi Teja filmography"
+      ],
+      "brief": "Name a film in which the Telugu actor Ravi Teja has acted."
+    },
+    {
+      "id": "tollywood-nani-films",
+      "category": "tollywood",
+      "pages": [
+        "Nani filmography"
+      ],
+      "brief": "Name a film in which the Telugu actor Nani has acted."
+    },
+    {
+      "id": "tollywood-vijay-deverakonda-films",
+      "category": "tollywood",
+      "pages": [
+        "Vijay Deverakonda"
+      ],
+      "brief": "Name a film in which Vijay Deverakonda has acted."
+    },
+    {
+      "id": "tollywood-ram-pothineni-films",
+      "category": "tollywood",
+      "pages": [
+        "Ram Pothineni"
+      ],
+      "brief": "Name a film in which the Telugu actor Ram Pothineni has acted."
+    },
+    {
+      "id": "tollywood-naga-chaitanya-films",
+      "category": "tollywood",
+      "pages": [
+        "Naga Chaitanya"
+      ],
+      "brief": "Name a film in which the Telugu actor Naga Chaitanya has acted."
+    },
+    {
+      "id": "tollywood-rashmika-films",
+      "category": "tollywood",
+      "pages": [
+        "Rashmika Mandanna filmography"
+      ],
+      "brief": "Name a film in which Rashmika Mandanna has acted."
+    },
+    {
+      "id": "tollywood-tamannaah-films",
+      "category": "tollywood",
+      "pages": [
+        "Tamannaah filmography"
+      ],
+      "brief": "Name a film in which Tamannaah has acted."
+    },
+    {
+      "id": "tollywood-kajal-films",
+      "category": "tollywood",
+      "pages": [
+        "Kajal Aggarwal filmography"
+      ],
+      "brief": "Name a film in which Kajal Aggarwal has acted."
+    },
+    {
+      "id": "tollywood-sai-pallavi-films",
+      "category": "tollywood",
+      "pages": [
+        "Sai Pallavi"
+      ],
+      "brief": "Name a film in which Sai Pallavi has acted."
+    },
+    {
+      "id": "tollywood-pooja-hegde-films",
+      "category": "tollywood",
+      "pages": [
+        "Pooja Hegde"
+      ],
+      "brief": "Name a film in which Pooja Hegde has acted."
+    },
+    {
+      "id": "tollywood-trisha-films",
+      "category": "tollywood",
+      "pages": [
+        "Trisha filmography"
+      ],
+      "brief": "Name a film in which Trisha has acted."
+    },
+    {
+      "id": "tollywood-devi-sri-prasad-films",
+      "category": "tollywood",
+      "pages": [
+        "Devi Sri Prasad discography"
+      ],
+      "brief": "Name a film whose music was composed by Devi Sri Prasad."
+    },
+    {
+      "id": "tollywood-filmfare-best-actor",
+      "category": "tollywood",
+      "pages": [
+        "Filmfare Award for Best Actor – Telugu"
+      ],
+      "brief": "Name an actor who has won the Filmfare Award for Best Actor – Telugu."
+    },
+    {
+      "id": "tollywood-filmfare-best-director",
+      "category": "tollywood",
+      "pages": [
+        "Filmfare Award for Best Director – Telugu"
+      ],
+      "brief": "Name a director who has won the Filmfare Award for Best Director – Telugu."
+    },
+    {
+      "id": "tollywood-filmfare-best-actress",
+      "category": "tollywood",
+      "pages": [
+        "Filmfare Award for Best Actress – Telugu"
+      ],
+      "brief": "Name an actress who has won the Filmfare Award for Best Actress – Telugu."
+    },
+    {
+      "id": "tollywood-highest-grossing",
+      "category": "tollywood",
+      "pages": [
+        "List of highest-grossing Telugu films"
+      ],
+      "brief": "Name a film on the list of highest-grossing Telugu films."
+    },
+    {
+      "id": "tollywood-films-2023",
+      "category": "tollywood",
+      "pages": [
+        "List of Telugu films of 2023"
+      ],
+      "brief": "Name a Telugu film released in 2023."
+    },
+    {
+      "id": "tollywood-nandi-best-feature-film",
+      "category": "tollywood",
+      "pages": [
+        "Nandi Award for Best Feature Film"
+      ],
+      "brief": "Name a film that has won the Nandi Award for Best Feature Film."
+    },
+    {
+      "id": "tollywood-puri-jagannadh-films",
+      "category": "tollywood",
+      "pages": [
+        "Puri Jagannadh"
+      ],
+      "brief": "Name a film directed by Puri Jagannadh."
+    },
+    {
+      "id": "tollywood-ram-gopal-varma-films",
+      "category": "tollywood",
+      "pages": [
+        "Ram Gopal Varma filmography"
+      ],
+      "brief": "Name a film directed by Ram Gopal Varma."
+    },
+    {
+      "id": "tollywood-star-titles",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film star who is known by a fan-given title such as Mega Star, Power Star, Icon Star or Rebel Star (answer with the star's name)."
+    },
+    {
+      "id": "tollywood-franchises-sequels",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film that has a sequel, prequel or franchise (for example Baahubali, Pushpa or F2)."
+    },
+    {
+      "id": "tollywood-viral-songs",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film song that went viral across social media or was widely loved far beyond Telugu audiences."
+    },
+    {
+      "id": "tollywood-actress-names",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name an actress who has acted in Telugu films."
+    },
+    {
+      "id": "tollywood-directors",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a director who has made Telugu films."
+    },
+    {
+      "id": "space-neptune-moons",
+      "category": "space",
+      "pages": [
+        "Moons of Neptune"
+      ],
+      "brief": "Name a moon of Neptune."
+    },
+    {
+      "id": "space-constellations",
+      "category": "space",
+      "pages": [
+        "88 modern constellations"
+      ],
+      "brief": "Name one of the 88 modern constellations."
+    },
+    {
+      "id": "space-apollo-astronauts",
+      "category": "space",
+      "pages": [
+        "List of Apollo astronauts"
+      ],
+      "brief": "Name an astronaut who flew on an Apollo mission."
+    },
+    {
+      "id": "space-meteor-showers",
+      "category": "space",
+      "pages": [
+        "List of meteor showers"
+      ],
+      "brief": "Name a meteor shower."
+    },
+    {
+      "id": "space-space-agencies",
+      "category": "space",
+      "pages": [
+        "List of government space agencies"
+      ],
+      "brief": "Name a government space agency."
+    },
+    {
+      "id": "space-messier-objects",
+      "category": "space",
+      "pages": [
+        "List of Messier objects"
+      ],
+      "brief": "Name an object from the Messier catalogue (by name, such as the Crab Nebula)."
+    },
+    {
+      "id": "space-space-stations",
+      "category": "space",
+      "pages": [
+        "List of space stations"
+      ],
+      "brief": "Name a space station that has been placed in orbit."
+    },
+    {
+      "id": "space-spaceports",
+      "category": "space",
+      "pages": [
+        "List of spaceports"
+      ],
+      "brief": "Name a spaceport or rocket launch site."
+    },
+    {
+      "id": "space-largest-stars",
+      "category": "space",
+      "pages": [
+        "List of largest known stars"
+      ],
+      "brief": "Name one of the largest known stars."
+    },
+    {
+      "id": "space-nearest-stars",
+      "category": "space",
+      "pages": [
+        "List of nearest stars and brown dwarfs"
+      ],
+      "brief": "Name a star or brown dwarf near the Sun."
+    },
+    {
+      "id": "space-space-probes",
+      "category": "space",
+      "pages": [
+        "List of space probes"
+      ],
+      "brief": "Name a space probe."
+    },
+    {
+      "id": "space-movies",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a movie set mostly or partly in outer space."
+    },
+    {
+      "id": "space-songs",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a popular song with space, a planet, the Moon, stars or rockets in its title."
+    },
+    {
+      "id": "space-fictional-aliens",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous alien species or alien character from film, TV or games."
+    },
+    {
+      "id": "space-video-games",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a video game set in space."
+    },
+    {
+      "id": "space-companies",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a company working in the space industry, such as launch, satellites or space travel."
+    },
+    {
+      "id": "space-scifi-novels",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a science fiction novel set in space or on other worlds."
+    },
+    {
+      "id": "space-fictional-robots",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous robot or artificial intelligence from science fiction film, TV or books."
+    },
+    {
+      "id": "tollywood-prabhas-films",
+      "category": "tollywood",
+      "pages": [
+        "Prabhas filmography"
+      ],
+      "brief": "Name a movie starring Prabhas."
+    },
+    {
+      "id": "tollywood-rajamouli-films",
+      "category": "tollywood",
+      "pages": [
+        "S. S. Rajamouli filmography"
+      ],
+      "brief": "Name a film directed by S. S. Rajamouli."
+    },
+    {
+      "id": "tollywood-rana-daggubati-films",
+      "category": "tollywood",
+      "pages": [
+        "Rana Daggubati filmography"
+      ],
+      "brief": "Name a movie starring Rana Daggubati."
+    },
+    {
+      "id": "tollywood-brahmanandam-films",
+      "category": "tollywood",
+      "pages": [
+        "Brahmanandam filmography"
+      ],
+      "brief": "Name a film featuring Brahmanandam."
+    },
+    {
+      "id": "tollywood-keerthy-suresh-films",
+      "category": "tollywood",
+      "pages": [
+        "Keerthy Suresh"
+      ],
+      "brief": "Name a movie starring Keerthy Suresh."
+    },
+    {
+      "id": "tollywood-shruti-haasan-films",
+      "category": "tollywood",
+      "pages": [
+        "Shruti Haasan filmography"
+      ],
+      "brief": "Name a movie starring Shruti Haasan."
+    },
+    {
+      "id": "tollywood-nayanthara-films",
+      "category": "tollywood",
+      "pages": [
+        "Nayanthara filmography"
+      ],
+      "brief": "Name a movie starring Nayanthara."
+    },
+    {
+      "id": "tollywood-telugu-films-2022",
+      "category": "tollywood",
+      "pages": [
+        "List of Telugu films of 2022"
+      ],
+      "brief": "Name a Telugu film released in 2022."
+    },
+    {
+      "id": "tollywood-telugu-films-2021",
+      "category": "tollywood",
+      "pages": [
+        "List of Telugu films of 2021"
+      ],
+      "brief": "Name a Telugu film released in 2021."
+    },
+    {
+      "id": "tollywood-iconic-villains",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a memorable villain from a Telugu (Tollywood) film, by character name or the actor who played them."
+    },
+    {
+      "id": "tollywood-comedians",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film comedian or comedy actor."
+    },
+    {
+      "id": "tollywood-music-directors",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a music director or composer who has scored Telugu films."
+    },
+    {
+      "id": "tollywood-pan-india-films",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu film that was released in several Indian languages and became a pan-India hit."
+    },
+    {
+      "id": "tollywood-mythological-films",
+      "category": "tollywood",
+      "mode": "ai-knowledge",
+      "brief": "Name a Telugu mythological or folklore-based film (for example about gods, epics or legends)."
+    },
+    {
+      "id": "space-space-shuttle-missions",
+      "category": "space",
+      "pages": [
+        "List of Space Shuttle missions"
+      ],
+      "brief": "Name a Space Shuttle mission (by its STS designation or its orbiter name)."
+    },
+    {
+      "id": "space-missions-to-the-moon",
+      "category": "space",
+      "pages": [
+        "List of missions to the Moon"
+      ],
+      "brief": "Name a spacecraft mission that has been sent to the Moon."
+    },
+    {
+      "id": "space-brightest-stars",
+      "category": "space",
+      "pages": [
+        "List of brightest stars"
+      ],
+      "brief": "Name one of the brightest stars in Earth's night sky."
+    },
+    {
+      "id": "space-natural-satellites",
+      "category": "space",
+      "pages": [
+        "List of natural satellites"
+      ],
+      "brief": "Name a moon in our Solar System."
+    },
+    {
+      "id": "space-soyuz-missions",
+      "category": "space",
+      "pages": [
+        "List of Soyuz missions"
+      ],
+      "brief": "Name a Soyuz mission."
+    },
+    {
+      "id": "space-gemini-missions",
+      "category": "space",
+      "pages": [
+        "Project Gemini"
+      ],
+      "brief": "Name a NASA Gemini mission or one of its astronauts."
+    },
+    {
+      "id": "space-astronauts",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous astronaut or cosmonaut."
+    },
+    {
+      "id": "space-scifi-tv-shows",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a science-fiction TV series set in space or about space travel."
+    },
+    {
+      "id": "space-fictional-planets",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a fictional planet from a movie, TV show, book or game."
+    },
+    {
+      "id": "space-astronomers-physicists",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a scientist famous for astronomy, astrophysics or cosmology."
+    },
+    {
+      "id": "space-scifi-franchises",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a science-fiction franchise set in space."
+    },
+    {
+      "id": "space-space-cartoons-kids",
+      "category": "space",
+      "mode": "ai-knowledge",
+      "brief": "Name a space-themed cartoon, animated film or children's show."
+    },
+    {
+      "id": "us-pop-nba-rookie-of-the-year",
+      "category": "us-pop",
+      "pages": [
+        "NBA Rookie of the Year Award"
+      ],
+      "brief": "Name a player who has won the NBA Rookie of the Year Award."
+    },
+    {
+      "id": "us-pop-nba-defensive-player",
+      "category": "us-pop",
+      "pages": [
+        "NBA Defensive Player of the Year Award"
+      ],
+      "brief": "Name a player who has won the NBA Defensive Player of the Year Award."
+    },
+    {
+      "id": "us-pop-nba-sixth-man",
+      "category": "us-pop",
+      "pages": [
+        "NBA Sixth Man of the Year Award"
+      ],
+      "brief": "Name a player who has won the NBA Sixth Man of the Year Award."
+    },
+    {
+      "id": "us-pop-marvel-films",
+      "category": "us-pop",
+      "pages": [
+        "List of Marvel Cinematic Universe films"
+      ],
+      "brief": "Name a Marvel Cinematic Universe film."
+    },
+    {
+      "id": "us-pop-pixar-films",
+      "category": "us-pop",
+      "pages": [
+        "List of Pixar films"
+      ],
+      "brief": "Name a Pixar film."
+    },
+    {
+      "id": "us-pop-album-of-the-year",
+      "category": "us-pop",
+      "pages": [
+        "Grammy Award for Album of the Year"
+      ],
+      "brief": "Name an album that has won the Grammy Award for Album of the Year."
+    },
+    {
+      "id": "us-pop-the-office-characters",
+      "category": "us-pop",
+      "pages": [
+        "List of The Office (American TV series) characters"
+      ],
+      "brief": "Name a character from the American version of The Office."
+    },
+    {
+      "id": "us-pop-super-bowl-halftime",
+      "category": "us-pop",
+      "pages": [
+        "List of Super Bowl halftime shows"
+      ],
+      "brief": "Name an artist who has headlined a Super Bowl halftime show."
+    },
+    {
+      "id": "us-pop-nba-nicknames",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name an NBA player by their famous nickname or the nickname itself (for example \"The Greek Freak\")."
+    },
+    {
+      "id": "us-pop-rap-beefs",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous, widely documented hip-hop feud between two artists, by either artist or the nickname of the feud."
+    },
+    {
+      "id": "us-pop-tiktok-trends",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a widely known TikTok dance, trend or challenge."
+    },
+    {
+      "id": "us-pop-sitcoms",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a popular American TV sitcom."
+    },
+    {
+      "id": "us-pop-superheroes",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a comic-book superhero."
+    },
+    {
+      "id": "us-pop-video-game-characters",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a famous video-game character."
+    },
+    {
+      "id": "us-pop-fast-food-chains",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name a fast-food chain popular in the United States."
+    },
+    {
+      "id": "us-pop-drake-collabs",
+      "category": "us-pop",
+      "mode": "ai-knowledge",
+      "brief": "Name an artist who has collaborated with Drake on a song."
     }
   ]
 }

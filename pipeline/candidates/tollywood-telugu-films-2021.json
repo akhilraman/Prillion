@@ -1,0 +1,1519 @@
+{
+  "question": {
+    "id": "tollywood-telugu-films-2021",
+    "category": "tollywood",
+    "prompt": "Name a Telugu-language film released in 2021.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "krack",
+        "canonical": "Krack",
+        "aliases": [],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "mail",
+        "canonical": "Mail",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "red",
+        "canonical": "Red",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "alludu-adhurs",
+        "canonical": "Alludu Adhurs",
+        "aliases": [
+          "Alludu Adurs"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "cycle",
+        "canonical": "Cycle",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "super-over",
+        "canonical": "Super Over",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "bangaru-bullodu",
+        "canonical": "Bangaru Bullodu",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "30-rojullo-preminchadam-ela",
+        "canonical": "30 Rojullo Preminchadam Ela",
+        "aliases": [
+          "30 Rojullo Preminchadam Ela?"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "amma-deevena",
+        "canonical": "Amma Deevena",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "annapurnamma-gari-manavadu",
+        "canonical": "Annapurnamma Gari Manavadu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "cheppina-evaru-nammaru",
+        "canonical": "Cheppina Evaru Nammaru",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "jai-sena",
+        "canonical": "Jai Sena",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "mr-miss",
+        "canonical": "Mr & Miss",
+        "aliases": [
+          "Mr and Miss"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "kalaposhakulu",
+        "canonical": "Kalaposhakulu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "madhura-wines",
+        "canonical": "Madhura Wines",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "zombie-reddy",
+        "canonical": "Zombie Reddy",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pranavum",
+        "canonical": "Pranavum",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "g-zombie",
+        "canonical": "G- Zombie",
+        "aliases": [
+          "G-Zombie",
+          "G Zombie"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "uppena",
+        "canonical": "Uppena",
+        "aliases": [],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "fcuk-father-chitti-umaa-kaarthik",
+        "canonical": "FCUK: Father Chitti Umaa Kaarthik",
+        "aliases": [
+          "FCUK",
+          "Father Chitti Umaa Kaarthik"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pitta-kathalu",
+        "canonical": "Pitta Kathalu",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "naandhi",
+        "canonical": "Naandhi",
+        "aliases": [
+          "Nandhi"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "kapatadhaari",
+        "canonical": "Kapatadhaari",
+        "aliases": [
+          "Kapatadhari"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "a-ad-infitium",
+        "canonical": "A: Ad Infitium",
+        "aliases": [
+          "A",
+          "Ad Infitium"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "check",
+        "canonical": "Check",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "akshara",
+        "canonical": "Akshara",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "ninnila-ninnila",
+        "canonical": "Ninnila Ninnila",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "a1-express",
+        "canonical": "A1 Express",
+        "aliases": [
+          "A 1 Express"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "shaadi-mubarak",
+        "canonical": "Shaadi Mubarak",
+        "aliases": [
+          "Shadi Mubarak"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "april-28-em-jarigindi",
+        "canonical": "April 28 Em Jarigindi",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "power-play",
+        "canonical": "Power Play",
+        "aliases": [
+          "Powerplay"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "play-back",
+        "canonical": "Play Back",
+        "aliases": [
+          "Playback"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "sreekaram",
+        "canonical": "Sreekaram",
+        "aliases": [
+          "Srikaram"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "gaali-sampath",
+        "canonical": "Gaali Sampath",
+        "aliases": [
+          "Gali Sampath"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "jathi-ratnalu",
+        "canonical": "Jathi Ratnalu",
+        "aliases": [
+          "Jathi Rathnalu",
+          "Jathiratnalu"
+        ],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "love-life-pakodi",
+        "canonical": "Love Life & Pakodi",
+        "aliases": [
+          "Love Life and Pakodi"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "chaavu-kaburu-challaga",
+        "canonical": "Chaavu Kaburu Challaga",
+        "aliases": [
+          "Chavu Kaburu Challaga"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "mosagallu",
+        "canonical": "Mosagallu",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "sashi",
+        "canonical": "Sashi",
+        "aliases": [
+          "Shashi"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "rang-de",
+        "canonical": "Rang De",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "aranya",
+        "canonical": "Aranya",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "thellavarithe-guruvaram",
+        "canonical": "Thellavarithe Guruvaram",
+        "aliases": [
+          "Tellavarithe Guruvaram"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "wild-dog",
+        "canonical": "Wild Dog",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "y",
+        "canonical": "Y",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "vakeel-saab",
+        "canonical": "Vakeel Saab",
+        "aliases": [
+          "Vakil Saab"
+        ],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "deyyam",
+        "canonical": "Deyyam",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "thank-you-brother",
+        "canonical": "Thank You Brother",
+        "aliases": [
+          "Thank You Brother!"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "cinema-bandi",
+        "canonical": "Cinema Bandi",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "battala-ramaswamy-biopikku",
+        "canonical": "Battala Ramaswamy Biopikku",
+        "aliases": [
+          "Battala Ramaswamy Biopic"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "ek-mini-katha",
+        "canonical": "Ek Mini Katha",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "ardha-shathabdham",
+        "canonical": "Ardha Shathabdham",
+        "aliases": [
+          "Ardha Shatabdham"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pachchis",
+        "canonical": "Pachchis",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "crrush",
+        "canonical": "Crrush",
+        "aliases": [
+          "Crush"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "narappa",
+        "canonical": "Narappa",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "thimmarusu",
+        "canonical": "Thimmarusu",
+        "aliases": [
+          "Timmarusu"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "ishq",
+        "canonical": "Ishq",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "sr-kalyanamandapam",
+        "canonical": "SR Kalyanamandapam",
+        "aliases": [
+          "SR Kalyana Mandapam",
+          "S R Kalyanamandapam"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "mugguru-monagallu",
+        "canonical": "Mugguru Monagallu",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "merise-merise",
+        "canonical": "Merise Merise",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "mad",
+        "canonical": "MAD",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "paagal",
+        "canonical": "Paagal",
+        "aliases": [
+          "Pagal"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "raja-raja-chora",
+        "canonical": "Raja Raja Chora",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "kanabadutaledu",
+        "canonical": "Kanabadutaledu",
+        "aliases": [
+          "Kanabaduta Ledu"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "crazy-uncles",
+        "canonical": "Crazy Uncles",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "sridevi-soda-center",
+        "canonical": "Sridevi Soda Center",
+        "aliases": [
+          "Sridevi Soda Centre"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "ichata-vahanamulu-niluparadu",
+        "canonical": "Ichata Vahanamulu Niluparadu",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "vivaha-bhojanambu",
+        "canonical": "Vivaha Bhojanambu",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "house-arrest",
+        "canonical": "House Arrest",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "dear-megha",
+        "canonical": "Dear Megha",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "nootokka-jillala-andagadu",
+        "canonical": "Nootokka Jillala Andagadu",
+        "aliases": [
+          "101 Jillala Andagadu"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "appudu-ippudu",
+        "canonical": "Appudu - Ippudu",
+        "aliases": [
+          "Appudu Ippudu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "killer",
+        "canonical": "Killer",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "asmee",
+        "canonical": "Asmee",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "net",
+        "canonical": "Net",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "tuck-jagadish",
+        "canonical": "Tuck Jagadish",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "seetimaarr",
+        "canonical": "Seetimaarr",
+        "aliases": [
+          "Seetimaar",
+          "Seeti Maar"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "gully-rowdy",
+        "canonical": "Gully Rowdy",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "maestro",
+        "canonical": "Maestro",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "aakashavaani",
+        "canonical": "Aakashavaani",
+        "aliases": [
+          "Akashavani",
+          "Aakashavani"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "alanti-sitralu",
+        "canonical": "Alanti Sitralu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "love-story",
+        "canonical": "Love Story",
+        "aliases": [],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "maro-prastanam",
+        "canonical": "Maro Prastanam",
+        "aliases": [
+          "Maro Prasthanam"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "republic",
+        "canonical": "Republic",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "the-rose-villa",
+        "canonical": "The Rose Villa",
+        "aliases": [
+          "Rose Villa"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "idhe-maa-katha",
+        "canonical": "Idhe Maa Katha",
+        "aliases": [
+          "Ide Maa Katha"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "aaradugula-bullet",
+        "canonical": "Aaradugula Bullet",
+        "aliases": [
+          "Aradugula Bullet"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "itlu-amma",
+        "canonical": "Itlu Amma",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "konda-polam",
+        "canonical": "Konda Polam",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "maha-samudram",
+        "canonical": "Maha Samudram",
+        "aliases": [
+          "Mahasamudram"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pelli-sandad",
+        "canonical": "Pelli SandaD",
+        "aliases": [
+          "Pelli Sandadi"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "most-eligible-bachelor",
+        "canonical": "Most Eligible Bachelor",
+        "aliases": [],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "asalem-jarigandi",
+        "canonical": "Asalem Jarigandi",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "heads-and-tales",
+        "canonical": "Heads and Tales",
+        "aliases": [
+          "Heads & Tales"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "family-drama",
+        "canonical": "Family Drama",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "romantic",
+        "canonical": "Romantic",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "varudu-kaavalenu",
+        "canonical": "Varudu Kaavalenu",
+        "aliases": [
+          "Varudu Kavalenu"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "manchi-rojulochaie",
+        "canonical": "Manchi Rojulochaie",
+        "aliases": [
+          "Manchi Rojulochayi"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pushpaka-vimanam",
+        "canonical": "Pushpaka Vimanam",
+        "aliases": [],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "raja-vikramarka",
+        "canonical": "Raja Vikramarka",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "adbhutham",
+        "canonical": "Adbhutham",
+        "aliases": [
+          "Adbutham"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "drushyam-2-the-resumption",
+        "canonical": "Drushyam 2: The Resumption",
+        "aliases": [
+          "Drushyam 2",
+          "Drishyam 2"
+        ],
+        "familiarity": 0.0119,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "anubhavinchu-raja",
+        "canonical": "Anubhavinchu Raja",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "1997",
+        "canonical": "1997",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "akhanda",
+        "canonical": "Akhanda",
+        "aliases": [],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "skylab",
+        "canonical": "Skylab",
+        "aliases": [
+          "Sky Lab"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "lakshya",
+        "canonical": "Lakshya",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "gamanam",
+        "canonical": "Gamanam",
+        "aliases": [],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "sundarangudu",
+        "canonical": "Sundarangudu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "shyam-singha-roy",
+        "canonical": "Shyam Singha Roy",
+        "aliases": [
+          "Shyam Singa Roy",
+          "Shyam Singh Roy"
+        ],
+        "familiarity": 0.0297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "www-who-where-why",
+        "canonical": "WWW: Who Where Why",
+        "aliases": [
+          "WWW",
+          "Who Where Why"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "gudaputani",
+        "canonical": "Gudaputani",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "arjuna-phalguna",
+        "canonical": "Arjuna Phalguna",
+        "aliases": [
+          "Arjuna Falguna"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      },
+      {
+        "id": "senapathi",
+        "canonical": "Senapathi",
+        "aliases": [
+          "Senapati"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2021 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2021"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied list of Telugu films released in 2021, ranging from major box-office hits to smaller theatrical and streaming releases.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2021",
+        "title": "List of Telugu films of 2021",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2021",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A Telugu-language film released in 2021, including theatrical and streaming releases."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "09f0000f6af4ccec",
+    "brief": "Name a Telugu film released in 2021.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2021",
+        "version": "1366501638",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Krack": "9 | Krack | Gopichand Malineni",
+      "Mail": "12 | Mail | Uday Gurrala",
+      "Red": "14 | Red | Kishore Tirumala",
+      "Alludu Adhurs": "14 | Alludu Adhurs | Santhosh Srinivas",
+      "Cycle": "15 | Cycle | Aatla Arjun Reddy",
+      "Super Over": "22 | Super Over | Praveen Varma",
+      "Bangaru Bullodu": "23 | Bangaru Bullodu | P. V. Giri",
+      "30 Rojullo Preminchadam Ela": "29 | 30 Rojullo Preminchadam Ela | Munna",
+      "Amma Deevena": "29 | Amma Deevena | Shiva Eturi",
+      "Annapurnamma Gari Manavadu": "29 | Annapurnamma Gari Manavadu | Narra Shiva Nageswara Rao",
+      "Cheppina Evaru Nammaru": "29 | Cheppina Evaru Nammaru | Aaryan Krishna",
+      "Jai Sena": "29 | Jai Sena | V. Samudra",
+      "Mr & Miss": "29 | Mr & Miss | Ashok Reddy",
+      "Kalaposhakulu": "29 | Kalaposhakulu | Chalapathy Puvvula",
+      "Madhura Wines": "4 | Madhura Wines | Bandi Jayakishore",
+      "Zombie Reddy": "5 | Zombie Reddy | Prasanth Varma",
+      "Pranavum": "5 | Pranavum | Kumar G",
+      "G- Zombie": "5 | G- Zombie | Aryan Deepu",
+      "Uppena": "12 | Uppena | Bucchi Babu Sana",
+      "FCUK: Father Chitti Umaa Kaarthik": "12 | FCUK: Father Chitti Umaa Kaarthik | Vidya Sagar Raju",
+      "Pitta Kathalu": "19 | Pitta Kathalu | Nag Ashwin, B. V. Nandini Reddy, Tharun Bhascker, Sankalp Reddy",
+      "Naandhi": "19 | Naandhi | Vijay Kanakamedala",
+      "Kapatadhaari": "19 | Kapatadhaari | Pradeep Krishnamoorthy",
+      "A: Ad Infitium": "26 | A: Ad Infitium | Ugandhar Muni",
+      "Check": "26 | Check | Chandra Sekhar Yeleti",
+      "Akshara": "26 | Akshara | B.Chinni Krishna",
+      "Ninnila Ninnila": "26 | Ninnila Ninnila | Ani I V Sasi",
+      "A1 Express": "5 | A1 Express | Dennis Jeevan Kanukolanu",
+      "Shaadi Mubarak": "5 | Shaadi Mubarak | Padmasri",
+      "April 28 Em Jarigindi": "5 | April 28 Em Jarigindi | Veera Swamy.G",
+      "Power Play": "5 | Power Play | Vijay Kumar Konda",
+      "Play Back": "5 | Play Back | Jakka Hari Prasad",
+      "Sreekaram": "11 | Sreekaram | Kishore Reddy",
+      "Gaali Sampath": "11 | Gaali Sampath | Anish Krishna",
+      "Jathi Ratnalu": "11 | Jathi Ratnalu | Anudeep K V",
+      "Love Life & Pakodi": "12 | Love Life & Pakodi | Jayanth Gali",
+      "Chaavu Kaburu Challaga": "19 | Chaavu Kaburu Challaga | Koushik Pegallapati",
+      "Mosagallu": "19 | Mosagallu | Jeffrey Gee Chin",
+      "Sashi": "19 | Sashi | Nadikatla Srinivas Naidu",
+      "Rang De": "26 | Rang De | Venky Atluri",
+      "Aranya": "26 | Aranya | Prabhu Solomon",
+      "Thellavarithe Guruvaram": "27 | Thellavarithe Guruvaram | Manikanth Gelli",
+      "Wild Dog": "2 | Wild Dog | Ashishor Solomon",
+      "Y": "2 | Y | Baalu Adusumilli",
+      "Vakeel Saab": "9 | Vakeel Saab | Venu Sriram",
+      "Deyyam": "16 | Deyyam | Ram Gopal Varma",
+      "Thank You Brother": "7 | Thank You Brother | Ramesh Rapathi",
+      "Cinema Bandi": "14 | Cinema Bandi | Praveen Kandregula",
+      "Battala Ramaswamy Biopikku": "14 | Battala Ramaswamy Biopikku | Rama Narayanan",
+      "Ek Mini Katha": "27 | Ek Mini Katha | Karthik Rapolu",
+      "Ardha Shathabdham": "11 | Ardha Shathabdham | Rawindra Pulle",
+      "Pachchis": "12 | Pachchis | Sri Krishna Rama Sai",
+      "Crrush": "9 | Crrush | Ravi Babu",
+      "Narappa": "20 | Narappa | Srikanth Addala",
+      "Thimmarusu": "30 | Thimmarusu | Sharan Koppisetty",
+      "Ishq": "30 | Ishq | S. S. Raju",
+      "SR Kalyanamandapam": "6 | SR Kalyanamandapam | Sridhar Gade",
+      "Mugguru Monagallu": "6 | Mugguru Monagallu | Abhilash reddy",
+      "Merise Merise": "6 | Merise Merise | Pawan Kumar K",
+      "MAD": "6 | MAD | Meneni Laxman",
+      "Paagal": "14 | Paagal | Naresh Kuppili",
+      "Raja Raja Chora": "19 | Raja Raja Chora | Hasith Goli",
+      "Kanabadutaledu": "19 | Kanabadutaledu | Bala Raju M",
+      "Crazy Uncles": "19 | Crazy Uncles | E Sathi Babu",
+      "Sridevi Soda Center": "27 | Sridevi Soda Center | Karuna Kumar",
+      "Ichata Vahanamulu Niluparadu": "27 | Ichata Vahanamulu Niluparadu | S Darshan",
+      "Vivaha Bhojanambu": "27 | Vivaha Bhojanambu | Ram Abbaraju",
+      "House Arrest": "27 | House Arrest | Shekher Reddy Erra",
+      "Dear Megha": "3 | Dear Megha | A. Sushanth Reddy",
+      "Nootokka Jillala Andagadu": "3 | Nootokka Jillala Andagadu | Rachakonda Vidyasagar",
+      "Appudu - Ippudu": "3 | Appudu - Ippudu | Chalapathi Puvvula",
+      "Killer": "3 | Killer | Chinna",
+      "Asmee": "3 | Asmee | Sesh Kartikeya",
+      "Net": "10 | Net | Bhargav Macharla",
+      "Tuck Jagadish": "10 | Tuck Jagadish | Shiva Nirvana",
+      "Seetimaarr": "10 | Seetimaarr | Sampath Nandi",
+      "Gully Rowdy": "17 | Gully Rowdy | G. Nageswara Reddy",
+      "Maestro": "17 | Maestro | Merlapaka Gandhi",
+      "Aakashavaani": "24 | Aakashavaani | Ashwin Gangaraju",
+      "Alanti Sitralu": "24 | Alanti Sitralu | Supreeth C Krishna",
+      "Love Story": "24 | Love Story | Sekhar Kammula",
+      "Maro Prastanam": "24 | Maro Prastanam | Johny",
+      "Republic": "1 | Republic | Deva Katta",
+      "The Rose Villa": "1 | The Rose Villa | Hemanth",
+      "Idhe Maa Katha": "2 | Idhe Maa Katha | Guru Pavan",
+      "Aaradugula Bullet": "8 | Aaradugula Bullet | B. Gopal",
+      "Itlu Amma": "8 | Itlu Amma | C. Umamaheswara Rao",
+      "Konda Polam": "8 | Konda Polam | Krish",
+      "Maha Samudram": "14 | Maha Samudram | Ajay Bhupathi",
+      "Pelli SandaD": "15 | Pelli SandaD | Gowri Ronanki",
+      "Most Eligible Bachelor": "15 | Most Eligible Bachelor | Bhaskar",
+      "Asalem Jarigandi": "22 | Asalem Jarigandi | Nuleti Veera Raghava",
+      "Heads and Tales": "22 | Heads and Tales | Sai Krishna Enreddy",
+      "Family Drama": "29 | Family Drama | Meher Tej",
+      "Romantic": "29 | Romantic | Anil Paduri",
+      "Varudu Kaavalenu": "29 | Varudu Kaavalenu | Lakshmi Sowjanya",
+      "Manchi Rojulochaie": "4 | Manchi Rojulochaie | Maruthi",
+      "Pushpaka Vimanam": "12 | Pushpaka Vimanam | Damodara",
+      "Raja Vikramarka": "12 | Raja Vikramarka | Sri Saripalli",
+      "Adbhutham": "19 | Adbhutham | Mallik Ram",
+      "Drushyam 2: The Resumption": "25 | Drushyam 2: The Resumption | Jeethu Joseph",
+      "Anubhavinchu Raja": "26 | Anubhavinchu Raja | Sreenu Gavireddy",
+      "1997": "26 | 1997 | Dr. Mohan",
+      "Akhanda": "2 | Akhanda | Boyapati Srinu",
+      "Skylab": "4 | Skylab | Vishavak Khanderao",
+      "Lakshya": "10 | Lakshya | Dheerendra Santhossh Jagarlapudi",
+      "Gamanam": "10 | Gamanam | Sujana Rao",
+      "Sundarangudu": "10 | Sundarangudu | Vinay Babu",
+      "Pushpa: The Rise": "17 | Pushpa: The Rise | Sukumar",
+      "Shyam Singha Roy": "24 | Shyam Singha Roy | Rahul Sankrityan",
+      "WWW: Who Where Why": "24 | WWW: Who Where Why | K. V. Guhan",
+      "Gudaputani": "25 | Gudaputani | KM Kumar",
+      "Arjuna Phalguna": "31 | Arjuna Phalguna | Teja Marni",
+      "Senapathi": "31 | Senapathi | Pavan Sadineni"
+    },
+    "issues": []
+  }
+}

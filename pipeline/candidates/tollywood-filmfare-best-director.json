@@ -1,0 +1,452 @@
+{
+  "question": {
+    "id": "tollywood-filmfare-best-director",
+    "category": "tollywood",
+    "prompt": "Name a director who has won the Filmfare Award for Best Director – Telugu, from its inception through 2024.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "sukumar",
+        "canonical": "Sukumar",
+        "aliases": [],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar won for Pushpa 2: The Rule in 2024.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "venu-yeldandi",
+        "canonical": "Venu Yeldandi",
+        "aliases": [
+          "Venu"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venu Yeldandi won for Balagam in 2023.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "s-s-rajamouli",
+        "canonical": "S. S. Rajamouli",
+        "aliases": [
+          "SS Rajamouli",
+          "S S Rajamouli",
+          "Rajamouli"
+        ],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. S. Rajamouli won for RRR in 2022.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "nag-ashwin",
+        "canonical": "Nag Ashwin",
+        "aliases": [
+          "Nag Ashwin"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nag Ashwin won for Mahanati in 2018.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "vamsi-paidipally",
+        "canonical": "Vamsi Paidipally",
+        "aliases": [
+          "Vamshi Paidipally"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vamsi Paidipally won for Oopiri in 2016.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "vikram-kumar",
+        "canonical": "Vikram Kumar",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vikram Kumar won for Manam in 2014.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "trivikram-srinivas",
+        "canonical": "Trivikram Srinivas",
+        "aliases": [
+          "Trivikram"
+        ],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trivikram Srinivas won for Atharintiki Daaredi in 2013.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "sreenu-vaitla",
+        "canonical": "Sreenu Vaitla",
+        "aliases": [
+          "Srinu Vaitla",
+          "Sreenu Vytla",
+          "Srinu Vytla"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sreenu Vaitla won for Dookudu in 2011.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "krish",
+        "canonical": "Krish",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krish won for Vedam in 2010.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "sekhar-kammula",
+        "canonical": "Sekhar Kammula",
+        "aliases": [
+          "Shekhar Kammula"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sekhar Kammula won for Happy Days in 2007.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "puri-jagannadh",
+        "canonical": "Puri Jagannadh",
+        "aliases": [
+          "Puri Jagannath",
+          "Puri"
+        ],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Puri Jagannadh won for Pokiri in 2006.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "gunasekhar",
+        "canonical": "Gunasekhar",
+        "aliases": [
+          "Guna Sekhar"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gunasekhar won for Okkadu in 2003.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "krishna-vamsi",
+        "canonical": "Krishna Vamsi",
+        "aliases": [
+          "Krishna Vamshi",
+          "Krishnavamsi"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krishna Vamsi won for Khadgam in 2002.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "teja",
+        "canonical": "Teja",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Teja won for Nuvvu Nenu in 2001.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "k-vijaya-bhaskar",
+        "canonical": "K. Vijaya Bhaskar",
+        "aliases": [
+          "K Vijaya Bhaskar",
+          "Vijaya Bhaskar",
+          "K Vijayabhaskar"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Vijaya Bhaskar won for Nuvve Kavali in 2000.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "b-gopal",
+        "canonical": "B. Gopal",
+        "aliases": [
+          "B Gopal"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "B. Gopal won for Samarasimha Reddy in 1999.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "k-raghavendra-rao",
+        "canonical": "K. Raghavendra Rao",
+        "aliases": [
+          "K Raghavendra Rao",
+          "Raghavendra Rao"
+        ],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Raghavendra Rao won for Annamayya in 1997.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "k-viswanath",
+        "canonical": "K. Viswanath",
+        "aliases": [
+          "K Viswanath",
+          "K Vishwanath",
+          "Viswanath",
+          "Vishwanath"
+        ],
+        "familiarity": 0.0864,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Viswanath won for Subha Sankalpam in 1995.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "s-v-krishna-reddy",
+        "canonical": "S. V. Krishna Reddy",
+        "aliases": [
+          "SV Krishna Reddy",
+          "S V Krishna Reddy"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. V. Krishna Reddy won for Subhalagnam in 1994.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "kranthi-kumar",
+        "canonical": "Kranthi Kumar",
+        "aliases": [
+          "Kranti Kumar"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kranthi Kumar won for Seetharamayya Gari Manavaralu in 1991.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "mani-ratnam",
+        "canonical": "Mani Ratnam",
+        "aliases": [
+          "Maniratnam"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mani Ratnam won for Geethanjali in 1989.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "m-v-raghu",
+        "canonical": "M. V. Raghu",
+        "aliases": [
+          "MV Raghu",
+          "M V Raghu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "M. V. Raghu won for Kallu in 1988.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "singeetham-srinivasa-rao",
+        "canonical": "Singeetham Srinivasa Rao",
+        "aliases": [
+          "Singitam Srinivasa Rao",
+          "Singeetam Srinivasa Rao"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Singeetham Srinivasa Rao won for Mayuri in 1985.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "jandhyala",
+        "canonical": "Jandhyala",
+        "aliases": [
+          "Jandyala"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jandhyala won for Srivariki Premalekha in 1984.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "dasari-narayana-rao",
+        "canonical": "Dasari Narayana Rao",
+        "aliases": [
+          "Dasari",
+          "Dasari Narayan Rao"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dasari Narayana Rao won for Premabhishekam in 1981.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "bapu",
+        "canonical": "Bapu",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bapu won for Vamsa Vruksham in 1980.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "k-balachander",
+        "canonical": "K. Balachander",
+        "aliases": [
+          "K Balachander",
+          "Balachander"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Balachander won for Maro Charitra in 1978.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "t-rama-rao",
+        "canonical": "T. Rama Rao",
+        "aliases": [
+          "T Rama Rao"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "T. Rama Rao won for Jeevana Tharangaalu in 1973.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      },
+      {
+        "id": "k-v-reddy",
+        "canonical": "K. V. Reddy",
+        "aliases": [
+          "KV Reddy",
+          "K V Reddy"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. V. Reddy won the inaugural award for Sri Krishna Satya in 1972.",
+        "sourceIds": [
+          "filmfare-award-for-best-director-telugu"
+        ]
+      }
+    ],
+    "explanation": "The award was introduced in 1972. The winners listed through 2024 include 29 different directors, with K. Viswanath holding the record for the most wins.",
+    "sources": [
+      {
+        "id": "filmfare-award-for-best-director-telugu",
+        "title": "Filmfare Award for Best Director – Telugu",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Director_%E2%80%93_Telugu",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "61f738fb1ee4df78",
+    "brief": "Name a director who has won the Filmfare Award for Best Director – Telugu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "filmfare-award-for-best-director-telugu",
+        "version": "1375756038",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Sukumar": "2024 | Sukumar | Pushpa 2: The Rule |",
+      "Venu Yeldandi": "2023 | Venu Yeldandi | Balagam |",
+      "S. S. Rajamouli": "2022 | S. S. Rajamouli | RRR |",
+      "Nag Ashwin": "2018 | Nag Ashwin | Mahanati |",
+      "Vamsi Paidipally": "2016 | Vamsi Paidipally | Oopiri |",
+      "Vikram Kumar": "2014 | Vikram Kumar | Manam |",
+      "Trivikram Srinivas": "2013 | Trivikram Srinivas | Atharintiki Daaredi |",
+      "Sreenu Vaitla": "2011 | Sreenu Vaitla | Dookudu |",
+      "Krish": "2010 | Krish | Vedam |",
+      "Sekhar Kammula": "2007 | Sekhar Kammula | Happy Days |",
+      "Puri Jagannadh": "2006 | Puri Jagannadh | Pokiri |",
+      "Gunasekhar": "2003 | Gunasekhar | Okkadu |",
+      "Krishna Vamsi": "2002 | Krishna Vamsi | Khadgam |",
+      "Teja": "2001 | Teja | Nuvvu Nenu |",
+      "K. Vijaya Bhaskar": "2000 | K. Vijaya Bhaskar | Nuvve Kavali |",
+      "B. Gopal": "1999 | B. Gopal | Samarasimha Reddy |",
+      "K. Raghavendra Rao": "1997 | K. Raghavendra Rao | Annamayya |",
+      "K. Viswanath": "1995 | K. Viswanath | Subha Sankalpam |",
+      "S. V. Krishna Reddy": "1994 | S. V. Krishna Reddy | Subhalagnam |",
+      "Kranthi Kumar": "1991 | Kranthi Kumar | Seetharamayya Gari Manavaralu |",
+      "Mani Ratnam": "1989 | Mani Ratnam | Geethanjali |",
+      "M. V. Raghu": "1988 | M. V. Raghu | Kallu |",
+      "Singeetham Srinivasa Rao": "1985 | Singeetham Srinivasa Rao | Mayuri |",
+      "Jandhyala": "1984 | Jandhyala | Srivariki Premalekha |",
+      "Dasari Narayana Rao": "1981 | Dasari Narayana Rao | Premabhishekam |",
+      "Bapu": "1980 | Bapu | Vamsa Vruksham |",
+      "K. Balachander": "1978 | K. Balachander | Maro Charitra |",
+      "T. Rama Rao": "1973 | T. Rama Rao | Jeevana Tharangaalu |",
+      "K. V. Reddy": "1972 | K. V. Reddy | Sri Krishna Satya |"
+    },
+    "issues": []
+  }
+}

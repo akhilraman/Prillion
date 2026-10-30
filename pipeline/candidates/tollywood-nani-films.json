@@ -1,0 +1,594 @@
+{
+  "question": {
+    "id": "tollywood-nani-films",
+    "category": "tollywood",
+    "prompt": "Name a film in Nani’s on-screen acting filmography, including cameos and upcoming films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "ashta-chamma",
+        "canonical": "Ashta Chamma",
+        "aliases": [
+          "Ashta Chemma"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Rambabu / Mahesh Babu in Ashta Chamma.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "ride",
+        "canonical": "Ride",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Arjun in Ride.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "snehituda",
+        "canonical": "Snehituda",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Sai in Snehituda.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "bheemili-kabaddi-jattu",
+        "canonical": "Bheemili Kabaddi Jattu",
+        "aliases": [
+          "Bhimili Kabaddi Jattu"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Suribabu in Bheemili Kabaddi Jattu.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "ala-modalaindi",
+        "canonical": "Ala Modalaindi",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Gautham in Ala Modalaindi.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "veppam",
+        "canonical": "Veppam",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Karthik in the Tamil film Veppam.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "pilla-zamindar",
+        "canonical": "Pilla Zamindar",
+        "aliases": [
+          "Pilla Jamindar"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Praveen Jayaramaraju, also called PJ, in Pilla Zamindar.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Nani in the Telugu-Tamil bilingual Eega.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "yeto-vellipoyindhi-manasu",
+        "canonical": "Yeto Vellipoyindhi Manasu",
+        "aliases": [
+          "Yeto Vellipoyindi Manasu"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Varun Krishna in Yeto Vellipoyindhi Manasu.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "neethaane-en-ponvasantham",
+        "canonical": "Neethaane En Ponvasantham",
+        "aliases": [
+          "Neethane En Ponvasantham"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani has a cameo as a train passenger in Neethaane En Ponvasantham.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "paisa",
+        "canonical": "Paisa",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Prakash in Paisa.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "aaha-kalyanam",
+        "canonical": "Aaha Kalyanam",
+        "aliases": [
+          "Aha Kalyanam"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Shakthivel in Aaha Kalyanam.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "nimirndhu-nil",
+        "canonical": "Nimirndhu Nil",
+        "aliases": [
+          "Nimirnthu Nil"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani has a cameo as Narasimha Reddy's friend in Nimirndhu Nil.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "janda-pai-kapiraju",
+        "canonical": "Janda Pai Kapiraju",
+        "aliases": [
+          "Jenda Pai Kapiraju"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Aravind Shivashankar / Maya Kannan in Janda Pai Kapiraju.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "yevade-subramanyam",
+        "canonical": "Yevade Subramanyam",
+        "aliases": [
+          "Evade Subramanyam"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Subramanyam in Yevade Subramanyam.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "bhale-bhale-magadivoy",
+        "canonical": "Bhale Bhale Magadivoy",
+        "aliases": [
+          "Bhale Bhale Magadivoi"
+        ],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Lucky in Bhale Bhale Magadivoy.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "dongaata",
+        "canonical": "Dongaata",
+        "aliases": [
+          "Dongata"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani makes a cameo appearance as himself in Dongaata.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "superstar-kidnap",
+        "canonical": "Superstar Kidnap",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani makes a cameo appearance as himself in Superstar Kidnap.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "krishna-gaadi-veera-prema-gaadha",
+        "canonical": "Krishna Gaadi Veera Prema Gaadha",
+        "aliases": [
+          "Krishna Gadi Veera Prema Gadha",
+          "Krishna Gadi Veera Prema Gaadha"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Krishna in Krishna Gaadi Veera Prema Gaadha.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "gentleman",
+        "canonical": "Gentleman",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Gautham / Jai in Gentleman.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "majnu",
+        "canonical": "Majnu",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Aditya in Majnu.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "jyo-achyutananda",
+        "canonical": "Jyo Achyutananda",
+        "aliases": [
+          "Jyo Achyuthananda",
+          "Jo Achyutananda"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani has a cameo as Jyo's boyfriend in Jyo Achyutananda.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "nenu-local",
+        "canonical": "Nenu Local",
+        "aliases": [],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Babu in Nenu Local.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "ninnu-kori",
+        "canonical": "Ninnu Kori",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Dr. P. Uma Maheswara Rao in Ninnu Kori.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "middle-class-abbayi",
+        "canonical": "Middle Class Abbayi",
+        "aliases": [
+          "MCA",
+          "Middle Class Abbayi MCA"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Nani in Middle Class Abbayi.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "krishnarjuna-yudham",
+        "canonical": "Krishnarjuna Yudham",
+        "aliases": [
+          "Krishnarjuna Yuddham"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Krishna / Arjun Jayaprakash in Krishnarjuna Yudham.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "devadas",
+        "canonical": "Devadas",
+        "aliases": [
+          "Devadasu"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Dr. Das in Devadas.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "neevevaro",
+        "canonical": "Neevevaro",
+        "aliases": [
+          "Neevevaru"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani has a cameo as a customer in Neevevaro.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "jersey",
+        "canonical": "Jersey",
+        "aliases": [],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Arjun in Jersey.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "nani-s-gang-leader",
+        "canonical": "Nani's Gang Leader",
+        "aliases": [
+          "Gang Leader",
+          "Nanis Gang Leader",
+          "Gang Leader 2019"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Pencil Parthasarathy in Nani's Gang Leader.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "v",
+        "canonical": "V",
+        "aliases": [
+          "V 2020"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Major Yendluri Vishnu in V.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "tuck-jagadish",
+        "canonical": "Tuck Jagadish",
+        "aliases": [
+          "Tuck Jagadeesh"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as MRO Jagadish Naidu in Tuck Jagadish.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "shyam-singha-roy",
+        "canonical": "Shyam Singha Roy",
+        "aliases": [
+          "Shyam Singa Roy"
+        ],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Shyam Singha Roy / Vasudev Ghanta in Shyam Singha Roy.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "ante-sundaraniki",
+        "canonical": "Ante Sundaraniki",
+        "aliases": [
+          "Ante Sundaraniki!"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Sundar in Ante Sundaraniki.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "hit-the-second-case",
+        "canonical": "HIT: The Second Case",
+        "aliases": [
+          "HIT 2",
+          "Hit Second Case",
+          "HIT The Second Case"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani has a cameo as Arjun Sarkaar IPS in HIT: The Second Case.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "dasara",
+        "canonical": "Dasara",
+        "aliases": [],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Dharani in Dasara.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "hi-nanna",
+        "canonical": "Hi Nanna",
+        "aliases": [
+          "Hi Nana"
+        ],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Viraj in Hi Nanna.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "saripodhaa-sanivaaram",
+        "canonical": "Saripodhaa Sanivaaram",
+        "aliases": [
+          "Saripodha Sanivaram",
+          "Saripodhaa Sanivaram"
+        ],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Surya in Saripodhaa Sanivaaram.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "hit-the-third-case",
+        "canonical": "HIT: The Third Case",
+        "aliases": [
+          "HIT 3",
+          "Hit Third Case",
+          "HIT The Third Case"
+        ],
+        "familiarity": 0.0609,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is credited as Arjun Sarkaar IPS in HIT: The Third Case.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "the-paradise",
+        "canonical": "The Paradise",
+        "aliases": [
+          "Paradise"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani's acting credits list him as Jadal, alias Sarakka, in The Paradise.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      },
+      {
+        "id": "bloody-romeo",
+        "canonical": "Bloody Romeo",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani's acting credits list him as Romeo in the upcoming film Bloody Romeo.",
+        "sourceIds": [
+          "nani-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the document’s list of Nani’s acting credits. Tamil films, cameo appearances and upcoming films count; credits solely as a producer, narrator, dubbing artist or crew member do not.",
+    "sources": [
+      {
+        "id": "nani-filmography",
+        "title": "Nani filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nani_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "f2dc70d58b7a4962",
+    "brief": "Name a film in which the Telugu actor Nani has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nani-filmography",
+        "version": "1381895066",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Ashta Chamma": "2008 | Ashta Chamma | Rambabu / Mahesh Babu | |",
+      "Ride": "2009 | Ride | Arjun | |",
+      "Snehituda": "2009 | Snehituda | Sai | |",
+      "Bheemili Kabaddi Jattu": "2010 | Bheemili Kabaddi Jattu | Suribabu | |",
+      "Ala Modalaindi": "2011 | Ala Modalaindi | Gautham | |",
+      "Veppam": "2011 | Veppam | Karthik | Tamil film |",
+      "Pilla Zamindar": "2011 | Pilla Zamindar | Praveen Jayaramaraju \"PJ\" | |",
+      "Eega": "2012 | Eega | Nani | Telugu-Tamil bilingual |",
+      "Yeto Vellipoyindhi Manasu": "2012 | Yeto Vellipoyindhi Manasu | Varun Krishna | |",
+      "Neethaane En Ponvasantham": "2012 | Neethaane En Ponvasantham | Train passenger | Tamil film; cameo appearance |",
+      "Paisa": "2014 | Paisa | Prakash | |",
+      "Aaha Kalyanam": "2014 | Aaha Kalyanam | Shakthivel | Tamil film |",
+      "Nimirndhu Nil": "2014 | Nimirndhu Nil | Narasimha Reddy's friend | Tamil film; cameo appearance in \"Rajadhi Raja\" song |",
+      "Janda Pai Kapiraju": "2015 | Janda Pai Kapiraju | Aravind Shivashankar / Maya Kannan | |",
+      "Yevade Subramanyam": "2015 | Yevade Subramanyam | Subramanyam | |",
+      "Bhale Bhale Magadivoy": "2015 | Bhale Bhale Magadivoy | Lucky | |",
+      "Dongaata": "2015 | Dongaata | Himself | Cameo appearance |",
+      "Superstar Kidnap": "2015 | Superstar Kidnap | Himself | Cameo appearance |",
+      "Krishna Gaadi Veera Prema Gaadha": "2016 | Krishna Gaadi Veera Prema Gaadha | Krishna | |",
+      "Gentleman": "2016 | Gentleman | Gautham / Jai | |",
+      "Majnu": "2016 | Majnu | Aditya | |",
+      "Jyo Achyutananda": "2016 | Jyo Achyutananda | Jyo's boyfriend | Cameo appearance |",
+      "Nenu Local": "2017 | Nenu Local | Babu | |",
+      "Ninnu Kori": "2017 | Ninnu Kori | Dr. P. Uma Maheswara Rao | |",
+      "Middle Class Abbayi": "2017 | Middle Class Abbayi | Nani | |",
+      "Krishnarjuna Yudham": "2018 | Krishnarjuna Yudham | Krishna / Arjun Jayaprakash | |",
+      "Devadas": "2018 | Devadas | Dr. Das | |",
+      "Neevevaro": "2018 | Neevevaro | Customer | Cameo appearance |",
+      "Jersey": "2019 | Jersey | Arjun | Also dubbed for Harish Kalyan |",
+      "Nani's Gang Leader": "2019 | Nani's Gang Leader | \"Pencil\" Parthasarathy | |",
+      "V": "2020 | V | Major Yendluri Vishnu | 25th film |",
+      "Tuck Jagadish": "2021 | Tuck Jagadish | MRO Jagadish Naidu | |",
+      "Shyam Singha Roy": "2021 | Shyam Singha Roy | Shyam Singha Roy / Vasudev Ghanta | |",
+      "Ante Sundaraniki": "2022 | Ante Sundaraniki | Kasthuri Poorna Venkata Sesha Sai Pavana Rama Sundara Prasad \"Sundar\" | |",
+      "HIT: The Second Case": "2022 | HIT: The Second Case | Arjun Sarkaar IPS | Cameo appearance |",
+      "Dasara": "2023 | Dasara | Dharani | |",
+      "Hi Nanna": "2023 | Hi Nanna | Viraj | |",
+      "Saripodhaa Sanivaaram": "2024 | Saripodhaa Sanivaaram | Surya | |",
+      "HIT: The Third Case": "2025 | HIT: The Third Case | Arjun Sarkaar IPS | |",
+      "The Paradise": "2026 | The Paradise | Jadal alias \"Sarakka\" | |",
+      "Bloody Romeo": "2027 | Bloody Romeo † | Romeo | Filming |"
+    },
+    "issues": []
+  }
+}

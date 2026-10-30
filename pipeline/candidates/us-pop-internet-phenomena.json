@@ -1,0 +1,263 @@
+{
+  "question": {
+    "id": "us-pop-internet-phenomena",
+    "category": "us-pop",
+    "prompt": "Name a dance-related internet phenomenon in the “Dance” section of Wikipedia’s “List of Internet phenomena.”",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "coffin-dance-dancing-pallbearers",
+        "canonical": "Coffin Dance/Dancing Pallbearers",
+        "aliases": [
+          "Coffin Dance",
+          "Dancing Pallbearers",
+          "Ghanaian dancing pallbearers"
+        ],
+        "familiarity": 0.1709,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the Ghanaian pallbearers whose footage became a meme when paired with “Astronomia.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "dab",
+        "canonical": "Dab",
+        "aliases": [
+          "Dabbing"
+        ],
+        "familiarity": 0.1709,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the move involving a lowered head, one bent arm and one outstretched arm.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "dancing-banana",
+        "canonical": "Dancing Banana",
+        "aliases": [
+          "Peanut Butter Jelly Time",
+          "Dancing banana meme"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the animated banana dancing to “Peanut Butter Jelly Time.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "hampster-dance",
+        "canonical": "Hampster Dance",
+        "aliases": [
+          "Hamster Dance",
+          "The Hampster Dance",
+          "The Hamster Dance"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the webpage filled with dancing hamsters.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "harlem-shake",
+        "canonical": "Harlem Shake",
+        "aliases": [
+          "Harlem Shake challenge"
+        ],
+        "familiarity": 0.1709,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the viral video format using Baauer’s song and a sudden switch to group dancing.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "hit-the-quan",
+        "canonical": "Hit the Quan",
+        "aliases": [
+          "Hit the Quan challenge"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section identifies this as a viral dance challenge to iLoveMemphis’s song.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "indian-thriller",
+        "canonical": "Indian Thriller",
+        "aliases": [
+          "Donga Thriller"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the viral scene from Donga with phonetic English subtitles.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "jk-wedding-entrance-dance",
+        "canonical": "JK Wedding Entrance Dance",
+        "aliases": [
+          "Jill and Kevin wedding dance",
+          "JK wedding dance"
+        ],
+        "familiarity": 0.0205,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists Jill Peterson and Kevin Heinz’s wedding procession choreographed to “Forever.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "kiki-challenge",
+        "canonical": "Kiki Challenge",
+        "aliases": [
+          "#DoThe Shiggy",
+          "#DoTheShiggy",
+          "Do the Shiggy",
+          "In My Feelings challenge",
+          "Keke challenge"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the challenge started by Shiggy to Drake’s “In My Feelings.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "little-superstar",
+        "canonical": "Little Superstar",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the clip of Thavakalai break-dancing to a remix of “Holiday.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "running-man-challenge",
+        "canonical": "Running Man Challenge",
+        "aliases": [
+          "My Boo challenge",
+          "Running Man dance challenge"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the viral dance performed to “My Boo” by Ghost Town DJ’s.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "t-pose",
+        "canonical": "T-pose",
+        "aliases": [
+          "T pose",
+          "T posing",
+          "T-posing"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the surreal dance move modeled on the default pose of 3D models.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "techno-viking",
+        "canonical": "Techno Viking",
+        "aliases": [
+          "Technoviking"
+        ],
+        "familiarity": 0.0205,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the muscular raver dancing at a Berlin technoparade.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "thriller-by-the-cpdrc-dancing-inmates",
+        "canonical": "\"Thriller\" by the CPDRC Dancing Inmates",
+        "aliases": [
+          "CPDRC Dancing Inmates",
+          "Dancing inmates",
+          "Cebu prisoners Thriller",
+          "Philippine prisoners Thriller"
+        ],
+        "familiarity": 0.0205,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section includes the Filipino prisoners’ recreation of Michael Jackson’s “Thriller.”",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      },
+      {
+        "id": "triangle-dance-challenge",
+        "canonical": "Triangle Dance Challenge",
+        "aliases": [
+          "Triangle Dance",
+          "Triangle challenge"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dance section lists the three-person jumping dance that gained popularity in 2019.",
+        "sourceIds": [
+          "list-of-internet-phenomena"
+        ]
+      }
+    ],
+    "explanation": "This section includes viral dance challenges, animated dances and dance videos—from the Harlem Shake to Ghana’s dancing pallbearers.",
+    "sources": [
+      {
+        "id": "list-of-internet-phenomena",
+        "title": "List of Internet phenomena",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Internet_phenomena",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "fe9ea28109703973",
+    "brief": "Name an internet meme or viral phenomenon.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-internet-phenomena",
+        "version": "1382023387",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Coffin Dance/Dancing Pallbearers": "Coffin Dance/Dancing Pallbearers – A group of Ghanaian pallbearers that respectfully dance during funeral processions were covered by the BBC in 2017 and gained some initial Internet popularity.",
+      "Dab": "Dab – A dance move where a person drops their head into a bent, slanted arm, with the other arm out straight and parallel.",
+      "Dancing Banana": "\"Dancing Banana\" – A banana dancing to the song \"Peanut Butter Jelly Time\" by the Buckwheat Boyz.",
+      "Hampster Dance": "Hampster Dance – A page filled with hamsters dancing, linking to other animated pages. It spawned a fictional band complete with its own CD album release.",
+      "Harlem Shake": "Harlem Shake – A video based on Harlem shake dance, originally created by YouTube personality Filthy Frank, and using an electronica version of the song by Baauer.",
+      "Hit the Quan": "\"Hit the Quan\" – A viral dance challenge to the song \"Hit the Quan\" by American rapper iLoveMemphis.",
+      "Indian Thriller": "\"Indian Thriller\" – A viral scene from the Indian film Donga with added subtitles phonetically approximating the original lyrics as English sentences.",
+      "JK Wedding Entrance Dance": "JK Wedding Entrance Dance – The wedding procession for Jill Peterson and Kevin Heinz of St. Paul, Minnesota, choreographed to the song \"Forever\" by Chris Brown.",
+      "Kiki Challenge": "\"Kiki Challenge\" or \"#DoThe Shiggy\" – A viral dance challenge to the song \"In My Feelings\" by Drake.",
+      "Little Superstar": "Little Superstar – A video of Thavakalai, a short Indian actor, break-dancing to MC Miker G & DJ Sven's remix of the Madonna song \"Holiday\".",
+      "Running Man Challenge": "Running Man Challenge – A dance move where participants in a way resembling running to the 1996 R&B song \"My Boo\" by Ghost Town DJ's.",
+      "T-pose": "T-pose – A surrealist \"dance move\" that became popular in April 2018 modelled after the default pose (also known as a bind pose) that many 3D models in games, animations, and more take in their raw file form.",
+      "Techno Viking": "Techno Viking – A muscular Nordic raver dancing in a technoparade in Berlin.",
+      "\"Thriller\" by the CPDRC Dancing Inmates": "\"Thriller\" by the CPDRC Dancing Inmates – A recreation of Michael Jackson's hit performed by prisoners at the Cebu Provincial Detention and Rehabilitation Center (CPDRC) in the Philippines.",
+      "Triangle Dance Challenge": "Triangle Dance Challenge – Three individuals keep their hands on each other's shoulders while each takes a turn jumping to a different vertex of an invisible triangle on the floor. This gained popularity in 2019."
+    },
+    "issues": []
+  }
+}

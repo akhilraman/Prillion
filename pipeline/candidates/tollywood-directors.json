@@ -1,0 +1,449 @@
+{
+  "question": {
+    "id": "tollywood-directors",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a director who has directed a Telugu-language feature film.",
+    "answerSet": "open",
+    "criteria": "Any credited director of at least one feature film originally made wholly or partly in Telugu counts; Telugu-dubbed releases alone do not count.",
+    "answers": [
+      {
+        "id": "s-s-rajamouli",
+        "canonical": "S. S. Rajamouli",
+        "aliases": [
+          "Rajamouli"
+        ],
+        "familiarity": 0.0875,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. S. Rajamouli directed the Telugu film RRR.",
+        "sourceIds": []
+      },
+      {
+        "id": "sukumar",
+        "canonical": "Sukumar",
+        "aliases": [
+          "Sukumar Bandreddi"
+        ],
+        "familiarity": 0.0875,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar directed the Telugu film Pushpa: The Rise.",
+        "sourceIds": []
+      },
+      {
+        "id": "trivikram-srinivas",
+        "canonical": "Trivikram Srinivas",
+        "aliases": [
+          "Trivikram"
+        ],
+        "familiarity": 0.0875,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trivikram Srinivas directed the Telugu film Athadu.",
+        "sourceIds": []
+      },
+      {
+        "id": "puri-jagannadh",
+        "canonical": "Puri Jagannadh",
+        "aliases": [
+          "Puri Jagannath",
+          "Puri"
+        ],
+        "familiarity": 0.0875,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Puri Jagannadh directed the Telugu film Pokiri.",
+        "sourceIds": []
+      },
+      {
+        "id": "sandeep-reddy-vanga",
+        "canonical": "Sandeep Reddy Vanga",
+        "aliases": [
+          "Sandeep Vanga",
+          "Vanga"
+        ],
+        "familiarity": 0.0875,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sandeep Reddy Vanga directed the Telugu film Arjun Reddy.",
+        "sourceIds": []
+      },
+      {
+        "id": "nag-ashwin",
+        "canonical": "Nag Ashwin",
+        "aliases": [
+          "Nag Ashwin Reddy"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nag Ashwin directed the Telugu film Mahanati.",
+        "sourceIds": []
+      },
+      {
+        "id": "ram-gopal-varma",
+        "canonical": "Ram Gopal Varma",
+        "aliases": [
+          "RGV",
+          "Ram Gopal Verma"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Gopal Varma directed the Telugu film Shiva.",
+        "sourceIds": []
+      },
+      {
+        "id": "s-v-krishna-reddy",
+        "canonical": "S. V. Krishna Reddy",
+        "aliases": [],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. V. Krishna Reddy directed the Telugu film Yamaleela.",
+        "sourceIds": []
+      },
+      {
+        "id": "k-viswanath",
+        "canonical": "K. Viswanath",
+        "aliases": [
+          "K. Vishwanath",
+          "Kasinadhuni Viswanath"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Viswanath directed the Telugu film Sankarabharanam.",
+        "sourceIds": []
+      },
+      {
+        "id": "k-raghavendra-rao",
+        "canonical": "K. Raghavendra Rao",
+        "aliases": [
+          "Raghavendra Rao"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. Raghavendra Rao directed the Telugu film Jagadeka Veerudu Athiloka Sundari.",
+        "sourceIds": []
+      },
+      {
+        "id": "dasari-narayana-rao",
+        "canonical": "Dasari Narayana Rao",
+        "aliases": [
+          "Dasari",
+          "Dasari Narayan Rao"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dasari Narayana Rao directed the Telugu film Meghasandesam.",
+        "sourceIds": []
+      },
+      {
+        "id": "sekhar-kammula",
+        "canonical": "Sekhar Kammula",
+        "aliases": [
+          "Shekhar Kammula"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sekhar Kammula directed the Telugu film Happy Days.",
+        "sourceIds": []
+      },
+      {
+        "id": "krish-jagarlamudi",
+        "canonical": "Krish Jagarlamudi",
+        "aliases": [
+          "Krish",
+          "Radhakrishna Jagarlamudi"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krish Jagarlamudi directed the Telugu film Vedam.",
+        "sourceIds": []
+      },
+      {
+        "id": "bapu",
+        "canonical": "Bapu",
+        "aliases": [
+          "Sattiraju Lakshminarayana"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bapu directed the Telugu film Mutyala Muggu.",
+        "sourceIds": []
+      },
+      {
+        "id": "jandhyala",
+        "canonical": "Jandhyala",
+        "aliases": [
+          "Jandhyala Subramanya Sastry"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jandhyala directed the Telugu film Aha Naa Pellanta!",
+        "sourceIds": []
+      },
+      {
+        "id": "chandra-sekhar-yeleti",
+        "canonical": "Chandra Sekhar Yeleti",
+        "aliases": [
+          "Chandra Sekhar Yelleti",
+          "Chandra Shekhar Yeleti"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandra Sekhar Yeleti directed the Telugu film Aithe.",
+        "sourceIds": []
+      },
+      {
+        "id": "mohanakrishna-indraganti",
+        "canonical": "Mohanakrishna Indraganti",
+        "aliases": [
+          "Mohan Krishna Indraganti",
+          "Indraganti Mohana Krishna"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mohanakrishna Indraganti directed the Telugu film Ashta Chamma.",
+        "sourceIds": []
+      },
+      {
+        "id": "v-v-vinayak",
+        "canonical": "V. V. Vinayak",
+        "aliases": [
+          "Vinayak"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "V. V. Vinayak directed the Telugu film Aadi.",
+        "sourceIds": []
+      },
+      {
+        "id": "srinu-vaitla",
+        "canonical": "Srinu Vaitla",
+        "aliases": [
+          "Sreenu Vaitla",
+          "Srinu Vytla",
+          "Srinу Vytla",
+          "Sreenu Vytla"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Srinu Vaitla directed the Telugu film Dookudu.",
+        "sourceIds": []
+      },
+      {
+        "id": "koratala-siva",
+        "canonical": "Koratala Siva",
+        "aliases": [
+          "Koratala Shiva"
+        ],
+        "familiarity": 0.035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Koratala Siva directed the Telugu film Srimanthudu.",
+        "sourceIds": []
+      },
+      {
+        "id": "chandra-siddhartha",
+        "canonical": "Chandra Siddhartha",
+        "aliases": [
+          "Chandra Siddartha",
+          "Chandra Siddharth"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandra Siddhartha directed the Telugu film Aa Naluguru.",
+        "sourceIds": []
+      },
+      {
+        "id": "deva-katta",
+        "canonical": "Deva Katta",
+        "aliases": [
+          "Dev Katta"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deva Katta directed the Telugu film Prasthanam.",
+        "sourceIds": []
+      },
+      {
+        "id": "tharun-bhascker",
+        "canonical": "Tharun Bhascker",
+        "aliases": [
+          "Tarun Bhascker",
+          "Tharun Bhascker Dhaassyam",
+          "Tarun Bhaskar"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tharun Bhascker directed Pelli Choopulu.",
+        "sourceIds": []
+      },
+      {
+        "id": "vivek-athreya",
+        "canonical": "Vivek Athreya",
+        "aliases": [
+          "Vivek Atreya"
+        ],
+        "familiarity": 0.0105,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vivek Athreya directed Brochevarevarura.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema, often called Tollywood, has directors spanning classic filmmaking, commercial blockbusters and independent cinema.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "d07e432a42279572",
+    "brief": "Name a director who has made Telugu films.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "S. S. Rajamouli": 3,
+      "Sukumar": 3,
+      "Trivikram Srinivas": 3,
+      "Puri Jagannadh": 3,
+      "Sandeep Reddy Vanga": 3,
+      "Nag Ashwin": 3,
+      "Ram Gopal Varma": 3,
+      "S. V. Krishna Reddy": 3,
+      "K. Viswanath": 3,
+      "K. Raghavendra Rao": 3,
+      "Dasari Narayana Rao": 3,
+      "Sekhar Kammula": 3,
+      "S. S. Thaman": 2,
+      "V. V. Vinayak": 2,
+      "Srinu Vaitla": 2,
+      "Koratala Siva": 2,
+      "Krish Jagarlamudi": 3,
+      "Bapu": 3,
+      "Jandhyala": 3,
+      "Chandra Sekhar Yeleti": 3,
+      "Mohanakrishna Indraganti": 3,
+      "Chandra Siddhartha": 2,
+      "Deva Katta": 2,
+      "Tharun Bhascker": 2,
+      "Vivek Athreya": 2
+    },
+    "droppedForVotes": {
+      "Anil Ravipudi": 1,
+      "K. V. Reddy": 1,
+      "B. N. Reddy": 1,
+      "B. Narsing Rao": 1,
+      "Mani Ratnam": 1,
+      "Hanu Raghavapudi": 1,
+      "Sailesh Kolanu": 1,
+      "Singeetam Srinivasa Rao": 1,
+      "Neelakanta": 1,
+      "Praveen Sattaru": 1,
+      "Merlapaka Gandhi": 1,
+      "Satish Kasetty": 1,
+      "Nandini Reddy": 1,
+      "Vijaya Nirmala": 1,
+      "Karuna Kumar": 1,
+      "Swaroop RSJ": 1,
+      "Maha Venkatesh": 1
+    },
+    "verdicts": {
+      "S. S. Rajamouli": {
+        "verdict": "correct",
+        "reason": "Directed RRR, an originally Telugu-language feature film."
+      },
+      "Sukumar": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Pushpa: The Rise."
+      },
+      "Trivikram Srinivas": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Athadu."
+      },
+      "Puri Jagannadh": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Pokiri."
+      },
+      "Sandeep Reddy Vanga": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Arjun Reddy."
+      },
+      "Nag Ashwin": {
+        "verdict": "correct",
+        "reason": "Directed Mahanati, a feature originally made in Telugu."
+      },
+      "Ram Gopal Varma": {
+        "verdict": "correct",
+        "reason": "Directed the 1989 Telugu-language feature Shiva."
+      },
+      "S. V. Krishna Reddy": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Yamaleela."
+      },
+      "K. Viswanath": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Sankarabharanam."
+      },
+      "K. Raghavendra Rao": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Jagadeka Veerudu Athiloka Sundari."
+      },
+      "Dasari Narayana Rao": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Meghasandesam."
+      },
+      "Sekhar Kammula": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Happy Days."
+      },
+      "Krish Jagarlamudi": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Vedam."
+      },
+      "Bapu": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Mutyala Muggu."
+      },
+      "Jandhyala": {
+        "verdict": "correct",
+        "reason": "Directed the 1987 Telugu-language feature Aha Naa Pellanta!"
+      },
+      "Chandra Sekhar Yeleti": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Aithe."
+      },
+      "Mohanakrishna Indraganti": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Ashta Chamma."
+      },
+      "S. S. Thaman": {
+        "verdict": "incorrect",
+        "reason": "Known as a film composer, not a credited director of a Telugu-language feature; the proposed explanation does not supply a qualifying film."
+      },
+      "V. V. Vinayak": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Aadi."
+      },
+      "Srinu Vaitla": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Dookudu."
+      },
+      "Koratala Siva": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Srimanthudu."
+      },
+      "Chandra Siddhartha": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Aa Naluguru."
+      },
+      "Deva Katta": {
+        "verdict": "correct",
+        "reason": "Directed the 2010 Telugu-language feature Prasthanam."
+      },
+      "Tharun Bhascker": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Pelli Choopulu."
+      },
+      "Vivek Athreya": {
+        "verdict": "correct",
+        "reason": "Directed the Telugu-language feature Brochevarevarura."
+      }
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,3325 @@
+{
+  "question": {
+    "id": "tollywood-telugu-films-2024",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film released in 2024.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "sarkaaru-noukari",
+        "canonical": "Sarkaaru Noukari",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "1134",
+        "canonical": "1134",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "14-days-love",
+        "canonical": "14 Days Love",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "deenamma-jeevitham",
+        "canonical": "Deenamma Jeevitham",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "double-engine",
+        "canonical": "Double Engine",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "plantman-mokka-manishi",
+        "canonical": "Plantman: Mokka Manishi",
+        "aliases": [
+          "Plantman",
+          "Mokka Manishi"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "prema-katha",
+        "canonical": "Prema Katha",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "raghava-reddy",
+        "canonical": "Raghava Reddy",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "shaan-love-war",
+        "canonical": "Shaan (Love War)",
+        "aliases": [
+          "Shaan",
+          "Shaan Love War"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "guntur-kaaram",
+        "canonical": "Guntur Kaaram",
+        "aliases": [
+          "Guntur Karam"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "hanu-man",
+        "canonical": "Hanu-Man",
+        "aliases": [
+          "Hanu Man",
+          "Hanuman"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "saindhav",
+        "canonical": "Saindhav",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "naa-saami-ranga",
+        "canonical": "Naa Saami Ranga",
+        "aliases": [
+          "Na Sami Ranga",
+          "Naa Sami Ranga"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kotha-rangula-prapancham",
+        "canonical": "Kotha Rangula Prapancham",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "105-minuttess",
+        "canonical": "105 Minuttess",
+        "aliases": [
+          "105 Minutes"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "before-marriage",
+        "canonical": "Before Marriage",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mudo-kannu",
+        "canonical": "Mudo Kannu",
+        "aliases": [
+          "Moodo Kannu"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "premalo",
+        "canonical": "Premalo",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "prema-yuddham",
+        "canonical": "Prema Yuddham",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ram-rapid-action-mission",
+        "canonical": "RAM (Rapid Action Mission)",
+        "aliases": [
+          "RAM",
+          "Rapid Action Mission"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a January 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ambajipeta-marriage-band",
+        "canonical": "Ambajipeta Marriage Band",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bootcut-balaraju",
+        "canonical": "Bootcut Balaraju",
+        "aliases": [
+          "Boot Cut Balaraju"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "dheera",
+        "canonical": "Dheera",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "game-on",
+        "canonical": "Game On",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "happy-ending",
+        "canonical": "Happy Ending",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "i-hate-you",
+        "canonical": "I Hate You",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kismat",
+        "canonical": "Kismat",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mechanic",
+        "canonical": "Mechanic",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "yatra-2",
+        "canonical": "Yatra 2",
+        "aliases": [
+          "Yatra Two"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "eagle",
+        "canonical": "Eagle",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sheeshmahal",
+        "canonical": "Sheeshmahal",
+        "aliases": [
+          "Sheesh Mahal"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "raajadhani-files",
+        "canonical": "Raajadhani Files",
+        "aliases": [
+          "Rajadhani Files"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhamakalapam-2",
+        "canonical": "Bhamakalapam 2",
+        "aliases": [
+          "Bhama Kalapam 2"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "i-hate-love",
+        "canonical": "I Hate Love",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ooru-peru-bhairavakona",
+        "canonical": "Ooru Peru Bhairavakona",
+        "aliases": [
+          "Ooru Peru Bhairava Kona"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ground",
+        "canonical": "Ground",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "masthu-shades-unnai-raa",
+        "canonical": "Masthu Shades Unnai Raa",
+        "aliases": [
+          "Mastu Shades Unnai Ra"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mukhya-gamanika",
+        "canonical": "Mukhya Gamanika",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "premalo-iddaru",
+        "canonical": "Premalo Iddaru",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "siddharth-roy",
+        "canonical": "Siddharth Roy",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sundaram-master",
+        "canonical": "Sundaram Master",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "thappinchuku-thiruguvadu-dhanyudu-sumathi",
+        "canonical": "Thappinchuku Thiruguvadu Dhanyudu Sumathi",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a February 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhoothaddam-bhaskar-narayana",
+        "canonical": "Bhoothaddam Bhaskar Narayana",
+        "aliases": [
+          "Bhoothaddam Bhaskara Narayana"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "chaari-111",
+        "canonical": "Chaari 111",
+        "aliases": [
+          "Chari 111"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "inti-no-13",
+        "canonical": "Inti No. 13",
+        "aliases": [
+          "Inti No 13",
+          "Inti Number 13"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "maa-oori-raja-reddy",
+        "canonical": "Maa Oori Raja Reddy",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "operation-valentine",
+        "canonical": "Operation Valentine",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "radha-madhavam",
+        "canonical": "Radha Madhavam",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "s-99",
+        "canonical": "S-99",
+        "aliases": [
+          "S99"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "vyuham",
+        "canonical": "Vyuham",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "valari",
+        "canonical": "Valari",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "babu-no-1-bullshit-guy",
+        "canonical": "Babu No.1 Bullshit Guy",
+        "aliases": [
+          "Babu No 1 Bullshit Guy",
+          "Babu"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhimaa",
+        "canonical": "Bhimaa",
+        "aliases": [
+          "Bhima"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bullet",
+        "canonical": "Bullet",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gaami",
+        "canonical": "Gaami",
+        "aliases": [
+          "Gami"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "record-break",
+        "canonical": "Record Break",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "shapatham",
+        "canonical": "Shapatham",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "we-love-bad-boys",
+        "canonical": "We Love Bad Boys",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "raju-gari-ammayi-naidu-gari-abbayi",
+        "canonical": "Raju Gari Ammayi Naidu Gari Abbayi",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "faction-leni-seema-katha",
+        "canonical": "Faction Leni Seema Katha",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "lambasingi-a-pure-love-story",
+        "canonical": "Lambasingi – A Pure Love Story",
+        "aliases": [
+          "Lambasingi",
+          "Lambasingi A Pure Love Story"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "maya",
+        "canonical": "Maya",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mix-up",
+        "canonical": "Mix Up",
+        "aliases": [
+          "Mixup"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ravikula-raghurama",
+        "canonical": "Ravikula Raghurama",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "razakar",
+        "canonical": "Razakar",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sharathulu-varthisthai",
+        "canonical": "Sharathulu Varthisthai",
+        "aliases": [
+          "Sharathulu Varthisthayi"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "tantra",
+        "canonical": "Tantra",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "vey-dharuvey",
+        "canonical": "Vey Dharuvey",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "haddhu-ledhu-raa",
+        "canonical": "Haddhu Ledhu Raa",
+        "aliases": [
+          "Haddu Leddu Raa"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ananya",
+        "canonical": "Ananya",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "lineman",
+        "canonical": "Lineman",
+        "aliases": [
+          "Line Man"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "om-bheem-bush",
+        "canonical": "Om Bheem Bush",
+        "aliases": [
+          "Om Bhim Bush"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "vande-bharat-save-india",
+        "canonical": "Vande Bharat Save India",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "agricos",
+        "canonical": "Agricos",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kaliyugam-pattanamlo",
+        "canonical": "Kaliyugam Pattanamlo",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "thalakona",
+        "canonical": "Thalakona",
+        "aliases": [
+          "Talakona"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "tillu-square",
+        "canonical": "Tillu Square",
+        "aliases": [
+          "Tillu 2"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a March 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bahumukham",
+        "canonical": "Bahumukham",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bharathanatyam",
+        "canonical": "Bharathanatyam",
+        "aliases": [
+          "Bharatanatyam"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "the-family-star",
+        "canonical": "The Family Star",
+        "aliases": [
+          "Family Star"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "geethanjali-malli-vachindi",
+        "canonical": "Geethanjali Malli Vachindi",
+        "aliases": [
+          "Geethanjali 2"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sriranga-neethulu",
+        "canonical": "Sriranga Neethulu",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mercy-killing",
+        "canonical": "Mercy Killing",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "roudra-roopaya-namaha",
+        "canonical": "Roudra Roopaya Namaha",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "tenant",
+        "canonical": "Tenant",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "market-mahalakshmi",
+        "canonical": "Market Mahalakshmi",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "my-dear-donga",
+        "canonical": "My Dear Donga",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "paarijatha-parvam",
+        "canonical": "Paarijatha Parvam",
+        "aliases": [
+          "Parijatha Parvam"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sharapanjaram",
+        "canonical": "Sharapanjaram",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "theppa-samudram",
+        "canonical": "Theppa Samudram",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "konchem-hatke",
+        "canonical": "Konchem Hatke",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "malle-mogga",
+        "canonical": "Malle Mogga",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "rudrakshapuram",
+        "canonical": "Rudrakshapuram",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an April 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "aa-okkati-adakku",
+        "canonical": "Aa Okkati Adakku",
+        "aliases": [
+          "Aa Okkati Adagaku"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "prasanna-vadanam",
+        "canonical": "Prasanna Vadanam",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sabari",
+        "canonical": "Sabari",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "the-indian-story",
+        "canonical": "The Indian Story",
+        "aliases": [
+          "Indian Story"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "aarambham",
+        "canonical": "Aarambham",
+        "aliases": [
+          "Arambham"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "brahmachari",
+        "canonical": "Brahmachari",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "krishnamma",
+        "canonical": "Krishnamma",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "laxmi-kataksham",
+        "canonical": "Laxmi Kataksham",
+        "aliases": [
+          "Lakshmi Kataksham"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "prathinidhi-2",
+        "canonical": "Prathinidhi 2",
+        "aliases": [
+          "Pratinidhi 2"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "akkada-varu-ikkada-unnaru",
+        "canonical": "Akkada Varu Ikkada Unnaru",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "darshini",
+        "canonical": "Darshini",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "nata-ratnalu",
+        "canonical": "Nata Ratnalu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "vidya-vasula-aham",
+        "canonical": "Vidya Vasula Aham",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "big-brother",
+        "canonical": "Big Brother",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "c-d-criminal-or-devil",
+        "canonical": "C.D (Criminal or Devil)",
+        "aliases": [
+          "CD",
+          "C.D.",
+          "Criminal or Devil"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "dirty-fellow",
+        "canonical": "Dirty Fellow",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "raju-yadav",
+        "canonical": "Raju Yadav",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "silk-saree",
+        "canonical": "Silk Saree",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "van",
+        "canonical": "Van",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "love-me",
+        "canonical": "Love Me",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhaje-vaayu-vegam",
+        "canonical": "Bhaje Vaayu Vegam",
+        "aliases": [
+          "Bhaje Vayu Vegam"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gam-gam-ganesha",
+        "canonical": "Gam Gam Ganesha",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gangs-of-godavari",
+        "canonical": "Gangs of Godavari",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a May 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gold-number-1",
+        "canonical": "Gold Number 1",
+        "aliases": [
+          "Gold No 1"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "manamey",
+        "canonical": "Manamey",
+        "aliases": [
+          "Maname"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "namo",
+        "canonical": "Namo",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "oc",
+        "canonical": "OC",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "preminchoddu",
+        "canonical": "Preminchoddu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "rakshana",
+        "canonical": "Rakshana",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "satyabhama",
+        "canonical": "Satyabhama",
+        "aliases": [
+          "Sathyabhama"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "tom-and-jerry",
+        "canonical": "Tom and Jerry",
+        "aliases": [
+          "Tom & Jerry"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "rush",
+        "canonical": "Rush",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "dear-nanna",
+        "canonical": "Dear Nanna",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "harom-hara",
+        "canonical": "Harom Hara",
+        "aliases": [
+          "Haromhara"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "indrani",
+        "canonical": "Indrani",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "music-shop-murthy",
+        "canonical": "Music Shop Murthy",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "nee-dhaarey-nee-katha",
+        "canonical": "Nee Dhaarey Nee Katha",
+        "aliases": [
+          "Nee Dhaare Nee Katha"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "yevam",
+        "canonical": "Yevam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "anthima-theerpu",
+        "canonical": "Anthima Theerpu",
+        "aliases": [
+          "Antima Teerpu"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "honeymoon-express",
+        "canonical": "Honeymoon Express",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "itlu-mee-cinema",
+        "canonical": "Itlu...Mee Cinema",
+        "aliases": [
+          "Itlu Mee Cinema"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "nindha",
+        "canonical": "Nindha",
+        "aliases": [
+          "Ninda"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "omg-o-manchi-ghost",
+        "canonical": "OMG: O Manchi Ghost",
+        "aliases": [
+          "OMG",
+          "O Manchi Ghost"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "padmavyuham-lo-chakradhaari",
+        "canonical": "Padmavyuham lo Chakradhaari",
+        "aliases": [
+          "Padmavyuhamlo Chakradhari"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "prabhutva-juniour-kalasala",
+        "canonical": "Prabhutva Juniour Kalasala",
+        "aliases": [
+          "Prabhutva Junior Kalasala"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "seetha-kalyana-vaibhogame",
+        "canonical": "Seetha Kalyana Vaibhogame",
+        "aliases": [
+          "Sita Kalyana Vaibhogame"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sandeham",
+        "canonical": "Sandeham",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki",
+          "Kalki 2898 A.D.",
+          "Kalki 2898"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "aham-reboot",
+        "canonical": "Aham Reboot",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a June 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "14",
+        "canonical": "14",
+        "aliases": [
+          "Fourteen"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "love-mouli",
+        "canonical": "Love Mouli",
+        "aliases": [
+          "Love Mowli"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sarangadhariya",
+        "canonical": "Sarangadhariya",
+        "aliases": [
+          "Sarangadharia"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "crime-reel",
+        "canonical": "Crime Reel",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "darling",
+        "canonical": "Darling",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "just-a-minute",
+        "canonical": "Just a Minute",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "pekamedalu",
+        "canonical": "Pekamedalu",
+        "aliases": [
+          "Peka Medalu"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "the-birthday-boy",
+        "canonical": "The Birthday Boy",
+        "aliases": [
+          "Birthday Boy"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "operation-raavan",
+        "canonical": "Operation Raavan",
+        "aliases": [
+          "Operation Ravan"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "purushothamudu",
+        "canonical": "Purushothamudu",
+        "aliases": [
+          "Purushottamudu"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ram-nri",
+        "canonical": "Ram NRI",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a July 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "shivam-bhaje",
+        "canonical": "Shivam Bhaje",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "alanaati-ramchandrudu",
+        "canonical": "Alanaati Ramchandrudu",
+        "aliases": [
+          "Alanati Ramachandrudu"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "average-student-nani",
+        "canonical": "Average Student Nani",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "buddy",
+        "canonical": "Buddy",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "lorry-chapter-1",
+        "canonical": "Lorry Chapter – 1",
+        "aliases": [
+          "Lorry Chapter 1",
+          "Lorry"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "tiragabadara-saami",
+        "canonical": "Tiragabadara Saami",
+        "aliases": [
+          "Tiragabadara Sami"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "usha-parinayam",
+        "canonical": "Usha Parinayam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "viraaji",
+        "canonical": "Viraaji",
+        "aliases": [
+          "Viraji"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhavanam",
+        "canonical": "Bhavanam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "case-no-15",
+        "canonical": "Case No. 15",
+        "aliases": [
+          "Case No 15",
+          "Case Number 15"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "committee-kurrollu",
+        "canonical": "Committee Kurrollu",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "land-mafia",
+        "canonical": "Land Mafia",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "paagal-vs-kadal",
+        "canonical": "Paagal vs Kadal",
+        "aliases": [
+          "Paagal Vs Kadhal"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "sangharshana",
+        "canonical": "Sangharshana",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "simbaa",
+        "canonical": "Simbaa",
+        "aliases": [
+          "Simba"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "veeranjaneyulu-viharayatra",
+        "canonical": "Veeranjaneyulu Viharayatra",
+        "aliases": [
+          "Veeranjaneyulu Vihara Yatra"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "double-ismart",
+        "canonical": "Double iSmart",
+        "aliases": [
+          "Double Ismart",
+          "Double Smart"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "evol",
+        "canonical": "EVOL",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mr-bachchan",
+        "canonical": "Mr. Bachchan",
+        "aliases": [
+          "Mr Bachchan",
+          "Mister Bachchan"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "aay",
+        "canonical": "Aay",
+        "aliases": [
+          "AAY"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "parakramam",
+        "canonical": "Parakramam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "brahmmavaram-p-s-paridhilo",
+        "canonical": "Brahmmavaram P.S. Paridhilo",
+        "aliases": [
+          "Brahmavaram PS Paridhilo"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "maruthi-nagar-subramanyam",
+        "canonical": "Maruthi Nagar Subramanyam",
+        "aliases": [
+          "Maruti Nagar Subramanyam"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "revu",
+        "canonical": "Revu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "r-k-puramlo",
+        "canonical": "R. K. Puramlo?",
+        "aliases": [
+          "RK Puramlo",
+          "R K Puramlo"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "wedding-diaries",
+        "canonical": "Wedding Diaries",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "yagna",
+        "canonical": "Yagna",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "saripodhaa-sanivaaram",
+        "canonical": "Saripodhaa Sanivaaram",
+        "aliases": [
+          "Saripodha Sanivaram",
+          "Saripodhaa Sanivaram"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kaalam-raasina-kathalu",
+        "canonical": "Kaalam Raasina Kathalu",
+        "aliases": [
+          "Kalam Rasina Kathalu"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "aho-vikramaarka",
+        "canonical": "Aho Vikramaarka",
+        "aliases": [
+          "Aho Vikramarka"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kaveri",
+        "canonical": "Kaveri",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "nenu-keerthana",
+        "canonical": "Nenu-Keerthana",
+        "aliases": [
+          "Nenu Keerthana"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "seetharam-sitralu",
+        "canonical": "Seetharam Sitralu",
+        "aliases": [
+          "Seetaram Sitralu"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "si-kodandapani",
+        "canonical": "SI Kodandapani",
+        "aliases": [
+          "S.I. Kodandapani"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an August 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "35-chinna-katha-kaadu",
+        "canonical": "35 Chinna Katha Kaadu",
+        "aliases": [
+          "35",
+          "35 Chinna Katha Kadu"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "speed-220",
+        "canonical": "Speed 220",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "uruku-patela",
+        "canonical": "Uruku Patela",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bhale-unnade",
+        "canonical": "Bhale Unnade",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kalinga",
+        "canonical": "Kalinga",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mathu-vadalara-2",
+        "canonical": "Mathu Vadalara 2",
+        "aliases": [
+          "Mathu Vadalara Two"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "utsavam",
+        "canonical": "Utsavam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "lifestories",
+        "canonical": "LifeStories",
+        "aliases": [
+          "Life Stories"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "100-crores",
+        "canonical": "100 Crores",
+        "aliases": [
+          "Hundred Crores"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gorre-puranam",
+        "canonical": "Gorre Puranam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "hide-n-seek",
+        "canonical": "Hide N Seek",
+        "aliases": [
+          "Hide and Seek",
+          "Hide & Seek"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "manyam-dheerudu",
+        "canonical": "Manyam Dheerudu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "pailam-pilaga",
+        "canonical": "Pailam Pilaga",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "devara-part-1",
+        "canonical": "Devara: Part 1",
+        "aliases": [
+          "Devara",
+          "Devara Part 1",
+          "Devara 1"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a September 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "chitti-potti",
+        "canonical": "Chitti Potti",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bahirbhoomi",
+        "canonical": "Bahirbhoomi",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "balu-gani-talkies",
+        "canonical": "Balu Gani Talkies",
+        "aliases": [
+          "Balugani Talkies"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "dhakshina",
+        "canonical": "Dhakshina",
+        "aliases": [
+          "Dakshina"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kali",
+        "canonical": "Kali",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mr-celebrity",
+        "canonical": "Mr. Celebrity",
+        "aliases": [
+          "Mr Celebrity",
+          "Mister Celebrity"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ramnagar-bunny",
+        "canonical": "Ramnagar Bunny",
+        "aliases": [
+          "Ram Nagar Bunny"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "swag",
+        "canonical": "Swag",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "maa-nanna-superhero",
+        "canonical": "Maa Nanna Superhero",
+        "aliases": [
+          "Ma Nanna Superhero"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "viswam",
+        "canonical": "Viswam",
+        "aliases": [
+          "Vishwam"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "janaka-aithe-ganaka",
+        "canonical": "Janaka Aithe Ganaka",
+        "aliases": [
+          "Janaka Aithe Ganuka"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "1980-lo-radhekrishna",
+        "canonical": "1980 Lo Radhekrishna",
+        "aliases": [
+          "1980 Lo Radhe Krishna"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kallu-compound-1995",
+        "canonical": "Kallu Compound 1995",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "love-reddy",
+        "canonical": "Love Reddy",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "rewind",
+        "canonical": "Rewind",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "the-deal",
+        "canonical": "The Deal",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "veekshanam",
+        "canonical": "Veekshanam",
+        "aliases": [
+          "Vikshanam"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "c202",
+        "canonical": "C202",
+        "aliases": [
+          "C 202"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "gangster",
+        "canonical": "Gangster",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "laggam",
+        "canonical": "Laggam",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "narudi-brathuku-natana",
+        "canonical": "Narudi Brathuku Natana",
+        "aliases": [
+          "Narudi Bratuku Natana"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "pottel",
+        "canonical": "Pottel",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "samudrudu",
+        "canonical": "Samudrudu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "yentha-panichesav-chanti",
+        "canonical": "Yentha Panichesav Chanti",
+        "aliases": [
+          "Entha Panichesav Chanti"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ka",
+        "canonical": "KA",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "lucky-baskhar",
+        "canonical": "Lucky Baskhar",
+        "aliases": [
+          "Lucky Bhaskar",
+          "Lucky Baskar"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an October 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "appudo-ippudo-eppudo",
+        "canonical": "Appudo Ippudo Eppudo",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "dhoom-dhaam",
+        "canonical": "Dhoom Dhaam",
+        "aliases": [
+          "Dhoom Dham"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "ee-saraina",
+        "canonical": "Ee Saraina",
+        "aliases": [
+          "Ee Saaraina"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "jathara",
+        "canonical": "Jathara",
+        "aliases": [
+          "Jatara"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "jewel-thief",
+        "canonical": "Jewel Thief",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "jithender-reddy",
+        "canonical": "Jithender Reddy",
+        "aliases": [
+          "Jitender Reddy"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "rahasyam-idam-jagath",
+        "canonical": "Rahasyam Idam Jagath",
+        "aliases": [
+          "Rahasyam Idam Jagat"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "the-shortcut",
+        "canonical": "The Shortcut",
+        "aliases": [
+          "Shortcut"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "vanchana",
+        "canonical": "Vanchana",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "matka",
+        "canonical": "Matka",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "cinema-pichodu",
+        "canonical": "Cinema Pichodu",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "devaki-nandana-vasudeva",
+        "canonical": "Devaki Nandana Vasudeva",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kalama-e-kannillenduke",
+        "canonical": "Kalama E Kannillenduke",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "kanakamahalakshmi",
+        "canonical": "Kanakamahalakshmi",
+        "aliases": [
+          "Kanaka Mahalakshmi"
+        ],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "keshava-chandra-ramavath",
+        "canonical": "Keshava Chandra Ramavath",
+        "aliases": [
+          "KCR"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "mechanic-rocky",
+        "canonical": "Mechanic Rocky",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "zebra",
+        "canonical": "Zebra",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "roti-kapda-romance",
+        "canonical": "Roti Kapda Romance",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a November 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule",
+          "Pushpa 2 The Rule"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "pranaya-godari",
+        "canonical": "Pranaya Godari",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "fear",
+        "canonical": "Fear",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "samidha",
+        "canonical": "Samidha",
+        "aliases": [],
+        "familiarity": 0.0008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "leela-vinodham",
+        "canonical": "Leela Vinodham",
+        "aliases": [
+          "Leela Vinodam"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "bachchala-malli",
+        "canonical": "Bachchala Malli",
+        "aliases": [
+          "Bachala Malli"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "srikakulam-sherlock-holmes",
+        "canonical": "Srikakulam Sherlock Holmes",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      },
+      {
+        "id": "drinker-sai",
+        "canonical": "Drinker Sai",
+        "aliases": [],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a December 2024 Telugu release.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2024"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied list of Telugu films released in 2024, which includes theatrical and streaming releases throughout the year.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2024",
+        "title": "List of Telugu films of 2024",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2024",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "c26396dae647294b",
+    "brief": "Name a Telugu film released in 2024.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2024",
+        "version": "1382215507",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Sarkaaru Noukari": "J A N U A R Y | 1 | Sarkaaru Noukari",
+      "1134": "J A N U A R Y | 5 | 1134",
+      "14 Days Love": "J A N U A R Y | 5 | 14 Days Love",
+      "Deenamma Jeevitham": "J A N U A R Y | 5 | Deenamma Jeevitham",
+      "Double Engine": "J A N U A R Y | 5 | Double Engine",
+      "Plantman: Mokka Manishi": "J A N U A R Y | 5 | Plantman: Mokka Manishi",
+      "Prema Katha": "J A N U A R Y | 5 | Prema Katha",
+      "Raghava Reddy": "J A N U A R Y | 5 | Raghava Reddy",
+      "Shaan (Love War)": "J A N U A R Y | 5 | Shaan (Love War)",
+      "Guntur Kaaram": "J A N U A R Y | 12 | Guntur Kaaram",
+      "Hanu-Man": "J A N U A R Y | 12 | Hanu-Man",
+      "Saindhav": "J A N U A R Y | 13 | Saindhav",
+      "Naa Saami Ranga": "J A N U A R Y | 14 | Naa Saami Ranga",
+      "Kotha Rangula Prapancham": "J A N U A R Y | 20 | Kotha Rangula Prapancham",
+      "105 Minuttess": "J A N U A R Y | 26 | 105 Minuttess",
+      "Before Marriage": "J A N U A R Y | 26 | Before Marriage",
+      "Mudo Kannu": "J A N U A R Y | 26 | Mudo Kannu",
+      "Premalo": "J A N U A R Y | 26 | Premalo",
+      "Prema Yuddham": "J A N U A R Y | 26 | Prema Yuddham",
+      "RAM (Rapid Action Mission)": "J A N U A R Y | 26 | RAM (Rapid Action Mission)",
+      "Ambajipeta Marriage Band": "F E B R U A R Y | 2 | Ambajipeta Marriage Band",
+      "Bootcut Balaraju": "F E B R U A R Y | 2 | Bootcut Balaraju",
+      "Dheera": "F E B R U A R Y | 2 | Dheera",
+      "Game On": "F E B R U A R Y | 2 | Game On",
+      "Happy Ending": "F E B R U A R Y | 2 | Happy Ending",
+      "I Hate You": "F E B R U A R Y | 2 | I Hate You",
+      "Kismat": "F E B R U A R Y | 2 | Kismat",
+      "Mechanic": "F E B R U A R Y | 2 | Mechanic",
+      "Yatra 2": "F E B R U A R Y | 8 | Yatra 2",
+      "Eagle": "F E B R U A R Y | 9 | Eagle",
+      "Sheeshmahal": "F E B R U A R Y | 14 | Sheeshmahal",
+      "Raajadhani Files": "F E B R U A R Y | 15 | Raajadhani Files",
+      "Bhamakalapam 2": "F E B R U A R Y | 16 | Bhamakalapam 2",
+      "I Hate Love": "F E B R U A R Y | 16 | I Hate Love",
+      "Ooru Peru Bhairavakona": "F E B R U A R Y | 16 | Ooru Peru Bhairavakona",
+      "Ground": "F E B R U A R Y | 23 | Ground",
+      "Masthu Shades Unnai Raa": "F E B R U A R Y | 23 | Masthu Shades Unnai Raa",
+      "Mukhya Gamanika": "F E B R U A R Y | 23 | Mukhya Gamanika",
+      "Premalo Iddaru": "F E B R U A R Y | 23 | Premalo Iddaru",
+      "Siddharth Roy": "F E B R U A R Y | 23 | Siddharth Roy",
+      "Sundaram Master": "F E B R U A R Y | 23 | Sundaram Master",
+      "Thappinchuku Thiruguvadu Dhanyudu Sumathi": "F E B R U A R Y | 23 | Thappinchuku Thiruguvadu Dhanyudu Sumathi",
+      "Bhoothaddam Bhaskar Narayana": "M A R C H | 1 | Bhoothaddam Bhaskar Narayana",
+      "Chaari 111": "M A R C H | 1 | Chaari 111",
+      "Inti No. 13": "M A R C H | 1 | Inti No. 13",
+      "Maa Oori Raja Reddy": "M A R C H | 1 | Maa Oori Raja Reddy",
+      "Operation Valentine": "M A R C H | 1 | Operation Valentine",
+      "Radha Madhavam": "M A R C H | 1 | Radha Madhavam",
+      "S-99": "M A R C H | 1 | S-99",
+      "Vyuham": "M A R C H | 1 | Vyuham",
+      "Valari": "M A R C H | 6 | Valari",
+      "Babu No.1 Bullshit Guy": "M A R C H | 8 | Babu No.1 Bullshit Guy",
+      "Bhimaa": "M A R C H | 8 | Bhimaa",
+      "Bullet": "M A R C H | 8 | Bullet",
+      "Gaami": "M A R C H | 8 | Gaami",
+      "Record Break": "M A R C H | 8 | Record Break",
+      "Shapatham": "M A R C H | 8 | Shapatham",
+      "We Love Bad Boys": "M A R C H | 8 | We Love Bad Boys",
+      "Raju Gari Ammayi Naidu Gari Abbayi": "M A R C H | 9 | Raju Gari Ammayi Naidu Gari Abbayi",
+      "Faction Leni Seema Katha": "M A R C H | 15 | Faction Leni Seema Katha",
+      "Lambasingi – A Pure Love Story": "M A R C H | 15 | Lambasingi – A Pure Love Story",
+      "Maya": "M A R C H | 15 | Maya",
+      "Mix Up": "M A R C H | 15 | Mix Up",
+      "Ravikula Raghurama": "M A R C H | 15 | Ravikula Raghurama",
+      "Razakar": "M A R C H | 15 | Razakar",
+      "Sharathulu Varthisthai": "M A R C H | 15 | Sharathulu Varthisthai",
+      "Tantra": "M A R C H | 15 | Tantra",
+      "Vey Dharuvey": "M A R C H | 15 | Vey Dharuvey",
+      "Haddhu Ledhu Raa": "M A R C H | 21 | Haddhu Ledhu Raa",
+      "Ananya": "M A R C H | 22 | Ananya",
+      "Lineman": "M A R C H | 22 | Lineman",
+      "Om Bheem Bush": "M A R C H | 22 | Om Bheem Bush",
+      "Vande Bharat Save India": "M A R C H | 22 | Vande Bharat Save India",
+      "Agricos": "M A R C H | 29 | Agricos",
+      "Kaliyugam Pattanamlo": "M A R C H | 29 | Kaliyugam Pattanamlo",
+      "Thalakona": "M A R C H | 29 | Thalakona",
+      "Tillu Square": "M A R C H | 29 | Tillu Square",
+      "Bahumukham": "A P R I L | 5 | Bahumukham",
+      "Bharathanatyam": "A P R I L | 5 | Bharathanatyam",
+      "The Family Star": "A P R I L | 5 | The Family Star",
+      "Geethanjali Malli Vachindi": "A P R I L | 11 | Geethanjali Malli Vachindi",
+      "Sriranga Neethulu": "A P R I L | 11 | Sriranga Neethulu",
+      "Mercy Killing": "A P R I L | 12 | Mercy Killing",
+      "Roudra Roopaya Namaha": "A P R I L | 12 | Roudra Roopaya Namaha",
+      "Tenant": "A P R I L | 18 | Tenant",
+      "Market Mahalakshmi": "A P R I L | 19 | Market Mahalakshmi",
+      "My Dear Donga": "A P R I L | 19 | My Dear Donga",
+      "Paarijatha Parvam": "A P R I L | 19 | Paarijatha Parvam",
+      "Sharapanjaram": "A P R I L | 19 | Sharapanjaram",
+      "Theppa Samudram": "A P R I L | 19 | Theppa Samudram",
+      "Konchem Hatke": "A P R I L | 26 | Konchem Hatke",
+      "Malle Mogga": "A P R I L | 26 | Malle Mogga",
+      "Rudrakshapuram": "A P R I L | 26 | Rudrakshapuram",
+      "Aa Okkati Adakku": "M A Y | 3 | Aa Okkati Adakku",
+      "Prasanna Vadanam": "M A Y | 3 | Prasanna Vadanam",
+      "Sabari": "M A Y | 3 | Sabari",
+      "The Indian Story": "M A Y | 3 | The Indian Story",
+      "Aarambham": "M A Y | 10 | Aarambham",
+      "Brahmachari": "M A Y | 10 | Brahmachari",
+      "Krishnamma": "M A Y | 10 | Krishnamma",
+      "Laxmi Kataksham": "M A Y | 10 | Laxmi Kataksham",
+      "Prathinidhi 2": "M A Y | 10 | Prathinidhi 2",
+      "Akkada Varu Ikkada Unnaru": "M A Y | 17 | Akkada Varu Ikkada Unnaru",
+      "Darshini": "M A Y | 17 | Darshini",
+      "Nata Ratnalu": "M A Y | 17 | Nata Ratnalu",
+      "Vidya Vasula Aham": "M A Y | 17 | Vidya Vasula Aham",
+      "Big Brother": "M A Y | 24 | Big Brother",
+      "C.D (Criminal or Devil)": "M A Y | 24 | C.D (Criminal or Devil)",
+      "Dirty Fellow": "M A Y | 24 | Dirty Fellow",
+      "Raju Yadav": "M A Y | 24 | Raju Yadav",
+      "Silk Saree": "M A Y | 24 | Silk Saree",
+      "Van": "M A Y | 24 | Van",
+      "Love Me": "M A Y | 25 | Love Me",
+      "Bhaje Vaayu Vegam": "M A Y | 31 | Bhaje Vaayu Vegam",
+      "Gam Gam Ganesha": "M A Y | 31 | Gam Gam Ganesha",
+      "Gangs of Godavari": "M A Y | 31 | Gangs of Godavari",
+      "Gold Number 1": "J U N E | 7 | Gold Number 1",
+      "Manamey": "J U N E | 7 | Manamey",
+      "Namo": "J U N E | 7 | Namo",
+      "OC": "J U N E | 7 | OC",
+      "Preminchoddu": "J U N E | 7 | Preminchoddu",
+      "Rakshana": "J U N E | 7 | Rakshana",
+      "Satyabhama": "J U N E | 7 | Satyabhama",
+      "Tom and Jerry": "J U N E | 8 | Tom and Jerry",
+      "Rush": "J U N E | 13 | Rush",
+      "Dear Nanna": "J U N E | 14 | Dear Nanna",
+      "Harom Hara": "J U N E | 14 | Harom Hara",
+      "Indrani": "J U N E | 14 | Indrani",
+      "Music Shop Murthy": "J U N E | 14 | Music Shop Murthy",
+      "Nee Dhaarey Nee Katha": "J U N E | 14 | Nee Dhaarey Nee Katha",
+      "Yevam": "J U N E | 14 | Yevam",
+      "Anthima Theerpu": "J U N E | 21 | Anthima Theerpu",
+      "Honeymoon Express": "J U N E | 21 | Honeymoon Express",
+      "Itlu...Mee Cinema": "J U N E | 21 | Itlu...Mee Cinema",
+      "Nindha": "J U N E | 21 | Nindha",
+      "OMG: O Manchi Ghost": "J U N E | 21 | OMG: O Manchi Ghost",
+      "Padmavyuham lo Chakradhaari": "J U N E | 21 | Padmavyuham lo Chakradhaari",
+      "Prabhutva Juniour Kalasala": "J U N E | 21 | Prabhutva Juniour Kalasala",
+      "Seetha Kalyana Vaibhogame": "J U N E | 21 | Seetha Kalyana Vaibhogame",
+      "Sandeham": "J U N E | 22 | Sandeham",
+      "Kalki 2898 AD": "J U N E | 27 | Kalki 2898 AD",
+      "Aham Reboot": "J U N E | 30 | Aham Reboot",
+      "14": "J U L Y | 5 | 14",
+      "Love Mouli": "J U L Y | 7 | Love Mouli",
+      "Sarangadhariya": "J U L Y | 12 | Sarangadhariya",
+      "Crime Reel": "J U L Y | 19 | Crime Reel",
+      "Darling": "J U L Y | 19 | Darling",
+      "Just a Minute": "J U L Y | 19 | Just a Minute",
+      "Pekamedalu": "J U L Y | 19 | Pekamedalu",
+      "The Birthday Boy": "J U L Y | 19 | The Birthday Boy",
+      "Operation Raavan": "J U L Y | 26 | Operation Raavan",
+      "Purushothamudu": "J U L Y | 26 | Purushothamudu",
+      "Ram NRI": "J U L Y | 26 | Ram NRI",
+      "Shivam Bhaje": "A U G U S T | 1 | Shivam Bhaje",
+      "Alanaati Ramchandrudu": "A U G U S T | 2 | Alanaati Ramchandrudu",
+      "Average Student Nani": "A U G U S T | 2 | Average Student Nani",
+      "Buddy": "A U G U S T | 2 | Buddy",
+      "Lorry Chapter – 1": "A U G U S T | 2 | Lorry Chapter – 1",
+      "Tiragabadara Saami": "A U G U S T | 2 | Tiragabadara Saami",
+      "Usha Parinayam": "A U G U S T | 2 | Usha Parinayam",
+      "Viraaji": "A U G U S T | 2 | Viraaji",
+      "Bhavanam": "A U G U S T | 9 | Bhavanam",
+      "Case No. 15": "A U G U S T | 9 | Case No. 15",
+      "Committee Kurrollu": "A U G U S T | 9 | Committee Kurrollu",
+      "Land Mafia": "A U G U S T | 9 | Land Mafia",
+      "Paagal vs Kadal": "A U G U S T | 9 | Paagal vs Kadal",
+      "Sangharshana": "A U G U S T | 9 | Sangharshana",
+      "Simbaa": "A U G U S T | 9 | Simbaa",
+      "Veeranjaneyulu Viharayatra": "A U G U S T | 14 | Veeranjaneyulu Viharayatra",
+      "Double iSmart": "A U G U S T | 15 | Double iSmart",
+      "EVOL": "A U G U S T | 15 | EVOL",
+      "Mr. Bachchan": "A U G U S T | 15 | Mr. Bachchan",
+      "Aay": "A U G U S T | 16 | Aay",
+      "Parakramam": "A U G U S T | 22 | Parakramam",
+      "Brahmmavaram P.S. Paridhilo": "A U G U S T | 23 | Brahmmavaram P.S. Paridhilo",
+      "Maruthi Nagar Subramanyam": "A U G U S T | 23 | Maruthi Nagar Subramanyam",
+      "Revu": "A U G U S T | 23 | Revu",
+      "R. K. Puramlo?": "A U G U S T | 23 | R. K. Puramlo?",
+      "Wedding Diaries": "A U G U S T | 23 | Wedding Diaries",
+      "Yagna": "A U G U S T | 23 | Yagna",
+      "Saripodhaa Sanivaaram": "A U G U S T | 29 | Saripodhaa Sanivaaram",
+      "Kaalam Raasina Kathalu": "A U G U S T | 29 | Kaalam Raasina Kathalu",
+      "Aho Vikramaarka": "A U G U S T | 30 | Aho Vikramaarka",
+      "Kaveri": "A U G U S T | 30 | Kaveri",
+      "Nenu-Keerthana": "A U G U S T | 30 | Nenu-Keerthana",
+      "Seetharam Sitralu": "A U G U S T | 30 | Seetharam Sitralu",
+      "SI Kodandapani": "A U G U S T | 30 | SI Kodandapani",
+      "35 Chinna Katha Kaadu": "S E P T E M B E R | 6 | 35 Chinna Katha Kaadu",
+      "Speed 220": "S E P T E M B E R | 6 | Speed 220",
+      "Uruku Patela": "S E P T E M B E R | 7 | Uruku Patela",
+      "Bhale Unnade": "S E P T E M B E R | 13 | Bhale Unnade",
+      "Kalinga": "S E P T E M B E R | 13 | Kalinga",
+      "Mathu Vadalara 2": "S E P T E M B E R | 13 | Mathu Vadalara 2",
+      "Utsavam": "S E P T E M B E R | 13 | Utsavam",
+      "LifeStories": "S E P T E M B E R | 14 | LifeStories",
+      "100 Crores": "S E P T E M B E R | 20 | 100 Crores",
+      "Gorre Puranam": "S E P T E M B E R | 20 | Gorre Puranam",
+      "Hide N Seek": "S E P T E M B E R | 20 | Hide N Seek",
+      "Manyam Dheerudu": "S E P T E M B E R | 20 | Manyam Dheerudu",
+      "Pailam Pilaga": "S E P T E M B E R | 20 | Pailam Pilaga",
+      "Devara: Part 1": "S E P T E M B E R | 27 | Devara: Part 1",
+      "Chitti Potti": "O C T O B E R | 3 | Chitti Potti",
+      "Bahirbhoomi": "O C T O B E R | 4 | Bahirbhoomi",
+      "Balu Gani Talkies": "O C T O B E R | 4 | Balu Gani Talkies",
+      "Dhakshina": "O C T O B E R | 4 | Dhakshina",
+      "Kali": "O C T O B E R | 4 | Kali",
+      "Mr. Celebrity": "O C T O B E R | 4 | Mr. Celebrity",
+      "Ramnagar Bunny": "O C T O B E R | 4 | Ramnagar Bunny",
+      "Swag": "O C T O B E R | 4 | Swag",
+      "Maa Nanna Superhero": "O C T O B E R | 11 | Maa Nanna Superhero",
+      "Viswam": "O C T O B E R | 11 | Viswam",
+      "Janaka Aithe Ganaka": "O C T O B E R | 12 | Janaka Aithe Ganaka",
+      "1980 Lo Radhekrishna": "O C T O B E R | 18 | 1980 Lo Radhekrishna",
+      "Kallu Compound 1995": "O C T O B E R | 18 | Kallu Compound 1995",
+      "Love Reddy": "O C T O B E R | 18 | Love Reddy",
+      "Rewind": "O C T O B E R | 18 | Rewind",
+      "The Deal": "O C T O B E R | 18 | The Deal",
+      "Veekshanam": "O C T O B E R | 18 | Veekshanam",
+      "C202": "O C T O B E R | 25 | C202",
+      "Gangster": "O C T O B E R | 25 | Gangster",
+      "Laggam": "O C T O B E R | 25 | Laggam",
+      "Narudi Brathuku Natana": "O C T O B E R | 25 | Narudi Brathuku Natana",
+      "Pottel": "O C T O B E R | 25 | Pottel",
+      "Samudrudu": "O C T O B E R | 25 | Samudrudu",
+      "Yentha Panichesav Chanti": "O C T O B E R | 25 | Yentha Panichesav Chanti",
+      "KA": "O C T O B E R | 31 | KA",
+      "Lucky Baskhar": "O C T O B E R | 31 | Lucky Baskhar",
+      "Appudo Ippudo Eppudo": "N O V E M B E R | 8 | Appudo Ippudo Eppudo",
+      "Dhoom Dhaam": "N O V E M B E R | 8 | Dhoom Dhaam",
+      "Ee Saraina": "N O V E M B E R | 8 | Ee Saraina",
+      "Jathara": "N O V E M B E R | 8 | Jathara",
+      "Jewel Thief": "N O V E M B E R | 8 | Jewel Thief",
+      "Jithender Reddy": "N O V E M B E R | 8 | Jithender Reddy",
+      "Rahasyam Idam Jagath": "N O V E M B E R | 8 | Rahasyam Idam Jagath",
+      "The Shortcut": "N O V E M B E R | 8 | The Shortcut",
+      "Vanchana": "N O V E M B E R | 8 | Vanchana",
+      "Matka": "N O V E M B E R | 14 | Matka",
+      "Cinema Pichodu": "N O V E M B E R | 22 | Cinema Pichodu",
+      "Devaki Nandana Vasudeva": "N O V E M B E R | 22 | Devaki Nandana Vasudeva",
+      "Kalama E Kannillenduke": "N O V E M B E R | 22 | Kalama E Kannillenduke",
+      "Kanakamahalakshmi": "N O V E M B E R | 22 | Kanakamahalakshmi",
+      "Keshava Chandra Ramavath": "N O V E M B E R | 22 | Keshava Chandra Ramavath",
+      "Mechanic Rocky": "N O V E M B E R | 22 | Mechanic Rocky",
+      "Zebra": "N O V E M B E R | 22 | Zebra",
+      "Roti Kapda Romance": "N O V E M B E R | 28 | Roti Kapda Romance",
+      "Pushpa 2: The Rule": "D E C E M B E R | 5 | Pushpa 2: The Rule",
+      "Pranaya Godari": "D E C E M B E R | 13 | Pranaya Godari",
+      "Fear": "D E C E M B E R | 14 | Fear",
+      "Samidha": "D E C E M B E R | 14 | Samidha",
+      "Leela Vinodham": "D E C E M B E R | 19 | Leela Vinodham",
+      "Bachchala Malli": "D E C E M B E R | 20 | Bachchala Malli",
+      "Srikakulam Sherlock Holmes": "D E C E M B E R | 25 | Srikakulam Sherlock Holmes",
+      "Drinker Sai": "D E C E M B E R | 27 | Drinker Sai"
+    },
+    "issues": []
+  }
+}

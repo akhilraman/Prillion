@@ -1,0 +1,515 @@
+{
+  "question": {
+    "id": "us-pop-nba-slam-dunk-champions",
+    "category": "us-pop",
+    "prompt": "Name a player who has won the NBA Slam Dunk Contest, including its 1976 ABA predecessor and the 2014 team winners.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "julius-erving",
+        "canonical": "Julius Erving",
+        "aliases": [
+          "Dr. J",
+          "Julius \"Dr. J\" Erving"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erving won the inaugural ABA Slam Dunk Contest in 1976.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "darnell-hillman",
+        "canonical": "Darnell Hillman",
+        "aliases": [
+          "Dr. Dunk",
+          "Darnell \"Dr. Dunk\" Hillman"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hillman won the season-long NBA contest in 1977.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "larry-nance",
+        "canonical": "Larry Nance",
+        "aliases": [
+          "Larry Nance Sr.",
+          "Larry Nance Sr"
+        ],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nance won the contest in 1984 for Phoenix.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "dominique-wilkins",
+        "canonical": "Dominique Wilkins",
+        "aliases": [
+          "Dominique",
+          "The Human Highlight Film"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilkins won the contest in 1985 and 1990.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "spud-webb",
+        "canonical": "Spud Webb",
+        "aliases": [],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Webb won the contest in 1986 for Atlanta.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "MJ",
+          "Air Jordan"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan won consecutive contests in 1987 and 1988.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "kenny-walker",
+        "canonical": "Kenny Walker",
+        "aliases": [
+          "Kenny \"Sky\" Walker",
+          "Sky Walker"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walker won the contest in 1989 for New York.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "dee-brown",
+        "canonical": "Dee Brown",
+        "aliases": [],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brown won the contest in 1991 for Boston.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "cedric-ceballos",
+        "canonical": "Cedric Ceballos",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ceballos won the contest in 1992 for Phoenix.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "harold-miner",
+        "canonical": "Harold Miner",
+        "aliases": [
+          "Baby Jordan"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miner won the contest in 1993 and 1995.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "isaiah-rider",
+        "canonical": "Isaiah Rider",
+        "aliases": [
+          "J.R. Rider",
+          "JR Rider",
+          "J. R. Rider"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rider won the contest in 1994 for Minnesota.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "brent-barry",
+        "canonical": "Brent Barry",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barry won the contest in 1996 for the Clippers.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "kobe-bryant",
+        "canonical": "Kobe Bryant",
+        "aliases": [
+          "Kobe"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bryant won the contest in 1997 for the Lakers.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "vince-carter",
+        "canonical": "Vince Carter",
+        "aliases": [
+          "Vinsanity",
+          "VC"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carter won the contest in 2000 for Toronto.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "desmond-mason",
+        "canonical": "Desmond Mason",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mason won the contest in 2001 for Seattle.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "jason-richardson",
+        "canonical": "Jason Richardson",
+        "aliases": [
+          "J-Rich",
+          "J Rich"
+        ],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richardson won consecutive contests in 2002 and 2003.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "fred-jones",
+        "canonical": "Fred Jones",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jones won the contest in 2004 for Indiana.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "josh-smith",
+        "canonical": "Josh Smith",
+        "aliases": [],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smith won the contest in 2005 for Atlanta.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "nate-robinson",
+        "canonical": "Nate Robinson",
+        "aliases": [
+          "Krypto-Nate",
+          "Krypto Nate"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robinson won three contests, in 2006, 2009 and 2010.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "gerald-green",
+        "canonical": "Gerald Green",
+        "aliases": [],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Green won the contest in 2007 for Boston.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "dwight-howard",
+        "canonical": "Dwight Howard",
+        "aliases": [],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Howard won the contest in 2008 for Orlando.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "blake-griffin",
+        "canonical": "Blake Griffin",
+        "aliases": [],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Griffin won the contest in 2011 for the Clippers.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "jeremy-evans",
+        "canonical": "Jeremy Evans",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Evans won the contest in 2012 for Utah.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "terrence-ross",
+        "canonical": "Terrence Ross",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ross won individually in 2013 and was also part of the winning team in 2014.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "john-wall",
+        "canonical": "John Wall",
+        "aliases": [],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wall was part of the winning Team East in 2014 and was voted Dunker of the Night.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "paul-george",
+        "canonical": "Paul George",
+        "aliases": [
+          "PG",
+          "PG13",
+          "PG-13"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George was a member of Team East, the official winning team in 2014.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "zach-lavine",
+        "canonical": "Zach LaVine",
+        "aliases": [
+          "Zach Lavine",
+          "Zack Lavine"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LaVine won consecutive contests in 2015 and 2016.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "glenn-robinson-iii",
+        "canonical": "Glenn Robinson III",
+        "aliases": [
+          "Glenn Robinson 3",
+          "Glenn Robinson III.",
+          "Glen Robinson III",
+          "GR3"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robinson III won the contest in 2017 for Indiana.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "donovan-mitchell",
+        "canonical": "Donovan Mitchell",
+        "aliases": [
+          "Spida"
+        ],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mitchell won the contest in 2018 for Utah.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "hamidou-diallo",
+        "canonical": "Hamidou Diallo",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Diallo won the contest in 2019 for Oklahoma City.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "derrick-jones-jr",
+        "canonical": "Derrick Jones Jr.",
+        "aliases": [
+          "Derrick Jones Jr",
+          "Derrick Jones",
+          "DJJ"
+        ],
+        "familiarity": 0.0258,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jones Jr. won the contest in 2020 for Miami.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "anfernee-simons",
+        "canonical": "Anfernee Simons",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Simons won the contest in 2021 for Portland.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "obi-toppin",
+        "canonical": "Obi Toppin",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toppin won the contest in 2022 for New York.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "mac-mcclung",
+        "canonical": "Mac McClung",
+        "aliases": [
+          "McClung"
+        ],
+        "familiarity": 0.0646,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "McClung won three consecutive contests from 2023 through 2025.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      },
+      {
+        "id": "keshad-johnson",
+        "canonical": "Keshad Johnson",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnson won the contest in 2026 for Miami.",
+        "sourceIds": [
+          "slam-dunk-contest"
+        ]
+      }
+    ],
+    "explanation": "These winners cover the contest's history through 2026, including Julius Erving's victory in the inaugural ABA event and Darnell Hillman's season-long NBA title in 1977. In 2014, Paul George, Terrence Ross and John Wall won as Team East; Wall was also voted Dunker of the Night.",
+    "sources": [
+      {
+        "id": "slam-dunk-contest",
+        "title": "Slam Dunk Contest",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Slam_Dunk_Contest",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ea9233c797fad5b7",
+    "brief": "Name a player who has won the NBA Slam Dunk Contest.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "slam-dunk-contest",
+        "version": "1378868043",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Julius Erving": "1976 | Julius Erving | New York Nets |",
+      "Darnell Hillman": "1977 | Darnell Hillman | Indiana Pacers |",
+      "Larry Nance": "1984 | Larry Nance | Phoenix Suns |",
+      "Dominique Wilkins": "3 | Dominique Wilkins | Atlanta Hawks | 2 | 1985, 1990",
+      "Spud Webb": "1986 | Spud Webb | Atlanta Hawks (2) |",
+      "Michael Jordan": "3 | Michael Jordan | Chicago Bulls | 2 | 1987, 1988",
+      "Kenny Walker": "1989 | Kenny Walker | New York Knicks |",
+      "Dee Brown": "1991 | Dee Brown | Boston Celtics |",
+      "Cedric Ceballos": "1992 | Cedric Ceballos | Phoenix Suns (2) |",
+      "Harold Miner": "3 | Harold Miner | Miami Heat | 2 | 1993, 1995",
+      "Isaiah Rider": "1994 | Isaiah Rider | Minnesota Timberwolves |",
+      "Brent Barry": "1996 | Brent Barry | Los Angeles Clippers |",
+      "Kobe Bryant": "1997 | Kobe Bryant | Los Angeles Lakers |",
+      "Vince Carter": "2000 | Vince Carter | Toronto Raptors |",
+      "Desmond Mason": "2001 | Desmond Mason | Seattle SuperSonics |",
+      "Jason Richardson": "3 | Jason Richardson | Golden State Warriors | 2 | 2002, 2003",
+      "Fred Jones": "2004 | Fred Jones | Indiana Pacers (2) |",
+      "Josh Smith": "2005 | Josh Smith | Atlanta Hawks (4) |",
+      "Nate Robinson": "1 | Nate Robinson | New York Knicks | 3 | 2006, 2009, 2010",
+      "Gerald Green": "2007 | Gerald Green | Boston Celtics (2) |",
+      "Dwight Howard": "2008 | Dwight Howard | Orlando Magic |",
+      "Blake Griffin": "2011 | Blake Griffin | Los Angeles Clippers (2) |",
+      "Jeremy Evans": "2012 | Jeremy Evans | Utah Jazz |",
+      "Terrence Ross": "Team East, composed of dunkers Paul George, defending champion Terrence Ross, and John Wall won the 2014 Sprite Slam Dunk Contest in commanding fashion.",
+      "John Wall": "Though Team East are the official winners, Wall was voted by fans as the Dunker of the Night.",
+      "Paul George": "Team East, composed of dunkers Paul George, defending champion Terrence Ross, and John Wall won the 2014 Sprite Slam Dunk Contest in commanding fashion.",
+      "Zach LaVine": "3 | Zach LaVine | Minnesota Timberwolves | 2 | 2015, 2016",
+      "Glenn Robinson III": "2017 | Glenn Robinson III | Indiana Pacers (3) |",
+      "Donovan Mitchell": "2018 | Donovan Mitchell | Utah Jazz (2) |",
+      "Hamidou Diallo": "2019 | Hamidou Diallo | Oklahoma City Thunder |",
+      "Derrick Jones Jr.": "2020 | Derrick Jones Jr. | Miami Heat (3) |",
+      "Anfernee Simons": "2021 | Anfernee Simons | Portland Trail Blazers |",
+      "Obi Toppin": "2022 | Obi Toppin | New York Knicks (5) |",
+      "Mac McClung": "From 2023 to 2025, the contest was won by Mac McClung.",
+      "Keshad Johnson": "2026 | Keshad Johnson | Miami Heat (4) |"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [John Wall]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

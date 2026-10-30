@@ -1,0 +1,444 @@
+{
+  "question": {
+    "id": "space-fictional-robots",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous robot or artificial intelligence from a science-fiction film, TV series, or book.",
+    "answerSet": "open",
+    "criteria": "Any named fictional robot, android, or computer AI appearing in a science-fiction film, TV series, or book counts; humans merely wearing robotic armor do not.",
+    "answers": [
+      {
+        "id": "r2-d2",
+        "canonical": "R2-D2",
+        "aliases": [
+          "Artoo",
+          "Artoo Detoo"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "R2-D2 is an astromech droid in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "c-3po",
+        "canonical": "C-3PO",
+        "aliases": [
+          "Threepio",
+          "See Threepio"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "C-3PO is a protocol droid in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "wall-e",
+        "canonical": "WALL-E",
+        "aliases": [],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "WALL-E is the waste-collecting robot at the center of Pixar's WALL-E.",
+        "sourceIds": []
+      },
+      {
+        "id": "hal-9000",
+        "canonical": "HAL 9000",
+        "aliases": [
+          "HAL"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "HAL 9000 is the spacecraft computer in 2001: A Space Odyssey.",
+        "sourceIds": []
+      },
+      {
+        "id": "optimus-prime",
+        "canonical": "Optimus Prime",
+        "aliases": [
+          "Optimus"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Optimus Prime is the robotic Autobot leader in Transformers films and television.",
+        "sourceIds": []
+      },
+      {
+        "id": "data",
+        "canonical": "Data",
+        "aliases": [
+          "Lieutenant Commander Data"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Data is an android Starfleet officer in Star Trek: The Next Generation.",
+        "sourceIds": []
+      },
+      {
+        "id": "bender",
+        "canonical": "Bender",
+        "aliases": [
+          "Bender Bending Rodriguez",
+          "Bender Rodriguez"
+        ],
+        "familiarity": 0.0758,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bender is a bending robot in Futurama.",
+        "sourceIds": []
+      },
+      {
+        "id": "bb-8",
+        "canonical": "BB-8",
+        "aliases": [],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "BB-8 is a spherical astromech droid in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "eve",
+        "canonical": "EVE",
+        "aliases": [
+          "Extraterrestrial Vegetation Evaluator"
+        ],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "EVE is a robotic probe searching for plant life in WALL-E.",
+        "sourceIds": []
+      },
+      {
+        "id": "marvin",
+        "canonical": "Marvin",
+        "aliases": [
+          "Marvin the Paranoid Android",
+          "Paranoid Android"
+        ],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marvin is a chronically gloomy robot in The Hitchhiker's Guide to the Galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "bishop",
+        "canonical": "Bishop",
+        "aliases": [
+          "Lance Bishop"
+        ],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bishop is an android who accompanies the Colonial Marines in Aliens.",
+        "sourceIds": []
+      },
+      {
+        "id": "robby-the-robot",
+        "canonical": "Robby the Robot",
+        "aliases": [
+          "Robby",
+          "Robbie the Robot"
+        ],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robby the Robot is a robot character introduced in Forbidden Planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "gort",
+        "canonical": "Gort",
+        "aliases": [],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gort is the humanoid robot accompanying Klaatu in The Day the Earth Stood Still.",
+        "sourceIds": []
+      },
+      {
+        "id": "r-daneel-olivaw",
+        "canonical": "R. Daneel Olivaw",
+        "aliases": [
+          "Daneel Olivaw",
+          "Daneel"
+        ],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "R. Daneel Olivaw is a humaniform robot in Isaac Asimov's fiction.",
+        "sourceIds": []
+      },
+      {
+        "id": "r-giskard-reventlov",
+        "canonical": "R. Giskard Reventlov",
+        "aliases": [
+          "Giskard Reventlov",
+          "Giskard"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "R. Giskard Reventlov is a robot with telepathic abilities in Isaac Asimov's Robot novels.",
+        "sourceIds": []
+      },
+      {
+        "id": "kitt",
+        "canonical": "KITT",
+        "aliases": [
+          "Knight Industries Two Thousand"
+        ],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "KITT is the artificial intelligence built into the car in Knight Rider.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-iron-giant",
+        "canonical": "The Iron Giant",
+        "aliases": [
+          "Iron Giant"
+        ],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Iron Giant is the enormous alien robot in the animated film of the same name.",
+        "sourceIds": []
+      },
+      {
+        "id": "skynet",
+        "canonical": "Skynet",
+        "aliases": [],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skynet is the military artificial intelligence in the Terminator franchise.",
+        "sourceIds": []
+      },
+      {
+        "id": "rosie",
+        "canonical": "Rosie",
+        "aliases": [
+          "Rosie the Robot",
+          "Rosey",
+          "Rosey the Robot"
+        ],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rosie is the robot housekeeper in The Jetsons.",
+        "sourceIds": []
+      },
+      {
+        "id": "k-2so",
+        "canonical": "K-2SO",
+        "aliases": [
+          "Kay-Tuesso"
+        ],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K-2SO is a reprogrammed Imperial security droid in Rogue One.",
+        "sourceIds": []
+      },
+      {
+        "id": "sonny",
+        "canonical": "Sonny",
+        "aliases": [],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sonny is a distinctive NS-5 robot in the film I, Robot.",
+        "sourceIds": []
+      },
+      {
+        "id": "kryten",
+        "canonical": "Kryten",
+        "aliases": [],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kryten is a service mechanoid in the television series Red Dwarf.",
+        "sourceIds": []
+      },
+      {
+        "id": "johnny-5",
+        "canonical": "Johnny 5",
+        "aliases": [
+          "Johnny Five",
+          "Number 5",
+          "Number Five"
+        ],
+        "familiarity": 0.0091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnny 5 is the robot that becomes sentient in Short Circuit.",
+        "sourceIds": []
+      },
+      {
+        "id": "tars",
+        "canonical": "TARS",
+        "aliases": [],
+        "familiarity": 0.0303,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "TARS is a robot accompanying the astronauts in Interstellar.",
+        "sourceIds": []
+      },
+      {
+        "id": "case",
+        "canonical": "CASE",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "CASE is a robot assisting the space mission in Interstellar.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Science fiction features everything from helpful droids and robot companions to sentient computers. Answers can come from screen or literary science fiction, not just stories set in space.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "6af1e85c8ba0732c",
+    "brief": "Name a famous robot or artificial intelligence from science fiction film, TV or books.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "R2-D2": 3,
+      "C-3PO": 3,
+      "WALL-E": 3,
+      "HAL 9000": 3,
+      "Optimus Prime": 3,
+      "Data": 3,
+      "Bender": 3,
+      "BB-8": 3,
+      "EVE": 3,
+      "Marvin": 3,
+      "KITT": 2,
+      "The Iron Giant": 2,
+      "Skynet": 2,
+      "Rosie": 2,
+      "K-2SO": 2,
+      "Bishop": 3,
+      "Sonny": 2,
+      "Robby the Robot": 3,
+      "Gort": 3,
+      "Kryten": 2,
+      "R. Daneel Olivaw": 3,
+      "R. Giskard Reventlov": 3,
+      "Johnny 5": 2,
+      "TARS": 2,
+      "CASE": 2
+    },
+    "droppedForVotes": {
+      "The Terminator": 1,
+      "Ava": 1,
+      "Deep Thought": 1,
+      "Orac": 1,
+      "Mike": 1,
+      "Maschinenmensch": 1,
+      "Megatron": 1,
+      "Baymax": 1,
+      "Mother": 1,
+      "Ash": 1,
+      "R. Dorothy Wayneright": 1,
+      "AM": 1,
+      "T-800": 1,
+      "Holly": 1,
+      "Chopper": 1,
+      "IG-11": 1,
+      "Lore": 1,
+      "GERTY": 1
+    },
+    "verdicts": {
+      "R2-D2": {
+        "verdict": "correct",
+        "reason": "An astromech droid appearing throughout Star Wars."
+      },
+      "C-3PO": {
+        "verdict": "correct",
+        "reason": "A protocol droid appearing throughout Star Wars."
+      },
+      "WALL-E": {
+        "verdict": "correct",
+        "reason": "The titular waste-collecting robot in Pixar's science-fiction film."
+      },
+      "HAL 9000": {
+        "verdict": "correct",
+        "reason": "The spacecraft's artificial intelligence in 2001: A Space Odyssey."
+      },
+      "Optimus Prime": {
+        "verdict": "correct",
+        "reason": "The robotic Autobot leader in Transformers films and television series."
+      },
+      "Data": {
+        "verdict": "correct",
+        "reason": "An android Starfleet officer in Star Trek: The Next Generation."
+      },
+      "Bender": {
+        "verdict": "correct",
+        "reason": "A robot and central character in the science-fiction series Futurama."
+      },
+      "BB-8": {
+        "verdict": "correct",
+        "reason": "A spherical astromech droid in the Star Wars sequel trilogy."
+      },
+      "EVE": {
+        "verdict": "correct",
+        "reason": "A robotic probe tasked with finding plant life in WALL-E."
+      },
+      "Marvin": {
+        "verdict": "correct",
+        "reason": "A robot character in The Hitchhiker's Guide to the Galaxy."
+      },
+      "Bishop": {
+        "verdict": "correct",
+        "reason": "An android accompanying the Colonial Marines in Aliens."
+      },
+      "Robby the Robot": {
+        "verdict": "correct",
+        "reason": "A robot introduced in the science-fiction film Forbidden Planet."
+      },
+      "Gort": {
+        "verdict": "correct",
+        "reason": "The robot accompanying Klaatu in The Day the Earth Stood Still."
+      },
+      "R. Daneel Olivaw": {
+        "verdict": "correct",
+        "reason": "A humaniform robot appearing in Isaac Asimov's science-fiction novels."
+      },
+      "R. Giskard Reventlov": {
+        "verdict": "correct",
+        "reason": "A robot with telepathic abilities in Asimov's Robot novels."
+      },
+      "KITT": {
+        "verdict": "correct",
+        "reason": "The artificial intelligence controlling the advanced car in Knight Rider."
+      },
+      "The Iron Giant": {
+        "verdict": "correct",
+        "reason": "The titular extraterrestrial robot in the animated science-fiction film."
+      },
+      "Skynet": {
+        "verdict": "correct",
+        "reason": "A military artificial intelligence in the Terminator franchise."
+      },
+      "Rosie": {
+        "verdict": "correct",
+        "reason": "The robot housekeeper in the futuristic television series The Jetsons."
+      },
+      "K-2SO": {
+        "verdict": "correct",
+        "reason": "A reprogrammed Imperial security droid in Rogue One."
+      },
+      "Sonny": {
+        "verdict": "correct",
+        "reason": "An NS-5 robot central to the science-fiction film I, Robot."
+      },
+      "Kryten": {
+        "verdict": "correct",
+        "reason": "A service mechanoid in the science-fiction television series Red Dwarf."
+      },
+      "Johnny 5": {
+        "verdict": "correct",
+        "reason": "The sentient robot protagonist of Short Circuit."
+      },
+      "TARS": {
+        "verdict": "correct",
+        "reason": "A robot accompanying the astronauts in Interstellar."
+      },
+      "CASE": {
+        "verdict": "correct",
+        "reason": "A robot assisting the astronauts and their mission in Interstellar."
+      }
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "question": {
+    "id": "space-scifi-tv-shows",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a science-fiction TV series set in space or about space travel.",
+    "answerSet": "open",
+    "criteria": "Any released live-action or animated science-fiction TV series in which outer space or travel between worlds is a central part of the setting or premise.",
+    "answers": [
+      {
+        "id": "star-trek",
+        "canonical": "Star Trek",
+        "aliases": [
+          "Star Trek: The Original Series",
+          "The Original Series",
+          "TOS",
+          "Star Trek TOS"
+        ],
+        "familiarity": 0.074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek follows the crew of the starship Enterprise as they explore space.",
+        "sourceIds": []
+      },
+      {
+        "id": "doctor-who",
+        "canonical": "Doctor Who",
+        "aliases": [
+          "Dr Who"
+        ],
+        "familiarity": 0.074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Doctor Who follows a time traveler whose TARDIS travels through both time and space.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-mandalorian",
+        "canonical": "The Mandalorian",
+        "aliases": [
+          "Mandalorian",
+          "The Mando"
+        ],
+        "familiarity": 0.074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Mandalorian follows a bounty hunter traveling between worlds in the Star Wars galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-expanse",
+        "canonical": "The Expanse",
+        "aliases": [
+          "Expanse"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Expanse depicts human societies and conflicts across a colonized Solar System.",
+        "sourceIds": []
+      },
+      {
+        "id": "firefly",
+        "canonical": "Firefly",
+        "aliases": [],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Firefly follows the crew of the spaceship Serenity as they take jobs across a frontier star system.",
+        "sourceIds": []
+      },
+      {
+        "id": "battlestar-galactica",
+        "canonical": "Battlestar Galactica",
+        "aliases": [
+          "BSG"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Battlestar Galactica follows a fleet of human survivors traveling through space after an attack by the Cylons.",
+        "sourceIds": []
+      },
+      {
+        "id": "lost-in-space",
+        "canonical": "Lost in Space",
+        "aliases": [],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lost in Space follows the Robinson family's adventures after their space mission goes off course.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-the-next-generation",
+        "canonical": "Star Trek: The Next Generation",
+        "aliases": [
+          "The Next Generation",
+          "TNG",
+          "Star Trek TNG"
+        ],
+        "familiarity": 0.074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: The Next Generation follows Captain Picard and the crew of the Enterprise.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-voyager",
+        "canonical": "Star Trek: Voyager",
+        "aliases": [
+          "Voyager"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: Voyager follows a starship crew stranded far from home in the Delta Quadrant.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-deep-space-nine",
+        "canonical": "Star Trek: Deep Space Nine",
+        "aliases": [
+          "Deep Space Nine",
+          "DS9",
+          "Star Trek DS9"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: Deep Space Nine centers on a space station near a stable wormhole.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-wars-the-clone-wars",
+        "canonical": "Star Wars: The Clone Wars",
+        "aliases": [
+          "The Clone Wars",
+          "Clone Wars"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars: The Clone Wars is an animated series about a war fought across the Star Wars galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "cowboy-bebop",
+        "canonical": "Cowboy Bebop",
+        "aliases": [],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cowboy Bebop follows spacefaring bounty hunters traveling around the Solar System.",
+        "sourceIds": []
+      },
+      {
+        "id": "red-dwarf",
+        "canonical": "Red Dwarf",
+        "aliases": [],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Red Dwarf is a science-fiction comedy about the inhabitants of a spaceship far from Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "babylon-5",
+        "canonical": "Babylon 5",
+        "aliases": [
+          "Babylon Five",
+          "B5"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Babylon 5 centers on a space station that serves as a meeting place for multiple civilizations.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-orville",
+        "canonical": "The Orville",
+        "aliases": [
+          "Orville",
+          "The Orville: New Horizons"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Orville follows the crew of an exploratory spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "farscape",
+        "canonical": "Farscape",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Farscape follows an astronaut who joins alien fugitives aboard a living spaceship.",
+        "sourceIds": []
+      },
+      {
+        "id": "stargate-universe",
+        "canonical": "Stargate Universe",
+        "aliases": [
+          "SGU"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stargate Universe follows people stranded aboard the ancient spaceship Destiny.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-wars-rebels",
+        "canonical": "Star Wars Rebels",
+        "aliases": [
+          "Rebels"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars Rebels follows a spaceship crew resisting the Galactic Empire.",
+        "sourceIds": []
+      },
+      {
+        "id": "andromeda",
+        "canonical": "Andromeda",
+        "aliases": [
+          "Gene Roddenberry's Andromeda"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andromeda follows a starship captain and crew attempting to restore an interstellar commonwealth.",
+        "sourceIds": []
+      },
+      {
+        "id": "dark-matter",
+        "canonical": "Dark Matter",
+        "aliases": [
+          "Dark Matter 2015"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 2015 series Dark Matter follows a spaceship crew who awaken without their memories.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-1999",
+        "canonical": "Space: 1999",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space: 1999 follows the inhabitants of a lunar base after the Moon is hurled out of Earth's orbit.",
+        "sourceIds": []
+      },
+      {
+        "id": "blake-s-7",
+        "canonical": "Blake's 7",
+        "aliases": [
+          "Blake's Seven"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blake's 7 follows spacefaring rebels fighting an authoritarian interstellar Federation.",
+        "sourceIds": []
+      },
+      {
+        "id": "lexx",
+        "canonical": "Lexx",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lexx follows a group of misfits traveling aboard a powerful living spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-above-and-beyond",
+        "canonical": "Space: Above and Beyond",
+        "aliases": [
+          "Space: Above & Beyond"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space: Above and Beyond follows space-based military aviators during a war with aliens.",
+        "sourceIds": []
+      },
+      {
+        "id": "outlaw-star",
+        "canonical": "Outlaw Star",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Outlaw Star is an anime about a crew traveling through space aboard an advanced starship.",
+        "sourceIds": []
+      },
+      {
+        "id": "futurama",
+        "canonical": "Futurama",
+        "aliases": [],
+        "familiarity": 0.074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Futurama follows an interplanetary delivery crew in the future.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-enterprise",
+        "canonical": "Star Trek: Enterprise",
+        "aliases": [
+          "Enterprise"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek: Enterprise follows an early human deep-space exploration mission.",
+        "sourceIds": []
+      },
+      {
+        "id": "killjoys",
+        "canonical": "Killjoys",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Killjoys follows bounty hunters working across a planetary system known as the Quad.",
+        "sourceIds": []
+      },
+      {
+        "id": "other-space",
+        "canonical": "Other Space",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Other Space is a comedy series about a spaceship crew stranded in an unfamiliar universe.",
+        "sourceIds": []
+      },
+      {
+        "id": "stargate-sg-1",
+        "canonical": "Stargate SG-1",
+        "aliases": [
+          "SG-1"
+        ],
+        "familiarity": 0.0296,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stargate SG-1 follows a team exploring other planets through an alien portal network.",
+        "sourceIds": []
+      },
+      {
+        "id": "stargate-atlantis",
+        "canonical": "Stargate Atlantis",
+        "aliases": [
+          "Atlantis",
+          "SGA"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stargate Atlantis follows an expedition based in an ancient alien city in another galaxy.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space-travel television spans starship adventures, interplanetary dramas, animated comedies and more. Individual series within franchises count as separate answers.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "1b316bb74886108c",
+    "brief": "Name a science-fiction TV series set in space or about space travel.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Star Trek": 3,
+      "Doctor Who": 3,
+      "The Mandalorian": 3,
+      "Futurama": 2,
+      "The Expanse": 3,
+      "Firefly": 3,
+      "Battlestar Galactica": 3,
+      "Lost in Space": 3,
+      "Star Trek: The Next Generation": 3,
+      "Star Trek: Voyager": 3,
+      "Star Trek: Deep Space Nine": 3,
+      "Star Wars: The Clone Wars": 3,
+      "Cowboy Bebop": 3,
+      "Red Dwarf": 3,
+      "Babylon 5": 3,
+      "The Orville": 3,
+      "Farscape": 3,
+      "Star Trek: Enterprise": 2,
+      "Stargate Universe": 3,
+      "Star Wars Rebels": 3,
+      "Andromeda": 3,
+      "Dark Matter": 3,
+      "Killjoys": 2,
+      "Space: 1999": 3,
+      "Blake's 7": 3,
+      "Lexx": 3,
+      "Space: Above and Beyond": 3,
+      "Outlaw Star": 3,
+      "Other Space": 2,
+      "Stargate SG-1": 2,
+      "Stargate Atlantis": 2
+    },
+    "droppedForVotes": {
+      "Star Trek: Discovery": 1,
+      "Star Trek: Lower Decks": 1,
+      "Ahsoka": 1,
+      "Quark": 1,
+      "Space Dandy": 1,
+      "The Starlost": 1,
+      "Star Trek: Strange New Worlds": 1,
+      "Planetes": 1
+    },
+    "verdicts": {
+      "Star Trek": {
+        "verdict": "correct",
+        "reason": "A live-action science-fiction series centered on the Enterprise exploring space."
+      },
+      "Doctor Who": {
+        "verdict": "correct",
+        "reason": "Travel to alien worlds in the TARDIS is central to this science-fiction series."
+      },
+      "The Mandalorian": {
+        "verdict": "correct",
+        "reason": "A live-action Star Wars series featuring travel between planets."
+      },
+      "The Expanse": {
+        "verdict": "correct",
+        "reason": "Set across a colonized Solar System, with space travel central to its story."
+      },
+      "Firefly": {
+        "verdict": "correct",
+        "reason": "Centers on the spaceship Serenity and its crew traveling between settled worlds."
+      },
+      "Battlestar Galactica": {
+        "verdict": "correct",
+        "reason": "Centers on human survivors traveling through space in a fleet pursued by Cylons."
+      },
+      "Lost in Space": {
+        "verdict": "correct",
+        "reason": "Centers on the Robinson family stranded during an interstellar mission."
+      },
+      "Star Trek: The Next Generation": {
+        "verdict": "correct",
+        "reason": "Follows Picard and the Enterprise crew on interstellar missions."
+      },
+      "Star Trek: Voyager": {
+        "verdict": "correct",
+        "reason": "Follows a starship stranded in the Delta Quadrant attempting to return home."
+      },
+      "Star Trek: Deep Space Nine": {
+        "verdict": "correct",
+        "reason": "Set primarily on a space station beside a stable wormhole."
+      },
+      "Star Wars: The Clone Wars": {
+        "verdict": "correct",
+        "reason": "An animated science-fiction series depicting warfare across many planets."
+      },
+      "Cowboy Bebop": {
+        "verdict": "correct",
+        "reason": "An anime following spaceship-based bounty hunters across the Solar System."
+      },
+      "Red Dwarf": {
+        "verdict": "correct",
+        "reason": "A science-fiction comedy centered on a spaceship and its inhabitants."
+      },
+      "Babylon 5": {
+        "verdict": "correct",
+        "reason": "Centers on an interstellar diplomatic space station."
+      },
+      "The Orville": {
+        "verdict": "correct",
+        "reason": "Follows an exploratory starship and its crew."
+      },
+      "Farscape": {
+        "verdict": "correct",
+        "reason": "Follows a human astronaut and alien fugitives traveling aboard the living ship Moya."
+      },
+      "Stargate Universe": {
+        "verdict": "correct",
+        "reason": "Centers on people stranded aboard the ancient spacecraft Destiny."
+      },
+      "Star Wars Rebels": {
+        "verdict": "correct",
+        "reason": "An animated series following the spacefaring crew of the Ghost resisting the Empire."
+      },
+      "Andromeda": {
+        "verdict": "correct",
+        "reason": "Follows the crew of the starship Andromeda Ascendant attempting to restore the Systems Commonwealth."
+      },
+      "Dark Matter": {
+        "verdict": "correct",
+        "reason": "The 2015 series follows an amnesiac crew aboard the spaceship Raza."
+      },
+      "Space: 1999": {
+        "verdict": "correct",
+        "reason": "Follows Moonbase Alpha after the Moon is propelled out of Earth's orbit."
+      },
+      "Blake's 7": {
+        "verdict": "correct",
+        "reason": "Follows spacefaring rebels opposing the authoritarian Federation."
+      },
+      "Lexx": {
+        "verdict": "correct",
+        "reason": "Centers on misfits traveling aboard the enormous living spaceship Lexx."
+      },
+      "Space: Above and Beyond": {
+        "verdict": "correct",
+        "reason": "Follows military space aviators fighting an extraterrestrial enemy."
+      },
+      "Outlaw Star": {
+        "verdict": "correct",
+        "reason": "An anime centered on a spaceship crew and their interstellar adventures."
+      },
+      "Futurama": {
+        "verdict": "correct",
+        "reason": "An animated science-fiction comedy about an interplanetary delivery company."
+      },
+      "Star Trek: Enterprise": {
+        "verdict": "correct",
+        "reason": "Follows an early human deep-space exploration mission aboard Enterprise NX-01."
+      },
+      "Killjoys": {
+        "verdict": "correct",
+        "reason": "Follows bounty hunters operating across the planetary system called the Quad."
+      },
+      "Other Space": {
+        "verdict": "correct",
+        "reason": "A released science-fiction comedy about a spaceship crew stranded in another universe."
+      },
+      "Stargate SG-1": {
+        "verdict": "correct",
+        "reason": "Travel between planets through the Stargate network is central to its premise."
+      },
+      "Stargate Atlantis": {
+        "verdict": "correct",
+        "reason": "Follows an expedition in the Pegasus galaxy, with travel between worlds central to the story."
+      }
+    },
+    "issues": []
+  }
+}

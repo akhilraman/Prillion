@@ -1,0 +1,344 @@
+{
+  "question": {
+    "id": "us-pop-hoaxes",
+    "category": "us-pop",
+    "prompt": "Name a hoax listed in the “Exposure hoaxes” section of Wikipedia’s List of hoaxes.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "atlanta-nights",
+        "canonical": "Atlanta Nights",
+        "aliases": [
+          "The Atlanta Nights hoax novel"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the Atlanta Nights hoax novel under exposure hoaxes.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "bonsai-kittens",
+        "canonical": "bonsai kittens",
+        "aliases": [
+          "Bonsai kitten",
+          "Bonsai kittens in jars"
+        ],
+        "familiarity": 0.1661,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supposed practice of growing bonsai kittens in jars is listed as an exposure hoax.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "brass-eye",
+        "canonical": "Brass Eye",
+        "aliases": [
+          "Brass Eye hoax"
+        ],
+        "familiarity": 0.0664,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brass Eye exposed celebrities' willingness to endorse nonexistent causes for publicity.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "dihydrogen-monoxide",
+        "canonical": "Dihydrogen monoxide",
+        "aliases": [
+          "DHMO",
+          "Dihydrogen monoxide hoax"
+        ],
+        "familiarity": 0.1661,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the facetious technical name for water among exposure hoaxes.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "disumbrationism",
+        "canonical": "Disumbrationism",
+        "aliases": [
+          "Disumbrationism hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Disumbrationism is identified as a hoax art exhibit in the exposure-hoaxes section.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "genpets",
+        "canonical": "Genpets",
+        "aliases": [
+          "Genpets hoax"
+        ],
+        "familiarity": 0.0664,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genpets is listed as a hoax art installation featuring supposedly bio-engineered pets.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "grunge-speak",
+        "canonical": "Grunge speak",
+        "aliases": [
+          "Grunge speak hoax",
+          "Grunge slang hoax"
+        ],
+        "familiarity": 0.0664,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The alleged Seattle underground slang was invented by a Sub Pop employee and reported by The New York Times.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "house-hippo",
+        "canonical": "house hippo",
+        "aliases": [
+          "House hippo hoax"
+        ],
+        "familiarity": 0.0664,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The house hippo was presented in public service announcements intended to encourage critical viewing of media.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "id-sniper-rifle",
+        "canonical": "ID Sniper rifle",
+        "aliases": [
+          "ID Sniper",
+          "ID Sniper rifle hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supposed rifle that fires tracking microchips appears in the exposure-hoaxes section.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "morristown-ufo-hoax",
+        "canonical": "Morristown UFO hoax",
+        "aliases": [
+          "Morristown UFO",
+          "2009 Morristown UFO hoax"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes the 2009 Morristown UFO hoax among exposure hoaxes.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "pacific-northwest-tree-octopus",
+        "canonical": "Pacific Northwest tree octopus",
+        "aliases": [
+          "Tree octopus",
+          "Octopus paxarbolis",
+          "Pacific Northwest tree octopus hoax"
+        ],
+        "familiarity": 0.1661,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supposed amphibious Pacific Northwest tree octopus is listed as an exposure hoax.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "project-alpha",
+        "canonical": "Project Alpha",
+        "aliases": [
+          "Project Alpha hoax"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Randi's Project Alpha exposed poor research into psychic phenomena.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "quadrant-hoax",
+        "canonical": "Quadrant hoax",
+        "aliases": [
+          "The Quadrant hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Quadrant hoax involving historian Keith Windschuttle is included in the exposure-hoaxes section.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "joey-skaggs-s-media-pranks",
+        "canonical": "Joey Skaggs's media pranks",
+        "aliases": [
+          "Joey Skaggs",
+          "Cathouse for Dogs",
+          "Joey Skaggs media hoaxes"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The section lists Joey Skaggs's media pranks, specifically including Cathouse for Dogs.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "sina",
+        "canonical": "SINA",
+        "aliases": [
+          "Society for Indecency to Naked Animals",
+          "The Society for Indecency to Naked Animals"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SINA is identified as Alan Abel's first media hoax and is listed among exposure hoaxes.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "sokal-affair",
+        "canonical": "Sokal affair",
+        "aliases": [
+          "Sokal hoax"
+        ],
+        "familiarity": 0.0664,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sokal affair tested an academic journal's intellectual rigor.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "straith-hoax-letter",
+        "canonical": "Straith hoax letter",
+        "aliases": [
+          "Straith letter",
+          "Straith hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The forged letter was intended to bait George Adamski into publicizing a false government endorsement and discrediting himself.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "nat-tate",
+        "canonical": "Nat Tate",
+        "aliases": [
+          "Nat Tate hoax"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "William Boyd's biography of the imaginary artist Nat Tate was intended to fool the art world temporarily.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "taxil-hoax",
+        "canonical": "Taxil hoax",
+        "aliases": [
+          "Léo Taxil hoax",
+          "Leo Taxil hoax"
+        ],
+        "familiarity": 0.0199,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Léo Taxil's hoax mocked the Roman Catholic Church's attitude toward Freemasonry.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "piotr-zak",
+        "canonical": "Piotr Zak",
+        "aliases": [
+          "Piotr Zak hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The avant-garde music attributed to the fictitious Piotr Zak appears in the exposure-hoaxes section.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      },
+      {
+        "id": "venus-de-brizet",
+        "canonical": "Venus de Brizet",
+        "aliases": [
+          "Venus de Brizet hoax"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The statue was mistaken for an ancient Roman work before being revealed as a living artist's publicity stunt.",
+        "sourceIds": [
+          "list-of-hoaxes"
+        ]
+      }
+    ],
+    "explanation": "These hoaxes were intended to expose gullibility, publicity-seeking, or weak scrutiny by presenting deliberately invented claims as reality. The section includes fake creatures, fictional artists, media pranks, and academic stings.",
+    "sources": [
+      {
+        "id": "list-of-hoaxes",
+        "title": "List of hoaxes",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_hoaxes",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "0e9e500afa942c70",
+    "brief": "Name a famous hoax.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-hoaxes",
+        "version": "1381620260",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Atlanta Nights": "The Atlanta Nights hoax novel.",
+      "bonsai kittens": "The practice of growing bonsai kittens in jars.",
+      "Brass Eye": "The British television series Brass Eye, which encouraged celebrities to pledge their support to nonexistent causes to highlight their willingness to do anything for publicity.",
+      "Dihydrogen monoxide": "Dihydrogen monoxide, a facetious technical term for water.",
+      "Disumbrationism": "Disumbrationism, a hoax art exhibit.",
+      "Genpets": "Genpets, a hoax mixed-media art installation of bio-engineered pet creatures.",
+      "Grunge speak": "Grunge speak, an alleged slang of the Seattle rock underground, concocted by a Sub Pop employee and profiled in The New York Times.",
+      "house hippo": "The house hippo hoax briefly perpetrated by Concerned Children's Advertisers in public service announcements designed to encourage children to view items in the media with a critical eye.",
+      "ID Sniper rifle": "The ID Sniper rifle, a rifle that shoots GPS-enabled microchips to mark and track suspects.",
+      "Morristown UFO hoax": "The Morristown UFO hoax of 2009.",
+      "Pacific Northwest tree octopus": "The Pacific Northwest tree octopus (Octopus paxarbolis), an amphibious octopus.",
+      "Project Alpha": "Project Alpha, which was orchestrated by James Randi and exposed poor research into psychic phenomena.",
+      "Quadrant hoax": "The Quadrant hoax involving historian Keith Windschuttle.",
+      "Joey Skaggs's media pranks": "Joey Skaggs's media pranks, including Cathouse for Dogs (1976).",
+      "SINA": "SINA, the Society for Indecency to Naked Animals, the first media hoax of Alan Abel.",
+      "Sokal affair": "The Sokal affair, which scrutinized an academic journal's intellectual rigor.",
+      "Straith hoax letter": "The Straith hoax letter sent to George Adamski falsely stating that the US State Department endorsed his contactee claims; created by ufologists Gray Barker and James W. Moseley to bait Adamski into publicizing the forgery and thereby discrediting himself.",
+      "Nat Tate": "Nat Tate, an imaginary artist about whom a biography was published in 1998 by William Boyd intended to temporarily fool the art world.",
+      "Taxil hoax": "The Taxil hoax by Léo Taxil, poking fun at the Roman Catholic Church's attitude toward Freemasonry.",
+      "Piotr Zak": "The avant-garde \"music\" of the fictitious Piotr Zak.",
+      "Venus de Brizet": "Venus de Brizet, a statue discovered in a French farm field and declared a monument historique for presumed ancient Roman origins, before being revealed to have been buried as a publicity stunt by a living artist."
+    },
+    "issues": []
+  }
+}

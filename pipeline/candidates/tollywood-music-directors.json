@@ -1,0 +1,379 @@
+{
+  "question": {
+    "id": "tollywood-music-directors",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a music director or composer who has scored Telugu films.",
+    "answerSet": "open",
+    "criteria": "Any credited composer of songs or background music for at least one Telugu-language film counts, including films made simultaneously in Telugu and another language.",
+    "answers": [
+      {
+        "id": "m-m-keeravani",
+        "canonical": "M. M. Keeravani",
+        "aliases": [
+          "Keeravani",
+          "Maragathamani",
+          "M. M. Kreem"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "M. M. Keeravani composed the music for RRR and the Baahubali films.",
+        "sourceIds": []
+      },
+      {
+        "id": "devi-sri-prasad",
+        "canonical": "Devi Sri Prasad",
+        "aliases": [
+          "DSP"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devi Sri Prasad composed the music for Arya, Rangasthalam and Pushpa: The Rise.",
+        "sourceIds": []
+      },
+      {
+        "id": "mani-sharma",
+        "canonical": "Mani Sharma",
+        "aliases": [],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mani Sharma composed the music for Okkadu and Pokiri.",
+        "sourceIds": []
+      },
+      {
+        "id": "ilaiyaraaja",
+        "canonical": "Ilaiyaraaja",
+        "aliases": [
+          "Ilayaraja",
+          "Ilaiyaraja",
+          "Ilayarajah"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ilaiyaraaja composed the music for the Telugu film Sagara Sangamam.",
+        "sourceIds": []
+      },
+      {
+        "id": "a-r-rahman",
+        "canonical": "A. R. Rahman",
+        "aliases": [
+          "Rahman",
+          "A R Rehman",
+          "Allah Rakha Rahman"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A. R. Rahman composed the music for the Telugu film Ye Maaya Chesave.",
+        "sourceIds": []
+      },
+      {
+        "id": "anirudh-ravichander",
+        "canonical": "Anirudh Ravichander",
+        "aliases": [
+          "Anirudh"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anirudh Ravichander composed the music for the Telugu films Jersey and Gang Leader.",
+        "sourceIds": []
+      },
+      {
+        "id": "mickey-j-meyer",
+        "canonical": "Mickey J. Meyer",
+        "aliases": [
+          "Mickey Meyer"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mickey J. Meyer composed the music for Happy Days and Seethamma Vakitlo Sirimalle Chettu.",
+        "sourceIds": []
+      },
+      {
+        "id": "gopi-sundar",
+        "canonical": "Gopi Sundar",
+        "aliases": [
+          "Gopi Sunder"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gopi Sundar composed the music for the Telugu film Geetha Govindam.",
+        "sourceIds": []
+      },
+      {
+        "id": "r-p-patnaik",
+        "canonical": "R. P. Patnaik",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "R. P. Patnaik composed the music for Nuvvu Nenu and Jayam.",
+        "sourceIds": []
+      },
+      {
+        "id": "koti",
+        "canonical": "Koti",
+        "aliases": [
+          "Saluri Koteswara Rao"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Koti composed the music for Nuvve Kavali and Nuvvu Naaku Nachav.",
+        "sourceIds": []
+      },
+      {
+        "id": "bheems-ceciroleo",
+        "canonical": "Bheems Ceciroleo",
+        "aliases": [
+          "Bheems",
+          "Bheems C",
+          "Bheems Cecireleo"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bheems Ceciroleo composed the music for the Telugu film Dhamaka.",
+        "sourceIds": []
+      },
+      {
+        "id": "vivek-sagar",
+        "canonical": "Vivek Sagar",
+        "aliases": [
+          "Vivek Sagar P"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vivek Sagar composed the music for Pelli Choopulu and Ee Nagaraniki Emaindi.",
+        "sourceIds": []
+      },
+      {
+        "id": "ghantasala",
+        "canonical": "Ghantasala",
+        "aliases": [
+          "Ghantasala Venkateswara Rao"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ghantasala was a playback singer and composer who scored Telugu films including Gundamma Katha.",
+        "sourceIds": []
+      },
+      {
+        "id": "k-v-mahadevan",
+        "canonical": "K. V. Mahadevan",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "K. V. Mahadevan composed the music for Sankarabharanam.",
+        "sourceIds": []
+      },
+      {
+        "id": "pendyala-nageswara-rao",
+        "canonical": "Pendyala Nageswara Rao",
+        "aliases": [
+          "Pendyala",
+          "Pendyala Nageshwara Rao"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pendyala Nageswara Rao composed the music for Jagadeka Veeruni Katha.",
+        "sourceIds": []
+      },
+      {
+        "id": "s-a-rajkumar",
+        "canonical": "S. A. Rajkumar",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. A. Rajkumar composed the music for the Telugu film Nuvvu Vasthavani.",
+        "sourceIds": []
+      },
+      {
+        "id": "s-rajeswara-rao",
+        "canonical": "S. Rajeswara Rao",
+        "aliases": [
+          "Saluri Rajeswara Rao",
+          "S. Rajeshwara Rao",
+          "Saluri Rajeshwara Rao"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. Rajeswara Rao composed the music for Missamma.",
+        "sourceIds": []
+      },
+      {
+        "id": "s-thaman",
+        "canonical": "S. Thaman",
+        "aliases": [
+          "Thaman",
+          "SS Thaman",
+          "Thaman S"
+        ],
+        "familiarity": 0.0794,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S. Thaman composed the music for Ala Vaikunthapurramuloo.",
+        "sourceIds": []
+      },
+      {
+        "id": "chakravarthy",
+        "canonical": "Chakravarthy",
+        "aliases": [
+          "K. Chakravarthy",
+          "Chakravarthi",
+          "K. Chakravarthi",
+          "Komm ineni Chakravarthy"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chakravarthy composed the music for Khaidi.",
+        "sourceIds": []
+      },
+      {
+        "id": "sricharan-pakala",
+        "canonical": "Sricharan Pakala",
+        "aliases": [
+          "Sreecharan Pakala"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sricharan Pakala composed the music for Kshanam.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema's composers range from classic-era music directors to contemporary hitmakers. Composers who primarily work in other film industries also qualify if they have scored a Telugu film.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "82b571ccbc045062",
+    "brief": "Name a music director or composer who has scored Telugu films.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "M. M. Keeravani": 3,
+      "Devi Sri Prasad": 3,
+      "Mani Sharma": 3,
+      "Ilaiyaraaja": 3,
+      "A. R. Rahman": 3,
+      "Anirudh Ravichander": 3,
+      "Mickey J. Meyer": 3,
+      "Gopi Sundar": 3,
+      "R. P. Patnaik": 3,
+      "Koti": 3,
+      "Vidyasagar": 3,
+      "S. A. Rajkumar": 2,
+      "Bheems Ceciroleo": 3,
+      "Vivek Sagar": 3,
+      "Ghantasala": 3,
+      "K. V. Mahadevan": 3,
+      "S. Rajeswara Rao": 2,
+      "Pendyala Nageswara Rao": 3,
+      "S. Thaman": 2,
+      "Chakravarthy": 2,
+      "Sricharan Pakala": 2
+    },
+    "droppedForVotes": {
+      "Thaman": 1,
+      "Anup Rubens": 1,
+      "Chakri": 1,
+      "S. V. Krishna Reddy": 1,
+      "Ramesh Naidu": 1,
+      "Master Venu": 1,
+      "T. V. Raju": 1,
+      "Ramana Gogula": 1,
+      "Radhan": 1,
+      "M. M. Srilekha": 1,
+      "Harris Jayaraj": 1,
+      "Yuvan Shankar Raja": 1,
+      "Saluri Rajeswara Rao": 1,
+      "Prashanth R. Vihari": 1,
+      "Raj": 1
+    },
+    "verdicts": {
+      "M. M. Keeravani": {
+        "verdict": "correct",
+        "reason": "Composed the music for RRR and both Baahubali films."
+      },
+      "Devi Sri Prasad": {
+        "verdict": "correct",
+        "reason": "Composed the music for Arya, Rangasthalam and Pushpa: The Rise."
+      },
+      "Mani Sharma": {
+        "verdict": "correct",
+        "reason": "Composed the music for Okkadu and Pokiri."
+      },
+      "Ilaiyaraaja": {
+        "verdict": "correct",
+        "reason": "Composed the music for the Telugu film Sagara Sangamam."
+      },
+      "A. R. Rahman": {
+        "verdict": "correct",
+        "reason": "Composed the music for Ye Maaya Chesave."
+      },
+      "Anirudh Ravichander": {
+        "verdict": "correct",
+        "reason": "Composed the music for the Telugu films Jersey and Gang Leader."
+      },
+      "Mickey J. Meyer": {
+        "verdict": "correct",
+        "reason": "Composed the music for Happy Days and Seethamma Vakitlo Sirimalle Chettu."
+      },
+      "Gopi Sundar": {
+        "verdict": "correct",
+        "reason": "Composed the songs for Geetha Govindam."
+      },
+      "R. P. Patnaik": {
+        "verdict": "correct",
+        "reason": "Composed the music for Nuvvu Nenu and Jayam."
+      },
+      "Koti": {
+        "verdict": "correct",
+        "reason": "Composed the music for Nuvve Kavali and Nuvvu Naaku Nachav."
+      },
+      "Vidyasagar": {
+        "verdict": "incorrect",
+        "reason": "The cited credit is false: Mani Sharma composed Choodalani Vundi. Vidyasagar nevertheless qualifies through other Telugu films, including Bangaram."
+      },
+      "Bheems Ceciroleo": {
+        "verdict": "correct",
+        "reason": "Composed the music for the Telugu film Dhamaka."
+      },
+      "Vivek Sagar": {
+        "verdict": "correct",
+        "reason": "Composed the music for Pelli Choopulu and Ee Nagaraniki Emaindi."
+      },
+      "Ghantasala": {
+        "verdict": "correct",
+        "reason": "Was both a playback singer and composer, with Gundamma Katha among his Telugu composing credits."
+      },
+      "K. V. Mahadevan": {
+        "verdict": "correct",
+        "reason": "Composed the music for Sankarabharanam."
+      },
+      "Pendyala Nageswara Rao": {
+        "verdict": "correct",
+        "reason": "Composed the music for Jagadeka Veeruni Katha."
+      },
+      "S. A. Rajkumar": {
+        "verdict": "correct",
+        "reason": "Composed the music for Nuvvu Vasthavani."
+      },
+      "S. Rajeswara Rao": {
+        "verdict": "correct",
+        "reason": "Composed the music for Missamma."
+      },
+      "S. Thaman": {
+        "verdict": "correct",
+        "reason": "Composed the music for Ala Vaikunthapurramuloo."
+      },
+      "Chakravarthy": {
+        "verdict": "correct",
+        "reason": "Composed the music for the 1983 Telugu film Khaidi."
+      },
+      "Sricharan Pakala": {
+        "verdict": "correct",
+        "reason": "Composed the music for Kshanam."
+      }
+    },
+    "issues": []
+  }
+}

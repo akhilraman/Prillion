@@ -1,0 +1,277 @@
+{
+  "question": {
+    "id": "space-space-stations",
+    "category": "space",
+    "prompt": "Name a space station that has been placed in orbit, including uncrewed prototype stations.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "international-space-station",
+        "canonical": "International Space Station",
+        "aliases": [
+          "ISS"
+        ],
+        "familiarity": 0.2237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The International Space Station is listed as an operational station launched on 20 November 1998.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "tiangong-space-station",
+        "canonical": "Tiangong space station",
+        "aliases": [
+          "Tiangong",
+          "TSS"
+        ],
+        "familiarity": 0.0895,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tiangong is listed as an operational station launched on 29 April 2021.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-1",
+        "canonical": "Salyut 1",
+        "aliases": [
+          "Salyut-1"
+        ],
+        "familiarity": 0.0895,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 1 reached orbit on 19 April 1971 and spent 175 days there.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-2",
+        "canonical": "Salyut 2",
+        "aliases": [
+          "Salyut-2"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 2 spent 13 days in orbit after its launch on 3 April 1973.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "kosmos-557",
+        "canonical": "Kosmos 557",
+        "aliases": [
+          "Kosmos-557"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kosmos 557 spent 11 days in orbit after its launch on 11 May 1973.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "skylab",
+        "canonical": "Skylab",
+        "aliases": [],
+        "familiarity": 0.0895,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skylab launched on 14 May 1973 and spent 2,249 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-3",
+        "canonical": "Salyut 3",
+        "aliases": [
+          "Salyut-3"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 3 launched on 25 June 1974 and spent 213 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-4",
+        "canonical": "Salyut 4",
+        "aliases": [
+          "Salyut-4"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 4 launched on 26 December 1974 and spent 770 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-5",
+        "canonical": "Salyut 5",
+        "aliases": [
+          "Salyut-5"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 5 launched on 22 June 1976 and spent 412 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-6",
+        "canonical": "Salyut 6",
+        "aliases": [
+          "Salyut-6"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 6 launched on 29 September 1977 and spent 1,764 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "salyut-7",
+        "canonical": "Salyut 7",
+        "aliases": [
+          "Salyut-7"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Salyut 7 launched on 19 April 1982 and spent 3,216 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "mir",
+        "canonical": "Mir",
+        "aliases": [
+          "Mir space station"
+        ],
+        "familiarity": 0.2237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mir launched on 19 February 1986 and spent 5,511 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "tiangong-1",
+        "canonical": "Tiangong-1",
+        "aliases": [
+          "Tiangong 1"
+        ],
+        "familiarity": 0.0895,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tiangong-1 launched on 29 September 2011 and spent 2,377 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "tiangong-2",
+        "canonical": "Tiangong-2",
+        "aliases": [
+          "Tiangong 2"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tiangong-2 launched on 15 September 2016 and spent 1,037 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "ops-0855",
+        "canonical": "OPS 0855",
+        "aliases": [
+          "OPS-0855"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "OPS 0855 is listed as a prototype station that spent 67 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "genesis-i",
+        "canonical": "Genesis I",
+        "aliases": [
+          "Genesis 1",
+          "Genesis-1"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genesis I is listed as a prototype station launched on 12 July 2006 that spent 7,415 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      },
+      {
+        "id": "genesis-ii",
+        "canonical": "Genesis II",
+        "aliases": [
+          "Genesis 2",
+          "Genesis-2"
+        ],
+        "familiarity": 0.0067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genesis II is listed as a prototype station launched on 28 June 2007 that spent 7,064 days in orbit.",
+        "sourceIds": [
+          "list-of-space-stations"
+        ]
+      }
+    ],
+    "explanation": "These stations reached orbit, whether or not they ever hosted a crew. Uncrewed prototypes count, but planned or cancelled stations and DOS-2, which failed to reach orbit, do not.",
+    "sources": [
+      {
+        "id": "list-of-space-stations",
+        "title": "List of space stations",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_space_stations",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "d0756c953a73426d",
+    "brief": "Name a space station that has been placed in orbit.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-space-stations",
+        "version": "1372264961",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "International Space Station": "International Space Station | NASA Roscosmos ESA CSA JAXA | 7 | 20 November 1998 | 10206",
+      "Tiangong space station": "Tiangong space station | CMSA | 3–6 | 29 April 2021 | 2010",
+      "Salyut 1": "Salyut 1 | DOS | 3 | 19 April 1971 | 11 October 1971 | 175",
+      "Salyut 2": "Salyut 2 | Almaz | — | 3 April 1973 | 16 April 1973 | 13",
+      "Kosmos 557": "Kosmos 557 | DOS | — | 11 May 1973 | 22 May 1973 | 11",
+      "Skylab": "Skylab | Skylab | 3 | 14 May 1973 | 11 July 1979 | 2249",
+      "Salyut 3": "Salyut 3 | Almaz | 2 | 25 June 1974 | 24 January 1975 | 213",
+      "Salyut 4": "Salyut 4 | DOS | 2 | 26 December 1974 | 3 February 1977 | 770",
+      "Salyut 5": "Salyut 5 | Almaz | 2 | 22 June 1976 | 8 August 1977 | 412",
+      "Salyut 6": "Salyut 6 | DOS | 2 | 29 September 1977 | 29 July 1982 | 1764",
+      "Salyut 7": "Salyut 7 | DOS | 3 | 19 April 1982 | 7 February 1991 | 3216",
+      "Mir": "Mir | DOS | 3 | 19 February 1986 | 23 March 2001 | 5511",
+      "Tiangong-1": "Tiangong-1 | Tiangong | 3 | 29 September 2011 | 2 April 2018 | 2377",
+      "Tiangong-2": "Tiangong-2 | Tiangong | 2 | 15 September 2016 | 19 July 2019 | 1037",
+      "OPS 0855": "OPS 0855 | USAF | MOL | 3 November 1966 | 9 January 1967 | 67",
+      "Genesis I": "Genesis I | Bigelow Aerospace | | 12 July 2006 | 2 July 2025 | 7415",
+      "Genesis II": "Genesis II | Bigelow Aerospace | | 28 June 2007 | 2 September 2025 | 7064"
+    },
+    "issues": []
+  }
+}

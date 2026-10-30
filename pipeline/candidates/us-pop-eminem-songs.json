@@ -1,0 +1,803 @@
+{
+  "question": {
+    "id": "us-pop-eminem-songs",
+    "category": "us-pop",
+    "prompt": "Name an Eminem lead-artist single, including songs where he shares lead billing.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "my-name-is",
+        "canonical": "My Name Is",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 1999 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "role-model",
+        "canonical": "Role Model",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 1999 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "guilty-conscience",
+        "canonical": "Guilty Conscience",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 1999 Eminem single featuring Dr. Dre.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "the-real-slim-shady",
+        "canonical": "The Real Slim Shady",
+        "aliases": [
+          "Real Slim Shady"
+        ],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2000 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "the-way-i-am",
+        "canonical": "The Way I Am",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2000 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "stan",
+        "canonical": "Stan",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2000 Eminem single featuring Dido.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "i-m-back",
+        "canonical": "I'm Back",
+        "aliases": [
+          "Im Back"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2001 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "hellbound",
+        "canonical": "Hellbound",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2002 collaboration with J-Black and Masta Ace.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "without-me",
+        "canonical": "Without Me",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2002 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "cleanin-out-my-closet",
+        "canonical": "Cleanin' Out My Closet",
+        "aliases": [
+          "Cleaning Out My Closet",
+          "Cleanin Out My Closet"
+        ],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2002 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "lose-yourself",
+        "canonical": "Lose Yourself",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2002 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "superman",
+        "canonical": "Superman",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2003 Eminem single featuring Dina Rae.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "sing-for-the-moment",
+        "canonical": "Sing for the Moment",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2003 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "business",
+        "canonical": "Business",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2003 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "just-lose-it",
+        "canonical": "Just Lose It",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2004 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "encore",
+        "canonical": "Encore",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2004 Eminem single featuring Dr. Dre and 50 Cent.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "like-toy-soldiers",
+        "canonical": "Like Toy Soldiers",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2005 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "mockingbird",
+        "canonical": "Mockingbird",
+        "aliases": [
+          "Mocking Bird"
+        ],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2005 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "ass-like-that",
+        "canonical": "Ass Like That",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2005 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "when-i-m-gone",
+        "canonical": "When I'm Gone",
+        "aliases": [
+          "When Im Gone"
+        ],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2005 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "shake-that",
+        "canonical": "Shake That",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2006 Eminem single featuring Nate Dogg.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "you-don-t-know",
+        "canonical": "You Don't Know",
+        "aliases": [
+          "You Dont Know"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2006 Eminem single featuring 50 Cent, Lloyd Banks and Cashis.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "jimmy-crack-corn",
+        "canonical": "Jimmy Crack Corn",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2007 collaboration with 50 Cent.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "crack-a-bottle",
+        "canonical": "Crack a Bottle",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2009 collaboration with Dr. Dre and 50 Cent.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "we-made-you",
+        "canonical": "We Made You",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2009 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "3-a-m",
+        "canonical": "3 a.m.",
+        "aliases": [
+          "3 AM",
+          "3AM"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2009 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "old-time-s-sake",
+        "canonical": "Old Time's Sake",
+        "aliases": [
+          "Old Times Sake"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2009 Eminem single featuring Dr. Dre.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "beautiful",
+        "canonical": "Beautiful",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2009 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "forever",
+        "canonical": "Forever",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2009 collaboration with Drake, Kanye West and Lil Wayne.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "not-afraid",
+        "canonical": "Not Afraid",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2010 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "love-the-way-you-lie",
+        "canonical": "Love the Way You Lie",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2010 Eminem single featuring Rihanna.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "no-love",
+        "canonical": "No Love",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2010 Eminem single featuring Lil Wayne.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "space-bound",
+        "canonical": "Space Bound",
+        "aliases": [
+          "Spacebound"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2011 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "berzerk",
+        "canonical": "Berzerk",
+        "aliases": [
+          "Berserk"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2013 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "survival",
+        "canonical": "Survival",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2013 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "rap-god",
+        "canonical": "Rap God",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2013 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "the-monster",
+        "canonical": "The Monster",
+        "aliases": [
+          "Monster"
+        ],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2013 Eminem single featuring Rihanna.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "headlights",
+        "canonical": "Headlights",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2014 Eminem single featuring Nate Ruess.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "guts-over-fear",
+        "canonical": "Guts Over Fear",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2014 Eminem single featuring Sia.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "detroit-vs-everybody",
+        "canonical": "Detroit vs. Everybody",
+        "aliases": [
+          "Detroit vs Everybody",
+          "Detroit Versus Everybody"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2014 collaboration with Royce da 5'9\", Big Sean, Danny Brown, DeJ Loaf and Trick-Trick.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "phenomenal",
+        "canonical": "Phenomenal",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2015 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "kings-never-die",
+        "canonical": "Kings Never Die",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2015 Eminem single featuring Gwen Stefani.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "walk-on-water",
+        "canonical": "Walk on Water",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2017 Eminem single featuring Beyoncé.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "river",
+        "canonical": "River",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2017 Eminem single featuring Ed Sheeran.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "nowhere-fast",
+        "canonical": "Nowhere Fast",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 Eminem single featuring Kehlani.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "remind-me",
+        "canonical": "Remind Me",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "fall",
+        "canonical": "Fall",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "killshot",
+        "canonical": "Killshot",
+        "aliases": [
+          "Kill Shot"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "venom",
+        "canonical": "Venom",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "lucky-you",
+        "canonical": "Lucky You",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2018 Eminem single featuring Joyner Lucas.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "darkness",
+        "canonical": "Darkness",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2020 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "godzilla",
+        "canonical": "Godzilla",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2020 Eminem single featuring Juice Wrld.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "the-adventures-of-moon-man-slim-shady",
+        "canonical": "The Adventures of Moon Man & Slim Shady",
+        "aliases": [
+          "The Adventures of Moon Man and Slim Shady",
+          "Adventures of Moon Man and Slim Shady"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2020 collaboration with Kid Cudi.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "gnat",
+        "canonical": "Gnat",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2020 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "killer",
+        "canonical": "Killer",
+        "aliases": [
+          "Killer Remix"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2020 song in solo and featured-artist versions.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "the-king-and-i",
+        "canonical": "The King and I",
+        "aliases": [
+          "The King & I"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2022 Eminem single featuring CeeLo Green.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "from-the-d-2-the-lbc",
+        "canonical": "From the D 2 the LBC",
+        "aliases": [
+          "From the D to the LBC"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2022 collaboration with Snoop Dogg.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "houdini",
+        "canonical": "Houdini",
+        "aliases": [],
+        "familiarity": 0.037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2024 lead-artist single.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "tobey",
+        "canonical": "Tobey",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The lead-artist table lists this 2024 collaboration with Big Sean and BabyTron.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      },
+      {
+        "id": "somebody-save-me",
+        "canonical": "Somebody Save Me",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this as a 2024 Eminem single featuring Jelly Roll.",
+        "sourceIds": [
+          "eminem-singles-discography"
+        ]
+      }
+    ],
+    "explanation": "These songs are listed in the lead-artist section of Eminem's singles discography. Collaborations with shared lead billing count; songs where he is only a featured guest do not.",
+    "sources": [
+      {
+        "id": "eminem-singles-discography",
+        "title": "Eminem singles discography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eminem_singles_discography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "51af63f0ab56a83f",
+    "brief": "Name an Eminem song.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "eminem-singles-discography",
+        "version": "1381216653",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Just Don't Give a Fuck": "\"Just Don't Give a Fuck\" | 1998",
+      "My Name Is": "\"My Name Is\" | 1999",
+      "Role Model": "\"Role Model\" | 1999",
+      "Guilty Conscience": "\"Guilty Conscience\" (featuring Dr. Dre) | 1999",
+      "The Real Slim Shady": "\"The Real Slim Shady\" | 2000",
+      "The Way I Am": "\"The Way I Am\" | 2000",
+      "Stan": "\"Stan\" (featuring Dido) | 2000",
+      "I'm Back": "\"I'm Back\" | 2001",
+      "Hellbound": "\"Hellbound\" (with J-Black and Masta Ace) {verse from \"Hustlers & Hardcore\"} | 2002",
+      "Without Me": "\"Without Me\" | 2002",
+      "Cleanin' Out My Closet": "\"Cleanin' Out My Closet\" | 2002",
+      "Lose Yourself": "\"Lose Yourself\" | 2002",
+      "Superman": "\"Superman\" (featuring Dina Rae) | 2003",
+      "Sing for the Moment": "\"Sing for the Moment\" | 2003",
+      "Business": "\"Business\" | 2003",
+      "Just Lose It": "\"Just Lose It\" | 2004",
+      "Encore": "\"Encore\" (featuring Dr. Dre and 50 Cent) | 2004",
+      "Like Toy Soldiers": "\"Like Toy Soldiers\" | 2005",
+      "Mockingbird": "\"Mockingbird\" | 2005",
+      "Ass Like That": "\"Ass Like That\" | 2005",
+      "When I'm Gone": "\"When I'm Gone\" | 2005",
+      "Shake That": "\"Shake That\" (featuring Nate Dogg) | 2006",
+      "You Don't Know": "\"You Don't Know\" (featuring 50 Cent, Lloyd Banks and Cashis) | 2006",
+      "Jimmy Crack Corn": "\"Jimmy Crack Corn\" (with 50 Cent) | 2007",
+      "Crack a Bottle": "\"Crack a Bottle\" (with Dr. Dre and 50 Cent) | 2009",
+      "We Made You": "\"We Made You\" | 2009",
+      "3 a.m.": "\"3 a.m.\" | 2009 | 32",
+      "Old Time's Sake": "\"Old Time's Sake\" (featuring Dr. Dre) | 2009",
+      "Beautiful": "\"Beautiful\" | 2009",
+      "Forever": "\"Forever\" (with Drake, Kanye West and Lil Wayne) | 2009",
+      "Not Afraid": "\"Not Afraid\" | 2010",
+      "Love the Way You Lie": "\"Love the Way You Lie\" (featuring Rihanna) | 2010",
+      "No Love": "\"No Love\" (featuring Lil Wayne) | 2010",
+      "Space Bound": "\"Space Bound\" | 2011",
+      "Berzerk": "\"Berzerk\" | 2013",
+      "Survival": "\"Survival\" | 2013",
+      "Rap God": "\"Rap God\" | 2013",
+      "The Monster": "\"The Monster\" (featuring Rihanna) | 2013",
+      "Headlights": "\"Headlights\" (featuring Nate Ruess) | 2014",
+      "Guts Over Fear": "\"Guts Over Fear\" (featuring Sia) | 2014",
+      "Detroit vs. Everybody": "\"Detroit vs. Everybody\" (with Royce da 5'9\", Big Sean, Danny Brown, DeJ Loaf and Trick-Trick) | 2014",
+      "Phenomenal": "\"Phenomenal\" | 2015",
+      "Kings Never Die": "\"Kings Never Die\" (featuring Gwen Stefani) | 2015",
+      "Walk on Water": "\"Walk on Water\" (featuring Beyoncé) | 2017",
+      "River": "\"River\" (featuring Ed Sheeran) | 2017",
+      "Nowhere Fast": "\"Nowhere Fast\" (featuring Kehlani) | 2018",
+      "Remind Me": "\"Remind Me\" | 2018",
+      "Fall": "\"Fall\" | 2018 | 12",
+      "Killshot": "\"Killshot\" | 2018",
+      "Venom": "\"Venom\" | 2018 | 43",
+      "Lucky You": "\"Lucky You\" (featuring Joyner Lucas) | 2018",
+      "Darkness": "\"Darkness\" | 2020",
+      "Godzilla": "\"Godzilla\" (featuring Juice Wrld) | 2020",
+      "The Adventures of Moon Man & Slim Shady": "\"The Adventures of Moon Man & Slim Shady\" (with Kid Cudi) | 2020",
+      "Gnat": "\"Gnat\" | 2020 | 60",
+      "Killer": "\"Killer\" (solo or featuring Jack Harlow and Cordae) | 2020",
+      "The King and I": "\"The King and I\" (featuring CeeLo Green) | 2022",
+      "From the D 2 the LBC": "\"From the D 2 the LBC\" (with Snoop Dogg) | 2022",
+      "Houdini": "\"Houdini\" | 2024",
+      "Tobey": "\"Tobey\" (with Big Sean and BabyTron) | 2024",
+      "Somebody Save Me": "\"Somebody Save Me\" (featuring Jelly Roll) | 2024"
+    },
+    "issues": [],
+    "editedInReview": {
+      "removedAnswers": [
+        "Just Don't Give a Fuck"
+      ],
+      "reason": "explicit or hurtful titles, or not suitable for a family-friendly trivia game (human review 2026-10-30)"
+    }
+  }
+}

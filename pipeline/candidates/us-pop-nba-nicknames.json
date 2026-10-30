@@ -1,0 +1,498 @@
+{
+  "question": {
+    "id": "us-pop-nba-nicknames",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous nickname used by an NBA player—or name the player known by it.",
+    "answerSet": "open",
+    "criteria": "Accept a documented nickname used for an NBA player, or the name of a player associated with such a nickname.",
+    "answers": [
+      {
+        "id": "air-jordan",
+        "canonical": "Air Jordan",
+        "aliases": [
+          "Michael Jordan",
+          "MJ",
+          "His Airness"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jordan is known as Air Jordan and His Airness.",
+        "sourceIds": []
+      },
+      {
+        "id": "king-james",
+        "canonical": "King James",
+        "aliases": [
+          "LeBron James",
+          "LeBron",
+          "The King"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James is widely known as King James.",
+        "sourceIds": []
+      },
+      {
+        "id": "black-mamba",
+        "canonical": "Black Mamba",
+        "aliases": [
+          "Kobe Bryant",
+          "Kobe",
+          "The Black Mamba"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kobe Bryant used the nickname Black Mamba.",
+        "sourceIds": []
+      },
+      {
+        "id": "magic",
+        "canonical": "Magic",
+        "aliases": [
+          "Magic Johnson",
+          "Earvin Johnson",
+          "Earvin Magic Johnson"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earvin Johnson is widely known by the nickname Magic.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-greek-freak",
+        "canonical": "The Greek Freak",
+        "aliases": [
+          "Greek Freak",
+          "Giannis Antetokounmpo",
+          "Giannis"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giannis Antetokounmpo is known as the Greek Freak.",
+        "sourceIds": []
+      },
+      {
+        "id": "chef-curry",
+        "canonical": "Chef Curry",
+        "aliases": [
+          "Stephen Curry",
+          "Steph Curry",
+          "The Baby-Faced Assassin",
+          "Baby Faced Assassin"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Curry is known as Chef Curry and the Baby-Faced Assassin.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-answer",
+        "canonical": "The Answer",
+        "aliases": [
+          "Allen Iverson",
+          "Iverson",
+          "AI"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen Iverson is known as the Answer.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-dream",
+        "canonical": "The Dream",
+        "aliases": [
+          "Hakeem Olajuwon",
+          "Hakeem",
+          "Akeem Olajuwon"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hakeem Olajuwon is known as the Dream.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-mailman",
+        "canonical": "The Mailman",
+        "aliases": [
+          "Karl Malone",
+          "Mailman"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karl Malone is known as the Mailman.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-big-fundamental",
+        "canonical": "The Big Fundamental",
+        "aliases": [
+          "Tim Duncan",
+          "Big Fundamental"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Duncan is known as the Big Fundamental.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-admiral",
+        "canonical": "The Admiral",
+        "aliases": [
+          "David Robinson",
+          "Admiral"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Robinson is known as the Admiral.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-iceman",
+        "canonical": "The Iceman",
+        "aliases": [
+          "George Gervin",
+          "Iceman"
+        ],
+        "familiarity": 0.0082,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George Gervin is known as the Iceman.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-glove",
+        "canonical": "The Glove",
+        "aliases": [
+          "Gary Payton",
+          "Glove"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gary Payton is known as the Glove.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-truth",
+        "canonical": "The Truth",
+        "aliases": [
+          "Paul Pierce"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Pierce is known as the Truth.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-worm",
+        "canonical": "The Worm",
+        "aliases": [
+          "Dennis Rodman",
+          "Worm",
+          "Rodman"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dennis Rodman is known as the Worm.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-big-ticket",
+        "canonical": "The Big Ticket",
+        "aliases": [
+          "Kevin Garnett",
+          "KG",
+          "Big Ticket"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Garnett is known as the Big Ticket.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-matrix",
+        "canonical": "The Matrix",
+        "aliases": [
+          "Shawn Marion",
+          "Matrix"
+        ],
+        "familiarity": 0.0082,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shawn Marion is known as the Matrix.",
+        "sourceIds": []
+      },
+      {
+        "id": "white-chocolate",
+        "canonical": "White Chocolate",
+        "aliases": [
+          "Jason Williams"
+        ],
+        "familiarity": 0.0082,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jason Williams is known as White Chocolate.",
+        "sourceIds": []
+      },
+      {
+        "id": "shaq",
+        "canonical": "Shaq",
+        "aliases": [
+          "Shaquille O'Neal",
+          "Diesel",
+          "The Diesel",
+          "The Big Aristotle"
+        ],
+        "familiarity": 0.0684,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shaquille O'Neal is known as Shaq, Diesel, and the Big Aristotle.",
+        "sourceIds": []
+      },
+      {
+        "id": "dr-j",
+        "canonical": "Dr. J",
+        "aliases": [
+          "Doctor J",
+          "Julius Erving"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julius Erving is known as Dr. J.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-human-highlight-film",
+        "canonical": "The Human Highlight Film",
+        "aliases": [
+          "Dominique Wilkins",
+          "Human Highlight Film",
+          "Nique"
+        ],
+        "familiarity": 0.0082,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dominique Wilkins is known as the Human Highlight Film.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-kangaroo-kid",
+        "canonical": "The Kangaroo Kid",
+        "aliases": [
+          "Billy Cunningham",
+          "Kangaroo Kid"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billy Cunningham is known as the Kangaroo Kid.",
+        "sourceIds": []
+      },
+      {
+        "id": "larry-legend",
+        "canonical": "Larry Legend",
+        "aliases": [
+          "Larry Bird",
+          "The Hick from French Lick"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Legend is a nickname for Larry Bird.",
+        "sourceIds": []
+      },
+      {
+        "id": "sir-charles",
+        "canonical": "Sir Charles",
+        "aliases": [
+          "Charles Barkley",
+          "Chuck Barkley",
+          "The Round Mound of Rebound",
+          "Round Mound of Rebound",
+          "Chuck"
+        ],
+        "familiarity": 0.0274,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sir Charles and the Round Mound of Rebound are nicknames for Charles Barkley.",
+        "sourceIds": []
+      },
+      {
+        "id": "pistol-pete",
+        "canonical": "Pistol Pete",
+        "aliases": [
+          "Pete Maravich",
+          "Peter Maravich",
+          "Pistol"
+        ],
+        "familiarity": 0.0082,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pistol Pete is a nickname for Pete Maravich.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "NBA nicknames often reference a player's style, signature skills, appearance, or public persona. Either the nickname or the associated player's name counts.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "0eec2730dc94ffef",
+    "brief": "Name an NBA player by their famous nickname or the nickname itself (for example \"The Greek Freak\").",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Air Jordan": 3,
+      "King James": 3,
+      "Black Mamba": 3,
+      "Shaq": 2,
+      "Magic": 3,
+      "The Greek Freak": 3,
+      "Chef Curry": 3,
+      "The Answer": 3,
+      "Dr. J": 2,
+      "The Dream": 3,
+      "The Mailman": 3,
+      "The Big Fundamental": 3,
+      "The Admiral": 3,
+      "The Iceman": 3,
+      "The Glove": 3,
+      "The Truth": 3,
+      "The Worm": 3,
+      "The Big Ticket": 3,
+      "The Matrix": 3,
+      "White Chocolate": 3,
+      "The Human Highlight Film": 2,
+      "The Kangaroo Kid": 2,
+      "Larry Legend": 2,
+      "Sir Charles": 2,
+      "Pistol Pete": 2
+    },
+    "droppedForVotes": {
+      "Round Mound of Rebound": 1,
+      "Wilt the Stilt": 1,
+      "The Reign Man": 1,
+      "Penny": 1,
+      "Clyde the Glide": 1,
+      "Flash": 1,
+      "Sleepy": 1,
+      "The Whopper": 1,
+      "The Joker": 1,
+      "The Beard": 1,
+      "The Brow": 1,
+      "The Slim Reaper": 1,
+      "The Klaw": 1,
+      "The Process": 1,
+      "Plastic Man": 1,
+      "The Rifleman": 1,
+      "The Vanilla Gorilla": 1,
+      "The Diesel": 1,
+      "Vinsanity": 1,
+      "Human Highlight Film": 1,
+      "The Big O": 1,
+      "The Chief": 1,
+      "Chocolate Thunder": 1,
+      "The Microwave": 1,
+      "Big Smooth": 1,
+      "The Greyhound": 1
+    },
+    "verdicts": {
+      "Air Jordan": {
+        "verdict": "correct",
+        "reason": "Air Jordan and His Airness are well-documented nicknames for Michael Jordan."
+      },
+      "King James": {
+        "verdict": "correct",
+        "reason": "King James is a widely documented nickname for LeBron James."
+      },
+      "Black Mamba": {
+        "verdict": "correct",
+        "reason": "Black Mamba is a well-documented nickname used by Kobe Bryant."
+      },
+      "Magic": {
+        "verdict": "correct",
+        "reason": "Earvin Johnson is universally known in basketball as Magic Johnson."
+      },
+      "The Greek Freak": {
+        "verdict": "correct",
+        "reason": "The Greek Freak is a widely documented nickname for Giannis Antetokounmpo."
+      },
+      "Chef Curry": {
+        "verdict": "correct",
+        "reason": "Chef Curry and the Baby-Faced Assassin are documented nicknames for Stephen Curry."
+      },
+      "The Answer": {
+        "verdict": "correct",
+        "reason": "The Answer is a famous nickname for Allen Iverson."
+      },
+      "The Dream": {
+        "verdict": "correct",
+        "reason": "The Dream is a famous nickname for Hakeem Olajuwon."
+      },
+      "The Mailman": {
+        "verdict": "correct",
+        "reason": "The Mailman is a famous basketball nickname for Karl Malone."
+      },
+      "The Big Fundamental": {
+        "verdict": "correct",
+        "reason": "The Big Fundamental is a widely documented nickname for Tim Duncan."
+      },
+      "The Admiral": {
+        "verdict": "correct",
+        "reason": "The Admiral is a famous nickname for David Robinson."
+      },
+      "The Iceman": {
+        "verdict": "correct",
+        "reason": "The Iceman is a famous nickname for George Gervin."
+      },
+      "The Glove": {
+        "verdict": "correct",
+        "reason": "The Glove is a famous nickname for Gary Payton."
+      },
+      "The Truth": {
+        "verdict": "correct",
+        "reason": "The Truth is a well-documented nickname for Paul Pierce."
+      },
+      "The Worm": {
+        "verdict": "correct",
+        "reason": "The Worm is a famous nickname for Dennis Rodman."
+      },
+      "The Big Ticket": {
+        "verdict": "correct",
+        "reason": "The Big Ticket is a well-documented nickname for Kevin Garnett."
+      },
+      "The Matrix": {
+        "verdict": "correct",
+        "reason": "The Matrix is a well-documented nickname for Shawn Marion."
+      },
+      "White Chocolate": {
+        "verdict": "correct",
+        "reason": "White Chocolate is a famous nickname for NBA guard Jason Williams."
+      },
+      "Shaq": {
+        "verdict": "correct",
+        "reason": "Shaq, Diesel, and the Big Aristotle are documented nicknames for Shaquille O'Neal."
+      },
+      "Dr. J": {
+        "verdict": "correct",
+        "reason": "Dr. J is the famous nickname of Julius Erving."
+      },
+      "The Human Highlight Film": {
+        "verdict": "correct",
+        "reason": "The Human Highlight Film is a famous nickname for Dominique Wilkins."
+      },
+      "The Kangaroo Kid": {
+        "verdict": "correct",
+        "reason": "The Kangaroo Kid is a documented nickname for Billy Cunningham."
+      },
+      "Larry Legend": {
+        "verdict": "correct",
+        "reason": "Larry Legend is a widely documented nickname for Larry Bird."
+      },
+      "Sir Charles": {
+        "verdict": "correct",
+        "reason": "Sir Charles and the Round Mound of Rebound are famous nicknames for Charles Barkley."
+      },
+      "Pistol Pete": {
+        "verdict": "correct",
+        "reason": "Pistol Pete is the famous nickname of Pete Maravich."
+      }
+    },
+    "issues": []
+  }
+}

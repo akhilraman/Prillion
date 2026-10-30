@@ -1,0 +1,513 @@
+{
+  "question": {
+    "id": "tollywood-filmfare-best-actress",
+    "category": "tollywood",
+    "prompt": "Name an actress who has won the Filmfare Award for Best Actress – Telugu, through the 2024 film year.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "j-jayalalithaa",
+        "canonical": "J. Jayalalithaa",
+        "aliases": [
+          "Jayalalithaa",
+          "Jayalalitha",
+          "J Jayalalithaa"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J. Jayalalithaa won for Sri Krishna Satya in 1972.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "vanisri",
+        "canonical": "Vanisri",
+        "aliases": [
+          "Vani Sri"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vanisri won for Jeevana Tarangalu in 1973.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "jayasudha",
+        "canonical": "Jayasudha",
+        "aliases": [
+          "Jaya Sudha"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jayasudha won for Jyothi in 1976.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "talluri-rameswari",
+        "canonical": "Talluri Rameswari",
+        "aliases": [
+          "Rameswari",
+          "Rameshwari",
+          "Talluri Rameshwari"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Talluri Rameswari won for Seetamalakshmi in 1978.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "sujatha",
+        "canonical": "Sujatha",
+        "aliases": [],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sujatha won for Guppedu Manasu in 1979.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "jyothi",
+        "canonical": "Jyothi",
+        "aliases": [
+          "Jyoti"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jyothi won for Vamsa Vruksham in 1980.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "radhika-sarathkumar",
+        "canonical": "Radhika Sarathkumar",
+        "aliases": [
+          "Radhika",
+          "Raadhika",
+          "Raadhika Sarathkumar"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Radhika Sarathkumar won for Nyayam Kavali in 1981.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "jaya-prada",
+        "canonical": "Jaya Prada",
+        "aliases": [
+          "Jayaprada"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jaya Prada won for Sagara Sangamam in 1983.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "suhasini-maniratnam",
+        "canonical": "Suhasini Maniratnam",
+        "aliases": [
+          "Suhasini",
+          "Suhasini Mani Ratnam"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Suhasini Maniratnam won for Swathi in 1984.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "vijayashanti",
+        "canonical": "Vijayashanti",
+        "aliases": [
+          "Vijaya Shanthi",
+          "Vijayashanthi",
+          "Vijaya Shanti"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vijayashanti won for Pratighatana in 1985.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "lakshmi",
+        "canonical": "Lakshmi",
+        "aliases": [],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lakshmi won for Sravana Meghalu in 1986.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "bhanupriya",
+        "canonical": "Bhanupriya",
+        "aliases": [
+          "Bhanu Priya"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhanupriya won for Swarnakamalam in 1988.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "sridevi",
+        "canonical": "Sridevi",
+        "aliases": [
+          "Sri Devi"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sridevi won for Kshana Kshanam in 1991.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "revathi",
+        "canonical": "Revathi",
+        "aliases": [
+          "Revathy"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Revathi won for Ankuram in 1992.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "aamani",
+        "canonical": "Aamani",
+        "aliases": [
+          "Amani"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aamani won for Subhalagnam in 1994.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "soundarya",
+        "canonical": "Soundarya",
+        "aliases": [
+          "Soundariya"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Soundarya won for Ammoru in 1995.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "tabu",
+        "canonical": "Tabu",
+        "aliases": [],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tabu won for Ninne Pelladata in 1996.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "richa-pallod",
+        "canonical": "Richa Pallod",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richa Pallod won for Nuvve Kavali in 2000.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "bhumika-chawla",
+        "canonical": "Bhumika Chawla",
+        "aliases": [
+          "Bhumika",
+          "Bhoomika",
+          "Bhoomika Chawla"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhumika Chawla won for Kushi in 2001.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "sadha",
+        "canonical": "Sadha",
+        "aliases": [
+          "Sada"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sadha won for Jayam in 2002.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "asin",
+        "canonical": "Asin",
+        "aliases": [],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Asin won for Amma Nanna O Tamila Ammayi in 2003.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "trisha-krishnan",
+        "canonical": "Trisha Krishnan",
+        "aliases": [
+          "Trisha"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha Krishnan won for Varsham in 2004.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "genelia-d-souza",
+        "canonical": "Genelia D'Souza",
+        "aliases": [
+          "Genelia",
+          "Genelia Dsouza",
+          "Genelia D Souza"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genelia D'Souza won for Bommarillu in 2006.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "swathi-reddy",
+        "canonical": "Swathi Reddy",
+        "aliases": [
+          "Swathi",
+          "Swati Reddy"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Swathi Reddy won for Ashta Chamma in 2008.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "anushka-shetty",
+        "canonical": "Anushka Shetty",
+        "aliases": [
+          "Anushka"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anushka Shetty won for Arundhati in 2009.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "nayanthara",
+        "canonical": "Nayanthara",
+        "aliases": [
+          "Nayantara",
+          "Nayanthara"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara won for Sri Rama Rajyam in 2011.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "samantha",
+        "canonical": "Samantha",
+        "aliases": [
+          "Samantha Ruth Prabhu"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha won for Eega in 2012.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "nithya-menen",
+        "canonical": "Nithya Menen",
+        "aliases": [
+          "Nithya",
+          "Nithya Menon"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nithya Menen won for Gunde Jaari Gallanthayyinde in 2013.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "shruti-haasan",
+        "canonical": "Shruti Haasan",
+        "aliases": [
+          "Shruti",
+          "Shruti Hassan",
+          "Shruthi Haasan",
+          "Shruthi Hassan"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shruti Haasan won for Race Gurram in 2014.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "sai-pallavi",
+        "canonical": "Sai Pallavi",
+        "aliases": [
+          "Saipallavi"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi won for Fidaa in 2017.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "keerthy-suresh",
+        "canonical": "Keerthy Suresh",
+        "aliases": [
+          "Keerthy",
+          "Keerthi Suresh",
+          "Kirti Suresh"
+        ],
+        "familiarity": 0.0696,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keerthy Suresh won for Mahanati in 2018.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "mrunal-thakur",
+        "canonical": "Mrunal Thakur",
+        "aliases": [
+          "Mrunal"
+        ],
+        "familiarity": 0.0278,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrunal Thakur won for Sita Ramam in 2022.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      },
+      {
+        "id": "nivetha-thomas",
+        "canonical": "Nivetha Thomas",
+        "aliases": [
+          "Nivetha",
+          "Niveda Thomas",
+          "Nivedha Thomas"
+        ],
+        "familiarity": 0.0084,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nivetha Thomas won for 35 Chinna Katha Kaadu in 2024.",
+        "sourceIds": [
+          "filmfare-award-for-best-actress-telugu"
+        ]
+      }
+    ],
+    "explanation": "These actresses are listed as winners of the main Best Actress – Telugu award, from its first award for 1972 through the 2024 film year. Nominees and winners of the separate Critics Award do not count.",
+    "sources": [
+      {
+        "id": "filmfare-award-for-best-actress-telugu",
+        "title": "Filmfare Award for Best Actress – Telugu",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actress_%E2%80%93_Telugu",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "012904ec071ebdd1",
+    "brief": "Name an actress who has won the Filmfare Award for Best Actress – Telugu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "filmfare-award-for-best-actress-telugu",
+        "version": "1370330814",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "J. Jayalalithaa": "1972 | J. Jayalalithaa ‡ | Satyabhama / Chandrasena | Sri Krishna Satya |",
+      "Vanisri": "1973 | Vanisri ‡ | Roja | Jeevana Tarangalu |",
+      "Jayasudha": "1976 | Jayasudha ‡ | Jyothi | Jyothi |",
+      "Talluri Rameswari": "1978 | Talluri Rameswari ‡ | Seetalu | Seetamalakshmi |",
+      "Sujatha": "1979 | Sujatha ‡ | Vidya | Guppedu Manasu |",
+      "Jyothi": "1980 | Jyothi ‡ | ASP Vyjayanthi | Vamsa Vruksham |",
+      "Radhika Sarathkumar": "1981 | Radhika Sarathkumar ‡ | Bharathi Devi | Nyayam Kavali |",
+      "Jaya Prada": "1983 | Jaya Prada ‡ | Madhavi | Sagara Sangamam |",
+      "Suhasini Maniratnam": "1984 | Suhasini Maniratnam ‡ | Swati | Swathi |",
+      "Vijayashanti": "1985 | Vijayashanti ‡ | Jhansi | Pratighatana |",
+      "Lakshmi": "1986 | Lakshmi ‡ | | Sravana Meghalu |",
+      "Bhanupriya": "1988 | Bhanupriya ‡ | Meenakshi | Swarnakamalam |",
+      "Sridevi": "1991 | Sridevi ‡ | Satya | Kshana Kshanam |",
+      "Revathi": "1992 | Revathi ‡ | Sindhura | Ankuram |",
+      "Aamani": "1994 | Aamani ‡ | Radha | Subhalagnam |",
+      "Soundarya": "1995 | Soundarya ‡ | Bhavani | Ammoru |",
+      "Tabu": "1996 | Tabu ‡ | Mahalakshmi | Ninne Pelladata |",
+      "Richa Pallod": "2000 | Richa Pallod ‡ | Madhu | Nuvve Kavali |",
+      "Bhumika Chawla": "2001 | Bhumika Chawla ‡ | Madhumati | Kushi |",
+      "Sadha": "2002 | Sadha ‡ | Sujatha | Jayam |",
+      "Asin": "2003 | Asin ‡ | Mugambigambal | Amma Nanna O Tamila Ammayi |",
+      "Trisha Krishnan": "2004 | Trisha Krishnan ‡ | Sailaja | Varsham |",
+      "Genelia D'Souza": "2006 | Genelia D'Souza ‡ | Haasini Rao | Bommarillu |",
+      "Swathi Reddy": "2008 | Swathi Reddy ‡ | Lavanya | Ashta Chamma |",
+      "Anushka Shetty": "2009 | Anushka Shetty ‡ | Arundhati Jr / Arundhati Sr \"Jejamma\" | Arundhati |",
+      "Nayanthara": "2011 | Nayanthara ‡ | Sita | Sri Rama Rajyam |",
+      "Samantha": "2012 | Samantha ‡ | Bindu | Eega |",
+      "Nithya Menen": "2013 | Nithya Menen ‡ | Sravani | Gunde Jaari Gallanthayyinde |",
+      "Shruti Haasan": "2014 | Shruti Haasan ‡ | Spandana | Race Gurram |",
+      "Sai Pallavi": "2017 | Sai Pallavi ‡ | Bhanumati | Fidaa |",
+      "Keerthy Suresh": "2018 | Keerthy Suresh ‡ | Savitri | Mahanati |",
+      "Mrunal Thakur": "2022 | Mrunal Thakur ‡ | Princess Noor Jahan / Sita Mahalakshmi | Sita Ramam |",
+      "Nivetha Thomas": "2024 | Nivetha Thomas ‡ | Bala Saraswati | 35 Chinna Katha Kaadu |"
+    },
+    "issues": []
+  }
+}

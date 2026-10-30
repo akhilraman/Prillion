@@ -136,3 +136,16 @@ def test_topics_file_validates_mode_and_pages(tmp_path: Path) -> None:
     for bad in (with_pages, no_pages):
         with pytest.raises(TopicsError):
             load_topics(bad)
+
+
+def test_a_run_that_produces_no_question_still_records_why(tmp_path: Path) -> None:
+    from prillion_pipeline.llm import LLMError
+
+    llm = FakeLLM(LLMError("a"), LLMError("b"), LLMError("c"))
+
+    code, _ = run(tmp_path, *RUN_ARGS, llm=llm)
+
+    assert code == 1
+    record = json.loads((tmp_path / "c" / "us-pop-memes.failed.json").read_text())
+    assert record["question"] is None
+    assert any("too-few-samples" in issue for issue in record["provenance"]["issues"])

@@ -1,0 +1,249 @@
+{
+  "question": {
+    "id": "us-pop-drake-memes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a widely known internet meme, running joke, or viral moment involving Drake.",
+    "answerSet": "open",
+    "criteria": "A documented internet meme, recurring joke, or viral moment involving Drake’s public work, appearances, or performances.",
+    "answers": [
+      {
+        "id": "drake-the-type",
+        "canonical": "Drake the type",
+        "aliases": [
+          "Drake the type of guy",
+          "Drake the type of dude",
+          "Drake the type of fella",
+          "Drake Be the Type"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This recurring joke imagines Drake behaving in exaggeratedly sentimental, quaint, or cartoonish ways.",
+        "sourceIds": []
+      },
+      {
+        "id": "anita-max-wynn",
+        "canonical": "Anita Max Wynn",
+        "aliases": [
+          "Anita Max Win",
+          "Anita"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake introduced Anita Max Wynn as an alter ego during a livestream, and the name and delivery became a meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "in-my-feelings-challenge",
+        "canonical": "In My Feelings Challenge",
+        "aliases": [
+          "Kiki Challenge",
+          "Keke Challenge",
+          "Shiggy Challenge",
+          "In My Feelings dance"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A dance popularized by Shiggy became a viral challenge set to Drake’s In My Feelings.",
+        "sourceIds": []
+      },
+      {
+        "id": "21-can-you-do-something",
+        "canonical": "21, can you do something",
+        "aliases": [
+          "21 can you do somethin for me",
+          "21 can you do something for me",
+          "Rich Flex meme"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake’s delivery of the opening requests to 21 Savage on Rich Flex inspired memes and imitations.",
+        "sourceIds": []
+      },
+      {
+        "id": "wheelchair-jimmy",
+        "canonical": "Wheelchair Jimmy",
+        "aliases": [
+          "Jimmy Brooks",
+          "Degrassi Drake",
+          "Drake in a wheelchair",
+          "Wheelchair Drake"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake’s portrayal of Jimmy Brooks on Degrassi became a recurring source of memes referencing his acting career.",
+        "sourceIds": []
+      },
+      {
+        "id": "drake-lint-roller",
+        "canonical": "Drake lint roller",
+        "aliases": [
+          "Lint Roller Drake",
+          "Drake lint rolling",
+          "Drake lint rolling pants",
+          "Courtside lint roller"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Footage of Drake lint-rolling his pants courtside at a Toronto Raptors game became a viral joke.",
+        "sourceIds": []
+      },
+      {
+        "id": "drake-sprite-commercial",
+        "canonical": "Drake Sprite commercial",
+        "aliases": [
+          "Sprite Drake",
+          "Drake robot commercial",
+          "Drake Forever Sprite ad",
+          "Drake Sprite ad"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A Sprite advertisement showing Drake’s body opening into mechanical sections became material for memes and remixes.",
+        "sourceIds": []
+      },
+      {
+        "id": "hotline-bling",
+        "canonical": "Hotline Bling",
+        "aliases": [
+          "Drakeposting",
+          "Drake Approves",
+          "Drake Yes No",
+          "Drake Reaction",
+          "Drake approval meme",
+          "Hotline Bling dance"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Images from Drake’s dancing in the Hotline Bling video became a two-panel meme contrasting rejection with approval.",
+        "sourceIds": []
+      },
+      {
+        "id": "yolo",
+        "canonical": "YOLO",
+        "aliases": [
+          "You Only Live Once"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake popularized YOLO through The Motto, and the phrase became an internet catchphrase and frequent target of parody.",
+        "sourceIds": []
+      },
+      {
+        "id": "started-from-the-bottom",
+        "canonical": "Started From the Bottom",
+        "aliases": [
+          "Started From the Bottom Now We're Here",
+          "Started from the bottom now we here"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The title and refrain of Drake’s Started From the Bottom became a caption format for humorous transformations and achievements.",
+        "sourceIds": []
+      },
+      {
+        "id": "drake-curse",
+        "canonical": "Drake Curse",
+        "aliases": [
+          "The Drake Curse",
+          "Drake Sports Curse",
+          "Drake jinx"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Drake curse is a joking superstition that athletes or teams suffer losses after receiving Drake’s support.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Drake’s music videos, acting roles, advertisements, livestreams, and courtside appearances have inspired memes and viral jokes. Other documented examples meeting the criteria also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "5c11a9b433c065c0",
+    "brief": "Name a widely known internet meme, running joke or viral moment involving the rapper Drake (public work, public appearances and public moments only).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Drake the type": 3,
+      "In My Feelings Challenge": 2,
+      "21, can you do something": 2,
+      "Anita Max Wynn": 3,
+      "Wheelchair Jimmy": 2,
+      "Drake lint roller": 2,
+      "Drake Sprite commercial": 2,
+      "Hotline Bling": 2,
+      "YOLO": 2,
+      "Started From the Bottom": 2,
+      "Drake Curse": 2
+    },
+    "droppedForVotes": {
+      "Drakeposting": 1,
+      "Toosie Slide": 1,
+      "Drake airball": 1,
+      "Drake Dada pose": 1,
+      "Drake Bad Blood workout": 1,
+      "Tiny Drake": 1,
+      "21 Can You Do": 1,
+      "Lint Roller Drake": 1,
+      "Kentucky Airball": 1,
+      "Nothing Was the Same": 1,
+      "Take Care Cover": 1,
+      "If You're Reading This": 1,
+      "Sprite Commercial": 1,
+      "DRAAAKE?": 1,
+      "Drake Kentucky Airball": 1,
+      "Drake Heart Haircut": 1
+    },
+    "verdicts": {
+      "Drake the type": {
+        "verdict": "correct",
+        "reason": "A widely documented joke format imagining Drake doing sentimental, quaint, or cartoonish things."
+      },
+      "Anita Max Wynn": {
+        "verdict": "correct",
+        "reason": "Drake introduced this alter ego during a livestream; the name and his delivery became a viral meme."
+      },
+      "In My Feelings Challenge": {
+        "verdict": "correct",
+        "reason": "Shiggy’s dance to Drake’s song sparked a widely documented viral dance challenge."
+      },
+      "21, can you do something": {
+        "verdict": "correct",
+        "reason": "Drake’s opening lines on Rich Flex became a recognizable source of memes and imitations."
+      },
+      "Wheelchair Jimmy": {
+        "verdict": "correct",
+        "reason": "Drake’s fictional Degrassi character, Jimmy Brooks, is a recurring reference in memes about his acting career."
+      },
+      "Drake lint roller": {
+        "verdict": "correct",
+        "reason": "Footage of Drake lint-rolling his pants courtside at a Raptors game went viral in 2014."
+      },
+      "Drake Sprite commercial": {
+        "verdict": "correct",
+        "reason": "The Sprite commercial depicting Drake mechanically coming apart became material for internet jokes and remixes."
+      },
+      "Hotline Bling": {
+        "verdict": "correct",
+        "reason": "Frames from the music video became the widely used rejection-versus-approval meme template."
+      },
+      "YOLO": {
+        "verdict": "correct",
+        "reason": "Drake popularized the acronym through The Motto, helping make it an internet catchphrase and parody target."
+      },
+      "Started From the Bottom": {
+        "verdict": "correct",
+        "reason": "The song’s title and refrain became a common humorous caption for progress, transformations, and achievements."
+      },
+      "Drake Curse": {
+        "verdict": "correct",
+        "reason": "A widely documented sports joke attributes teams’ or athletes’ losses to Drake supporting them."
+      }
+    },
+    "issues": []
+  }
+}

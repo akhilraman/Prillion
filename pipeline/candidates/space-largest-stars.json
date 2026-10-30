@@ -1,0 +1,238 @@
+{
+  "question": {
+    "id": "space-largest-stars",
+    "category": "space",
+    "prompt": "Name a Milky Way star listed with an estimated radius of at least 1,300 times the Sun's radius, not counting uncertainty margins.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "stephenson-2-dfk-1-st2-18",
+        "canonical": "Stephenson 2 DFK 1 (St2-18)",
+        "aliases": [
+          "Stephenson 2 DFK 1",
+          "St2-18",
+          "Stephenson 2-18"
+        ],
+        "familiarity": 0.2457,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,840 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "nml-cygni",
+        "canonical": "NML Cygni",
+        "aliases": [
+          "NML Cyg"
+        ],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,590 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "rsgc1-f01",
+        "canonical": "RSGC1-F01",
+        "aliases": [],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,470 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "vx-sagittarii",
+        "canonical": "VX Sagittarii",
+        "aliases": [
+          "VX Sgr"
+        ],
+        "familiarity": 0.0983,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimates range from 1,456 to 1,556 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "stephenson-2-dfk-2-st2-3",
+        "canonical": "Stephenson 2 DFK 2 (St2-3)",
+        "aliases": [
+          "Stephenson 2 DFK 2",
+          "St2-3"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,420 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "vy-canis-majoris",
+        "canonical": "VY Canis Majoris",
+        "aliases": [
+          "VY CMa"
+        ],
+        "familiarity": 0.2457,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,420 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "ah-scorpii",
+        "canonical": "AH Scorpii",
+        "aliases": [
+          "AH Sco"
+        ],
+        "familiarity": 0.0295,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its radius-column estimate is 1,411 solar radii, although the notes discuss a smaller estimate.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "cd-34-11794",
+        "canonical": "CD–34°11794",
+        "aliases": [
+          "CD-34 11794",
+          "CD-34°11794"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,409 solar radii.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "rsgc1-f06",
+        "canonical": "RSGC1-F06",
+        "aliases": [],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,380 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "s-persei",
+        "canonical": "S Persei",
+        "aliases": [
+          "S Per"
+        ],
+        "familiarity": 0.0295,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimate is 1,364 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "hr-5171-v766-centauri-a",
+        "canonical": "HR 5171 (V766 Centauri A)",
+        "aliases": [
+          "HR 5171",
+          "V766 Centauri A",
+          "V766 Centauri Aa",
+          "V766 Centauri"
+        ],
+        "familiarity": 0.0295,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius estimates range from 1,315 to 1,575 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "pz-cassiopeiae",
+        "canonical": "PZ Cassiopeiae",
+        "aliases": [
+          "PZ Cas"
+        ],
+        "familiarity": 0.0295,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius range reaches 1,340 solar radii.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "gcirs-7",
+        "canonical": "GCIRS 7",
+        "aliases": [
+          "GCIRS7"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its radius column includes estimates of 1,359 and 1,368 solar radii.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      },
+      {
+        "id": "cm-velorum",
+        "canonical": "CM Velorum",
+        "aliases": [
+          "CM Vel"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Its listed radius range reaches 1,416.24 solar radii before uncertainty margins.",
+        "sourceIds": [
+          "list-of-largest-stars"
+        ]
+      }
+    ],
+    "explanation": "These are among the largest known stars by physical radius, rather than mass or apparent size. Stellar radii are difficult to measure and can vary over time, so the source includes multiple estimates, ranges and substantial uncertainties.",
+    "sources": [
+      {
+        "id": "list-of-largest-stars",
+        "title": "List of largest stars",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_largest_stars",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "The star must appear in the source's Milky Way table with at least one value or range endpoint of 1,300 solar radii or more in the Solar radius column; uncertainty margins and estimates mentioned only in notes do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "287853566677ac5c",
+    "brief": "Name one of the largest known stars.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-largest-stars",
+        "version": "1382436650",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Stephenson 2 DFK 1 (St2-18)": "Stephenson 2 DFK 1 (St2-18) | 1,840+310 −360 | L/Teff",
+      "NML Cygni": "NML Cygni | 1,590+130 −110 | L/Teff | Surrounding dusty region is very complex making the radius hard to determine.",
+      "RSGC1-F01": "RSGC1-F01 | 1,470 ± 230 | L/Teff |",
+      "VX Sagittarii": "VX Sagittarii | 1,456±108 – 1,556±110 | AD | Widely recognized as being among the largest known stars.",
+      "Stephenson 2 DFK 2 (St2-3)": "Stephenson 2 DFK 2 (St2-3) | 1,420 ± 250 | L/Teff |",
+      "VY Canis Majoris": "VY Canis Majoris | 1,420±120 | AD | An extreme oxygen-rich red hypergiant",
+      "AH Scorpii": "AH Scorpii | 1,411±124 | AD | Its angular diameter was re-measured at 5.05 ± 0.5 mas in 2023, which would yield a smaller radius of 1,227 R☉.",
+      "CD–34°11794": "CD–34°11794 | 1,409 | L/Teff | Oxygen-rich red supergiant and OH/IR star.",
+      "RSGC1-F06": "RSGC1-F06 | 1,380 ± 330 | L/Teff |",
+      "S Persei": "S Persei | 1,364±6 | AD | Oxygen-rich red supergiant. Also called a hypergiant.",
+      "HR 5171 (V766 Centauri A)": "HR 5171 (V766 Centauri A) | 1,315±260 – 1,575±400 | AD | V766 Centauri Aa is a rare variable yellow hypergiant.",
+      "PZ Cassiopeiae": "PZ Cassiopeiae | 1,260 – 1,340 | L/Teff |",
+      "GCIRS 7": "GCIRS 7 | 1,170±60, 1,359, 1,368 | AD & L/Teff |",
+      "CM Velorum": "CM Velorum | 1,048 – 1,416.24+0.40 −0.96 | L/Teff |"
+    },
+    "issues": []
+  }
+}

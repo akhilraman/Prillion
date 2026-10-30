@@ -19,7 +19,7 @@ function prefersReducedMotion(): boolean {
  */
 export function useCountUp(
   target: number,
-  { durationMs = 1400, delayMs = 250 }: CountUpOptions = {},
+  { durationMs = 2800, delayMs = 200 }: CountUpOptions = {},
 ): number {
   const [shown, setShown] = useState(target);
   const latest = useRef(target);

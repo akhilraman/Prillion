@@ -1,0 +1,839 @@
+{
+  "question": {
+    "id": "us-pop-the-office-characters",
+    "category": "us-pop",
+    "prompt": "Name a character listed in the cast overview for the American version of The Office.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "michael-scott",
+        "canonical": "Michael Scott",
+        "aliases": [
+          "Michael",
+          "Michael Gary Scott"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Scott is listed as a main character, portrayed by Steve Carell.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "dwight-schrute",
+        "canonical": "Dwight Schrute",
+        "aliases": [
+          "Dwight",
+          "Dwight Kurt Schrute III"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dwight Schrute is listed as a main character, portrayed by Rainn Wilson.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "jim-halpert",
+        "canonical": "Jim Halpert",
+        "aliases": [
+          "Jim",
+          "James Duncan Halpert"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jim Halpert is listed as a main character, portrayed by John Krasinski.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "pam-beesly",
+        "canonical": "Pam Beesly",
+        "aliases": [
+          "Pam",
+          "Pam Halpert",
+          "Pam Beasley",
+          "Pamela Morgan Halpert"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pam Beesly is listed as a main character, portrayed by Jenna Fischer.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "ryan-howard",
+        "canonical": "Ryan Howard",
+        "aliases": [
+          "Ryan",
+          "Ryan Bailey Howard"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ryan Howard is listed as a main character, portrayed by B. J. Novak.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "andy-bernard",
+        "canonical": "Andy Bernard",
+        "aliases": [
+          "Andy",
+          "Andrew Baines Bernard"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andy Bernard appears in the main-character section of the cast overview.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "robert-california",
+        "canonical": "Robert California",
+        "aliases": [
+          "Robert"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robert California appears in the main-character section, portrayed by James Spader.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "stanley-hudson",
+        "canonical": "Stanley Hudson",
+        "aliases": [
+          "Stanley"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stanley Hudson is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "kevin-malone",
+        "canonical": "Kevin Malone",
+        "aliases": [
+          "Kevin"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Malone is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "meredith-palmer",
+        "canonical": "Meredith Palmer",
+        "aliases": [
+          "Meredith"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Meredith Palmer is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "angela-martin",
+        "canonical": "Angela Martin",
+        "aliases": [
+          "Angela",
+          "Angela Noelle Martin"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Angela Martin is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "oscar-martinez",
+        "canonical": "Oscar Martinez",
+        "aliases": [
+          "Oscar"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oscar Martinez is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "phyllis-lapin-vance",
+        "canonical": "Phyllis Lapin / Vance",
+        "aliases": [
+          "Phyllis",
+          "Phyllis Vance",
+          "Phyllis Lapin"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phyllis is listed under both her maiden and married surnames among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "roy-anderson",
+        "canonical": "Roy Anderson",
+        "aliases": [
+          "Roy"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roy Anderson is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "jan-levinson",
+        "canonical": "Jan Levinson",
+        "aliases": [
+          "Jan"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jan Levinson is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "kelly-kapoor",
+        "canonical": "Kelly Kapoor",
+        "aliases": [
+          "Kelly",
+          "Kelly Rajanigandha Kapoor"
+        ],
+        "familiarity": 0.0545,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kelly Kapoor is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "toby-flenderson",
+        "canonical": "Toby Flenderson",
+        "aliases": [
+          "Toby"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toby Flenderson is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "creed-bratton",
+        "canonical": "Creed Bratton",
+        "aliases": [
+          "Creed",
+          "William Schneider"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Creed Bratton is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "darryl-philbin",
+        "canonical": "Darryl Philbin",
+        "aliases": [
+          "Darryl",
+          "Daryl Philbin"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darryl Philbin is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "erin-hannon",
+        "canonical": "Erin Hannon",
+        "aliases": [
+          "Erin"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erin Hannon is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "gabe-lewis",
+        "canonical": "Gabe Lewis",
+        "aliases": [
+          "Gabe",
+          "Gabriel Susan Lewis"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gabe Lewis is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "holly-flax",
+        "canonical": "Holly Flax",
+        "aliases": [
+          "Holly"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Holly Flax is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "nellie-bertram",
+        "canonical": "Nellie Bertram",
+        "aliases": [
+          "Nellie"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nellie Bertram is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "clark-green",
+        "canonical": "Clark Green",
+        "aliases": [
+          "Clark",
+          "New Dwight"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clark Green is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "pete-miller",
+        "canonical": "Pete Miller",
+        "aliases": [
+          "Pete",
+          "Plop",
+          "New Jim"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pete Miller is listed among the starring characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "devon-white",
+        "canonical": "Devon White",
+        "aliases": [
+          "Devon"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devon White is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "lonny-collins",
+        "canonical": "Lonny Collins",
+        "aliases": [
+          "Lonny",
+          "Lonnis Collins",
+          "Sea Monster"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lonny Collins is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "katy-moore",
+        "canonical": "Katy Moore",
+        "aliases": [
+          "Katy"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Katy Moore is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "todd-packer",
+        "canonical": "Todd Packer",
+        "aliases": [
+          "Todd",
+          "Packer"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Todd Packer is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "hank-tate",
+        "canonical": "Hank Tate",
+        "aliases": [
+          "Hank"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hank Tate is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "carol-stills",
+        "canonical": "Carol Stills",
+        "aliases": [
+          "Carol"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carol Stills is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "bob-vance",
+        "canonical": "Bob Vance",
+        "aliases": [
+          "Bob",
+          "Bob Vance of Vance Refrigeration"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Vance is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "david-wallace",
+        "canonical": "David Wallace",
+        "aliases": [
+          "David",
+          "Wallace"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Wallace is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "mose-schrute",
+        "canonical": "Mose Schrute",
+        "aliases": [
+          "Mose"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mose Schrute is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "helene-beesly",
+        "canonical": "Helene Beesly",
+        "aliases": [
+          "Helene",
+          "Pam's mom",
+          "Pam's mother"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helene Beesly appears in two cast-overview rows because two actors portray her.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "josh-porter",
+        "canonical": "Josh Porter",
+        "aliases": [
+          "Josh",
+          "Joshua Porter"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Josh Porter is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "karen-filippelli",
+        "canonical": "Karen Filippelli",
+        "aliases": [
+          "Karen",
+          "Karen Filipelli"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karen Filippelli is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "nick",
+        "canonical": "Nick",
+        "aliases": [
+          "Nick the IT guy"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nick is listed among the supporting characters, portrayed by Nelson Franklin.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "lynn",
+        "canonical": "Lynn",
+        "aliases": [],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lynn is listed among the supporting characters, portrayed by Lisa K. Wyatt.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "charles-miner",
+        "canonical": "Charles Miner",
+        "aliases": [
+          "Charles"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charles Miner is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "isabel-poreba",
+        "canonical": "Isabel Poreba",
+        "aliases": [
+          "Isabel"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isabel Poreba is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "matt",
+        "canonical": "Matt",
+        "aliases": [
+          "Matt the warehouse worker"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Matt is listed among the supporting characters, portrayed by Sam Daly.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "donna",
+        "canonical": "Donna",
+        "aliases": [
+          "Donna Newton"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Donna is listed among the supporting characters, portrayed by Amy Pietz.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "jo-bennet",
+        "canonical": "Jo Bennet",
+        "aliases": [
+          "Jo",
+          "Jo Bennett",
+          "Joleen Bennett"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jo Bennet is listed among the supporting characters, portrayed by Kathy Bates.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "robert-lipton",
+        "canonical": "Robert Lipton",
+        "aliases": [
+          "Senator Lipton",
+          "The Senator",
+          "State Senator"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robert Lipton is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "nate-nickerson",
+        "canonical": "Nate Nickerson",
+        "aliases": [
+          "Nate",
+          "Nate N. Nickerson"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nate Nickerson is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "deangelo-vickers",
+        "canonical": "Deangelo Vickers",
+        "aliases": [
+          "Deangelo",
+          "Deangelo Jeremitrius Vickers",
+          "DeAngelo Vickers"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deangelo Vickers is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "jordan-garfield",
+        "canonical": "Jordan Garfield",
+        "aliases": [
+          "Jordan"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan Garfield is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "val-johnson",
+        "canonical": "Val Johnson",
+        "aliases": [
+          "Val"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Val Johnson is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "cathy-simms",
+        "canonical": "Cathy Simms",
+        "aliases": [
+          "Cathy",
+          "Kathy Simms"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cathy Simms is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "jessica",
+        "canonical": "Jessica",
+        "aliases": [],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jessica is listed among the supporting characters, portrayed by Eleanor Seigler.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "irene",
+        "canonical": "Irene",
+        "aliases": [],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Irene is listed among the supporting characters, portrayed by Georgia Engel.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "brian",
+        "canonical": "Brian",
+        "aliases": [
+          "Brian the boom mic operator",
+          "Brian the boom guy"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brian is listed among the supporting characters, portrayed by Chris Diamantopoulos.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "zeke-schrute",
+        "canonical": "Zeke Schrute",
+        "aliases": [
+          "Zeke",
+          "Zeke Schrute"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast overview lists this supporting character as Zeke Schrute, while the prose calls him Zeke Schrute.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      },
+      {
+        "id": "esther-bruegger",
+        "canonical": "Esther Bruegger",
+        "aliases": [
+          "Esther"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Esther Bruegger is listed among the supporting characters.",
+        "sourceIds": [
+          "list-of-the-office-american-tv-series-characters"
+        ]
+      }
+    ],
+    "explanation": "The cast overview lists main, starring, and supporting characters across the show's nine seasons. Characters played by more than one actor count only once.",
+    "sources": [
+      {
+        "id": "list-of-the-office-american-tv-series-characters",
+        "title": "List of The Office (American TV series) characters",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_The_Office_(American_TV_series)_characters",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "929a79fd9a5ddc97",
+    "brief": "Name a character from the American version of The Office.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-the-office-american-tv-series-characters",
+        "version": "1376528005",
+        "truncated": true
+      }
+    ],
+    "quotes": {
+      "Michael Scott": "Michael Scott | Steve Carell | Main",
+      "Dwight Schrute": "Dwight Schrute | Rainn Wilson | Main",
+      "Jim Halpert": "Jim Halpert | John Krasinski | Main",
+      "Pam Beesly": "Pam Beesly | Jenna Fischer | Main",
+      "Ryan Howard": "Ryan Howard | B. J. Novak | Main",
+      "Andy Bernard": "Andy Bernard | Ed Helms | Does not appear | | Starring | | | Main",
+      "Robert California": "Robert California | James Spader | Does not appear",
+      "Stanley Hudson": "Stanley Hudson | Leslie David Baker | Recurring | Starring",
+      "Kevin Malone": "Kevin Malone | Brian Baumgartner | Recurring | Starring",
+      "Meredith Palmer": "Meredith Palmer | Kate Flannery | Recurring | Starring",
+      "Angela Martin": "Angela Martin | Angela Kinsey | Recurring | Starring",
+      "Oscar Martinez": "Oscar Martinez | Oscar Nunez | Recurring | Starring",
+      "Phyllis Lapin / Vance": "Phyllis Lapin / Vance | Phyllis Smith | Recurring | Starring",
+      "Roy Anderson": "Roy Anderson | David Denman | Recurring | Starring",
+      "Jan Levinson": "Jan Levinson | Melora Hardin | Recurring | Starring",
+      "Kelly Kapoor": "Kelly Kapoor | Mindy Kaling | Recurring | | Starring",
+      "Toby Flenderson": "Toby Flenderson | Paul Lieberstein | Recurring | | Starring",
+      "Creed Bratton": "Creed Bratton | Creed Bratton | Recurring | | | Starring",
+      "Darryl Philbin": "Darryl Philbin | Craig Robinson | Recurring | | | Starring",
+      "Erin Hannon": "Erin Hannon | Ellie Kemper | Does not appear | | | | Recurring | Starring",
+      "Gabe Lewis": "Gabe Lewis | Zach Woods | Does not appear | | | | | Recurring | Starring",
+      "Holly Flax": "Holly Flax | Amy Ryan | Does not appear | | | Guest | Recurring | Does not appear | Starring",
+      "Nellie Bertram": "Nellie Bertram | Catherine Tate | Does not appear | | | | | | Guest | Starring",
+      "Clark Green": "Clark Green | Clark Duke | Does not appear | | | | | | | | Starring",
+      "Pete Miller": "Pete Miller | Jake Lacy | Does not appear | | | | | | | | Starring",
+      "Devon White": "Devon White | Devon Abner | Guest | Recurring",
+      "Lonny Collins": "Lonny Collins | Patrice O'Neal | Guest",
+      "Katy Moore": "Katy Moore | Amy Adams | Guest | Recurring",
+      "Todd Packer": "Todd Packer | David Koechner | | Recurring | Guest",
+      "Hank Tate": "Hank Tate | Hugh Dane | Does not appear | Recurring",
+      "Carol Stills": "Carol Stills | Nancy Walls | Does not appear | Recurring",
+      "Bob Vance": "Bob Vance | Bobby Ray Shafer | Does not appear | Guest | Recurring",
+      "David Wallace": "David Wallace | Andy Buckley | Does not appear | Guest | Recurring",
+      "Mose Schrute": "Mose Schrute | Michael Schur | Does not appear | Guest",
+      "Helene Beesly": "Helene Beesly | Shannon Cochran | Does not appear | Guest",
+      "Josh Porter": "Josh Porter | Charles Esten | Does not appear | Guest | Recurring",
+      "Karen Filippelli": "Karen Filippelli | Rashida Jones | Does not appear | | Recurring",
+      "Nick": "Nick | Nelson Franklin | Does not appear",
+      "Lynn": "Lynn | Lisa K. Wyatt | Does not appear",
+      "Charles Miner": "Charles Miner | Idris Elba | Does not appear",
+      "Isabel Poreba": "Isabel Poreba | Kelen Coleman | Does not appear",
+      "Matt": "Matt | Sam Daly | Does not appear",
+      "Donna": "Donna | Amy Pietz | Does not appear",
+      "Jo Bennet": "Jo Bennet | Kathy Bates | Does not appear",
+      "Robert Lipton": "Robert Lipton | Jack Coleman | Does not appear",
+      "Nate Nickerson": "Nate Nickerson | Mark Proksch | Does not appear",
+      "Deangelo Vickers": "Deangelo Vickers | Will Ferrell | Does not appear",
+      "Jordan Garfield": "Jordan Garfield | Cody Horn | Does not appear",
+      "Val Johnson": "Val Johnson | Ameenah Kaplan | Does not appear",
+      "Cathy Simms": "Cathy Simms | Lindsey Broad | Does not appear",
+      "Jessica": "Jessica | Eleanor Seigler | Does not appear",
+      "Irene": "Irene | Georgia Engel | Does not appear",
+      "Brian": "Brian | Chris Diamantopoulos | Does not appear",
+      "Zeke Schrute": "Zeke Schrute (Matt Jones) is Dwight's cousin and Mose's brother",
+      "Esther Bruegger": "Esther Bruegger | Nora Kirkpatrick | Does not appear"
+    },
+    "issues": []
+  }
+}

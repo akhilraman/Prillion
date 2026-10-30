@@ -1,0 +1,1153 @@
+{
+  "question": {
+    "id": "us-pop-nba-rookie-of-the-year",
+    "category": "us-pop",
+    "prompt": "Name a player who won the official NBA Rookie of the Year Award from 1952–53 through 2025–26.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "don-meineke",
+        "canonical": "Don Meineke",
+        "aliases": [
+          "Meineke"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Don Meineke won the award for the 1952–53 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "ray-felix",
+        "canonical": "Ray Felix",
+        "aliases": [
+          "Felix"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ray Felix won the award for the 1953–54 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "bob-pettit",
+        "canonical": "Bob Pettit",
+        "aliases": [
+          "Pettit"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Pettit won the award for the 1954–55 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "maurice-stokes",
+        "canonical": "Maurice Stokes",
+        "aliases": [
+          "Stokes"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maurice Stokes won the award for the 1955–56 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "tom-heinsohn",
+        "canonical": "Tom Heinsohn",
+        "aliases": [
+          "Heinsohn",
+          "Tommy Heinsohn"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tom Heinsohn won the award for the 1956–57 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "woody-sauldsberry",
+        "canonical": "Woody Sauldsberry",
+        "aliases": [
+          "Sauldsberry"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Woody Sauldsberry won the award for the 1957–58 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "elgin-baylor",
+        "canonical": "Elgin Baylor",
+        "aliases": [
+          "Baylor"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elgin Baylor won the award for the 1958–59 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "wilt-chamberlain",
+        "canonical": "Wilt Chamberlain",
+        "aliases": [
+          "Wilt",
+          "Chamberlain"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilt Chamberlain won the award for the 1959–60 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "oscar-robertson",
+        "canonical": "Oscar Robertson",
+        "aliases": [
+          "Robertson",
+          "The Big O"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oscar Robertson won the award for the 1960–61 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "walt-bellamy",
+        "canonical": "Walt Bellamy",
+        "aliases": [
+          "Bellamy"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walt Bellamy won the award for the 1961–62 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "terry-dischinger",
+        "canonical": "Terry Dischinger",
+        "aliases": [
+          "Dischinger"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terry Dischinger won the award for the 1962–63 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "jerry-lucas",
+        "canonical": "Jerry Lucas",
+        "aliases": [
+          "Lucas"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jerry Lucas won the award for the 1963–64 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "willis-reed",
+        "canonical": "Willis Reed",
+        "aliases": [
+          "Reed"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Willis Reed won the award for the 1964–65 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "rick-barry",
+        "canonical": "Rick Barry",
+        "aliases": [
+          "Barry"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Barry won the award for the 1965–66 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "dave-bing",
+        "canonical": "Dave Bing",
+        "aliases": [
+          "Bing"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Bing won the award for the 1966–67 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "earl-monroe",
+        "canonical": "Earl Monroe",
+        "aliases": [
+          "Monroe"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earl Monroe won the award for the 1967–68 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "wes-unseld",
+        "canonical": "Wes Unseld",
+        "aliases": [
+          "Unseld"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wes Unseld won the award for the 1968–69 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "kareem-abdul-jabbar",
+        "canonical": "Kareem Abdul-Jabbar",
+        "aliases": [
+          "Lew Alcindor",
+          "Kareem",
+          "Kareem Abdul Jabbar",
+          "Abdul-Jabbar",
+          "Alcindor"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kareem Abdul-Jabbar, then known as Lew Alcindor, won the award for the 1969–70 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "dave-cowens",
+        "canonical": "Dave Cowens",
+        "aliases": [
+          "Cowens"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Cowens was a joint winner for the 1970–71 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "geoff-petrie",
+        "canonical": "Geoff Petrie",
+        "aliases": [
+          "Petrie"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Geoff Petrie was a joint winner for the 1970–71 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "sidney-wicks",
+        "canonical": "Sidney Wicks",
+        "aliases": [
+          "Wicks"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sidney Wicks won the award for the 1971–72 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "bob-mcadoo",
+        "canonical": "Bob McAdoo",
+        "aliases": [
+          "McAdoo"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob McAdoo won the award for the 1972–73 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "ernie-digregorio",
+        "canonical": "Ernie DiGregorio",
+        "aliases": [
+          "DiGregorio",
+          "Ernie Di Gregorio"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ernie DiGregorio won the award for the 1973–74 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "jamaal-wilkes",
+        "canonical": "Jamaal Wilkes",
+        "aliases": [
+          "Wilkes"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jamaal Wilkes won the award for the 1974–75 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "alvan-adams",
+        "canonical": "Alvan Adams",
+        "aliases": [
+          "Adams"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alvan Adams won the award for the 1975–76 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "adrian-dantley",
+        "canonical": "Adrian Dantley",
+        "aliases": [
+          "Dantley"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adrian Dantley won the award for the 1976–77 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "walter-davis",
+        "canonical": "Walter Davis",
+        "aliases": [
+          "Davis"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walter Davis won the award for the 1977–78 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "phil-ford",
+        "canonical": "Phil Ford",
+        "aliases": [
+          "Ford"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phil Ford won the award for the 1978–79 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "larry-bird",
+        "canonical": "Larry Bird",
+        "aliases": [
+          "Bird"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Bird won the award for the 1979–80 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "darrell-griffith",
+        "canonical": "Darrell Griffith",
+        "aliases": [
+          "Griffith"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darrell Griffith won the award for the 1980–81 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "buck-williams",
+        "canonical": "Buck Williams",
+        "aliases": [
+          "Buck"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Buck Williams won the award for the 1981–82 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "terry-cummings",
+        "canonical": "Terry Cummings",
+        "aliases": [
+          "Cummings"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terry Cummings won the award for the 1982–83 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "ralph-sampson",
+        "canonical": "Ralph Sampson",
+        "aliases": [
+          "Sampson"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph Sampson won the award for the 1983–84 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "Jordan",
+          "MJ"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jordan won the award for the 1984–85 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "patrick-ewing",
+        "canonical": "Patrick Ewing",
+        "aliases": [
+          "Ewing"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Patrick Ewing won the award for the 1985–86 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "chuck-person",
+        "canonical": "Chuck Person",
+        "aliases": [
+          "Person"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chuck Person won the award for the 1986–87 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "mark-jackson",
+        "canonical": "Mark Jackson",
+        "aliases": [
+          "Jackson"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mark Jackson won the award for the 1987–88 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "mitch-richmond",
+        "canonical": "Mitch Richmond",
+        "aliases": [
+          "Richmond"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mitch Richmond won the award for the 1988–89 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "david-robinson",
+        "canonical": "David Robinson",
+        "aliases": [
+          "Robinson",
+          "The Admiral"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Robinson won the award for the 1989–90 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "derrick-coleman",
+        "canonical": "Derrick Coleman",
+        "aliases": [
+          "Coleman"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Derrick Coleman won the award for the 1990–91 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "larry-johnson",
+        "canonical": "Larry Johnson",
+        "aliases": [
+          "Johnson"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Johnson won the award for the 1991–92 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille O’Neal",
+          "Shaquille Oneal",
+          "O'Neal"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shaquille O'Neal won the award for the 1992–93 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "chris-webber",
+        "canonical": "Chris Webber",
+        "aliases": [
+          "Webber"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chris Webber won the award for the 1993–94 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "grant-hill",
+        "canonical": "Grant Hill",
+        "aliases": [
+          "Hill"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grant Hill was a joint winner for the 1994–95 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "jason-kidd",
+        "canonical": "Jason Kidd",
+        "aliases": [
+          "Kidd"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jason Kidd was a joint winner for the 1994–95 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "damon-stoudamire",
+        "canonical": "Damon Stoudamire",
+        "aliases": [
+          "Stoudamire"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Damon Stoudamire won the award for the 1995–96 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "allen-iverson",
+        "canonical": "Allen Iverson",
+        "aliases": [
+          "Iverson",
+          "AI"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen Iverson won the award for the 1996–97 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [
+          "Duncan"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Duncan won the award for the 1997–98 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "vince-carter",
+        "canonical": "Vince Carter",
+        "aliases": [
+          "Carter",
+          "Vinsanity"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vince Carter won the award for the 1998–99 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "elton-brand",
+        "canonical": "Elton Brand",
+        "aliases": [
+          "Brand"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elton Brand was a joint winner for the 1999–00 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "steve-francis",
+        "canonical": "Steve Francis",
+        "aliases": [
+          "Francis"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Steve Francis was a joint winner for the 1999–00 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "mike-miller",
+        "canonical": "Mike Miller",
+        "aliases": [
+          "Miller"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike Miller won the award for the 2000–01 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "pau-gasol",
+        "canonical": "Pau Gasol",
+        "aliases": [
+          "Gasol"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pau Gasol won the award for the 2001–02 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "amare-stoudemire",
+        "canonical": "Amare Stoudemire",
+        "aliases": [
+          "Amar'e Stoudemire",
+          "Amar’e Stoudemire",
+          "Stoudemire"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amare Stoudemire won the award for the 2002–03 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron",
+          "James",
+          "King James"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James won the award for the 2003–04 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "emeka-okafor",
+        "canonical": "Emeka Okafor",
+        "aliases": [
+          "Okafor"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Emeka Okafor won the award for the 2004–05 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "chris-paul",
+        "canonical": "Chris Paul",
+        "aliases": [
+          "Paul",
+          "CP3"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chris Paul won the award for the 2005–06 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "brandon-roy",
+        "canonical": "Brandon Roy",
+        "aliases": [
+          "Roy"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brandon Roy won the award for the 2006–07 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "kevin-durant",
+        "canonical": "Kevin Durant",
+        "aliases": [
+          "Durant",
+          "KD"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Durant won the award for the 2007–08 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "derrick-rose",
+        "canonical": "Derrick Rose",
+        "aliases": [
+          "Rose",
+          "D Rose",
+          "D-Rose"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Derrick Rose won the award for the 2008–09 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "tyreke-evans",
+        "canonical": "Tyreke Evans",
+        "aliases": [
+          "Evans"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tyreke Evans won the award for the 2009–10 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "blake-griffin",
+        "canonical": "Blake Griffin",
+        "aliases": [
+          "Griffin"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blake Griffin won the award for the 2010–11 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "kyrie-irving",
+        "canonical": "Kyrie Irving",
+        "aliases": [
+          "Kyrie",
+          "Irving"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kyrie Irving won the award for the 2011–12 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "damian-lillard",
+        "canonical": "Damian Lillard",
+        "aliases": [
+          "Lillard",
+          "Dame",
+          "Dame Lillard"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Damian Lillard won the award for the 2012–13 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "michael-carter-williams",
+        "canonical": "Michael Carter-Williams",
+        "aliases": [
+          "Michael Carter Williams",
+          "Carter-Williams",
+          "MCW"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Carter-Williams won the award for the 2013–14 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "andrew-wiggins",
+        "canonical": "Andrew Wiggins",
+        "aliases": [
+          "Wiggins"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andrew Wiggins won the award for the 2014–15 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "karl-anthony-towns",
+        "canonical": "Karl-Anthony Towns",
+        "aliases": [
+          "Karl Anthony Towns",
+          "Towns",
+          "KAT"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karl-Anthony Towns won the award for the 2015–16 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "malcolm-brogdon",
+        "canonical": "Malcolm Brogdon",
+        "aliases": [
+          "Brogdon"
+        ],
+        "familiarity": 0.0045,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malcolm Brogdon won the award for the 2016–17 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "ben-simmons",
+        "canonical": "Ben Simmons",
+        "aliases": [
+          "Simmons"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ben Simmons won the award for the 2017–18 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "luka-don-i",
+        "canonical": "Luka Dončić",
+        "aliases": [
+          "Luka Doncic",
+          "Doncic",
+          "Dončić",
+          "Luka"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luka Dončić won the award for the 2018–19 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "ja-morant",
+        "canonical": "Ja Morant",
+        "aliases": [
+          "Morant",
+          "Ja"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ja Morant won the award for the 2019–20 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "lamelo-ball",
+        "canonical": "LaMelo Ball",
+        "aliases": [
+          "LaMelo",
+          "Ball"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LaMelo Ball won the award for the 2020–21 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "scottie-barnes",
+        "canonical": "Scottie Barnes",
+        "aliases": [
+          "Barnes"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scottie Barnes won the award for the 2021–22 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "paolo-banchero",
+        "canonical": "Paolo Banchero",
+        "aliases": [
+          "Banchero",
+          "Paolo"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paolo Banchero won the award for the 2022–23 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "victor-wembanyama",
+        "canonical": "Victor Wembanyama",
+        "aliases": [
+          "Wembanyama",
+          "Wemby"
+        ],
+        "familiarity": 0.0375,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Victor Wembanyama won the award for the 2023–24 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "stephon-castle",
+        "canonical": "Stephon Castle",
+        "aliases": [
+          "Castle"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephon Castle won the award for the 2024–25 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      },
+      {
+        "id": "cooper-flagg",
+        "canonical": "Cooper Flagg",
+        "aliases": [
+          "Flagg"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cooper Flagg is listed as the winner for the 2025–26 season.",
+        "sourceIds": [
+          "nba-rookie-of-the-year"
+        ]
+      }
+    ],
+    "explanation": "The NBA's official award began in 1952–53. This set includes every winner through 2025–26, including both winners in the three tied seasons, but excludes the unofficial pre-1953 selections.",
+    "sources": [
+      {
+        "id": "nba-rookie-of-the-year",
+        "title": "NBA Rookie of the Year",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_Rookie_of_the_Year",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "2b10fd21a5ec1b2f",
+    "brief": "Name a player who has won the NBA Rookie of the Year Award.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-rookie-of-the-year",
+        "version": "1379227531",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Don Meineke": "1952–53 | Don Meineke | Forward/center",
+      "Ray Felix": "1953–54 | Ray Felix | Center",
+      "Bob Pettit": "1954–55 | Bob Pettit* | Forward/center",
+      "Maurice Stokes": "1955–56 | Maurice Stokes* | Forward/center",
+      "Tom Heinsohn": "1956–57 | Tom Heinsohn* | Forward",
+      "Woody Sauldsberry": "1957–58 | Woody Sauldsberry | Forward/center",
+      "Elgin Baylor": "1958–59 | Elgin Baylor* | Forward",
+      "Wilt Chamberlain": "Wilt Chamberlain won the award in the 1959–60 NBA season.",
+      "Oscar Robertson": "1960–61 | Oscar Robertson* | Guard",
+      "Walt Bellamy": "1961–62 | Walt Bellamy* | Center",
+      "Terry Dischinger": "1962–63 | Terry Dischinger | Forward/guard",
+      "Jerry Lucas": "1963–64 | Jerry Lucas* | Forward/center",
+      "Willis Reed": "1964–65 | Willis Reed* | Center/forward",
+      "Rick Barry": "1965–66 | Rick Barry* | Forward",
+      "Dave Bing": "1966–67 | Dave Bing* | Guard",
+      "Earl Monroe": "1967–68 | Earl Monroe* | Guard",
+      "Wes Unseld": "1968–69 | Wes Unseld* | Center/forward",
+      "Kareem Abdul-Jabbar": "Kareem Abdul-Jabbar (formerly known as Lew Alcindor) won the award unanimously in the 1969–70 NBA season.",
+      "Dave Cowens": "1970–71 | Dave Cowens* | Center/forward",
+      "Geoff Petrie": "1970–71 | Geoff Petrie | Guard",
+      "Sidney Wicks": "1971–72 | Sidney Wicks | Forward/center",
+      "Bob McAdoo": "1972–73 | Bob McAdoo* | Center/forward",
+      "Ernie DiGregorio": "1973–74 | Ernie DiGregorio | Guard",
+      "Jamaal Wilkes": "1974–75 | Jamaal Wilkes* | Forward/guard",
+      "Alvan Adams": "1975–76 | Alvan Adams | Center/forward",
+      "Adrian Dantley": "1976–77 | Adrian Dantley* | Forward/guard",
+      "Walter Davis": "1977–78 | Walter Davis* | Guard/forward",
+      "Phil Ford": "1978–79 | Phil Ford | Guard",
+      "Larry Bird": "Larry Bird won the award in the 1979–80 NBA season.",
+      "Darrell Griffith": "1980–81 | Darrell Griffith | Guard",
+      "Buck Williams": "1981–82 | Buck Williams | Forward/center",
+      "Terry Cummings": "1982–83 | Terry Cummings | Forward",
+      "Ralph Sampson": "1983–84 | Ralph Sampson* | Center/forward",
+      "Michael Jordan": "Michael Jordan won the award in the 1984–85 NBA season.",
+      "Patrick Ewing": "1985–86 | Patrick Ewing* | Center",
+      "Chuck Person": "1986–87 | Chuck Person | Forward",
+      "Mark Jackson": "1987–88 | Mark Jackson | Guard",
+      "Mitch Richmond": "1988–89 | Mitch Richmond* | Guard",
+      "David Robinson": "1989–90 | David Robinson* | Center",
+      "Derrick Coleman": "1990–91 | Derrick Coleman | Forward",
+      "Larry Johnson": "1991–92 | Larry Johnson | Forward",
+      "Shaquille O'Neal": "1992–93 | Shaquille O'Neal* | Center",
+      "Chris Webber": "1993–94 | Chris Webber* | Forward/center",
+      "Grant Hill": "1994–95 | Grant Hill* | Forward/guard",
+      "Jason Kidd": "1994–95 | Jason Kidd* | Guard",
+      "Damon Stoudamire": "1995–96 | Damon Stoudamire | Guard",
+      "Allen Iverson": "Allen Iverson won the award in the 1996–97 NBA season.",
+      "Tim Duncan": "1997–98 | Tim Duncan* | Forward/center",
+      "Vince Carter": "1998–99 | Vince Carter* | Guard/forward",
+      "Elton Brand": "1999–00 | Elton Brand | Forward",
+      "Steve Francis": "1999–00 | Steve Francis | Guard",
+      "Mike Miller": "2000–01 | Mike Miller | Forward/guard",
+      "Pau Gasol": "Pau Gasol won the award in the 2001–02 NBA season.",
+      "Amare Stoudemire": "2002–03 | Amare Stoudemire* | Forward/center",
+      "LeBron James": "LeBron James won the award in the 2003–04 NBA season.",
+      "Emeka Okafor": "2004–05 | Emeka Okafor | Center/forward",
+      "Chris Paul": "2005–06 | Chris Paul | Guard",
+      "Brandon Roy": "2006–07 | Brandon Roy | Guard",
+      "Kevin Durant": "Kevin Durant won the award in the 2007–08 NBA season.",
+      "Derrick Rose": "Derrick Rose won the award in the 2008–09 NBA season.",
+      "Tyreke Evans": "2009–10 | Tyreke Evans | Guard/forward",
+      "Blake Griffin": "2010–11 | Blake Griffin | Forward",
+      "Kyrie Irving": "2011–12 | Kyrie Irving^ | Guard",
+      "Damian Lillard": "2012–13 | Damian Lillard^ | Guard",
+      "Michael Carter-Williams": "2013–14 | Michael Carter-Williams | Guard",
+      "Andrew Wiggins": "2014–15 | Andrew Wiggins^ | Forward/guard",
+      "Karl-Anthony Towns": "2015–16 | Karl-Anthony Towns^ | Center",
+      "Malcolm Brogdon": "2016–17 | Malcolm Brogdon | Guard",
+      "Ben Simmons": "2017–18 | Ben Simmons | Guard",
+      "Luka Dončić": "Luka Dončić won the award in the 2018–19 NBA season.",
+      "Ja Morant": "2019–20 | Ja Morant^ | Guard",
+      "LaMelo Ball": "2020–21 | LaMelo Ball^ | Guard",
+      "Scottie Barnes": "2021–22 | Scottie Barnes^ | Forward",
+      "Paolo Banchero": "2022–23 | Paolo Banchero^ | Forward",
+      "Victor Wembanyama": "2023–24 | Victor Wembanyama^ | Center",
+      "Stephon Castle": "2024–25 | Stephon Castle^ | Guard",
+      "Cooper Flagg": "2025–26 | Cooper Flagg^ | Forward"
+    },
+    "issues": []
+  }
+}

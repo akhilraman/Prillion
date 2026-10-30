@@ -1,0 +1,743 @@
+{
+  "question": {
+    "id": "tollywood-highest-grossing",
+    "category": "tollywood",
+    "prompt": "Name a film in the worldwide top 50 on the provided list of highest-grossing Telugu films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked first in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked second in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked third in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "kalki-2898-ad",
+        "canonical": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki",
+          "Kalki 2898 A.D."
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fourth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "salaar-part-1-ceasefire",
+        "canonical": "Salaar: Part 1 – Ceasefire",
+        "aliases": [
+          "Salaar",
+          "Salaar Part 1",
+          "Salaar Ceasefire"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fifth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked sixth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "saaho",
+        "canonical": "Saaho",
+        "aliases": [],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked seventh in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "adipurush",
+        "canonical": "Adipurush",
+        "aliases": [],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked eighth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "devara-part-1",
+        "canonical": "Devara: Part 1",
+        "aliases": [
+          "Devara",
+          "Devara Part One"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked ninth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked tenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "peddi",
+        "canonical": "Peddi",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked eleventh in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "mana-shankara-vara-prasad-garu",
+        "canonical": "Mana Shankara Vara Prasad Garu",
+        "aliases": [
+          "Mana Shankara Varaprasad Garu"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twelfth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "hanu-man",
+        "canonical": "Hanu-Man",
+        "aliases": [
+          "Hanuman",
+          "Hanu Man"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "they-call-him-og",
+        "canonical": "They Call Him OG",
+        "aliases": [
+          "OG"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fourteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "sankranthiki-vasthunam",
+        "canonical": "Sankranthiki Vasthunam",
+        "aliases": [
+          "Sankranthiki Vastunnam"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fifteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikunthapurramulo",
+          "Ala Vaikuntapuramlo",
+          "AVPL"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked sixteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "irumudi",
+        "canonical": "Irumudi",
+        "aliases": [],
+        "familiarity": 0.0012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked seventeenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [
+          "Sye Raa",
+          "Sye Raa Narsimha Reddy"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked eighteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [
+          "Waltair Veeraya"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked nineteenth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [
+          "Sarileru Neekevaru"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twentieth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-first in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "the-rajasaab",
+        "canonical": "The RajaSaab",
+        "aliases": [
+          "Raja Saab",
+          "The Raja Saab",
+          "Rajasaab"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-second in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "game-changer",
+        "canonical": "Game Changer",
+        "aliases": [],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-third in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "aravinda-sametha-veera-raghava",
+        "canonical": "Aravinda Sametha Veera Raghava",
+        "aliases": [
+          "Aravinda Sametha"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-fourth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [
+          "Atharintiki Daaredi",
+          "Attarintiki Daaredi"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-fifth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "guntur-kaaram",
+        "canonical": "Guntur Kaaram",
+        "aliases": [
+          "Guntur Karam"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-sixth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "sarkaru-vaari-paata",
+        "canonical": "Sarkaru Vaari Paata",
+        "aliases": [
+          "Sarkaru Vari Pata",
+          "Sarkaru Vari Paata"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-seventh in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "maharshi",
+        "canonical": "Maharshi",
+        "aliases": [],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-eighth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "khaidi-no-150",
+        "canonical": "Khaidi No. 150",
+        "aliases": [
+          "Khaidi No 150",
+          "Khaidi 150"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked twenty-ninth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "bheemla-nayak",
+        "canonical": "Bheemla Nayak",
+        "aliases": [
+          "Bhimla Nayak"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirtieth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [
+          "Magadheera"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirty-first in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "jai-lava-kusa",
+        "canonical": "Jai Lava Kusa",
+        "aliases": [],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirty-second in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is tied at rank 33 in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "janatha-garage",
+        "canonical": "Janatha Garage",
+        "aliases": [
+          "Janata Garage"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is tied at rank 33 in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "dj-duvvada-jagannadham",
+        "canonical": "DJ: Duvvada Jagannadham",
+        "aliases": [
+          "DJ",
+          "Duvvada Jagannadham",
+          "Duvvada Jagannatham"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is tied at rank 33 in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "akhanda",
+        "canonical": "Akhanda",
+        "aliases": [
+          "Akhanda 1"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is tied at rank 33 in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "bharat-ane-nenu",
+        "canonical": "Bharat Ane Nenu",
+        "aliases": [
+          "Bharath Ane Nenu"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirty-seventh in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "srimanthudu",
+        "canonical": "Srimanthudu",
+        "aliases": [
+          "Srimanthudu"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirty-eighth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "mirai",
+        "canonical": "Mirai",
+        "aliases": [],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked thirty-ninth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "radhe-shyam",
+        "canonical": "Radhe Shyam",
+        "aliases": [
+          "Radhe Shyaam"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fortieth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "bhagavanth-kesari",
+        "canonical": "Bhagavanth Kesari",
+        "aliases": [
+          "Bhagavant Kesari",
+          "Bhagavanth Keshari"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-first in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "vakeel-saab",
+        "canonical": "Vakeel Saab",
+        "aliases": [
+          "Vakil Saab"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-second in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "tillu-square",
+        "canonical": "Tillu Square",
+        "aliases": [
+          "Tillu 2"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-third in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "veera-simha-reddy",
+        "canonical": "Veera Simha Reddy",
+        "aliases": [
+          "Veerasimha Reddy"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-fourth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "geetha-govindam",
+        "canonical": "Geetha Govindam",
+        "aliases": [
+          "Geeta Govindam"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-fifth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "daaku-maharaaj",
+        "canonical": "Daaku Maharaaj",
+        "aliases": [
+          "Daku Maharaj",
+          "Daaku Maharaj"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-sixth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "akhanda-2-thaandavam",
+        "canonical": "Akhanda 2: Thaandavam",
+        "aliases": [
+          "Akhanda 2",
+          "Akhanda 2 Tandavam",
+          "Akhanda 2 Thandavam"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-seventh in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "sarrainodu",
+        "canonical": "Sarrainodu",
+        "aliases": [
+          "Sarainodu"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-eighth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "f2-fun-and-frustration",
+        "canonical": "F2: Fun and Frustration",
+        "aliases": [
+          "F2",
+          "F2 Fun & Frustration"
+        ],
+        "familiarity": 0.0049,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked forty-ninth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      },
+      {
+        "id": "race-gurram",
+        "canonical": "Race Gurram",
+        "aliases": [
+          "Racegurram"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The film is ranked fiftieth in the worldwide list.",
+        "sourceIds": [
+          "list-of-highest-grossing-telugu-films"
+        ]
+      }
+    ],
+    "explanation": "These are all 50 films in the document's main worldwide ranking, not its separate opening-day, regional, yearly or franchise lists. The ranking uses reported global box-office estimates without adjusting for inflation.",
+    "sources": [
+      {
+        "id": "list-of-highest-grossing-telugu-films",
+        "title": "List of highest-grossing Telugu films",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Telugu_films",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "232d867d9bcf5e30",
+    "brief": "Name a film on the list of highest-grossing Telugu films.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-highest-grossing-telugu-films",
+        "version": "1382237418",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Baahubali 2: The Conclusion": "1 | Baahubali 2: The Conclusion | ₹1,810.6 crore | 2017 |",
+      "Pushpa 2: The Rule": "2 | Pushpa 2: The Rule | ₹1,642–1,800 crore | 2024 |",
+      "RRR": "3 | RRR | ₹1,300–1,387 crore | 2022 |",
+      "Kalki 2898 AD": "4 | Kalki 2898 AD | ₹1,042–1,100 crore | 2024 |",
+      "Salaar: Part 1 – Ceasefire": "5 | Salaar: Part 1 – Ceasefire | ₹614–702 crore | 2023 |",
+      "Baahubali: The Beginning": "6 | Baahubali: The Beginning | ₹599.72–650 crore | 2015 |",
+      "Saaho": "7 | Saaho | ₹434–439 crore | 2019 |",
+      "Adipurush": "8 | Adipurush | ₹392.7 crore | 2023 |",
+      "Devara: Part 1": "9 | Devara: Part 1 | ₹380–521 crore | 2024 |",
+      "Pushpa: The Rise": "10 | Pushpa: The Rise | ₹360–393.50 crore | 2021 |",
+      "Peddi": "11 | Peddi | ₹330–336.85 crore | 2026 |",
+      "Mana Shankara Vara Prasad Garu": "12 | Mana Shankara Vara Prasad Garu | ₹300–310 crore | 2026 |",
+      "Hanu-Man": "13 | Hanu-Man | ₹298–350 crore | 2024 |",
+      "They Call Him OG": "14 | They Call Him OG | ₹293.65–300 crore | 2025 |",
+      "Sankranthiki Vasthunam": "15 | Sankranthiki Vasthunam | ₹275–300 crore | 2025 |",
+      "Ala Vaikunthapurramuloo": "16 | Ala Vaikunthapurramuloo | ₹262–280 crore | 2020 |",
+      "Irumudi": "17 | Irumudi | ₹251.25 crore | 2026 |",
+      "Sye Raa Narasimha Reddy": "18 | Sye Raa Narasimha Reddy | ₹240 crore | 2019 |",
+      "Waltair Veerayya": "19 | Waltair Veerayya | ₹236.15 crore | 2023 |",
+      "Sarileru Neekevvaru": "20 | Sarileru Neekevvaru | ₹260 crore | 2020 |",
+      "Rangasthalam": "21 | Rangasthalam | ₹216 crore | 2018 |",
+      "The RajaSaab": "22 | The RajaSaab | ₹208 crore | 2026 |",
+      "Game Changer": "23 | Game Changer | ₹195 crore | 2025 |",
+      "Aravinda Sametha Veera Raghava": "24 | Aravinda Sametha Veera Raghava | ₹190 crore | 2018 |",
+      "Attarintiki Daredi": "25 | Attarintiki Daredi | ₹187 crore | 2013 |",
+      "Guntur Kaaram": "26 | Guntur Kaaram | ₹184 crore | 2024 |",
+      "Sarkaru Vaari Paata": "27 | Sarkaru Vaari Paata | ₹180–230 crore | 2022 |",
+      "Maharshi": "28 | Maharshi | ₹175–200 crore | 2019 |",
+      "Khaidi No. 150": "29 | Khaidi No. 150 | ₹164 crore | 2017 |",
+      "Bheemla Nayak": "30 | Bheemla Nayak | ₹160 crore | 2022 |",
+      "Magadheera": "31 | Magadheera | ₹150.5 crore | 2009 |",
+      "Jai Lava Kusa": "32 | Jai Lava Kusa | ₹150–175 crore | 2017 |",
+      "Gabbar Singh": "33 | Gabbar Singh | ₹150 crore | 2012 |",
+      "Janatha Garage": "33 | Janatha Garage | ₹150 crore | 2016 |",
+      "DJ: Duvvada Jagannadham": "33 | DJ: Duvvada Jagannadham | ₹150 crore | 2017 |",
+      "Akhanda": "33 | Akhanda | ₹150 crore | 2021 |",
+      "Bharat Ane Nenu": "37 | Bharat Ane Nenu | ₹149–225 crore | 2018 |",
+      "Srimanthudu": "38 | Srimanthudu | ₹144–200 crore | 2015 |",
+      "Mirai": "39 | Mirai | ₹141–150 crore | 2025 |",
+      "Radhe Shyam": "40 | Radhe Shyam | ₹140–214 crore | 2022 |",
+      "Bhagavanth Kesari": "41 | Bhagavanth Kesari | ₹138 crore | 2023 |",
+      "Vakeel Saab": "42 | Vakeel Saab | ₹137.5 crore | 2021 |",
+      "Tillu Square": "43 | Tillu Square | ₹135 crore | 2024 |",
+      "Veera Simha Reddy": "44 | Veera Simha Reddy | ₹134 crore | 2023 |",
+      "Geetha Govindam": "45 | Geetha Govindam | ₹132 crore | 2018 |",
+      "Daaku Maharaaj": "46 | Daaku Maharaaj | ₹130 crore | 2025 |",
+      "Akhanda 2: Thaandavam": "47 | Akhanda 2: Thaandavam | ₹128 crore | 2025 |",
+      "Sarrainodu": "48 | Sarrainodu | ₹127.6 crore | 2016 |",
+      "F2: Fun and Frustration": "49 | F2: Fun and Frustration | ₹127.2–140 crore | 2019 |",
+      "Race Gurram": "50 | Race Gurram | ₹125–150 crore | 2014 |"
+    },
+    "issues": []
+  }
+}

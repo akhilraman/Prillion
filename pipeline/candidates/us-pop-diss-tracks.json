@@ -1,0 +1,178 @@
+{
+  "question": {
+    "id": "us-pop-diss-tracks",
+    "category": "us-pop",
+    "prompt": "Name a diss track released in 2024 that targets Drake.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "not-like-us",
+        "canonical": "Not Like Us",
+        "aliases": [],
+        "familiarity": 0.1703,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list identifies Kendrick Lamar's May 4, 2024 track as targeting Drake.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "like-that",
+        "canonical": "Like That",
+        "aliases": [],
+        "familiarity": 0.1703,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The March 22, 2024 collaboration lists Drake and J. Cole as targets.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "euphoria",
+        "canonical": "Euphoria",
+        "aliases": [],
+        "familiarity": 0.1703,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar's April 30, 2024 track lists Drake as its target.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "meet-the-grahams",
+        "canonical": "Meet the Grahams",
+        "aliases": [],
+        "familiarity": 0.0681,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list identifies Kendrick Lamar's May 3, 2024 track as a Drake diss responding to Family Matters.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "bbl-drizzy",
+        "canonical": "BBL Drizzy",
+        "aliases": [],
+        "familiarity": 0.0681,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Metro Boomin's May 5, 2024 instrumental is listed as targeting Drake.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "hiss",
+        "canonical": "Hiss",
+        "aliases": [],
+        "familiarity": 0.0681,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Megan Thee Stallion's January 26, 2024 track includes Drake among its listed targets.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "6-16-in-la",
+        "canonical": "6:16 in LA",
+        "aliases": [
+          "6:16 in L.A.",
+          "616 in LA"
+        ],
+        "familiarity": 0.0681,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar's May 3, 2024 track lists Drake as its target.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "champagne-moments",
+        "canonical": "Champagne Moments",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Ross's April 13, 2024 track is listed as targeting Drake in response to Push Ups.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "like-that-remix",
+        "canonical": "Like That (Remix)",
+        "aliases": [
+          "Like That Remix",
+          "Like That Kanye Remix",
+          "Like That Ye Remix"
+        ],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The April 21, 2024 remix featuring ¥$ lists Drake and J. Cole as targets.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "yoshinoya",
+        "canonical": "Yoshinoya",
+        "aliases": [],
+        "familiarity": 0.0204,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Childish Gambino's July 19, 2024 track is listed as targeting Drake.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      },
+      {
+        "id": "double-life",
+        "canonical": "Double Life",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Pharrell Williams's June 14, 2024 song as a speculative Drake diss.",
+        "sourceIds": [
+          "list-of-diss-tracks"
+        ]
+      }
+    ],
+    "explanation": "Drake was the target of numerous tracks in 2024, especially during his feud with Kendrick Lamar. The source also lists tracks by Megan Thee Stallion, Rick Ross, Metro Boomin, Pharrell Williams and Childish Gambino; Pharrell's entry is explicitly speculative.",
+    "sources": [
+      {
+        "id": "list-of-diss-tracks",
+        "title": "List of diss tracks",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_diss_tracks",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A track released in 2024 identified in the provided list as targeting Drake. Multiple-target tracks and speculative Drake disses count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "1c37e3deb7ec70ac",
+    "brief": "Name a famous diss track.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-diss-tracks",
+        "version": "1382024521",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Not Like Us": "May 4, 2024 | \"Not Like Us\" | Kendrick Lamar | Drake |",
+      "Like That": "Mar 22, 2024 | \"Like That\" | Metro Boomin, Future feat. Kendrick Lamar | Drake, J. Cole |",
+      "Euphoria": "Apr 30, 2024 | \"Euphoria\" | Kendrick Lamar | Drake | \"Push Ups\", \"Taylor Made Freestyle\", \"7 Minute Drill\" |",
+      "Meet the Grahams": "May 3, 2024 | \"Meet the Grahams\" | Kendrick Lamar | Drake | \"Family Matters\", released less than an hour prior to Meet the Grahams.",
+      "BBL Drizzy": "May 5, 2024 | \"BBL Drizzy\" | Metro Boomin | Drake | | An entirely instrumental track with a sample mocking Drake.",
+      "Hiss": "Jan 26, 2024 | \"Hiss\" | Megan Thee Stallion | Nicki Minaj, Drake, Kenneth Petty, Pardison Fontaine, and Tory Lanez |",
+      "6:16 in LA": "May 3, 2024 | \"6:16 in LA\" | Kendrick Lamar | Drake | \"Taylor Made Freestyle\" |",
+      "Champagne Moments": "Apr 13, 2024 | \"Champagne Moments\" | Rick Ross | Drake | \"Push Ups\" |",
+      "Like That (Remix)": "Apr 21, 2024 | \"Like That (Remix)\" | Metro Boomin, Future, ¥$ | Drake, J. Cole | \"False Prophets\" |",
+      "Yoshinoya": "Jul 19, 2024 | \"Yoshinoya\" | Childish Gambino | Drake |",
+      "Double Life": "Jun 14, 2024 | \"Double Life\" | Pharrell Williams | Drake | \"Meltdown\" | While the song is describing the Despicable Me character Gru, there is speculation it is also a diss track towards Drake."
+    },
+    "issues": []
+  }
+}

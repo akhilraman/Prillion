@@ -1,0 +1,606 @@
+{
+  "question": {
+    "id": "us-pop-superheroes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a comic-book superhero.",
+    "answerSet": "open",
+    "criteria": "Any named superhero character or superhero identity appearing in published comic books counts; teams and characters known only as villains do not.",
+    "answers": [
+      {
+        "id": "superman",
+        "canonical": "Superman",
+        "aliases": [
+          "Clark Kent",
+          "Kal-El"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Superman is a DC superhero from the planet Krypton.",
+        "sourceIds": []
+      },
+      {
+        "id": "batman",
+        "canonical": "Batman",
+        "aliases": [
+          "Bruce Wayne",
+          "The Dark Knight"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Batman is a DC superhero who protects Gotham City.",
+        "sourceIds": []
+      },
+      {
+        "id": "wonder-woman",
+        "canonical": "Wonder Woman",
+        "aliases": [
+          "Diana Prince",
+          "Princess Diana",
+          "Diana of Themyscira"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wonder Woman is an Amazon superhero published by DC.",
+        "sourceIds": []
+      },
+      {
+        "id": "spider-man",
+        "canonical": "Spider-Man",
+        "aliases": [
+          "Peter Parker",
+          "Miles Morales"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spider-Man is a Marvel superhero identity used by Peter Parker and Miles Morales.",
+        "sourceIds": []
+      },
+      {
+        "id": "iron-man",
+        "canonical": "Iron Man",
+        "aliases": [
+          "Tony Stark"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iron Man is a Marvel superhero who fights using powered armor.",
+        "sourceIds": []
+      },
+      {
+        "id": "captain-america",
+        "canonical": "Captain America",
+        "aliases": [
+          "Steve Rogers",
+          "Sam Wilson"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain America is a shield-carrying Marvel superhero identity held by Steve Rogers and Sam Wilson.",
+        "sourceIds": []
+      },
+      {
+        "id": "hulk",
+        "canonical": "Hulk",
+        "aliases": [
+          "The Hulk",
+          "Incredible Hulk",
+          "Bruce Banner"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hulk is a superhumanly strong Marvel superhero associated with Bruce Banner.",
+        "sourceIds": []
+      },
+      {
+        "id": "black-panther",
+        "canonical": "Black Panther",
+        "aliases": [
+          "T'Challa"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Black Panther is a Marvel superhero identity associated with Wakanda.",
+        "sourceIds": []
+      },
+      {
+        "id": "green-lantern",
+        "canonical": "Green Lantern",
+        "aliases": [
+          "Hal Jordan",
+          "John Stewart",
+          "Kyle Rayner",
+          "Guy Gardner",
+          "Alan Scott"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Green Lantern is a DC superhero identity associated with power rings that create energy constructs.",
+        "sourceIds": []
+      },
+      {
+        "id": "aquaman",
+        "canonical": "Aquaman",
+        "aliases": [
+          "Arthur Curry"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aquaman is a DC superhero associated with Atlantis and the oceans.",
+        "sourceIds": []
+      },
+      {
+        "id": "wolverine",
+        "canonical": "Wolverine",
+        "aliases": [
+          "Logan",
+          "James Howlett"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wolverine is a Marvel mutant superhero known for his claws and healing ability.",
+        "sourceIds": []
+      },
+      {
+        "id": "storm",
+        "canonical": "Storm",
+        "aliases": [
+          "Ororo Munroe"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Storm is a Marvel superhero and X-Men member who controls the weather.",
+        "sourceIds": []
+      },
+      {
+        "id": "captain-marvel",
+        "canonical": "Captain Marvel",
+        "aliases": [
+          "Carol Danvers"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carol Danvers is a Marvel superhero who uses the name Captain Marvel.",
+        "sourceIds": []
+      },
+      {
+        "id": "doctor-strange",
+        "canonical": "Doctor Strange",
+        "aliases": [
+          "Dr. Strange",
+          "Stephen Strange"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Doctor Strange is a Marvel superhero who practices magic.",
+        "sourceIds": []
+      },
+      {
+        "id": "daredevil",
+        "canonical": "Daredevil",
+        "aliases": [
+          "Matt Murdock"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daredevil is a Marvel superhero who protects New York City's Hell's Kitchen.",
+        "sourceIds": []
+      },
+      {
+        "id": "robin",
+        "canonical": "Robin",
+        "aliases": [
+          "Boy Wonder",
+          "The Boy Wonder",
+          "Tim Drake",
+          "Damian Wayne"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robin is a DC superhero identity used by several of Batman's partners.",
+        "sourceIds": []
+      },
+      {
+        "id": "blue-beetle",
+        "canonical": "Blue Beetle",
+        "aliases": [
+          "Jaime Reyes",
+          "Ted Kord",
+          "Dan Garrett",
+          "Dan Garret"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blue Beetle is a superhero identity used by several characters published by DC.",
+        "sourceIds": []
+      },
+      {
+        "id": "booster-gold",
+        "canonical": "Booster Gold",
+        "aliases": [
+          "Michael Jon Carter"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Booster Gold is a DC superhero who travels from the future using advanced technology.",
+        "sourceIds": []
+      },
+      {
+        "id": "squirrel-girl",
+        "canonical": "Squirrel Girl",
+        "aliases": [
+          "Doreen Green",
+          "The Unbeatable Squirrel Girl"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Squirrel Girl is a Marvel superhero with squirrel-related abilities.",
+        "sourceIds": []
+      },
+      {
+        "id": "plastic-man",
+        "canonical": "Plastic Man",
+        "aliases": [
+          "Patrick O'Brian",
+          "Eel O'Brian"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Plastic Man is a DC superhero who can stretch and reshape his body.",
+        "sourceIds": []
+      },
+      {
+        "id": "sleepwalker",
+        "canonical": "Sleepwalker",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sleepwalker is a Marvel superhero from the dimension known as the Mindscape.",
+        "sourceIds": []
+      },
+      {
+        "id": "thor",
+        "canonical": "Thor",
+        "aliases": [
+          "The Mighty Thor",
+          "Thor Odinson"
+        ],
+        "familiarity": 0.0571,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thor is a Marvel superhero inspired by the Norse god of thunder.",
+        "sourceIds": []
+      },
+      {
+        "id": "flash",
+        "canonical": "Flash",
+        "aliases": [
+          "The Flash",
+          "Barry Allen",
+          "Wally West",
+          "Jay Garrick"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Flash is a DC superhero identity used by several heroes with super-speed.",
+        "sourceIds": []
+      },
+      {
+        "id": "supergirl",
+        "canonical": "Supergirl",
+        "aliases": [
+          "Kara Zor-El",
+          "Kara Danvers"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Supergirl is a DC superhero identity associated with Superman's cousin Kara Zor-El.",
+        "sourceIds": []
+      },
+      {
+        "id": "nightwing",
+        "canonical": "Nightwing",
+        "aliases": [
+          "Dick Grayson",
+          "Richard Grayson"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nightwing is the DC superhero identity adopted by Dick Grayson after his time as Robin.",
+        "sourceIds": []
+      },
+      {
+        "id": "shazam",
+        "canonical": "Shazam",
+        "aliases": [
+          "Billy Batson",
+          "Captain Marvel (DC)"
+        ],
+        "familiarity": 0.0228,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shazam is a DC superhero identity associated with Billy Batson and magical powers.",
+        "sourceIds": []
+      },
+      {
+        "id": "zatanna",
+        "canonical": "Zatanna",
+        "aliases": [
+          "Zatanna Zatara"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zatanna is a DC superhero and magician known for casting spells through backward speech.",
+        "sourceIds": []
+      },
+      {
+        "id": "mister-terrific",
+        "canonical": "Mister Terrific",
+        "aliases": [
+          "Mr. Terrific",
+          "Michael Holt",
+          "Terry Sloane"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mister Terrific is a DC superhero identity used by Terry Sloane and Michael Holt.",
+        "sourceIds": []
+      },
+      {
+        "id": "animal-man",
+        "canonical": "Animal Man",
+        "aliases": [
+          "Buddy Baker"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Animal Man is a DC superhero who can draw on the abilities of animals.",
+        "sourceIds": []
+      },
+      {
+        "id": "invincible",
+        "canonical": "Invincible",
+        "aliases": [
+          "Mark Grayson"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Invincible is a superhero who originated in the Image Comics series of the same name.",
+        "sourceIds": []
+      },
+      {
+        "id": "static",
+        "canonical": "Static",
+        "aliases": [
+          "Virgil Hawkins",
+          "Static Shock"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Static is an electricity-powered superhero who debuted in Milestone comics.",
+        "sourceIds": []
+      },
+      {
+        "id": "darkhawk",
+        "canonical": "Darkhawk",
+        "aliases": [
+          "Chris Powell"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darkhawk is a Marvel superhero whose original civilian identity is Chris Powell.",
+        "sourceIds": []
+      },
+      {
+        "id": "ragman",
+        "canonical": "Ragman",
+        "aliases": [
+          "Rory Regan"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ragman is a DC superhero who wears a mystical suit made of rags.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Comic-book superheroes range from globally recognized Marvel and DC icons to lesser-known heroes with devoted followings. Heroic identities shared by multiple characters also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "fa321038904bb643",
+    "brief": "Name a comic-book superhero.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Superman": 3,
+      "Batman": 3,
+      "Wonder Woman": 3,
+      "Spider-Man": 3,
+      "Iron Man": 3,
+      "Captain America": 3,
+      "Hulk": 3,
+      "Thor": 2,
+      "Black Panther": 3,
+      "Flash": 2,
+      "Green Lantern": 3,
+      "Aquaman": 3,
+      "Wolverine": 3,
+      "Storm": 3,
+      "Captain Marvel": 3,
+      "Doctor Strange": 3,
+      "Daredevil": 3,
+      "Supergirl": 2,
+      "Robin": 3,
+      "Nightwing": 2,
+      "Shazam": 2,
+      "Zatanna": 2,
+      "Blue Beetle": 3,
+      "Booster Gold": 3,
+      "Squirrel Girl": 3,
+      "Plastic Man": 3,
+      "Mister Terrific": 2,
+      "Animal Man": 2,
+      "Sleepwalker": 3,
+      "Invincible": 2,
+      "Static": 2,
+      "Darkhawk": 2,
+      "Ragman": 2
+    },
+    "droppedForVotes": {
+      "Martian Manhunter": 1,
+      "Metamorpho": 1,
+      "Slapstick": 1,
+      "The Flash": 1,
+      "Nightcrawler": 1,
+      "The Tick": 1,
+      "Moon Knight": 1,
+      "Madman": 1,
+      "Black Widow": 1,
+      "Hawkeye": 1,
+      "Ant-Man": 1,
+      "Green Arrow": 1,
+      "Ms. Marvel": 1,
+      "Spawn": 1,
+      "Moon Girl": 1,
+      "Stingray": 1,
+      "Phantom Lady": 1
+    },
+    "verdicts": {
+      "Superman": {
+        "verdict": "correct",
+        "reason": "A widely documented DC comic-book superhero from Krypton."
+      },
+      "Batman": {
+        "verdict": "correct",
+        "reason": "A DC comic-book superhero who protects Gotham City."
+      },
+      "Wonder Woman": {
+        "verdict": "correct",
+        "reason": "An Amazon superhero appearing in DC comics."
+      },
+      "Spider-Man": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero identity used by Peter Parker and Miles Morales."
+      },
+      "Iron Man": {
+        "verdict": "correct",
+        "reason": "A Marvel comic-book superhero who uses powered armor."
+      },
+      "Captain America": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero identity held by Steve Rogers and Sam Wilson."
+      },
+      "Hulk": {
+        "verdict": "correct",
+        "reason": "Bruce Banner's superhumanly strong alter ego is a Marvel superhero."
+      },
+      "Black Panther": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero identity associated with Wakanda."
+      },
+      "Green Lantern": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity whose users wield power rings."
+      },
+      "Aquaman": {
+        "verdict": "correct",
+        "reason": "A DC superhero associated with Atlantis and the oceans."
+      },
+      "Wolverine": {
+        "verdict": "correct",
+        "reason": "A Marvel mutant superhero known for claws and a healing factor."
+      },
+      "Storm": {
+        "verdict": "correct",
+        "reason": "A weather-controlling Marvel superhero and X-Men member."
+      },
+      "Captain Marvel": {
+        "verdict": "correct",
+        "reason": "Carol Danvers uses this superhero identity in Marvel comics."
+      },
+      "Doctor Strange": {
+        "verdict": "correct",
+        "reason": "A magic-wielding superhero appearing in Marvel comics."
+      },
+      "Daredevil": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero associated with Hell's Kitchen."
+      },
+      "Robin": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity used by several of Batman's partners."
+      },
+      "Blue Beetle": {
+        "verdict": "correct",
+        "reason": "A published superhero identity used by multiple DC characters."
+      },
+      "Booster Gold": {
+        "verdict": "correct",
+        "reason": "A DC superhero who uses technology brought from the future."
+      },
+      "Squirrel Girl": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero with squirrel-related powers."
+      },
+      "Plastic Man": {
+        "verdict": "correct",
+        "reason": "A DC superhero with stretching and shapeshifting abilities."
+      },
+      "Sleepwalker": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero originating from the Mindscape dimension."
+      },
+      "Thor": {
+        "verdict": "correct",
+        "reason": "A Marvel comic-book superhero based on the Norse thunder god."
+      },
+      "Flash": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity used by multiple super-speed-powered heroes."
+      },
+      "Supergirl": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity notably used by Kara Zor-El."
+      },
+      "Nightwing": {
+        "verdict": "correct",
+        "reason": "Dick Grayson adopts this DC superhero identity after being Robin."
+      },
+      "Shazam": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity associated with Billy Batson's magical transformation."
+      },
+      "Zatanna": {
+        "verdict": "correct",
+        "reason": "A DC superhero and magician known for backward-spoken spells."
+      },
+      "Mister Terrific": {
+        "verdict": "correct",
+        "reason": "A DC superhero identity used by Terry Sloane and Michael Holt."
+      },
+      "Animal Man": {
+        "verdict": "correct",
+        "reason": "A DC superhero who accesses animal abilities."
+      },
+      "Invincible": {
+        "verdict": "correct",
+        "reason": "A superhero originating in the Image Comics series Invincible."
+      },
+      "Static": {
+        "verdict": "correct",
+        "reason": "An electrically powered superhero introduced in Milestone comics."
+      },
+      "Darkhawk": {
+        "verdict": "correct",
+        "reason": "A Marvel superhero originally introduced with civilian identity Chris Powell."
+      },
+      "Ragman": {
+        "verdict": "correct",
+        "reason": "A DC superhero associated with a mystical suit of rags."
+      }
+    },
+    "issues": []
+  }
+}

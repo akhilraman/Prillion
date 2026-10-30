@@ -1,0 +1,505 @@
+{
+  "question": {
+    "id": "space-mars-missions",
+    "category": "space",
+    "prompt": "Name a NASA spacecraft sent on a mission to explore Mars. Landers, rovers and failed missions count.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "curiosity",
+        "canonical": "Curiosity",
+        "aliases": [
+          "Mars Science Laboratory",
+          "MSL",
+          "Curiosity rover"
+        ],
+        "familiarity": 0.0896,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Curiosity is listed as NASA's Mars Science Laboratory rover, launched in 2011.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "perseverance",
+        "canonical": "Perseverance",
+        "aliases": [
+          "Mars 2020",
+          "Perseverance rover"
+        ],
+        "familiarity": 0.0896,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Perseverance is listed as the NASA rover carried by the Mars 2020 mission.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "opportunity-mer-b",
+        "canonical": "Opportunity (MER-B)",
+        "aliases": [
+          "Opportunity",
+          "MER-B",
+          "Opportunity rover"
+        ],
+        "familiarity": 0.0896,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Opportunity is listed as a NASA Mars rover launched in July 2003.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "spirit-mer-a",
+        "canonical": "Spirit (MER-A)",
+        "aliases": [
+          "Spirit",
+          "MER-A",
+          "Spirit rover"
+        ],
+        "familiarity": 0.0896,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spirit is listed as a NASA Mars rover launched in June 2003.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "ingenuity",
+        "canonical": "Ingenuity",
+        "aliases": [
+          "Ingenuity helicopter",
+          "Ingenuity Mars Helicopter"
+        ],
+        "familiarity": 0.0896,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ingenuity is listed as the NASA helicopter sent with the Mars 2020 mission.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "sojourner",
+        "canonical": "Sojourner",
+        "aliases": [
+          "Sojourner rover"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sojourner is listed as the NASA rover launched with Mars Pathfinder.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-pathfinder",
+        "canonical": "Mars Pathfinder",
+        "aliases": [
+          "Pathfinder"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Pathfinder is listed as a NASA Mars lander launched in December 1996.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "insight",
+        "canonical": "InSight",
+        "aliases": [
+          "InSight lander"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "InSight is listed as a NASA Mars lander launched in May 2018.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "phoenix",
+        "canonical": "Phoenix",
+        "aliases": [
+          "Phoenix lander",
+          "Mars Phoenix"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoenix is listed as a NASA Mars lander launched in August 2007.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "viking-1-lander",
+        "canonical": "Viking 1 lander",
+        "aliases": [
+          "Viking 1",
+          "Viking I",
+          "Viking I lander"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Viking 1 lander is listed as a successful NASA Mars lander.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "viking-1-orbiter",
+        "canonical": "Viking 1 orbiter",
+        "aliases": [
+          "Viking I orbiter"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Viking 1 orbiter is separately listed as a successful NASA Mars spacecraft.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "viking-2-lander",
+        "canonical": "Viking 2 lander",
+        "aliases": [
+          "Viking 2",
+          "Viking II",
+          "Viking II lander"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Viking 2 lander is listed as a successful NASA Mars lander.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "viking-2-orbiter",
+        "canonical": "Viking 2 orbiter",
+        "aliases": [
+          "Viking II orbiter"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Viking 2 orbiter is separately listed as a successful NASA Mars spacecraft.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-reconnaissance-orbiter",
+        "canonical": "Mars Reconnaissance Orbiter",
+        "aliases": [
+          "MRO"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Reconnaissance Orbiter is listed as a NASA Mars orbiter launched in 2005.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "maven",
+        "canonical": "MAVEN",
+        "aliases": [],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MAVEN is listed as a NASA Mars orbiter launched in November 2013.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-odyssey",
+        "canonical": "Mars Odyssey",
+        "aliases": [
+          "2001 Mars Odyssey",
+          "Odyssey"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Odyssey is listed as the NASA orbiter launched on the 2001 Mars Odyssey mission.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-global-surveyor",
+        "canonical": "Mars Global Surveyor",
+        "aliases": [
+          "MGS"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Global Surveyor is listed as a successful NASA Mars orbiter launched in 1996.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-4",
+        "canonical": "Mariner 4",
+        "aliases": [
+          "Mariner IV"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 4 is listed as a successful NASA Mars flyby spacecraft launched in 1964.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-9",
+        "canonical": "Mariner 9",
+        "aliases": [
+          "Mariner IX"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 9 is listed as a successful NASA Mars orbiter launched in 1971.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-3",
+        "canonical": "Mariner 3",
+        "aliases": [
+          "Mariner III"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 3 is listed as a NASA Mars flyby attempt that suffered a launch failure.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-6",
+        "canonical": "Mariner 6",
+        "aliases": [
+          "Mariner VI"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 6 is listed as a successful NASA Mars flyby spacecraft launched in 1969.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-7",
+        "canonical": "Mariner 7",
+        "aliases": [
+          "Mariner VII"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 7 is listed as a successful NASA Mars flyby spacecraft launched in 1969.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mariner-8",
+        "canonical": "Mariner 8",
+        "aliases": [
+          "Mariner VIII"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mariner 8 is listed as a NASA Mars orbiter attempt that suffered a launch failure.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-observer",
+        "canonical": "Mars Observer",
+        "aliases": [],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Observer is listed as a NASA Mars orbiter mission that ended in spacecraft failure.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-climate-orbiter",
+        "canonical": "Mars Climate Orbiter",
+        "aliases": [
+          "Mars Surveyor '98 Orbiter",
+          "MCO",
+          "Mars Surveyor 98 Orbiter"
+        ],
+        "familiarity": 0.0358,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Climate Orbiter is listed as NASA's failed Mars Surveyor '98 orbiter spacecraft.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "mars-polar-lander",
+        "canonical": "Mars Polar Lander",
+        "aliases": [
+          "Mars Surveyor '98 Lander",
+          "MPL",
+          "Mars Surveyor 98 Lander"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mars Polar Lander is listed as NASA's failed Mars Surveyor '98 lander spacecraft.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "deep-space-2-a",
+        "canonical": "Deep Space 2 (A)",
+        "aliases": [
+          "Deep Space 2 A",
+          "DS2 A",
+          "Deep Space 2"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deep Space 2 (A) is listed as a NASA penetrator launched with the Mars Surveyor '98 lander mission.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "deep-space-2-b",
+        "canonical": "Deep Space 2 (B)",
+        "aliases": [
+          "Deep Space 2 B",
+          "DS2 B"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deep Space 2 (B) is separately listed as a NASA penetrator launched with the Mars Surveyor '98 lander mission.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "marco-a",
+        "canonical": "MarCO-A",
+        "aliases": [
+          "MarCO A",
+          "MarCO"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MarCO-A is listed as a NASA Mars flyby spacecraft launched alongside InSight.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "marco-b",
+        "canonical": "MarCO-B",
+        "aliases": [
+          "MarCO B"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MarCO-B is separately listed as a NASA Mars flyby spacecraft launched alongside InSight.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "escapade-blue",
+        "canonical": "ESCAPADE Blue",
+        "aliases": [
+          "ESCAPADE",
+          "ESCAPADE Blue orbiter"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ESCAPADE Blue is listed as a NASA / UC Berkeley spacecraft launched toward Mars in November 2025.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      },
+      {
+        "id": "escapade-gold",
+        "canonical": "ESCAPADE Gold",
+        "aliases": [
+          "ESCAPADE Gold orbiter"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ESCAPADE Gold is separately listed as a NASA / UC Berkeley spacecraft launched toward Mars in November 2025.",
+        "sourceIds": [
+          "list-of-missions-to-mars"
+        ]
+      }
+    ],
+    "explanation": "These spacecraft appear under NASA, or NASA / UC Berkeley, in the supplied Mars-mission list. Failed launches and lost spacecraft count, as do separately named landers, rovers, penetrators and the Ingenuity helicopter. Missions that only used Mars for a gravity assist are excluded.",
+    "sources": [
+      {
+        "id": "list-of-missions-to-mars",
+        "title": "List of missions to Mars",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_missions_to_Mars",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "f996856699135de4",
+    "brief": "Name a spacecraft, lander or rover sent to Mars.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-missions-to-mars",
+        "version": "1382225004",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Curiosity": "40 | Mars Science Laboratory | 26 November 2011 | NASA | Atlas V 541 | Curiosity | Rover | Operational",
+      "Perseverance": "47 | Mars 2020 | 30 July 2020 | NASA | Atlas V 541 | Perseverance | Rover | Operational",
+      "Opportunity (MER-B)": "36 | Opportunity | 8 July 2003 | NASA | Delta II 7925H | Opportunity (MER-B) | Rover | Success",
+      "Spirit (MER-A)": "35 | Spirit | 10 June 2003 | NASA | Delta II 7925 | Spirit (MER-A) | Rover | Success",
+      "Ingenuity": "47 | Mars 2020 | 30 July 2020 | NASA | Atlas V 541 | Ingenuity | Helicopter | Success",
+      "Sojourner": "29 | Mars Pathfinder | 4 December 1996 | NASA | Delta II 7925 | Sojourner | Rover | Success",
+      "Mars Pathfinder": "29 | Mars Pathfinder | 4 December 1996 | NASA | Delta II 7925 | Mars Pathfinder | Lander | Success",
+      "InSight": "44 | Discovery 12 | 5 May 2018 | NASA | Atlas V 401 | InSight | Lander | Success",
+      "Phoenix": "38 | Phoenix | 4 August 2007 | NASA | Delta II 7925 | Phoenix | Lander | Success",
+      "Viking 1 lander": "22 | Viking 1 | 20 August 1975 | NASA | Titan IIIE Centaur-D1T | Viking 1 lander | Lander | Success",
+      "Viking 1 orbiter": "22 | Viking 1 | 20 August 1975 | NASA | Titan IIIE Centaur-D1T | Viking 1 orbiter | Orbiter | Success",
+      "Viking 2 lander": "23 | Viking 2 | 9 September 1975 | NASA | Titan IIIE Centaur-D1T | Viking 2 lander | Lander | Success",
+      "Viking 2 orbiter": "23 | Viking 2 | 9 September 1975 | NASA | Titan IIIE Centaur-D1T | Viking 2 orbiter | Orbiter | Success",
+      "Mars Reconnaissance Orbiter": "37 | Mars Reconnaissance Orbiter | 12 August 2005 | NASA | Atlas V 401 | Mars Reconnaissance Orbiter | Orbiter | Operational",
+      "MAVEN": "42 | MAVEN | 18 November 2013 | NASA | Atlas V 401 | MAVEN | Orbiter | Success",
+      "Mars Odyssey": "33 | 2001 Mars Odyssey | 7 April 2001 | NASA | Delta II 7925 | Mars Odyssey | Orbiter | Operational",
+      "Mars Global Surveyor": "27 | Mars Global Surveyor | 7 November 1996 | NASA | Delta II 7925 | Mars Global Surveyor | Orbiter | Success",
+      "Mariner 4": "7 | Mariner 4 | 28 November 1964 | NASA | Atlas LV-3 Agena-D | Mariner 4 | Flyby | Success",
+      "Mariner 9": "17 | Mariner 9 | 30 May 1971 | NASA | Atlas SLV-3C Centaur-D | Mariner 9 | Orbiter | Success",
+      "Mariner 3": "6 | Mariner 3 | 5 November 1964 | NASA | Atlas LV-3 Agena-D | Mariner 3 | Flyby | Launch failure",
+      "Mariner 6": "9 | Mariner 6 | 25 February 1969 | NASA | Atlas SLV-3C Centaur-D | Mariner 6 | Flyby | Success",
+      "Mariner 7": "11 | Mariner 7 | 27 March 1969 | NASA | Atlas SLV-3C Centaur-D | Mariner 7 | Flyby | Success",
+      "Mariner 8": "13 | Mariner 8 | 9 May 1971 | NASA | Atlas SLV-3C Centaur-D | Mariner 8 | Orbiter | Launch failure",
+      "Mars Observer": "26 | Mars Observer | 25 September 1992 | NASA | Commercial Titan III | Mars Observer | Orbiter | Spacecraft failure",
+      "Mars Climate Orbiter": "31 | Mars Surveyor '98 Orbiter | 11 December 1998 | NASA | Delta II 7425 | Mars Climate Orbiter | Orbiter | Spacecraft failure",
+      "Mars Polar Lander": "32 | Mars Surveyor '98 Lander | 3 January 1999 | NASA | Delta II 7425 | Mars Polar Lander | Lander | Spacecraft failure",
+      "Deep Space 2 (A)": "32 | Mars Surveyor '98 Lander | 3 January 1999 | NASA | Delta II 7425 | Deep Space 2 (A) | Penetrator | Spacecraft failure",
+      "Deep Space 2 (B)": "32 | Mars Surveyor '98 Lander | 3 January 1999 | NASA | Delta II 7425 | Deep Space 2 (B) | Penetrator | Spacecraft failure",
+      "MarCO-A": "44 | Discovery 12 | 5 May 2018 | NASA | Atlas V 401 | MarCO-A | Flyby | Success",
+      "MarCO-B": "44 | Discovery 12 | 5 May 2018 | NASA | Atlas V 401 | MarCO-B | Flyby | Success",
+      "ESCAPADE Blue": "48 | ESCAPADE | 13 November 2025 | NASA / UC Berkeley | New Glenn | ESCAPADE Blue | Orbiter | Enroute",
+      "ESCAPADE Gold": "48 | ESCAPADE | 13 November 2025 | NASA / UC Berkeley | New Glenn | ESCAPADE Gold | Orbiter | Enroute"
+    },
+    "issues": []
+  }
+}

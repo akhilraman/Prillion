@@ -1,0 +1,1533 @@
+{
+  "question": {
+    "id": "tollywood-nagarjuna-films",
+    "category": "tollywood",
+    "prompt": "Name a movie listed under “As actor” in Nagarjuna’s filmography, including cameos and announced films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "velugu-needalu",
+        "canonical": "Velugu Needalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Nagarjuna as a baby artist in this 1961 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "thooya-ullam",
+        "canonical": "Thooya Ullam",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Nagarjuna as a baby artist in this 1961 Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "sudigundalu",
+        "canonical": "Sudigundalu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna is listed as a child artist in this 1968 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "vikram",
+        "canonical": "Vikram",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikram in this 1986 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "captain-nagarjun",
+        "canonical": "Captain Nagarjun",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Nagarjuna in this 1986 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "aranyakanda",
+        "canonical": "Aranyakanda",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chaitanya in this 1986 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "majnu",
+        "canonical": "Majnu",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Rajesh in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "sankeertana",
+        "canonical": "Sankeertana",
+        "aliases": [
+          "Sankirtana"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kaasi in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "trimurtulu",
+        "canonical": "Trimurtulu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as himself in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "collector-gari-abbai",
+        "canonical": "Collector Gari Abbai",
+        "aliases": [
+          "Collector Gari Abbayi"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ravi in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "agni-putrudu",
+        "canonical": "Agni Putrudu",
+        "aliases": [
+          "Agni Puthrudu"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kalidaasu in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "kirai-dada",
+        "canonical": "Kirai Dada",
+        "aliases": [
+          "Kirayi Dada"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vijay in this 1987 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "aakhari-poratam",
+        "canonical": "Aakhari Poratam",
+        "aliases": [
+          "Akhari Poratam"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vihari in this 1988 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "chinababu",
+        "canonical": "Chinababu",
+        "aliases": [
+          "Chinna Babu"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Venu Gopal in this 1988 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "murali-krishnudu",
+        "canonical": "Murali Krishnudu",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Murali Krishna in this 1988 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "rao-gari-illu",
+        "canonical": "Rao Gari Illu",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as himself in this 1988 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "janaki-ramudu",
+        "canonical": "Janaki Ramudu",
+        "aliases": [
+          "Janaki Raamudu"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ranga (Ramu) in this 1988 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "vijay",
+        "canonical": "Vijay",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vijay in this 1989 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "vicky-daada",
+        "canonical": "Vicky Daada",
+        "aliases": [
+          "Vicky Dada"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikram in this 1989 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "geetanjali",
+        "canonical": "Geetanjali",
+        "aliases": [
+          "Geethanjali"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Prakash in this 1989 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "agni",
+        "canonical": "Agni",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Pavan Kumar in this 1989 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "siva",
+        "canonical": "Siva",
+        "aliases": [
+          "Siva 1989",
+          "Shiva Telugu"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Siva in this 1989 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "prema-yuddham",
+        "canonical": "Prema Yuddham",
+        "aliases": [
+          "Prema Yudham"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kalyan in this 1990 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "neti-siddhartha",
+        "canonical": "Neti Siddhartha",
+        "aliases": [
+          "Neti Siddhartha 1990"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Siddhartha in this 1990 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "iddaru-iddare",
+        "canonical": "Iddaru Iddare",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ravi in this 1990 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "shiva",
+        "canonical": "Shiva",
+        "aliases": [
+          "Shiva 1990",
+          "Shiva Hindi"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Shiva in this 1990 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "nirnayam",
+        "canonical": "Nirnayam",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vamsi Krishna in this 1991 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "chaitanya",
+        "canonical": "Chaitanya",
+        "aliases": [
+          "Chaitanya 1991"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chaitanya in this 1991 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "shanti-kranti",
+        "canonical": "Shanti Kranti",
+        "aliases": [
+          "Shanthi Kranthi"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Inspector Subash in the Telugu version of this multilingual film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "jaitra-yatra",
+        "canonical": "Jaitra Yatra",
+        "aliases": [
+          "Jaitrayatra"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Teja in this 1991 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "killer",
+        "canonical": "Killer",
+        "aliases": [
+          "Killer 1992"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Eeswar Prasad (Prem Krishna) in this 1992 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "khuda-gawah",
+        "canonical": "Khuda Gawah",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Inspector Raja Mirza in this 1992 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "antham",
+        "canonical": "Antham",
+        "aliases": [
+          "Antam"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raghav (Shekar) in this 1992 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "drohi",
+        "canonical": "Drohi",
+        "aliases": [
+          "Drohi 1992"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raghav (Shekar) in this 1992 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "president-gari-pellam",
+        "canonical": "President Gari Pellam",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raja in this 1992 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "rakshana",
+        "canonical": "Rakshana",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Bose in this 1993 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "varasudu",
+        "canonical": "Varasudu",
+        "aliases": [
+          "Vaarasudu"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vinay in this 1993 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "allari-alludu",
+        "canonical": "Allari Alludu",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kalyan (Rajesh) in this 1993 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "govinda-govinda",
+        "canonical": "Govinda Govinda",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Seenu in this 1994 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "hello-brother",
+        "canonical": "Hello Brother",
+        "aliases": [
+          "Hello Brother 1994"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Deva and Ravi Varma in this 1994 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "criminal",
+        "canonical": "Criminal",
+        "aliases": [
+          "Criminal 1994",
+          "Criminal 1995"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna is listed as Dr. Ajay Kumar in Criminal.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ghatothkachudu",
+        "canonical": "Ghatothkachudu",
+        "aliases": [
+          "Ghatotkachudu"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as Chitha in this 1995 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "gharana-bullodu",
+        "canonical": "Gharana Bullodu",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raju in this 1995 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "sisindri",
+        "canonical": "Sisindri",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raja in this 1995 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "vajram",
+        "canonical": "Vajram",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chakri in this 1995 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ramudochadu",
+        "canonical": "Ramudochadu",
+        "aliases": [
+          "Ramudochhadu"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ram in this 1996 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "mr-bechara",
+        "canonical": "Mr. Bechara",
+        "aliases": [
+          "Mr Bechara"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a special appearance as Ajay in this 1996 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ninne-pelladata",
+        "canonical": "Ninne Pelladata",
+        "aliases": [
+          "Ninne Pelladatha"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Seenu in this 1996 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "annamayya",
+        "canonical": "Annamayya",
+        "aliases": [
+          "Annamaya"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Annamacharya in this 1997 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ratchagan",
+        "canonical": "Ratchagan",
+        "aliases": [
+          "Ratchakan"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ajay Padmanabhan in this 1997 Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "aavida-maa-aavide",
+        "canonical": "Aavida Maa Aavide",
+        "aliases": [
+          "Avida Maa Avide"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikranth in this 1998 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "auto-driver",
+        "canonical": "Auto Driver",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Jagan in this 1998 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "angaarey",
+        "canonical": "Angaarey",
+        "aliases": [
+          "Angaaray"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raja Lokhande in this 1998 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "chandralekha",
+        "canonical": "Chandralekha",
+        "aliases": [
+          "Chandralekha 1998"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raj Kapoor (Seeta Rama Rao) in this 1998 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "zakhm",
+        "canonical": "Zakhm",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raman Desai in this 1998 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "seetharama-raju",
+        "canonical": "Seetharama Raju",
+        "aliases": [
+          "Sitarama Raju"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ramaraju in this 1999 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ravoyi-chandamama",
+        "canonical": "Ravoyi Chandamama",
+        "aliases": [
+          "Raavoyi Chandamama"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Sashi in this 1999 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "nuvvu-vasthavani",
+        "canonical": "Nuvvu Vasthavani",
+        "aliases": [
+          "Nuvvu Vastavani"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chinni Krishna in this 2000 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ninne-premistha",
+        "canonical": "Ninne Premistha",
+        "aliases": [
+          "Ninne Premista"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Srinivas in this 2000 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "azad",
+        "canonical": "Azad",
+        "aliases": [
+          "Azaad"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chandra Shekar Azad in this 2000 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "eduruleni-manishi",
+        "canonical": "Eduruleni Manishi",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Surya Murthy and Satya in this 2001 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "bava-nachadu",
+        "canonical": "Bava Nachadu",
+        "aliases": [
+          "Bava Nachchadu"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ajay in this 2001 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "adhipathi",
+        "canonical": "Adhipathi",
+        "aliases": [
+          "Adhipati"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Jagan in this 2001 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "akasa-veedhilo",
+        "canonical": "Akasa Veedhilo",
+        "aliases": [
+          "Akasha Veedhilo"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chandra Sekhar (Chandu) in this 2001 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "snehamante-idera",
+        "canonical": "Snehamante Idera",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Aravind in this 2001 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "santosham",
+        "canonical": "Santosham",
+        "aliases": [
+          "Santhosham"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Karthikeya in this 2002 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "agni-varsha",
+        "canonical": "Agni Varsha",
+        "aliases": [
+          "Agnivarsha"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Yavakri in this 2002 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "manmadhudu",
+        "canonical": "Manmadhudu",
+        "aliases": [
+          "Manmadudu"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Abhiram in this 2002 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "sivamani",
+        "canonical": "Sivamani",
+        "aliases": [
+          "Shivamani"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays CI Sivamani in this 2003 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "loc-kargil",
+        "canonical": "LOC Kargil",
+        "aliases": [
+          "LOC: Kargil"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Major Padmapani Acharya in this 2003 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "nenunnanu",
+        "canonical": "Nenunnanu",
+        "aliases": [
+          "Nenunnanu 2004"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Venu Madhav in this 2004 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "mass",
+        "canonical": "Mass",
+        "aliases": [
+          "Mass 2004"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ganesh (Mass) in this 2004 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "super",
+        "canonical": "Super",
+        "aliases": [
+          "Super 2005"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Akhil in this 2005 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "style",
+        "canonical": "Style",
+        "aliases": [
+          "Style 2006"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as Mass in this 2006 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "sri-ramadasu",
+        "canonical": "Sri Ramadasu",
+        "aliases": [
+          "Sree Ramadasu"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kancherla Gopanna in this 2006 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "boss",
+        "canonical": "Boss",
+        "aliases": [
+          "Boss 2006"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Gopal Krishna in this 2006 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "don",
+        "canonical": "Don",
+        "aliases": [
+          "Don 2007"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Suri in this 2007 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "king",
+        "canonical": "King",
+        "aliases": [
+          "King 2008"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Raja Chandra Pratap Varma, also known as King, in this 2008 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "krishnarjuna",
+        "canonical": "Krishnarjuna",
+        "aliases": [
+          "Krishnarjuna 2008"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Lord Krishna / Bangaram in this 2008 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "kedi",
+        "canonical": "Kedi",
+        "aliases": [
+          "Kedi 2010"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Ramesh, nicknamed Rummy, in this 2010 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "thakita-thakita",
+        "canonical": "Thakita Thakita",
+        "aliases": [
+          "Takita Takita"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as Nag in this 2010 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "ragada",
+        "canonical": "Ragada",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Satya Reddy in this 2010 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "gaganam",
+        "canonical": "Gaganam",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Major N. Raveendra in this 2011 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "payanam",
+        "canonical": "Payanam",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Major N. Raveendra in this 2011 Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "rajanna",
+        "canonical": "Rajanna",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Rajanna in this 2011 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "shirdi-sai",
+        "canonical": "Shirdi Sai",
+        "aliases": [
+          "Shiridi Sai"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Shirdi Sai Baba in this 2012 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "damarukam",
+        "canonical": "Damarukam",
+        "aliases": [
+          "Dhamarukam"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Mallikarjuna in this 2012 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "greeku-veerudu",
+        "canonical": "Greeku Veerudu",
+        "aliases": [
+          "Greekuveerudu"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chandu in this 2013 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "jagadguru-adi-shankara",
+        "canonical": "Jagadguru Adi Shankara",
+        "aliases": [
+          "Jagadguru Adi Sankara"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Chandaludu in this 2013 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "bhai",
+        "canonical": "Bhai",
+        "aliases": [
+          "Bhai 2013"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vijay in this 2013 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "manam",
+        "canonical": "Manam",
+        "aliases": [],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Seetharamudu and Nageswara Rao in this 2014 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "dongaata",
+        "canonical": "Dongaata",
+        "aliases": [
+          "Dongata"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna appears as himself in a song in this 2015 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "akhil",
+        "canonical": "Akhil",
+        "aliases": [
+          "Akhil 2015"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna appears as himself in a song in this 2015 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "soggade-chinni-nayana",
+        "canonical": "Soggade Chinni Nayana",
+        "aliases": [
+          "Soggade Chinninayana"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Bangarraju and Dr. Ram Mohan in this 2016 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "oopiri",
+        "canonical": "Oopiri",
+        "aliases": [
+          "Upiri"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikramaditya in this 2016 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "thozha",
+        "canonical": "Thozha",
+        "aliases": [
+          "Thozhaa"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikramaditya in this 2016 Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "nirmala-convent",
+        "canonical": "Nirmala Convent",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes an extended cameo as himself in this 2016 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "premam",
+        "canonical": "Premam",
+        "aliases": [
+          "Premam 2016",
+          "Premam Telugu"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna makes a cameo as Vikram’s father in this 2016 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "om-namo-venkatesaya",
+        "canonical": "Om Namo Venkatesaya",
+        "aliases": [
+          "Om Namo Venkatesaaya"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Hathiram Bhavaji in this 2017 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "raju-gari-gadhi-2",
+        "canonical": "Raju Gari Gadhi 2",
+        "aliases": [
+          "Raju Gari Gadi 2"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Rudra in this 2017 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "officer",
+        "canonical": "Officer",
+        "aliases": [
+          "Officer 2018"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Sivaji Rao IPS in this 2018 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "devadas",
+        "canonical": "Devadas",
+        "aliases": [
+          "Devadas 2018"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Deva in this 2018 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "manmadhudu-2",
+        "canonical": "Manmadhudu 2",
+        "aliases": [
+          "Manmadudu 2"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Sambasiva Rao / Sam in this 2019 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "wild-dog",
+        "canonical": "Wild Dog",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vijay Varma in this 2021 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "bangarraju",
+        "canonical": "Bangarraju",
+        "aliases": [
+          "Bangaraju"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Bangarraju and Dr. Ram Mohan in this 2022 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "brahm-stra-part-one-shiva",
+        "canonical": "Brahmāstra: Part One – Shiva",
+        "aliases": [
+          "Brahmastra",
+          "Brahmastra Part One Shiva",
+          "Brahmastra Part 1"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Anish Shetty in this 2022 Hindi film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "the-ghost",
+        "canonical": "The Ghost",
+        "aliases": [
+          "Ghost"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Vikram Naidu in this 2022 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "naa-saami-ranga",
+        "canonical": "Naa Saami Ranga",
+        "aliases": [
+          "Na Sami Ranga",
+          "Naa Sami Ranga"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna plays Kishtayya in this 2024 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "kuberaa",
+        "canonical": "Kuberaa",
+        "aliases": [
+          "Kubera"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna is listed as Deepak Tej in this 2025 Telugu–Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "coolie",
+        "canonical": "Coolie",
+        "aliases": [
+          "Coolie 2025"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna is listed as Simon Xavier in this 2025 Tamil film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      },
+      {
+        "id": "king-100",
+        "canonical": "King 100",
+        "aliases": [
+          "King100"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting filmography lists King 100 as a 2026 Telugu film.",
+        "sourceIds": [
+          "nagarjuna-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are films listed in Nagarjuna’s acting filmography, spanning Telugu, Hindi and Tamil cinema. Cameos, childhood appearances and announced films count; producer-only credits do not.",
+    "sources": [
+      {
+        "id": "nagarjuna-filmography",
+        "title": "Nagarjuna filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nagarjuna_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ec2b386b87ca81be",
+    "brief": "Name a movie starring Nagarjuna.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nagarjuna-filmography",
+        "version": "1376440507",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Velugu Needalu": "1961 | Velugu Needalu | | Telugu | Bilingual film; Baby artist |",
+      "Thooya Ullam": "1961 | Thooya Ullam | | Tamil | Bilingual film; Baby artist |",
+      "Sudigundalu": "1968 | Sudigundalu | | Telugu | Child artist |",
+      "Vikram": "1986 | Vikram | Vikram | Telugu | |",
+      "Captain Nagarjun": "1986 | Captain Nagarjun | Nagarjuna | Telugu | |",
+      "Aranyakanda": "1986 | Aranyakanda | Chaitanya | Telugu | |",
+      "Majnu": "1987 | Majnu | Rajesh | Telugu | |",
+      "Sankeertana": "1987 | Sankeertana | Kaasi | Telugu | |",
+      "Trimurtulu": "1987 | Trimurtulu | Himself | Telugu | Cameo Appearance |",
+      "Collector Gari Abbai": "1987 | Collector Gari Abbai | Ravi | Telugu | |",
+      "Agni Putrudu": "1987 | Agni Putrudu | Kalidaasu | Telugu | |",
+      "Kirai Dada": "1987 | Kirai Dada | Vijay | Telugu | |",
+      "Aakhari Poratam": "1988 | Aakhari Poratam | Vihari | Telugu | |",
+      "Chinababu": "1988 | Chinababu | Venu Gopal | Telugu | |",
+      "Murali Krishnudu": "1988 | Murali Krishnudu | Murali Krishna | Telugu | |",
+      "Rao Gari Illu": "1988 | Rao Gari Illu | Himself | Telugu | Cameo appearance |",
+      "Janaki Ramudu": "1988 | Janaki Ramudu | Ranga (Ramu) | Telugu | |",
+      "Vijay": "1989 | Vijay | Vijay | Telugu | |",
+      "Vicky Daada": "1989 | Vicky Daada | Vikram | Telugu | |",
+      "Geetanjali": "1989 | Geetanjali | Prakash | Telugu | |",
+      "Agni": "1989 | Agni | Pavan Kumar | Telugu | |",
+      "Siva": "1989 | Siva | Siva | Telugu | |",
+      "Prema Yuddham": "1990 | Prema Yuddham | Kalyan | Telugu | |",
+      "Neti Siddhartha": "1990 | Neti Siddhartha | Siddhartha | Telugu | |",
+      "Iddaru Iddare": "1990 | Iddaru Iddare | Ravi | Telugu | |",
+      "Shiva": "1990 | Shiva | Shiva | Hindi | |",
+      "Nirnayam": "1991 | Nirnayam | Vamsi Krishna | Telugu | |",
+      "Chaitanya": "1991 | Chaitanya | Chaitanya | Telugu | |",
+      "Shanti Kranti": "1991 | Shanti Kranti | Inspector Subash | Telugu | Multilingual film; Telugu version only |",
+      "Jaitra Yatra": "1991 | Jaitra Yatra | Teja | Telugu | |",
+      "Killer": "1992 | Killer | Eeswar Prasad (Prem Krishna) | Telugu | |",
+      "Khuda Gawah": "1992 | Khuda Gawah | Inspector Raja Mirza | Hindi | |",
+      "Antham": "1992 | Antham | Raghav (Shekar) | Telugu | Bilingual film |",
+      "Drohi": "1992 | Drohi | Raghav (Shekar) | Hindi | Bilingual film |",
+      "President Gari Pellam": "1992 | President Gari Pellam | Raja | Telugu | |",
+      "Rakshana": "1993 | Rakshana | Bose | Telugu | |",
+      "Varasudu": "1993 | Varasudu | Vinay | Telugu | |",
+      "Allari Alludu": "1993 | Allari Alludu | Kalyan (Rajesh) | Telugu | |",
+      "Govinda Govinda": "1994 | Govinda Govinda | Seenu | Telugu | |",
+      "Hello Brother": "1994 | Hello Brother | Deva, Ravi Varma | Telugu | |",
+      "Criminal": "1994 | Criminal | Dr. Ajay Kumar | Telugu | |",
+      "Ghatothkachudu": "1995 | Ghatothkachudu | Chitha | Telugu | Cameo appearance |",
+      "Gharana Bullodu": "1995 | Gharana Bullodu | Raju | Telugu | |",
+      "Sisindri": "1995 | Sisindri | Raja | Telugu | |",
+      "Vajram": "1995 | Vajram | Chakri | Telugu | |",
+      "Ramudochadu": "1996 | Ramudochadu | Ram | Telugu | |",
+      "Mr. Bechara": "1996 | Mr. Bechara | Ajay | Hindi | Special appearance |",
+      "Ninne Pelladata": "1996 | Ninne Pelladata | Seenu | Telugu |",
+      "Annamayya": "1997 | Annamayya | Annamacharya | Telugu |",
+      "Ratchagan": "1997 | Ratchagan | Ajay Padmanabhan | Tamil | |",
+      "Aavida Maa Aavide": "1998 | Aavida Maa Aavide | Vikranth | Telugu | |",
+      "Auto Driver": "1998 | Auto Driver | Jagan | Telugu | |",
+      "Angaarey": "1998 | Angaarey | Raja Lokhande | Hindi | |",
+      "Chandralekha": "1998 | Chandralekha | Raj Kapoor (Seeta Rama Rao) | Telugu | |",
+      "Zakhm": "1998 | Zakhm | Raman Desai | Hindi | |",
+      "Seetharama Raju": "1999 | Seetharama Raju | Ramaraju | Telugu | |",
+      "Ravoyi Chandamama": "1999 | Ravoyi Chandamama | Sashi | Telugu | |",
+      "Nuvvu Vasthavani": "2000 | Nuvvu Vasthavani | Chinni Krishna | Telugu | |",
+      "Ninne Premistha": "2000 | Ninne Premistha | Srinivas | Telugu | |",
+      "Azad": "2000 | Azad | Chandra Shekar Azad | Telugu |",
+      "Eduruleni Manishi": "2001 | Eduruleni Manishi | Surya Murthy, Satya | Telugu | |",
+      "Bava Nachadu": "2001 | Bava Nachadu | Ajay | Telugu | |",
+      "Adhipathi": "2001 | Adhipathi | Jagan | Telugu | |",
+      "Akasa Veedhilo": "2001 | Akasa Veedhilo | Chandra Sekhar (Chandu) | Telugu | |",
+      "Snehamante Idera": "2001 | Snehamante Idera | Aravind | Telugu | |",
+      "Santosham": "2002 | Santosham | Karthikeya | Telugu | Nandi Award for Best Actor |",
+      "Agni Varsha": "2002 | Agni Varsha | Yavakri | Hindi | |",
+      "Manmadhudu": "2002 | Manmadhudu | Abhiram | Telugu | |",
+      "Sivamani": "2003 | Sivamani | CI Sivamani | Telugu | |",
+      "LOC Kargil": "2003 | LOC Kargil | Major Padmapani Acharya | Hindi | |",
+      "Nenunnanu": "2004 | Nenunnanu | Venu Madhav | Telugu | |",
+      "Mass": "2004 | Mass | Ganesh (Mass) | Telugu | |",
+      "Super": "2005 | Super | Akhil | Telugu | |",
+      "Style": "2006 | Style | Mass | Telugu | Cameo appearance |",
+      "Sri Ramadasu": "2006 | Sri Ramadasu | Kancherla Gopanna | Telugu | Nandi Award for Best Actor |",
+      "Boss": "2006 | Boss | Gopal Krishna | Telugu | |",
+      "Don": "2007 | Don | Suri | Telugu | |",
+      "King": "2008 | King | Raja Chandra Pratap Varma aka King (Bottu Seenu, Sarath) | Telugu | |",
+      "Krishnarjuna": "2008 | Krishnarjuna | Lord Krishna / Bangaram | Telugu | |",
+      "Kedi": "2010 | Kedi | Ramesh \"Rummy\" | Telugu | |",
+      "Thakita Thakita": "2010 | Thakita Thakita | Nag | Telugu | Cameo appearance |",
+      "Ragada": "2010 | Ragada | Satya Reddy | Telugu | |",
+      "Gaganam": "2011 | Gaganam | Major N. Raveendra | Telugu | Bilingual film |",
+      "Payanam": "2011 | Payanam | Major N. Raveendra | Tamil | Bilingual film |",
+      "Rajanna": "2011 | Rajanna | Rajanna | Telugu | |",
+      "Shirdi Sai": "2012 | Shirdi Sai | Shirdi Sai Baba | Telugu |",
+      "Damarukam": "2012 | Damarukam | Mallikarjuna | Telugu | |",
+      "Greeku Veerudu": "2013 | Greeku Veerudu | Chandu | Telugu | |",
+      "Jagadguru Adi Shankara": "2013 | Jagadguru Adi Shankara | Chandaludu | Telugu | |",
+      "Bhai": "2013 | Bhai | Vijay | Telugu | |",
+      "Manam": "2014 | Manam | Seetharamudu, Nageswara Rao \"Bittu\" | Telugu | |",
+      "Dongaata": "2015 | Dongaata | Himself | Telugu | Special appearance in the song \"Break up Antu\" |",
+      "Akhil": "2015 | Akhil | Himself | Telugu | Special appearance in the song \"Akkineni Akkineni\" |",
+      "Soggade Chinni Nayana": "2016 | Soggade Chinni Nayana | Bangarraju, Dr. Ram Mohan | Telugu |",
+      "Oopiri": "2016 | Oopiri | Vikramaditya \"Vikram\" | Telugu |",
+      "Thozha": "2016 | Thozha | Vikramaditya \"Vikram\" | Tamil |",
+      "Nirmala Convent": "2016 | Nirmala Convent | Himself | Telugu | Extended cameo appearance;",
+      "Premam": "2016 | Premam | Vikram's father | Telugu | Cameo appearance |",
+      "Om Namo Venkatesaya": "2017 | Om Namo Venkatesaya | Hathiram Bhavaji | Telugu | |",
+      "Raju Gari Gadhi 2": "2017 | Raju Gari Gadhi 2 | Rudra | Telugu | |",
+      "Officer": "2018 | Officer | Sivaji Rao IPS | Telugu | |",
+      "Devadas": "2018 | Devadas | Deva | Telugu | |",
+      "Manmadhudu 2": "2019 | Manmadhudu 2 | Sambasiva Rao / Sam | Telugu | |",
+      "Wild Dog": "2021 | Wild Dog | Vijay Varma | Telugu | |",
+      "Bangarraju": "2022 | Bangarraju | Bangarraju, Dr. Ram Mohan | Telugu |",
+      "Brahmāstra: Part One – Shiva": "2022 | Brahmāstra: Part One – Shiva | Anish Shetty | Hindi | |",
+      "The Ghost": "2022 | The Ghost | Vikram Naidu | Telugu | |",
+      "Naa Saami Ranga": "2024 | Naa Saami Ranga | Kishtayya | Telugu | |",
+      "Kuberaa": "2025 | Kuberaa | Deepak Tej | Telugu Tamil | Bilingual Film |",
+      "Coolie": "2025 | Coolie | Simon Xavier | Tamil | |",
+      "King 100": "2026 | King 100 | | Telugu | |"
+    },
+    "issues": []
+  }
+}

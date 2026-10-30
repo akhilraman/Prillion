@@ -1,0 +1,372 @@
+{
+  "question": {
+    "id": "tollywood-pooja-hegde-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Pooja Hegde has appeared, including special appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "mugamoodi",
+        "canonical": "Mugamoodi",
+        "aliases": [],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Shakthi in this 2012 Tamil film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "oka-laila-kosam",
+        "canonical": "Oka Laila Kosam",
+        "aliases": [
+          "Oka Laila Kosam"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Nandana in this 2014 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "mukunda",
+        "canonical": "Mukunda",
+        "aliases": [],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Gopika in this 2014 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "mohenjo-daro",
+        "canonical": "Mohenjo Daro",
+        "aliases": [
+          "Mohenjodaro",
+          "Mohenjo-Daro"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Chaani in this 2016 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "dj-duvvada-jagannadham",
+        "canonical": "DJ: Duvvada Jagannadham",
+        "aliases": [
+          "DJ",
+          "Duvvada Jagannadham",
+          "Duvvada Jagannadham DJ"
+        ],
+        "familiarity": 0.0974,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Pooja in this 2017 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde made a special appearance as Jigelu Rani in this 2018 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "saakshyam",
+        "canonical": "Saakshyam",
+        "aliases": [
+          "Sakshyam"
+        ],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Soundarya Lahari in this 2018 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "aravinda-sametha-veera-raghava",
+        "canonical": "Aravinda Sametha Veera Raghava",
+        "aliases": [
+          "Aravinda Sametha",
+          "Aravindha Sametha",
+          "Aravindha Sametha Veera Raghava"
+        ],
+        "familiarity": 0.0974,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Aravinda in this 2018 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "maharshi",
+        "canonical": "Maharshi",
+        "aliases": [
+          "Maharishi"
+        ],
+        "familiarity": 0.0974,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Pooja Mahalakshmi in this 2019 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "gaddalakonda-ganesh",
+        "canonical": "Gaddalakonda Ganesh",
+        "aliases": [
+          "Gaddalakonda Ganes h",
+          "Gaddalakonda Ganesh"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Sridevi in this 2019 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "housefull-4",
+        "canonical": "Housefull 4",
+        "aliases": [
+          "Housefull Four",
+          "Housefull IV",
+          "House Full 4"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Rajkumari Mala and Pooja Thakral in this 2019 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikunthapurramulo",
+          "Ala Vaikuntapuramlo",
+          "AVPL"
+        ],
+        "familiarity": 0.0974,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Amulya in this 2020 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "most-eligible-bachelor",
+        "canonical": "Most Eligible Bachelor",
+        "aliases": [
+          "MEB"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Vibha in this 2021 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "radhe-shyam",
+        "canonical": "Radhe Shyam",
+        "aliases": [
+          "RadheShyam"
+        ],
+        "familiarity": 0.0974,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Dr. Prerana Chakravarthy in this 2022 bilingual film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "beast",
+        "canonical": "Beast",
+        "aliases": [],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Preethi in this 2022 Tamil film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "acharya",
+        "canonical": "Acharya",
+        "aliases": [
+          "Ach a rya"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Neelambari in this 2022 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "f3-fun-and-frustration",
+        "canonical": "F3: Fun and Frustration",
+        "aliases": [
+          "F3",
+          "F3 Fun and Frustration",
+          "F 3"
+        ],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde appeared as herself in the song \"Life Ante Itta Vundaala\" in this 2022 Telugu film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "cirkus",
+        "canonical": "Cirkus",
+        "aliases": [
+          "Circus"
+        ],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Mala in this 2022 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "kisi-ka-bhai-kisi-ki-jaan",
+        "canonical": "Kisi Ka Bhai Kisi Ki Jaan",
+        "aliases": [
+          "KKBKKJ"
+        ],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Bhagyalaxmi Gundamaneni in this 2023 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "deva",
+        "canonical": "Deva",
+        "aliases": [],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Diya Sathaye in this 2025 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "retro",
+        "canonical": "Retro",
+        "aliases": [],
+        "familiarity": 0.0389,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde played Dr. Rukmini, also called Rukku, in this 2025 Tamil film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "coolie",
+        "canonical": "Coolie",
+        "aliases": [],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde made a special appearance as Monica in this 2025 Tamil film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "hai-jawani-toh-ishq-hona-hai",
+        "canonical": "Hai Jawani Toh Ishq Hona Hai",
+        "aliases": [
+          "Hai Jawaani Toh Ishq Hona Hai"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde is listed as playing Preet Randhawa in this 2026 Hindi film.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      },
+      {
+        "id": "jana-nayagan",
+        "canonical": "Jana Nayagan",
+        "aliases": [
+          "Jananayagan"
+        ],
+        "familiarity": 0.0117,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hegde is listed as playing Kayal in this 2026 Tamil film, which the source describes as theatrically released.",
+        "sourceIds": [
+          "pooja-hegde"
+        ]
+      }
+    ],
+    "explanation": "Pooja Hegde's filmography spans Telugu, Hindi and Tamil cinema. Lead roles and special song appearances count; films marked as unreleased in the source are excluded.",
+    "sources": [
+      {
+        "id": "pooja-hegde",
+        "title": "Pooja Hegde",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pooja_Hegde",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "09a051bbf7f57d5a",
+    "brief": "Name a film in which Pooja Hegde has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "pooja-hegde",
+        "version": "1382092899",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Mugamoodi": "2012 | Mugamoodi | Shakthi | Tamil | |",
+      "Oka Laila Kosam": "2014 | Oka Laila Kosam | Nandana | Telugu | |",
+      "Mukunda": "2014 | Mukunda | Gopika | Telugu | |",
+      "Mohenjo Daro": "2016 | Mohenjo Daro | Chaani | Hindi | |",
+      "DJ: Duvvada Jagannadham": "2017 | DJ: Duvvada Jagannadham | Pooja | Telugu | |",
+      "Rangasthalam": "2018 | Rangasthalam | Jigelu Rani | Telugu | Special appearance in the song \"Jigelu Rani\" |",
+      "Saakshyam": "2018 | Saakshyam | Soundarya Lahari | Telugu | |",
+      "Aravinda Sametha Veera Raghava": "2018 | Aravinda Sametha Veera Raghava | Aravinda | Telugu | |",
+      "Maharshi": "2019 | Maharshi | Pooja Mahalakshmi | Telugu | |",
+      "Gaddalakonda Ganesh": "2019 | Gaddalakonda Ganesh | Sridevi | Telugu | |",
+      "Housefull 4": "2019 | Housefull 4 | Rajkumari Mala / Pooja Thakral | Hindi | |",
+      "Ala Vaikunthapurramuloo": "2020 | Ala Vaikunthapurramuloo | Amulya | Telugu | |",
+      "Most Eligible Bachelor": "2021 | Most Eligible Bachelor | Vibha | Telugu | |",
+      "Radhe Shyam": "2022 | Radhe Shyam | Dr. Prerana Chakravarthy | Telugu Hindi | Bilingual film |",
+      "Beast": "2022 | Beast | Preethi | Tamil | |",
+      "Acharya": "2022 | Acharya | Neelambari | Telugu | |",
+      "F3: Fun and Frustration": "2022 | F3: Fun and Frustration | Herself | Telugu | Special appearance in the song \"Life Ante Itta Vundaala\" |",
+      "Cirkus": "2022 | Cirkus | Mala | Hindi | |",
+      "Kisi Ka Bhai Kisi Ki Jaan": "2023 | Kisi Ka Bhai Kisi Ki Jaan | Bhagyalaxmi Gundamaneni | Hindi | |",
+      "Deva": "2025 | Deva | Diya Sathaye | Hindi | |",
+      "Retro": "2025 | Retro | Dr. Rukmini \"Rukku\" | Tamil | |",
+      "Coolie": "2025 | Coolie | Monica | Tamil | Special appearance |",
+      "Hai Jawani Toh Ishq Hona Hai": "2026 | Hai Jawani Toh Ishq Hona Hai | Preet Randhawa | Hindi | |",
+      "Jana Nayagan": "2026 | Jana Nayagan | Kayal | Tamil | |"
+    },
+    "issues": []
+  }
+}

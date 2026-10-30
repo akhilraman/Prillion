@@ -1,0 +1,2446 @@
+{
+  "question": {
+    "id": "us-pop-simpsons-characters",
+    "category": "us-pop",
+    "prompt": "Name a character from The Simpsons.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "homer-simpson",
+        "canonical": "Homer Simpson",
+        "aliases": [
+          "Homer"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Homer is Marge's husband and the father of Bart, Lisa, and Maggie.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "marge-simpson",
+        "canonical": "Marge Simpson",
+        "aliases": [
+          "Marge"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marge is Homer's wife and the mother of their three children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "bart-simpson",
+        "canonical": "Bart Simpson",
+        "aliases": [
+          "Bart"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bart is Homer and Marge's oldest child and only son.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lisa-simpson",
+        "canonical": "Lisa Simpson",
+        "aliases": [
+          "Lisa"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lisa is Homer and Marge's middle child.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "maggie-simpson",
+        "canonical": "Maggie Simpson",
+        "aliases": [
+          "Maggie"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maggie is Homer and Marge's youngest child.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kumiko-albertson",
+        "canonical": "Kumiko Albertson",
+        "aliases": [
+          "Kumiko"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kumiko is a Japanese artist and Comic Book Guy's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ms-albright",
+        "canonical": "Ms. Albright",
+        "aliases": [
+          "Ms Albright",
+          "Miss Albright"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ms. Albright is a Sunday school teacher.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jasper-beardly",
+        "canonical": "Jasper Beardly",
+        "aliases": [
+          "Jasper",
+          "Jasper Beardsley"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jasper is Grampa's neighbor at the Retirement Castle.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "benjamin",
+        "canonical": "Benjamin",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Benjamin is one of the listed Springfield University students.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "doug",
+        "canonical": "Doug",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Doug is one of the listed Springfield University students.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "gary",
+        "canonical": "Gary",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gary is one of the listed Springfield University students.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "bill",
+        "canonical": "Bill",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill is a KBBL Radio co-host.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "marty",
+        "canonical": "Marty",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marty is a KBBL Radio co-host.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "blinky",
+        "canonical": "Blinky",
+        "aliases": [
+          "Blinky the fish"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blinky is the show's three-eyed fish.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "blue-haired-lawyer",
+        "canonical": "Blue-Haired Lawyer",
+        "aliases": [
+          "Blue Haired Lawyer"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Blue-Haired Lawyer is listed as an attorney.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "booberella",
+        "canonical": "Booberella",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Booberella hosts late-night monster movies.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "wendell-borton",
+        "canonical": "Wendell Borton",
+        "aliases": [
+          "Wendell"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wendell is a Springfield Elementary School student.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "clancy-bouvier",
+        "canonical": "Clancy Bouvier",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clancy Bouvier is Marge, Patty, and Selma's father.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jacqueline-bouvier",
+        "canonical": "Jacqueline Bouvier",
+        "aliases": [
+          "Jacqueline",
+          "Mrs. Bouvier"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jacqueline is the mother of Marge, Patty, and Selma.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "patty-bouvier",
+        "canonical": "Patty Bouvier",
+        "aliases": [
+          "Patty"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Patty is Selma's twin and Marge's older sister.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "selma-bouvier",
+        "canonical": "Selma Bouvier",
+        "aliases": [
+          "Selma"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Selma is Patty's twin and Marge's older sister.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kent-brockman",
+        "canonical": "Kent Brockman",
+        "aliases": [
+          "Brockman"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kent Brockman is the Channel 6 news anchor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "bumblebee-man",
+        "canonical": "Bumblebee Man",
+        "aliases": [
+          "Bumble Bee Man"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bumblebee Man stars in a Canal Ocho sketch comedy show.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "chazz-busby",
+        "canonical": "Chazz Busby",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chazz Busby owns a ballet academy.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "charles-montgomery-burns",
+        "canonical": "Charles Montgomery Burns",
+        "aliases": [
+          "Mr. Burns",
+          "Mr Burns",
+          "Burns",
+          "Montgomery Burns"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Burns owns the Springfield Nuclear Power Plant.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "capital-city-goofball",
+        "canonical": "Capital City Goofball",
+        "aliases": [
+          "The Capital City Goofball"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Capital City Goofball is a baseball team mascot.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "carl-carlson",
+        "canonical": "Carl Carlson",
+        "aliases": [
+          "Carl"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carl is Homer's friend and a power plant employee.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "crazy-cat-lady",
+        "canonical": "Crazy Cat Lady",
+        "aliases": [
+          "Eleanor Abernathy",
+          "The Crazy Cat Lady"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crazy Cat Lady is identified as Eleanor Abernathy.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "gary-chalmers",
+        "canonical": "Gary Chalmers",
+        "aliases": [
+          "Superintendent Chalmers",
+          "Superintendent Gary Chalmers",
+          "Chalmers"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gary Chalmers is the public schools superintendent.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "shauna-chalmers",
+        "canonical": "Shauna Chalmers",
+        "aliases": [
+          "Shauna"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shauna is Superintendent Chalmers's daughter.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "charlie",
+        "canonical": "Charlie",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charlie is a Springfield Nuclear Power Plant employee.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "chase-pyro",
+        "canonical": "Chase (Pyro)",
+        "aliases": [
+          "Chase",
+          "Pyro"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chase is Luann Van Houten's ex-boyfriend and an American Gladiator.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "scott-christian",
+        "canonical": "Scott Christian",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scott Christian is a news co-anchor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lewis-clark",
+        "canonical": "Lewis Clark",
+        "aliases": [
+          "Lewis"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lewis is a Springfield Elementary School student.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "comic-book-guy",
+        "canonical": "Comic Book Guy",
+        "aliases": [
+          "Jeff Albertson",
+          "The Comic Book Guy"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Comic Book Guy owns The Android's Dungeon and is named Jeff Albertson.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mr-costington",
+        "canonical": "Mr. Costington",
+        "aliases": [
+          "Mr Costington",
+          "Costington"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Costington is president of Costington's Department Store.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "database",
+        "canonical": "Database",
+        "aliases": [
+          "Kyle"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Database is a Springfield Elementary student whose first name is Kyle.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "declan-desmond",
+        "canonical": "Declan Desmond",
+        "aliases": [
+          "Declan"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Declan Desmond is a documentary filmmaker.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "disco-stu",
+        "canonical": "Disco Stu",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Disco Stu is listed as a disco aficionado.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dolph",
+        "canonical": "Dolph",
+        "aliases": [
+          "Dolph Starbeam"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dolph is a Springfield Elementary School bully.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lunchlady-dora",
+        "canonical": "Lunchlady Dora",
+        "aliases": [
+          "Lunchlady Doris",
+          "Lunch Lady Dora",
+          "Lunch Lady Doris"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lunchlady Dora is Springfield Elementary's lunch lady, also listed as Lunchlady Doris in the appearances table.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "duffman",
+        "canonical": "Duffman",
+        "aliases": [
+          "Duff Man",
+          "Barry Duffman"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duffman is Duff Beer's spokes-mascot.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "eddie",
+        "canonical": "Eddie",
+        "aliases": [
+          "Officer Eddie"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eddie is one of the listed Springfield police officers.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lou",
+        "canonical": "Lou",
+        "aliases": [
+          "Officer Lou"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lou is one of the listed Springfield police officers.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "fat-tony",
+        "canonical": "Fat Tony",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fat Tony is a mob underboss.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "maude-flanders",
+        "canonical": "Maude Flanders",
+        "aliases": [
+          "Maude"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maude is Ned Flanders's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ned-flanders",
+        "canonical": "Ned Flanders",
+        "aliases": [
+          "Ned",
+          "Flanders"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ned Flanders is the Simpson family's next-door neighbor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "rod-flanders",
+        "canonical": "Rod Flanders",
+        "aliases": [
+          "Rod"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rod is Ned and Maude's older son.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "todd-flanders",
+        "canonical": "Todd Flanders",
+        "aliases": [
+          "Todd"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Todd is Ned and Maude's younger son.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "julio-franco",
+        "canonical": "Julio Franco",
+        "aliases": [
+          "Julio"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julio Franco is listed as a character debuting in Three Gays of the Condo.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "frankie-the-squealer",
+        "canonical": "Frankie the Squealer",
+        "aliases": [
+          "Frankie"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frankie the Squealer is an informant for Fat Tony.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "professor-jonathan-frink",
+        "canonical": "Professor Jonathan Frink",
+        "aliases": [
+          "Professor Frink",
+          "Frink",
+          "Jonathan Frink"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Professor Frink is a scientist and inventor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "alice-glick",
+        "canonical": "Alice Glick",
+        "aliases": [
+          "Mrs. Glick",
+          "Mrs Glick"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alice Glick is an elderly character in the list.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "god",
+        "canonical": "God",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "God is listed as a character voiced by Harry Shearer.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "barney-gumble",
+        "canonical": "Barney Gumble",
+        "aliases": [
+          "Barney"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barney is described as Homer's drunken old pal.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "gil-gunderson",
+        "canonical": "Gil Gunderson",
+        "aliases": [
+          "Gil"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gil is an unsuccessful salesman.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "the-happy-little-elves",
+        "canonical": "The Happy Little Elves",
+        "aliases": [
+          "Happy Little Elves"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Happy Little Elves are characters from a children's cartoon within the show.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "judge-constance-harm",
+        "canonical": "Judge Constance Harm",
+        "aliases": [
+          "Judge Harm",
+          "Constance Harm"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Constance Harm is a Springfield judge.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "herman-hermann",
+        "canonical": "Herman Hermann",
+        "aliases": [
+          "Herman"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Herman owns Herman's Military Antiques.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "bernice-hibbert",
+        "canonical": "Bernice Hibbert",
+        "aliases": [
+          "Mrs. Hibbert",
+          "Bernice"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bernice is Dr. Hibbert's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dr-julius-hibbert",
+        "canonical": "Dr. Julius Hibbert",
+        "aliases": [
+          "Dr. Hibbert",
+          "Dr Hibbert",
+          "Doctor Hibbert",
+          "Julius Hibbert"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Julius Hibbert is a medical doctor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "elizabeth-hoover",
+        "canonical": "Elizabeth Hoover",
+        "aliases": [
+          "Miss Hoover",
+          "Ms. Hoover",
+          "Ms Hoover"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elizabeth Hoover teaches Lisa at Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lionel-hutz",
+        "canonical": "Lionel Hutz",
+        "aliases": [
+          "Hutz"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lionel Hutz is an attorney.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "itchy",
+        "canonical": "Itchy",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Itchy is one of the show's cartoon cat-and-mouse characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "scratchy",
+        "canonical": "Scratchy",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scratchy is one of the show's cartoon cat-and-mouse characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "snake-jailbird",
+        "canonical": "Snake Jailbird",
+        "aliases": [
+          "Snake"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Snake Jailbird is listed as a recidivist.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jimbo-jones",
+        "canonical": "Jimbo Jones",
+        "aliases": [
+          "Jimbo"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jimbo is a Springfield Elementary School bully.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kang",
+        "canonical": "Kang",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kang is one of the listed extraterrestrial characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kodos",
+        "canonical": "Kodos",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kodos is one of the listed extraterrestrial characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "princess-kashmir",
+        "canonical": "Princess Kashmir",
+        "aliases": [
+          "Kashmir"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Princess Kashmir is a belly dancer.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "edna-krabappel",
+        "canonical": "Edna Krabappel",
+        "aliases": [
+          "Edna",
+          "Mrs. Krabappel",
+          "Mrs Krabappel",
+          "Krabappel"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Edna is Bart's teacher and later Ned Flanders's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "coach-krupt",
+        "canonical": "Coach Krupt",
+        "aliases": [
+          "Krupt"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coach Krupt is Springfield Elementary's gym teacher.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "rabbi-hyman-krustofsky",
+        "canonical": "Rabbi Hyman Krustofsky",
+        "aliases": [
+          "Hyman Krustofski",
+          "Hyman Krustofsky",
+          "Rabbi Krustofsky",
+          "Rabbi Krustofski"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rabbi Hyman Krustofsky is Krusty the Clown's father.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "krusty-the-clown",
+        "canonical": "Krusty the Clown",
+        "aliases": [
+          "Krusty",
+          "Herschel Shmoikel Pinchas Yerucham Krustofski",
+          "Herschel Krustofski"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krusty is a television clown host.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "cookie-kwan",
+        "canonical": "Cookie Kwan",
+        "aliases": [
+          "Cookie"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cookie Kwan is a real estate agent.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dewey-largo",
+        "canonical": "Dewey Largo",
+        "aliases": [
+          "Mr. Largo",
+          "Mr Largo",
+          "Largo"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dewey Largo is Springfield Elementary's music teacher.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "legs",
+        "canonical": "Legs",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Legs is one of Fat Tony's henchmen.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "louie",
+        "canonical": "Louie",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Louie is one of Fat Tony's henchmen.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "leopold",
+        "canonical": "Leopold",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leopold is Superintendent Chalmers's assistant.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lenny-leonard",
+        "canonical": "Lenny Leonard",
+        "aliases": [
+          "Lenny"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lenny is Homer's friend and a power plant employee.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "leprechaun",
+        "canonical": "Leprechaun",
+        "aliases": [
+          "The Leprechaun"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Leprechaun is listed as a male faerie from Ireland.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "helen-lovejoy",
+        "canonical": "Helen Lovejoy",
+        "aliases": [
+          "Helen",
+          "Mrs. Lovejoy"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helen is Reverend Lovejoy's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "reverend-timothy-lovejoy",
+        "canonical": "Reverend Timothy Lovejoy",
+        "aliases": [
+          "Reverend Lovejoy",
+          "Rev. Lovejoy",
+          "Timothy Lovejoy",
+          "Lovejoy"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Reverend Lovejoy is minister of the First Church of Springfield.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lurleen-lumpkin",
+        "canonical": "Lurleen Lumpkin",
+        "aliases": [
+          "Lurleen"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lurleen is a country music singer-songwriter.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "otto-mann",
+        "canonical": "Otto Mann",
+        "aliases": [
+          "Otto"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Otto drives the Springfield Elementary school bus.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "captain-horatio-mccallister",
+        "canonical": "Captain Horatio McCallister",
+        "aliases": [
+          "Sea Captain",
+          "The Sea Captain",
+          "Horatio McCallister",
+          "Captain McCallister"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Horatio McCallister is a sea captain.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "roger-meyers-jr",
+        "canonical": "Roger Meyers, Jr.",
+        "aliases": [
+          "Roger Meyers Jr",
+          "Roger Meyers"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roger Meyers Jr. chairs Itchy & Scratchy International.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "troy-mcclure",
+        "canonical": "Troy McClure",
+        "aliases": [
+          "Troy"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Troy McClure is an actor within the show.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "hans-moleman",
+        "canonical": "Hans Moleman",
+        "aliases": [
+          "Moleman"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hans Moleman is listed as an unfortunate man.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dr-marvin-monroe",
+        "canonical": "Dr. Marvin Monroe",
+        "aliases": [
+          "Dr. Monroe",
+          "Dr Monroe",
+          "Marvin Monroe",
+          "Doctor Monroe"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Marvin Monroe is a psychotherapist.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "eddie-muntz",
+        "canonical": "Eddie Muntz",
+        "aliases": [
+          "Nelson's father",
+          "Mr. Muntz"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eddie Muntz is Nelson's father.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mrs-muntz",
+        "canonical": "Mrs. Muntz",
+        "aliases": [
+          "Mrs Muntz",
+          "Nelson's mother"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrs. Muntz is Nelson's mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "nelson-muntz",
+        "canonical": "Nelson Muntz",
+        "aliases": [
+          "Nelson"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nelson is a Springfield Elementary School bully.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "captain-lance-murdock",
+        "canonical": "Captain Lance Murdock",
+        "aliases": [
+          "Lance Murdock",
+          "Captain Murdock"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Lance Murdock is a daredevil.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "bleeding-gums-murphy",
+        "canonical": "Bleeding Gums Murphy",
+        "aliases": [
+          "Bleeding Gums"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bleeding Gums Murphy is a blues musician.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "lindsey-naegle",
+        "canonical": "Lindsey Naegle",
+        "aliases": [
+          "Lindsey"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lindsey Naegle is a corporate executive.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "apu-nahasapeemapetilon",
+        "canonical": "Apu Nahasapeemapetilon",
+        "aliases": [
+          "Apu"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apu operates the Kwik-E-Mart.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "manjula-nahasapeemapetilon",
+        "canonical": "Manjula Nahasapeemapetilon",
+        "aliases": [
+          "Manjula"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manjula is Apu's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "sanjay-nahasapeemapetilon",
+        "canonical": "Sanjay Nahasapeemapetilon",
+        "aliases": [
+          "Sanjay"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sanjay is Apu's younger brother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jake",
+        "canonical": "Jake",
+        "aliases": [
+          "Jake the barber"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jake is listed as a barber.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "old-jewish-man",
+        "canonical": "Old Jewish Man",
+        "aliases": [
+          "The Old Jewish Man"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Old Jewish Man lives at the Springfield Retirement Castle.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "rayshelle-peyton",
+        "canonical": "Rayshelle Peyton",
+        "aliases": [
+          "Rayshelle",
+          "Ms. Peyton",
+          "Miss Peyton"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rayshelle Peyton is Bart's teacher at Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "herbert-powell",
+        "canonical": "Herbert Powell",
+        "aliases": [
+          "Herb Powell",
+          "Herb",
+          "Herbert"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Herbert Powell is Homer's half-brother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "janey-powell",
+        "canonical": "Janey Powell",
+        "aliases": [
+          "Janey"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Janey Powell attends Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ruth-powers",
+        "canonical": "Ruth Powers",
+        "aliases": [
+          "Ruth"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ruth Powers is a next-door neighbor of the Simpsons.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "gareth-prince",
+        "canonical": "Gareth Prince",
+        "aliases": [
+          "Mr. Prince",
+          "Martin's father"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gareth Prince is Martin's father.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "gloria-prince",
+        "canonical": "Gloria Prince",
+        "aliases": [
+          "Mrs. Prince",
+          "Martin's mother"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gloria Prince is Martin's mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "martin-prince",
+        "canonical": "Martin Prince",
+        "aliases": [
+          "Martin"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Martin Prince attends Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "loren-pryor",
+        "canonical": "Loren Pryor",
+        "aliases": [
+          "Dr. Pryor",
+          "Doctor Pryor"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Loren Pryor is Springfield Elementary's school psychologist.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "arnie-pye",
+        "canonical": "Arnie Pye",
+        "aliases": [
+          "Arnie",
+          "Arnie Pie"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arnie Pye reports from a helicopter for Channel 6.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "martha-quimby",
+        "canonical": "Martha Quimby",
+        "aliases": [
+          "Mrs. Quimby",
+          "Martha"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Martha Quimby is Mayor Joe Quimby's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mayor-diamond-joe-quimby",
+        "canonical": "Mayor \"Diamond\" Joe Quimby",
+        "aliases": [
+          "Mayor Quimby",
+          "Joe Quimby",
+          "Mayor Joe Quimby",
+          "Quimby",
+          "Diamond Joe Quimby"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joe Quimby is Springfield's mayor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "radioactive-man",
+        "canonical": "Radioactive Man",
+        "aliases": [],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Radioactive Man is a comic-book superhero within the show.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "the-rich-texan",
+        "canonical": "The Rich Texan",
+        "aliases": [
+          "Rich Texan"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Rich Texan is listed as a philanthropist.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "richard",
+        "canonical": "Richard",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard is a Springfield Elementary student.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "luigi-risotto",
+        "canonical": "Luigi Risotto",
+        "aliases": [
+          "Luigi"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luigi owns an Italian restaurant.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mrs-risotto",
+        "canonical": "Mrs. Risotto",
+        "aliases": [
+          "Mrs Risotto",
+          "Luigi's mother"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrs. Risotto is Luigi's mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dr-nick-riviera",
+        "canonical": "Dr. Nick Riviera",
+        "aliases": [
+          "Dr. Nick",
+          "Dr Nick",
+          "Doctor Nick",
+          "Nick Riviera"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Nick Riviera is an incompetent medical doctor.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "santa-s-little-helper",
+        "canonical": "Santa's Little Helper",
+        "aliases": [
+          "Santas Little Helper"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Santa's Little Helper is the Simpson family's dog.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "sherri",
+        "canonical": "Sherri",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sherri is one of the identical twins attending Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "terri",
+        "canonical": "Terri",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Terri is one of the identical twins attending Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dave-shutton",
+        "canonical": "Dave Shutton",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Shutton reports for The Springfield Shopper.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "robert-terwilliger-sideshow-bob",
+        "canonical": "Robert Terwilliger/Sideshow Bob",
+        "aliases": [
+          "Sideshow Bob",
+          "Robert Terwilliger",
+          "Bob Terwilliger",
+          "Side Show Bob"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sideshow Bob is a criminal mastermind and Krusty's former sidekick.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "sideshow-mel",
+        "canonical": "Sideshow Mel",
+        "aliases": [
+          "Side Show Mel"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sideshow Mel is Krusty's television sidekick.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "grampa-simpson",
+        "canonical": "Grampa Simpson",
+        "aliases": [
+          "Grandpa Simpson",
+          "Abraham Simpson",
+          "Abe Simpson",
+          "Grampa",
+          "Grandpa"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grampa is Homer's father and the children's grandfather.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mona-simpson",
+        "canonical": "Mona Simpson",
+        "aliases": [
+          "Mona"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mona is Homer's estranged mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "agnes-skinner",
+        "canonical": "Agnes Skinner",
+        "aliases": [
+          "Agnes",
+          "Mrs. Skinner"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Agnes is Seymour Skinner's mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "seymour-skinner",
+        "canonical": "Seymour Skinner",
+        "aliases": [
+          "Principal Skinner",
+          "Skinner",
+          "Principal Seymour Skinner",
+          "Seymour"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seymour Skinner is principal of Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "waylon-smithers",
+        "canonical": "Waylon Smithers",
+        "aliases": [
+          "Smithers",
+          "Waylon"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smithers is Mr. Burns's personal assistant.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "snowball-ii",
+        "canonical": "Snowball II",
+        "aliases": [
+          "Snowball 2",
+          "Snowball Two"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Snowball II is listed among the Simpson family's pet cats.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "roy-snyder",
+        "canonical": "Roy Snyder",
+        "aliases": [
+          "Judge Snyder",
+          "Judge Roy Snyder"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roy Snyder is a Springfield judge.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jebediah-springfield",
+        "canonical": "Jebediah Springfield",
+        "aliases": [
+          "Jebediah"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jebediah Springfield is the town's founder and a local hero.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "cletus-spuckler",
+        "canonical": "Cletus Spuckler",
+        "aliases": [
+          "Cletus",
+          "Slack-Jawed Yokel",
+          "Slack Jawed Yokel"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cletus Spuckler is listed as the Slack-Jawed Yokel.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "birthday-spuckler",
+        "canonical": "Birthday Spuckler",
+        "aliases": [
+          "Birthday"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Birthday is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "brandine-spuckler",
+        "canonical": "Brandine Spuckler",
+        "aliases": [
+          "Brandine"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brandine is listed as Cletus's wife and sister.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "crystal-meth-spuckler",
+        "canonical": "Crystal Meth Spuckler",
+        "aliases": [
+          "Crystal Meth"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crystal Meth is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "dubya-spuckler",
+        "canonical": "Dubya Spuckler",
+        "aliases": [
+          "Dubya"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dubya is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "incest-spuckler",
+        "canonical": "Incest Spuckler",
+        "aliases": [
+          "Incest"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Incest is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jitney-spuckler",
+        "canonical": "Jitney Spuckler",
+        "aliases": [
+          "Jitney"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jitney is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "whitney-spuckler",
+        "canonical": "Whitney Spuckler",
+        "aliases": [
+          "Whitney"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Whitney is one of Cletus and Brandine's children.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "squeaky-voiced-teen",
+        "canonical": "Squeaky-Voiced Teen",
+        "aliases": [
+          "Squeaky Voiced Teen",
+          "Squeaky Voice Teen"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Squeaky-Voiced Teen is a listed service-industry character.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "moe-szyslak",
+        "canonical": "Moe Szyslak",
+        "aliases": [
+          "Moe"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moe owns Moe's Tavern.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "drederick-tatum",
+        "canonical": "Drederick Tatum",
+        "aliases": [
+          "Tatum"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drederick Tatum is a professional boxer.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "allison-taylor",
+        "canonical": "Allison Taylor",
+        "aliases": [
+          "Allison"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allison Taylor is a Springfield Elementary student.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mr-teeny",
+        "canonical": "Mr. Teeny",
+        "aliases": [
+          "Mr Teeny",
+          "Teeny"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Teeny is the trained monkey on Krusty's show.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "johnny-tightlips",
+        "canonical": "Johnny Tightlips",
+        "aliases": [
+          "Johnny Tight Lips"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnny Tightlips is one of Fat Tony's henchmen.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kirk-van-houten",
+        "canonical": "Kirk Van Houten",
+        "aliases": [
+          "Kirk"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kirk is Milhouse's father.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "luann-van-houten",
+        "canonical": "Luann Van Houten",
+        "aliases": [
+          "Luann"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luann is Milhouse's mother and Kirk's wife.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "milhouse-van-houten",
+        "canonical": "Milhouse Van Houten",
+        "aliases": [
+          "Milhouse",
+          "Millhouse"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Milhouse is Bart's best friend.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "police-chief-clancy-wiggum",
+        "canonical": "Police Chief Clancy Wiggum",
+        "aliases": [
+          "Chief Wiggum",
+          "Clancy Wiggum",
+          "Chief Clancy Wiggum",
+          "Wiggum"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clancy Wiggum is Springfield's chief of police.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ralph-wiggum",
+        "canonical": "Ralph Wiggum",
+        "aliases": [
+          "Ralph"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph is Chief Wiggum's son.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "sarah-wiggum",
+        "canonical": "Sarah Wiggum",
+        "aliases": [
+          "Sarah",
+          "Mrs. Wiggum"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sarah is Chief Wiggum's wife and Ralph's mother.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "groundskeeper-willie",
+        "canonical": "Groundskeeper Willie",
+        "aliases": [
+          "Willie",
+          "Groundskeeper Willy"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Willie is a janitor at Springfield Elementary.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "raphael",
+        "canonical": "Raphael",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raphael is listed as a service-industry character.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "rainier-wolfcastle-mcbain",
+        "canonical": "Rainier Wolfcastle (McBain)",
+        "aliases": [
+          "Rainier Wolfcastle",
+          "Wolfcastle",
+          "McBain"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rainier Wolfcastle is an actor who stars in McBain films.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "hubert-wong",
+        "canonical": "Hubert Wong",
+        "aliases": [
+          "Hubert"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hubert is Lisa's classmate and intellectual rival.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "the-yes-guy",
+        "canonical": "The Yes Guy",
+        "aliases": [
+          "Yes Guy"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Yes Guy is a listed service-industry character.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "artie-ziff",
+        "canonical": "Artie Ziff",
+        "aliases": [
+          "Artie",
+          "Ziff"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Artie Ziff is a former billionaire and Marge's prom date.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ter-z-rker",
+        "canonical": "Üter Zörker",
+        "aliases": [
+          "Uter Zorker",
+          "Üter",
+          "Uter"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Üter is a Springfield Elementary student.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "kearney-zzyzwicz",
+        "canonical": "Kearney Zzyzwicz",
+        "aliases": [
+          "Kearney"
+        ],
+        "familiarity": 0.0073,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kearney is a Springfield Elementary School bully.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "wise-guy",
+        "canonical": "Wise Guy",
+        "aliases": [
+          "The Wise Guy"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wise Guy has a character row in the recurring-characters appearances table.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "akira-kurosawa",
+        "canonical": "Akira Kurosawa",
+        "aliases": [
+          "Akira"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Akira Kurosawa is listed among the show's recurring characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "miss-springfield",
+        "canonical": "Miss Springfield",
+        "aliases": [
+          "Ms. Springfield"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miss Springfield has an entry in the recurring-characters appearances table.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "baby-gerald",
+        "canonical": "Baby Gerald",
+        "aliases": [
+          "Gerald"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baby Gerald is listed among the recurring characters.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "mrs-vanderbilt",
+        "canonical": "Mrs. Vanderbilt",
+        "aliases": [
+          "Mrs Vanderbilt"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mrs. Vanderbilt is listed in the recurring-characters appearances table.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "snowball-v",
+        "canonical": "Snowball V",
+        "aliases": [
+          "Snowball 5",
+          "Snowball Five"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Snowball V has an entry in the animals section of the appearances table.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "ling",
+        "canonical": "Ling",
+        "aliases": [],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ling is identified as Selma's adopted daughter.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "jessica",
+        "canonical": "Jessica",
+        "aliases": [
+          "Jessica Lovejoy"
+        ],
+        "familiarity": 0.0022,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jessica is identified as Helen and Reverend Lovejoy's daughter.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      },
+      {
+        "id": "grady",
+        "canonical": "Grady",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grady is named as Julio's best friend in Julio's character description.",
+        "sourceIds": [
+          "list-of-the-simpsons-characters"
+        ]
+      }
+    ],
+    "explanation": "Beyond the Simpson family, Springfield is populated by neighbors, schoolchildren, teachers, celebrities, criminals, pets, and many other recurring characters.",
+    "sources": [
+      {
+        "id": "list-of-the-simpsons-characters",
+        "title": "List of The Simpsons characters",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Any named character appearing in The Simpsons, including animals and fictional characters within the show; not voice actors or other real people merely mentioned in credits."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "d4682adb029b185c",
+    "brief": "Name a character from The Simpsons.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-the-simpsons-characters",
+        "version": "1381362131",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Homer Simpson": "Homer Simpson | Dan Castellaneta | Husband of Marge; father of Bart, Lisa, and Maggie.",
+      "Marge Simpson": "Marge Simpson | Julie Kavner | Wife of Homer; mother of Bart, Lisa, and Maggie.",
+      "Bart Simpson": "Bart Simpson | Nancy Cartwright | Oldest child and only son of Homer and Marge; brother of Lisa and Maggie.",
+      "Lisa Simpson": "Lisa Simpson | Yeardley Smith | Middle child and elder daughter of Homer and Marge; sister of Bart and Maggie.",
+      "Maggie Simpson": "Maggie Simpson | Liz Georges, Gábor Csupó, Harry Shearer, Yeardley Smith, Nancy Cartwright, Elizabeth Taylor, James Earl Jones, Jodie Foster, Kevin Michael Richardson, Amy Sedaris, Lindsay Lohan | Youngest child and younger daughter of Homer and Marge; sister of Bart and Lisa.",
+      "Kumiko Albertson": "Kumiko Albertson | Tress MacNeille (2014–2020), Jenny Yokobori (2021–present) | Japanese artist and the wife of Comic Book Guy.",
+      "Ms. Albright": "Ms. Albright | Tress MacNeille, Maggie Roswell | Sunday school teacher.",
+      "Jasper Beardly": "Jasper Beardly | Harry Shearer, Dan Castellaneta | Grampa's closest neighbor at the Retirement Castle.",
+      "Benjamin": "Benjamin, Doug, and Gary | Dan Castellaneta, Hank Azaria, and Harry Shearer | Springfield University students.",
+      "Doug": "Benjamin, Doug, and Gary | Dan Castellaneta, Hank Azaria, and Harry Shearer | Springfield University students.",
+      "Gary": "Benjamin, Doug, and Gary | Dan Castellaneta, Hank Azaria, and Harry Shearer | Springfield University students.",
+      "Bill": "Bill and Marty | Dan Castellaneta and Harry Shearer | KBBL Radio co-hosts.",
+      "Marty": "Bill and Marty | Dan Castellaneta and Harry Shearer | KBBL Radio co-hosts.",
+      "Blinky": "Blinky | Unvoiced | Three-eyed fish.",
+      "Blue-Haired Lawyer": "Blue-Haired Lawyer | Dan Castellaneta | Attorney.",
+      "Booberella": "Booberella | Tress MacNeille | Host of late night TV monster movies.",
+      "Wendell Borton": "Wendell Borton | Russi Taylor, Tress MacNeille, Pamela Hayden, Grey DeLisle-Griffin | Student at Springfield Elementary School.",
+      "Clancy Bouvier": "Clancy Bouvier | Harry Shearer | The chain-smoking husband of Jacqueline; father of Marge, Patty, and Selma, and grandfather of Ling.",
+      "Jacqueline Bouvier": "Jacqueline Bouvier | Julie Kavner | Mother of Selma and Patty and Marge, Grandmother of Bart, Lisa, Maggie and Ling.",
+      "Patty Bouvier": "Patty Bouvier | Julie Kavner | Twin sister of Selma and older sister of Marge.",
+      "Selma Bouvier": "Selma Bouvier | Julie Kavner | Twin sister of Patty and older sister of Marge. Adoptive mother of Ling.",
+      "Kent Brockman": "Kent Brockman | Harry Shearer | Channel 6 News anchor.",
+      "Bumblebee Man": "Bumblebee Man | Hank Azaria (1992–2020), Eric Lopez (2020–present) | Star of slapstick sketch comedy show on Canal Ocho.",
+      "Chazz Busby": "Chazz Busby | Hank Azaria | Owner of Chazz Busby Ballet Academy.",
+      "Charles Montgomery Burns": "Charles Montgomery Burns | Christopher Collins (early season 1), Harry Shearer | Owner of the Springfield Nuclear Power Plant.",
+      "Capital City Goofball": "Capital City Goofball | Tom Poston | Mascot of the Capital City Capitals baseball team.",
+      "Carl Carlson": "Carl Carlson | Hank Azaria (1990–2020) Alex Désert (2020–present) | Springfield Nuclear Power Plant employee; one of Homer Simpson's friends.",
+      "Crazy Cat Lady": "Crazy Cat Lady | Tress MacNeille | Mentally ill owner of many cats. Name revealed as Eleanor Abernathy in \"See Homer Run\".",
+      "Gary Chalmers": "Gary Chalmers | Hank Azaria | Public schools superintendent.",
+      "Shauna Chalmers": "Shauna Chalmers | Tress MacNeille | Daughter of Superintendent Chalmers.",
+      "Charlie": "Charlie | Dan Castellaneta | Springfield Nuclear Power Plant employee.",
+      "Chase (Pyro)": "Chase (Pyro) | Hank Azaria | Luann Van Houten's ex-boyfriend; American Gladiator.",
+      "Scott Christian": "Scott Christian | Dan Castellaneta | News co-anchor.",
+      "Lewis Clark": "Lewis Clark | Russi Taylor, Nancy Cartwright, Tress MacNeille, Kevin Michael Richardson, Kimberly Brooks | Student at Springfield Elementary School.",
+      "Comic Book Guy": "Comic Book Guy | Hank Azaria | Proprietor of The Android's Dungeon comic book store. Name revealed to be Jeff Albertson in \"Homer and Ned's Hail Mary Pass\".",
+      "Mr. Costington": "Mr. Costington | Hank Azaria | President of Costington's Department Store.",
+      "Database": "Database | Nancy Cartwright, Pamela Hayden | Student at Springfield Elementary School. First name is revealed to be Kyle in \"Yellow Subterfuge\"",
+      "Declan Desmond": "Declan Desmond | Eric Idle | Documentary filmmaker.",
+      "Disco Stu": "Disco Stu | Hank Azaria | Disco aficionado.",
+      "Dolph": "Dolph | Tress MacNeille | Springfield Elementary School bully.",
+      "Lunchlady Dora": "Lunchlady Dora | Doris Grau (1991–1997) Tress MacNeille (2006–present) | Springfield Elementary School lunch lady.",
+      "Duffman": "Duffman | Hank Azaria | Spokes-mascot for Duff Beer. His real name is Barry Duffman.",
+      "Eddie": "Eddie and Lou | Harry Shearer (1990–present) and Hank Azaria (1990–2020) Alex Désert (2020–present) | Springfield police officers.",
+      "Lou": "Eddie and Lou | Harry Shearer (1990–present) and Hank Azaria (1990–2020) Alex Désert (2020–present) | Springfield police officers.",
+      "Fat Tony": "Fat Tony | Joe Mantegna | Mob Underboss.",
+      "Maude Flanders": "Maude Flanders † | Maggie Roswell | Ned Flanders's wife (dies in Season 11).",
+      "Ned Flanders": "Ned Flanders | Harry Shearer | The Simpson family's next door neighbor;",
+      "Rod Flanders": "Rod Flanders | Pamela Hayden (1990–2024) Chris Edgerly (2024–present) | Ned and Maude Flanders's older son.",
+      "Todd Flanders": "Todd Flanders | Nancy Cartwright | Ned and Maude Flanders's younger son.",
+      "Julio Franco": "Julio Franco | Hank Azaria (2003–2019) Tony Rodriguez (2021–present) | Homer’s great Julio and Grady are best friends. | \"Three Gays of the Condo\"",
+      "Frankie the Squealer": "Frankie the Squealer | Dan Castellaneta | Informant for Fat Tony.",
+      "Professor Jonathan Frink": "Professor Jonathan Frink | Hank Azaria | Scientist, inventor.",
+      "Alice Glick": "Alice Glick | Cloris Leachman, Tress MacNeille | Elderly.",
+      "God": "God | Harry Shearer | Supreme and creative preserves. | \"Bart Gets Hit by a Car\"",
+      "Barney Gumble": "Barney Gumble | Dan Castellaneta | Homer's drunken old pal.",
+      "Gil Gunderson": "Gil Gunderson | Dan Castellaneta | Unsuccessful salesman.",
+      "The Happy Little Elves": "The Happy Little Elves | Dan Castellaneta, Hank Azaria, and Harry Shearer | Children's cartoon series characters.",
+      "Judge Constance Harm": "Judge Constance Harm | Jane Kaczmarek | Springfield judge.",
+      "Herman Hermann": "Herman Hermann | Harry Shearer | Owner of Herman's Military Antiques shop.",
+      "Bernice Hibbert": "Bernice Hibbert | Tress MacNeille (1999–2019) Dawnn Lewis (2021–present) | Dr. Hibbert's wife.",
+      "Dr. Julius Hibbert": "Dr. Julius Hibbert | Harry Shearer (1990–2021); Kevin Michael Richardson (2021–present) | Medical doctor.",
+      "Elizabeth Hoover": "Elizabeth Hoover | Maggie Roswell | Lisa Simpson's teacher at Springfield Elementary School.",
+      "Lionel Hutz": "Lionel Hutz | Phil Hartman † | Attorney.",
+      "Itchy": "Itchy & Scratchy | Dan Castellaneta and Harry Shearer | Cartoon cat and mouse.",
+      "Scratchy": "Itchy & Scratchy | Dan Castellaneta and Harry Shearer | Cartoon cat and mouse.",
+      "Snake Jailbird": "Snake Jailbird | Hank Azaria | Recidivist.",
+      "Jimbo Jones": "Jimbo Jones | Pamela Hayden (1990–2025), Mo Collins (2025–present) | Springfield Elementary School bully.",
+      "Kang": "Kang and Kodos | Harry Shearer and Dan Castellaneta | Extraterrestrials.",
+      "Kodos": "Kang and Kodos | Harry Shearer and Dan Castellaneta | Extraterrestrials.",
+      "Princess Kashmir": "Princess Kashmir | Maggie Roswell | Belly dancer.",
+      "Edna Krabappel": "Edna Krabappel † | Marcia Wallace † | Bart Simpson's teacher at Springfield Elementary School (until season 25), and Ned Flanders wife",
+      "Coach Krupt": "Coach Krupt | Hank Azaria | Sadistic gym teacher at Springfield Elementary School.",
+      "Rabbi Hyman Krustofsky": "Rabbi Hyman Krustofsky † | Jackie Mason and Dan Castellaneta | Rabbi; father of Krusty the Clown.",
+      "Krusty the Clown": "Krusty the Clown | Dan Castellaneta | TV show clown host, original name Herschel Shmoikel Pinchas Yerucham Krustofski.",
+      "Cookie Kwan": "Cookie Kwan | Tress MacNeille | Real estate agent.",
+      "Dewey Largo": "Dewey Largo | Harry Shearer | Springfield Elementary School's music teacher.",
+      "Legs": "Legs and Louie | Harry Shearer and Dan Castellaneta | Fat Tony's henchmen.",
+      "Louie": "Legs and Louie | Harry Shearer and Dan Castellaneta | Fat Tony's henchmen.",
+      "Leopold": "Leopold | Dan Castellaneta | Superintendent Chalmers' assistant.",
+      "Lenny Leonard": "Lenny Leonard | Harry Shearer | Springfield Nuclear Power Plant employee; one of Homer Simpson's friends.",
+      "Leprechaun": "Leprechaun | Dan Castellaneta | Male faerie from Ireland as well as Saint Patrick’s Day.",
+      "Helen Lovejoy": "Helen Lovejoy | Maggie Roswell, Marcia Mitzman Gaven | Reverend Lovejoy's wife.",
+      "Reverend Timothy Lovejoy": "Reverend Timothy Lovejoy | Harry Shearer | Minister of the First Church of Springfield.",
+      "Lurleen Lumpkin": "Lurleen Lumpkin | Beverly D'Angelo, Doris Grau | Country music singer-songwriter.",
+      "Otto Mann": "Otto Mann | Harry Shearer | Springfield Elementary School bus driver.",
+      "Captain Horatio McCallister": "Captain Horatio McCallister | Hank Azaria | Sea captain.",
+      "Roger Meyers, Jr.": "Roger Meyers, Jr. | Alex Rocco, Dan Castellaneta | Chairman of Itchy & Scratchy International.",
+      "Troy McClure": "Troy McClure | Phil Hartman † | Actor.",
+      "Hans Moleman": "Hans Moleman | Dan Castellaneta | Unfortunate man.",
+      "Dr. Marvin Monroe": "Dr. Marvin Monroe | Harry Shearer | Psychotherapist.",
+      "Eddie Muntz": "Eddie Muntz | Phil Hartman, Harry Shearer, Hank Azaria, Earl Mann | Nelson's father.",
+      "Mrs. Muntz": "Mrs. Muntz | Tress MacNeille | Nelson Muntz's mother.",
+      "Nelson Muntz": "Nelson Muntz | Nancy Cartwright | Springfield Elementary School bully.",
+      "Captain Lance Murdock": "Captain Lance Murdock | Dan Castellaneta | Daredevil.",
+      "Bleeding Gums Murphy": "Bleeding Gums Murphy † | Ron Taylor, Harry Shearer, Kevin Michael Richardson | Blues musician.",
+      "Lindsey Naegle": "Lindsey Naegle | Tress MacNeille | Corporate executive.",
+      "Apu Nahasapeemapetilon": "Apu Nahasapeemapetilon | Hank Azaria (1990–2017), Sunil Malhotra(2026–present) | Operator of the Kwik-E-Mart.",
+      "Manjula Nahasapeemapetilon": "Manjula Nahasapeemapetilon | Jan Hooks (1997–2002), Tress MacNeille(2002–present), Janina Gavankar(2026–present) | Apu Nahasapeemapetilon's wife.",
+      "Sanjay Nahasapeemapetilon": "Sanjay Nahasapeemapetilon | Harry Shearer | Apu Nahasapeemapetilon's younger brother.",
+      "Jake": "Jake | Dan Castellaneta, Harry Shearer | Barber.",
+      "Old Jewish Man": "Old Jewish Man | Hank Azaria | Springfield Retirement Castle resident.",
+      "Rayshelle Peyton": "Rayshelle Peyton | Kerry Washington | Bart Simpson's teacher at Springfield Elementary School.",
+      "Herbert Powell": "Herbert Powell | Danny DeVito | Homer Simpson's half-brother.",
+      "Janey Powell": "Janey Powell | Pamela Hayden, Kimberly Brooks | Student at Springfield Elementary School.",
+      "Ruth Powers": "Ruth Powers | Pamela Reed, Maggie Roswell | The Simpsons' next door neighbor.",
+      "Gareth Prince": "Gareth Prince | Dan Castellaneta, Chris Edgerly, Hank Azaria | Martin’s father.",
+      "Gloria Prince": "Gloria Prince | Russi Taylor and Pamela Hayden | Martin Prince’s mother.",
+      "Martin Prince": "Martin Prince | Russi Taylor (1990–2019) Grey DeLisle (2019–present) | Student at Springfield Elementary School.",
+      "Loren Pryor": "Loren Pryor | Harry Shearer | Springfield Elementary's school psychologist.",
+      "Arnie Pye": "Arnie Pye | Dan Castellaneta | Channel 6 helicopter reporter.",
+      "Martha Quimby": "Martha Quimby | Maggie Roswell | Long wife of the Mayor of Springfield Joe Quimby.",
+      "Mayor \"Diamond\" Joe Quimby": "Mayor \"Diamond\" Joe Quimby | Dan Castellaneta | Mayor of Springfield.",
+      "Radioactive Man": "Radioactive Man | Harry Shearer | Comic book superhero.",
+      "The Rich Texan": "The Rich Texan | Dan Castellaneta | Philanthropist.",
+      "Richard": "Richard | Pamela Hayden, Nancy Cartwright, Maggie Roswell | Student at Springfield Elementary School.",
+      "Luigi Risotto": "Luigi Risotto | Hank Azaria | Italian restaurant proprietor.",
+      "Mrs. Risotto": "Mrs. Risotto | Tress MacNeille | Luigi's mother.",
+      "Dr. Nick Riviera": "Dr. Nick Riviera | Hank Azaria | Incompetent medical doctor.",
+      "Santa's Little Helper": "Santa's Little Helper | Dan Castellaneta, Frank Welker | The Simpson family's pet dog.",
+      "Sherri": "Sherri and Terri | Russi Taylor (1990–2019) Grey DeLisle (2019–present) | Identical twins; Students at Springfield Elementary School.",
+      "Terri": "Sherri and Terri | Russi Taylor (1990–2019) Grey DeLisle (2019–present) | Identical twins; Students at Springfield Elementary School.",
+      "Dave Shutton": "Dave Shutton | Harry Shearer | Reporter for The Springfield Shopper.",
+      "Robert Terwilliger/Sideshow Bob": "Robert Terwilliger/Sideshow Bob | Kelsey Grammer | Criminal mastermind and Krusty the Clown Show ex-operator and sidekick.",
+      "Sideshow Mel": "Sideshow Mel | Dan Castellaneta | The Krusty the Clown Show sidekick.",
+      "Grampa Simpson": "Grampa Simpson | Dan Castellaneta | Homer Simpson's father; Bart, Lisa, and Maggie Simpson's grandfather.",
+      "Mona Simpson": "Mona Simpson | Glenn Close, Tress MacNeille, Maggie Roswell | Estranged mother of Homer Simpson and wife of Abe Simpson.",
+      "Agnes Skinner": "Agnes Skinner | Tress MacNeille | Seymour Skinner's mother.",
+      "Seymour Skinner": "Seymour Skinner | Harry Shearer | Principal of Springfield Elementary School.",
+      "Waylon Smithers": "Waylon Smithers | Harry Shearer | Mr. Burns's personal assistant.",
+      "Snowball II": "Snowball II | Frank Welker, Dan Castellaneta | The Simpson family's pet cats. Lisa adores them.",
+      "Roy Snyder": "Roy Snyder | Harry Shearer (1991–2020); Kevin Michael Richardson (2024–present) | Springfield judge.",
+      "Jebediah Springfield": "Jebediah Springfield | Harry Shearer | Founder of Springfield; local hero.",
+      "Cletus Spuckler": "Cletus Spuckler | Hank Azaria | Slack-Jawed Yokel.",
+      "Birthday Spuckler": "Birthday Spuckler | Pamela Hayden | Cletus and Brandine Spuckler’s children.",
+      "Brandine Spuckler": "Brandine Spuckler | Tress MacNeille | Cletus Spuckler's wife and sister.",
+      "Crystal Meth Spuckler": "Crystal Meth Spuckler | Nancy Cartwright | Cletus Spuckler and Brandine Spuckler’s children.",
+      "Dubya Spuckler": "Dubya Spuckler | Tress MacNeille | Cletus and Brandine’s children.",
+      "Incest Spuckler": "Incest Spuckler | Dan Castellaneta | Cletus and Brandine’s children.",
+      "Jitney Spuckler": "Jitney Spuckler | Pamela Hayden | Cletus and Brandine Spuckler’s children.",
+      "Whitney Spuckler": "Whitney Spuckler | Tress MacNeille | Cletus Spuckler and Brandine Spuckler’s children.",
+      "Squeaky-Voiced Teen": "Squeaky-Voiced Teen | Dan Castellaneta | Service industry.",
+      "Moe Szyslak": "Moe Szyslak | Hank Azaria | Owner of Moe's Tavern.",
+      "Drederick Tatum": "Drederick Tatum | Hank Azaria and Jay Pharoah | Professional boxer, a caricature of Mike Tyson.",
+      "Allison Taylor": "Allison Taylor | Winona Ryder, Pamela Hayden, Tress MacNeille | Student at Springfield Elementary School.",
+      "Mr. Teeny": "Mr. Teeny | Dan Castellaneta | The Krusty the Clown Show trained monkey.",
+      "Johnny Tightlips": "Johnny Tightlips | Hank Azaria | One of Fat Tony's henchmen.",
+      "Kirk Van Houten": "Kirk Van Houten | Hank Azaria | Milhouse Van Houten's father; factory worker.",
+      "Luann Van Houten": "Luann Van Houten | Maggie Roswell | Kirk Van Houten's wife; Milhouse's mother.",
+      "Milhouse Van Houten": "Milhouse Van Houten | Pamela Hayden (1989–2025), Kelly MacLeod (2025–present) | Bart Simpson's best friend; Student at Springfield Elementary School.",
+      "Police Chief Clancy Wiggum": "Police Chief Clancy Wiggum | Hank Azaria | Springfield Chief of Police.",
+      "Ralph Wiggum": "Ralph Wiggum | Nancy Cartwright | Son of Police Chief Clancy Wiggum.",
+      "Sarah Wiggum": "Sarah Wiggum | Pamela Hayden and Megan Mullally | Chief Wiggum's wife; Ralph Wiggum's mother.",
+      "Groundskeeper Willie": "Groundskeeper Willie | Dan Castellaneta | Janitor of Springfield Elementary School.",
+      "Raphael": "Raphael | Hank Azaria | Service industry.",
+      "Rainier Wolfcastle (McBain)": "Rainier Wolfcastle (McBain) | Harry Shearer, Hank Azaria | Actor; star of McBain films.",
+      "Hubert Wong": "Hubert Wong | Tress MacNeille, Simu Liu (adult); Rosalie Chiang (child) | Lisa's classmate and intellectual rival.",
+      "The Yes Guy": "The Yes Guy | Dan Castellaneta | Service industry.",
+      "Artie Ziff": "Artie Ziff | Jon Lovitz, Dan Castellaneta | Former billionaire and Marge's prom date.",
+      "Üter Zörker": "Üter Zörker | Russi Taylor (1993–2016), Grey DeLisle (2025–present) | Student at Springfield Elementary School.",
+      "Kearney Zzyzwicz": "Kearney Zzyzwicz | Nancy Cartwright | Springfield Elementary School bully.",
+      "Wise Guy": "Wise Guy | Does not appear | R | G | R | G | R",
+      "Akira Kurosawa": "Akira Kurosawa | Does not appear | G | R | G",
+      "Miss Springfield": "Miss Springfield | Does not appear | | | G",
+      "Baby Gerald": "Baby Gerald | Does not appear | | | | G",
+      "Mrs. Vanderbilt": "Mrs. Vanderbilt | Does not appear | | | | | | | | G",
+      "Snowball V": "Snowball V | Does not appear | | | | | | | | | | | | | | R",
+      "Ling": "She is single, but she adopted a Chinese little girl named Ling.",
+      "Jessica": "Helen Lovejoy | Maggie Roswell, Marcia Mitzman Gaven | Reverend Lovejoy's wife. She is married to Reverend and have a daughter together, Jessica.",
+      "Grady": "Julio Franco | Hank Azaria (2003–2019) Tony Rodriguez (2021–present) | Homer’s great Julio and Grady are best friends."
+    },
+    "issues": []
+  }
+}

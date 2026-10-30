@@ -1,0 +1,1206 @@
+{
+  "question": {
+    "id": "tollywood-devi-sri-prasad-films",
+    "category": "tollywood",
+    "prompt": "Name a Telugu-language film whose music was composed by Devi Sri Prasad.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "devi",
+        "canonical": "Devi",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devi is listed as his 1999 Telugu soundtrack debut.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "navvuthu-bathakalira",
+        "canonical": "Navvuthu Bathakalira",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "anandam",
+        "canonical": "Anandam",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Anandam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "priya-nestama",
+        "canonical": "Priya Nestama",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He contributed one song to this Telugu film.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "kalusukovalani",
+        "canonical": "Kalusukovalani",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sontham",
+        "canonical": "Sontham",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Sontham as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "khadgam",
+        "canonical": "Khadgam",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Khadgam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "thotti-gang",
+        "canonical": "Thotti Gang",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "manmadhudu",
+        "canonical": "Manmadhudu",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Manmadhudu as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "varsham",
+        "canonical": "Varsham",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Varsham as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "venky",
+        "canonical": "Venky",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Venky as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "abhi",
+        "canonical": "Abhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Abhi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "arya",
+        "canonical": "Arya",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Arya as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "shankar-dada-m-b-b-s",
+        "canonical": "Shankar Dada M.B.B.S.",
+        "aliases": [
+          "Shankar Dada MBBS"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "mass",
+        "canonical": "Mass",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Mass as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "naa-alludu",
+        "canonical": "Naa Alludu",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "nuvvostanante-nenoddantana",
+        "canonical": "Nuvvostanante Nenoddantana",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "bunny",
+        "canonical": "Bunny",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Bunny as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "bhadra",
+        "canonical": "Bhadra",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Bhadra as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "andarivadu",
+        "canonical": "Andarivadu",
+        "aliases": [
+          "Andarivaadu"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "oka-oorilo",
+        "canonical": "Oka Oorilo",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "pournami",
+        "canonical": "Pournami",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Pournami as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "bommarillu",
+        "canonical": "Bommarillu",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Bommarillu as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "rakhi",
+        "canonical": "Rakhi",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Rakhi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "jagadam",
+        "canonical": "Jagadam",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Jagadam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "aata",
+        "canonical": "Aata",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Aata as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "shankar-dada-zindabad",
+        "canonical": "Shankar Dada Zindabad",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "tulasi",
+        "canonical": "Tulasi",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Tulasi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "jalsa",
+        "canonical": "Jalsa",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Jalsa as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "ready",
+        "canonical": "Ready",
+        "aliases": [
+          "Ready (2008)",
+          "Ready Telugu"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists the Telugu film Ready among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "king",
+        "canonical": "King",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists King as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "current",
+        "canonical": "Current",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Current as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "arya-2",
+        "canonical": "Arya 2",
+        "aliases": [
+          "Arya II"
+        ],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Arya 2 as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "adhurs",
+        "canonical": "Adhurs",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Adhurs as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "namo-venkatesa",
+        "canonical": "Namo Venkatesa",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sye-aata",
+        "canonical": "Sye Aata",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "mr-perfect",
+        "canonical": "Mr. Perfect",
+        "aliases": [
+          "Mr Perfect"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Mr. Perfect as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "100-love",
+        "canonical": "100% Love",
+        "aliases": [
+          "100 Percent Love"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists 100% Love as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "dhada",
+        "canonical": "Dhada",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Dhada as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "oosaravelli",
+        "canonical": "Oosaravelli",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Oosaravelli as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Gabbar Singh as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "julayi",
+        "canonical": "Julayi",
+        "aliases": [
+          "Julai"
+        ],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Julayi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "damarukam",
+        "canonical": "Damarukam",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Damarukam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sarocharu",
+        "canonical": "Sarocharu",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Sarocharu as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "mirchi",
+        "canonical": "Mirchi",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Mirchi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "iddarammayilatho",
+        "canonical": "Iddarammayilatho",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "bhai",
+        "canonical": "Bhai",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Bhai as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "1-nenokkadine",
+        "canonical": "1: Nenokkadine",
+        "aliases": [
+          "Nenokkadine",
+          "1 Nenokkadine"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Yevadu as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "legend",
+        "canonical": "Legend",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Legend as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "alludu-seenu",
+        "canonical": "Alludu Seenu",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "s-o-satyamurthy",
+        "canonical": "S/O Satyamurthy",
+        "aliases": [
+          "Son of Satyamurthy"
+        ],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "srimanthudu",
+        "canonical": "Srimanthudu",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Srimanthudu as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "shivam",
+        "canonical": "Shivam",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Shivam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "kumari-21f",
+        "canonical": "Kumari 21F",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Kumari 21F as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "nenu-sailaja",
+        "canonical": "Nenu Sailaja",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "nannaku-prematho",
+        "canonical": "Nannaku Prematho",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sardaar-gabbar-singh",
+        "canonical": "Sardaar Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "janatha-garage",
+        "canonical": "Janatha Garage",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "khaidi-no-150",
+        "canonical": "Khaidi No. 150",
+        "aliases": [
+          "Khaidi No 150",
+          "Khaidi 150"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "nenu-local",
+        "canonical": "Nenu Local",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "rarandoi-veduka-chudham",
+        "canonical": "Rarandoi Veduka Chudham",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "dj-duvvada-jagannadham",
+        "canonical": "DJ: Duvvada Jagannadham",
+        "aliases": [
+          "DJ",
+          "Duvvada Jagannadham"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "jaya-janaki-nayaka",
+        "canonical": "Jaya Janaki Nayaka",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "jai-lava-kusa",
+        "canonical": "Jai Lava Kusa",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "vunnadhi-okate-zindagi",
+        "canonical": "Vunnadhi Okate Zindagi",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "middle-class-abbayi",
+        "canonical": "Middle Class Abbayi",
+        "aliases": [
+          "MCA"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Rangasthalam as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "bharat-ane-nenu",
+        "canonical": "Bharat Ane Nenu",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "hello-guru-prema-kosame",
+        "canonical": "Hello Guru Prema Kosame",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "vinaya-vidheya-rama",
+        "canonical": "Vinaya Vidheya Rama",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "f2-fun-and-frustration",
+        "canonical": "F2: Fun and Frustration",
+        "aliases": [
+          "F2",
+          "Fun and Frustration"
+        ],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "chitralahari",
+        "canonical": "Chitralahari",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Chitralahari as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "maharshi",
+        "canonical": "Maharshi",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Maharshi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "alludu-adhurs",
+        "canonical": "Alludu Adhurs",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "uppena",
+        "canonical": "Uppena",
+        "aliases": [],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Uppena as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "rang-de",
+        "canonical": "Rang De",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Rang De as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1"
+        ],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "rowdy-boys",
+        "canonical": "Rowdy Boys",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "good-luck-sakhi",
+        "canonical": "Good Luck Sakhi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "khiladi",
+        "canonical": "Khiladi",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Khiladi as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "aadavallu-meeku-johaarlu",
+        "canonical": "Aadavallu Meeku Johaarlu",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "f3",
+        "canonical": "F3",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists F3 as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "the-warriorr",
+        "canonical": "The Warriorr",
+        "aliases": [
+          "The Warrior"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu–Tamil film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "ranga-ranga-vaibhavanga",
+        "canonical": "Ranga Ranga Vaibhavanga",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule"
+        ],
+        "familiarity": 0.0223,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "thandel",
+        "canonical": "Thandel",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Thandel as a Telugu original soundtrack.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "kuberaa",
+        "canonical": "Kuberaa",
+        "aliases": [],
+        "familiarity": 0.0089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu–Tamil film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "junior",
+        "canonical": "Junior",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu–Kannada film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "ustaad-bhagat-singh",
+        "canonical": "Ustaad Bhagat Singh",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      },
+      {
+        "id": "sing-geetham",
+        "canonical": "Sing Geetham",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists this Telugu film among his original soundtracks.",
+        "sourceIds": [
+          "devi-sri-prasad-discography"
+        ]
+      }
+    ],
+    "explanation": "Devi Sri Prasad's Telugu film soundtracks span from Devi to major hits such as Arya, Rangasthalam and Pushpa. Multilingual films that include Telugu and films with a single-song contribution also count.",
+    "sources": [
+      {
+        "id": "devi-sri-prasad-discography",
+        "title": "Devi Sri Prasad discography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Devi_Sri_Prasad_discography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A film listed in the supplied discography under original soundtracks with Telugu among its languages; composing even one song counts."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "397fbe18382523ee",
+    "brief": "Name a film whose music was composed by Devi Sri Prasad.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "devi-sri-prasad-discography",
+        "version": "1381111620",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Devi": "1999 | Devi | Telugu |",
+      "Navvuthu Bathakalira": "2001 | Navvuthu Bathakalira | Telugu |",
+      "Anandam": "2001 | Anandam | Telugu |",
+      "Priya Nestama": "2002 | Priya Nestama | Telugu | One song only.",
+      "Kalusukovalani": "2002 | Kalusukovalani | Telugu |",
+      "Sontham": "2002 | Sontham | Telugu |",
+      "Khadgam": "2002 | Khadgam | Telugu |",
+      "Thotti Gang": "2002 | Thotti Gang | Telugu |",
+      "Manmadhudu": "2002 | Manmadhudu | Telugu |",
+      "Varsham": "2004 | Varsham | Telugu |",
+      "Venky": "2004 | Venky | Telugu |",
+      "Abhi": "2004 | Abhi | Telugu |",
+      "Arya": "2004 | Arya | Telugu |",
+      "Shankar Dada M.B.B.S.": "2004 | Shankar Dada M.B.B.S. | Telugu |",
+      "Mass": "2004 | Mass | Telugu |",
+      "Naa Alludu": "2005 | Naa Alludu | Telugu |",
+      "Nuvvostanante Nenoddantana": "2005 | Nuvvostanante Nenoddantana | Telugu |",
+      "Bunny": "2005 | Bunny | Telugu |",
+      "Bhadra": "2005 | Bhadra | Telugu |",
+      "Andarivadu": "2005 | Andarivadu | Telugu |",
+      "Oka Oorilo": "2005 | Oka Oorilo | Telugu |",
+      "Pournami": "2006 | Pournami | Telugu |",
+      "Bommarillu": "2006 | Bommarillu | Telugu |",
+      "Rakhi": "2006 | Rakhi | Telugu |",
+      "Jagadam": "2007 | Jagadam | Telugu |",
+      "Aata": "2007 | Aata | Telugu |",
+      "Shankar Dada Zindabad": "2007 | Shankar Dada Zindabad | Telugu |",
+      "Tulasi": "2007 | Tulasi | Telugu |",
+      "Jalsa": "2008 | Jalsa | Telugu |",
+      "Ready": "2008 | Ready | Telugu |",
+      "King": "2008 | King | Telugu |",
+      "Current": "2009 | Current | Telugu |",
+      "Arya 2": "2009 | Arya 2 | Telugu |",
+      "Adhurs": "2010 | Adhurs | Telugu |",
+      "Namo Venkatesa": "2010 | Namo Venkatesa | Telugu |",
+      "Sye Aata": "2010 | Sye Aata | Telugu |",
+      "Mr. Perfect": "2011 | Mr. Perfect | Telugu |",
+      "100% Love": "2011 | 100% Love | Telugu |",
+      "Dhada": "2011 | Dhada | Telugu |",
+      "Oosaravelli": "2011 | Oosaravelli | Telugu |",
+      "Gabbar Singh": "2012 | Gabbar Singh | Telugu |",
+      "Julayi": "2012 | Julayi | Telugu |",
+      "Damarukam": "2012 | Damarukam | Telugu |",
+      "Sarocharu": "2012 | Sarocharu | Telugu |",
+      "Mirchi": "2013 | Mirchi | Telugu |",
+      "Iddarammayilatho": "2013 | Iddarammayilatho | Telugu |",
+      "Attarintiki Daredi": "2013 | Attarintiki Daredi | Telugu |",
+      "Bhai": "2013 | Bhai | Telugu |",
+      "1: Nenokkadine": "2014 | 1: Nenokkadine | Telugu |",
+      "Yevadu": "2014 | Yevadu | Telugu |",
+      "Legend": "2014 | Legend | Telugu |",
+      "Alludu Seenu": "2014 | Alludu Seenu | Telugu |",
+      "S/O Satyamurthy": "2015 | S/O Satyamurthy | Telugu |",
+      "Srimanthudu": "2015 | Srimanthudu | Telugu |",
+      "Shivam": "2015 | Shivam | Telugu |",
+      "Kumari 21F": "2015 | Kumari 21F | Telugu |",
+      "Nenu Sailaja": "2016 | Nenu Sailaja | Telugu |",
+      "Nannaku Prematho": "2016 | Nannaku Prematho | Telugu |",
+      "Sardaar Gabbar Singh": "2016 | Sardaar Gabbar Singh | Telugu |",
+      "Janatha Garage": "2016 | Janatha Garage | Telugu |",
+      "Khaidi No. 150": "2017 | Khaidi No. 150 | Telugu |",
+      "Nenu Local": "2017 | Nenu Local | Telugu |",
+      "Rarandoi Veduka Chudham": "2017 | Rarandoi Veduka Chudham | Telugu |",
+      "DJ: Duvvada Jagannadham": "2017 | DJ: Duvvada Jagannadham | Telugu |",
+      "Jaya Janaki Nayaka": "2017 | Jaya Janaki Nayaka | Telugu |",
+      "Jai Lava Kusa": "2017 | Jai Lava Kusa | Telugu |",
+      "Vunnadhi Okate Zindagi": "2017 | Vunnadhi Okate Zindagi | Telugu |",
+      "Middle Class Abbayi": "2017 | Middle Class Abbayi | Telugu |",
+      "Rangasthalam": "2018 | Rangasthalam | Telugu |",
+      "Bharat Ane Nenu": "2018 | Bharat Ane Nenu | Telugu |",
+      "Hello Guru Prema Kosame": "2018 | Hello Guru Prema Kosame | Telugu |",
+      "Vinaya Vidheya Rama": "2019 | Vinaya Vidheya Rama | Telugu |",
+      "F2: Fun and Frustration": "2019 | F2: Fun and Frustration | Telugu |",
+      "Chitralahari": "2019 | Chitralahari | Telugu |",
+      "Maharshi": "2019 | Maharshi | Telugu |",
+      "Sarileru Neekevvaru": "2020 | Sarileru Neekevvaru | Telugu |",
+      "Alludu Adhurs": "2021 | Alludu Adhurs | Telugu |",
+      "Uppena": "2021 | Uppena | Telugu |",
+      "Rang De": "2021 | Rang De | Telugu |",
+      "Pushpa: The Rise": "2021 | Pushpa: The Rise | Telugu |",
+      "Rowdy Boys": "2022 | Rowdy Boys | Telugu |",
+      "Good Luck Sakhi": "2022 | Good Luck Sakhi | Telugu |",
+      "Khiladi": "2022 | Khiladi | Telugu |",
+      "Aadavallu Meeku Johaarlu": "2022 | Aadavallu Meeku Johaarlu | Telugu |",
+      "F3": "2022 | F3 | Telugu |",
+      "The Warriorr": "2022 | The Warriorr | Telugu Tamil |",
+      "Ranga Ranga Vaibhavanga": "2022 | Ranga Ranga Vaibhavanga | Telugu |",
+      "Waltair Veerayya": "2023 | Waltair Veerayya | Telugu |",
+      "Pushpa 2: The Rule": "2024 | Pushpa 2: The Rule | Telugu |",
+      "Thandel": "2025 | Thandel | Telugu |",
+      "Kuberaa": "2025 | Kuberaa | Telugu Tamil |",
+      "Junior": "2025 | Junior | Telugu Kannada |",
+      "Ustaad Bhagat Singh": "2026 | Ustaad Bhagat Singh | Telugu |",
+      "Sing Geetham": "2026 | Sing Geetham | Telugu |"
+    },
+    "issues": []
+  }
+}

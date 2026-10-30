@@ -1,0 +1,320 @@
+{
+  "question": {
+    "id": "space-space-probes",
+    "category": "space",
+    "prompt": "Name a spacecraft listed in the “Solar probes” section of the List of Solar System probes.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "pioneer-5",
+        "canonical": "Pioneer 5",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer 5 is listed as a solar orbiter that measured magnetic fields and solar flare particles.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "pioneer-6-a",
+        "canonical": "Pioneer 6(A)",
+        "aliases": [
+          "Pioneer 6",
+          "Pioneer A"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer 6 is listed as one of a network of solar-orbiting space-weather monitors.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "pioneer-7-b",
+        "canonical": "Pioneer 7(B)",
+        "aliases": [
+          "Pioneer 7",
+          "Pioneer B"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer 7 is listed as a solar-orbiting monitor of solar wind, cosmic rays, and magnetic fields.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "pioneer-8-c",
+        "canonical": "Pioneer 8(C)",
+        "aliases": [
+          "Pioneer 8",
+          "Pioneer C"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer 8 is listed as a solar-orbiting space-weather monitor.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "pioneer-9-d",
+        "canonical": "Pioneer 9(D)",
+        "aliases": [
+          "Pioneer 9",
+          "Pioneer D"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer 9 is listed as a solar-orbiting monitor that operated from 1968 to 1983.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "pioneer-e",
+        "canonical": "Pioneer-E",
+        "aliases": [
+          "Pioneer E"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pioneer-E appears in the solar-probe list even though its launch failed to reach orbit.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "helios-a",
+        "canonical": "Helios A",
+        "aliases": [],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helios A is listed as a probe observing solar wind and other phenomena between Earth and the Sun.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "helios-b",
+        "canonical": "Helios B",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helios B is listed as a solar probe observing fields, particles, and dust between Earth and the Sun.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "isee-3",
+        "canonical": "ISEE-3",
+        "aliases": [
+          "ISEE3",
+          "ISEE 3",
+          "International Cometary Explorer",
+          "ICE"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ISEE-3 is listed as a solar-observation probe later renamed International Cometary Explorer.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "ulysses",
+        "canonical": "Ulysses",
+        "aliases": [],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ulysses is listed for multiple passes observing the Sun's polar regions.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "wind",
+        "canonical": "WIND",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "WIND is listed as a solar orbiter making solar-wind measurements.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "soho",
+        "canonical": "SOHO",
+        "aliases": [],
+        "familiarity": 0.1815,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SOHO is listed as investigating the Sun's core, corona, and solar wind.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "ace",
+        "canonical": "ACE",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ACE is listed as a solar probe conducting solar-wind observations.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "genesis",
+        "canonical": "Genesis",
+        "aliases": [],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Genesis is listed as a solar-wind sample-return probe.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "stereo-a",
+        "canonical": "STEREO A",
+        "aliases": [
+          "STEREO-A"
+        ],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "STEREO A is listed as a solar probe imaging coronal mass ejections and other solar phenomena.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "stereo-b",
+        "canonical": "STEREO B",
+        "aliases": [
+          "STEREO-B"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "STEREO B appears as a separate spacecraft in the solar-probe list.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "dscovr",
+        "canonical": "DSCOVR",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DSCOVR is listed as monitoring solar wind and coronal mass ejections.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "parker-solar-probe",
+        "canonical": "Parker Solar Probe",
+        "aliases": [
+          "Parker"
+        ],
+        "familiarity": 0.1815,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parker Solar Probe is listed as conducting close-range studies of the solar corona.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "solar-orbiter",
+        "canonical": "Solar Orbiter",
+        "aliases": [],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solar Orbiter is listed as an ESA probe studying solar and heliospheric physics.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "aditya-l1",
+        "canonical": "Aditya-L1",
+        "aliases": [
+          "Aditya L1",
+          "Aditya"
+        ],
+        "familiarity": 0.0726,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aditya-L1 is listed as an ISRO probe observing the solar corona.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      },
+      {
+        "id": "swfo-l1",
+        "canonical": "SWFO-L1",
+        "aliases": [
+          "SWFO L1"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SWFO-L1 is listed as monitoring space weather, solar wind, and coronal mass ejections.",
+        "sourceIds": [
+          "list-of-solar-system-probes"
+        ]
+      }
+    ],
+    "explanation": "These solar probes were designed to operate in heliocentric orbit or at an Earth–Sun Lagrange point. Earth-orbiting solar observatories are excluded from this section, and repeated passes by the same spacecraft count as one answer.",
+    "sources": [
+      {
+        "id": "list-of-solar-system-probes",
+        "title": "List of Solar System probes",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Solar_System_probes",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "e6b244ef4079ddde",
+    "brief": "Name a space probe.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-solar-system-probes",
+        "version": "1382377257",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Pioneer 5": "Pioneer 5 | | NASA/ DOD | March–April 1960 | orbiter | success | measured magnetic field phenomena, solar flare particles, and ionization in the interplanetary region",
+      "Pioneer 6(A)": "Pioneer 6(A) | | NASA | December 1965 – still contactable in 2000 | orbiter | success | network of solar-orbiting \"space weather\" monitors, observing solar wind, cosmic rays, and magnetic fields",
+      "Pioneer 7(B)": "Pioneer 7(B) | | NASA | August 1966 – still contactable in 1995 | orbiter | success | network of solar-orbiting \"space weather\" monitors, observing solar wind, cosmic rays, and magnetic fields",
+      "Pioneer 8(C)": "Pioneer 8(C) | | NASA | December 1967 – still contactable in 2001 | orbiter | success | network of solar-orbiting \"space weather\" monitors, observing solar wind, cosmic rays, and magnetic fields",
+      "Pioneer 9(D)": "Pioneer 9(D) | | NASA | November 1968 – May 1983 | orbiter | success | network of solar-orbiting \"space weather\" monitors, observing solar wind, cosmic rays, and magnetic fields",
+      "Pioneer-E": "Pioneer-E | | NASA | 27 August 1969 | orbiter | failure | intended as part of the Pioneer 6–9 network; failed to reach orbit",
+      "Helios A": "Helios A | | DFVLR/ NASA | November 1974 – 1982 | orbiter | success | observations of solar wind, magnetic and electric fields, cosmic rays and cosmic dust between Earth and Sun",
+      "Helios B": "Helios B | | DFVLR/ NASA | January 1976 – 1985? | orbiter | success | observations of solar wind, magnetic and electric fields, cosmic rays and cosmic dust between Earth and Sun",
+      "ISEE-3": "ISEE-3 | | NASA | 1978–1982 | orbiter | success | observed solar phenomena in conjunction with Earth-orbiting ISEE-1 and ISEE-2; later renamed International Cometary Explorer (ICE) and directed to Comet Giacobini-Zinner",
+      "Ulysses": "Ulysses (first pass) | | ESA/ NASA | 1994 | orbiter | success | south polar observations",
+      "WIND": "WIND | | NASA | November 1994 – still active as of October 2024 | orbiter | success | solar wind measurements",
+      "SOHO": "SOHO | | ESA/ NASA | May 1996 – extended to December 2025 | orbiter | success | investigation of Sun's core, corona, and solar wind; comet discoveries",
+      "ACE": "ACE | | NASA | August 1997 – projected until 2024 | orbiter | success | solar wind observations",
+      "Genesis": "Genesis | | NASA | 2001–2004 | orbiter/ sample return | success | solar wind sample return; crash landed on return to Earth, much data salvaged",
+      "STEREO A": "STEREO A | | NASA | December 2006 – still active as of October 2024 | orbiter | success | stereoscopic imaging of coronal mass ejections and other solar phenomena",
+      "STEREO B": "STEREO B | | NASA | December 2006 – October 2014. August 2016 – October 2018 (communication lost between 1 October 2014 and 21 August 2016)",
+      "DSCOVR": "DSCOVR | | NOAA | February 2015 – still active as of October 2024 | orbiter | success | solar wind and coronal mass ejection monitoring, as well as Earth climate monitoring",
+      "Parker Solar Probe": "Parker Solar Probe | | NASA | November 2018 – December 2025 | orbiter/flyby (approach 26 times) | success | close-range solar coronal study",
+      "Solar Orbiter": "Solar Orbiter | | ESA | 10 February 2020 (launch) | orbiter | en route | solar and heliospheric physics",
+      "Aditya-L1": "Aditya-L1 | | ISRO | 2 September 2023 (launch) | orbiter | success | Solar corona observation",
+      "SWFO-L1": "SWFO-L1 | | NOAA | 24 September 2025 (launch) | orbiter | success | Space weather, solar wind and coronal mass ejection monitoring"
+    },
+    "issues": []
+  }
+}

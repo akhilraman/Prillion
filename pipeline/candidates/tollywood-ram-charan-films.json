@@ -1,0 +1,268 @@
+{
+  "question": {
+    "id": "tollywood-ram-charan-films",
+    "category": "tollywood",
+    "prompt": "Name a movie in Ram Charan’s acting filmography, including cameos and upcoming films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "chirutha",
+        "canonical": "Chirutha",
+        "aliases": [],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Charan in Chirutha (2007), his acting debut.",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [],
+        "familiarity": 0.152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Kaala Bhairava and Harsha in Magadheera (2009).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "orange",
+        "canonical": "Orange",
+        "aliases": [],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Ram in Orange (2010).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "racha",
+        "canonical": "Racha",
+        "aliases": [],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Raj in Racha (2012).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "naayak",
+        "canonical": "Naayak",
+        "aliases": [
+          "Nayak"
+        ],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Charan and Siddharth Naayak in Naayak (2013).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "zanjeer",
+        "canonical": "Zanjeer",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played ACP Vijay Khanna in Zanjeer (2013).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [
+          "Evadu"
+        ],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Satya and Charan in Yevadu (2014).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "govindudu-andarivadele",
+        "canonical": "Govindudu Andarivadele",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Abhiram in Govindudu Andarivadele (2014).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "bruce-lee-the-fighter",
+        "canonical": "Bruce Lee: The Fighter",
+        "aliases": [
+          "Bruce Lee",
+          "Bruce Lee The Fighter"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Karthik, also called Bruce Lee, in Bruce Lee: The Fighter (2015).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "dhruva",
+        "canonical": "Dhruva",
+        "aliases": [],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played ASP K. Dhruva IPS in Dhruva (2016).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "khaidi-no-150",
+        "canonical": "Khaidi No. 150",
+        "aliases": [
+          "Khaidi No 150",
+          "Khaidi 150"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan made a special appearance as himself in a song in Khaidi No. 150 (2017).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [],
+        "familiarity": 0.152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Chelluboina Chitti Babu in Rangasthalam (2018).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "vinaya-vidheya-rama",
+        "canonical": "Vinaya Vidheya Rama",
+        "aliases": [
+          "VVR"
+        ],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Konidela Ram in Vinaya Vidheya Rama (2019).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [],
+        "familiarity": 0.152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Alluri Sitarama Raju in RRR (2022).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "acharya",
+        "canonical": "Acharya",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Comrade Siddha in Acharya (2022).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "kisi-ka-bhai-kisi-ki-jaan",
+        "canonical": "Kisi Ka Bhai Kisi Ki Jaan",
+        "aliases": [
+          "KKBKKJ"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan appeared as himself in the song Yentamma in Kisi Ka Bhai Kisi Ki Jaan (2023).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "game-changer",
+        "canonical": "Game Changer",
+        "aliases": [],
+        "familiarity": 0.0608,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan played Ram Nandan and Appanna in Game Changer (2025).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      },
+      {
+        "id": "peddi",
+        "canonical": "Peddi",
+        "aliases": [],
+        "familiarity": 0.0182,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The acting filmography lists Ram Charan in the title role of Peddi (2026).",
+        "sourceIds": [
+          "ram-charan-filmography-and-awards"
+        ]
+      }
+    ],
+    "explanation": "These are the 18 titles in the source’s “Film — As an actor” table, from Chirutha (2007) through Peddi (2026). Cameos count; producer-only credits and documentaries listed under television do not.",
+    "sources": [
+      {
+        "id": "ram-charan-filmography-and-awards",
+        "title": "Ram Charan filmography and awards",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ram_Charan_filmography_and_awards",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "a3430f7d6b4c4005",
+    "brief": "Name a movie starring Ram Charan.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "ram-charan-filmography-and-awards",
+        "version": "1380060541",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Chirutha": "2007 | Chirutha | Charan | |",
+      "Magadheera": "2009 | Magadheera | Kaala Bhairava / Harsha | |",
+      "Orange": "2010 | Orange | Ram | |",
+      "Racha": "2012 | Racha | Raj | |",
+      "Naayak": "2013 | Naayak | Charan \"Cherry\" / Siddharth Naayak | |",
+      "Zanjeer": "2013 | Zanjeer | ACP Vijay Khanna | Also shot in Hindi; Singer for \"Mumbai Ke Hero\" (Telugu version only) |",
+      "Yevadu": "2014 | Yevadu | Satya / Charan | |",
+      "Govindudu Andarivadele": "2014 | Govindudu Andarivadele | Abhiram | |",
+      "Bruce Lee: The Fighter": "2015 | Bruce Lee: The Fighter | Karthik / Bruce Lee | |",
+      "Dhruva": "2016 | Dhruva | ASP K. Dhruva IPS | |",
+      "Khaidi No. 150": "2017 | Khaidi No. 150 | Himself | Special appearance in the song \"Ammadu Lets Do Kummudu\" |",
+      "Rangasthalam": "2018 | Rangasthalam | Chelluboina Chitti Babu | |",
+      "Vinaya Vidheya Rama": "2019 | Vinaya Vidheya Rama | Konidela Ram | |",
+      "RRR": "2022 | RRR | Alluri Sitarama Raju | |",
+      "Acharya": "2022 | Acharya | Comrade Siddha | |",
+      "Kisi Ka Bhai Kisi Ki Jaan": "2023 | Kisi Ka Bhai Kisi Ki Jaan | Himself | Hindi film; Cameo appearance in the song \"Yentamma\" |",
+      "Game Changer": "2025 | Game Changer | Ram Nandan / Appanna | |",
+      "Peddi": "2026 | Peddi | Peddi | |"
+    },
+    "issues": []
+  }
+}

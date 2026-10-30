@@ -1,0 +1,1491 @@
+{
+  "question": {
+    "id": "us-pop-travis-scott-discography",
+    "category": "us-pop",
+    "prompt": "Name a Travis Scott album, mixtape or single—including collaborations, featured appearances and promotional singles.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "rodeo",
+        "canonical": "Rodeo",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a studio album released in 2015.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "birds-in-the-trap-sing-mcknight",
+        "canonical": "Birds in the Trap Sing McKnight",
+        "aliases": [
+          "Birds in the Trap",
+          "BITTSM"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a studio album released in 2016.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "astroworld",
+        "canonical": "Astroworld",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a studio album released in 2018.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "utopia",
+        "canonical": "Utopia",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a studio album released in 2023.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "huncho-jack-jack-huncho",
+        "canonical": "Huncho Jack, Jack Huncho",
+        "aliases": [
+          "Huncho Jack Jack Huncho"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a collaborative album with Quavo as Huncho Jack.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "jackboys",
+        "canonical": "JackBoys",
+        "aliases": [
+          "Jack Boys"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a compilation album with JackBoys released in 2019.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "jackboys-2",
+        "canonical": "JackBoys 2",
+        "aliases": [
+          "Jack Boys 2"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a compilation album with JackBoys released in 2025.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "owl-pharaoh",
+        "canonical": "Owl Pharaoh",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a mixtape released in 2013.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "days-before-rodeo",
+        "canonical": "Days Before Rodeo",
+        "aliases": [
+          "DBR"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a mixtape originally released in 2014.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "b-a-p-e-mixtape",
+        "canonical": "B.A.P.E Mixtape",
+        "aliases": [
+          "BAPE Mixtape",
+          "B.A.P.E."
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a collaborative mixtape with The Classmates.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "buddy-rich",
+        "canonical": "Buddy Rich",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a collaborative mixtape with The Classmates.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "cruis-n-usa",
+        "canonical": "Cruis'n USA",
+        "aliases": [
+          "Cruisin USA",
+          "Cruising USA"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a collaborative mixtape with The Classmates.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "upper-echelon",
+        "canonical": "Upper Echelon",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2013 lead-artist single featuring T.I. and 2 Chainz.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "don-t-play",
+        "canonical": "Don't Play",
+        "aliases": [
+          "Dont Play"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2014 lead-artist single featuring the 1975 and Big Sean.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "mamacita",
+        "canonical": "Mamacita",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2014 lead-artist single featuring Rich Homie Quan and Young Thug.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "3500",
+        "canonical": "3500",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2015 lead-artist single featuring Future and 2 Chainz.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "antidote",
+        "canonical": "Antidote",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2015 lead-artist single from Rodeo.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "whole-lotta-lovin",
+        "canonical": "Whole Lotta Lovin'",
+        "aliases": [
+          "Whole Lotta Lovin",
+          "Whole Lotta Loving"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 single with Mustard.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "a-team",
+        "canonical": "A-Team",
+        "aliases": [
+          "A Team"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "wonderful",
+        "canonical": "Wonderful",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 single featuring the Weeknd.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "pick-up-the-phone",
+        "canonical": "Pick Up the Phone",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 single with Young Thug featuring Quavo.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "champions",
+        "canonical": "Champions",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 collaborative single with Kanye West and other artists.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "goosebumps",
+        "canonical": "Goosebumps",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 single featuring Kendrick Lamar.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "beibs-in-the-trap",
+        "canonical": "Beibs in the Trap",
+        "aliases": [
+          "Biebs in the Trap"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 single featuring Nav.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "go-off",
+        "canonical": "Go Off",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 single with Lil Uzi Vert and Quavo.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "butterfly-effect",
+        "canonical": "Butterfly Effect",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "watch",
+        "canonical": "Watch",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 single featuring Lil Uzi Vert and Kanye West.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "sicko-mode",
+        "canonical": "Sicko Mode",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 single featuring Drake.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "yosemite",
+        "canonical": "Yosemite",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "wake-up",
+        "canonical": "Wake Up",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "chopstix",
+        "canonical": "Chopstix",
+        "aliases": [
+          "Chopsticks"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 single with Schoolboy Q.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "power-is-power",
+        "canonical": "Power Is Power",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 single with SZA and the Weeknd.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "antisocial",
+        "canonical": "Antisocial",
+        "aliases": [
+          "Anti Social"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 single with Ed Sheeran.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "highest-in-the-room",
+        "canonical": "Highest in the Room",
+        "aliases": [
+          "HITR"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "out-west",
+        "canonical": "Out West",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 single with JackBoys featuring Young Thug.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "the-scotts",
+        "canonical": "The Scotts",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 single with Kid Cudi as the Scotts.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "tkn",
+        "canonical": "TKN",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 single with Rosalía.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "the-plan",
+        "canonical": "The Plan",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "franchise",
+        "canonical": "Franchise",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 single featuring Young Thug and M.I.A.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "goosebumps-remix",
+        "canonical": "Goosebumps (Remix)",
+        "aliases": [
+          "Goosebumps Hvme Remix",
+          "Goosebumps Remix"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a separate 2021 remix single with Hvme.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "durag-activity",
+        "canonical": "Durag Activity",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 single with Baby Keem.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "bubbly",
+        "canonical": "Bubbly",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 single with Young Thug and Drake.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "escape-plan",
+        "canonical": "Escape Plan",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "mafia",
+        "canonical": "Mafia",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "down-in-atlanta",
+        "canonical": "Down in Atlanta",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2022 single with Pharrell Williams.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "krzy-train",
+        "canonical": "Krzy Train",
+        "aliases": [
+          "Krazy Train",
+          "Crazy Train"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 single with Trippie Redd.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "k-pop",
+        "canonical": "K-pop",
+        "aliases": [
+          "Kpop",
+          "K Pop"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 single with Bad Bunny and the Weeknd.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "delresto-echoes",
+        "canonical": "Delresto (Echoes)",
+        "aliases": [
+          "Delresto",
+          "Echoes"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 single with Beyoncé.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "meltdown",
+        "canonical": "Meltdown",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 single featuring Drake.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "i-know",
+        "canonical": "I Know ?",
+        "aliases": [
+          "I Know",
+          "I Know?"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "water-remix",
+        "canonical": "Water (Remix)",
+        "aliases": [
+          "Water",
+          "Water Remix"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 remix single with Tyla.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "n-e-nah",
+        "canonical": "Née-Nah",
+        "aliases": [
+          "Nee Nah",
+          "Nee-Nah"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single with 21 Savage and Metro Boomin.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "fein",
+        "canonical": "Fein",
+        "aliases": [
+          "FE!N"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single featuring Playboi Carti.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "type-shit",
+        "canonical": "Type Shit",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single with Future, Metro Boomin and Playboi Carti.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "parking-lot",
+        "canonical": "Parking Lot",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single with Mustard.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "oh-shhh",
+        "canonical": "Oh Shhh...",
+        "aliases": [
+          "Oh Shhh",
+          "Ohh Shhh"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single with Ice Spice.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "active",
+        "canonical": "Active",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single with Asake.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "drugs-you-should-try-it",
+        "canonical": "Drugs You Should Try It",
+        "aliases": [
+          "DYSTI"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 single from Days Before Rodeo.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "south-of-france-remix",
+        "canonical": "South of France (Remix)",
+        "aliases": [
+          "South of France",
+          "South of France Remix"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 remix single with Future.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "4x4",
+        "canonical": "4x4",
+        "aliases": [
+          "4 x 4",
+          "Four by Four"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "ilmb",
+        "canonical": "ILMB",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 single with Sheck Wes.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "2000-excursion",
+        "canonical": "2000 Excursion",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 single with Sheck Wes and Don Toliver.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "dumbo",
+        "canonical": "Dumbo",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 lead-artist single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "pbt",
+        "canonical": "PBT",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 single with Tyla and Vybz Kartel.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "shyne",
+        "canonical": "Shyne",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 single with GloRilla.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "xx",
+        "canonical": "XX",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2012 Lex Luger single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "bake-sale",
+        "canonical": "Bake Sale",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 Wiz Khalifa single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "no-english",
+        "canonical": "No English",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 Juicy J single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "last-time",
+        "canonical": "Last Time",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 Gucci Mane single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "love-galore",
+        "canonical": "Love Galore",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 SZA single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "portland",
+        "canonical": "Portland",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Drake single featuring Quavo and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "know-no-better",
+        "canonical": "Know No Better",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Major Lazer single featuring Travis Scott, Camila Cabello and Quavo.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "sky-walker",
+        "canonical": "Sky Walker",
+        "aliases": [
+          "Skywalker"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Miguel single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "4-am",
+        "canonical": "4 AM",
+        "aliases": [
+          "4AM",
+          "Four AM"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 2 Chainz single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "deserve",
+        "canonical": "Deserve",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Kris Wu single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "blue-pill",
+        "canonical": "Blue Pill",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Metro Boomin single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "dark-knight-dummo",
+        "canonical": "Dark Knight Dummo",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 Trippie Redd single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "krippy-kush-travis-scott-remix",
+        "canonical": "Krippy Kush (Travis Scott Remix)",
+        "aliases": [
+          "Krippy Kush",
+          "Krippy Kush Remix"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2017 remix single featuring Travis Scott and Rvssian.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "close",
+        "canonical": "Close",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 single by Rae Sremmurd, Swae Lee and Slim Jxmmi featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "champion",
+        "canonical": "Champion",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 Nav single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "dangerous-world",
+        "canonical": "Dangerous World",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 Mustard single featuring Travis Scott and YG.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "neighbor",
+        "canonical": "Neighbor",
+        "aliases": [
+          "Neighbour"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 Juicy J single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "zeze",
+        "canonical": "Zeze",
+        "aliases": [],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 Kodak Black single featuring Travis Scott and Offset.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "mile-high",
+        "canonical": "Mile High",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 James Blake single featuring Travis Scott and Metro Boomin.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "first-off",
+        "canonical": "First Off",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 Future single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "the-london",
+        "canonical": "The London",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 Young Thug single featuring J. Cole and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "take-what-you-want",
+        "canonical": "Take What You Want",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 Post Malone single featuring Ozzy Osbourne and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "hot-remix",
+        "canonical": "Hot (Remix)",
+        "aliases": [
+          "Hot",
+          "Hot Remix"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2019 Young Thug remix single featuring Gunna and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "give-no-fxk",
+        "canonical": "Give No Fxk",
+        "aliases": [
+          "Give No Fuck",
+          "Give No Fux",
+          "Give No Fucks"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 Migos single featuring Travis Scott and Young Thug.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "turks",
+        "canonical": "Turks",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 Nav and Gunna single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "wash-us-in-the-blood",
+        "canonical": "Wash Us in the Blood",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2020 Kanye West single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "buss-it-remix",
+        "canonical": "Buss It (Remix)",
+        "aliases": [
+          "Buss It",
+          "Buss It Remix"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 Erica Banks remix single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "flocky-flocky",
+        "canonical": "Flocky Flocky",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2021 Don Toliver single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "hold-that-heat",
+        "canonical": "Hold That Heat",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2022 Southside and Future single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "never-sleep",
+        "canonical": "Never Sleep",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2022 Nav and Lil Baby single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "ring-ring",
+        "canonical": "Ring Ring",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 Chase B single featuring Travis Scott and other artists.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "say-my-grace",
+        "canonical": "Say My Grace",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 Offset single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "likka-sto-2",
+        "canonical": "Likka Sto 2",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 Lil Blessin and G Herbo single featuring Travis Scott and Bia.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "at-the-party",
+        "canonical": "At the Party",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2023 Kid Cudi single featuring Pharrell Williams and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "ftcu-sleezemix",
+        "canonical": "FTCU (SleezeMix)",
+        "aliases": [
+          "FTCU",
+          "FTCU Remix",
+          "FTCU Sleeze Mix"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 Nicki Minaj remix single featuring Travis Scott, Chris Brown and Sexyy Red.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "tatata",
+        "canonical": "TaTaTa",
+        "aliases": [
+          "Ta Ta Ta"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 Burna Boy single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "oh-chet",
+        "canonical": "Oh Chet",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2026 Jey One single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "10-2-10-remix",
+        "canonical": "10 2 10 (Remix)",
+        "aliases": [
+          "10 2 10",
+          "10 2 10 Remix",
+          "10 to 10"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2014 Big Sean promotional remix single featuring Rick Ross and Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "chimes-rmx",
+        "canonical": "Chimes (RMX)",
+        "aliases": [
+          "Chimes",
+          "Chimes Remix"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2014 Hudson Mohawke promotional remix single featuring Travis Scott and other artists.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "night-riders",
+        "canonical": "Night Riders",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2015 Major Lazer promotional single featuring Travis Scott and other artists.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "3-wayz",
+        "canonical": "3 Wayz",
+        "aliases": [
+          "3 Ways",
+          "Three Wayz"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 Ty Dolla Sign promotional single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "baptized-in-fire",
+        "canonical": "Baptized in Fire",
+        "aliases": [
+          "Baptised in Fire"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2016 Kid Cudi promotional single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "love-hurts",
+        "canonical": "Love Hurts",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 Playboi Carti promotional single featuring Travis Scott.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "stargazing",
+        "canonical": "Stargazing",
+        "aliases": [
+          "Star Gazing"
+        ],
+        "familiarity": 0.0244,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2018 promotional single from Astroworld.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "backr00ms",
+        "canonical": "Backr00ms",
+        "aliases": [
+          "Backrooms",
+          "Back Rooms"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2024 promotional single with Playboi Carti.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "kick-out",
+        "canonical": "Kick Out",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2025 promotional single from JackBoys 2.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      },
+      {
+        "id": "rhyno",
+        "canonical": "Rhyno",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a 2026 promotional single.",
+        "sourceIds": [
+          "travis-scott-discography"
+        ]
+      }
+    ],
+    "explanation": "Answers are the titles listed in the discography's album, mixtape and singles tables, including collaborative projects, features, remixes and promotional singles. EPs and tracks listed only as other charted songs or guest appearances do not count.",
+    "sources": [
+      {
+        "id": "travis-scott-discography",
+        "title": "Travis Scott discography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Travis_Scott_discography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "de472ecad8b0a022",
+    "brief": "Name a Travis Scott album, mixtape or single.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "travis-scott-discography",
+        "version": "1381120865",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Rodeo": "Rodeo | Released: September 4, 2015",
+      "Birds in the Trap Sing McKnight": "Birds in the Trap Sing McKnight | Released: September 2, 2016",
+      "Astroworld": "Astroworld | Released: August 3, 2018",
+      "Utopia": "Utopia | Released: July 28, 2023",
+      "Huncho Jack, Jack Huncho": "Huncho Jack, Jack Huncho (with Quavo as Huncho Jack) | Released: December 21, 2017",
+      "JackBoys": "JackBoys (with JackBoys) | Released: December 27, 2019",
+      "JackBoys 2": "JackBoys 2 (with JackBoys) | Released: July 13, 2025",
+      "Owl Pharaoh": "Owl Pharaoh | Released: May 21, 2013",
+      "Days Before Rodeo": "Days Before Rodeo | Released: August 18, 2014 Re-Released: August 23, 2024",
+      "B.A.P.E Mixtape": "B.A.P.E Mixtape (with The Classmates) | Released: 2009",
+      "Buddy Rich": "Buddy Rich (with The Classmates) | Released: 2009",
+      "Cruis'n USA": "Cruis'n USA (with The Classmates) | Released: 2011",
+      "Upper Echelon": "\"Upper Echelon\" (featuring T.I. and 2 Chainz) | 2013",
+      "Don't Play": "\"Don't Play\" (featuring the 1975 and Big Sean) | 2014",
+      "Mamacita": "\"Mamacita\" (featuring Rich Homie Quan and Young Thug) | 2014",
+      "3500": "\"3500\" (featuring Future and 2 Chainz) | 2015",
+      "Antidote": "\"Antidote\" | 2015 | 16 | 7 | 4",
+      "Whole Lotta Lovin'": "\"Whole Lotta Lovin'\" (with Mustard) | 2016",
+      "A-Team": "\"A-Team\" | 2016 | — | — | —",
+      "Wonderful": "\"Wonderful\" (featuring the Weeknd) | 2016",
+      "Pick Up the Phone": "\"Pick Up the Phone\" (with Young Thug featuring Quavo) | 2016",
+      "Champions": "\"Champions\" (with Kanye West, Gucci Mane, Big Sean, 2 Chainz, Yo Gotti, Quavo, and Desiigner) | 2016",
+      "Goosebumps": "\"Goosebumps\" (featuring Kendrick Lamar) | 2016",
+      "Beibs in the Trap": "\"Beibs in the Trap\" (featuring Nav) | 2016",
+      "Go Off": "\"Go Off\" (with Lil Uzi Vert and Quavo) | 2017",
+      "Butterfly Effect": "\"Butterfly Effect\" | 2017 | 50 | 17 | 12",
+      "Watch": "\"Watch\" (featuring Lil Uzi Vert and Kanye West) | 2018",
+      "Sicko Mode": "\"Sicko Mode\" (featuring Drake) | 2018",
+      "Yosemite": "\"Yosemite\" | 2018 | 25 | 16 | 14",
+      "Wake Up": "\"Wake Up\" | 2019 | 30 | 21",
+      "Chopstix": "\"Chopstix\" (with Schoolboy Q) | 2019",
+      "Power Is Power": "\"Power Is Power\" (with SZA and the Weeknd) | 2019",
+      "Antisocial": "\"Antisocial\" (with Ed Sheeran) | 2019",
+      "Highest in the Room": "\"Highest in the Room\" | 2019 | 1 | 1 | 1",
+      "Out West": "\"Out West\" (with JackBoys featuring Young Thug) | 2020",
+      "The Scotts": "\"The Scotts\" (with Kid Cudi as the Scotts) | 2020",
+      "TKN": "\"TKN\" (with Rosalía) | 2020",
+      "The Plan": "\"The Plan\" | 2020 | 74 | 28",
+      "Franchise": "\"Franchise\" (featuring Young Thug and M.I.A.) | 2020",
+      "Goosebumps (Remix)": "\"Goosebumps\" (Remix) (with Hvme) | 2021",
+      "Durag Activity": "\"Durag Activity\" (with Baby Keem) | 2021",
+      "Bubbly": "\"Bubbly\" (with Young Thug and Drake) | 2021",
+      "Escape Plan": "\"Escape Plan\" | 2021 | 11 | 3 | 2",
+      "Mafia": "\"Mafia\" | 2021 | 26 | 10 | 5",
+      "Down in Atlanta": "\"Down in Atlanta\" (with Pharrell Williams) | 2022",
+      "Krzy Train": "\"Krzy Train\" (with Trippie Redd) | 2023",
+      "K-pop": "\"K-pop\" (with Bad Bunny and the Weeknd) | 2023",
+      "Delresto (Echoes)": "\"Delresto (Echoes)\" (with Beyoncé) | 2023",
+      "Meltdown": "\"Meltdown\" (featuring Drake) | 2023",
+      "I Know ?": "\"I Know ?\" | 2023 | 11 | 5 | 5",
+      "Water (Remix)": "\"Water\" (Remix) (with Tyla) | 2023",
+      "Née-Nah": "\"Née-Nah\" (with 21 Savage and Metro Boomin) | 2024",
+      "Fein": "\"Fein\" (featuring Playboi Carti) | 2024",
+      "Type Shit": "\"Type Shit\" (with Future, Metro Boomin, and Playboi Carti) | 2024",
+      "Parking Lot": "\"Parking Lot\" (with Mustard) | 2024",
+      "Oh Shhh...": "\"Oh Shhh...\" (with Ice Spice) | 2024",
+      "Active": "\"Active\" (with Asake) | 2024",
+      "Drugs You Should Try It": "\"Drugs You Should Try It\" | 2024 | 66 | 13 | 12",
+      "South of France (Remix)": "\"South of France\" (Remix) (with Future) | 2024",
+      "4x4": "\"4x4\" | 2025 | 1 | 1 | 1",
+      "ILMB": "\"ILMB\" (with Sheck Wes) | 2025",
+      "2000 Excursion": "\"2000 Excursion\" (with Sheck Wes and Don Toliver) | 2025",
+      "Dumbo": "\"Dumbo\" | 2025 | 54 | 14 | 8",
+      "PBT": "\"PBT\" (with Tyla and Vybz Kartel) | 2025",
+      "Shyne": "\"Shyne\" (with GloRilla) | 2025",
+      "XX": "\"XX\" (Lex Luger featuring Travis Scott) | 2012",
+      "Bake Sale": "\"Bake Sale\" (Wiz Khalifa featuring Travis Scott) | 2016",
+      "No English": "\"No English\" (Juicy J featuring Travis Scott) | 2016",
+      "Last Time": "\"Last Time\" (Gucci Mane featuring Travis Scott) | 2016",
+      "Love Galore": "\"Love Galore\" (SZA featuring Travis Scott) | 2017",
+      "Portland": "\"Portland\" (Drake featuring Quavo and Travis Scott) | 2017",
+      "Know No Better": "\"Know No Better\" (Major Lazer featuring Travis Scott, Camila Cabello, and Quavo) | 2017",
+      "Sky Walker": "\"Sky Walker\" (Miguel featuring Travis Scott) | 2017",
+      "4 AM": "\"4 AM\" (2 Chainz featuring Travis Scott) | 2017",
+      "Deserve": "\"Deserve\" (Kris Wu featuring Travis Scott) | 2017",
+      "Blue Pill": "\"Blue Pill\" (Metro Boomin featuring Travis Scott) | 2017",
+      "Dark Knight Dummo": "\"Dark Knight Dummo\" (Trippie Redd featuring Travis Scott) | 2017",
+      "Krippy Kush (Travis Scott Remix)": "\"Krippy Kush\" (Travis Scott Remix) (Farruko, Nicki Minaj, and Bad Bunny featuring Travis Scott and Rvssian) | 2017",
+      "Close": "\"Close\" (Rae Sremmurd, Swae Lee, and Slim Jxmmi featuring Travis Scott) | 2018",
+      "Champion": "\"Champion\" (Nav featuring Travis Scott) | 2018",
+      "Dangerous World": "\"Dangerous World\" (Mustard featuring Travis Scott and YG) | 2018",
+      "Neighbor": "\"Neighbor\" (Juicy J featuring Travis Scott) | 2018",
+      "Zeze": "\"Zeze\" (Kodak Black featuring Travis Scott and Offset) | 2018",
+      "Mile High": "\"Mile High\" (James Blake featuring Travis Scott and Metro Boomin) | 2019",
+      "First Off": "\"First Off\" (Future featuring Travis Scott) | 2019",
+      "The London": "\"The London\" (Young Thug featuring J. Cole and Travis Scott) | 2019",
+      "Take What You Want": "\"Take What You Want\" (Post Malone featuring Ozzy Osbourne and Travis Scott) | 2019",
+      "Hot (Remix)": "\"Hot\" (Remix) (Young Thug featuring Gunna and Travis Scott) | 2019",
+      "Give No Fxk": "\"Give No Fxk\" (Migos featuring Travis Scott and Young Thug) | 2020",
+      "Turks": "\"Turks\" (Nav and Gunna featuring Travis Scott) | 2020",
+      "Wash Us in the Blood": "\"Wash Us in the Blood\" (Kanye West featuring Travis Scott) | 2020",
+      "Buss It (Remix)": "\"Buss It\" (Remix) (Erica Banks featuring Travis Scott) | 2021",
+      "Flocky Flocky": "\"Flocky Flocky\" (Don Toliver featuring Travis Scott) | 2021",
+      "Hold That Heat": "\"Hold That Heat\" (Southside and Future featuring Travis Scott) | 2022",
+      "Never Sleep": "\"Never Sleep\" (Nav and Lil Baby featuring Travis Scott) | 2022",
+      "Ring Ring": "\"Ring Ring\" (Chase B featuring Travis Scott, Don Toliver, Quavo, and Ty Dolla Sign) | 2023",
+      "Say My Grace": "\"Say My Grace\" (Offset featuring Travis Scott) | 2023",
+      "Likka Sto 2": "\"Likka Sto 2\" (Lil Blessin and G Herbo featuring Travis Scott and Bia) | 2023",
+      "At the Party": "\"At the Party\" (Kid Cudi featuring Pharrell Williams and Travis Scott) | 2023",
+      "FTCU (SleezeMix)": "\"FTCU\" (SleezeMix) (Nicki Minaj featuring Travis Scott, Chris Brown, and Sexyy Red) | 2024",
+      "TaTaTa": "\"TaTaTa\" (Burna Boy featuring Travis Scott) | 2025",
+      "Oh Chet": "\"Oh Chet\" (Jey One featuring Travis Scott) | 2026",
+      "10 2 10 (Remix)": "\"10 2 10\" (Remix) (Big Sean featuring Rick Ross and Travis Scott) | 2014",
+      "Chimes (RMX)": "\"Chimes\" (RMX) (Hudson Mohawke featuring Pusha T, Future, Travis Scott, and French Montana) | 2014",
+      "Night Riders": "\"Night Riders\" (Major Lazer featuring Travis Scott, 2 Chainz, Pusha T, and Mad Cobra) | 2015",
+      "3 Wayz": "\"3 Wayz\" (Ty Dolla Sign featuring Travis Scott) | 2016",
+      "Baptized in Fire": "\"Baptized in Fire\" (Kid Cudi featuring Travis Scott) | 2016",
+      "Love Hurts": "\"Love Hurts\" (Playboi Carti featuring Travis Scott) | 2018",
+      "Stargazing": "\"Stargazing\" | 2018 | 8 | 7 | 7",
+      "Backr00ms": "\"Backr00ms\" (with Playboi Carti) | 2024",
+      "Kick Out": "\"Kick Out\" | 2025 | 50 | 12 | 6",
+      "Rhyno": "\"Rhyno\" | 2026 | 84 | 19 | 11"
+    },
+    "issues": []
+  }
+}

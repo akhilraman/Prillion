@@ -1,0 +1,1339 @@
+{
+  "question": {
+    "id": "space-space-agencies",
+    "category": "space",
+    "prompt": "Name an organization listed in the government space agency overview tables, including international, subnational, and former bodies.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "african-space-agency",
+        "canonical": "African Space Agency",
+        "aliases": [
+          "AfSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under the African Union.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "algerian-space-agency",
+        "canonical": "Algerian Space Agency",
+        "aliases": [
+          "ASAL"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Algeria.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-space-activities-commission",
+        "canonical": "National Space Activities Commission",
+        "aliases": [
+          "CONAE"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this commission under Argentina.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "australian-space-agency",
+        "canonical": "Australian Space Agency",
+        "aliases": [
+          "ASA"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Australia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "austrian-space-agency",
+        "canonical": "Austrian Space Agency",
+        "aliases": [
+          "ALR"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Austria.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "space-agency-of-the-republic-of-azerbaijan-azercosmos",
+        "canonical": "Space Agency of the Republic of Azerbaijan (Azercosmos)",
+        "aliases": [
+          "Azercosmos",
+          "Space Agency of the Republic of Azerbaijan"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists Azercosmos under Azerbaijan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "bahrain-space-agency",
+        "canonical": "Bahrain Space Agency",
+        "aliases": [
+          "BSA"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Bahrain.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "bangladesh-space-research-and-remote-sensing-organization",
+        "canonical": "Bangladesh Space Research and Remote Sensing Organization",
+        "aliases": [
+          "SPARRSO"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this organization under Bangladesh.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "royal-belgian-institute-for-space-aeronomy",
+        "canonical": "Royal Belgian Institute for Space Aeronomy",
+        "aliases": [
+          "BIRA",
+          "IASB",
+          "BISA",
+          "BIRA-IASB"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under Belgium.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "brazilian-space-agency",
+        "canonical": "Brazilian Space Agency",
+        "aliases": [
+          "AEB"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Brazil.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "space-research-and-technology-institute",
+        "canonical": "Space Research and Technology Institute",
+        "aliases": [
+          "SRI-BAS",
+          "STIL-BAS"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under Bulgaria.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "canadian-space-agency",
+        "canonical": "Canadian Space Agency",
+        "aliases": [
+          "CSA",
+          "ASC"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Canada.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "chilean-space-agency",
+        "canonical": "Chilean Space Agency",
+        "aliases": [
+          "Chile space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Chile.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "china-national-space-administration",
+        "canonical": "China National Space Administration",
+        "aliases": [
+          "CNSA"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this administration under China.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "costa-rican-space-agency-agencia-espacial-costarricense",
+        "canonical": "Costa Rican Space Agency (Agencia Espacial Costarricense)",
+        "aliases": [
+          "Costa Rican Space Agency",
+          "Agencia Espacial Costarricense",
+          "AEC"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Costa Rica.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "consultative-committee-for-space-data-systems",
+        "canonical": "Consultative Committee for Space Data Systems",
+        "aliases": [
+          "CCSDS"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The main overview includes this international committee.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "committee-on-space-research",
+        "canonical": "Committee on Space Research",
+        "aliases": [
+          "COSPAR"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The main overview includes this international committee.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "department-of-space-activities-at-the-ministry-of-transport-czech-republic-czech-space-team",
+        "canonical": "Department of Space Activities at the Ministry of Transport (Czech Republic) & Czech Space Team",
+        "aliases": [
+          "Czech Space Team",
+          "Department of Space Activities at the Ministry of Transport",
+          "MoT"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this combined entry under the Czech Republic.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "danish-national-space-center",
+        "canonical": "Danish National Space Center",
+        "aliases": [
+          "DNSC",
+          "DTU Space"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Denmark.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "egyptian-space-agency",
+        "canonical": "Egyptian Space Agency",
+        "aliases": [
+          "EGSA",
+          "NARSS",
+          "EASRT-RSC"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Egypt.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "instituto-aeroespacial-de-el-salvador-esai",
+        "canonical": "Instituto Aeroespacial de El Salvador(Esai)",
+        "aliases": [
+          "Instituto Aeroespacial de El Salvador",
+          "ESAI"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under El Salvador.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "ethiopian-space-science-and-technology-institute",
+        "canonical": "Ethiopian Space Science and Technology Institute",
+        "aliases": [
+          "ESSTI"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under Ethiopia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "european-space-agency",
+        "canonical": "European Space Agency",
+        "aliases": [
+          "ESA",
+          "ASE",
+          "EWO"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The main overview includes the European Space Agency.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "european-union-agency-for-the-space-programme",
+        "canonical": "European Union Agency for the Space Programme",
+        "aliases": [
+          "EUSPA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under the European Union.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-centre-for-space-studies",
+        "canonical": "National Centre for Space Studies",
+        "aliases": [
+          "CNES",
+          "Centre National d’Études Spatiales",
+          "Centre National d'Etudes Spatiales"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this organization under France.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "german-aerospace-center",
+        "canonical": "German Aerospace Center",
+        "aliases": [
+          "DLR",
+          "Deutsches Zentrum für Luft und Raumfahrt",
+          "German Aerospace Centre"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Germany.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "ghana-space-science-and-technology-centre",
+        "canonical": "Ghana Space Science and Technology Centre",
+        "aliases": [
+          "GSSTI",
+          "Ghana Space Science and Technology Center"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Ghana.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "hellenic-space-center",
+        "canonical": "Hellenic Space Center",
+        "aliases": [
+          "HSC",
+          "ΕΛΚΕΔ",
+          "Ελληνικό Κέντρο Διαστήματος",
+          "Hellenic Space Centre"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Greece.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "hungarian-space-office",
+        "canonical": "Hungarian Space Office",
+        "aliases": [
+          "MŰI",
+          "HSO"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this office under Hungary.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "indian-space-research-organisation",
+        "canonical": "Indian Space Research Organisation",
+        "aliases": [
+          "ISRO",
+          "इसरो",
+          "Indian Space Research Organization"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this organization under India.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "indonesian-space-agency-previously-lapan",
+        "canonical": "Indonesian Space Agency (Previously LAPAN)",
+        "aliases": [
+          "Indonesian Space Agency",
+          "INASA",
+          "LAPAN"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Indonesia and identifies its previous name.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "iranian-space-agency",
+        "canonical": "Iranian Space Agency",
+        "aliases": [
+          "Iran space agency"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Iran.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "israel-space-agency",
+        "canonical": "Israel Space Agency",
+        "aliases": [
+          "Israeli Space Agency",
+          "סוכנות החלל הישראלית"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Israel.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "italian-space-agency",
+        "canonical": "Italian Space Agency",
+        "aliases": [
+          "ASI",
+          "Agenzia Spaziale Italiana"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Italy.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "japan-aerospace-exploration-agency",
+        "canonical": "Japan Aerospace Exploration Agency",
+        "aliases": [
+          "JAXA",
+          "ジャクサ"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Japan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-space-agency-of-the-republic-of-kazakhstan",
+        "canonical": "National Space Agency of the Republic of Kazakhstan",
+        "aliases": [
+          "KazCosmos",
+          "KazKosmos",
+          "Kazakhstan space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Kazakhstan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "kenya-space-agency",
+        "canonical": "Kenya Space Agency",
+        "aliases": [
+          "KSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Kenya.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-aerospace-technology-administration",
+        "canonical": "National Aerospace Technology Administration",
+        "aliases": [
+          "NATA",
+          "NADA",
+          "North Korean space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this administration under North Korea.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "korea-aerospace-administration",
+        "canonical": "Korea AeroSpace Administration",
+        "aliases": [
+          "KASA",
+          "우주청",
+          "Korea Aerospace Administration"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this administration under South Korea.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "korea-aerospace-research-institute",
+        "canonical": "Korea Aerospace Research Institute",
+        "aliases": [
+          "KARI",
+          "항우연"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under South Korea.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "latin-american-and-caribbean-space-agency",
+        "canonical": "Latin American and Caribbean Space Agency",
+        "aliases": [
+          "ALCE"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under CELAC.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "lithuanian-space-association",
+        "canonical": "Lithuanian Space Association",
+        "aliases": [
+          "Lithuania space association"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this association under Lithuania.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "luxembourg-space-agency",
+        "canonical": "Luxembourg Space Agency",
+        "aliases": [
+          "Luxembourg LSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Luxembourg.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "malaysian-space-agency",
+        "canonical": "Malaysian Space Agency",
+        "aliases": [
+          "MYSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Malaysia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "mexican-space-agency",
+        "canonical": "Mexican Space Agency",
+        "aliases": [
+          "AEM"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Mexico.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-remote-sensing-center-of-mongolia",
+        "canonical": "National Remote Sensing Center of Mongolia",
+        "aliases": [
+          "NRSC",
+          "National Remote Sensing Centre of Mongolia"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Mongolia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "royal-center-for-remote-sensing",
+        "canonical": "Royal Center for Remote Sensing",
+        "aliases": [
+          "CRTS",
+          "Centre Royal de Télédétection Spatiale",
+          "Ammas Amrrukan n Tallunt",
+          "المركز الملكي للإستشعار البعدي الفضائي",
+          "Royal Centre for Remote Sensing"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Morocco.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "netherlands-institute-for-space-research",
+        "canonical": "Netherlands Institute for Space Research",
+        "aliases": [
+          "SRON"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this institute under the Netherlands.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "new-zealand-space-agency",
+        "canonical": "New Zealand Space Agency",
+        "aliases": [
+          "NZSA"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under New Zealand.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-space-research-and-development-agency",
+        "canonical": "National Space Research and Development Agency",
+        "aliases": [
+          "NASRDA",
+          "Nigerian space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Nigeria.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "norwegian-space-agency",
+        "canonical": "Norwegian Space Agency",
+        "aliases": [
+          "NRS",
+          "NSC"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Norway.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "pakistan-space-and-upper-atmosphere-research-commission",
+        "canonical": "Pakistan Space and Upper Atmosphere Research Commission",
+        "aliases": [
+          "SUPARCO",
+          "سپارکو",
+          "Space and Upper Atmosphere Research Commission"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this commission under Pakistan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "paraguayan-space-agency-agencia-espacial-de-paraguay",
+        "canonical": "Paraguayan Space Agency (Agencia Espacial de Paraguay)",
+        "aliases": [
+          "Paraguayan Space Agency",
+          "Agencia Espacial de Paraguay",
+          "AEP"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Paraguay.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-commission-for-aerospace-research-and-development",
+        "canonical": "National Commission for Aerospace Research and Development",
+        "aliases": [
+          "CONIDA",
+          "Peruvian space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this commission under Peru.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "philippine-space-agency",
+        "canonical": "Philippine Space Agency",
+        "aliases": [
+          "PhilSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under the Philippines.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "polish-space-agency",
+        "canonical": "Polish Space Agency",
+        "aliases": [
+          "POLSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Poland.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "portuguese-space-agency",
+        "canonical": "Portuguese Space Agency",
+        "aliases": [
+          "PTSPACE"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Portugal.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "romanian-space-agency",
+        "canonical": "Romanian Space Agency",
+        "aliases": [
+          "ASR",
+          "ROSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Romania.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "roscosmos-state-corporation-for-space-activities",
+        "canonical": "Roscosmos State Corporation for Space Activities",
+        "aliases": [
+          "Roscosmos",
+          "Роскосмос",
+          "State Corporation for Space Activities Roscosmos"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this corporation under Russia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "rwanda-space-agency",
+        "canonical": "Rwanda Space Agency",
+        "aliases": [
+          "RSA"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Rwanda.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "saudi-space-agency",
+        "canonical": "Saudi Space Agency",
+        "aliases": [
+          "Saudi Arabian space agency"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Saudi Arabia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-space-agency-of-singapore",
+        "canonical": "National Space Agency of Singapore",
+        "aliases": [
+          "NSAS",
+          "Singapore space agency"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview includes this agency under Singapore.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "south-african-national-space-agency",
+        "canonical": "South African National Space Agency",
+        "aliases": [
+          "SANSA"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under South Africa.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "soviet-space-program",
+        "canonical": "Soviet space program",
+        "aliases": [
+          "USSR space program",
+          "СССР Космическая программа"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview includes the former Soviet space program and its disbandment date.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "agencia-espacial-espa-ola",
+        "canonical": "Agencia Espacial Española",
+        "aliases": [
+          "AEE",
+          "Spanish Space Agency",
+          "Agencia Espacial Espanola"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Spain.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "swedish-national-space-agency",
+        "canonical": "Swedish National Space Agency",
+        "aliases": [
+          "SNSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Sweden.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "swiss-space-office",
+        "canonical": "Swiss Space Office",
+        "aliases": [
+          "SSO"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this office under Switzerland.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "syrian-space-agency",
+        "canonical": "Syrian Space Agency",
+        "aliases": [
+          "Syria space agency"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Syria.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "taiwan-space-agency",
+        "canonical": "Taiwan Space Agency",
+        "aliases": [
+          "TASA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Taiwan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "geo-informatics-and-space-technology-development-agency",
+        "canonical": "Geo-Informatics and Space Technology Development Agency",
+        "aliases": [
+          "GISTDA",
+          "สทอภ"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Thailand.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-remote-sensing-center-of-tunisia",
+        "canonical": "National Remote Sensing Center of Tunisia",
+        "aliases": [
+          "CNCT",
+          "Centre national de la cartographie et de la télédétection",
+          "المركز الوطني للإستشعار عن بعد",
+          "National Remote Sensing Centre of Tunisia"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Tunisia.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "turkish-space-agency-t-rkiye-uzay-ajans",
+        "canonical": "Turkish Space Agency (Türkiye Uzay Ajansı)",
+        "aliases": [
+          "Turkish Space Agency",
+          "Türkiye Uzay Ajansı",
+          "Turkiye Uzay Ajansi",
+          "TUA"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Turkey.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "turkmenistan-national-space-agency",
+        "canonical": "Turkmenistan National Space Agency",
+        "aliases": [
+          "TNSA"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Turkmenistan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "state-space-agency-of-ukraine",
+        "canonical": "State Space Agency of Ukraine",
+        "aliases": [
+          "SSAU",
+          "Ukrainian space agency"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Ukraine.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "united-arab-emirates-space-agency",
+        "canonical": "United Arab Emirates Space Agency",
+        "aliases": [
+          "UAESA",
+          "UAE Space Agency"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under the United Arab Emirates.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "uk-space-agency",
+        "canonical": "UK Space Agency",
+        "aliases": [
+          "UKSA",
+          "United Kingdom Space Agency"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under the United Kingdom.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "united-nations-committee-on-the-peaceful-uses-of-outer-space",
+        "canonical": "United Nations Committee on the Peaceful Uses of Outer Space",
+        "aliases": [
+          "UNCOPUOS",
+          "COPUOS"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview includes this United Nations committee.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "united-nations-office-for-outer-space-affairs",
+        "canonical": "United Nations Office for Outer Space Affairs",
+        "aliases": [
+          "UNOOSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview includes this United Nations office.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "national-aeronautics-and-space-administration",
+        "canonical": "National Aeronautics and Space Administration",
+        "aliases": [
+          "NASA"
+        ],
+        "familiarity": 0.0515,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists NASA under the United States.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "the-space-research-and-technology-agency-under-the-ministry-of-digital-technologies-of-the-republic-of-uzbekistan",
+        "canonical": "The Space Research and Technology Agency under the Ministry of Digital Technologies of the Republic of Uzbekistan",
+        "aliases": [
+          "Uzcosmos",
+          "Space Research and Technology Agency of Uzbekistan",
+          "Uzbekistan space agency"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this agency under Uzbekistan.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "bolivarian-agency-for-space-activities",
+        "canonical": "Bolivarian Agency for Space Activities",
+        "aliases": [
+          "ABAE"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The main overview includes this agency.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "vietnam-national-space-center",
+        "canonical": "Vietnam National Space Center",
+        "aliases": [
+          "VNSC",
+          "TTVTVN",
+          "VAST-VNSC",
+          "Vietnam National Space Centre"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The overview lists this center under Vietnam.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "california-space-authority",
+        "canonical": "California Space Authority",
+        "aliases": [
+          "CSTA"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this former California organization.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "space-florida",
+        "canonical": "Space Florida",
+        "aliases": [
+          "FSA"
+        ],
+        "familiarity": 0.0062,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this Florida organization.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "new-mexico-spaceport-authority",
+        "canonical": "New Mexico Spaceport Authority",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this New Mexico authority.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "oklahoma-space-industry-development-authority",
+        "canonical": "Oklahoma Space Industry Development Authority",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this Oklahoma authority.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "virginia-spaceport-authority",
+        "canonical": "Virginia Spaceport Authority",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this Virginia authority.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      },
+      {
+        "id": "k-space-trivandrum",
+        "canonical": "K-Space Trivandrum",
+        "aliases": [
+          "K-Space",
+          "K Space Trivandrum"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The subnational overview lists this organization under Kerala, India.",
+        "sourceIds": [
+          "list-of-government-space-agencies"
+        ]
+      }
+    ],
+    "explanation": "The source's main and subnational overview tables include national space agencies, international organizations, research institutes, and former bodies. All entries in those two tables count; entries appearing only in the proposed-agencies section do not.",
+    "sources": [
+      {
+        "id": "list-of-government-space-agencies",
+        "title": "List of government space agencies",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_government_space_agencies",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "26b1981bf242da01",
+    "brief": "Name a government space agency.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-government-space-agencies",
+        "version": "1382533503",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "African Space Agency": "African Union | African Space Agency | AfSA | 24 Jan 2023",
+      "Algerian Space Agency": "Algeria | Algerian Space Agency | ASAL | 16 Jan 2002",
+      "National Space Activities Commission": "Argentina | National Space Activities Commission | CONAE | 1961 (CNIE) 28 May 1991 (CONAE)",
+      "Australian Space Agency": "Australia | Australian Space Agency | ASA | 1986 (NSP) 1 Jul 2018 (ASA)",
+      "Austrian Space Agency": "Austria | Austrian Space Agency | ALR | 12 Jul 1972",
+      "Space Agency of the Republic of Azerbaijan (Azercosmos)": "Azerbaijan | Space Agency of the Republic of Azerbaijan (Azercosmos) | Azercosmos | 2010",
+      "Bahrain Space Agency": "Bahrain | Bahrain Space Agency | BSA | 2014",
+      "Bangladesh Space Research and Remote Sensing Organization": "Bangladesh | Bangladesh Space Research and Remote Sensing Organization | SPARRSO | 1980",
+      "Royal Belgian Institute for Space Aeronomy": "Belgium | Royal Belgian Institute for Space Aeronomy | BIRA IASB BISA | 25 Nov 1964",
+      "Brazilian Space Agency": "Brazil | Brazilian Space Agency | AEB | 10 Feb 1994",
+      "Space Research and Technology Institute": "Bulgaria | Space Research and Technology Institute | SRI-BAS STIL-BAS | 1987",
+      "Canadian Space Agency": "Canada | Canadian Space Agency | CSA ASC | 1 Mar 1989",
+      "Chilean Space Agency": "Chile | Chilean Space Agency | CSA | 2001",
+      "China National Space Administration": "China | China National Space Administration | CNSA | 22 Apr 1993",
+      "Costa Rican Space Agency (Agencia Espacial Costarricense)": "Costa Rica | Costa Rican Space Agency (Agencia Espacial Costarricense) | AEC | 2021",
+      "Consultative Committee for Space Data Systems": "Consultative Committee for Space Data Systems | CCSDS | 1982",
+      "Committee on Space Research": "Committee on Space Research | COSPAR | 1958",
+      "Department of Space Activities at the Ministry of Transport (Czech Republic) & Czech Space Team": "Czech Republic | Department of Space Activities at the Ministry of Transport (Czech Republic) & Czech Space Team | MoT | 2008",
+      "Danish National Space Center": "Denmark | Danish National Space Center | DNSC DTU Space | 1 Jan 1968 (DSRI) 1 Jan 2005 (DNSC)",
+      "Egyptian Space Agency": "Egypt | Egyptian Space Agency | EGSA NARSS EASRT-RSC | 2018 1994 1971–1994",
+      "Instituto Aeroespacial de El Salvador(Esai)": "El Salvador | Instituto Aeroespacial de El Salvador(Esai) | ESAI | 2021",
+      "Ethiopian Space Science and Technology Institute": "Ethiopia | Ethiopian Space Science and Technology Institute | ESSTI | 14 Oct 2016",
+      "European Space Agency": "European Space Agency | ESA ASE EWO | 1964 (ESRO/ELDO) 30 May 1975 (ESA)",
+      "European Union Agency for the Space Programme": "European Union | European Union Agency for the Space Programme | EUSPA | 12 Jul 2004 (GSA) 21 May 2021 (EUSPA)",
+      "National Centre for Space Studies": "France | National Centre for Space Studies | CNES | 19 Dec 1961",
+      "German Aerospace Center": "Germany | German Aerospace Center | DLR | 1969",
+      "Ghana Space Science and Technology Centre": "Ghana | Ghana Space Science and Technology Centre | GSSTI | 2 Apr 2012",
+      "Hellenic Space Center": "Greece | Hellenic Space Center Ελληνικό Κέντρο Διαστήματος | HSC ΕΛΚΕΔ | 9 Aug 2019",
+      "Hungarian Space Office": "Hungary | Hungarian Space Office | MŰI HSO | Jan 1992",
+      "Indian Space Research Organisation": "India | Indian Space Research Organisation | ISRO इसरो | 1962 (INCOSPAR) 15 August 1969 (ISRO)",
+      "Indonesian Space Agency (Previously LAPAN)": "Indonesia | Indonesian Space Agency (Previously LAPAN) | INASA | 3 Nov 2022 27 Nov 1964 (LAPAN)",
+      "Iranian Space Agency": "Iran | Iranian Space Agency | ISA | 1996",
+      "Israel Space Agency": "Israel | Israel Space Agency | ISA סוכנות החלל הישראלית | Apr 1983",
+      "Italian Space Agency": "Italy | Italian Space Agency | ASI | 1988",
+      "Japan Aerospace Exploration Agency": "Japan | Japan Aerospace Exploration Agency | JAXA ジャクサ | 1 Oct 2003",
+      "National Space Agency of the Republic of Kazakhstan": "Kazakhstan | National Space Agency of the Republic of Kazakhstan | KazCosmos KazKosmos | 27 Mar 2007",
+      "Kenya Space Agency": "Kenya | Kenya Space Agency | KSA | 7 Mar 2017",
+      "National Aerospace Technology Administration": "North Korea | National Aerospace Technology Administration | NATA | 1980s (KCST) 2013 (NADA) 2023 (NATA)",
+      "Korea AeroSpace Administration": "South Korea | Korea AeroSpace Administration | KASA 우주청 | 27 May 2024",
+      "Korea Aerospace Research Institute": "South Korea | Korea Aerospace Research Institute | KARI 항우연 | 10 Oct 1989",
+      "Latin American and Caribbean Space Agency": "CELAC | Latin American and Caribbean Space Agency | ALCE | 2022",
+      "Lithuanian Space Association": "Lithuania | Lithuanian Space Association | LSA | 2007",
+      "Luxembourg Space Agency": "Luxembourg | Luxembourg Space Agency | LSA | Sep 2018",
+      "Malaysian Space Agency": "Malaysia | Malaysian Space Agency | MYSA | 2002",
+      "Mexican Space Agency": "Mexico | Mexican Space Agency | AEM | 30 Jul 2010",
+      "National Remote Sensing Center of Mongolia": "Mongolia | National Remote Sensing Center of Mongolia | NRSC | 1991",
+      "Royal Center for Remote Sensing": "Morocco | Royal Center for Remote Sensing Centre Royal de Télédétection Spatiale Ammas Amrrukan n Tallunt (المركز الملكي للإستشعار البعدي الفضائي) | CRTS | Dec 1989",
+      "Netherlands Institute for Space Research": "Netherlands | Netherlands Institute for Space Research | SRON | 1983",
+      "New Zealand Space Agency": "New Zealand | New Zealand Space Agency | NZSA | Apr 2016",
+      "National Space Research and Development Agency": "Nigeria | National Space Research and Development Agency | NASRDA | 1998",
+      "Norwegian Space Agency": "Norway | Norwegian Space Agency | NRS NSC | 1987",
+      "Pakistan Space and Upper Atmosphere Research Commission": "Pakistan | Pakistan Space and Upper Atmosphere Research Commission | SUPARCO سپارکو | 16 Sep 1961 (started working from 1964)",
+      "Paraguayan Space Agency (Agencia Espacial de Paraguay)": "Paraguay | Paraguayan Space Agency (Agencia Espacial de Paraguay) | AEP | 26 Mar 2014",
+      "National Commission for Aerospace Research and Development": "Peru | National Commission for Aerospace Research and Development | CONIDA | 11 Jun 1974",
+      "Philippine Space Agency": "Philippines | Philippine Space Agency | PhilSA | 2014 (DOST–ASTI) 8 August 2019 (PhilSA)",
+      "Polish Space Agency": "Poland | Polish Space Agency | POLSA | 29 Sep 1976 (CBK PAN) 26 Sep 2014 (POLSA)",
+      "Portuguese Space Agency": "Portugal | Portuguese Space Agency | PTSPACE | 2019",
+      "Romanian Space Agency": "Romania | Romanian Space Agency | ASR ROSA | 1991",
+      "Roscosmos State Corporation for Space Activities": "Russia | Roscosmos State Corporation for Space Activities | Roscosmos Роскосмос | 25 Feb 1992",
+      "Rwanda Space Agency": "Rwanda | Rwanda Space Agency | RSA | 2021",
+      "Saudi Space Agency": "Saudi Arabia | Saudi Space Agency | SSA | 1977 (KACST-SRI) 2018 (SSC/SSA)",
+      "National Space Agency of Singapore": "Singapore | National Space Agency of Singapore | NSAS | 1 Apr 2026",
+      "South African National Space Agency": "South Africa | South African National Space Agency | SANSA | 9 Dec 2010",
+      "Soviet space program": "Soviet Union † | Soviet space program | СССР Космическая программа | 1955 disbanded 25 Dec 1991",
+      "Agencia Espacial Española": "Spain | Agencia Espacial Española | AEE | 2023",
+      "Swedish National Space Agency": "Sweden | Swedish National Space Agency | SNSA | 1972",
+      "Swiss Space Office": "Switzerland | Swiss Space Office | SSO | 1998",
+      "Syrian Space Agency": "Syria | Syrian Space Agency | SSA | 18 Mar 2014",
+      "Taiwan Space Agency": "Taiwan | Taiwan Space Agency | TASA | 3 Oct 1991",
+      "Geo-Informatics and Space Technology Development Agency": "Thailand | Geo-Informatics and Space Technology Development Agency | GISTDA สทอภ | 3 Nov 2000",
+      "National Remote Sensing Center of Tunisia": "Tunisia | French: Centre national de la cartographie et de la télédétection (Arabic: المركز الوطني للإستشعار عن بعد) (National Remote Sensing Center of Tunisia) | CNCT | 1988",
+      "Turkish Space Agency (Türkiye Uzay Ajansı)": "Turkey | Turkish Space Agency (Türkiye Uzay Ajansı) | TUA | 1985 (TÜBİTAK UZAY) 13 Dec 2018 (TUA)",
+      "Turkmenistan National Space Agency": "Turkmenistan | Turkmenistan National Space Agency | TNSA | 2011",
+      "State Space Agency of Ukraine": "Ukraine | State Space Agency of Ukraine | SSAU | 2 Mar 1992",
+      "United Arab Emirates Space Agency": "United Arab Emirates | United Arab Emirates Space Agency | UAESA | 2014",
+      "UK Space Agency": "United Kingdom | UK Space Agency | UKSA | 1 Apr 2010",
+      "United Nations Committee on the Peaceful Uses of Outer Space": "United Nations | United Nations Committee on the Peaceful Uses of Outer Space | UNCOPUOS | 12 Dec 1959",
+      "United Nations Office for Outer Space Affairs": "United Nations | United Nations Office for Outer Space Affairs | UNOOSA | 13 Dec 1958",
+      "National Aeronautics and Space Administration": "United States | National Aeronautics and Space Administration | NASA | 29 Jul 1958",
+      "The Space Research and Technology Agency under the Ministry of Digital Technologies of the Republic of Uzbekistan": "Uzbekistan | The Space Research and Technology Agency under the Ministry of Digital Technologies of the Republic of Uzbekistan | Uzcosmos | 30 Aug 2019",
+      "Bolivarian Agency for Space Activities": "Bolivia | Bolivarian Agency for Space Activities | ABAE | 1 Jan 2008",
+      "Vietnam National Space Center": "Vietnam | Vietnam National Space Center | TTVTVN or VNSC VAST-VNSC | 20 Nov 2006",
+      "California Space Authority": "United States | California | California Space Authority | 1996 (CSTA) 2001 (CSA) disbanded 10 Jun 2011",
+      "Space Florida": "United States | Florida | Space Florida | 1989 (FSA) 1 Sep 2006 (Space Florida)",
+      "New Mexico Spaceport Authority": "United States | New Mexico | New Mexico Spaceport Authority | Feb 2011",
+      "Oklahoma Space Industry Development Authority": "United States | Oklahoma | Oklahoma Space Industry Development Authority | 2006",
+      "Virginia Spaceport Authority": "United States | Virginia | Virginia Spaceport Authority | 1 Jul 1996",
+      "K-Space Trivandrum": "India | Kerala | K-Space Trivandrum | 1 Jul 2019"
+    },
+    "issues": []
+  }
+}

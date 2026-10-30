@@ -1,0 +1,365 @@
+{
+  "question": {
+    "id": "space-songs",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a song with space, a planet, the Moon, stars or rockets in its title.",
+    "answerSet": "open",
+    "criteria": "Any commercially released song whose title contains “space,” a planet’s name, “moon,” “star” or “rocket,” including plurals and compound words.",
+    "answers": [
+      {
+        "id": "space-oddity",
+        "canonical": "Space Oddity",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Oddity is a David Bowie song that introduces the fictional astronaut Major Tom.",
+        "sourceIds": []
+      },
+      {
+        "id": "rocket-man",
+        "canonical": "Rocket Man",
+        "aliases": [
+          "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+        ],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rocket Man is a song by Elton John.",
+        "sourceIds": []
+      },
+      {
+        "id": "fly-me-to-the-moon",
+        "canonical": "Fly Me to the Moon",
+        "aliases": [
+          "In Other Words"
+        ],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fly Me to the Moon is a popular standard famously recorded by Frank Sinatra.",
+        "sourceIds": []
+      },
+      {
+        "id": "counting-stars",
+        "canonical": "Counting Stars",
+        "aliases": [],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Counting Stars is a song by OneRepublic.",
+        "sourceIds": []
+      },
+      {
+        "id": "a-sky-full-of-stars",
+        "canonical": "A Sky Full of Stars",
+        "aliases": [
+          "Sky Full of Stars"
+        ],
+        "familiarity": 0.0812,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A Sky Full of Stars is a song by Coldplay.",
+        "sourceIds": []
+      },
+      {
+        "id": "life-on-mars",
+        "canonical": "Life on Mars?",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Life on Mars? is a song by David Bowie.",
+        "sourceIds": []
+      },
+      {
+        "id": "drops-of-jupiter",
+        "canonical": "Drops of Jupiter",
+        "aliases": [
+          "Drops of Jupiter (Tell Me)"
+        ],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drops of Jupiter is a song by Train.",
+        "sourceIds": []
+      },
+      {
+        "id": "venus",
+        "canonical": "Venus",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venus is a Shocking Blue song that was later covered by Bananarama.",
+        "sourceIds": []
+      },
+      {
+        "id": "saturn",
+        "canonical": "Saturn",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saturn is a song by SZA.",
+        "sourceIds": []
+      },
+      {
+        "id": "moon-river",
+        "canonical": "Moon River",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moon River is a song performed by Audrey Hepburn in Breakfast at Tiffany's.",
+        "sourceIds": []
+      },
+      {
+        "id": "blue-moon",
+        "canonical": "Blue Moon",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blue Moon is a standard written by Richard Rodgers and Lorenz Hart and recorded by many artists.",
+        "sourceIds": []
+      },
+      {
+        "id": "bad-moon-rising",
+        "canonical": "Bad Moon Rising",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad Moon Rising is a song by Creedence Clearwater Revival.",
+        "sourceIds": []
+      },
+      {
+        "id": "walking-on-the-moon",
+        "canonical": "Walking on the Moon",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walking on the Moon is a song by the Police.",
+        "sourceIds": []
+      },
+      {
+        "id": "man-on-the-moon",
+        "canonical": "Man on the Moon",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Man on the Moon is a song by R.E.M.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-cowboy",
+        "canonical": "Space Cowboy",
+        "aliases": [],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Cowboy is a song by Jamiroquai.",
+        "sourceIds": []
+      },
+      {
+        "id": "talking-to-the-moon",
+        "canonical": "Talking to the Moon",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Talking to the Moon is a song by Bruno Mars.",
+        "sourceIds": []
+      },
+      {
+        "id": "all-the-stars",
+        "canonical": "All the Stars",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "All the Stars is a song by Kendrick Lamar and SZA from the Black Panther soundtrack.",
+        "sourceIds": []
+      },
+      {
+        "id": "starman",
+        "canonical": "Starman",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Starman is a song by David Bowie.",
+        "sourceIds": []
+      },
+      {
+        "id": "earth-song",
+        "canonical": "Earth Song",
+        "aliases": [],
+        "familiarity": 0.0325,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earth Song is a song by Michael Jackson.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-truckin",
+        "canonical": "Space Truckin'",
+        "aliases": [
+          "Space Trucking"
+        ],
+        "familiarity": 0.0097,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Truckin' is a song by Deep Purple.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-is-the-place",
+        "canonical": "Space Is the Place",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Is the Place is the title track of an album by Sun Ra.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These titles span pop, rock, jazz and R&B, from lunar standards to songs named after planets. Different songs sharing a title count as the same typed answer.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "9d3631d90eaab63b",
+    "brief": "Name a popular song with space, a planet, the Moon, stars or rockets in its title.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Space Oddity": 3,
+      "Rocket Man": 3,
+      "Fly Me to the Moon": 3,
+      "Counting Stars": 3,
+      "A Sky Full of Stars": 3,
+      "Talking to the Moon": 2,
+      "All the Stars": 2,
+      "Starman": 2,
+      "Life on Mars?": 3,
+      "Drops of Jupiter": 3,
+      "Venus": 3,
+      "Saturn": 3,
+      "Moon River": 3,
+      "Blue Moon": 3,
+      "Bad Moon Rising": 3,
+      "Walking on the Moon": 3,
+      "Man on the Moon": 3,
+      "Earth Song": 2,
+      "Space Cowboy": 3,
+      "Space Truckin'": 2,
+      "Space Is the Place": 2
+    },
+    "droppedForVotes": {
+      "Planet Earth": 1,
+      "Another Girl, Another Planet": 1,
+      "Saturn 5": 1,
+      "Silver Rocket": 1,
+      "Lucky Star": 1,
+      "All of the Stars": 1,
+      "Starlight": 1,
+      "Space Song": 1,
+      "To the Moon & Back": 1,
+      "Harvest Moon": 1,
+      "Written in the Stars": 1,
+      "Shooting Star": 1,
+      "Venus and Mars": 1,
+      "Pluto": 1,
+      "Rocket Ride": 1,
+      "Jupiter": 1,
+      "Starboy": 1,
+      "Starships": 1,
+      "Dancing in the Moonlight": 1,
+      "Rewrite the Stars": 1,
+      "Space Jam": 1,
+      "Spaceman": 1,
+      "Moonlight": 1,
+      "Moonage Daydream": 1,
+      "The Killing Moon": 1,
+      "Black Star": 1,
+      "My Moon My Man": 1,
+      "The Moon Song": 1,
+      "Sisters of the Moon": 1,
+      "Moon Over Bourbon Street": 1
+    },
+    "verdicts": {
+      "Space Oddity": {
+        "verdict": "correct",
+        "reason": "David Bowie's commercially released song; its title contains “space.”"
+      },
+      "Rocket Man": {
+        "verdict": "correct",
+        "reason": "Elton John's commercially released song; its title contains “rocket.”"
+      },
+      "Fly Me to the Moon": {
+        "verdict": "correct",
+        "reason": "A widely recorded standard, including by Frank Sinatra; its title contains “moon.”"
+      },
+      "Counting Stars": {
+        "verdict": "correct",
+        "reason": "OneRepublic's commercially released song; its title contains “stars.”"
+      },
+      "A Sky Full of Stars": {
+        "verdict": "correct",
+        "reason": "Coldplay's commercially released song; its title contains “stars.”"
+      },
+      "Life on Mars?": {
+        "verdict": "correct",
+        "reason": "David Bowie's commercially released song; its title names Mars."
+      },
+      "Drops of Jupiter": {
+        "verdict": "correct",
+        "reason": "Train's commercially released song, also titled “Drops of Jupiter (Tell Me)”; its title names Jupiter."
+      },
+      "Venus": {
+        "verdict": "correct",
+        "reason": "A commercially released Shocking Blue song, later covered by Bananarama; its title names Venus."
+      },
+      "Saturn": {
+        "verdict": "correct",
+        "reason": "SZA's commercially released song; its title names Saturn."
+      },
+      "Moon River": {
+        "verdict": "correct",
+        "reason": "A commercially released standard performed by Audrey Hepburn in Breakfast at Tiffany's; its title contains “moon.”"
+      },
+      "Blue Moon": {
+        "verdict": "correct",
+        "reason": "A widely recorded Rodgers and Hart standard; its title contains “moon.”"
+      },
+      "Bad Moon Rising": {
+        "verdict": "correct",
+        "reason": "Creedence Clearwater Revival's commercially released song; its title contains “moon.”"
+      },
+      "Walking on the Moon": {
+        "verdict": "correct",
+        "reason": "The Police's commercially released song; its title contains “moon.”"
+      },
+      "Man on the Moon": {
+        "verdict": "correct",
+        "reason": "R.E.M.'s commercially released song; its title contains “moon.”"
+      },
+      "Space Cowboy": {
+        "verdict": "correct",
+        "reason": "Jamiroquai's commercially released song; its title contains “space.”"
+      },
+      "Talking to the Moon": {
+        "verdict": "correct",
+        "reason": "Bruno Mars's commercially released song; its title contains “moon.”"
+      },
+      "All the Stars": {
+        "verdict": "correct",
+        "reason": "Kendrick Lamar and SZA's commercially released Black Panther soundtrack song; its title contains “stars.”"
+      },
+      "Starman": {
+        "verdict": "correct",
+        "reason": "David Bowie's commercially released song; “Starman” is a permitted compound containing “star.”"
+      },
+      "Earth Song": {
+        "verdict": "correct",
+        "reason": "Michael Jackson's commercially released song; its title names Earth, a planet."
+      },
+      "Space Truckin'": {
+        "verdict": "correct",
+        "reason": "Deep Purple's commercially released song; its title contains “space.”"
+      },
+      "Space Is the Place": {
+        "verdict": "correct",
+        "reason": "The title track of Sun Ra's commercially released album; its title contains “space.”"
+      }
+    },
+    "issues": []
+  }
+}

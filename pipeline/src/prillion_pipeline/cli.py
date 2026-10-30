@@ -250,7 +250,9 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
             _write(failed, result)
             out(f"FAILED {what} after {result.attempts} {unit}; inspect {failed}")
         else:
-            out(f"FAILED after {result.attempts} {unit}: no question produced")
+            # Keep why it failed (issues, votes, verdicts) so a reviewer need not pay to find out.
+            _write(failed, result)
+            out(f"FAILED after {result.attempts} {unit}: no question produced; reasons in {failed}")
         return Outcome(topic.id, "failed", 1)
 
     _write(target, result)

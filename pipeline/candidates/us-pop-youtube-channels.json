@@ -1,0 +1,208 @@
+{
+  "question": {
+    "id": "us-pop-youtube-channels",
+    "category": "us-pop",
+    "prompt": "Name a YouTube channel that held the most-subscribed spot for at least 24 hours between May 2006 and October 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "mrbeast",
+        "canonical": "MrBeast",
+        "aliases": [
+          "Mr Beast"
+        ],
+        "familiarity": 0.2028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "MrBeast is listed as taking the most-subscribed spot on June 2, 2024, and holding it for 880 days.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "pewdiepie",
+        "canonical": "PewDiePie",
+        "aliases": [
+          "Pew Die Pie",
+          "Felix Kjellberg"
+        ],
+        "familiarity": 0.2028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "PewDiePie held the most-subscribed spot four times, including a third reign of 1,920 days.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "t-series",
+        "canonical": "T-Series",
+        "aliases": [
+          "T Series",
+          "TSeries"
+        ],
+        "familiarity": 0.2028,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "T-Series is listed with two reigns, including one beginning April 14, 2019, that lasted 1,876 days.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "smosh",
+        "canonical": "Smosh",
+        "aliases": [],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smosh held the most-subscribed spot three times, including a 517-day reign beginning in April 2007.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "nigahiga",
+        "canonical": "nigahiga",
+        "aliases": [
+          "Ryan Higa"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "nigahiga held the most-subscribed spot twice, with its second reign lasting 675 days.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "ray-william-johnson",
+        "canonical": "Ray William Johnson",
+        "aliases": [
+          "RayWilliamJohnson",
+          "RWJ"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ray William Johnson held the most-subscribed spot for 564 days beginning June 26, 2011.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "f-ed",
+        "canonical": "FЯED",
+        "aliases": [
+          "Fred",
+          "Fred Figglehorn"
+        ],
+        "familiarity": 0.0811,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "FЯED held the most-subscribed spot for 318 days beginning October 6, 2008.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "youtube-spotlight",
+        "canonical": "YouTube Spotlight",
+        "aliases": [
+          "YouTube",
+          "YouTube's official channel"
+        ],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "YouTube Spotlight held the most-subscribed spot twice in 2013, including a 36-day reign beginning November 2.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "lonelygirl15",
+        "canonical": "lonelygirl15",
+        "aliases": [
+          "Lonely Girl 15"
+        ],
+        "familiarity": 0.0243,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "lonelygirl15 held the most-subscribed spot for 226 days beginning September 12, 2006.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "judson-laipply",
+        "canonical": "Judson Laipply",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Judson Laipply held the most-subscribed spot for approximately 21 days beginning around June 12, 2006.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "brookers",
+        "canonical": "Brookers",
+        "aliases": [
+          "Brooke Brodack"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brookers held the most-subscribed spot for approximately 43 days beginning around July 3, 2006.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      },
+      {
+        "id": "geriatric1927",
+        "canonical": "geriatric1927",
+        "aliases": [
+          "Geriatric 1927",
+          "Peter Oakley"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "geriatric1927 held the most-subscribed spot for 28 days beginning August 15, 2006.",
+        "sourceIds": [
+          "list-of-most-subscribed-youtube-channels"
+        ]
+      }
+    ],
+    "explanation": "Twelve different channels held YouTube's most-subscribed spot during this period, counting only reigns lasting at least 24 hours. Repeat reigns count as the same answer.",
+    "sources": [
+      {
+        "id": "list-of-most-subscribed-youtube-channels",
+        "title": "List of most-subscribed YouTube channels",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_most-subscribed_YouTube_channels",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "2dd72d81186abc1f",
+    "brief": "Name one of the most-subscribed YouTube channels.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-most-subscribed-youtube-channels",
+        "version": "1382476823",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "MrBeast": "MrBeast | June 2, 2024 | 880 |",
+      "PewDiePie": "PewDiePie (3) | December 23, 2013 | 1,920 |",
+      "T-Series": "T-Series (2) | April 14, 2019 | 1,876 |",
+      "Smosh": "Smosh (2) | April 26, 2007 | 517 |",
+      "nigahiga": "nigahiga (2) | August 20, 2009 | 675 |",
+      "Ray William Johnson": "Ray William Johnson | June 26, 2011 | 564 |",
+      "FЯED": "FЯED | October 6, 2008 | 318 |",
+      "YouTube Spotlight": "YouTube Spotlight (1) | November 2, 2013 | 36 |",
+      "lonelygirl15": "lonelygirl15 | September 12, 2006 | 226 |",
+      "Judson Laipply": "Judson Laipply | c. June 12, 2006 | ~21 |",
+      "Brookers": "Brookers | c. July 3, 2006 | ~43 |",
+      "geriatric1927": "geriatric1927 | August 15, 2006 | 28 |"
+    },
+    "issues": []
+  }
+}

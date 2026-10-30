@@ -112,7 +112,7 @@ describe('playing a full round through the UI', () => {
 
       // Reveal: rank for the answer's rarity, points, accepted answers, explanation.
       // Focus moves to the continue button so Enter keeps the dive going.
-      expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
+      expect(screen.getByRole('heading', { level: 2, name: 'Tier 1' })).toBeInTheDocument();
       expect(screen.getByText('+100 PTS · sink 200m')).toBeInTheDocument();
       expect(screen.getByText('All accepted answers')).toBeInTheDocument();
       expect(screen.getByText('test explanation')).toBeInTheDocument();
@@ -195,7 +195,7 @@ describe('playing a full round through the UI', () => {
     await user.clear(input);
     expect(screen.queryByText(/no signal/)).not.toBeInTheDocument();
     await user.type(input, `${CORRECT}{Enter}`);
-    expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Tier 1' })).toBeInTheDocument();
   });
 
   it('allows several wrong attempts before the right one', async () => {
@@ -230,7 +230,7 @@ describe('timer', () => {
       vi.advanceTimersByTime((DEFAULT_SECONDS_PER_QUESTION + 1) * 1000);
     });
 
-    expect(screen.getByRole('heading', { level: 2, name: 'Empty Hook' })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Miss' })).toBeInTheDocument();
     expect(screen.getByText('+0 PTS')).toBeInTheDocument();
   });
 
@@ -259,8 +259,8 @@ describe('timer', () => {
     // The player returns and submits before any tick has had a chance to notice.
     fireEvent.submit(screen.getByLabelText('Your answer').closest('form')!);
 
-    expect(screen.getByRole('heading', { level: 2, name: 'Empty Hook' })).toBeInTheDocument();
-    expect(screen.queryByRole('heading', { level: 2, name: 'Starfish' })).not.toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Miss' })).toBeInTheDocument();
+    expect(screen.queryByRole('heading', { level: 2, name: 'Tier 1' })).not.toBeInTheDocument();
     clock.mockRestore();
   });
 
@@ -275,7 +275,7 @@ describe('timer', () => {
     nowMs += DEFAULT_SECONDS_PER_QUESTION * 1000 - 1;
     fireEvent.submit(screen.getByLabelText('Your answer').closest('form')!);
 
-    expect(screen.getByRole('heading', { level: 2, name: 'Starfish' })).toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Tier 1' })).toBeInTheDocument();
     clock.mockRestore();
   });
 });

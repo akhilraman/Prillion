@@ -1,0 +1,398 @@
+{
+  "question": {
+    "id": "space-companies",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a company working in the space industry, such as launch, satellites, or space travel.",
+    "answerSet": "open",
+    "criteria": "A real company that develops, manufactures, or operates rockets, spacecraft, or satellites. Government space agencies do not count.",
+    "answers": [
+      {
+        "id": "spacex",
+        "canonical": "SpaceX",
+        "aliases": [
+          "Space Exploration Technologies"
+        ],
+        "familiarity": 0.1265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SpaceX develops and operates rockets and spacecraft and operates the Starlink satellite constellation.",
+        "sourceIds": []
+      },
+      {
+        "id": "blue-origin",
+        "canonical": "Blue Origin",
+        "aliases": [],
+        "familiarity": 0.1265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blue Origin develops rockets and spacecraft for commercial spaceflight.",
+        "sourceIds": []
+      },
+      {
+        "id": "virgin-galactic",
+        "canonical": "Virgin Galactic",
+        "aliases": [],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Virgin Galactic develops and operates spacecraft for suborbital human spaceflight.",
+        "sourceIds": []
+      },
+      {
+        "id": "boeing",
+        "canonical": "Boeing",
+        "aliases": [
+          "The Boeing Company"
+        ],
+        "familiarity": 0.1265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Boeing builds spacecraft and major components for space launch systems.",
+        "sourceIds": []
+      },
+      {
+        "id": "lockheed-martin",
+        "canonical": "Lockheed Martin",
+        "aliases": [
+          "Lockheed"
+        ],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lockheed Martin builds satellites and spacecraft, including the Orion crew capsule.",
+        "sourceIds": []
+      },
+      {
+        "id": "northrop-grumman",
+        "canonical": "Northrop Grumman",
+        "aliases": [
+          "Northrop"
+        ],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Northrop Grumman builds satellites, rocket systems, and the Cygnus cargo spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "rocket-lab",
+        "canonical": "Rocket Lab",
+        "aliases": [],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rocket Lab develops launch vehicles and builds spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "airbus",
+        "canonical": "Airbus",
+        "aliases": [
+          "Airbus Defence and Space",
+          "Airbus Defense and Space"
+        ],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Airbus manufactures satellites and spacecraft through its defence and space business.",
+        "sourceIds": []
+      },
+      {
+        "id": "united-launch-alliance",
+        "canonical": "United Launch Alliance",
+        "aliases": [
+          "ULA"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "United Launch Alliance builds and operates rockets that launch payloads into space.",
+        "sourceIds": []
+      },
+      {
+        "id": "arianespace",
+        "canonical": "Arianespace",
+        "aliases": [],
+        "familiarity": 0.0506,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arianespace provides commercial launch services using European launch vehicles.",
+        "sourceIds": []
+      },
+      {
+        "id": "sierra-space",
+        "canonical": "Sierra Space",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sierra Space develops the Dream Chaser spaceplane and commercial space infrastructure.",
+        "sourceIds": []
+      },
+      {
+        "id": "firefly-aerospace",
+        "canonical": "Firefly Aerospace",
+        "aliases": [
+          "Firefly"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Firefly Aerospace develops launch vehicles and spacecraft, including lunar landers.",
+        "sourceIds": []
+      },
+      {
+        "id": "relativity-space",
+        "canonical": "Relativity Space",
+        "aliases": [
+          "Relativity"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Relativity Space develops orbital launch vehicles using additive manufacturing.",
+        "sourceIds": []
+      },
+      {
+        "id": "planet-labs",
+        "canonical": "Planet Labs",
+        "aliases": [
+          "Planet"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Planet Labs builds and operates Earth-imaging satellites.",
+        "sourceIds": []
+      },
+      {
+        "id": "iridium",
+        "canonical": "Iridium",
+        "aliases": [
+          "Iridium Communications"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iridium operates a satellite constellation providing communications services.",
+        "sourceIds": []
+      },
+      {
+        "id": "eutelsat",
+        "canonical": "Eutelsat",
+        "aliases": [
+          "Eutelsat Group",
+          "Eutelsat Communications"
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eutelsat operates satellites that provide broadcasting and communications services.",
+        "sourceIds": []
+      },
+      {
+        "id": "ses",
+        "canonical": "SES",
+        "aliases": [
+          "SES S.A."
+        ],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SES operates communications satellites in geostationary and medium Earth orbits.",
+        "sourceIds": []
+      },
+      {
+        "id": "pld-space",
+        "canonical": "PLD Space",
+        "aliases": [
+          "Payload Aerospace",
+          "PLD"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "PLD Space is a Spanish company developing launch vehicles in its Miura rocket family.",
+        "sourceIds": []
+      },
+      {
+        "id": "intuitive-machines",
+        "canonical": "Intuitive Machines",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Intuitive Machines develops lunar landers and provides lunar delivery services.",
+        "sourceIds": []
+      },
+      {
+        "id": "thales-alenia-space",
+        "canonical": "Thales Alenia Space",
+        "aliases": [],
+        "familiarity": 0.0152,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thales Alenia Space manufactures satellites and modules for space stations.",
+        "sourceIds": []
+      },
+      {
+        "id": "astroscale",
+        "canonical": "Astroscale",
+        "aliases": [],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Astroscale develops spacecraft for satellite servicing and orbital debris removal.",
+        "sourceIds": []
+      },
+      {
+        "id": "ispace",
+        "canonical": "ispace",
+        "aliases": [
+          "ispace inc"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ispace is a Japanese company that develops lunar landers and lunar exploration services.",
+        "sourceIds": []
+      },
+      {
+        "id": "gilmour-space-technologies",
+        "canonical": "Gilmour Space Technologies",
+        "aliases": [
+          "Gilmour Space"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gilmour Space Technologies is an Australian company developing launch vehicles and satellites.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space companies include rocket builders, satellite manufacturers and operators, and businesses developing commercial spaceflight. NASA and other government space agencies are not companies.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "94f49e78be2039fc",
+    "brief": "Name a company working in the space industry, such as launch, satellites or space travel.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "SpaceX": 3,
+      "Blue Origin": 3,
+      "Virgin Galactic": 3,
+      "Boeing": 3,
+      "Lockheed Martin": 3,
+      "Northrop Grumman": 3,
+      "Rocket Lab": 3,
+      "Airbus": 3,
+      "United Launch Alliance": 3,
+      "Arianespace": 3,
+      "Sierra Space": 3,
+      "Firefly Aerospace": 3,
+      "Relativity Space": 3,
+      "Intuitive Machines": 2,
+      "Planet Labs": 3,
+      "Iridium": 3,
+      "Eutelsat": 3,
+      "SES": 3,
+      "Thales Alenia Space": 2,
+      "Astroscale": 2,
+      "ispace": 2,
+      "PLD Space": 3,
+      "Gilmour Space Technologies": 2
+    },
+    "droppedForVotes": {
+      "Axiom Space": 1,
+      "Maxar": 1,
+      "MDA Space": 1,
+      "OHB": 1,
+      "Astrobotic": 1,
+      "Skyroot Aerospace": 1,
+      "Agnikul Cosmos": 1,
+      "Telesat": 1,
+      "Isar Aerospace": 1,
+      "GomSpace": 1,
+      "AAC Clyde Space": 1,
+      "Surrey Satellite Technology": 1
+    },
+    "verdicts": {
+      "SpaceX": {
+        "verdict": "correct",
+        "reason": "Develops and operates rockets, spacecraft, and the Starlink satellite constellation."
+      },
+      "Blue Origin": {
+        "verdict": "correct",
+        "reason": "Develops and manufactures rockets and spacecraft for commercial spaceflight."
+      },
+      "Virgin Galactic": {
+        "verdict": "correct",
+        "reason": "Develops and operates spacecraft for commercial suborbital spaceflight."
+      },
+      "Boeing": {
+        "verdict": "correct",
+        "reason": "Builds spacecraft, satellites, and major launch-system components."
+      },
+      "Lockheed Martin": {
+        "verdict": "correct",
+        "reason": "Manufactures satellites and spacecraft, including Orion."
+      },
+      "Northrop Grumman": {
+        "verdict": "correct",
+        "reason": "Builds satellites, rocket systems, and the Cygnus cargo spacecraft."
+      },
+      "Rocket Lab": {
+        "verdict": "correct",
+        "reason": "Develops and operates launch vehicles and manufactures spacecraft."
+      },
+      "Airbus": {
+        "verdict": "correct",
+        "reason": "Manufactures satellites and spacecraft through Airbus Defence and Space."
+      },
+      "United Launch Alliance": {
+        "verdict": "correct",
+        "reason": "Builds and operates orbital launch vehicles."
+      },
+      "Arianespace": {
+        "verdict": "correct",
+        "reason": "A commercial company providing and operating satellite launch services."
+      },
+      "Sierra Space": {
+        "verdict": "correct",
+        "reason": "Develops the Dream Chaser spaceplane and commercial space infrastructure."
+      },
+      "Firefly Aerospace": {
+        "verdict": "correct",
+        "reason": "Develops launch vehicles and spacecraft, including Blue Ghost lunar landers."
+      },
+      "Relativity Space": {
+        "verdict": "correct",
+        "reason": "Develops orbital launch vehicles using additive manufacturing."
+      },
+      "Planet Labs": {
+        "verdict": "correct",
+        "reason": "Builds and operates Earth-observation satellites."
+      },
+      "Iridium": {
+        "verdict": "correct",
+        "reason": "Operates a commercial communications satellite constellation."
+      },
+      "Eutelsat": {
+        "verdict": "correct",
+        "reason": "Operates commercial broadcasting and communications satellites."
+      },
+      "SES": {
+        "verdict": "correct",
+        "reason": "Operates communications satellites in geostationary and medium Earth orbits."
+      },
+      "PLD Space": {
+        "verdict": "correct",
+        "reason": "A Spanish company developing and manufacturing the Miura launch-vehicle family."
+      },
+      "Intuitive Machines": {
+        "verdict": "correct",
+        "reason": "Develops lunar landers and operates commercial lunar delivery missions."
+      },
+      "Thales Alenia Space": {
+        "verdict": "correct",
+        "reason": "Manufactures satellites, spacecraft, and space-station modules."
+      },
+      "Astroscale": {
+        "verdict": "correct",
+        "reason": "Develops spacecraft for orbital servicing and debris removal."
+      },
+      "ispace": {
+        "verdict": "correct",
+        "reason": "A Japanese company developing and operating lunar landers."
+      },
+      "Gilmour Space Technologies": {
+        "verdict": "correct",
+        "reason": "An Australian company developing launch vehicles and satellite platforms."
+      }
+    },
+    "issues": []
+  }
+}

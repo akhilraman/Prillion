@@ -1,0 +1,345 @@
+{
+  "question": {
+    "id": "us-pop-rappers",
+    "category": "us-pop",
+    "prompt": "Name a hip-hop musician whose name begins with the word “Young” followed by a space.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "young-b",
+        "canonical": "Young B",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young B is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-bleed",
+        "canonical": "Young Bleed",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Bleed is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-buck",
+        "canonical": "Young Buck",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Buck is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-chop",
+        "canonical": "Young Chop",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Chop is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-chris",
+        "canonical": "Young Chris",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Chris is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-dolph",
+        "canonical": "Young Dolph",
+        "aliases": [],
+        "familiarity": 0.1463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Dolph is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-dro",
+        "canonical": "Young Dro",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Dro is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-greatness",
+        "canonical": "Young Greatness",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Greatness is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-igi",
+        "canonical": "Young Igi",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Igi is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-jonn",
+        "canonical": "Young Jonn",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Jonn is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-k",
+        "canonical": "Young K",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young K is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-leosia",
+        "canonical": "Young Leosia",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Leosia is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-m-a",
+        "canonical": "Young M.A",
+        "aliases": [
+          "Young MA",
+          "Young M.A."
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young M.A is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-maylay",
+        "canonical": "Young Maylay",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Maylay is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-mc",
+        "canonical": "Young MC",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young MC is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-miko",
+        "canonical": "Young Miko",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Miko is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-music-dymg",
+        "canonical": "Young Music DYMG",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Music DYMG is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-noble",
+        "canonical": "Young Noble",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Noble is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-nudy",
+        "canonical": "Young Nudy",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Nudy is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-roddy",
+        "canonical": "Young Roddy",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Roddy is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-scooter",
+        "canonical": "Young Scooter",
+        "aliases": [],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Scooter is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-scrap",
+        "canonical": "Young Scrap",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Scrap is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-slo-be",
+        "canonical": "Young Slo-Be",
+        "aliases": [
+          "Young Slo Be",
+          "Young Slobe"
+        ],
+        "familiarity": 0.0176,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Slo-Be is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-thug",
+        "canonical": "Young Thug",
+        "aliases": [],
+        "familiarity": 0.1463,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Thug is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      },
+      {
+        "id": "young-zee",
+        "canonical": "Young Zee",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young Zee is listed as a hip-hop musician with a name beginning with “Young ”.",
+        "sourceIds": [
+          "list-of-hip-hop-musicians"
+        ]
+      }
+    ],
+    "explanation": "All these musicians appear under names starting with “Young ” in the supplied list. The space matters: “YoungBoy” and “Yung” names are different.",
+    "sources": [
+      {
+        "id": "list-of-hip-hop-musicians",
+        "title": "List of hip-hop musicians",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_hip-hop_musicians",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A musician listed in the supplied List of hip-hop musicians whose listed name starts with “Young ”; names beginning with “Yung” or “YoungBoy” do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "6d9c0fa786a74157",
+    "brief": "Name a rapper.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-hip-hop-musicians",
+        "version": "1382436256",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Young B": "Young B\nYoung Bleed",
+      "Young Bleed": "Young Bleed\nYoung Buck",
+      "Young Buck": "Young Buck\nYoung Chop",
+      "Young Chop": "Young Chop\nYoung Chris",
+      "Young Chris": "Young Chris\nYoung Dolph",
+      "Young Dolph": "Young Dolph\nYoung Dro",
+      "Young Dro": "Young Dro\nYoung Greatness",
+      "Young Greatness": "Young Greatness\nYoung Igi",
+      "Young Igi": "Young Igi\nYoung Jonn",
+      "Young Jonn": "Young Jonn\nYoung K",
+      "Young K": "Young K\nYoung Leosia",
+      "Young Leosia": "Young Leosia\nYoung M.A",
+      "Young M.A": "Young M.A\nYoung Maylay",
+      "Young Maylay": "Young Maylay\nYoung MC",
+      "Young MC": "Young MC\nYoung Miko",
+      "Young Miko": "Young Miko\nYoung Music DYMG",
+      "Young Music DYMG": "Young Music DYMG\nYoung Noble",
+      "Young Noble": "Young Noble\nYoung Nudy",
+      "Young Nudy": "Young Nudy\nYoung Roddy",
+      "Young Roddy": "Young Roddy\nYoung Scooter",
+      "Young Scooter": "Young Scooter\nYoung Scrap",
+      "Young Scrap": "Young Scrap\nYoung Slo-Be",
+      "Young Slo-Be": "Young Slo-Be\nYoung Thug",
+      "Young Thug": "Young Thug\nYoung Zee",
+      "Young Zee": "Young Zee\nYoungBoy Never Broke Again"
+    },
+    "issues": []
+  }
+}

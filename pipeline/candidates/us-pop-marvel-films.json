@@ -1,0 +1,627 @@
+{
+  "question": {
+    "id": "us-pop-marvel-films",
+    "category": "us-pop",
+    "prompt": "Name a released Marvel Cinematic Universe (MCU) film.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "iron-man",
+        "canonical": "Iron Man",
+        "aliases": [
+          "Iron Man 1",
+          "Ironman"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Iron Man as a Phase One MCU film released in 2008.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "the-incredible-hulk",
+        "canonical": "The Incredible Hulk",
+        "aliases": [
+          "Incredible Hulk",
+          "Hulk 2008"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists The Incredible Hulk as a Phase One MCU film released in 2008.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "iron-man-2",
+        "canonical": "Iron Man 2",
+        "aliases": [
+          "Ironman 2",
+          "Iron Man II"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Iron Man 2 as a Phase One MCU film released in 2010.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "thor",
+        "canonical": "Thor",
+        "aliases": [
+          "Thor 1"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Thor as a Phase One MCU film released in 2011.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "captain-america-the-first-avenger",
+        "canonical": "Captain America: The First Avenger",
+        "aliases": [
+          "Captain America 1",
+          "The First Avenger",
+          "Captain America The First Avenger"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Captain America: The First Avenger as a Phase One MCU film released in 2011.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "the-avengers",
+        "canonical": "The Avengers",
+        "aliases": [
+          "Avengers",
+          "Avengers 1",
+          "The Avengers 2012"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists The Avengers as a Phase One MCU film released in 2012.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "iron-man-3",
+        "canonical": "Iron Man 3",
+        "aliases": [
+          "Ironman 3",
+          "Iron Man III"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Iron Man 3 as a Phase Two MCU film released in 2013.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "thor-the-dark-world",
+        "canonical": "Thor: The Dark World",
+        "aliases": [
+          "Thor 2",
+          "The Dark World",
+          "Thor The Dark World"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Thor: The Dark World as a Phase Two MCU film released in 2013.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "captain-america-the-winter-soldier",
+        "canonical": "Captain America: The Winter Soldier",
+        "aliases": [
+          "Captain America 2",
+          "The Winter Soldier",
+          "Winter Soldier"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Captain America: The Winter Soldier as a Phase Two MCU film released in 2014.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "guardians-of-the-galaxy",
+        "canonical": "Guardians of the Galaxy",
+        "aliases": [
+          "Guardians of the Galaxy 1",
+          "GOTG",
+          "GOTG 1"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Guardians of the Galaxy as a Phase Two MCU film released in 2014.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "avengers-age-of-ultron",
+        "canonical": "Avengers: Age of Ultron",
+        "aliases": [
+          "Age of Ultron",
+          "Avengers 2",
+          "Avengers Age of Ultron"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Avengers: Age of Ultron as a Phase Two MCU film released in 2015.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "ant-man",
+        "canonical": "Ant-Man",
+        "aliases": [
+          "Ant Man",
+          "Antman",
+          "Ant-Man 1"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Ant-Man as a Phase Two MCU film released in 2015.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "captain-america-civil-war",
+        "canonical": "Captain America: Civil War",
+        "aliases": [
+          "Civil War",
+          "Captain America 3",
+          "Captain America Civil War"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Captain America: Civil War as a Phase Three MCU film released in 2016.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "doctor-strange",
+        "canonical": "Doctor Strange",
+        "aliases": [
+          "Dr Strange",
+          "Doctor Strange 1"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Doctor Strange as a Phase Three MCU film released in 2016.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "guardians-of-the-galaxy-vol-2",
+        "canonical": "Guardians of the Galaxy Vol. 2",
+        "aliases": [
+          "Guardians of the Galaxy 2",
+          "Guardians of the Galaxy Volume 2",
+          "GOTG 2"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Guardians of the Galaxy Vol. 2 as a Phase Three MCU film released in 2017.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "spider-man-homecoming",
+        "canonical": "Spider-Man: Homecoming",
+        "aliases": [
+          "Spider Man Homecoming",
+          "Spiderman Homecoming",
+          "Homecoming"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Spider-Man: Homecoming as a Phase Three MCU film released in 2017.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "thor-ragnarok",
+        "canonical": "Thor: Ragnarok",
+        "aliases": [
+          "Thor Ragnarok",
+          "Ragnarok",
+          "Thor 3"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Thor: Ragnarok as a Phase Three MCU film released in 2017.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "black-panther",
+        "canonical": "Black Panther",
+        "aliases": [
+          "Black Panther 1"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Black Panther as a Phase Three MCU film released in 2018.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "avengers-infinity-war",
+        "canonical": "Avengers: Infinity War",
+        "aliases": [
+          "Infinity War",
+          "Avengers Infinity War",
+          "Avengers 3"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Avengers: Infinity War as a Phase Three MCU film released in 2018.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "ant-man-and-the-wasp",
+        "canonical": "Ant-Man and the Wasp",
+        "aliases": [
+          "Ant Man and the Wasp",
+          "Ant-Man 2",
+          "Antman and the Wasp"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Ant-Man and the Wasp as a Phase Three MCU film released in 2018.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "captain-marvel",
+        "canonical": "Captain Marvel",
+        "aliases": [
+          "Captain Marvel 1"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Captain Marvel as a Phase Three MCU film released in 2019.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "avengers-endgame",
+        "canonical": "Avengers: Endgame",
+        "aliases": [
+          "Endgame",
+          "Avengers Endgame",
+          "Avengers 4"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Avengers: Endgame as a Phase Three MCU film released in 2019.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "spider-man-far-from-home",
+        "canonical": "Spider-Man: Far From Home",
+        "aliases": [
+          "Spider Man Far From Home",
+          "Spiderman Far From Home",
+          "Far From Home"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Spider-Man: Far From Home as a Phase Three MCU film released in 2019.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "black-widow",
+        "canonical": "Black Widow",
+        "aliases": [
+          "Black Widow 2021"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Black Widow as a Phase Four MCU film released in 2021.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "shang-chi-and-the-legend-of-the-ten-rings",
+        "canonical": "Shang-Chi and the Legend of the Ten Rings",
+        "aliases": [
+          "Shang-Chi",
+          "Shang Chi",
+          "Shang Chi and the Legend of the Ten Rings"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Shang-Chi and the Legend of the Ten Rings as a Phase Four MCU film released in 2021.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "eternals",
+        "canonical": "Eternals",
+        "aliases": [
+          "The Eternals"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Eternals as a Phase Four MCU film released in 2021.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "spider-man-no-way-home",
+        "canonical": "Spider-Man: No Way Home",
+        "aliases": [
+          "Spider Man No Way Home",
+          "Spiderman No Way Home",
+          "No Way Home"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Spider-Man: No Way Home as a Phase Four MCU film released in 2021.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "doctor-strange-in-the-multiverse-of-madness",
+        "canonical": "Doctor Strange in the Multiverse of Madness",
+        "aliases": [
+          "Doctor Strange 2",
+          "Multiverse of Madness",
+          "Dr Strange in the Multiverse of Madness"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Doctor Strange in the Multiverse of Madness as a Phase Four MCU film released in 2022.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "thor-love-and-thunder",
+        "canonical": "Thor: Love and Thunder",
+        "aliases": [
+          "Thor Love and Thunder",
+          "Love and Thunder",
+          "Thor 4"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Thor: Love and Thunder as a Phase Four MCU film released in 2022.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "black-panther-wakanda-forever",
+        "canonical": "Black Panther: Wakanda Forever",
+        "aliases": [
+          "Wakanda Forever",
+          "Black Panther 2",
+          "Black Panther Wakanda Forever"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Black Panther: Wakanda Forever as a Phase Four MCU film released in 2022.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "ant-man-and-the-wasp-quantumania",
+        "canonical": "Ant-Man and the Wasp: Quantumania",
+        "aliases": [
+          "Quantumania",
+          "Ant-Man 3",
+          "Ant Man and the Wasp Quantumania"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Ant-Man and the Wasp: Quantumania as a Phase Five MCU film released in 2023.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "guardians-of-the-galaxy-vol-3",
+        "canonical": "Guardians of the Galaxy Vol. 3",
+        "aliases": [
+          "Guardians of the Galaxy 3",
+          "Guardians of the Galaxy Volume 3",
+          "GOTG 3"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Guardians of the Galaxy Vol. 3 as a Phase Five MCU film released in 2023.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "the-marvels",
+        "canonical": "The Marvels",
+        "aliases": [
+          "Marvels",
+          "Captain Marvel 2"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists The Marvels as a Phase Five MCU film released in 2023.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "deadpool-wolverine",
+        "canonical": "Deadpool & Wolverine",
+        "aliases": [
+          "Deadpool and Wolverine",
+          "Deadpool 3"
+        ],
+        "familiarity": 0.0537,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Deadpool & Wolverine as a Phase Five MCU film released in 2024.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "captain-america-brave-new-world",
+        "canonical": "Captain America: Brave New World",
+        "aliases": [
+          "Brave New World",
+          "Captain America 4",
+          "Captain America Brave New World"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Captain America: Brave New World as a Phase Five MCU film released in 2025.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "thunderbolts",
+        "canonical": "Thunderbolts*",
+        "aliases": [
+          "Thunderbolts"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Thunderbolts* as a Phase Five MCU film released in 2025.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "the-fantastic-four-first-steps",
+        "canonical": "The Fantastic Four: First Steps",
+        "aliases": [
+          "Fantastic Four First Steps",
+          "First Steps",
+          "Fantastic 4 First Steps"
+        ],
+        "familiarity": 0.0064,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly marks The Fantastic Four: First Steps as a released Phase Six MCU film.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      },
+      {
+        "id": "spider-man-brand-new-day",
+        "canonical": "Spider-Man: Brand New Day",
+        "aliases": [
+          "Spider Man Brand New Day",
+          "Spiderman Brand New Day",
+          "Brand New Day"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly marks Spider-Man: Brand New Day as a released Phase Six MCU film.",
+        "sourceIds": [
+          "list-of-marvel-cinematic-universe-films"
+        ]
+      }
+    ],
+    "explanation": "The supplied list identifies 38 released MCU films, spanning Phase One through the first two films of Phase Six. Films still in development or production are not included.",
+    "sources": [
+      {
+        "id": "list-of-marvel-cinematic-universe-films",
+        "title": "List of Marvel Cinematic Universe films",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "81a52068f41ff070",
+    "brief": "Name a Marvel Cinematic Universe film.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-marvel-cinematic-universe-films",
+        "version": "1382394119",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Iron Man": "Iron Man | May 2, 2008 (2008-05-02)",
+      "The Incredible Hulk": "The Incredible Hulk | June 13, 2008 (2008-06-13)",
+      "Iron Man 2": "Iron Man 2 | May 7, 2010 (2010-05-07)",
+      "Thor": "Thor | May 6, 2011 (2011-05-06)",
+      "Captain America: The First Avenger": "Captain America: The First Avenger | July 22, 2011 (2011-07-22)",
+      "The Avengers": "The Avengers | May 4, 2012 (2012-05-04)",
+      "Iron Man 3": "Iron Man 3 | May 3, 2013 (2013-05-03)",
+      "Thor: The Dark World": "Thor: The Dark World | November 8, 2013 (2013-11-08)",
+      "Captain America: The Winter Soldier": "Captain America: The Winter Soldier | April 4, 2014 (2014-04-04)",
+      "Guardians of the Galaxy": "Guardians of the Galaxy | August 1, 2014 (2014-08-01)",
+      "Avengers: Age of Ultron": "Avengers: Age of Ultron | May 1, 2015 (2015-05-01)",
+      "Ant-Man": "Ant-Man | July 17, 2015 (2015-07-17)",
+      "Captain America: Civil War": "Captain America: Civil War | May 6, 2016 (2016-05-06)",
+      "Doctor Strange": "Doctor Strange | November 4, 2016 (2016-11-04)",
+      "Guardians of the Galaxy Vol. 2": "Guardians of the Galaxy Vol. 2 | May 5, 2017 (2017-05-05)",
+      "Spider-Man: Homecoming": "Spider-Man: Homecoming | July 7, 2017 (2017-07-07)",
+      "Thor: Ragnarok": "Thor: Ragnarok | November 3, 2017 (2017-11-03)",
+      "Black Panther": "Black Panther | February 16, 2018 (2018-02-16)",
+      "Avengers: Infinity War": "Avengers: Infinity War | April 27, 2018 (2018-04-27)",
+      "Ant-Man and the Wasp": "Ant-Man and the Wasp | July 6, 2018 (2018-07-06)",
+      "Captain Marvel": "Captain Marvel | March 8, 2019 (2019-03-08)",
+      "Avengers: Endgame": "Avengers: Endgame | April 26, 2019 (2019-04-26)",
+      "Spider-Man: Far From Home": "Spider-Man: Far From Home | July 2, 2019 (2019-07-02)",
+      "Black Widow": "Black Widow | July 9, 2021 (2021-07-09)",
+      "Shang-Chi and the Legend of the Ten Rings": "Shang-Chi and the Legend of the Ten Rings | September 3, 2021 (2021-09-03)",
+      "Eternals": "Eternals | November 5, 2021 (2021-11-05)",
+      "Spider-Man: No Way Home": "Spider-Man: No Way Home | December 17, 2021 (2021-12-17)",
+      "Doctor Strange in the Multiverse of Madness": "Doctor Strange in the Multiverse of Madness | May 6, 2022 (2022-05-06)",
+      "Thor: Love and Thunder": "Thor: Love and Thunder | July 8, 2022 (2022-07-08)",
+      "Black Panther: Wakanda Forever": "Black Panther: Wakanda Forever | November 11, 2022 (2022-11-11)",
+      "Ant-Man and the Wasp: Quantumania": "Ant-Man and the Wasp: Quantumania | February 17, 2023 (2023-02-17)",
+      "Guardians of the Galaxy Vol. 3": "Guardians of the Galaxy Vol. 3 | May 5, 2023 (2023-05-05)",
+      "The Marvels": "The Marvels | November 10, 2023 (2023-11-10)",
+      "Deadpool & Wolverine": "Deadpool & Wolverine | July 26, 2024 (2024-07-26)",
+      "Captain America: Brave New World": "Captain America: Brave New World | February 14, 2025 (2025-02-14)",
+      "Thunderbolts*": "Thunderbolts* | May 2, 2025 (2025-05-02)",
+      "The Fantastic Four: First Steps": "The Fantastic Four: First Steps | July 25, 2025 (2025-07-25) | Matt Shakman | Josh Friedman and Eric Pearson and Jeff Kaplan & Ian Springer | Kevin Feige | Released",
+      "Spider-Man: Brand New Day": "Spider-Man: Brand New Day | July 31, 2026 (2026-07-31) | Destin Daniel Cretton | Chris McKenna & Erik Sommers | Kevin Feige, Amy Pascal, Avi Arad, and Rachel O'Connor | Released"
+    },
+    "issues": []
+  }
+}

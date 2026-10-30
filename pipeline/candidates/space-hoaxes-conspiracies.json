@@ -1,0 +1,305 @@
+{
+  "question": {
+    "id": "space-hoaxes-conspiracies",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a widely documented space-related hoax, conspiracy theory, or viral internet myth.",
+    "answerSet": "open",
+    "criteria": "A documented hoax, conspiracy theory, or viral false claim about astronomy, spaceflight, or extraterrestrials. Genuine scientific hypotheses and fiction not presented as real do not count.",
+    "answers": [
+      {
+        "id": "moon-landing-hoax",
+        "canonical": "Moon landing hoax",
+        "aliases": [
+          "Moon landing conspiracy",
+          "Fake moon landing",
+          "Apollo hoax",
+          "Moon landings were faked",
+          "Faked Moon landings",
+          "Apollo landing hoax"
+        ],
+        "familiarity": 0.1981,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This conspiracy theory claims that the Apollo Moon landings were staged.",
+        "sourceIds": []
+      },
+      {
+        "id": "flat-earth",
+        "canonical": "Flat Earth",
+        "aliases": [
+          "Flat Earth theory",
+          "Flat Earthism",
+          "Flat Earth conspiracy"
+        ],
+        "familiarity": 0.1981,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Modern Flat Earth conspiracy theories reject Earth's spherical shape and commonly claim that space imagery is fabricated.",
+        "sourceIds": []
+      },
+      {
+        "id": "face-on-mars",
+        "canonical": "Face on Mars",
+        "aliases": [
+          "Mars face",
+          "Cydonia face",
+          "Martian face"
+        ],
+        "familiarity": 0.0793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Conspiracy claims portrayed a face-like Martian landform photographed by Viking as an artificial structure.",
+        "sourceIds": []
+      },
+      {
+        "id": "black-knight-satellite",
+        "canonical": "Black Knight satellite",
+        "aliases": [
+          "Black Knight",
+          "Black Knight satellite conspiracy"
+        ],
+        "familiarity": 0.0793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This conspiracy theory claims that an ancient extraterrestrial satellite orbits Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "hollow-moon",
+        "canonical": "Hollow Moon",
+        "aliases": [
+          "Hollow Moon theory",
+          "Spaceship Moon",
+          "Spaceship Moon theory",
+          "Spaceship Moon hypothesis"
+        ],
+        "familiarity": 0.0238,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This fringe theory claims that the Moon is hollow, with some versions describing it as an artificial spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "apollo-20-hoax",
+        "canonical": "Apollo 20 hoax",
+        "aliases": [
+          "Apollo 20",
+          "Secret Apollo 20 mission",
+          "Apollo 20 alien spaceship"
+        ],
+        "familiarity": 0.0238,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This internet video hoax purported to show a secret Apollo mission investigating an alien spacecraft on the Moon.",
+        "sourceIds": []
+      },
+      {
+        "id": "zero-gravity-day",
+        "canonical": "Zero Gravity Day",
+        "aliases": [
+          "Jovian-Plutonian gravitational effect",
+          "Planetary alignment gravity hoax",
+          "Jupiter Pluto gravity hoax",
+          "Patrick Moore gravity hoax"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "An April Fools' broadcast claimed that an alignment of Jupiter and Pluto would briefly reduce gravity on Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "nibiru-cataclysm",
+        "canonical": "Nibiru cataclysm",
+        "aliases": [
+          "Nibiru",
+          "Nibiru collision",
+          "Planet X apocalypse",
+          "Planet X conspiracy",
+          "Planet X doomsday"
+        ],
+        "familiarity": 0.0793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This doomsday conspiracy theory claims that a hidden planetary object will cause a catastrophe on Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "mars-hoax",
+        "canonical": "Mars hoax",
+        "aliases": [
+          "Two moons hoax",
+          "Mars spectacular",
+          "Mars as big as the Moon",
+          "Double moon hoax",
+          "August 27 Mars hoax"
+        ],
+        "familiarity": 0.0238,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This recurring viral hoax claims that Mars will appear as large as the full Moon in Earth's sky.",
+        "sourceIds": []
+      },
+      {
+        "id": "great-moon-hoax",
+        "canonical": "Great Moon Hoax",
+        "aliases": [
+          "1835 Moon hoax",
+          "New York Sun Moon hoax"
+        ],
+        "familiarity": 0.0238,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This newspaper hoax falsely reported the discovery of fantastic creatures and civilizations on the Moon.",
+        "sourceIds": []
+      },
+      {
+        "id": "nasa-blackout-hoax",
+        "canonical": "NASA blackout hoax",
+        "aliases": [
+          "15 days of darkness",
+          "Fifteen days of darkness",
+          "Six days of darkness",
+          "NASA darkness hoax",
+          "NASA days of darkness"
+        ],
+        "familiarity": 0.0238,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Recurring online hoaxes falsely claim that NASA has predicted several consecutive days of worldwide darkness.",
+        "sourceIds": []
+      },
+      {
+        "id": "project-serpo",
+        "canonical": "Project Serpo",
+        "aliases": [
+          "Serpo",
+          "Serpo exchange program"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This internet conspiracy narrative claims that humans participated in a secret exchange program with extraterrestrials.",
+        "sourceIds": []
+      },
+      {
+        "id": "alien-autopsy-film",
+        "canonical": "Alien autopsy film",
+        "aliases": [
+          "Alien autopsy",
+          "Roswell autopsy",
+          "Alien autopsy hoax",
+          "Roswell autopsy film"
+        ],
+        "familiarity": 0.0793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This staged film was promoted as footage of an autopsy on an extraterrestrial recovered at Roswell.",
+        "sourceIds": []
+      },
+      {
+        "id": "alternative-3",
+        "canonical": "Alternative 3",
+        "aliases": [
+          "Alternative Three"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This fictional television documentary presented a supposed secret space program and was subsequently treated as factual by some conspiracy believers.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These answers range from newspaper hoaxes to recurring internet rumors about NASA and aliens. They are included as documented false claims or conspiracy theories, not as established accounts of reality.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "12e59c3ff5b3c99a",
+    "brief": "Name a widely documented space-related hoax, conspiracy theory or viral internet myth (for example about moon landings, NASA or aliens).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Moon landing hoax": 3,
+      "Flat Earth": 3,
+      "Nibiru cataclysm": 2,
+      "Face on Mars": 3,
+      "Black Knight satellite": 3,
+      "Hollow Moon": 3,
+      "Mars hoax": 2,
+      "Great Moon Hoax": 2,
+      "Apollo 20 hoax": 3,
+      "NASA blackout hoax": 2,
+      "Zero Gravity Day": 3,
+      "Project Serpo": 2,
+      "Alien autopsy film": 2,
+      "Alternative 3": 2
+    },
+    "droppedForVotes": {
+      "2012 apocalypse": 1,
+      "Alien autopsy hoax": 1,
+      "Roswell cover-up": 1,
+      "Area 51 aliens": 1,
+      "Nibiru": 1,
+      "Mars as big as the Moon": 1,
+      "2012 galactic alignment": 1,
+      "Martian canals": 1,
+      "15 days of darkness": 1,
+      "Mars Bigfoot": 1,
+      "Mars rat": 1,
+      "Roswell alien spacecraft": 1,
+      "Green Moon hoax": 1,
+      "Comet Elenin doomsday": 1,
+      "Solar Warden": 1
+    },
+    "verdicts": {
+      "Moon landing hoax": {
+        "verdict": "correct",
+        "reason": "Widely documented conspiracy theory alleging that the Apollo Moon landings were staged."
+      },
+      "Flat Earth": {
+        "verdict": "correct",
+        "reason": "Modern Flat Earth conspiracies commonly reject established astronomy and allege that space photographs are fabricated."
+      },
+      "Face on Mars": {
+        "verdict": "correct",
+        "reason": "Viking imagery of a Martian landform generated widely documented claims of an artificial extraterrestrial structure."
+      },
+      "Black Knight satellite": {
+        "verdict": "correct",
+        "reason": "Documented conspiracy theory about an ancient extraterrestrial satellite supposedly orbiting Earth."
+      },
+      "Hollow Moon": {
+        "verdict": "correct",
+        "reason": "Documented fringe belief that the Moon is hollow, sometimes framed as an artificial alien spacecraft."
+      },
+      "Apollo 20 hoax": {
+        "verdict": "correct",
+        "reason": "Widely documented fabricated videos purported to depict a secret Apollo mission exploring an alien spacecraft."
+      },
+      "Zero Gravity Day": {
+        "verdict": "correct",
+        "reason": "Patrick Moore's 1976 April Fools' broadcast claimed a Jupiter–Pluto alignment would temporarily reduce apparent gravity."
+      },
+      "Nibiru cataclysm": {
+        "verdict": "correct",
+        "reason": "Widely documented doomsday claim involving a supposed hidden planet or planetary object threatening Earth."
+      },
+      "Mars hoax": {
+        "verdict": "correct",
+        "reason": "Recurring viral misinformation claims Mars will appear as large as the full Moon."
+      },
+      "Great Moon Hoax": {
+        "verdict": "correct",
+        "reason": "The documented 1835 newspaper hoax described imaginary lunar inhabitants and ecosystems as astronomical discoveries."
+      },
+      "NASA blackout hoax": {
+        "verdict": "correct",
+        "reason": "Recurring false online claims attribute predictions of several days of global darkness to NASA."
+      },
+      "Project Serpo": {
+        "verdict": "correct",
+        "reason": "Documented internet conspiracy narrative about a secret human–extraterrestrial exchange program."
+      },
+      "Alien autopsy film": {
+        "verdict": "correct",
+        "reason": "The widely documented staged film was promoted as authentic footage of an extraterrestrial autopsy associated with Roswell."
+      },
+      "Alternative 3": {
+        "verdict": "correct",
+        "reason": "A hoax television documentary presented a secret space-program narrative as factual and subsequently inspired conspiracy beliefs."
+      }
+    },
+    "issues": []
+  }
+}
