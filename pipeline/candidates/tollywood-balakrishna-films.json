@@ -1,0 +1,1508 @@
+{
+  "question": {
+    "id": "tollywood-balakrishna-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Nandamuri Balakrishna appeared, including cameos and voice roles.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "tatamma-kala",
+        "canonical": "Tatamma Kala",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this as his 1974 debut film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "ram-raheem",
+        "canonical": "Ram Raheem",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramu in this 1974 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "annadammula-anubandham",
+        "canonical": "Annadammula Anubandham",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Naveen in this 1975 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "vemulawada-bheemakavi",
+        "canonical": "Vemulawada Bheemakavi",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 1975.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "daana-veera-soora-karna",
+        "canonical": "Daana Veera Soora Karna",
+        "aliases": [
+          "Dana Veera Sura Karna"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Abhimanyudu in this 1977 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "akbar-salim-anarkali",
+        "canonical": "Akbar Salim Anarkali",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Salim in this 1979 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sri-madvirata-parvam",
+        "canonical": "Sri Madvirata Parvam",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Abhimanyudu in this 1979 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sri-tirupati-venkateswara-kalyanam",
+        "canonical": "Sri Tirupati Venkateswara Kalyanam",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Narada Maharshi in this 1979 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "rowdy-ramudu-konte-krishnudu",
+        "canonical": "Rowdy Ramudu Konte Krishnudu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balakrishna in this 1980 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "anuraga-devatha",
+        "canonical": "Anuraga Devatha",
+        "aliases": [
+          "Anuraga Devata"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Prakash in this 1982 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "simham-navvindi",
+        "canonical": "Simham Navvindi",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balakrishna in this 1983 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sahasame-jeevitham",
+        "canonical": "Sahasame Jeevitham",
+        "aliases": [
+          "Sahasame Jeevitam"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography identifies this 1984 film as his solo-lead debut.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "disco-king",
+        "canonical": "Disco King",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balakrishna in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "janani-janmabhoomi",
+        "canonical": "Janani Janmabhoomi",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramesh in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "mangammagari-manavadu",
+        "canonical": "Mangammagari Manavadu",
+        "aliases": [
+          "Mangamma Gari Manavadu"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Veeranna in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "palnati-puli",
+        "canonical": "Palnati Puli",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raju in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "srimadvirat-veerabrahmendra-swami-charitra",
+        "canonical": "Srimadvirat Veerabrahmendra Swami Charitra",
+        "aliases": [
+          "Srimad Virat Veerabrahmendra Swami Charitra"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sayyad / Sidda in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "kathanayakudu",
+        "canonical": "Kathanayakudu",
+        "aliases": [
+          "Kathanayakudu (1984)"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ravi in this 1984 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "atmabhalam",
+        "canonical": "Atmabhalam",
+        "aliases": [
+          "Atma Bhalam"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "babai-abbai",
+        "canonical": "Babai – Abbai",
+        "aliases": [
+          "Babai Abbai",
+          "Babai-Abbai"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bala / Balasubramanyam in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bharyabhartala-bhandam",
+        "canonical": "Bharyabhartala Bhandam",
+        "aliases": [
+          "Bharya Bhartala Bhandam",
+          "Bharyabhartala Bandham"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Radha in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhale-thammudu",
+        "canonical": "Bhale Thammudu",
+        "aliases": [
+          "Bhale Tammudu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rajendra in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "kattula-kondayya",
+        "canonical": "Kattula Kondayya",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kiran in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "pattabhishekam",
+        "canonical": "Pattabhishekam",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balu in this 1985 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "nippulanti-manishi",
+        "canonical": "Nippulanti Manishi",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this 1986 title as his 25th film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "muddula-krishnayya",
+        "canonical": "Muddula Krishnayya",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Krishnayya in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "seetarama-kalyanam",
+        "canonical": "Seetarama Kalyanam",
+        "aliases": [
+          "Sitarama Kalyanam"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "anasuyamma-gari-alludu",
+        "canonical": "Anasuyamma Gari Alludu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Hari Krishna in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "desoddarakudu",
+        "canonical": "Desoddarakudu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopi in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "kaliyuga-krishnudu",
+        "canonical": "Kaliyuga Krishnudu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohana Krishna in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "apoorva-sahodarulu",
+        "canonical": "Apoorva Sahodarulu",
+        "aliases": [
+          "Apurva Sahodarulu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1986 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhargava-ramudu",
+        "canonical": "Bhargava Ramudu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bhargav in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "ramu",
+        "canonical": "Ramu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 1987.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "allari-krishnayya",
+        "canonical": "Allari Krishnayya",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopala Krishna in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sahasa-samrat",
+        "canonical": "Sahasa Samrat",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramudu in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "president-gari-abbai",
+        "canonical": "President Gari Abbai",
+        "aliases": [
+          "President Gari Abbayi"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rama Krishna in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "muvva-gopaludu",
+        "canonical": "Muvva Gopaludu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopi in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "trimurtulu",
+        "canonical": "Trimurtulu",
+        "aliases": [
+          "Trimurthulu"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his cameo as himself in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhanumati-gari-mogudu",
+        "canonical": "Bhanumati Gari Mogudu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Jaya Krishna in this 1987 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "inspector-pratap",
+        "canonical": "Inspector Pratap",
+        "aliases": [
+          "Inspector Prathap"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Pratap in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "donga-ramudu",
+        "canonical": "Donga Ramudu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rama Krishna in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "tiragabadda-telugubidda",
+        "canonical": "Tiragabadda Telugubidda",
+        "aliases": [
+          "Tiragabadda Telugu Bidda"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ravi Teja in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bharatamlo-bala-chandrudu",
+        "canonical": "Bharatamlo Bala Chandrudu",
+        "aliases": [
+          "Bharatamlo Balachandrudu"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balachandra in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "ramudu-bheemudu",
+        "canonical": "Ramudu Bheemudu",
+        "aliases": [
+          "Ramudu Bhimudu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "raktabhishekam",
+        "canonical": "Raktabhishekam",
+        "aliases": [
+          "Rakthabhishekam"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Pardhasaradhi in this 1988 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhale-donga",
+        "canonical": "Bhale Donga",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Surendra in this 1989 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "muddula-mavayya",
+        "canonical": "Muddula Mavayya",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1989 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "ashoka-chakravarthy",
+        "canonical": "Ashoka Chakravarthy",
+        "aliases": [
+          "Ashoka Chakravarthi"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ashok in this 1989 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bala-gopaludu",
+        "canonical": "Bala Gopaludu",
+        "aliases": [
+          "Balagopaludu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 1989 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "prananiki-pranam",
+        "canonical": "Prananiki Pranam",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1990 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "nari-nari-naduma-murari",
+        "canonical": "Nari Nari Naduma Murari",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this 1990 title as his 50th film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "muddula-menalludu",
+        "canonical": "Muddula Menalludu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1990 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "lorry-driver",
+        "canonical": "Lorry Driver",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bala Murali in this 1990 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "talli-tandrulu",
+        "canonical": "Talli Tandrulu",
+        "aliases": [
+          "Thalli Thandrulu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Anand in this 1991 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "brahmarshi-viswamitra",
+        "canonical": "Brahmarshi Viswamitra",
+        "aliases": [
+          "Brahmarshi Vishwamitra"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1991 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "aditya-369",
+        "canonical": "Aditya 369",
+        "aliases": [
+          "Aditya369"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1991 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "dharmakshetram",
+        "canonical": "Dharmakshetram",
+        "aliases": [
+          "Dharma Kshetram"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Beneerji in this 1992 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "rowdy-inspector",
+        "canonical": "Rowdy Inspector",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramaraju in this 1992 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "aswamedham",
+        "canonical": "Aswamedham",
+        "aliases": [
+          "Ashwamedham"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kireeti in this 1992 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "nippu-ravva",
+        "canonical": "Nippu Ravva",
+        "aliases": [
+          "Nippuravva"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Suryam in this 1993 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bangaru-bullodu",
+        "canonical": "Bangaru Bullodu",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balakrishna in this 1993 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhairava-dweepam",
+        "canonical": "Bhairava Dweepam",
+        "aliases": [
+          "Bhairava Dvipam"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vijaya in this 1994 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "gandeevam",
+        "canonical": "Gandeevam",
+        "aliases": [
+          "Gandivam"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1994 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bobbili-simham",
+        "canonical": "Bobbili Simham",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vijaya Raghava Bhupathi in this 1994 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "top-hero",
+        "canonical": "Top Hero",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balu in this 1994 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "maatho-pettukoku",
+        "canonical": "Maatho Pettukoku",
+        "aliases": [
+          "Matho Pettukoku"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1995 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "vamsanikokkadu",
+        "canonical": "Vamsanikokkadu",
+        "aliases": [
+          "Vamshanikokkadu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja in this 1996 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sri-krishnarjuna-vijayam",
+        "canonical": "Sri Krishnarjuna Vijayam",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Lord Krishna and Arjuna in this 1996 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "muddula-mogudu",
+        "canonical": "Muddula Mogudu",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vamsi in this 1997 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "peddannayya",
+        "canonical": "Peddannayya",
+        "aliases": [
+          "Peddannaya"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1997 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "devudu",
+        "canonical": "Devudu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 1997.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "yuvaratna-raana",
+        "canonical": "Yuvaratna Raana",
+        "aliases": [
+          "Yuvaratna Rana"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raana / Ramu in this 1998 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "pavitra-prema",
+        "canonical": "Pavitra Prema",
+        "aliases": [
+          "Pavithra Prema"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Manikyam in this 1998 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "samarasimha-reddy",
+        "canonical": "Samarasimha Reddy",
+        "aliases": [
+          "Samara Simha Reddy"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 1999 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sultan",
+        "canonical": "Sultan",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 1999 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "krishna-babu",
+        "canonical": "Krishna Babu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this 1999 title as his 75th film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "vamsoddharakudu",
+        "canonical": "Vamsoddharakudu",
+        "aliases": [
+          "Vamshoddharakudu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Suryam in this 2000 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "goppinti-alludu",
+        "canonical": "Goppinti Alludu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Murali Manohar / Bheemudu in this 2000 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "narasimha-naidu",
+        "canonical": "Narasimha Naidu",
+        "aliases": [],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 2001.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhalevadivi-basu",
+        "canonical": "Bhalevadivi Basu",
+        "aliases": [
+          "Bhale Vadivi Basu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sagar / Prabhu in this 2001 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "seema-simham",
+        "canonical": "Seema Simham",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Durga Prasad in this 2002 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "chennakesava-reddy",
+        "canonical": "Chennakesava Reddy",
+        "aliases": [
+          "Chenna Kesava Reddy"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2002 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "yuva-rathna",
+        "canonical": "Yuva Rathna",
+        "aliases": [
+          "Yuva Ratna"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his voiceover credit in this 2002 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "palanati-brahmanaidu",
+        "canonical": "Palanati Brahmanaidu",
+        "aliases": [
+          "Palnati Brahmanaidu",
+          "Palanati Brahma Naidu"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 2003 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "lakshmi-narasimha",
+        "canonical": "Lakshmi Narasimha",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Lakshmi Narasimha Swamy in this 2004 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "vijayendra-varma",
+        "canonical": "Vijayendra Varma",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 2004.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "allari-pidugu",
+        "canonical": "Allari Pidugu",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2005 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "veerabhadra",
+        "canonical": "Veerabhadra",
+        "aliases": [
+          "Veera Bhadra"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Murali Krishna in this 2006 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "maharadhi",
+        "canonical": "Maharadhi",
+        "aliases": [
+          "Maharathi"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 2007 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "okka-magadu",
+        "canonical": "Okka Magadu",
+        "aliases": [
+          "Okkamagadu"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2008 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "pandurangadu",
+        "canonical": "Pandurangadu",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2008 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "mitrudu",
+        "canonical": "Mitrudu",
+        "aliases": [
+          "Mithrudu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Aditya in this 2009 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "simha",
+        "canonical": "Simha",
+        "aliases": [],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2010 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "parama-veera-chakra",
+        "canonical": "Parama Veera Chakra",
+        "aliases": [
+          "Paramaveera Chakra"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2011 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "sri-rama-rajyam",
+        "canonical": "Sri Rama Rajyam",
+        "aliases": [
+          "Sree Rama Rajyam"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sri Rama / Vishnu in this 2011 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "adhinayakudu",
+        "canonical": "Adhinayakudu",
+        "aliases": [
+          "Adinayakudu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a triple role in this 2012 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "uu-kodathara-ulikki-padathara",
+        "canonical": "Uu Kodathara? Ulikki Padathara?",
+        "aliases": [
+          "Uu Kodathara Ulikki Padathara"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rudramaneni Narasimha Rayudu in this 2012 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "srimannarayana",
+        "canonical": "Srimannarayana",
+        "aliases": [
+          "Sriman Narayana"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in the title role in 2012.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "legend",
+        "canonical": "Legend",
+        "aliases": [],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2014 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "lion",
+        "canonical": "Lion",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Godse / Bose in this 2015 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "dictator",
+        "canonical": "Dictator",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 2016 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "gautamiputra-satakarni",
+        "canonical": "Gautamiputra Satakarni",
+        "aliases": [
+          "Gauthamiputra Satakarni",
+          "Gautami Putra Satakarni"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this 2017 title as his 100th film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "paisa-vasool",
+        "canonical": "Paisa Vasool",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 2017 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "jai-simha",
+        "canonical": "Jai Simha",
+        "aliases": [
+          "Jaisimha"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Narasimha in this 2018 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "n-t-r-kathanayakudu",
+        "canonical": "N.T.R: Kathanayakudu",
+        "aliases": [
+          "NTR Kathanayakudu",
+          "NTR: Kathanayakudu",
+          "N.T.R. Kathanayakudu"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as N. T. Rama Rao in this 2019 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "n-t-r-mahanayakudu",
+        "canonical": "N.T.R: Mahanayakudu",
+        "aliases": [
+          "NTR Mahanayakudu",
+          "NTR: Mahanayakudu",
+          "N.T.R. Mahanayakudu"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as N. T. Rama Rao in this 2019 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "ruler",
+        "canonical": "Ruler",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Dharma / Arjun Prasad in this 2019 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "akhanda",
+        "canonical": "Akhanda",
+        "aliases": [],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2021 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "veera-simha-reddy",
+        "canonical": "Veera Simha Reddy",
+        "aliases": [
+          "Veerasimha Reddy"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2023 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "bhagavanth-kesari",
+        "canonical": "Bhagavanth Kesari",
+        "aliases": [
+          "Bhagavant Kesari",
+          "BhagavanthKesari"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Nelakonda Bhagavanth Kesari in this 2023 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "daaku-maharaaj",
+        "canonical": "Daaku Maharaaj",
+        "aliases": [
+          "Daku Maharaj",
+          "Daaku Maharaj"
+        ],
+        "familiarity": 0.0353,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists his acting credit in this 2025 film.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      },
+      {
+        "id": "akhanda-2-thaandavam",
+        "canonical": "Akhanda 2: Thaandavam",
+        "aliases": [
+          "Akhanda 2",
+          "Akhanda 2 Thandavam",
+          "Akhanda 2 Thaandavam"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him in a double role in this 2025 film without an unreleased marker.",
+        "sourceIds": [
+          "nandamuri-balakrishna-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied filmography, from Tatamma Kala onward. Cameos and voice roles count; entries marked as not yet released and television appearances do not.",
+    "sources": [
+      {
+        "id": "nandamuri-balakrishna-filmography",
+        "title": "Nandamuri Balakrishna filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nandamuri_Balakrishna_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "b72f18012e96b111",
+    "brief": "Name a film in which the Telugu actor Nandamuri Balakrishna has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nandamuri-balakrishna-filmography",
+        "version": "1376818669",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Tatamma Kala": "1974 | Tatamma Kala | Balakrishna | Debut film |",
+      "Ram Raheem": "1974 | Ram Raheem | Ramu | |",
+      "Annadammula Anubandham": "1975 | Annadammula Anubandham | Naveen | |",
+      "Vemulawada Bheemakavi": "1975 | Vemulawada Bheemakavi | Vemulawada Bheemakavi | |",
+      "Daana Veera Soora Karna": "1977 | Daana Veera Soora Karna | Abhimanyudu | |",
+      "Akbar Salim Anarkali": "1979 | Akbar Salim Anarkali | Salim | |",
+      "Sri Madvirata Parvam": "1979 | Sri Madvirata Parvam | Abhimanyudu | |",
+      "Sri Tirupati Venkateswara Kalyanam": "1979 | Sri Tirupati Venkateswara Kalyanam | Narada Maharshi | |",
+      "Rowdy Ramudu Konte Krishnudu": "1980 | Rowdy Ramudu Konte Krishnudu | Balakrishna | |",
+      "Anuraga Devatha": "1982 | Anuraga Devatha | Prakash | |",
+      "Simham Navvindi": "1983 | Simham Navvindi | Balakrishna | |",
+      "Sahasame Jeevitham": "1984 | Sahasame Jeevitham | Ravi | Debut as a solo lead |",
+      "Disco King": "1984 | Disco King | Balakrishna | |",
+      "Janani Janmabhoomi": "1984 | Janani Janmabhoomi | Ramesh | |",
+      "Mangammagari Manavadu": "1984 | Mangammagari Manavadu | Veeranna | |",
+      "Palnati Puli": "1984 | Palnati Puli | Raju | |",
+      "Srimadvirat Veerabrahmendra Swami Charitra": "1984 | Srimadvirat Veerabrahmendra Swami Charitra | Sayyad / Sidda | |",
+      "Kathanayakudu": "1984 | Kathanayakudu | Ravi | |",
+      "Atmabhalam": "1985 | Atmabhalam | Anand Kumar Bhupathi / Durga Prasad | |",
+      "Babai – Abbai": "1985 | Babai – Abbai | Bala / Balasubramanyam | |",
+      "Bharyabhartala Bhandam": "1985 | Bharyabhartala Bhandam | Radha | |",
+      "Bhale Thammudu": "1985 | Bhale Thammudu | Rajendra | |",
+      "Kattula Kondayya": "1985 | Kattula Kondayya | Kiran | |",
+      "Pattabhishekam": "1985 | Pattabhishekam | Balu | |",
+      "Nippulanti Manishi": "1986 | Nippulanti Manishi | Parasuram | 25th Film |",
+      "Muddula Krishnayya": "1986 | Muddula Krishnayya | Krishnayya | |",
+      "Seetarama Kalyanam": "1986 | Seetarama Kalyanam | Raja | |",
+      "Anasuyamma Gari Alludu": "1986 | Anasuyamma Gari Alludu | Hari Krishna | |",
+      "Desoddarakudu": "1986 | Desoddarakudu | Gopi | |",
+      "Kaliyuga Krishnudu": "1986 | Kaliyuga Krishnudu | Mohana Krishna | |",
+      "Apoorva Sahodarulu": "1986 | Apoorva Sahodarulu | Arun Kumar & Ramudu | Double role |",
+      "Bhargava Ramudu": "1987 | Bhargava Ramudu | Bhargav | |",
+      "Ramu": "1987 | Ramu | Ramu | |",
+      "Allari Krishnayya": "1987 | Allari Krishnayya | Gopala Krishna | |",
+      "Sahasa Samrat": "1987 | Sahasa Samrat | Ramudu | |",
+      "President Gari Abbai": "1987 | President Gari Abbai | Rama Krishna | |",
+      "Muvva Gopaludu": "1987 | Muvva Gopaludu | Gopi | |",
+      "Trimurtulu": "1987 | Trimurtulu | Himself | Cameo |",
+      "Bhanumati Gari Mogudu": "1987 | Bhanumati Gari Mogudu | Jaya Krishna | |",
+      "Inspector Pratap": "1988 | Inspector Pratap | Pratap | |",
+      "Donga Ramudu": "1988 | Donga Ramudu | Rama Krishna | |",
+      "Tiragabadda Telugubidda": "1988 | Tiragabadda Telugubidda | Ravi Teja | |",
+      "Bharatamlo Bala Chandrudu": "1988 | Bharatamlo Bala Chandrudu | Balachandra | |",
+      "Ramudu Bheemudu": "1988 | Ramudu Bheemudu | Ramudu & Bheemudu | Double role |",
+      "Raktabhishekam": "1988 | Raktabhishekam | Pardhasaradhi | |",
+      "Bhale Donga": "1989 | Bhale Donga | Surendra | |",
+      "Muddula Mavayya": "1989 | Muddula Mavayya | Raja | |",
+      "Ashoka Chakravarthy": "1989 | Ashoka Chakravarthy | Ashok | |",
+      "Bala Gopaludu": "1989 | Bala Gopaludu | Bangaru Muvva Bala Gopalam | |",
+      "Prananiki Pranam": "1990 | Prananiki Pranam | Raja | |",
+      "Nari Nari Naduma Murari": "1990 | Nari Nari Naduma Murari | Venkateswara Rao | 50th Film |",
+      "Muddula Menalludu": "1990 | Muddula Menalludu | Raja | |",
+      "Lorry Driver": "1990 | Lorry Driver | Bala Murali | |",
+      "Talli Tandrulu": "1991 | Talli Tandrulu | Anand | |",
+      "Brahmarshi Viswamitra": "1991 | Brahmarshi Viswamitra | Satya Harischandra & Dushyanta | Double role |",
+      "Aditya 369": "1991 | Aditya 369 | Sri Krishnadeva Rayalu & Krishna Kumar | Double role |",
+      "Dharmakshetram": "1992 | Dharmakshetram | Beneerji | |",
+      "Rowdy Inspector": "1992 | Rowdy Inspector | Ramaraju | |",
+      "Aswamedham": "1992 | Aswamedham | Kireeti | |",
+      "Nippu Ravva": "1993 | Nippu Ravva | Suryam | |",
+      "Bangaru Bullodu": "1993 | Bangaru Bullodu | Balakrishna | |",
+      "Bhairava Dweepam": "1994 | Bhairava Dweepam | Vijaya | |",
+      "Gandeevam": "1994 | Gandeevam | Raja | |",
+      "Bobbili Simham": "1994 | Bobbili Simham | Vijaya Raghava Bhupathi | |",
+      "Top Hero": "1994 | Top Hero | Balu | |",
+      "Maatho Pettukoku": "1995 | Maatho Pettukoku | Arjun & Kishtayya | Double role |",
+      "Vamsanikokkadu": "1996 | Vamsanikokkadu | Raja | |",
+      "Sri Krishnarjuna Vijayam": "1996 | Sri Krishnarjuna Vijayam | Lord Krishna & Arjuna | Double role |",
+      "Muddula Mogudu": "1997 | Muddula Mogudu | Vamsi | |",
+      "Peddannayya": "1997 | Peddannayya | Ramakrishna Prasad & Bhavani Prasad | Double role |",
+      "Devudu": "1997 | Devudu | Devudu | |",
+      "Yuvaratna Raana": "1998 | Yuvaratna Raana | Raana / Ramu | |",
+      "Pavitra Prema": "1998 | Pavitra Prema | Manikyam | |",
+      "Samarasimha Reddy": "1999 | Samarasimha Reddy | Abbulu / Vaasu / Samarasimha Reddy | |",
+      "Sultan": "1999 | Sultan | Sultan & Pruthvi | Double role |",
+      "Krishna Babu": "1999 | Krishna Babu | Krishna Babu | 75th Film |",
+      "Vamsoddharakudu": "2000 | Vamsoddharakudu | Suryam | |",
+      "Goppinti Alludu": "2000 | Goppinti Alludu | Murali Manohar / Bheemudu | |",
+      "Narasimha Naidu": "2001 | Narasimha Naidu | Narasimha Naidu | |",
+      "Bhalevadivi Basu": "2001 | Bhalevadivi Basu | Sagar / Prabhu | |",
+      "Seema Simham": "2002 | Seema Simham | Durga Prasad | |",
+      "Chennakesava Reddy": "2002 | Chennakesava Reddy | Chennakesava Reddy & Bharat | Double role |",
+      "Yuva Rathna": "2002 | Yuva Rathna | —N/a | Voiceover |",
+      "Palanati Brahmanaidu": "2003 | Palanati Brahmanaidu | Siva Sankara Satya Bhavani Prasad | |",
+      "Lakshmi Narasimha": "2004 | Lakshmi Narasimha | Lakshmi Narasimha Swamy | |",
+      "Vijayendra Varma": "2004 | Vijayendra Varma | Vijayendra Varma | |",
+      "Allari Pidugu": "2005 | Allari Pidugu | Rajith Kumar & Giri | Double role |",
+      "Veerabhadra": "2006 | Veerabhadra | Murali Krishna | |",
+      "Maharadhi": "2007 | Maharadhi | Bala/Krishna/Krish/Balayya/Balakrishna | |",
+      "Okka Magadu": "2008 | Okka Magadu | Raghupathi Raghava Rajaram & Veera Venkata Satyanarayana Swamy | Double role |",
+      "Pandurangadu": "2008 | Pandurangadu | Lord Krishna & Pundarika Ranganathudu | Double role |",
+      "Mitrudu": "2009 | Mitrudu | Aditya | |",
+      "Simha": "2010 | Simha | Narasimha & Srimannarayana | Double role |",
+      "Parama Veera Chakra": "2011 | Parama Veera Chakra | Jai Simha & Chakradhar | Double role |",
+      "Sri Rama Rajyam": "2011 | Sri Rama Rajyam | Sri Rama / Vishnu | |",
+      "Adhinayakudu": "2012 | Adhinayakudu | Harish Chandra Prasad, Rama Krishna Prasad & Bobby | Triple role |",
+      "Uu Kodathara? Ulikki Padathara?": "2012 | Uu Kodathara? Ulikki Padathara? | Rudramaneni Narasimha Rayudu | |",
+      "Srimannarayana": "2012 | Srimannarayana | Srimannarayana | |",
+      "Legend": "2014 | Legend | Jaidev alias Legend & Krishna | Double role |",
+      "Lion": "2015 | Lion | Godse / Bose | |",
+      "Dictator": "2016 | Dictator | Chandra Sekhar Dharma / Chandu | |",
+      "Gautamiputra Satakarni": "2017 | Gautamiputra Satakarni | Gautamiputra Satakarni | 100th Film |",
+      "Paisa Vasool": "2017 | Paisa Vasool | Theda Singh / RAW Agent Balakrishna Nandamuri | |",
+      "Jai Simha": "2018 | Jai Simha | Narasimha | |",
+      "N.T.R: Kathanayakudu": "2019 | N.T.R: Kathanayakudu | N. T. Rama Rao | Also producer and writer |",
+      "N.T.R: Mahanayakudu": "2019 | N.T.R: Mahanayakudu | N. T. Rama Rao | Also producer and writer |",
+      "Ruler": "2019 | Ruler | Dharma / Arjun Prasad | |",
+      "Akhanda": "2021 | Akhanda | Akhanda & Murali Krishna | Double role |",
+      "Veera Simha Reddy": "2023 | Veera Simha Reddy | Veera Simha Reddy & Jai Simha Reddy | Double role |",
+      "Bhagavanth Kesari": "2023 | Bhagavanth Kesari | Nelakonda Bhagavanth Kesari | |",
+      "Daaku Maharaaj": "2025 | Daaku Maharaaj | Sitaram / Daaku Maharaaj / Nanaji | |",
+      "Akhanda 2: Thaandavam": "2025 | Akhanda 2: Thaandavam | Akhanda & Murali Krishna | Double role |"
+    },
+    "issues": []
+  }
+}

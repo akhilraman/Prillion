@@ -4,6 +4,9 @@ import { totalPoints } from '../../domain/round.ts';
 /** Every point sinks the diver this many metres. Depth is derived from score, never stored. */
 export const METRES_PER_POINT = 2;
 
+/** How long the dive takes on screen. Keep in step with `transition: --metres` in index.css. */
+export const SINK_MS = 3000;
+
 export function sinkMetres(points: number): number {
   return points * METRES_PER_POINT;
 }

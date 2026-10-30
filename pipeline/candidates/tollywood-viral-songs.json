@@ -1,0 +1,343 @@
+{
+  "question": {
+    "id": "tollywood-viral-songs",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film song that went viral on social media or became a hit beyond Telugu-speaking audiences.",
+    "answerSet": "open",
+    "criteria": "Any song from a Telugu-language film with documented social-media virality or substantial popularity beyond Telugu-speaking audiences qualifies; translated versions count as the same song.",
+    "answers": [
+      {
+        "id": "naatu-naatu",
+        "canonical": "Naatu Naatu",
+        "aliases": [
+          "Natu Natu",
+          "Naacho Naacho",
+          "Nacho Nacho"
+        ],
+        "familiarity": 0.1055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naatu Naatu is the internationally celebrated dance song from RRR.",
+        "sourceIds": []
+      },
+      {
+        "id": "butta-bomma",
+        "canonical": "Butta Bomma",
+        "aliases": [
+          "Butta Bomma Butta Bomma"
+        ],
+        "familiarity": 0.1055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Butta Bomma is a song from Ala Vaikunthapurramuloo whose choreography inspired widely shared dance videos.",
+        "sourceIds": []
+      },
+      {
+        "id": "oo-antava",
+        "canonical": "Oo Antava",
+        "aliases": [
+          "Oo Antava Oo Oo Antava",
+          "O Antava",
+          "Oo Bolega Ya Oo Oo Bolega",
+          "Oo Antava Mava",
+          "Oo Antava Mawa"
+        ],
+        "familiarity": 0.1055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oo Antava is a crossover hit from Pushpa: The Rise.",
+        "sourceIds": []
+      },
+      {
+        "id": "srivalli",
+        "canonical": "Srivalli",
+        "aliases": [],
+        "familiarity": 0.1055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Srivalli is a song from Pushpa: The Rise whose signature dance step became a social-media trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "saami-saami",
+        "canonical": "Saami Saami",
+        "aliases": [
+          "Sami Sami",
+          "Saami",
+          "Saame Saame"
+        ],
+        "familiarity": 0.1055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saami Saami is a song from Pushpa: The Rise that inspired dance recreations across languages.",
+        "sourceIds": []
+      },
+      {
+        "id": "kurchi-madathapetti",
+        "canonical": "Kurchi Madathapetti",
+        "aliases": [
+          "Kurchi Madathabetti",
+          "Kurchi Madathapeti"
+        ],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kurchi Madathapetti is a dance song from Guntur Kaaram that became a viral social-media soundtrack.",
+        "sourceIds": []
+      },
+      {
+        "id": "chuttamalle",
+        "canonical": "Chuttamalle",
+        "aliases": [
+          "Chuttamale",
+          "Dheere Dheere",
+          "Paththavaikkum"
+        ],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chuttamalle is a song from Devara: Part 1 that became popular through multilingual releases and social-media videos.",
+        "sourceIds": []
+      },
+      {
+        "id": "ramuloo-ramulaa",
+        "canonical": "Ramuloo Ramulaa",
+        "aliases": [
+          "Ramulo Ramula",
+          "Ramuloo Ramula"
+        ],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ramuloo Ramulaa is a widely shared dance song from Ala Vaikunthapurramuloo.",
+        "sourceIds": []
+      },
+      {
+        "id": "samajavaragamana",
+        "canonical": "Samajavaragamana",
+        "aliases": [],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samajavaragamana is a crossover melody from Ala Vaikunthapurramuloo.",
+        "sourceIds": []
+      },
+      {
+        "id": "inkem-inkem-inkem-kaavaale",
+        "canonical": "Inkem Inkem Inkem Kaavaale",
+        "aliases": [
+          "Inkem Inkem",
+          "Inkem Inkem Inkem Kavale",
+          "Inkem Kavale"
+        ],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Inkem Inkem Inkem Kaavaale is a song from Geetha Govindam that attracted listeners beyond Telugu audiences.",
+        "sourceIds": []
+      },
+      {
+        "id": "ringa-ringa",
+        "canonical": "Ringa Ringa",
+        "aliases": [
+          "Ring Ringa",
+          "Ringa Ringaa"
+        ],
+        "familiarity": 0.0127,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ringa Ringa is a dance song from Arya 2 that became popular beyond Telugu cinema's core audience.",
+        "sourceIds": []
+      },
+      {
+        "id": "seeti-maar",
+        "canonical": "Seeti Maar",
+        "aliases": [
+          "Seeti Mar"
+        ],
+        "familiarity": 0.0422,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seeti Maar is a song from Duvvada Jagannadham that was later recreated for the Hindi film Radhe.",
+        "sourceIds": []
+      },
+      {
+        "id": "saranga-dariya",
+        "canonical": "Saranga Dariya",
+        "aliases": [
+          "Saranga Daria",
+          "Saaranga Dariya"
+        ],
+        "familiarity": 0.0127,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saranga Dariya is a song from Love Story whose dance performance became a major online hit.",
+        "sourceIds": []
+      },
+      {
+        "id": "manohari",
+        "canonical": "Manohari",
+        "aliases": [
+          "Manohari Song",
+          "Manoh Hari"
+        ],
+        "familiarity": 0.0127,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manohari is a song from Baahubali: The Beginning that reached audiences through the film's multilingual releases.",
+        "sourceIds": []
+      },
+      {
+        "id": "cinema-choopistha-mava",
+        "canonical": "Cinema Choopistha Mava",
+        "aliases": [
+          "Cinema Chupista Mama",
+          "Cinema Choopistha Mama",
+          "Cinema Chupistha Mava"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cinema Choopistha Mava is a dance song from Race Gurram that has circulated widely in dance videos.",
+        "sourceIds": []
+      },
+      {
+        "id": "top-lesi-poddi",
+        "canonical": "Top Lesi Poddi",
+        "aliases": [
+          "Top Lechipoddi"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Top Lesi Poddi is a song from Iddarammayilatho whose choreography has been widely recreated online.",
+        "sourceIds": []
+      },
+      {
+        "id": "vachinde",
+        "canonical": "Vachinde",
+        "aliases": [
+          "Vachindhe",
+          "Vachinde Mella Mellaga"
+        ],
+        "familiarity": 0.0127,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vachinde is a song from Fidaa that became a popular choice for dance covers.",
+        "sourceIds": []
+      },
+      {
+        "id": "dheevara",
+        "canonical": "Dheevara",
+        "aliases": [
+          "Dhivara",
+          "Dheewara",
+          "Dheevera"
+        ],
+        "familiarity": 0.0127,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dheevara is a song from Baahubali: The Beginning that reached audiences through the film's multilingual releases.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has produced crossover hits through dance challenges, fan videos, dubbed releases and memorable choreography. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "568e5efa394e4f3b",
+    "brief": "Name a Telugu film song that went viral across social media or was widely loved far beyond Telugu audiences.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Naatu Naatu": 3,
+      "Butta Bomma": 3,
+      "Oo Antava": 3,
+      "Srivalli": 3,
+      "Saami Saami": 3,
+      "Kurchi Madathapetti": 3,
+      "Chuttamalle": 3,
+      "Ramuloo Ramulaa": 3,
+      "Samajavaragamana": 3,
+      "Inkem Inkem Inkem Kaavaale": 3,
+      "Ringa Ringa": 3,
+      "Seeti Maar": 3,
+      "Saranga Dariya": 3,
+      "Manohari": 3,
+      "Cinema Choopistha Mava": 2,
+      "Top Lesi Poddi": 2,
+      "Vachinde": 2,
+      "Dheevara": 2
+    },
+    "droppedForVotes": {
+      "Aa Ante Amalapuram": 1,
+      "Dhivara": 1,
+      "Pillaa Raa": 1,
+      "Pakka Local": 1,
+      "Bullet Song": 1,
+      "Mind Block": 1
+    },
+    "verdicts": {
+      "Naatu Naatu": {
+        "verdict": "correct",
+        "reason": "The RRR song became an international dance phenomenon and won the Academy Award for Best Original Song."
+      },
+      "Butta Bomma": {
+        "verdict": "correct",
+        "reason": "The Ala Vaikunthapurramuloo song inspired viral dance recreations, including widely shared videos by David Warner."
+      },
+      "Oo Antava": {
+        "verdict": "correct",
+        "reason": "The Pushpa: The Rise song became a major crossover hit, with widespread popularity and dance recreations outside Telugu audiences."
+      },
+      "Srivalli": {
+        "verdict": "correct",
+        "reason": "The Pushpa: The Rise song's signature dance step became a widely documented social-media trend across language audiences."
+      },
+      "Saami Saami": {
+        "verdict": "correct",
+        "reason": "The Pushpa: The Rise song and its choreography inspired widespread dance recreations, including to its translated versions."
+      },
+      "Kurchi Madathapetti": {
+        "verdict": "correct",
+        "reason": "The Guntur Kaaram song became a viral dance soundtrack, with recreations circulating internationally."
+      },
+      "Chuttamalle": {
+        "verdict": "correct",
+        "reason": "The Devara: Part 1 song became a social-media hit, with dance videos and popular versions in multiple languages."
+      },
+      "Ramuloo Ramulaa": {
+        "verdict": "correct",
+        "reason": "The Ala Vaikunthapurramuloo song became a major online dance hit and attracted audiences beyond Telugu speakers."
+      },
+      "Samajavaragamana": {
+        "verdict": "correct",
+        "reason": "The Ala Vaikunthapurramuloo melody achieved widespread online popularity and crossover recognition."
+      },
+      "Inkem Inkem Inkem Kaavaale": {
+        "verdict": "correct",
+        "reason": "The Geetha Govindam song became a viral melody and a well-established hit among non-Telugu listeners."
+      },
+      "Ringa Ringa": {
+        "verdict": "correct",
+        "reason": "The Arya 2 song became a crossover dance hit; its tune was also adapted into the Hindi song 'Dhinka Chika.'"
+      },
+      "Seeti Maar": {
+        "verdict": "correct",
+        "reason": "The Duvvada Jagannadham song achieved crossover recognition and was recreated for the Hindi film Radhe."
+      },
+      "Saranga Dariya": {
+        "verdict": "correct",
+        "reason": "The Love Story song featuring Sai Pallavi became a major online hit and inspired numerous dance covers."
+      },
+      "Manohari": {
+        "verdict": "correct",
+        "reason": "The Baahubali: The Beginning song gained substantial popularity through the film's Telugu and dubbed-language releases."
+      },
+      "Cinema Choopistha Mava": {
+        "verdict": "correct",
+        "reason": "The Race Gurram song became a widely circulated dance track, including in viral social-media recreations."
+      },
+      "Top Lesi Poddi": {
+        "verdict": "correct",
+        "reason": "The Iddarammayilatho song became a popular online dance track with widely circulated choreography recreations."
+      },
+      "Vachinde": {
+        "verdict": "correct",
+        "reason": "The Fidaa song became a major online dance hit, inspiring numerous covers and performances."
+      },
+      "Dheevara": {
+        "verdict": "correct",
+        "reason": "The Baahubali: The Beginning song reached a substantial multilingual audience through the film and its translated soundtrack versions."
+      }
+    },
+    "issues": []
+  }
+}

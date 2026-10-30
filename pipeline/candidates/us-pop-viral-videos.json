@@ -1,0 +1,1200 @@
+{
+  "question": {
+    "id": "us-pop-viral-videos",
+    "category": "us-pop",
+    "prompt": "Name a viral video. Video series and viral video trends also count.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "2-hours-doing-nothing",
+        "canonical": "2 Hours Doing Nothing",
+        "aliases": [
+          "Two Hours Doing Nothing"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This video of Muhammad Didit doing nothing received millions of views.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "300-page-iphone-bill",
+        "canonical": "300-page iPhone bill",
+        "aliases": [
+          "iJustine iPhone bill",
+          "300 page iPhone bill"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source identifies Justine Ezarik's video about her enormous phone bill as viral.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "11b-x-1371",
+        "canonical": "11B-X-1371",
+        "aliases": [
+          "11B X 1371"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source includes this unsettling plague-doctor video in its viral-video list.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "2007-miss-teen-usa-pageant",
+        "canonical": "2007 Miss Teen USA Pageant",
+        "aliases": [
+          "Miss Teen USA 2007",
+          "Caitlin Upton answer",
+          "Miss South Carolina answer"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Caitlin Upton's pageant response received over 3.5 million YouTube views in three days.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "ain-t-nobody-got-time-for-that",
+        "canonical": "Ain't Nobody Got Time for That",
+        "aliases": [
+          "Sweet Brown",
+          "Aint Nobody Got Time for That",
+          "I Got Bronchitis"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Sweet Brown's news interview and its widely repeated catchphrase.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "angry-german-kid",
+        "canonical": "Angry German Kid",
+        "aliases": [],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this video of a teenager becoming enraged while trying to play a computer game.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "arrest-of-vladimir-putin",
+        "canonical": "Arrest of Vladimir Putin",
+        "aliases": [
+          "Putin arrest video"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source identifies this digitally altered courtroom video as viral.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "bill-o-reilly-freaks-out",
+        "canonical": "Bill O'Reilly Freaks Out",
+        "aliases": [
+          "We'll Do It Live",
+          "Bill O'Reilly Do It Live"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source describes O'Reilly's Inside Edition outtake as having gone viral in May 2008.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "bitchy-resting-face",
+        "canonical": "Bitchy Resting Face",
+        "aliases": [
+          "Resting Bitch Face",
+          "RBF"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this Funny Or Die parody announcement as a video that became a popular meme.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "boom-goes-the-dynamite",
+        "canonical": "Boom goes the dynamite",
+        "aliases": [
+          "Brian Collins sportscast"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source includes Brian Collins's bungled sports broadcast and its catchphrase.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "bitconnect",
+        "canonical": "Bitconnect",
+        "aliases": [
+          "Carlos Matos speech",
+          "I Love Bitconnect"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Carlos Matos's frequently remixed keynote speech.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "bus-uncle",
+        "canonical": "Bus Uncle",
+        "aliases": [
+          "The Bus Uncle"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This recording of an argument on a Hong Kong bus became one of YouTube's most-viewed videos in May 2006.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "charlie-bit-my-finger",
+        "canonical": "Charlie Bit My Finger",
+        "aliases": [
+          "Charlie Bit Me",
+          "Charlie Bit My Finger Again"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the home video of a younger brother biting his older brother's finger.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "chewbacca-mask-lady",
+        "canonical": "Chewbacca Mask Lady",
+        "aliases": [
+          "Chewbacca Mom",
+          "Candace Payne Chewbacca mask"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source reports that Candace Payne's mask video attracted over 140 million views.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "chopped-chin",
+        "canonical": "Chopped Chin",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source says this clip of Renee Montgomery and Angel Wiley dancing went viral in January 2025.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "the-crazy-nastyass-honey-badger",
+        "canonical": "The Crazy Nastyass Honey Badger",
+        "aliases": [
+          "Honey Badger",
+          "Honey Badger Don't Care"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Randall's comedic narration over wildlife footage.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "damn-daniel",
+        "canonical": "Damn Daniel",
+        "aliases": [
+          "Back at It Again with the White Vans"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the Snapchat videos of Joshua Holz complimenting Daniel Lara's Vans.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "david-after-dentist",
+        "canonical": "David After Dentist",
+        "aliases": [
+          "David After the Dentist",
+          "Is This Real Life"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists David DeVore Jr.'s reaction to anesthesia.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "dancing-matt",
+        "canonical": "Dancing Matt",
+        "aliases": [
+          "Where the Hell Is Matt",
+          "Matt Harding dancing"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source describes Matt Harding's videos of himself dancing around the world.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "democracy-manifest",
+        "canonical": "Democracy Manifest",
+        "aliases": [
+          "Succulent Chinese Meal",
+          "A Succulent Chinese Meal",
+          "Jack Karlson arrest"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source states that the news footage of Jack Karlson's arrest became viral after its 2009 upload.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "diet-coke-and-mentos",
+        "canonical": "Diet Coke and Mentos",
+        "aliases": [
+          "Coke and Mentos",
+          "Mentos and Diet Coke"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists videos of carbonated-drink geysers produced with Mentos.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "double-rainbow",
+        "canonical": "Double Rainbow",
+        "aliases": [
+          "Double Rainbow Guy"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly says Paul Vasquez's emotional rainbow video went viral.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "dramatic-chipmunk",
+        "canonical": "Dramatic Chipmunk",
+        "aliases": [
+          "Dramatic Prairie Dog"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the short clip of a prairie dog turning toward the camera.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "drinking-out-of-cups",
+        "canonical": "Drinking Out of Cups",
+        "aliases": [
+          "Drinking Outta Cups"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the video accompanying Dan Deacon's spoken-word recording.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "edgar-s-fall",
+        "canonical": "Edgar's fall",
+        "aliases": [
+          "Edgar's Fall",
+          "La Caida de Edgar",
+          "La caída de Edgar"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the video of a boy falling into a stream when a branch is lifted.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "egg-crack-challenge",
+        "canonical": "Egg Crack Challenge",
+        "aliases": [
+          "Egg Cracking Challenge"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this 2023 TikTok trend involving parents cracking eggs on their children's foreheads.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "eharmony-video-bio",
+        "canonical": "eHarmony Video Bio",
+        "aliases": [
+          "eHarmony Cat Lady",
+          "Debbie Cat Video",
+          "Crazy Cat Lady Dating Video"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Cara Hartmann's staged dating video about a woman overwhelmed by her love of cats.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "epic-beard-man",
+        "canonical": "Epic Beard Man",
+        "aliases": [
+          "Thomas Bruso bus fight"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the Oakland bus-fight video featuring Thomas Bruso.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "evolution-of-dance",
+        "canonical": "Evolution of Dance",
+        "aliases": [
+          "Judson Laipply Evolution of Dance"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source calls this dance routine one of YouTube's earliest viral videos.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "ela-giorgi",
+        "canonical": "Ela Giorgi",
+        "aliases": [],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this traffic-accident video that became popular in 2019.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "everyday",
+        "canonical": "Everyday",
+        "aliases": [
+          "Noah Kalina Everyday",
+          "Noah Takes a Photo of Himself Every Day"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Noah Kalina's daily self-portrait timelapse project.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "from-the-doctor-to-my-son-thomas",
+        "canonical": "From the Doctor to My Son Thomas",
+        "aliases": [
+          "Peter Capaldi message to Thomas"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Peter Capaldi's in-character message consoling a bereaved child.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "gallon-smashing",
+        "canonical": "Gallon smashing",
+        "aliases": [
+          "Gallon Smash Prank",
+          "Milk Gallon Smashing"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source includes this video prank involving apparently accidental spills.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "george-bush-doesn-t-care-about-black-people",
+        "canonical": "George Bush Doesn't Care About Black People",
+        "aliases": [
+          "Kanye West Hurricane Katrina Telethon",
+          "Kanye Bush Doesn't Care"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kanye West's off-script remarks during a Hurricane Katrina benefit broadcast.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "golden-eagle-snatches-kid",
+        "canonical": "Golden Eagle Snatches Kid",
+        "aliases": [
+          "Eagle Snatches Baby",
+          "Eagle Grabs Toddler"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source identifies this apparently dramatic eagle encounter as a viral CGI hoax.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "hawk-tuah-girl",
+        "canonical": "Hawk Tuah Girl",
+        "aliases": [
+          "Hawk Tuah",
+          "Haliey Welch interview"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the interview clip featuring Haliey Welch's catchphrase.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "heroine-of-hackney",
+        "canonical": "Heroine of Hackney",
+        "aliases": [
+          "Hackney Heroine"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists a woman's confrontation with looters during the 2011 England riots.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "horse-race-tests",
+        "canonical": "Horse Race Tests",
+        "aliases": [
+          "Blake Andrews Horse Races"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Blake Andrews's animated horse-racing videos.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "impossible-is-nothing",
+        "canonical": "Impossible Is Nothing",
+        "aliases": [
+          "Aleksey Vayner Resume",
+          "Aleksey Vayner Video Resume"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Aleksey Vayner's exaggerated video résumé.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "joey-ryan-s-penis-wrestling-move",
+        "canonical": "Joey Ryan's Penis Wrestling Move",
+        "aliases": [
+          "Joey Ryan Penis Flip",
+          "Joey Ryan Dick Flip"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly describes this wrestling clip as a popular viral video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "keyboard-cat",
+        "canonical": "Keyboard Cat",
+        "aliases": [
+          "Play Him Off Keyboard Cat"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists keyboard-playing cat footage used to accompany mistakes and bloopers.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "kony-2012",
+        "canonical": "Kony 2012",
+        "aliases": [
+          "KONY2012"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source reports that this Invisible Children campaign video rapidly attracted tens of millions of viewers.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "the-last-lecture",
+        "canonical": "The Last Lecture",
+        "aliases": [
+          "Randy Pausch Last Lecture",
+          "Really Achieving Your Childhood Dreams"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Randy Pausch's lecture about achieving childhood dreams.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "leave-britney-alone",
+        "canonical": "Leave Britney Alone!",
+        "aliases": [
+          "Leave Britney Alone",
+          "Cara Cunningham Britney Video",
+          "Chris Crocker Britney Video"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly identifies this defense of Britney Spears as a viral video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "leeroy-jenkins",
+        "canonical": "Leeroy Jenkins",
+        "aliases": [
+          "Leroy Jenkins",
+          "Leeeeroy Jenkins"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the World of Warcraft comedy skit in which Leeroy charges into a dungeon.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "le-poisson-steve",
+        "canonical": "Le Poisson Steve",
+        "aliases": [
+          "Poisson Steve",
+          "Steve the Fish"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source includes the orange fish character introduced in a TikTok music video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "lily-s-disneyland-surprise-again",
+        "canonical": "Lily's Disneyland Surprise....AGAIN!",
+        "aliases": [
+          "Lily's Disneyland Surprise Again",
+          "Side Eyeing Chloe",
+          "Side Eye Chloe"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source identifies this surprise-trip video as the origin of the Side Eyeing Chloe meme.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "lonelygirl15",
+        "canonical": "lonelygirl15",
+        "aliases": [
+          "Lonely Girl 15"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source describes this fictional teenage video diary as a popular viral video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "macgyver-the-lizard",
+        "canonical": "MacGyver the Lizard",
+        "aliases": [
+          "MacGyver Lizard",
+          "MacGyver the Tegu"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists videos of a red tegu responding to his name.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "michelle-jenneke",
+        "canonical": "Michelle Jenneke",
+        "aliases": [
+          "Michelle Jenneke Warm Up",
+          "Michelle Jenneke Dancing",
+          "Michelle Jenneke dancing sexy as hell at junior world championships in Barcelona 2012"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the hurdler's pre-race dance video, which received over 13 million views in less than a week.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "minecraft-but-i-survive-in-parkour-civilization-full-movie",
+        "canonical": "Minecraft but I survive in parkour civilization [FULL MOVIE]",
+        "aliases": [
+          "Parkour Civilization",
+          "Evbo Parkour Civilization"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Evbo's compilation of the Minecraft series Parkour Civilization.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "my-weekend-as-a-28-year-old-in-chicago",
+        "canonical": "My Weekend as a 28-Year-Old in Chicago",
+        "aliases": [
+          "Judd Crud Chicago Weekend",
+          "My Weekend as a 28 Year Old in Chicago"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Judd Crud's increasingly unrealistic account of a Chicago weekend.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "nek-minnit",
+        "canonical": "Nek Minnit",
+        "aliases": [
+          "Nek Minute"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Levi Hawkin's ten-second clip and describes its millions of views and numerous parodies.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "no-pomegranates",
+        "canonical": "No pomegranates",
+        "aliases": [
+          "No Pomegranate",
+          "Pomegranate Teacher"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists a classroom video of professor Jane Martino shouting about pomegranates.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "potter-puppet-pals",
+        "canonical": "Potter Puppet Pals",
+        "aliases": [
+          "The Mysterious Ticking Noise",
+          "Potter Puppet Pals: The Mysterious Ticking Noise",
+          "Mysterious Ticking Noise"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this puppet series and highlights its enormously viewed Mysterious Ticking Noise video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "shia-labeouf-s-motivational-speech",
+        "canonical": "Shia LaBeouf's Motivational Speech",
+        "aliases": [
+          "Shia LaBeouf Just Do It",
+          "Just Do It",
+          "Shia LaBeouf Motivational Video"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists LaBeouf's green-screen speech and its associated Just Do It catchphrase.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "ricardo-milos",
+        "canonical": "Ricardo Milos",
+        "aliases": [
+          "Ricardo Milos Dance"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source includes the short dance video featuring Ricardo Milos.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "rejected",
+        "canonical": "Rejected",
+        "aliases": [
+          "Don Hertzfeldt Rejected",
+          "Rejected Cartoons"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly calls Don Hertzfeldt's animated short a viral film.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "the-spirit-of-christmas",
+        "canonical": "The Spirit of Christmas",
+        "aliases": [
+          "Jesus vs. Santa",
+          "Jesus vs Santa",
+          "South Park Spirit of Christmas"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source describes the circulation of Jesus vs. Santa as one of the first viral videos.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "star-wars-kid",
+        "canonical": "Star Wars Kid",
+        "aliases": [
+          "Star Wars Kid Lightsaber"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the teenager's improvised lightsaber performance and its many parodies.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "this-is-my-story",
+        "canonical": "This is my story",
+        "aliases": [
+          "Ben Breedlove My Story",
+          "Ben Breedlove This Is My Story"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ben Breedlove's note-card video about his heart condition.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "too-many-cooks",
+        "canonical": "Too Many Cooks",
+        "aliases": [
+          "Adult Swim Too Many Cooks"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Adult Swim's television-opening parody and describes its spread through social media.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "ty-kto-takoy-davay-do-svidaniya",
+        "canonical": "Ty kto takoy? Davay, do svidaniya!",
+        "aliases": [
+          "Who are you? Come on, goodbye!",
+          "Davay do svidaniya",
+          "Ty kto takoy"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this Azerbaijani performance video and reports over two million YouTube views.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "unexpected-john-cena",
+        "canonical": "Unexpected John Cena",
+        "aliases": [
+          "And His Name Is John Cena",
+          "John Cena Unexpected"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists videos interrupted by John Cena's entrance music and performance.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "umehara-ga-kimeta",
+        "canonical": "Umehara ga kimeta",
+        "aliases": [
+          "Umehara Ga Kimeta"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this fighting-game commentary clip and its millions of views and many mashups.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "username-666",
+        "canonical": "Username:666",
+        "aliases": [
+          "Username 666",
+          "Username666"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists PiroPito's horror video about a demonic YouTube page.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "we-did-it-joe",
+        "canonical": "We did it, Joe!",
+        "aliases": [
+          "We Did It Joe",
+          "Kamala Harris We Did It"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kamala Harris's congratulatory phone call to Joe Biden after the 2020 election.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "wealdstone-raider",
+        "canonical": "Wealdstone Raider",
+        "aliases": [
+          "You Want Some",
+          "You've Got No Fans",
+          "Gordon Hill Wealdstone"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source says the clip of football supporter Gordon Hill went viral toward the end of 2014.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "wicked-witch-of-the-east-bro",
+        "canonical": "\"Wicked Witch of the East, bro!\"",
+        "aliases": [
+          "Wicked Witch of the East Bro",
+          "She Came Down in a Bubble Doug",
+          "Wizard of Oz Argument"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly describes this heated Wizard of Oz argument as a viral video.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "wombo-combo",
+        "canonical": "Wombo combo",
+        "aliases": [
+          "Wombo Combo Smash",
+          "That Ain't Falco"
+        ],
+        "familiarity": 0.0096,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this Super Smash Bros. Melee tournament clip with exceptionally loud commentary.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "will-smith-slap",
+        "canonical": "Will Smith Slap",
+        "aliases": [
+          "Will Smith Slaps Chris Rock",
+          "Oscars Slap",
+          "Chris Rock Slap"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the clip of Will Smith slapping Chris Rock during the Academy Awards.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "zombie-kid-likes-turtles",
+        "canonical": "Zombie Kid Likes Turtles",
+        "aliases": [
+          "I Like Turtles",
+          "Turtle Kid",
+          "Zombie Turtle Kid"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jonathon Ware's news interview and reports over 500,000 views within hours.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "zoom-cat-lawyer",
+        "canonical": "Zoom Cat Lawyer",
+        "aliases": [
+          "I'm Not a Cat",
+          "I Am Not a Cat",
+          "Cat Lawyer",
+          "Rod Ponton Cat Filter"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists the virtual court proceeding in which Rod Ponton could not disable a cat filter.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "cow-2009",
+        "canonical": "Cow (2009)",
+        "aliases": [
+          "Cow",
+          "Cow Driving PSA"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this distracted-driving public service announcement and reports over a million views for a clip.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "dumb-ways-to-die-2012",
+        "canonical": "Dumb Ways to Die (2012)",
+        "aliases": [
+          "Dumb Ways to Die",
+          "Dumb Ways to Die PSA"
+        ],
+        "familiarity": 0.0241,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source explicitly says this rail-safety campaign music video went viral through social sharing.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "embrace-life-2010",
+        "canonical": "Embrace Life (2010)",
+        "aliases": [
+          "Embrace Life",
+          "Embrace Life Seat Belt PSA"
+        ],
+        "familiarity": 0.0007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this seat-belt announcement and reports a million views in its first two weeks.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      },
+      {
+        "id": "set-yourself-free-2014",
+        "canonical": "Set Yourself Free (2014)",
+        "aliases": [
+          "Set Yourself Free",
+          "Set Yourself Free PSA"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists this fictitious anti-truancy announcement and reports over 20 million views.",
+        "sourceIds": [
+          "list-of-viral-videos"
+        ]
+      }
+    ],
+    "explanation": "Viral videos spread rapidly through online sharing and word of mouth. The supplied list includes home videos, comedy sketches, news clips, video trends, and public service announcements.",
+    "sources": [
+      {
+        "id": "list-of-viral-videos",
+        "title": "List of viral videos",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_viral_videos",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A video, video series, or video trend documented in the supplied List of viral videos, including its public service announcements."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "b87888118b4cfd31",
+    "brief": "Name a viral video.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-viral-videos",
+        "version": "1382692482",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "2 Girls 1 Cup": "This video has also originated a series of amateur videos showing the reactions of people seeing the original video.",
+      "2 Hours Doing Nothing": "2 Hours Doing Nothing – Video of Indonesian YouTuber Muhammad Didit staring in his camera and doing nothing for two hours, published on 10 July 2020.",
+      "300-page iPhone bill": "300-page iPhone bill – A 300-page iPhone bill from AT&T Mobility mailed in a box was the subject of a viral video made by YouTube personality Justine Ezarik",
+      "11B-X-1371": "11B-X-1371 – An unsettling video filmed in an abandoned Polish sanatorium, in which someone wearing a plague doctor costume gesticulates toward coded messages making threats against the U.S. President.",
+      "2007 Miss Teen USA Pageant": "2007 Miss Teen USA Pageant – A video of Caitlin Upton's response to a question at the Miss Teen USA 2007 received over 3.5 million views on YouTube in three days.",
+      "Ain't Nobody Got Time for That": "Ain't Nobody Got Time for That – A news interview with Kimberly \"Sweet Brown\" Wilkins, of Oklahoma City, in April 2012.",
+      "Angry German Kid": "Angry German Kid – A video of a German teenager trying to play Unreal Tournament on his PC, but he faces problems with it which causes him to get enraged and shout, as well as smashing his keyboard in some scenes.",
+      "Arrest of Vladimir Putin": "Arrest of Vladimir Putin – The mock video shows Russian President (then Prime Minister) Vladimir Putin facing a courtroom trial.",
+      "Asians in the Library": "Asians in the Library – A racist rant by Alexandra Wallace, an undergraduate student at the University of California, Los Angeles, in March 2011.",
+      "Baby saying the N word": "The video received nearly 6 million views while it was online",
+      "Bill O'Reilly Freaks Out": "Bill O'Reilly Freaks Out – An outtake from Bill O'Reilly's tenure on Inside Edition, which depicted O'Reilly cursing at his co-workers while having issues with the closing lines on his teleprompter.",
+      "Bitchy Resting Face": "Bitchy Resting Face – a parody comedy public service announcement video by the Funny Or Die comedy team that has since gone on to become a popular internet meme",
+      "Boom goes the dynamite": "Boom goes the dynamite – Brian Collins, a nervous sports anchor, fumbles highlights, concluding with this infamous catchphrase.",
+      "Bitconnect": "Bitconnect – A keynote speech by Carlos Matos. The video features Matos screaming \"Bitconnect\" and \"I Love Bitconnect\".",
+      "Bus Uncle": "Bus Uncle – A recording of a verbal altercation aboard a Hong Kong bus, where a middle-aged man berates a younger passenger for interrupting his phone call after the younger man had asked him to keep his voice down during his call.",
+      "Charlie Bit My Finger": "Charlie Bit My Finger – A YouTube video featuring two young brothers from England, where the younger brother bites the finger of the older brother, hence the title of the video.",
+      "Chewbacca Mask Lady": "Chewbacca Mask Lady – A video of an enthusiastic woman, named Candace Payne, wearing a Chewbacca mask.",
+      "Chopped Chin": "Chopped Chin – A 2023 clip of former WNBA player Renee Montgomery and her adopted son Angel Wiley (who came to be known as \"Chopped Chin\" from the video) dancing in their seats at a Atlanta Dream game went viral in January 2025 on Instagram and TikTok.",
+      "The Crazy Nastyass Honey Badger": "The Crazy Nastyass Honey Badger – A YouTube video posted by the user Randall in 2011 featuring a comedic narration dubbed over pre-existing National Geographic footage.",
+      "Damn Daniel": "Damn Daniel – A series of Snapchat videos depicting Joshua Holz complementing his friend Daniel Lara's Vans.",
+      "David After Dentist": "David After Dentist – A video of 7-year old David DeVore Jr's reaction to anesthesia.",
+      "Dancing Matt": "Dancing Matt – Video game designer Matt Harding filmed himself in 2003, dancing in front of various world landmarks.",
+      "Democracy Manifest": "Democracy Manifest – An October 1991 news segment of Jack Karlson being arrested outside a Chinese restaurant in Brisbane for using a stolen credit card.",
+      "Diet Coke and Mentos": "Diet Coke and Mentos – Geysers of carbonated drink mixed with Mentos.",
+      "Double Rainbow": "Double Rainbow – a video posted to YouTube by Paul Vasquez of him filming a double rainbow at Yosemite National Park.",
+      "Dramatic Chipmunk": "Dramatic Chipmunk – A video featuring a prairie dog (almost always inaccurately called a chipmunk) turning its head suddenly toward the camera, with a zoom-in on its face while suspenseful music plays.",
+      "Drinking Out of Cups": "Drinking Out of Cups – A video of Dan Deacon's 2003 spoken-word song of the same name.",
+      "Edgar's fall": "Edgar's fall – A video in which a Mexican boy tries to cross a stream using a branch, which gets lifted by his cousin causing him to fall into the stream.",
+      "Egg Crack Challenge": "Egg Crack Challenge – A TikTok trend that gained attention in 2023 in which parents filmed themselves cracking eggs on their children's foreheads while appearing to cook or bake with them.",
+      "eHarmony Video Bio": "eHarmony Video Bio – Video of a woman calling herself \"Debbie\" in an online dating video who ends up getting very emotional over her affection for cats.",
+      "Epic Beard Man": "Epic Beard Man – Video of a bus fight in Oakland, California in which 67-year-old Thomas Bruso physically defends himself against an African-American man after being accused of racial prejudice then punched by him.",
+      "Evolution of Dance": "The video was one of the earliest examples of a viral video posted on YouTube, having received 23 million hits within 2 weeks of posting in mid-2006",
+      "Ela Giorgi": "Ela Giorgi – A video of a 2008 traffic accident which gained popularity on YouTube and Greek social media in 2019.",
+      "Everyday": "Everyday – An art project by American photographer Noah Kalina in which Kalina takes a photograph of himself every day and then compiles the photographs into a timelapse.",
+      "From the Doctor to My Son Thomas": "From the Doctor to My Son Thomas – A recording of Scottish actor and director Peter Capaldi, in-character as the Twelfth Doctor, to Thomas Goodall, an autistic nine-year-old English boy, consoling him over the death of his grandmother.",
+      "Gallon smashing": "Gallon smashing – The act of smashing a gallon of liquid in a manner that appears to be accidental.",
+      "George Bush Doesn't Care About Black People": "After Myers speaks, West remarks that, \"George Bush doesn't care about black people\".",
+      "Golden Eagle Snatches Kid": "Golden Eagle Snatches Kid – A video filmed at a park in Montreal showing a golden eagle swooping down to grab a toddler with its talons before dropping the child a few feet off the ground.",
+      "Hawk Tuah Girl": "Hawk Tuah Girl – A video showing a woman named Haliey Welch using the catchphrase hawk tuah",
+      "Heroine of Hackney": "Heroine of Hackney – A video showing a local woman from Hackney berating looters during the 2011 England riots.",
+      "Horse Race Tests": "Horse Race Tests – A series of Twitter videos by indie game developer Blake Andrews in which poorly drawn, color-coded horses bounce around in a maze to race for a photorealistic carrot.",
+      "Impossible Is Nothing": "Impossible Is Nothing – An exaggerated and falsehood-filled video résumé by Yale student Aleksey Vayner.",
+      "Joey Ryan's Penis Wrestling Move": "Joey Ryan's Penis Wrestling Move – A popular viral video spread via YouTube and Social media showing a professional wrestler named Joey Ryan using his penis to overpower and throw his opponent during a live professional event",
+      "Keyboard Cat": "Keyboard Cat – Footage of a cat playing an electric keyboard that is appended to the end of blooper or other video as if to play the participants off stage after a mistake or gaffe.",
+      "Kony 2012": "Kony 2012 – An online video created by Invisible Children, Inc. to highlight the criminal acts of Joseph Kony to an international spotlight as part of a campaign to seek his capture and arrest.",
+      "The Last Lecture": "The Last Lecture – Carnegie Mellon University professor Randy Pausch, dying of pancreatic cancer, delivers an upbeat lecture on Really Achieving Your Childhood Dreams.",
+      "Leave Britney Alone!": "Leave Britney Alone! – A viral video of Cara Cunningham lashing out against critics of celebrity Britney Spears.",
+      "Leeroy Jenkins": "Leeroy Jenkins – A 2005 comedy skit recorded in World of Warcraft where a guild is planning a raid into a dungeon when Leeroy, who was away, returns and suddenly charges into the dungeon while yelling his name",
+      "Le Poisson Steve": "Le Poisson Steve – An anthropomorphic orange fish character created by Victoria Ronat and Thomas Ename. The character first appeared in a TikTok music video.",
+      "Lily's Disneyland Surprise....AGAIN!": "Lily's Disneyland Surprise....AGAIN! - A video of parents chatting with their kids and surprising them with a Disneyland trip. It is best known for originating the Side Eyeing Chloe meme.",
+      "lonelygirl15": "lonelygirl15 – A popular viral video spread via YouTube featuring a teenage girl named, \"Bree\", who would post video updates about a variety of issues dealing with the life of a typical teenager.",
+      "MacGyver the Lizard": "MacGyver the Lizard – Videos of a large, dog-like red tegu who comes when his name is called.",
+      "Michelle Jenneke": "The video of Jenneke dancing pre-race was uploaded on 25 July on YouTube and had more than 13 million views in less than a week.",
+      "Minecraft but I survive in parkour civilization [FULL MOVIE]": "Minecraft but I survive in parkour civilization [FULL MOVIE] – A two hour video by Youtuber Evbo compiling the episodes of the Minecraft web series \"Parkour Civilization\".",
+      "My Weekend as a 28-Year-Old in Chicago": "My Weekend as a 28-Year-Old in Chicago – A 2-minute video by Judd Crud walking through the increasingly unrealistic events of an imagined weekend in Chicago.",
+      "Nek Minnit": "Nek Minnit – A 10-second YouTube video from New Zealand featuring skater Levi Hawkin.",
+      "No pomegranates": "No pomegranates – a 2017 Twitter video in which Des Moines Area Community College professor Jane Martino is seen yelling at her students not to eat pomegranates.",
+      "My Story: Struggling, bullying, suicide and self-harm": "The video post went viral after her death on 10 October 2012, receiving over 1,600,000 views by 13 October 2012.",
+      "Potter Puppet Pals": "Its video titled \"The Mysterious Ticking Noise\" has received more than 184 million views as of January 2019, making it the most famous video of the series.",
+      "Shia LaBeouf's Motivational Speech": "Shia LaBeouf's Motivational Speech – A video of actor Shia LaBeouf giving a motivational speech.",
+      "Ricardo Milos": "The video consists of Milos dancing erotically in nothing but a US flag jock strap, boots, and a red bandana on his head.",
+      "Rejected": "Rejected – A viral animated short film by Don Hertzfeldt introduced as a collection of unaired promo interstitials and rejected advertisements.",
+      "The Spirit of Christmas": "Brian Graden sent copies of Jesus vs. Santa to several of his friends, and from there it was copied and distributed, including on the internet, where it became one of the first viral videos.",
+      "Star Wars Kid": "Star Wars Kid – A Québécois teenager became known as the \"Star Wars Kid\" after a video appeared on the Internet showing him swinging a golf ball retriever as if it were a lightsaber.",
+      "This is my story": "This is my story – A two-part video of 18-year-old American Internet personality Ben Breedlove explaining his heart condition using note cards as a visual aid.",
+      "Too Many Cooks": "Too Many Cooks – A 2014 short produced by Adult Swim that parodies the openings of many 1980s and 1990s American television shows with both meta and dark humor.",
+      "Ty kto takoy? Davay, do svidaniya!": "Ty kto takoy? Davay, do svidaniya! (\"Who are you? Come on, goodbye!\" in Russian) – A video of Azerbaijani meykhana performers, that gained over 2 million views on YouTube.",
+      "Unexpected John Cena": "Unexpected John Cena – Similar to Rickrolling, videos which seem to progress normally but then are interrupted using the video of wrestler John Cena's entrance song \"The Time is Now\" and performance, as if Cena were a scene stealer.",
+      "Umehara ga kimeta": "Umehara ga kimeta – This 17-second video contains commentary from a fighting game tournament. The enthusiastic commentators cry became so popular with users that it has been viewed millions of times and spawned hundreds of mashups.",
+      "Username:666": "Username:666 – A Japanese short horror video created by PiroPito depicting a user attempting to view the page of user \"666\" on YouTube, coming across a distorted and demonic version of the user's page.",
+      "We did it, Joe!": "We did it, Joe! – A 2020 video shared on Twitter in which Kamala Harris calls Joe Biden to congratulate him on winning the 2020 United States presidential election.",
+      "Wealdstone Raider": "Wealdstone Raider – A video of Wealdstone FC supporter Gordon Hill shouting at fans of opposing Whitehawk FC, including the phrases \"You want some?\", \"I'll give it ya [sic]\", and \"You've got no fans\".",
+      "\"Wicked Witch of the East, bro!\"": "\"Wicked Witch of the East, bro!\" – A 2018 viral video of two men debating, energetically, the narrative signifiers of witchery contra princesshood in the Wizard of Oz universe.",
+      "Wombo combo": "Wombo combo – Footage from a Super Smash Bros. Melee tournament known for its exceptionally loud commentary.",
+      "Will Smith Slap": "Will Smith Slap – A clip from the 94th Academy Awards where actor Will Smith slaps comedian Chris Rock in the face after he told a joke about the shaved hair of Smith's wife.",
+      "Zombie Kid Likes Turtles": "Zombie Kid Likes Turtles – Jonathon Ware, a boy with zombie face paint, says \"I like turtles\" on a KGW news segment.",
+      "Zoom Cat Lawyer": "Zoom Cat Lawyer – A live stream of a Texas virtual court proceeding over Zoom where attorney Rod Ponton has difficulties attempting to disable a cat filter on his webcam, telling the judge that \"I'm not a cat\".",
+      "Cow (2009)": "Cow (2009) – A public service announcement graphically depicting the dangers of distracted driving. A clip from the video received over one million views on YouTube by 25 August 2009.",
+      "Dumb Ways to Die (2012)": "Dumb Ways to Die (2012) – A music video featuring \"a variety of cute characters killing themselves in increasingly idiotic ways\" that went viral through sharing and social media.",
+      "Embrace Life (2010)": "Embrace Life (2010) – A public service announcement for seat belt advocacy made for a local area of the United Kingdom that achieved a million hits on its first two weeks on YouTube in 2010.",
+      "Set Yourself Free (2014)": "Set Yourself Free (2014) – A fictitious public service announcement that discouraged truancy in schools. As of 2017, the video has over 20 million views on YouTube."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [2 Girls 1 Cup]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Baby saying the N word]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Evolution of Dance]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Michelle Jenneke]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [My Story: Struggling, bullying, suicide and self-harm]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Ricardo Milos]: quote and source title never mention this answer; reviewer should confirm"
+    ],
+    "editedInReview": {
+      "removedAnswers": [
+        "2 Girls 1 Cup",
+        "Asians in the Library",
+        "Baby saying the N word",
+        "My Story: Struggling, bullying, suicide and self-harm"
+      ],
+      "reason": "explicit or hurtful titles, or not suitable for a family-friendly trivia game (human review 2026-10-30)"
+    }
+  }
+}

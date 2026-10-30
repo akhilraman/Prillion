@@ -1,0 +1,295 @@
+{
+  "question": {
+    "id": "us-pop-rap-beefs",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a widely documented hip-hop feud between two artists. You can name either artist or the feud itself.",
+    "answerSet": "open",
+    "criteria": "A documented rivalry between two hip-hop recording artists or acts involving diss records or public criticism of each other's music. Either participant's name or an identifiable name for the feud counts.",
+    "answers": [
+      {
+        "id": "jay-z-vs-nas",
+        "canonical": "Jay-Z vs Nas",
+        "aliases": [
+          "Jay-Z",
+          "Nas",
+          "Nas vs Jay-Z"
+        ],
+        "familiarity": 0.1458,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jay-Z and Nas exchanged the landmark diss tracks Takeover and Ether.",
+        "sourceIds": []
+      },
+      {
+        "id": "drake-vs-kendrick-lamar",
+        "canonical": "Drake vs Kendrick Lamar",
+        "aliases": [
+          "Drake",
+          "Kendrick Lamar",
+          "Kendrick",
+          "Kendrick vs Drake"
+        ],
+        "familiarity": 0.1458,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake and Kendrick Lamar exchanged diss tracks including Family Matters and Not Like Us.",
+        "sourceIds": []
+      },
+      {
+        "id": "50-cent-vs-ja-rule",
+        "canonical": "50 Cent vs Ja Rule",
+        "aliases": [
+          "50 Cent",
+          "50",
+          "Fifty Cent",
+          "Ja Rule",
+          "Ja Rule vs 50 Cent"
+        ],
+        "familiarity": 0.0583,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "50 Cent and Ja Rule maintained a long-running rivalry involving numerous diss records.",
+        "sourceIds": []
+      },
+      {
+        "id": "eminem-vs-machine-gun-kelly",
+        "canonical": "Eminem vs Machine Gun Kelly",
+        "aliases": [
+          "Eminem",
+          "Slim Shady",
+          "Machine Gun Kelly",
+          "MGK",
+          "Eminem vs MGK",
+          "MGK vs Eminem"
+        ],
+        "familiarity": 0.1458,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Machine Gun Kelly released Rap Devil during his feud with Eminem, who responded with Killshot.",
+        "sourceIds": []
+      },
+      {
+        "id": "nicki-minaj-vs-remy-ma",
+        "canonical": "Nicki Minaj vs Remy Ma",
+        "aliases": [
+          "Nicki Minaj",
+          "Nicki",
+          "Remy Ma",
+          "Remy Ma vs Nicki Minaj",
+          "Remy"
+        ],
+        "familiarity": 0.0583,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Remy Ma released Shether during her feud with Nicki Minaj, who responded on No Frauds.",
+        "sourceIds": []
+      },
+      {
+        "id": "ice-cube-vs-common",
+        "canonical": "Ice Cube vs Common",
+        "aliases": [
+          "Ice Cube",
+          "Common",
+          "Common Sense",
+          "Common vs Ice Cube"
+        ],
+        "familiarity": 0.0175,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Common released The Bitch in Yoo in response to Ice Cube's criticism during their musical dispute.",
+        "sourceIds": []
+      },
+      {
+        "id": "krs-one-vs-mc-shan",
+        "canonical": "KRS-One vs MC Shan",
+        "aliases": [
+          "KRS-One",
+          "KRS1",
+          "MC Shan",
+          "Bridge Wars",
+          "The Bridge Wars",
+          "Shan",
+          "MC Shan vs KRS-One"
+        ],
+        "familiarity": 0.0175,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "KRS-One and MC Shan were central opponents in the Bridge Wars, which produced Boogie Down Productions' The Bridge Is Over.",
+        "sourceIds": []
+      },
+      {
+        "id": "tupac-vs-biggie",
+        "canonical": "Tupac vs Biggie",
+        "aliases": [
+          "Tupac",
+          "2Pac",
+          "Tupac Shakur",
+          "Biggie",
+          "Biggie Smalls",
+          "The Notorious B.I.G.",
+          "Notorious BIG"
+        ],
+        "familiarity": 0.1458,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tupac Shakur and the Notorious B.I.G. had a highly publicized rivalry that included Tupac's diss track Hit 'Em Up.",
+        "sourceIds": []
+      },
+      {
+        "id": "ll-cool-j-vs-canibus",
+        "canonical": "LL Cool J vs Canibus",
+        "aliases": [
+          "LL Cool J",
+          "Canibus",
+          "Canibus vs LL Cool J"
+        ],
+        "familiarity": 0.0175,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LL Cool J and Canibus exchanged diss records including Second Round K.O. and The Ripper Strikes Back.",
+        "sourceIds": []
+      },
+      {
+        "id": "eazy-e-vs-dr-dre",
+        "canonical": "Eazy-E vs Dr. Dre",
+        "aliases": [
+          "Eazy-E",
+          "Dr. Dre",
+          "Dre",
+          "Dr. Dre vs Eazy-E"
+        ],
+        "familiarity": 0.0583,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Former N.W.A members Eazy-E and Dr. Dre released diss records aimed at each other after their split.",
+        "sourceIds": []
+      },
+      {
+        "id": "dj-quik-vs-mc-eiht",
+        "canonical": "DJ Quik vs MC Eiht",
+        "aliases": [
+          "DJ Quik",
+          "Quik",
+          "MC Eiht",
+          "MC Eiht vs DJ Quik",
+          "Eiht"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DJ Quik and MC Eiht had a long-running musical feud that included Quik's Dollaz + Sense.",
+        "sourceIds": []
+      },
+      {
+        "id": "t-i-vs-ludacris",
+        "canonical": "T.I. vs Ludacris",
+        "aliases": [
+          "T.I.",
+          "Ludacris",
+          "Luda",
+          "Ludacris vs T.I."
+        ],
+        "familiarity": 0.0175,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "T.I. and Ludacris had a public musical rivalry that included competing verses associated with Young Buck's Stomp.",
+        "sourceIds": []
+      },
+      {
+        "id": "lil-kim-vs-foxy-brown",
+        "canonical": "Lil' Kim vs Foxy Brown",
+        "aliases": [
+          "Lil' Kim",
+          "Foxy Brown",
+          "Foxy Brown vs Lil Kim"
+        ],
+        "familiarity": 0.0175,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lil' Kim and Foxy Brown had a widely documented rivalry involving musical jabs and public criticism.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Hip-hop rivalries have produced diss tracks, response records and long-running lyrical battles. These answers identify documented musical disputes, without treating claims made in diss tracks as facts.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "17c19cd2b7d54566",
+    "brief": "Name a famous, widely documented hip-hop feud between two artists, by either artist or the nickname of the feud.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Tupac vs Biggie": 2,
+      "Jay-Z vs Nas": 3,
+      "Drake vs Kendrick Lamar": 3,
+      "50 Cent vs Ja Rule": 3,
+      "Eminem vs Machine Gun Kelly": 3,
+      "Nicki Minaj vs Remy Ma": 3,
+      "Ice Cube vs Common": 3,
+      "LL Cool J vs Canibus": 2,
+      "KRS-One vs MC Shan": 3,
+      "Eazy-E vs Dr. Dre": 2,
+      "DJ Quik vs MC Eiht": 2,
+      "T.I. vs Ludacris": 2,
+      "Lil' Kim vs Foxy Brown": 2
+    },
+    "droppedForVotes": {
+      "Jadakiss vs Beanie Sigel": 1,
+      "Cam'ron vs Ma$e": 1,
+      "Roxanne Shanté vs Sparky D": 1,
+      "B.o.B vs Tyler, the Creator": 1,
+      "LL Cool J vs Kool Moe Dee": 1,
+      "Cam'ron vs Mase": 1,
+      "Soulja Boy vs Ice-T": 1,
+      "Nelly vs Chingy": 1,
+      "Ludacris vs. T.I.": 1
+    },
+    "verdicts": {
+      "Jay-Z vs Nas": {
+        "verdict": "correct",
+        "reason": "Their widely documented rivalry included Jay-Z's \"Takeover\" and Nas's \"Ether.\""
+      },
+      "Drake vs Kendrick Lamar": {
+        "verdict": "correct",
+        "reason": "Their documented musical rivalry included the diss tracks \"Family Matters\" and \"Not Like Us.\""
+      },
+      "50 Cent vs Ja Rule": {
+        "verdict": "correct",
+        "reason": "Their long-running, widely documented rivalry produced numerous diss records."
+      },
+      "Eminem vs Machine Gun Kelly": {
+        "verdict": "correct",
+        "reason": "Machine Gun Kelly's \"Rap Devil\" and Eminem's response \"Killshot\" are documented diss tracks in their feud."
+      },
+      "Nicki Minaj vs Remy Ma": {
+        "verdict": "correct",
+        "reason": "Their documented musical feud included Remy Ma's \"Shether\" and Minaj's response \"No Frauds.\""
+      },
+      "Ice Cube vs Common": {
+        "verdict": "correct",
+        "reason": "Common released \"The Bitch in Yoo\" following Ice Cube's criticism on Westside Connection's \"Westside Slaughterhouse.\""
+      },
+      "KRS-One vs MC Shan": {
+        "verdict": "correct",
+        "reason": "Both were central participants in the Bridge Wars, which included Boogie Down Productions' \"The Bridge Is Over.\""
+      },
+      "Tupac vs Biggie": {
+        "verdict": "correct",
+        "reason": "Their widely documented musical rivalry included Tupac's diss track \"Hit 'Em Up,\" directed at Biggie and others."
+      },
+      "LL Cool J vs Canibus": {
+        "verdict": "correct",
+        "reason": "Their documented feud included Canibus's \"Second Round K.O.\" and LL Cool J's \"The Ripper Strikes Back.\""
+      },
+      "Eazy-E vs Dr. Dre": {
+        "verdict": "correct",
+        "reason": "Their post-N.W.A rivalry included Dre's \"Dre Day\" and Eazy-E's \"Real Muthaphuckkin G's.\""
+      },
+      "DJ Quik vs MC Eiht": {
+        "verdict": "correct",
+        "reason": "Their documented musical feud included DJ Quik's diss track \"Dollaz + Sense.\""
+      },
+      "T.I. vs Ludacris": {
+        "verdict": "correct",
+        "reason": "Their documented rivalry included lyrical exchanges on Young Buck's \"Stomp.\""
+      },
+      "Lil' Kim vs Foxy Brown": {
+        "verdict": "correct",
+        "reason": "Their widely documented rivalry included diss records and public musical criticism."
+      }
+    },
+    "issues": []
+  }
+}

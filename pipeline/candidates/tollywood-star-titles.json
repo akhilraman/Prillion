@@ -1,0 +1,367 @@
+{
+  "question": {
+    "id": "tollywood-star-titles",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film star known by a fan title such as Mega Star, Power Star, Icon Star or Rebel Star.",
+    "answerSet": "open",
+    "criteria": "Any Telugu film actor with a widely documented fan or screen title qualifies. Answer with the actor’s name, not the title or a character name.",
+    "answers": [
+      {
+        "id": "chiranjeevi",
+        "canonical": "Chiranjeevi",
+        "aliases": [
+          "Megastar Chiranjeevi",
+          "Konidela Chiranjeevi",
+          "Chiru"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chiranjeevi is popularly known as Mega Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "pawan-kalyan",
+        "canonical": "Pawan Kalyan",
+        "aliases": [
+          "Pavan Kalyan",
+          "Konidela Pawan Kalyan",
+          "PK"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pawan Kalyan is popularly known as Power Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "allu-arjun",
+        "canonical": "Allu Arjun",
+        "aliases": [
+          "Bunny"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun is known as Icon Star and was previously widely billed as Stylish Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "prabhas",
+        "canonical": "Prabhas",
+        "aliases": [
+          "Prabhas Raju",
+          "Uppalapati Prabhas"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prabhas is popularly known as Rebel Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "mahesh-babu",
+        "canonical": "Mahesh Babu",
+        "aliases": [
+          "Ghattamaneni Mahesh Babu",
+          "Mahesh"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu is popularly known as Superstar.",
+        "sourceIds": []
+      },
+      {
+        "id": "jr-ntr",
+        "canonical": "Jr NTR",
+        "aliases": [
+          "Junior NTR",
+          "N. T. Rama Rao Jr.",
+          "Nandamuri Taraka Rama Rao Jr.",
+          "Tarak",
+          "NTR Jr"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is popularly known as Young Tiger.",
+        "sourceIds": []
+      },
+      {
+        "id": "ram-charan",
+        "canonical": "Ram Charan",
+        "aliases": [
+          "Konidela Ram Charan"
+        ],
+        "familiarity": 0.0855,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan is popularly known as Mega Power Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "ravi-teja",
+        "canonical": "Ravi Teja",
+        "aliases": [],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ravi Teja is popularly known as Mass Maharaja.",
+        "sourceIds": []
+      },
+      {
+        "id": "nani",
+        "canonical": "Nani",
+        "aliases": [
+          "Ghanta Naveen",
+          "Ghanta Naveen Babu"
+        ],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani is popularly known as Natural Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "nagarjuna",
+        "canonical": "Nagarjuna",
+        "aliases": [
+          "Akkineni Nagarjuna",
+          "Nagarjuna Akkineni"
+        ],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna is popularly known as King.",
+        "sourceIds": []
+      },
+      {
+        "id": "krishna",
+        "canonical": "Krishna",
+        "aliases": [
+          "Ghattamaneni Krishna",
+          "Superstar Krishna"
+        ],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krishna is popularly known as Superstar.",
+        "sourceIds": []
+      },
+      {
+        "id": "krishnam-raju",
+        "canonical": "Krishnam Raju",
+        "aliases": [
+          "Uppalapati Krishnam Raju"
+        ],
+        "familiarity": 0.0103,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krishnam Raju was popularly known as Rebel Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "ram-pothineni",
+        "canonical": "Ram Pothineni",
+        "aliases": [
+          "Pothineni Ram"
+        ],
+        "familiarity": 0.0103,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Pothineni is popularly known as Energetic Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "sai-dharam-tej",
+        "canonical": "Sai Dharam Tej",
+        "aliases": [
+          "Sai Durgha Tej",
+          "Sai Dharma Tej",
+          "Sai Tej",
+          "Sai Durga Tej",
+          "Sai Dharam Teja"
+        ],
+        "familiarity": 0.0103,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Dharam Tej is known by the title Supreme Hero.",
+        "sourceIds": []
+      },
+      {
+        "id": "sudheer-babu",
+        "canonical": "Sudheer Babu",
+        "aliases": [
+          "Sudheer Babu Posani",
+          "Posani Sudheer Babu",
+          "Sudhir Babu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sudheer Babu is known by the title Nitro Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "venkatesh",
+        "canonical": "Venkatesh",
+        "aliases": [
+          "Daggubati Venkatesh",
+          "Venkatesh Daggubati",
+          "Venky"
+        ],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh is popularly known as Victory Venkatesh.",
+        "sourceIds": []
+      },
+      {
+        "id": "nandamuri-balakrishna",
+        "canonical": "Nandamuri Balakrishna",
+        "aliases": [
+          "Balakrishna",
+          "Balayya",
+          "NBK"
+        ],
+        "familiarity": 0.0342,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nandamuri Balakrishna is popularly known as Nata Simham.",
+        "sourceIds": []
+      },
+      {
+        "id": "mohan-babu",
+        "canonical": "Mohan Babu",
+        "aliases": [
+          "Manchu Mohan Babu"
+        ],
+        "familiarity": 0.0103,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mohan Babu is popularly known as Collection King.",
+        "sourceIds": []
+      },
+      {
+        "id": "sampoornesh-babu",
+        "canonical": "Sampoornesh Babu",
+        "aliases": [
+          "Sampurnesh Babu",
+          "Sampoo",
+          "Sampoornesh",
+          "Sampu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sampoornesh Babu is known by the deliberately comic title Burning Star.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema celebrates its stars with distinctive titles used by fans, film credits and publicity. Some actors have several titles, and some titles have been associated with more than one actor.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "37348683dc76808f",
+    "brief": "Name a Telugu film star who is known by a fan-given title such as Mega Star, Power Star, Icon Star or Rebel Star (answer with the star's name).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Chiranjeevi": 3,
+      "Pawan Kalyan": 3,
+      "Allu Arjun": 3,
+      "Prabhas": 3,
+      "Mahesh Babu": 3,
+      "Jr NTR": 3,
+      "Ram Charan": 3,
+      "Ravi Teja": 3,
+      "Nani": 3,
+      "Venkatesh": 2,
+      "Nagarjuna": 3,
+      "Nandamuri Balakrishna": 2,
+      "Krishna": 3,
+      "Krishnam Raju": 3,
+      "Ram Pothineni": 3,
+      "Sai Dharam Tej": 3,
+      "Mohan Babu": 2,
+      "Sudheer Babu": 3,
+      "Sampoornesh Babu": 2
+    },
+    "droppedForVotes": {
+      "N. T. Rama Rao": 1,
+      "Manchu Manoj": 1,
+      "Balakrishna": 1,
+      "Aadi Saikumar": 1,
+      "Vijay Deverakonda": 1,
+      "Naga Chaitanya": 1,
+      "Vishwak Sen": 1,
+      "Rajasekhar": 1
+    },
+    "verdicts": {
+      "Chiranjeevi": {
+        "verdict": "correct",
+        "reason": "Widely known and billed as Mega Star."
+      },
+      "Pawan Kalyan": {
+        "verdict": "correct",
+        "reason": "Power Star is his widely documented fan and screen title."
+      },
+      "Allu Arjun": {
+        "verdict": "correct",
+        "reason": "Widely billed as Icon Star, and previously as Stylish Star."
+      },
+      "Prabhas": {
+        "verdict": "correct",
+        "reason": "Widely known as Rebel Star."
+      },
+      "Mahesh Babu": {
+        "verdict": "correct",
+        "reason": "Superstar is a widely used title for him."
+      },
+      "Jr NTR": {
+        "verdict": "correct",
+        "reason": "Widely known and billed as Young Tiger."
+      },
+      "Ram Charan": {
+        "verdict": "correct",
+        "reason": "Mega Power Star is his established fan and screen title."
+      },
+      "Ravi Teja": {
+        "verdict": "correct",
+        "reason": "Widely known and billed as Mass Maharaja."
+      },
+      "Nani": {
+        "verdict": "correct",
+        "reason": "Natural Star is his widely documented screen title."
+      },
+      "Nagarjuna": {
+        "verdict": "correct",
+        "reason": "King is widely used as his fan and promotional title."
+      },
+      "Krishna": {
+        "verdict": "correct",
+        "reason": "The veteran Telugu actor was widely known as Superstar Krishna."
+      },
+      "Krishnam Raju": {
+        "verdict": "correct",
+        "reason": "Rebel Star was his established and widely documented title."
+      },
+      "Ram Pothineni": {
+        "verdict": "correct",
+        "reason": "Widely known and billed as Energetic Star."
+      },
+      "Sai Dharam Tej": {
+        "verdict": "correct",
+        "reason": "Supreme Hero is a documented promotional and fan title for him."
+      },
+      "Sudheer Babu": {
+        "verdict": "correct",
+        "reason": "Nitro Star is an established promotional title used for him."
+      },
+      "Venkatesh": {
+        "verdict": "correct",
+        "reason": "Widely known and billed as Victory Venkatesh."
+      },
+      "Nandamuri Balakrishna": {
+        "verdict": "correct",
+        "reason": "Nata Simham is his widely documented fan and screen title."
+      },
+      "Mohan Babu": {
+        "verdict": "correct",
+        "reason": "Widely known by the title Collection King."
+      },
+      "Sampoornesh Babu": {
+        "verdict": "correct",
+        "reason": "Burning Star is his widely documented, deliberately comic screen title."
+      }
+    },
+    "issues": []
+  }
+}

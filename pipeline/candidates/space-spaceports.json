@@ -1,0 +1,543 @@
+{
+  "question": {
+    "id": "space-spaceports",
+    "category": "space",
+    "prompt": "Name a spaceport or rocket launch site that has launched a rocket to orbit or beyond.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "centre-interarm-es-d-essais-d-engins-sp-ciaux-ciees-hammaguir",
+        "canonical": "Centre interarmées d'essais d'engins spéciaux (CIEES), Hammaguir",
+        "aliases": [
+          "CIEES",
+          "Hammaguir",
+          "Centre interarmées d'essais d'engins spéciaux"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Hammaguir's highest achieved altitude as orbital.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "broglio-space-centre-san-marco-malindi",
+        "canonical": "Broglio Space Centre (San Marco), Malindi",
+        "aliases": [
+          "Broglio Space Centre",
+          "Broglio Space Center",
+          "San Marco",
+          "San Marco platform",
+          "Malindi"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Kenyan launch facility is listed as having achieved orbit.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "jiuquan-satellite-launch-center",
+        "canonical": "Jiuquan Satellite Launch Center",
+        "aliases": [
+          "Jiuquan",
+          "Jiuquan Satellite Launch Centre"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jiuquan is listed with an orbital highest achieved altitude and human spaceflight activity.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "taiyuan-satellite-launch-center",
+        "canonical": "Taiyuan Satellite Launch Center",
+        "aliases": [
+          "Taiyuan",
+          "Taiyuan Satellite Launch Centre"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taiyuan's table entry lists orbital launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "xichang-satellite-launch-center",
+        "canonical": "Xichang Satellite Launch Center",
+        "aliases": [
+          "Xichang",
+          "Xichang Satellite Launch Centre"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Xichang is listed as having achieved interplanetary launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "wenchang-satellite-launch-center",
+        "canonical": "Wenchang Satellite Launch Center",
+        "aliases": [
+          "Wenchang",
+          "Wenchang Satellite Launch Centre"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wenchang's highest achieved altitude is classified as interplanetary.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "vikram-sarabhai-space-centre-thumba-equatorial",
+        "canonical": "Vikram Sarabhai Space Centre (Thumba Equatorial)",
+        "aliases": [
+          "Vikram Sarabhai Space Centre",
+          "Vikram Sarabhai Space Center",
+          "Thumba",
+          "Thumba Equatorial"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supplied table classifies this site's highest achieved altitude as orbital.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "satish-dhawan-space-centre-sriharikota-range",
+        "canonical": "Satish Dhawan Space Centre (Sriharikota Range)",
+        "aliases": [
+          "Satish Dhawan Space Centre",
+          "Satish Dhawan Space Center",
+          "Sriharikota",
+          "Sriharikota Range"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sriharikota is listed with interplanetary launches, including lunar and Mars probes.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "shahroud-space-center",
+        "canonical": "Shahroud Space Center",
+        "aliases": [
+          "Shahroud",
+          "Shahroud Space Centre"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shahroud is listed as an orbital launch site in Iran.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "semnan-spaceport",
+        "canonical": "Semnan spaceport",
+        "aliases": [
+          "Semnan",
+          "Semnan Space Port"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Semnan's highest achieved altitude is listed as orbital.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "palmachim-air-force-base",
+        "canonical": "Palmachim Air Force Base",
+        "aliases": [
+          "Palmachim",
+          "Palmachim AFB"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Israeli base is listed as having achieved orbital launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "uchinoura-space-center",
+        "canonical": "Uchinoura Space Center",
+        "aliases": [
+          "Uchinoura",
+          "Uchinoura Space Centre"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Uchinoura is listed with an interplanetary highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "tanegashima-space-center",
+        "canonical": "Tanegashima Space Center",
+        "aliases": [
+          "Tanegashima",
+          "Tanegashima Space Centre"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tanegashima is listed as having achieved interplanetary launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "spaceport-kii",
+        "canonical": "Spaceport Kii",
+        "aliases": [
+          "Space Port Kii",
+          "Kii"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supplied table lists Spaceport Kii's highest achieved altitude as orbital.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "baikonur-cosmodrome",
+        "canonical": "Baikonur Cosmodrome",
+        "aliases": [
+          "Baikonur",
+          "Tyuratam"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baikonur is listed as having achieved interplanetary launches and hosted the first satellite and first human in space.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "naro-space-center",
+        "canonical": "Naro Space Center",
+        "aliases": [
+          "Naro",
+          "Naro Space Centre",
+          "Goheung"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supplied table classifies Naro's highest achieved altitude as orbital.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "svobodny-cosmodrome",
+        "canonical": "Svobodny Cosmodrome",
+        "aliases": [
+          "Svobodny"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Svobodny is listed as an orbital launch site converted from an ICBM base.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "yasny-cosmodrome",
+        "canonical": "Yasny Cosmodrome",
+        "aliases": [
+          "Yasny",
+          "Dombarovsky",
+          "Dombarovskiy"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yasny is listed as having achieved orbital launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "vostochny-cosmodrome",
+        "canonical": "Vostochny Cosmodrome",
+        "aliases": [
+          "Vostochny"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vostochny's highest achieved altitude is listed as lunar.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "kapustin-yar-cosmodrome",
+        "canonical": "Kapustin Yar Cosmodrome",
+        "aliases": [
+          "Kapustin Yar"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kapustin Yar is listed as an orbital launch site previously used for satellites.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "plesetsk-cosmodrome",
+        "canonical": "Plesetsk Cosmodrome",
+        "aliases": [
+          "Plesetsk"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Plesetsk is listed with an orbital highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "cape-canaveral-space-force-station",
+        "canonical": "Cape Canaveral Space Force Station",
+        "aliases": [
+          "Cape Canaveral"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cape Canaveral's highest achieved altitude is classified as interstellar.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "vandenberg-space-force-base",
+        "canonical": "Vandenberg Space Force Base",
+        "aliases": [
+          "Vandenberg"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vandenberg is listed as having achieved interplanetary launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "kennedy-space-center",
+        "canonical": "Kennedy Space Center",
+        "aliases": [
+          "Kennedy Space Centre",
+          "KSC"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kennedy Space Center is listed with an interplanetary highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "pacific-spaceport-complex",
+        "canonical": "Pacific Spaceport Complex",
+        "aliases": [
+          "Pacific Spaceport Complex Alaska",
+          "Kodiak"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Kodiak facility is listed as having achieved orbital launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "mid-atlantic-regional-spaceport-mars",
+        "canonical": "Mid-Atlantic Regional Spaceport (MARS)",
+        "aliases": [
+          "Mid-Atlantic Regional Spaceport",
+          "MARS"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Mid-Atlantic Regional Spaceport is listed with a lunar highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "spacex-starbase-spaceport",
+        "canonical": "SpaceX Starbase Spaceport",
+        "aliases": [
+          "Starbase",
+          "Boca Chica",
+          "SpaceX Starbase"
+        ],
+        "familiarity": 0.0822,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Starbase is listed with an orbital highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "guiana-space-centre",
+        "canonical": "Guiana Space Centre",
+        "aliases": [
+          "Guiana Space Center",
+          "Kourou"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Guiana Space Centre is listed as having achieved interplanetary launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "woomera-test-range",
+        "canonical": "Woomera Test Range",
+        "aliases": [
+          "Woomera"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Woomera is listed as orbital, with two satellite launches noted.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "reagan-test-site",
+        "canonical": "Reagan Test Site",
+        "aliases": [
+          "Omelek Island",
+          "Omelek",
+          "Kwajalein Atoll"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Reagan Test Site on Omelek Island is listed as orbital and associated with SpaceX Falcon 1 launches.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "rocket-lab-launch-complex-1",
+        "canonical": "Rocket Lab Launch Complex 1",
+        "aliases": [
+          "Launch Complex 1",
+          "Mahia Peninsula",
+          "Mahia",
+          "Rocket Lab LC-1"
+        ],
+        "familiarity": 0.0329,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rocket Lab's Mahia launch facility is listed with a lunar highest achieved altitude.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "ocean-odyssey-complex",
+        "canonical": "Ocean Odyssey complex",
+        "aliases": [
+          "Ocean Odyssey",
+          "Odyssey",
+          "Sea Launch"
+        ],
+        "familiarity": 0.0099,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ocean Odyssey is listed as a mobile orbital satellite launch platform.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      },
+      {
+        "id": "russian-delta-class-submarines",
+        "canonical": "Russian Delta class submarines",
+        "aliases": [
+          "Delta class submarines",
+          "Delta-class submarines",
+          "Russian Delta-class submarines"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists these mobile submarine launch platforms as having launched satellites into Earth orbit.",
+        "sourceIds": [
+          "list-of-rocket-launch-sites"
+        ]
+      }
+    ],
+    "explanation": "These sites range from famous crewed-spaceflight bases to smaller satellite launch facilities. The source also includes mobile launch platforms at sea; proposed sites and sites listed only with suborbital altitudes do not count.",
+    "sources": [
+      {
+        "id": "list-of-rocket-launch-sites",
+        "title": "List of rocket launch sites",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_rocket_launch_sites",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Accept sites or mobile launch platforms whose 'Highest achieved altitude' in the supplied document is Orbital, Lunar, Interplanetary or Interstellar."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "94ca3149d667f1dc",
+    "brief": "Name a spaceport or rocket launch site.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-rocket-launch-sites",
+        "version": "1373883742",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Centre interarmées d'essais d'engins spéciaux (CIEES), Hammaguir": "French Algeria | Centre interarmées d'essais d'engins spéciaux (CIEES), Hammaguir | 31°05′58″N 2°50′09″W / 31.09951°N 2.83581°W / 31.09951; -2.83581 (Hammaguir) | 1947–1967 | 230 | 18,000 kg | Orbital",
+      "Broglio Space Centre (San Marco), Malindi": "Kenya | Broglio Space Centre (San Marco), Malindi | 2°56′27″S 40°12′48″E / 2.94080°S 40.21340°E / -2.94080; 40.21340 (San Marco platform) | 1964–1988 | 27 | 20,000 kg | Orbital",
+      "Jiuquan Satellite Launch Center": "China | Jiuquan Satellite Launch Center | 40°57′38″N 100°17′54″E / 40.96056°N 100.29833°E / 40.96056; 100.29833 (Jiuquan) | 1970– | 464,000 kg | Orbital | Human spaceflight",
+      "Taiyuan Satellite Launch Center": "China | Taiyuan Satellite Launch Center | 38°50′56.71″N 111°36′30.59″E / 38.8490861°N 111.6084972°E / 38.8490861; 111.6084972 (Taiyuan) | 1980– | 249,000 kg | Orbital | Polar satellites",
+      "Xichang Satellite Launch Center": "China | Xichang Satellite Launch Center | 28°14′47″N 102°01′41″E / 28.24646°N 102.02814°E / 28.24646; 102.02814 (Xichang) | 1984– | 459,000 kg | Interplanetary | Geo-synchronous satellites, lunar probes.",
+      "Wenchang Satellite Launch Center": "China | Wenchang Satellite Launch Center | 19°36′52.17″N 110°57′4.08″E / 19.6144917°N 110.9511333°E / 19.6144917; 110.9511333 (Wenchang) | 2016– | 879,000 kg | Interplanetary",
+      "Vikram Sarabhai Space Centre (Thumba Equatorial)": "India | Vikram Sarabhai Space Centre (Thumba Equatorial), Thiruvananthapuram District, Kerala | 8°31′53″N 76°52′08″E / 8.5314°N 76.8690°E / 8.5314; 76.8690 (Vikram Sarabhai Space Centre) | 1962– | | Orbital",
+      "Satish Dhawan Space Centre (Sriharikota Range)": "India | Satish Dhawan Space Centre (Sriharikota Range), Tirupati District, Andhra Pradesh | 13°44′15″N 80°14′06″E / 13.73740°N 80.23510°E / 13.73740; 80.23510 (Sriharikota) | 1971– | 690,000 kg | Interplanetary | Polar and Geosynchronous Satellites; Lunar and Mars probes.",
+      "Shahroud Space Center": "Iran | Shahroud Space Center | 36°25′12″N 55°01′12″E / 36.42000°N 55.02000°E / 36.42000; 55.02000 (Emamshahr) | 1998– | | Orbital",
+      "Semnan spaceport": "Iran | Semnan spaceport | 35°14′05″N 53°55′15″E / 35.234631°N 53.920941°E / 35.234631; 53.920941 (Semnan) | 2009– | | Orbital",
+      "Palmachim Air Force Base": "Israel | Palmachim Air Force Base | 31°53′05″N 34°40′49″E / 31.88484°N 34.68020°E / 31.88484; 34.68020 (Palmachim) | 1987– | 70000 kg | Orbital",
+      "Uchinoura Space Center": "Japan | Uchinoura Space Center | 31°15′07″N 131°04′45″E / 31.25186°N 131.07914°E / 31.25186; 131.07914 (Uchinoura) | 1962– | 139,000 kg | Interplanetary",
+      "Tanegashima Space Center": "Japan | Tanegashima Space Center, Tanegashima Island | 30°23′27″N 130°58′05″E / 30.39096°N 130.96813°E / 30.39096; 130.96813 (Tanegashima) | 1967– | 445,000 kg | Interplanetary",
+      "Spaceport Kii": "Japan | Spaceport Kii, Kushimoto, Wakayama Prefecture | 33°33′03″N 135°52′47″E / 33.550833°N 135.879722°E / 33.550833; 135.879722 (Space Port Kii) | 2024– | | Orbital | Orbital launch site for Space One",
+      "Baikonur Cosmodrome": "Baikonur Cosmodrome, Tyuratam | 45°57′19″N 63°21′01″E / 45.95515°N 63.35028°E / 45.95515; 63.35028 (Baikonur) | 1955– | 2,400,000 kg | Interplanetary | First satellite, first human in space. Operated by Russia.",
+      "Naro Space Center": "South Korea | Naro Space Center, Goheung | 34°25′33″N 127°31′41″E / 34.42585°N 127.52793°E / 34.42585; 127.52793 (Naro) | 2008– | 200,000 kg | Orbital | Attempted satellite launches",
+      "Svobodny Cosmodrome": "Svobodny Cosmodrome, Amur Oblast | 51°50′04″N 128°16′33″E / 51.83441°N 128.27570°E / 51.83441; 128.27570 (Svobodny) | 1957–2007 | 47,000 kg | Orbital | ICBM base converted for satellites",
+      "Yasny Cosmodrome": "Russia | Yasny Cosmodrome (formerly Dombarovsky), Orenburg Oblast | 51°12′25″N 59°51′00″E / 51.20706°N 59.85003°E / 51.20706; 59.85003 (Dombarovskiy) | 2006– | 211,000 kg | Orbital",
+      "Vostochny Cosmodrome": "Russia | Vostochny Cosmodrome, Amur Oblast | 51°52′59″N 128°19′59″E / 51.883°N 128.333°E / 51.883; 128.333 (Vostochny) | 2016– | | Lunar",
+      "Kapustin Yar Cosmodrome": "Kapustin Yar Cosmodrome, Astrakhan Oblast | 48°34′41″N 46°15′15″E / 48.57807°N 46.25420°E / 48.57807; 46.25420 (Kapustin Yar) | 1957– | | | Orbital | Previously for satellite launches",
+      "Plesetsk Cosmodrome": "Soviet Union/ Russia | Plesetsk Cosmodrome | 62°55′32″N 40°34′40″E / 62.92556°N 40.57778°E / 62.92556; 40.57778 (Plesetsk Cosmodrome) | 1966– | 1000+ | 760,000 kg | Orbital",
+      "Cape Canaveral Space Force Station": "United States | Cape Canaveral Space Force Station, Florida | 28°28′00″N 80°33′31″W / 28.46675°N 80.55852°W / 28.46675; -80.55852 (Cape Canaveral) | 1949– | 1000+ | | Interstellar",
+      "Vandenberg Space Force Base": "United States | Vandenberg Space Force Base, California | 34°46′19″N 120°36′04″W / 34.77204°N 120.60124°W / 34.77204; -120.60124 (Vandenberg) | 1958– | 500+ | | Interplanetary",
+      "Kennedy Space Center": "United States | Kennedy Space Center, Florida | 28°36′30″N 80°36′14″W / 28.6082°N 80.6040°W / 28.6082; -80.6040 (Kennedy Space Center) | 1962– | 151 | 3,000,000 kg | Interplanetary",
+      "Pacific Spaceport Complex": "United States | Pacific Spaceport Complex, Kodiak, Alaska | 57°26′07″N 152°20′22″W / 57.43533°N 152.33931°W / 57.43533; -152.33931 (Kodiak) | 1991– | 26 | 86,000 kg | Orbital",
+      "Mid-Atlantic Regional Spaceport (MARS)": "United States | Mid-Atlantic Regional Spaceport (MARS), Delmarva Peninsula, Virginia | 37°50′00″N 75°29′00″W / 37.833378°N 75.483284°W / 37.833378; -75.483284 (Mid-Atlantic Regional Spaceport) | 1995– | 22 | 89,805 kg | Lunar",
+      "SpaceX Starbase Spaceport": "United States | SpaceX Starbase Spaceport, Starbase, Texas | 25°59′46″N 97°09′14″W / 25.996°N 97.154°W / 25.996; -97.154 (Boca Chica) | 2018– | ~12 | ~5,000,000 kg | Orbital",
+      "Guiana Space Centre": "French Guiana | Guiana Space Centre, Kourou | 5°14′15″N 52°46′10″W / 5.23739°N 52.76950°W / 5.23739; -52.76950 (Kourou) | 1968– | <200 | 777,000 kg | Interplanetary",
+      "Woomera Test Range": "Australia | Woomera Test Range, SA | 30°57′31″S 136°30′13″E / 30.95875°S 136.50366°E / -30.95875; 136.50366 (Woomera) | 1950s– | | 28,000 kg | Orbital | Australian government research facility. Missile testing, 2 satellite launches.",
+      "Reagan Test Site": "Marshall Islands | Reagan Test Site, Omelek Island, Kwajalein Atoll | 9°02′53″N 167°44′35″E / 9.048167°N 167.743083°E / 9.048167; 167.743083 (Omelek) | 1950s– | | 39,000 kg | Orbital | US-controlled ICBM base converted for satellites. SpaceX Falcon 1.",
+      "Rocket Lab Launch Complex 1": "New Zealand | Rocket Lab Launch Complex 1, Mahia Peninsula | 39°15′38″S 177°51′52″E / 39.26044°S 177.86431°E / -39.26044; 177.86431 (Mahia Peninsula) | 2017– | 42 | 13,000 kg | Lunar",
+      "Ocean Odyssey complex": "| Ocean Odyssey complex | Mobile | 1999– | 30 | 462,000 kg | Orbital | Mobile satellite launch platform operated by Sea Launch.",
+      "Russian Delta class submarines": "Russia | Russian Delta class submarines | Mobile | 1998– | 2 | 30,000 kg | Orbital | Launch of uncrewed satellites into Earth orbit via converted SLBM missile Shtil from the Barents Sea."
+    },
+    "issues": []
+  }
+}

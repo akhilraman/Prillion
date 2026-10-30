@@ -1,0 +1,1165 @@
+{
+  "question": {
+    "id": "tollywood-ravi-teja-films",
+    "category": "tollywood",
+    "prompt": "Name a film in Ravi Teja's filmography for which he has an acting or voice-acting credit.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "karthavyam",
+        "canonical": "Karthavyam",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ravi Teja is credited as Chakravarthy's friend in an uncredited role.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "abhimanyu",
+        "canonical": "Abhimanyu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays a student leader in this Kannada film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "chaitanya",
+        "canonical": "Chaitanya",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He has an uncredited role as a racer.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "aaj-ka-goonda-raj",
+        "canonical": "Aaj Ka Goonda Raj",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Raja's friend in this Hindi film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "collector-gari-alludu",
+        "canonical": "Collector Gari Alludu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His uncredited role is listed as a college student or MLA's son.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "laati",
+        "canonical": "Laati",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Avinash's henchman in an uncredited role.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "allari-priyudu",
+        "canonical": "Allari Priyudu",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He appears as Raja's friend.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "varasudu",
+        "canonical": "Varasudu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He has an uncredited role as a student.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "ninne-pelladata",
+        "canonical": "Ninne Pelladata",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He appears in an uncredited role as Mahalakshmi's eve teaser.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "sindhooram",
+        "canonical": "Sindhooram",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chanti in Sindhooram.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "padutha-theeyaga",
+        "canonical": "Padutha Theeyaga",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Sai in Padutha Theeyaga.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "o-panaipothundi-babu",
+        "canonical": "O Panaipothundi Babu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Lakshaman, Lakshman.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "manasichi-choodu",
+        "canonical": "Manasichi Choodu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chanti in Manasichi Choodu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "seetharama-raju",
+        "canonical": "Seetharama Raju",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Seenu in Seetharama Raju.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "preminche-manasu",
+        "canonical": "Preminche Manasu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Vasanth Kumar / Ranjanipriya.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "premaku-velayara",
+        "canonical": "Premaku Velayara",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Premaku Velayara.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "samudram",
+        "canonical": "Samudram",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chepala Nani in Samudram.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "nee-kosam",
+        "canonical": "Nee Kosam",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This film gave him his debut in a lead role as Ravi.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "annayya",
+        "canonical": "Annayya",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Annayya.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "kshemamga-velli-labhamga-randi",
+        "canonical": "Kshemamga Velli Labhamga Randi",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Appala Raju in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "manasichanu",
+        "canonical": "Manasichanu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Suryakanth in Manasichanu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "sakutumba-saparivaara-sametam",
+        "canonical": "Sakutumba Saparivaara Sametam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "tirumala-tirupati-venkatesa",
+        "canonical": "Tirumala Tirupati Venkatesa",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Tirupathi in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "chiranjeevulu",
+        "canonical": "Chiranjeevulu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Charan in Chiranjeevulu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "vande-matharam",
+        "canonical": "Vande Matharam",
+        "aliases": [
+          "Vande Mataram"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays a citizen rights council member in this Kannada film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "budget-padmanabham",
+        "canonical": "Budget Padmanabham",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Budget Padmanabham.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "ammayi-kosam",
+        "canonical": "Ammayi Kosam",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Ammayi Kosam.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "itlu-sravani-subramanyam",
+        "canonical": "Itlu Sravani Subramanyam",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Subramanyam in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "avunu-valliddaru-ista-paddaru",
+        "canonical": "Avunu Valliddaru Ista Paddaru!",
+        "aliases": [
+          "Avunu Valliddaru Ista Paddaru"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Anil Kumar in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "idiot",
+        "canonical": "Idiot",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chanti in Idiot.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "khadgam",
+        "canonical": "Khadgam",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Koti, a performance listed with a Nandi Special Jury Award.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "anveshana",
+        "canonical": "Anveshana",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Vamsy in Anveshana.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "ee-abbai-chala-manchodu",
+        "canonical": "Ee Abbai Chala Manchodu",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Vivekananda in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "amma-nanna-o-tamila-ammayi",
+        "canonical": "Amma Nanna O Tamila Ammayi",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chandu in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "oka-raju-oka-rani",
+        "canonical": "Oka Raju Oka Rani",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Oka Raju Oka Rani.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "dongodu",
+        "canonical": "Dongodu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Meesala Madhava in Dongodu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "veede",
+        "canonical": "Veede",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Yedukondalu in Veede.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "venky",
+        "canonical": "Venky",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Venkateswara \"Venky\" Rao.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "naa-autograph",
+        "canonical": "Naa Autograph",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Seenu in Naa Autograph.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "chanti",
+        "canonical": "Chanti",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays the title character in Chanti.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "bhadra",
+        "canonical": "Bhadra",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays the title character in Bhadra.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "bhageeratha",
+        "canonical": "Bhageeratha",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chandu in Bhageeratha.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "shock",
+        "canonical": "Shock",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chandra Shekar in Shock.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "vikramarkudu",
+        "canonical": "Vikramarkudu",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His roles are DCP Vikram Singh Rathore IPS and Athili Sathi Babu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "khatarnak",
+        "canonical": "Khatarnak",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Dasu in Khatarnak.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "dubai-seenu",
+        "canonical": "Dubai Seenu",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Srinivas \"Seenu\" Rao.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "shankar-dada-zindabad",
+        "canonical": "Shankar Dada Zindabad",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He appears as himself in the song \"Jagadeka Veerudiki\".",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "krishna",
+        "canonical": "Krishna",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays the title character in Krishna.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "baladur",
+        "canonical": "Baladur",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Chanti in Baladur.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "neninthe",
+        "canonical": "Neninthe",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi, a performance listed with a Nandi Award for Best Actor.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "kick",
+        "canonical": "Kick",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Kalyan in Kick.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "anjaneyulu",
+        "canonical": "Anjaneyulu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays the title character in Anjaneyulu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "sambho-siva-sambho",
+        "canonical": "Sambho Siva Sambho",
+        "aliases": [
+          "Shambo Shiva Shambo",
+          "Shambho Shiva Shambho"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Karna in this film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "don-seenu",
+        "canonical": "Don Seenu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Srinivasa Rao alias Don Seenu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "mirapakay",
+        "canonical": "Mirapakay",
+        "aliases": [
+          "Mirapakaya"
+        ],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Rishikesh in Mirapakay.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "dongala-mutha",
+        "canonical": "Dongala Mutha",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Sudheer in Dongala Mutha.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "veera",
+        "canonical": "Veera",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Veera Venkata Satyanarayana / Deva.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "katha-screenplay-darsakatvam-appalaraju",
+        "canonical": "Katha Screenplay Darsakatvam Appalaraju",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He has a cameo as a body double of himself.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "nippu",
+        "canonical": "Nippu",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Surya in Nippu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "daruvu",
+        "canonical": "Daruvu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His roles are listed as Bullet Raja and Ravindra.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "devudu-chesina-manushulu",
+        "canonical": "Devudu Chesina Manushulu",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His character is named Ravi Teja.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "sarocharu",
+        "canonical": "Sarocharu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Karthik in Sarocharu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "balupu",
+        "canonical": "Balupu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Ravi in Balupu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "power",
+        "canonical": "Power",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Tirupathi / ACP Baldev Sahay.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "romeo",
+        "canonical": "Romeo",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He makes a guest appearance as himself.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "kick-2",
+        "canonical": "Kick 2",
+        "aliases": [
+          "Kick II"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His roles are listed as Kalyan and Robin Hood.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "bengal-tiger",
+        "canonical": "Bengal Tiger",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Akash Narayana in Bengal Tiger.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "dongaata",
+        "canonical": "Dongaata",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He appears as himself in the song \"Break Up Antu\".",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "vajrakaya",
+        "canonical": "Vajrakaya",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He makes a special song appearance as himself in this Kannada film.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "raja-the-great",
+        "canonical": "Raja The Great",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Raja in Raja The Great.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "touch-chesi-chudu",
+        "canonical": "Touch Chesi Chudu",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays ACP Karthikeya, also called Karthik.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "nela-ticket",
+        "canonical": "Nela Ticket",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His character is listed as Nela Ticket.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "amar-akbar-anthony",
+        "canonical": "Amar Akbar Anthony",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Amar / Akbar / Anthony.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "disco-raja",
+        "canonical": "Disco Raja",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His roles are listed as Disco Raja and Vasu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "krack",
+        "canonical": "Krack",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays CI Pothuraju Veera Shankar.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "khiladi",
+        "canonical": "Khiladi",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Mohan Gandhi / Khiladi.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "ramarao-on-duty",
+        "canonical": "Ramarao on Duty",
+        "aliases": [
+          "Rama Rao on Duty"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays B. Ramarao.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "dhamaka",
+        "canonical": "Dhamaka",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Swamy Vivekananda Rao / Anand Chakravarthy.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [],
+        "familiarity": 0.0327,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays ACP Vikram Sagar IPS.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "ravanasura",
+        "canonical": "Ravanasura",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays advocate Ravindra in Ravanasura.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "tiger-nageswara-rao",
+        "canonical": "Tiger Nageswara Rao",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays the title character in Tiger Nageswara Rao.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "eagle",
+        "canonical": "Eagle",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Sahadev Varma, also called Eagle.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "mr-bachchan",
+        "canonical": "Mr. Bachchan",
+        "aliases": [
+          "Mr Bachchan",
+          "Mister Bachchan"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He plays Indukuri Anand.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "mass-jathara",
+        "canonical": "Mass Jathara",
+        "aliases": [
+          "Mass Jatara"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He is listed as playing Lakshman Bheri.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "bhartha-mahasayulaku-wignyapthi",
+        "canonical": "Bhartha Mahasayulaku Wignyapthi",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "His role is listed as Ram Sathyanarayana / Elvis.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "irumudi",
+        "canonical": "Irumudi",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He is listed as playing Trinadh Rama Kasu.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "thulabharam",
+        "canonical": "Thulabharam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this upcoming film among his acting credits with his role to be announced.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "maryada-ramanna",
+        "canonical": "Maryada Ramanna",
+        "aliases": [],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He voices Ramanna's Bicycle.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "doosukeltha",
+        "canonical": "Doosukeltha",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He is credited as the narrator in the voice-acting filmography.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "awe",
+        "canonical": "Awe",
+        "aliases": [
+          "Awe!"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He voices Chanti, a bonsai tree.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "mahaveerudu",
+        "canonical": "Mahaveerudu",
+        "aliases": [],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He has a voice-acting credit in the Telugu-language dubbed version of Maaveeran.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      },
+      {
+        "id": "hanu-man",
+        "canonical": "Hanu-Man",
+        "aliases": [
+          "Hanu Man",
+          "Hanuman"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He voices Koti, a monkey.",
+        "sourceIds": [
+          "ravi-teja-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are the films listed under acting and voice acting in the supplied filmography, including uncredited roles, cameos, guest appearances and the upcoming film Thulabharam. Television roles and production-only credits are excluded.",
+    "sources": [
+      {
+        "id": "ravi-teja-filmography",
+        "title": "Ravi Teja filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ravi_Teja_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "bcbf1a22e1f80330",
+    "brief": "Name a film in which the Telugu actor Ravi Teja has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "ravi-teja-filmography",
+        "version": "1380216369",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Karthavyam": "1990 | Karthavyam | Chakravarthy's friend | Uncredited |",
+      "Abhimanyu": "1990 | Abhimanyu | Student leader | Kannada film; uncredited |",
+      "Chaitanya": "1991 | Chaitanya | Racer | Uncredited |",
+      "Aaj Ka Goonda Raj": "1992 | Aaj Ka Goonda Raj | Raja's friend | Hindi film; uncredited |",
+      "Collector Gari Alludu": "1992 | Collector Gari Alludu | College student / MLA's son | Uncredited |",
+      "Laati": "1992 | Laati | Avinash's henchman | Uncredited |",
+      "Allari Priyudu": "1993 | Allari Priyudu | Raja's friend | Uncredited |",
+      "Varasudu": "1993 | Varasudu | Student | Uncredited |",
+      "Ninne Pelladata": "1996 | Ninne Pelladata | Mahalakshmi's eve teaser | Uncredited |",
+      "Sindhooram": "1997 | Sindhooram | Chanti | |",
+      "Padutha Theeyaga": "1998 | Padutha Theeyaga | Sai | |",
+      "O Panaipothundi Babu": "1998 | O Panaipothundi Babu | Lakshaman, Lakshman | |",
+      "Manasichi Choodu": "1998 | Manasichi Choodu | Chanti | |",
+      "Seetharama Raju": "1999 | Seetharama Raju | Seenu | |",
+      "Preminche Manasu": "1999 | Preminche Manasu | Vasanth Kumar / Ranjanipriya | |",
+      "Premaku Velayara": "1999 | Premaku Velayara | Ravi | |",
+      "Samudram": "1999 | Samudram | Chepala Nani | |",
+      "Nee Kosam": "1999 | Nee Kosam | Ravi | Debut in lead role; Nandi Special Jury Award |",
+      "Annayya": "2000 | Annayya | Ravi | |",
+      "Kshemamga Velli Labhamga Randi": "2000 | Kshemamga Velli Labhamga Randi | Appala Raju | |",
+      "Manasichanu": "2000 | Manasichanu | Suryakanth | |",
+      "Sakutumba Saparivaara Sametam": "2000 | Sakutumba Saparivaara Sametam | Ravi | |",
+      "Tirumala Tirupati Venkatesa": "2000 | Tirumala Tirupati Venkatesa | Tirupathi | |",
+      "Chiranjeevulu": "2001 | Chiranjeevulu | Charan | |",
+      "Vande Matharam": "2001 | Vande Matharam | Citizen rights council member | Kannada film |",
+      "Budget Padmanabham": "2001 | Budget Padmanabham | Ravi | |",
+      "Ammayi Kosam": "2001 | Ammayi Kosam | Ravi | |",
+      "Itlu Sravani Subramanyam": "2001 | Itlu Sravani Subramanyam | Subramanyam | |",
+      "Avunu Valliddaru Ista Paddaru!": "2002 | Avunu Valliddaru Ista Paddaru! | Anil Kumar | |",
+      "Idiot": "2002 | Idiot | Chanti | |",
+      "Khadgam": "2002 | Khadgam | Koti | Nandi Special Jury Award |",
+      "Anveshana": "2002 | Anveshana | Vamsy | |",
+      "Ee Abbai Chala Manchodu": "2003 | Ee Abbai Chala Manchodu | Vivekananda | |",
+      "Amma Nanna O Tamila Ammayi": "2003 | Amma Nanna O Tamila Ammayi | Chandu | |",
+      "Oka Raju Oka Rani": "2003 | Oka Raju Oka Rani | Ravi | |",
+      "Dongodu": "2003 | Dongodu | Meesala Madhava | |",
+      "Veede": "2003 | Veede | Yedukondalu | |",
+      "Venky": "2004 | Venky | Venkateswara \"Venky\" Rao | |",
+      "Naa Autograph": "2004 | Naa Autograph | Seenu | |",
+      "Chanti": "2004 | Chanti | Chanti | |",
+      "Bhadra": "2005 | Bhadra | Bhadra | |",
+      "Bhageeratha": "2005 | Bhageeratha | Chandu | |",
+      "Shock": "2006 | Shock | Chandra Shekar | |",
+      "Vikramarkudu": "2006 | Vikramarkudu | DCP Vikram Singh Rathore IPS, Athili Sathi Babu | |",
+      "Khatarnak": "2006 | Khatarnak | Dasu | |",
+      "Dubai Seenu": "2007 | Dubai Seenu | Srinivas \"Seenu\" Rao | |",
+      "Shankar Dada Zindabad": "2007 | Shankar Dada Zindabad | Himself | Special appearance in the song \"Jagadeka Veerudiki\" |",
+      "Krishna": "2008 | Krishna | Krishna | |",
+      "Baladur": "2008 | Baladur | Chanti | |",
+      "Neninthe": "2008 | Neninthe | Ravi | Nandi Award for Best Actor |",
+      "Kick": "2009 | Kick | Kalyan | |",
+      "Anjaneyulu": "2009 | Anjaneyulu | Anjaneyulu | |",
+      "Sambho Siva Sambho": "2010 | Sambho Siva Sambho | Karna | |",
+      "Don Seenu": "2010 | Don Seenu | Srinivasa Rao alias Don Seenu | |",
+      "Mirapakay": "2011 | Mirapakay | Rishikesh | |",
+      "Dongala Mutha": "2011 | Dongala Mutha | Sudheer | |",
+      "Veera": "2011 | Veera | Veera Venkata Satyanarayana / Deva | |",
+      "Katha Screenplay Darsakatvam Appalaraju": "2011 | Katha Screenplay Darsakatvam Appalaraju | Body double of himself | Cameo |",
+      "Nippu": "2012 | Nippu | Surya | |",
+      "Daruvu": "2012 | Daruvu | Bullet Raja, Ravindra | |",
+      "Devudu Chesina Manushulu": "2012 | Devudu Chesina Manushulu | Ravi Teja | |",
+      "Sarocharu": "2012 | Sarocharu | Karthik | |",
+      "Balupu": "2013 | Balupu | Ravi | |",
+      "Power": "2014 | Power | Tirupathi / ACP Baldev Sahay | |",
+      "Romeo": "2014 | Romeo | Himself | Guest appearance |",
+      "Kick 2": "2015 | Kick 2 | Kalyan, Robin Hood | |",
+      "Bengal Tiger": "2015 | Bengal Tiger | Akash Narayana | |",
+      "Dongaata": "2015 | Dongaata | Himself | Guest appearance in the song \"Break Up Antu\" |",
+      "Vajrakaya": "2015 | Vajrakaya | Himself | Kannada film; Special appearance in a song \"Vajrakaya\" |",
+      "Raja The Great": "2017 | Raja The Great | Raja | |",
+      "Touch Chesi Chudu": "2018 | Touch Chesi Chudu | ACP Karthikeya (Karthik) | |",
+      "Nela Ticket": "2018 | Nela Ticket | Nela Ticket | |",
+      "Amar Akbar Anthony": "2018 | Amar Akbar Anthony | Amar / Akbar / Anthony | |",
+      "Disco Raja": "2020 | Disco Raja | Disco Raja, Vasu | |",
+      "Krack": "2021 | Krack | CI Pothuraju Veera Shankar | |",
+      "Khiladi": "2022 | Khiladi | Mohan Gandhi / Khiladi | |",
+      "Ramarao on Duty": "2022 | Ramarao on Duty | B. Ramarao | |",
+      "Dhamaka": "2022 | Dhamaka | Swamy Vivekananda Rao / Anand Chakravarthy | |",
+      "Waltair Veerayya": "2023 | Waltair Veerayya | ACP Vikram Sagar IPS | |",
+      "Ravanasura": "2023 | Ravanasura | Adv. Ravindra | |",
+      "Tiger Nageswara Rao": "2023 | Tiger Nageswara Rao | Tiger Nageswara Rao | |",
+      "Eagle": "2024 | Eagle | Sahadev Varma (Eagle) | |",
+      "Mr. Bachchan": "2024 | Mr. Bachchan | Indukuri Anand | |",
+      "Mass Jathara": "2025 | Mass Jathara | Lakshman Bheri | |",
+      "Bhartha Mahasayulaku Wignyapthi": "2026 | Bhartha Mahasayulaku Wignyapthi | Ram Sathyanarayana / Elvis | |",
+      "Irumudi": "2026 | Irumudi | Trinadh Rama Kasu | |",
+      "Thulabharam": "2027 | Thulabharam † | TBA | Directed by Vivek Athreya |",
+      "Maryada Ramanna": "2010 | Maryada Ramanna | Ramanna's Bicycle | |",
+      "Doosukeltha": "2013 | Doosukeltha | Narrator | |",
+      "Awe": "2018 | Awe | Chanti, a bonsai tree | |",
+      "Mahaveerudu": "2023 | Mahaveerudu | Mahaveerudu | Telugu language dubbed version of Maaveeran |",
+      "Hanu-Man": "2024 | Hanu-Man | Koti, a monkey | |"
+    },
+    "issues": []
+  }
+}

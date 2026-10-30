@@ -1,0 +1,310 @@
+{
+  "question": {
+    "id": "tollywood-nayanthara-films",
+    "category": "tollywood",
+    "prompt": "Name a Telugu-language movie featuring Nayanthara.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "lakshmi",
+        "canonical": "Lakshmi",
+        "aliases": [],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Nandhini in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "boss",
+        "canonical": "Boss",
+        "aliases": [],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Anuradha in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "yogi",
+        "canonical": "Yogi",
+        "aliases": [],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Nandini in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "dubai-seenu",
+        "canonical": "Dubai Seenu",
+        "aliases": [
+          "Dubai Srinu"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Madhumathi in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "tulasi",
+        "canonical": "Tulasi",
+        "aliases": [
+          "Thulasi"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Vasundhara Ram in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "kuselan-kathanayakudu",
+        "canonical": "Kuselan / Kathanayakudu",
+        "aliases": [
+          "Kuselan",
+          "Kathanayakudu"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara appears as herself in this Tamil–Telugu bilingual film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "satyam-salute",
+        "canonical": "Satyam / Salute",
+        "aliases": [
+          "Satyam",
+          "Salute",
+          "Sathyam"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Deivanayaki in Tamil and Divya in Telugu in this bilingual film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "anjaneyulu",
+        "canonical": "Anjaneyulu",
+        "aliases": [],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Anjali in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "adhurs",
+        "canonical": "Adhurs",
+        "aliases": [
+          "Adurs"
+        ],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Chandrakala in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "simha",
+        "canonical": "Simha",
+        "aliases": [],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Gayatri in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "sri-rama-rajyam",
+        "canonical": "Sri Rama Rajyam",
+        "aliases": [
+          "Sree Rama Rajyam"
+        ],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Sita and Lakshmi in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "krishnam-vande-jagadgurum",
+        "canonical": "Krishnam Vande Jagadgurum",
+        "aliases": [],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Devika in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "greeku-veerudu",
+        "canonical": "Greeku Veerudu",
+        "aliases": [
+          "Greekuveerudu"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Sandhya in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "anaamika-nee-enge-en-anbe",
+        "canonical": "Anaamika / Nee Enge En Anbe",
+        "aliases": [
+          "Anaamika",
+          "Anamika",
+          "Nee Enge En Anbe"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Anaamika in this Telugu–Tamil bilingual film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "babu-bangaram",
+        "canonical": "Babu Bangaram",
+        "aliases": [],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Sailaja in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "jai-simha",
+        "canonical": "Jai Simha",
+        "aliases": [
+          "Jaisimha"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Gauri in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [
+          "Sye Raa",
+          "Sye Raa Narasimha"
+        ],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Siddhamma in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "aaradugula-bullet",
+        "canonical": "Aaradugula Bullet",
+        "aliases": [
+          "Aradugula Bullet"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Nayana in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "godfather",
+        "canonical": "Godfather",
+        "aliases": [
+          "God Father"
+        ],
+        "familiarity": 0.1111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara plays Sathyapriya Jaidev in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      },
+      {
+        "id": "mana-shankara-vara-prasad-garu",
+        "canonical": "Mana Shankara Vara Prasad Garu",
+        "aliases": [
+          "Mana Shankara Varaprasad Garu"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nayanthara is listed as playing Sasirekha in this Telugu film.",
+        "sourceIds": [
+          "nayanthara-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films are listed as Telugu-language entries in Nayanthara's filmography. Bilingual films and guest appearances count, and either title of a bilingual film is accepted.",
+    "sources": [
+      {
+        "id": "nayanthara-filmography",
+        "title": "Nayanthara filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nayanthara_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "8635e298fea7ae58",
+    "brief": "Name a movie starring Nayanthara.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nayanthara-filmography",
+        "version": "1382758860",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Lakshmi": "2006 | Lakshmi | Nandhini | Telugu | |",
+      "Boss": "2006 | Boss | Anuradha | Telugu | |",
+      "Yogi": "2007 | Yogi | Nandini | Telugu | |",
+      "Dubai Seenu": "2007 | Dubai Seenu | Madhumathi | Telugu | |",
+      "Tulasi": "2007 | Tulasi | Vasundhara Ram | Telugu | |",
+      "Kuselan / Kathanayakudu": "2008 | Kuselan / Kathanayakudu | Herself | Tamil Telugu | Bilingual film; guest appearance |",
+      "Satyam / Salute": "2008 | Satyam / Salute | Deivanayaki aka Deiva (Tamil) / Divya (Telugu) | Tamil Telugu | Bilingual film |",
+      "Anjaneyulu": "2009 | Anjaneyulu | Anjali | Telugu | |",
+      "Adhurs": "2010 | Adhurs | Chandrakala | Telugu | |",
+      "Simha": "2010 | Simha | Gayatri | Telugu | |",
+      "Sri Rama Rajyam": "2011 | Sri Rama Rajyam | Sita / Lakshmi | Telugu | |",
+      "Krishnam Vande Jagadgurum": "2012 | Krishnam Vande Jagadgurum | Devika | Telugu | |",
+      "Greeku Veerudu": "2013 | Greeku Veerudu | Sandhya | Telugu | |",
+      "Anaamika / Nee Enge En Anbe": "2014 | Anaamika / Nee Enge En Anbe | Anaamika | Telugu Tamil | Bilingual film |",
+      "Babu Bangaram": "2016 | Babu Bangaram | Sailaja | Telugu | |",
+      "Jai Simha": "2018 | Jai Simha | Gauri | Telugu | |",
+      "Sye Raa Narasimha Reddy": "2019 | Sye Raa Narasimha Reddy | Siddhamma | Telugu | |",
+      "Aaradugula Bullet": "2021 | Aaradugula Bullet | Nayana | Telugu | |",
+      "Godfather": "2022 | Godfather | Sathyapriya Jaidev | Telugu | |",
+      "Mana Shankara Vara Prasad Garu": "2026 | Mana Shankara Vara Prasad Garu | Sasirekha | Telugu | |"
+    },
+    "issues": []
+  }
+}

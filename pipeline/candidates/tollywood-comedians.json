@@ -1,0 +1,457 @@
+{
+  "question": {
+    "id": "tollywood-comedians",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a comedian or comedy actor from Telugu cinema.",
+    "answerSet": "open",
+    "criteria": "Any actor known for performing comic roles in multiple Telugu-language films counts.",
+    "answers": [
+      {
+        "id": "brahmanandam",
+        "canonical": "Brahmanandam",
+        "aliases": [
+          "Brahmi",
+          "Kanneganti Brahmanandam"
+        ],
+        "familiarity": 0.0866,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brahmanandam is a prolific actor known for comic roles in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "ali",
+        "canonical": "Ali",
+        "aliases": [
+          "Mohammad Ali"
+        ],
+        "familiarity": 0.0866,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ali is a comedian and actor who has appeared extensively in Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "sunil",
+        "canonical": "Sunil",
+        "aliases": [
+          "Sunil Varma"
+        ],
+        "familiarity": 0.0866,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunil became known for supporting comedy roles in Telugu films before also playing lead and villainous roles.",
+        "sourceIds": []
+      },
+      {
+        "id": "vennela-kishore",
+        "canonical": "Vennela Kishore",
+        "aliases": [
+          "Vennela Kishor",
+          "Kishore",
+          "Kishore Bokkala"
+        ],
+        "familiarity": 0.0866,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vennela Kishore is a Telugu film comedian whose screen name comes from his debut film Vennela.",
+        "sourceIds": []
+      },
+      {
+        "id": "rajendra-prasad",
+        "canonical": "Rajendra Prasad",
+        "aliases": [
+          "Gadde Rajendra Prasad",
+          "Rajendra Prasad Gadde"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rajendra Prasad is a Telugu actor especially known for leading roles in comedy films.",
+        "sourceIds": []
+      },
+      {
+        "id": "m-s-narayana",
+        "canonical": "M. S. Narayana",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "M. S. Narayana was a comedian who appeared in many Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "venu-madhav",
+        "canonical": "Venu Madhav",
+        "aliases": [
+          "Venu Madhav Kunath"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venu Madhav was an actor known for supporting comedy roles in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "dharmavarapu-subramanyam",
+        "canonical": "Dharmavarapu Subramanyam",
+        "aliases": [
+          "Dharmavarapu Subrahmanyam",
+          "Dharmavarapu"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dharmavarapu Subramanyam was a Telugu actor known for his comic performances.",
+        "sourceIds": []
+      },
+      {
+        "id": "saptagiri",
+        "canonical": "Saptagiri",
+        "aliases": [
+          "Sapthagiri"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saptagiri is a Telugu comedian who has also played leading roles.",
+        "sourceIds": []
+      },
+      {
+        "id": "priyadarshi",
+        "canonical": "Priyadarshi",
+        "aliases": [
+          "Priyadarshi Pulikonda"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Priyadarshi is a Telugu actor known for comic supporting roles as well as leading performances.",
+        "sourceIds": []
+      },
+      {
+        "id": "rahul-ramakrishna",
+        "canonical": "Rahul Ramakrishna",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rahul Ramakrishna is a Telugu actor known for comic supporting performances.",
+        "sourceIds": []
+      },
+      {
+        "id": "srinivasa-reddy",
+        "canonical": "Srinivasa Reddy",
+        "aliases": [
+          "Srinivas Reddy"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Srinivasa Reddy is a Telugu comedian and actor who has also appeared in lead roles.",
+        "sourceIds": []
+      },
+      {
+        "id": "babu-mohan",
+        "canonical": "Babu Mohan",
+        "aliases": [],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Babu Mohan is an actor known for comedy roles in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "prudhvi-raj",
+        "canonical": "Prudhvi Raj",
+        "aliases": [
+          "Pruthviraj",
+          "30 Years Prudhvi",
+          "Balireddy Prudhviraj",
+          "Prithviraj Balireddy"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prudhvi Raj is a Telugu comedy actor associated with the catchphrase '30 years industry.'",
+        "sourceIds": []
+      },
+      {
+        "id": "avs",
+        "canonical": "AVS",
+        "aliases": [
+          "Amanchi Venkata Subrahmanyam",
+          "Amanchi Venkata Subramanyam"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "AVS was a Telugu actor known for comedy performances.",
+        "sourceIds": []
+      },
+      {
+        "id": "relangi",
+        "canonical": "Relangi",
+        "aliases": [
+          "Relangi Venkata Ramaiah"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Relangi was a prominent comedian in classic Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "ramana-reddy",
+        "canonical": "Ramana Reddy",
+        "aliases": [
+          "T. V. Ramana Reddy"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ramana Reddy was a comedian known for his work in classic Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "potti-prasad",
+        "canonical": "Potti Prasad",
+        "aliases": [
+          "Kav/uri Prasad Rao",
+          "Potti Prasadu",
+          "Kav gain Prasad"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Potti Prasad was an actor known for comedy roles in Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "raghu-babu",
+        "canonical": "Raghu Babu",
+        "aliases": [
+          "Raghu Babu G"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raghu Babu is a Telugu actor known for comic supporting roles.",
+        "sourceIds": []
+      },
+      {
+        "id": "kovai-sarala",
+        "canonical": "Kovai Sarala",
+        "aliases": [
+          "Kovai Sarla"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kovai Sarala is a comedian and actress who has performed in numerous Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "krishna-bhagavaan",
+        "canonical": "Krishna Bhagavaan",
+        "aliases": [
+          "Krishna Bhagavan",
+          "Krishna Bhagawan"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krishna Bhagavaan is an actor known for comic roles in Telugu films.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-lakshmi",
+        "canonical": "Sri Lakshmi",
+        "aliases": [
+          "Sree Lakshmi"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Lakshmi is an actress known for comic roles in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "suthi-velu",
+        "canonical": "Suthi Velu",
+        "aliases": [
+          "Sutthi Velu",
+          "Kurumaddali Lakshmi Narasimha Rao"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Suthi Velu was an actor known for comedy roles in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "suthi-veerabhadra-rao",
+        "canonical": "Suthi Veerabhadra Rao",
+        "aliases": [
+          "Sutthi Veerabhadra Rao"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Suthi Veerabhadra Rao was a Telugu actor known for comic performances.",
+        "sourceIds": []
+      },
+      {
+        "id": "allu-ramalingaiah",
+        "canonical": "Allu Ramalingaiah",
+        "aliases": [
+          "Allu Ramalingayya"
+        ],
+        "familiarity": 0.0346,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Ramalingaiah was a veteran comedian in Telugu cinema.",
+        "sourceIds": []
+      },
+      {
+        "id": "l-b-sriram",
+        "canonical": "L. B. Sriram",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "L. B. Sriram is a Telugu actor and writer known for comedy as well as dramatic roles.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema, often called Tollywood, has a long tradition of comedy performers, from classic actors such as Relangi to contemporary names such as Vennela Kishore.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "7f35129733cbbbcf",
+    "brief": "Name a Telugu film comedian or comedy actor.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Brahmanandam": 3,
+      "Ali": 3,
+      "Sunil": 3,
+      "Vennela Kishore": 3,
+      "Rajendra Prasad": 3,
+      "M. S. Narayana": 3,
+      "Venu Madhav": 3,
+      "Dharmavarapu Subramanyam": 3,
+      "Saptagiri": 3,
+      "Priyadarshi": 3,
+      "Rahul Ramakrishna": 3,
+      "Srinivasa Reddy": 3,
+      "Raghu Babu": 2,
+      "Babu Mohan": 3,
+      "Kovai Sarala": 2,
+      "Prudhvi Raj": 3,
+      "Krishna Bhagavaan": 2,
+      "AVS": 3,
+      "Sri Lakshmi": 2,
+      "Relangi": 3,
+      "Ramana Reddy": 3,
+      "Suthi Velu": 2,
+      "Suthi Veerabhadra Rao": 2,
+      "Potti Prasad": 3,
+      "Allu Ramalingaiah": 2,
+      "L. B. Sriram": 2
+    },
+    "droppedForVotes": {
+      "Allari Naresh": 1,
+      "Mallikarjuna Rao": 1,
+      "Satya": 1,
+      "Kota Srinivasa Rao": 1,
+      "Sudhakar": 1
+    },
+    "verdicts": {
+      "Brahmanandam": {
+        "verdict": "correct",
+        "reason": "A prolific comedian with comic roles in hundreds of Telugu films."
+      },
+      "Ali": {
+        "verdict": "correct",
+        "reason": "A widely documented Telugu comedian with extensive film credits."
+      },
+      "Sunil": {
+        "verdict": "correct",
+        "reason": "Established himself through numerous Telugu comedy roles before branching into other roles."
+      },
+      "Vennela Kishore": {
+        "verdict": "correct",
+        "reason": "A prominent Telugu comedy actor whose screen name derives from his debut film, Vennela."
+      },
+      "Rajendra Prasad": {
+        "verdict": "correct",
+        "reason": "Well known for starring in numerous Telugu comedy films."
+      },
+      "M. S. Narayana": {
+        "verdict": "correct",
+        "reason": "A prolific comedian in Telugu cinema."
+      },
+      "Venu Madhav": {
+        "verdict": "correct",
+        "reason": "Known for supporting comic performances in numerous Telugu films."
+      },
+      "Dharmavarapu Subramanyam": {
+        "verdict": "correct",
+        "reason": "A well-established Telugu actor known for comic roles."
+      },
+      "Saptagiri": {
+        "verdict": "correct",
+        "reason": "Known for Telugu comedy roles and subsequent leading performances."
+      },
+      "Priyadarshi": {
+        "verdict": "correct",
+        "reason": "Has performed comic supporting roles in multiple Telugu films, alongside leading roles."
+      },
+      "Rahul Ramakrishna": {
+        "verdict": "correct",
+        "reason": "Known for comic supporting performances in multiple Telugu films."
+      },
+      "Srinivasa Reddy": {
+        "verdict": "correct",
+        "reason": "An established Telugu comedian who has also played lead roles."
+      },
+      "Babu Mohan": {
+        "verdict": "correct",
+        "reason": "Known for comedy roles in numerous Telugu films."
+      },
+      "Prudhvi Raj": {
+        "verdict": "correct",
+        "reason": "A Telugu comedian popularly associated with the '30 years industry' catchphrase."
+      },
+      "AVS": {
+        "verdict": "correct",
+        "reason": "Amanchi Venkata Subrahmanyam, known as AVS, performed many Telugu comedy roles."
+      },
+      "Relangi": {
+        "verdict": "correct",
+        "reason": "A major comedian of classic Telugu cinema."
+      },
+      "Ramana Reddy": {
+        "verdict": "correct",
+        "reason": "A prominent comedian in classic Telugu films."
+      },
+      "Potti Prasad": {
+        "verdict": "correct",
+        "reason": "A documented Telugu actor known for comic supporting roles."
+      },
+      "Raghu Babu": {
+        "verdict": "correct",
+        "reason": "Has played comic supporting characters in numerous Telugu films."
+      },
+      "Kovai Sarala": {
+        "verdict": "correct",
+        "reason": "An established comedy actress with numerous Telugu film appearances."
+      },
+      "Krishna Bhagavaan": {
+        "verdict": "correct",
+        "reason": "A Telugu actor widely known for comedy performances."
+      },
+      "Sri Lakshmi": {
+        "verdict": "correct",
+        "reason": "A Telugu actress known for comic roles in many films."
+      },
+      "Suthi Velu": {
+        "verdict": "correct",
+        "reason": "A well-known Telugu comedian with extensive film credits."
+      },
+      "Suthi Veerabhadra Rao": {
+        "verdict": "correct",
+        "reason": "A Telugu actor widely recognized for comic performances."
+      },
+      "Allu Ramalingaiah": {
+        "verdict": "correct",
+        "reason": "A veteran comedian with an extensive career in Telugu cinema."
+      },
+      "L. B. Sriram": {
+        "verdict": "correct",
+        "reason": "A Telugu actor and writer with numerous comic and dramatic roles."
+      }
+    },
+    "issues": []
+  }
+}

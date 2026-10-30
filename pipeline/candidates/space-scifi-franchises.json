@@ -1,0 +1,414 @@
+{
+  "question": {
+    "id": "space-scifi-franchises",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a science-fiction franchise set in space.",
+    "answerSet": "open",
+    "criteria": "Any science-fiction franchise with multiple released works in which outer-space travel or life beyond Earth is a major part of the setting.",
+    "answers": [
+      {
+        "id": "star-wars",
+        "canonical": "Star Wars",
+        "aliases": [],
+        "familiarity": 0.091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars is a science-fiction franchise featuring interstellar adventures in a galaxy far, far away.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek",
+        "canonical": "Star Trek",
+        "aliases": [],
+        "familiarity": 0.091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek follows starship crews exploring space and encountering alien civilizations.",
+        "sourceIds": []
+      },
+      {
+        "id": "alien",
+        "canonical": "Alien",
+        "aliases": [
+          "Alien franchise",
+          "Aliens"
+        ],
+        "familiarity": 0.091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alien is a science-fiction horror franchise involving extraterrestrial creatures, spacecraft and off-world colonies.",
+        "sourceIds": []
+      },
+      {
+        "id": "dune",
+        "canonical": "Dune",
+        "aliases": [],
+        "familiarity": 0.091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dune is a science-fiction franchise centered on rival powers in an interstellar civilization.",
+        "sourceIds": []
+      },
+      {
+        "id": "halo",
+        "canonical": "Halo",
+        "aliases": [],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Halo is a science-fiction franchise depicting conflicts involving humanity and alien civilizations across space.",
+        "sourceIds": []
+      },
+      {
+        "id": "mass-effect",
+        "canonical": "Mass Effect",
+        "aliases": [],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mass Effect is a science-fiction game franchise set among the civilizations of the Milky Way.",
+        "sourceIds": []
+      },
+      {
+        "id": "stargate",
+        "canonical": "Stargate",
+        "aliases": [
+          "Stargate franchise"
+        ],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stargate is a science-fiction franchise about travel between worlds through ancient portals.",
+        "sourceIds": []
+      },
+      {
+        "id": "battlestar-galactica",
+        "canonical": "Battlestar Galactica",
+        "aliases": [
+          "BSG"
+        ],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Battlestar Galactica follows human survivors traveling through space while pursued by the Cylons.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-expanse",
+        "canonical": "The Expanse",
+        "aliases": [
+          "Expanse"
+        ],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Expanse is a novel and television franchise set in a future where humanity has colonized the Solar System.",
+        "sourceIds": []
+      },
+      {
+        "id": "warhammer-40-000",
+        "canonical": "Warhammer 40,000",
+        "aliases": [
+          "Warhammer 40K",
+          "WH40K",
+          "40K"
+        ],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Warhammer 40,000 is a science-fiction franchise set amid warfare across the galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "babylon-5",
+        "canonical": "Babylon 5",
+        "aliases": [
+          "Babylon Five",
+          "B5"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Babylon 5 is a science-fiction franchise centered on a space station used by multiple civilizations.",
+        "sourceIds": []
+      },
+      {
+        "id": "farscape",
+        "canonical": "Farscape",
+        "aliases": [],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Farscape follows a human astronaut traveling with alien companions aboard a living spaceship.",
+        "sourceIds": []
+      },
+      {
+        "id": "red-dwarf",
+        "canonical": "Red Dwarf",
+        "aliases": [],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Red Dwarf is a science-fiction comedy franchise following the inhabitants of a mining spaceship.",
+        "sourceIds": []
+      },
+      {
+        "id": "foundation",
+        "canonical": "Foundation",
+        "aliases": [
+          "The Foundation",
+          "Foundation series"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Foundation is a science-fiction book and television franchise set within a galaxy-spanning civilization.",
+        "sourceIds": []
+      },
+      {
+        "id": "gundam",
+        "canonical": "Gundam",
+        "aliases": [
+          "Mobile Suit Gundam"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gundam is an anime-led franchise whose settings frequently feature space colonies and warfare using giant robots.",
+        "sourceIds": []
+      },
+      {
+        "id": "macross",
+        "canonical": "Macross",
+        "aliases": [
+          "Super Dimension Fortress Macross"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Macross is a science-fiction anime franchise featuring transforming aircraft, alien civilizations and space travel.",
+        "sourceIds": []
+      },
+      {
+        "id": "homeworld",
+        "canonical": "Homeworld",
+        "aliases": [],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Homeworld is a science-fiction strategy game franchise centered on fleets of spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "guardians-of-the-galaxy",
+        "canonical": "Guardians of the Galaxy",
+        "aliases": [
+          "Guardians",
+          "GOTG",
+          "Guardians of the Galaxy franchise"
+        ],
+        "familiarity": 0.091,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guardians of the Galaxy follows a team of adventurers traveling through space in Marvel comics and films.",
+        "sourceIds": []
+      },
+      {
+        "id": "firefly",
+        "canonical": "Firefly",
+        "aliases": [
+          "Firefly and Serenity"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Firefly follows a spaceship crew whose adventures continue in the film Serenity and other works.",
+        "sourceIds": []
+      },
+      {
+        "id": "dead-space",
+        "canonical": "Dead Space",
+        "aliases": [],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dead Space is a science-fiction horror franchise set aboard spacecraft and in off-world settlements.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-battleship-yamato",
+        "canonical": "Space Battleship Yamato",
+        "aliases": [
+          "Uchuu Senkan Yamato",
+          "Uchu Senkan Yamato"
+        ],
+        "familiarity": 0.0109,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Battleship Yamato is an anime franchise about a spacefaring battleship and its crew.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-quest",
+        "canonical": "Space Quest",
+        "aliases": [],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Quest is a comedic science-fiction adventure game series following space janitor Roger Wilco.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-hitchhiker-s-guide-to-the-galaxy",
+        "canonical": "The Hitchhiker's Guide to the Galaxy",
+        "aliases": [
+          "Hitchhiker's Guide",
+          "Hitchhikers Guide to the Galaxy",
+          "HHGTTG",
+          "H2G2"
+        ],
+        "familiarity": 0.0364,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hitchhiker's Guide to the Galaxy is a comic science-fiction franchise about travels through space.",
+        "sourceIds": []
+      },
+      {
+        "id": "lensman",
+        "canonical": "Lensman",
+        "aliases": [
+          "Lensman series"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lensman is a space-opera franchise originating in E. E. Smith's stories about an interstellar struggle.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space-based science fiction spans films, television, books, anime and games. Answers can feature anything from interstellar exploration to space warfare, alien encounters or life aboard a spaceship.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "72738c91bfa89201",
+    "brief": "Name a science-fiction franchise set in space.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Star Wars": 3,
+      "Star Trek": 3,
+      "Alien": 3,
+      "Dune": 3,
+      "Guardians of the Galaxy": 2,
+      "Halo": 3,
+      "Mass Effect": 3,
+      "Stargate": 3,
+      "Battlestar Galactica": 3,
+      "The Expanse": 3,
+      "Firefly": 2,
+      "Warhammer 40,000": 3,
+      "Dead Space": 2,
+      "Babylon 5": 3,
+      "Farscape": 3,
+      "Red Dwarf": 3,
+      "Foundation": 3,
+      "Gundam": 3,
+      "Macross": 3,
+      "Space Battleship Yamato": 2,
+      "Homeworld": 3,
+      "Space Quest": 2,
+      "The Hitchhiker's Guide to the Galaxy": 2,
+      "Lensman": 2
+    },
+    "droppedForVotes": {
+      "Lost in Space": 1,
+      "Colony Wars": 1,
+      "Doctor Who": 1,
+      "Wing Commander": 1,
+      "Perry Rhodan": 1,
+      "StarCraft": 1,
+      "Legend of the Galactic Heroes": 1,
+      "Crest of the Stars": 1
+    },
+    "verdicts": {
+      "Star Wars": {
+        "verdict": "correct",
+        "reason": "A widely documented multimedia franchise centered on interstellar adventures."
+      },
+      "Star Trek": {
+        "verdict": "correct",
+        "reason": "Multiple television series and films feature starships, space exploration, and alien civilizations."
+      },
+      "Alien": {
+        "verdict": "correct",
+        "reason": "Multiple films and other works prominently feature spacecraft, alien life, and off-world colonies."
+      },
+      "Dune": {
+        "verdict": "correct",
+        "reason": "Multiple novels and adaptations depict an interstellar civilization and conflicts across planets."
+      },
+      "Halo": {
+        "verdict": "correct",
+        "reason": "Multiple games and other works feature space travel and conflicts between human and alien civilizations."
+      },
+      "Mass Effect": {
+        "verdict": "correct",
+        "reason": "A multi-game science-fiction franchise centered on interstellar travel and galactic civilizations."
+      },
+      "Stargate": {
+        "verdict": "correct",
+        "reason": "Films and multiple television series feature travel to other planets and life beyond Earth."
+      },
+      "Battlestar Galactica": {
+        "verdict": "correct",
+        "reason": "Multiple television productions depict human survivors traveling through space aboard a fleet."
+      },
+      "The Expanse": {
+        "verdict": "correct",
+        "reason": "A novel series and television adaptation prominently feature space travel and settlements throughout the Solar System."
+      },
+      "Warhammer 40,000": {
+        "verdict": "correct",
+        "reason": "A multimedia science-fiction franchise featuring interstellar civilizations and galaxy-wide warfare."
+      },
+      "Babylon 5": {
+        "verdict": "correct",
+        "reason": "A television franchise with films and a spin-off, centered on a space station and interstellar affairs."
+      },
+      "Farscape": {
+        "verdict": "correct",
+        "reason": "A television series, sequel miniseries, and comics follow adventures aboard an alien spaceship."
+      },
+      "Red Dwarf": {
+        "verdict": "correct",
+        "reason": "Multiple television series and novels follow characters living and traveling aboard spacecraft."
+      },
+      "Foundation": {
+        "verdict": "correct",
+        "reason": "Multiple novels and a television adaptation depict a galaxy-spanning human civilization."
+      },
+      "Gundam": {
+        "verdict": "correct",
+        "reason": "Numerous released series and films prominently feature space colonies, spacecraft, and space warfare."
+      },
+      "Macross": {
+        "verdict": "correct",
+        "reason": "Multiple anime series and films feature alien civilizations, space travel, and interstellar settlement."
+      },
+      "Homeworld": {
+        "verdict": "correct",
+        "reason": "A released strategy-game series centered on spacecraft fleets and interstellar journeys."
+      },
+      "Guardians of the Galaxy": {
+        "verdict": "correct",
+        "reason": "Multiple comics and films feature a spacefaring team and adventures beyond Earth."
+      },
+      "Firefly": {
+        "verdict": "correct",
+        "reason": "The television series, Serenity film, and additional works follow a spaceship crew traveling among settled worlds."
+      },
+      "Dead Space": {
+        "verdict": "correct",
+        "reason": "Multiple games and related works feature spacecraft, extraterrestrial settings, and off-world settlements."
+      },
+      "Space Battleship Yamato": {
+        "verdict": "correct",
+        "reason": "Multiple anime series and films follow a battleship undertaking voyages through space."
+      },
+      "Space Quest": {
+        "verdict": "correct",
+        "reason": "A multi-game science-fiction adventure series featuring Roger Wilco's travels through space."
+      },
+      "The Hitchhiker's Guide to the Galaxy": {
+        "verdict": "correct",
+        "reason": "Radio, novels, television, and film depict comedic journeys across space."
+      },
+      "Lensman": {
+        "verdict": "correct",
+        "reason": "E. E. Smith's multi-book space-opera series and its adaptations feature interstellar civilizations and conflict."
+      }
+    },
+    "issues": []
+  }
+}

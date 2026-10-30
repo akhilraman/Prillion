@@ -1,0 +1,365 @@
+{
+  "question": {
+    "id": "tollywood-franchises-sequels",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film that has a released sequel or prequel.",
+    "answerSet": "open",
+    "criteria": "A Telugu-language film with at least one released, officially recognized sequel or prequel; standalone sequels count, but merely announced projects do not.",
+    "answers": [
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.1155,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baahubali: The Beginning was followed by Baahubali 2: The Conclusion.",
+        "sourceIds": []
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1"
+        ],
+        "familiarity": 0.1155,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pushpa: The Rise was followed by Pushpa 2: The Rule.",
+        "sourceIds": []
+      },
+      {
+        "id": "karthikeya",
+        "canonical": "Karthikeya",
+        "aliases": [
+          "Kartිකeya",
+          "Karthikeya 1",
+          "Kartikeya"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karthikeya was followed by Karthikeya 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "hit-the-first-case",
+        "canonical": "HIT: The First Case",
+        "aliases": [
+          "HIT",
+          "Hit 1",
+          "The First Case",
+          "Hit First Case"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "HIT: The First Case began the Telugu film series continued by HIT: The Second Case.",
+        "sourceIds": []
+      },
+      {
+        "id": "kick",
+        "canonical": "Kick",
+        "aliases": [
+          "Kick 1"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Telugu film Kick was followed by Kick 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "drushyam",
+        "canonical": "Drushyam",
+        "aliases": [
+          "Drushyam 1",
+          "Drishyam Telugu"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Telugu film Drushyam was followed by Drushyam 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "soggade-chinni-nayana",
+        "canonical": "Soggade Chinni Nayana",
+        "aliases": [],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Soggade Chinni Nayana was followed by the related sequel Bangarraju.",
+        "sourceIds": []
+      },
+      {
+        "id": "shankar-dada-mbbs",
+        "canonical": "Shankar Dada MBBS",
+        "aliases": [],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shankar Dada MBBS was followed by the standalone sequel Shankar Dada Zindabad.",
+        "sourceIds": []
+      },
+      {
+        "id": "avunu",
+        "canonical": "Avunu",
+        "aliases": [
+          "Avunu 1"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Avunu was followed by Avunu 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "gaayam",
+        "canonical": "Gaayam",
+        "aliases": [
+          "Gayam",
+          "Gaayam 1"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gaayam was followed by Gaayam 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "arya",
+        "canonical": "Arya",
+        "aliases": [
+          "Aarya",
+          "Arya 1"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arya was followed by the standalone sequel Arya 2.",
+        "sourceIds": []
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [
+          "Gabbar Singh 1"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gabbar Singh was followed by the standalone sequel Sardaar Gabbar Singh.",
+        "sourceIds": []
+      },
+      {
+        "id": "money",
+        "canonical": "Money",
+        "aliases": [
+          "Money (1993)"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Telugu film Money was followed by Money Money.",
+        "sourceIds": []
+      },
+      {
+        "id": "f2",
+        "canonical": "F2",
+        "aliases": [
+          "F2: Fun and Frustration",
+          "Fun and Frustration"
+        ],
+        "familiarity": 0.1155,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "F2 is the first film in the comedy franchise continued by F3.",
+        "sourceIds": []
+      },
+      {
+        "id": "dj-tillu",
+        "canonical": "DJ Tillu",
+        "aliases": [],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DJ Tillu introduces the title character whose story continues in Tillu Square.",
+        "sourceIds": []
+      },
+      {
+        "id": "hit-the-second-case",
+        "canonical": "HIT: The Second Case",
+        "aliases": [
+          "HIT 2",
+          "Hit Second Case"
+        ],
+        "familiarity": 0.0462,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "HIT: The Second Case is the second film in the Telugu HIT franchise.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has connected stories, prequels and standalone sequels that reuse characters or a franchise identity without directly continuing the original plot.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "393f90dc3a07c069",
+    "brief": "Name a Telugu film that has a sequel, prequel or franchise (for example Baahubali, Pushpa or F2).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Baahubali: The Beginning": 3,
+      "Pushpa: The Rise": 3,
+      "Karthikeya": 3,
+      "HIT: The First Case": 3,
+      "Arya": 2,
+      "Kick": 3,
+      "Gabbar Singh": 2,
+      "Drushyam": 3,
+      "Soggade Chinni Nayana": 3,
+      "Shankar Dada MBBS": 3,
+      "Avunu": 3,
+      "Gaayam": 3,
+      "Money": 2,
+      "Baahubali 2: The Conclusion": 2,
+      "Pushpa 2: The Rule": 2,
+      "F2": 2,
+      "F3": 2,
+      "DJ Tillu": 2,
+      "Tillu Square": 2,
+      "HIT: The Second Case": 2,
+      "Karthikeya 2": 2,
+      "Drushyam 2": 2,
+      "Bangarraju": 2,
+      "Kick 2": 2,
+      "Shankar Dada Zindabad": 2,
+      "Gaayam 2": 2,
+      "Avunu 2": 2
+    },
+    "droppedForVotes": {
+      "F2: Fun and Frustration": 1,
+      "Manmadhudu": 1,
+      "Geethanjali (2014)": 1,
+      "Rakta Charitra": 1,
+      "Ladies Tailor": 1,
+      "Mantra": 1,
+      "Vennela": 1,
+      "Sardaar Gabbar Singh": 1,
+      "Arya 2": 1,
+      "Mathu Vadalara": 1,
+      "Mathu Vadalara 2": 1,
+      "Money Money": 1,
+      "Money Money, More Money": 1,
+      "Geethanjali": 1,
+      "Geethanjali Malli Vachindi": 1
+    },
+    "verdicts": {
+      "Baahubali: The Beginning": {
+        "verdict": "correct",
+        "reason": "Its official sequel, Baahubali 2: The Conclusion, was released in 2017."
+      },
+      "Pushpa: The Rise": {
+        "verdict": "correct",
+        "reason": "Its official sequel, Pushpa 2: The Rule, was released in 2024."
+      },
+      "Karthikeya": {
+        "verdict": "correct",
+        "reason": "Its sequel, Karthikeya 2, was released in 2022."
+      },
+      "HIT: The First Case": {
+        "verdict": "correct",
+        "reason": "HIT: The Second Case was released in 2022 as its standalone sequel."
+      },
+      "Kick": {
+        "verdict": "correct",
+        "reason": "Kick 2 was released in 2015 as its sequel."
+      },
+      "Drushyam": {
+        "verdict": "correct",
+        "reason": "The Telugu sequel Drushyam 2 was released in 2021."
+      },
+      "Soggade Chinni Nayana": {
+        "verdict": "correct",
+        "reason": "Bangarraju was released in 2022 as its sequel."
+      },
+      "Shankar Dada MBBS": {
+        "verdict": "correct",
+        "reason": "Shankar Dada Zindabad was released in 2007 as its standalone sequel."
+      },
+      "Avunu": {
+        "verdict": "correct",
+        "reason": "Its sequel Avunu 2 was released in 2015."
+      },
+      "Gaayam": {
+        "verdict": "correct",
+        "reason": "Its sequel Gaayam 2 was released in 2010."
+      },
+      "Arya": {
+        "verdict": "correct",
+        "reason": "Arya 2 was released in 2009 and is recognized as a standalone or spiritual sequel."
+      },
+      "Gabbar Singh": {
+        "verdict": "correct",
+        "reason": "Sardaar Gabbar Singh was released in 2016 as its standalone sequel."
+      },
+      "Money": {
+        "verdict": "correct",
+        "reason": "Money Money was released in 1995 as its sequel."
+      },
+      "Baahubali 2: The Conclusion": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel, but the answer does not establish that it has a released sequel or prequel. The earlier original is not technically a prequel."
+      },
+      "Pushpa 2: The Rule": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel, but Pushpa: The Rise is the earlier original, not a prequel. An announced third film does not qualify."
+      },
+      "F2": {
+        "verdict": "correct",
+        "reason": "F3 was released in 2022 as its standalone sequel."
+      },
+      "F3": {
+        "verdict": "incorrect",
+        "reason": "Being a sequel to F2 does not establish that F3 itself has a released sequel or prequel; F2 is the original."
+      },
+      "DJ Tillu": {
+        "verdict": "correct",
+        "reason": "Its sequel Tillu Square was released in 2024."
+      },
+      "Tillu Square": {
+        "verdict": "incorrect",
+        "reason": "DJ Tillu is its earlier original, not a prequel. A merely announced follow-up does not qualify."
+      },
+      "HIT: The Second Case": {
+        "verdict": "correct",
+        "reason": "It has a released standalone sequel, HIT: The Third Case, released in 2025."
+      },
+      "Karthikeya 2": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel to Karthikeya, but that original is not a prequel, and an announced third installment does not qualify."
+      },
+      "Drushyam 2": {
+        "verdict": "incorrect",
+        "reason": "The stated relationship only establishes that it is a sequel; Drushyam is the original, not a prequel."
+      },
+      "Bangarraju": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel to Soggade Chinni Nayana, but the earlier original is not a prequel and no qualifying follow-up is established."
+      },
+      "Kick 2": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel to Kick, but Kick is the original rather than a prequel; no released further installment is established."
+      },
+      "Shankar Dada Zindabad": {
+        "verdict": "incorrect",
+        "reason": "It is a standalone sequel, but does not itself have an established released sequel or prequel."
+      },
+      "Gaayam 2": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel to Gaayam, but the original is not a prequel and no released further installment is established."
+      },
+      "Avunu 2": {
+        "verdict": "incorrect",
+        "reason": "It is a sequel to Avunu, but the original is not a prequel and no released further installment is established."
+      }
+    },
+    "issues": []
+  }
+}

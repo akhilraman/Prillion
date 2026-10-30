@@ -1,0 +1,2582 @@
+{
+  "question": {
+    "id": "us-pop-kendrick-songs",
+    "category": "us-pop",
+    "prompt": "Name a Kendrick Lamar song.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "6-16-in-la",
+        "canonical": "6:16 in LA",
+        "aliases": [
+          "616 in LA",
+          "6:16 in Los Angeles"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a Kendrick Lamar single released in 2024.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "30-for-30",
+        "canonical": "30 for 30",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with SZA.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "ab-soul-s-outro",
+        "canonical": "Ab-Soul's Outro",
+        "aliases": [
+          "Ab Souls Outro"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "a-d-h-d",
+        "canonical": "A.D.H.D",
+        "aliases": [
+          "ADHD",
+          "A.D.H.D."
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "alien-girl-today-w-her",
+        "canonical": "Alien Girl (Today, W/ Her)",
+        "aliases": [
+          "Alien Girl",
+          "Alien Girl Today With Her"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Overly Dedicated.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "all-the-stars",
+        "canonical": "All the Stars",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with SZA on Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "alright",
+        "canonical": "Alright",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "a-milli",
+        "canonical": "A Milli",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-art-of-peer-pressure",
+        "canonical": "The Art of Peer Pressure",
+        "aliases": [
+          "Art of Peer Pressure"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "auntie-diaries",
+        "canonical": "Auntie Diaries",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "average-joe",
+        "canonical": "Average Joe",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Ab-Soul.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "backd00r",
+        "canonical": "Backd00r",
+        "aliases": [
+          "Backdoor"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track from Music among Kendrick's recordings.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "backseat-freestyle",
+        "canonical": "Backseat Freestyle",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "barbed-wire",
+        "canonical": "Barbed Wire",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Ash Riser.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "best-rapper-under-25",
+        "canonical": "Best Rapper Under 25",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "biggie",
+        "canonical": "Biggie",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "big-shot",
+        "canonical": "Big Shot",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Travis Scott on Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "bitch-don-t-kill-my-vibe",
+        "canonical": "Bitch, Don't Kill My Vibe",
+        "aliases": [
+          "Bitch Dont Kill My Vibe",
+          "Don't Kill My Vibe"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "bitch-don-t-kill-my-vibe-remix",
+        "canonical": "Bitch, Don't Kill My Vibe (Remix)",
+        "aliases": [
+          "Bitch Dont Kill My Vibe Remix",
+          "Don't Kill My Vibe Remix"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this remix featuring Jay-Z.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "bitch-i-m-in-the-club",
+        "canonical": "Bitch I'm in the Club",
+        "aliases": [
+          "Bitch Im in the Club"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "black-boy-fly",
+        "canonical": "Black Boy Fly",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this on the deluxe edition of good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "black-panther",
+        "canonical": "Black Panther",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this title track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-blacker-the-berry",
+        "canonical": "The Blacker the Berry",
+        "aliases": [
+          "Blacker the Berry"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "blood",
+        "canonical": "BLOOD.",
+        "aliases": [
+          "Blood"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "bloody-waters",
+        "canonical": "Bloody Waters",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Ab-Soul, Anderson Paak and James Blake track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "blow-my-high-members-only",
+        "canonical": "Blow My High (Members Only)",
+        "aliases": [
+          "Blow My High"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "cartoon-and-cereal",
+        "canonical": "Cartoon and Cereal",
+        "aliases": [
+          "Cartoon & Cereal",
+          "Cartoons and Cereal"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Gunplay.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "celebration",
+        "canonical": "Celebration",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "chapter-six",
+        "canonical": "Chapter Six",
+        "aliases": [
+          "Chapter 6"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "chapter-ten",
+        "canonical": "Chapter Ten",
+        "aliases": [
+          "Chapter 10"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "complexion-a-zulu-love",
+        "canonical": "Complexion (A Zulu Love)",
+        "aliases": [
+          "Complexion"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this To Pimp a Butterfly track featuring Rapsody.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "compton",
+        "canonical": "Compton",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this good kid, m.A.A.d city track featuring Dr. Dre.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "compton-chemistry",
+        "canonical": "Compton Chemistry",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "compton-life",
+        "canonical": "Compton Life",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "count-me-out",
+        "canonical": "Count Me Out",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "crown",
+        "canonical": "Crown",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "cut-you-off-to-grow-closer",
+        "canonical": "Cut You Off (To Grow Closer)",
+        "aliases": [
+          "Cut You Off"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Overly Dedicated.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "determined",
+        "canonical": "Determined",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Ash Riser.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "die-hard",
+        "canonical": "Die Hard",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Blxst and Amanda Reifer.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "dna",
+        "canonical": "DNA.",
+        "aliases": [
+          "DNA"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "dodger-blue",
+        "canonical": "Dodger Blue",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX track featuring Roddy Ricch, Siete7x and Wallie the Sensei.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "doves-in-the-wind",
+        "canonical": "Doves in the Wind",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this SZA song featuring Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "drop-it-like-it-s-hot-freestyle",
+        "canonical": "Drop It Like It's Hot (Freestyle)",
+        "aliases": [
+          "Drop It Like Its Hot Freestyle",
+          "Drop It Like It's Hot"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this freestyle featuring Dave Free.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "duckworth",
+        "canonical": "DUCKWORTH.",
+        "aliases": [
+          "Duckworth"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "element",
+        "canonical": "ELEMENT.",
+        "aliases": [
+          "Element"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "euphoria",
+        "canonical": "Euphoria",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a Kendrick Lamar single released in 2024.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "faith",
+        "canonical": "Faith",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring BJ the Chicago Kid and Punch.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "family-ties",
+        "canonical": "family ties",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Baby Keem.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "famous-pipe-game",
+        "canonical": "Famous Pipe Game",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Ab-Soul.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "far-from-here",
+        "canonical": "Far From Here",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Schoolboy Q.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "father-time",
+        "canonical": "Father Time",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Mr. Morale & the Big Steppers track featuring Sampha.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "fear",
+        "canonical": "FEAR.",
+        "aliases": [
+          "Fear"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "feel",
+        "canonical": "FEEL.",
+        "aliases": [
+          "Feel"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "for-free-interlude",
+        "canonical": "For Free? (Interlude)",
+        "aliases": [
+          "For Free",
+          "For Free?"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this interlude on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "for-sale-interlude",
+        "canonical": "For Sale? (Interlude)",
+        "aliases": [
+          "For Sale",
+          "For Sale?"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this interlude on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "friend-of-mine",
+        "canonical": "Friend of Mine",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "g-code",
+        "canonical": "G Code",
+        "aliases": [
+          "G-Code"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "gloria",
+        "canonical": "Gloria",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX collaboration with SZA.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "gnx",
+        "canonical": "gnx",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX track featuring Hitta J3, Peysoh and YoungThreat.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "go-dj",
+        "canonical": "Go DJ",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Y.H.N.I.C. track featuring Dave Free.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "god",
+        "canonical": "GOD.",
+        "aliases": [
+          "God"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "good-credit",
+        "canonical": "GOOD CREDIT",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track from Music among Kendrick's recordings.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "good-flirts",
+        "canonical": "Good Flirts",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Kendrick Lamar and Momo Boyd.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "good-kid",
+        "canonical": "good kid",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "growing-apart-to-get-closer",
+        "canonical": "Growing Apart (To Get Closer)",
+        "aliases": [
+          "Growing Apart"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Jhené Aiko.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-heart-pt-2",
+        "canonical": "The Heart Pt. 2",
+        "aliases": [
+          "The Heart Part 2",
+          "Heart Part 2",
+          "The Heart Part II"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Dash Snow.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-heart-part-4",
+        "canonical": "The Heart Part 4",
+        "aliases": [
+          "The Heart Pt. 4",
+          "Heart Part 4",
+          "The Heart Part IV"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a non-album promotional single.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-heart-part-5",
+        "canonical": "The Heart Part 5",
+        "aliases": [
+          "The Heart Pt. 5",
+          "Heart Part 5",
+          "The Heart Part V"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "heart-pt-6",
+        "canonical": "heart pt. 6",
+        "aliases": [
+          "Heart Part 6",
+          "The Heart Part 6",
+          "Heart Part VI"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on GNX.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "heaven-hell",
+        "canonical": "Heaven & Hell",
+        "aliases": [
+          "Heaven and Hell"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Alori Joh.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "hey-now",
+        "canonical": "hey now",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX track featuring Dody6.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "hiiipower",
+        "canonical": "HiiiPoWeR",
+        "aliases": [
+          "Hiiipower",
+          "HiiPower",
+          "HiPower",
+          "High Power"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-hillbillies",
+        "canonical": "The Hillbillies",
+        "aliases": [
+          "Hillbillies"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Baby Keem.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "h-o-c",
+        "canonical": "H.O.C.",
+        "aliases": [
+          "HOC"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Ab-Soul.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "hol-up",
+        "canonical": "Hol' Up",
+        "aliases": [
+          "Hol Up",
+          "Hold Up"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "hood-politics",
+        "canonical": "Hood Politics",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "hovi-baby",
+        "canonical": "Hovi Baby",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "how-much-a-dollar-cost",
+        "canonical": "How Much a Dollar Cost",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this To Pimp a Butterfly track featuring James Fauntleroy and Ronald Isley.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "how-to-pray",
+        "canonical": "How to Pray",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Kendrick Lamar and Amber Mark.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "how-we-do",
+        "canonical": "How We Do",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "humble",
+        "canonical": "HUMBLE.",
+        "aliases": [
+          "Humble"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "i",
+        "canonical": "i",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "i-am",
+        "canonical": "I Am",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Jorja Smith track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "i-am-interlude",
+        "canonical": "I Am (Interlude)",
+        "aliases": [
+          "I Am Interlude"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this interlude on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "i-do-this",
+        "canonical": "I Do This",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Jay Rock.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "i-do-this-remix",
+        "canonical": "I Do This (Remix)",
+        "aliases": [
+          "I Do This Remix"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this remix featuring U-N-I, Skeme and Brown.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "ignorance-is-bliss",
+        "canonical": "Ignorance is Bliss",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Overly Dedicated.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "institutionalized",
+        "canonical": "Institutionalized",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this To Pimp a Butterfly track featuring Bilal, Anna Wise and Snoop Dogg.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "intro",
+        "canonical": "Intro",
+        "aliases": [
+          "C4 Intro"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this introductory track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "intro-hova-song-freestyle",
+        "canonical": "Intro (HOVA Song Freestyle)",
+        "aliases": [
+          "HOVA Song Freestyle",
+          "YHNIC Intro"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this introductory freestyle on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "is-it-love",
+        "canonical": "Is It Love",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Angela McCluskey.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "keisha-s-song-her-pain",
+        "canonical": "Keisha's Song (Her Pain)",
+        "aliases": [
+          "Keisha's Song",
+          "Keishas Song"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Section.80 track featuring Ashtrobot.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "king-kunta",
+        "canonical": "King Kunta",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "king-s-dead",
+        "canonical": "King's Dead",
+        "aliases": [
+          "Kings Dead"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Jay Rock, Future and James Blake.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "kush-corinthians",
+        "canonical": "Kush & Corinthians",
+        "aliases": [
+          "Kush and Corinthians"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Section.80 track featuring BJ the Chicago Kid.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "let-me-be-me",
+        "canonical": "Let Me Be Me",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "like-that",
+        "canonical": "Like That",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Future and Metro Boomin.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "love",
+        "canonical": "LOVE.",
+        "aliases": [
+          "Love"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Damn single featuring Zacari.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "loyalty",
+        "canonical": "LOYALTY.",
+        "aliases": [
+          "Loyalty"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Damn single featuring Rihanna.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "lust",
+        "canonical": "LUST.",
+        "aliases": [
+          "Lust"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "luther",
+        "canonical": "luther",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX single with SZA.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "m-a-a-d-city",
+        "canonical": "m.A.A.d city",
+        "aliases": [
+          "Maad City",
+          "M.A.A.D. City",
+          "Mad City"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this good kid, m.A.A.d city track featuring MC Eight.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "man-at-the-garden",
+        "canonical": "man at the garden",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on GNX.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "meet-the-grahams",
+        "canonical": "Meet the Grahams",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a Kendrick Lamar single released in 2024.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring Schoolboy Q.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "mirror",
+        "canonical": "Mirror",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "misunderstood",
+        "canonical": "Misunderstood",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Jay Rock.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "momma",
+        "canonical": "Momma",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "money-trees",
+        "canonical": "Money Trees",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this good kid, m.A.A.d city track featuring Jay Rock.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "mortal-man",
+        "canonical": "Mortal Man",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "mother-i-sober",
+        "canonical": "Mother I Sober",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Mr. Morale & the Big Steppers track featuring Beth Gibbons.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "mr-carter-2-new-wayne-verse",
+        "canonical": "Mr. Carter 2 (New Wayne Verse)",
+        "aliases": [
+          "Mr Carter 2",
+          "Mr. Carter 2"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "mr-morale",
+        "canonical": "Mr. Morale",
+        "aliases": [
+          "Mr Morale",
+          "Mister Morale"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Tanna Leone.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "n95",
+        "canonical": "N95",
+        "aliases": [
+          "N-95"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "night-of-the-living-junkies",
+        "canonical": "Night of the Living Junkies",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Overly Dedicated.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "no-make-up-her-vice",
+        "canonical": "No Make-Up (Her Vice)",
+        "aliases": [
+          "No Make-Up",
+          "No Makeup"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Section.80 track featuring Colin Munroe.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "not-like-us",
+        "canonical": "Not Like Us",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a Kendrick Lamar single released in 2024.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "now-or-never",
+        "canonical": "Now or Never",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this deluxe-edition track featuring Mary J. Blige.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "opposites-attract-tomorrow-w-o-her",
+        "canonical": "Opposites Attract (Tomorrow, W/O Her)",
+        "aliases": [
+          "Opposites Attract",
+          "Opposites Attract Tomorrow Without Her"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated track featuring JaVonté.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "opps",
+        "canonical": "Opps",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Vince Staples and Yugen Blakrok track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "p-p",
+        "canonical": "P&P",
+        "aliases": [
+          "P and P"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Ab-Soul on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "p-p-1-5",
+        "canonical": "P&P 1.5",
+        "aliases": [
+          "P and P 1.5"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this Overly Dedicated track featuring Ab-Soul.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "paramedic",
+        "canonical": "Paramedic",
+        "aliases": [
+          "Paramedic!"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this SOB X RBE track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "peekaboo",
+        "canonical": "peekaboo",
+        "aliases": [
+          "Peek a Boo"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX track featuring AZChike.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "phone-home",
+        "canonical": "Phone Home",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Punch.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "play-with-fire",
+        "canonical": "Play With Fire",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "poe-mans-dreams-her-vice",
+        "canonical": "Poe Mans Dreams (Her Vice)",
+        "aliases": [
+          "Poe Mans Dreams",
+          "Poe Man's Dreams",
+          "Poor Man's Dreams"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Section.80 track featuring GLC.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "poetic-justice",
+        "canonical": "Poetic Justice",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single featuring Drake.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "pray-for-me",
+        "canonical": "Pray for Me",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Black Panther: The Album single with The Weeknd.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "pride",
+        "canonical": "PRIDE.",
+        "aliases": [
+          "Pride"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "purple-hearts",
+        "canonical": "Purple Hearts",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Summer Walker and Ghostface Killah.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "put-that-on-somethin",
+        "canonical": "Put That on Somethin'",
+        "aliases": [
+          "Put That on Somethin",
+          "Put That on Something"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "range-brothers",
+        "canonical": "Range Brothers",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Baby Keem.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "real",
+        "canonical": "Real",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this good kid, m.A.A.d city track featuring Anna Wise.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-recipe",
+        "canonical": "The Recipe",
+        "aliases": [
+          "Recipe"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on the deluxe edition of good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "redemption",
+        "canonical": "Redemption",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Zacari and Babes Wodumo track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "redemption-interlude",
+        "canonical": "Redemption Interlude",
+        "aliases": [
+          "Redemption (Interlude)"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this interlude on Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "reincarnated",
+        "canonical": "reincarnated",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on GNX.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "rich-interlude",
+        "canonical": "Rich (Interlude)",
+        "aliases": [
+          "Rich Interlude",
+          "Rich"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this interlude on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "rich-spirit",
+        "canonical": "Rich Spirit",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "ride-up",
+        "canonical": "Ride Up",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Y.H.N.I.C. track featuring Freeway and Joe Budden.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "rigamortus",
+        "canonical": "Rigamortus",
+        "aliases": [
+          "Rigor Mortis",
+          "Rigamortis"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "ronald-reagan-era-his-evils",
+        "canonical": "Ronald Reagan Era (His Evils)",
+        "aliases": [
+          "Ronald Reagan Era"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "r-o-t-c-interlude",
+        "canonical": "R.O.T.C. (Interlude)",
+        "aliases": [
+          "ROTC",
+          "ROTC Interlude"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Overly Dedicated interlude featuring BJ the Chicago Kid.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "savior",
+        "canonical": "Savior",
+        "aliases": [
+          "Saviour"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Baby Keem and Sam Dew.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "savior-interlude",
+        "canonical": "Savior (Interlude)",
+        "aliases": [
+          "Savior Interlude",
+          "Saviour Interlude"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this interlude on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "seasons",
+        "canonical": "Seasons",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Mozzy, Sjava and Reason track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "she-needs-me",
+        "canonical": "She Needs Me",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring JaVonté.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "she-needs-me-remix",
+        "canonical": "She Needs Me (Remix)",
+        "aliases": [
+          "She Needs Me Remix"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this remix featuring Dom Kennedy and Murs.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "sherane-a-k-a-master-splinter-s-daughter",
+        "canonical": "Sherane a.k.a. Master Splinter's Daughter",
+        "aliases": [
+          "Sherane",
+          "Master Splinter's Daughter",
+          "Sherane AKA Master Splinters Daughter"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "shot-down",
+        "canonical": "Shot Down",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Punch.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "silent-hill",
+        "canonical": "Silent Hill",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single with Kodak Black.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "sing-about-me-i-m-dying-of-thirst",
+        "canonical": "Sing About Me, I'm Dying of Thirst",
+        "aliases": [
+          "Sing About Me",
+          "I'm Dying of Thirst",
+          "Sing About Me Im Dying of Thirst",
+          "SAMIDOT"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-spiteful-chant",
+        "canonical": "The Spiteful Chant",
+        "aliases": [
+          "Spiteful Chant"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Section.80 track featuring Schoolboy Q.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "squabble-up",
+        "canonical": "squabble up",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on GNX.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "still-hustlin",
+        "canonical": "Still Hustlin",
+        "aliases": [
+          "Still Hustlin'",
+          "Still Hustling"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Ab-Soul and Jay Rock.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "swimming-pools-drank",
+        "canonical": "Swimming Pools (Drank)",
+        "aliases": [
+          "Swimming Pools"
+        ],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on good kid, m.A.A.d city.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "take-off-your-pants",
+        "canonical": "Take Off Your Pants",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Ab-Soul track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "tammy-s-song-her-evils",
+        "canonical": "Tammy's Song (Her Evils)",
+        "aliases": [
+          "Tammy's Song",
+          "Tammys Song"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Section.80.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "thanksgiving",
+        "canonical": "Thanksgiving",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring Big Pooh.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "these-walls",
+        "canonical": "These Walls",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this single on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "trip",
+        "canonical": "Trip",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "tv-off",
+        "canonical": "tv off",
+        "aliases": [],
+        "familiarity": 0.0173,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this GNX single featuring Lefty Gunplay.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "u",
+        "canonical": "u",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "uncle-bobby-jason-keaton",
+        "canonical": "Uncle Bobby & Jason Keaton",
+        "aliases": [
+          "Uncle Bobby and Jason Keaton"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track featuring JaVonté.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "united-in-grief",
+        "canonical": "United in Grief",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-01-08-12-2014",
+        "canonical": "untitled 01 | 08.12.2014.",
+        "aliases": [
+          "Untitled 01",
+          "Untitled 1"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-02-06-23-2014",
+        "canonical": "untitled 02 | 06.23.2014.",
+        "aliases": [
+          "Untitled 02",
+          "Untitled 2"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-03-05-28-2013",
+        "canonical": "untitled 03 | 05.28.2013.",
+        "aliases": [
+          "Untitled 03",
+          "Untitled 3"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-04-08-14-2014",
+        "canonical": "untitled 04 | 08.14.2014.",
+        "aliases": [
+          "Untitled 04",
+          "Untitled 4"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-05-09-21-2014",
+        "canonical": "untitled 05 | 09.21.2014.",
+        "aliases": [
+          "Untitled 05",
+          "Untitled 5"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-06-06-30-2014",
+        "canonical": "untitled 06 | 06.30.2014.",
+        "aliases": [
+          "Untitled 06",
+          "Untitled 6"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-07-2014-2016",
+        "canonical": "untitled 07 | 2014–2016",
+        "aliases": [
+          "Untitled 07",
+          "Untitled 7"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this as a single from untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "untitled-08-09-06-2014",
+        "canonical": "untitled 08 | 09.06.2014.",
+        "aliases": [
+          "Untitled 08",
+          "Untitled 8"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on untitled unmastered.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "vanity-slaves",
+        "canonical": "Vanity Slaves",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "vanity-slaves-pt-2",
+        "canonical": "Vanity Slaves, Pt. 2",
+        "aliases": [
+          "Vanity Slaves Part 2",
+          "Vanity Slaves 2"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document separately lists this track featuring Gucci Mane.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "wacced-out-murals",
+        "canonical": "wacced out murals",
+        "aliases": [
+          "Whacked Out Murals",
+          "Wacked Out Murals"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on GNX.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "wanna-be-heard",
+        "canonical": "Wanna Be Heard",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Kendrick Lamar.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "watch-the-party-die",
+        "canonical": "Watch the Party Die",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this standalone track released in 2024.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "the-ways",
+        "canonical": "The Ways",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Khalid and Swae Lee track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "we-cry-together",
+        "canonical": "We Cry Together",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this collaboration with Taylour Paige.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "welcome-to-c4",
+        "canonical": "Welcome to C4",
+        "aliases": [
+          "Welcome to C 4"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Ab-Soul, Jay Rock, Schoolboy Q and BO.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "wesley-s-theory",
+        "canonical": "Wesley's Theory",
+        "aliases": [
+          "Wesleys Theory"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "west-coast-wu-tang",
+        "canonical": "West Coast Wu Tang",
+        "aliases": [
+          "West Coast Wu-Tang"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this C4 track featuring Ab-Soul and Punch.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "what-the-deal",
+        "canonical": "What the Deal",
+        "aliases": [],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Y.H.N.I.C.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "worldwide-steppers",
+        "canonical": "Worldwide Steppers",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Mr. Morale & the Big Steppers.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "x",
+        "canonical": "X",
+        "aliases": [],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes this Schoolboy Q, 2 Chainz and Saudi track from Black Panther: The Album.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "xxx",
+        "canonical": "XXX.",
+        "aliases": [
+          "XXX"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this Damn track featuring U2.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "yah",
+        "canonical": "YAH.",
+        "aliases": [
+          "Yah"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on Damn.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "you-ain-t-gotta-lie-momma-said",
+        "canonical": "You Ain't Gotta Lie (Momma Said)",
+        "aliases": [
+          "You Ain't Gotta Lie",
+          "You Aint Gotta Lie"
+        ],
+        "familiarity": 0.0021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on To Pimp a Butterfly.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      },
+      {
+        "id": "young-black",
+        "canonical": "Young & Black",
+        "aliases": [
+          "Young and Black"
+        ],
+        "familiarity": 0.0005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists this track on C4.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kendrick-lamar"
+        ]
+      }
+    ],
+    "explanation": "Kendrick's catalog spans mixtapes, albums, standalone singles, collaborations and soundtrack projects. These answers come from the supplied song list, which identifies itself as incomplete.",
+    "sources": [
+      {
+        "id": "list-of-songs-recorded-by-kendrick-lamar",
+        "title": "List of songs recorded by Kendrick Lamar",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Kendrick_Lamar",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A track recorded by Kendrick Lamar or included on one of his projects, including collaborations, guest appearances, remixes and interludes."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "51bab7da7b0e7a0b",
+    "brief": "Name a Kendrick Lamar song.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-songs-recorded-by-kendrick-lamar",
+        "version": "1377867439",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "6:16 in LA": "\"6:16 in LA\" † | Kendrick Duckworth",
+      "30 for 30": "\"30 for 30\" (with SZA) †",
+      "Ab-Soul's Outro": "\"Ab-Soul's Outro\" (featuring Ab-Soul)",
+      "A.D.H.D": "\"A.D.H.D\" | Kendrick Duckworth Mark Spears | Section.80",
+      "Alien Girl (Today, W/ Her)": "\"Alien Girl (Today, W/ Her)\" | Kendrick Duckworth Mark Spears | Overly Dedicated",
+      "All the Stars": "\"All the Stars\" (with SZA) †",
+      "Alright": "\"Alright\" † | Kendrick Duckworth Pharrell Williams Mark Spears | To Pimp a Butterfly",
+      "A Milli": "\"A Milli\" | Kendrick Duckworth | C4",
+      "The Art of Peer Pressure": "\"The Art of Peer Pressure\" | Kendrick Duckworth Rune Rask Jonas Vestergaard | good kid, m.A.A.d city",
+      "Auntie Diaries": "\"Auntie Diaries\" | Kendrick Duckworth Homer Steinweiss",
+      "Average Joe": "\"Average Joe\" (featuring Ab-Soul)",
+      "Backd00r": "\"Backd00r\" | Jordan Carter Kendrick Duckworth",
+      "Backseat Freestyle": "\"Backseat Freestyle\" † | Kendrick Duckworth Chauncey Hollis, Jr.",
+      "Barbed Wire": "\"Barbed Wire\" (featuring Ash Riser)",
+      "Best Rapper Under 25": "\"Best Rapper Under 25\" | Kendrick Duckworth | C4",
+      "Biggie": "\"Biggie\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Big Shot": "\"Big Shot\" (with Travis Scott)",
+      "Bitch, Don't Kill My Vibe": "\"Bitch, Don't Kill My Vibe\" † | Kendrick Duckworth",
+      "Bitch, Don't Kill My Vibe (Remix)": "\"Bitch, Don't Kill My Vibe (Remix)\" (featuring Jay-Z) †",
+      "Bitch I'm in the Club": "\"Bitch I'm in the Club\" | Kendrick Duckworth | C4",
+      "Black Boy Fly": "\"Black Boy Fly\" | Kendrick Duckworth Columbus Smith Dawaun Parker | good kid, m.A.A.d city (Deluxe Edition)",
+      "Black Panther": "\"Black Panther\" | Kendrick Duckworth Mark Spears",
+      "The Blacker the Berry": "\"The Blacker the Berry\" † | Kendrick Duckworth",
+      "BLOOD.": "\"BLOOD.\" | Kendrick Duckworth Daniel Tannenbaum Anthony Tiffith | Damn",
+      "Bloody Waters": "\"Bloody Waters\" (performed by Ab-Soul, Anderson Paak and James Blake)",
+      "Blow My High (Members Only)": "\"Blow My High (Members Only)\" | Kendrick Duckworth Melissa Elliott Timothy Mosely | Section.80",
+      "Cartoon and Cereal": "\"Cartoon and Cereal\" (featuring Gunplay)",
+      "Celebration": "\"Celebration\" | Kendrick Duckworth Mark Spears Gene McDaniels Nat Adderley | Kendrick Lamar",
+      "Chapter Six": "\"Chapter Six\" | Kendrick Duckworth Fredrik Halldin | Section.80",
+      "Chapter Ten": "\"Chapter Ten\" | Kendrick Duckworth Ricci Riera Axel Morgan | Section.80",
+      "Complexion (A Zulu Love)": "\"Complexion (A Zulu Love)\" (featuring Rapsody)",
+      "Compton": "\"Compton\" (featuring Dr. Dre)",
+      "Compton Chemistry": "\"Compton Chemistry\" | Kendrick Duckworth | C4",
+      "Compton Life": "\"Compton Life\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Count Me Out": "\"Count Me Out\" | Kendrick Duckworth Sam Dew Mark Spears Dacoury Natche Jason Pounds | Mr. Morale & the Big Steppers",
+      "Crown": "\"Crown\" | Kendrick Duckworth Sam Dew Duval Timothy | Mr. Morale & the Big Steppers",
+      "Cut You Off (To Grow Closer)": "\"Cut You Off (To Grow Closer)\" | Donte Perkins Kendrick Duckworth | Overly Dedicated",
+      "Determined": "\"Determined\" (featuring Ash Riser)",
+      "Die Hard": "\"Die Hard\" (with Blxst and Amanda Reifer) †",
+      "DNA.": "\"DNA.\" | Kendrick Duckworth Michael Williams II | Damn",
+      "Dodger Blue": "\"Dodger Blue\" (featuring Roddy Ricch, Siete7x and Wallie the Sensei)",
+      "Doves in the Wind": "\"Doves in the Wind\" (SZA featuring Kendrick Lamar)",
+      "Drop It Like It's Hot (Freestyle)": "\"Drop It Like It's Hot (Freestyle)\" (featuring Dave Free)",
+      "DUCKWORTH.": "\"DUCKWORTH.\" | Kendrick Duckworth Patrick Douthit | Damn",
+      "ELEMENT.": "\"ELEMENT.\" | Kendrick Duckworth Mark Spears James Blake Ricci Riera Tae Beast Bēkon | Damn",
+      "Euphoria": "\"Euphoria\" † | Kendrick Duckworth",
+      "Faith": "\"Faith\" (featuring BJ the Chicago Kid and Punch)",
+      "family ties": "\"family ties\" (with Baby Keem) †",
+      "Famous Pipe Game": "\"Famous Pipe Game\" (featuring Ab-Soul)",
+      "Far From Here": "\"Far From Here\" (featuring Schoolboy Q)",
+      "Father Time": "\"Father Time\" (featuring Sampha)",
+      "FEAR.": "\"FEAR.\" | Kendrick Duckworth Daniel Maman | Damn",
+      "FEEL.": "\"FEEL.\" | Kendrick Duckworth Mark Spears | Damn",
+      "For Free? (Interlude)": "\"For Free? (Interlude)\" | Kendrick Duckworth Terrace Martin Rose McKinney | To Pimp a Butterfly",
+      "For Sale? (Interlude)": "\"For Sale? (Interlude)\" | Kendrick Duckworth Taz Arnold | To Pimp a Butterfly",
+      "Friend of Mine": "\"Friend of Mine\" | Kendrick Duckworth | C4",
+      "Fuck Your Ethnicity": "\"Fuck Your Ethnicity\" | Kendrick Duckworth Axel Morgan | Section.80",
+      "G Code": "\"G Code\" | Kendrick Duckworth | C4",
+      "Gloria": "\"Gloria\" (with SZA)",
+      "gnx": "\"gnx\" (featuring Hitta J3, Peysoh and YoungThreat)",
+      "Go DJ": "\"Go DJ\" (featuring Dave Free)",
+      "GOD.": "\"GOD.\" | Kendrick Duckworth Ricci Riera Mark Spears Dacoury Natche Daniel Tannenbaum Ronald LaTour Anthony Tiffith | Damn",
+      "GOOD CREDIT": "\"GOOD CREDIT\" | Jordan Carter Kendrick Duckworth | Music",
+      "Good Flirts": "\"Good Flirts\" (featuring Kendrick Lamar and Momo Boyd)",
+      "good kid": "\"good kid\" | Kendrick Duckworth Pharrell Williams | good kid, m.A.A.d city",
+      "Growing Apart (To Get Closer)": "\"Growing Apart (To Get Closer)\" (featuring Jhené Aiko)",
+      "The Heart Pt. 2": "\"The Heart Pt. 2\" (featuring Dash Snow)",
+      "The Heart Part 4": "\"The Heart Part 4\" † | Kendrick Duckworth Joshua Scruggs Axel Morgan Dacoury Natche Daniel Maman Khalid Robinson | Non-album promotional single",
+      "The Heart Part 5": "\"The Heart Part 5\" † | Kendrick Duckworth",
+      "heart pt. 6": "\"heart pt. 6\" | Kendrick Duckworth | GNX",
+      "Heaven & Hell": "\"Heaven & Hell\" (featuring Alori Joh)",
+      "hey now": "\"hey now\" (featuring Dody6)",
+      "HiiiPoWeR": "\"HiiiPoWeR\" † | Kendrick Duckworth Herbert Stevens Jermaine Cole | Section.80",
+      "The Hillbillies": "\"The Hillbillies\" (with Baby Keem) †",
+      "H.O.C.": "\"H.O.C.\" (featuring Ab-Soul)",
+      "Hol' Up": "\"Hol' Up\" | Kendrick Duckworth Mark Spears | Section.80",
+      "Hood Politics": "\"Hood Politics\" | Kendrick Duckworth Stephen Bruner Mark Spears David Friley Donte Perkins Sufjan Stevens | To Pimp a Butterfly",
+      "Hovi Baby": "\"Hovi Baby\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "How Much a Dollar Cost": "\"How Much a Dollar Cost\" (featuring James Fauntleroy and Ronald Isley)",
+      "How to Pray": "\"How to Pray\" (featuring Kendrick Lamar and Amber Mark)",
+      "How We Do": "\"How We Do\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "HUMBLE.": "\"HUMBLE.\" † | Kendrick Duckworth Michael Williams II | Damn",
+      "i": "\"i\" † | Kendrick Duckworth Columbus Smith The Isley Brothers Christopher Jasper | To Pimp a Butterfly",
+      "I Am": "\"I Am\" (performed by Jorja Smith)",
+      "I Am (Interlude)": "\"I Am (Interlude)\" | Kendrick Duckworth Kamaal Fareed | Kendrick Lamar",
+      "I Do This": "\"I Do This\" (featuring Jay Rock)",
+      "I Do This (Remix)": "\"I Do This (Remix)\" (featuring U-N-I, Skeme and Brown)",
+      "Ignorance is Bliss": "\"Ignorance is Bliss\" | Kendrick Duckworth William Brown | Overly Dedicated",
+      "Industry Niggas (Skit)": "\"Industry Niggas (Skit)\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Institutionalized": "\"Institutionalized\" (featuring Bilal, Anna Wise, and Snoop Dogg)",
+      "Intro": "\"Intro\" | Kendrick Duckworth Dwayne Carter, Jr. Johnn McKinzie | C4",
+      "Intro (HOVA Song Freestyle)": "\"Intro (HOVA Song Freestyle)\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Is It Love": "\"Is It Love\" (featuring Angela McCluskey)",
+      "Keisha's Song (Her Pain)": "\"Keisha's Song (Her Pain)\" (featuring Ashtrobot)",
+      "King Kunta": "\"King Kunta\" † | Kendrick Duckworth",
+      "King's Dead": "\"King's Dead\" (with Jay Rock, Future and James Blake) †",
+      "Kush & Corinthians": "\"Kush & Corinthians\" (featuring BJ the Chicago Kid)",
+      "Let Me Be Me": "\"Let Me Be Me\" | Kendrick Duckworth Pete Rahk | Kendrick Lamar",
+      "Like That": "\"Like That\" (with Future and Metro Boomin) †",
+      "LOVE.": "\"LOVE.\" (featuring Zacari) †",
+      "LOYALTY.": "\"LOYALTY.\" (featuring Rihanna) †",
+      "LUST.": "\"LUST.\" | Kendrick Duckworth Dacoury Natche Mark Spears BadBadNotGood | Damn",
+      "luther": "\"luther\" (with SZA) †",
+      "m.A.A.d city": "\"m.A.A.d city\" (featuring MC Eight)",
+      "man at the garden": "\"man at the garden\" | Kendrick Duckworth | GNX",
+      "Meet the Grahams": "\"Meet the Grahams\" † | Kendrick Duckworth Alan Maman",
+      "Michael Jordan": "\"Michael Jordan\" (featuring Schoolboy Q)",
+      "Mirror": "\"Mirror\" | Kendrick Duckworth Daniel Krieger Stuart Johnson",
+      "Misunderstood": "\"Misunderstood\" (featuring Jay Rock)",
+      "Momma": "\"Momma\" | Kendrick Duckworth Glen Boothe Taz Arnold Sylvester Stewart Lalah Hathaway Rahsaan Patterson Rex Rideout | To Pimp a Butterfly",
+      "Money Trees": "\"Money Trees\" (featuring Jay Rock)",
+      "Mortal Man": "\"Mortal Man\" | Kendrick Duckworth Stephen Bruner Fela Anikulapo Kuti Tupac Shakur | To Pimp a Butterfly",
+      "Mother I Sober": "\"Mother I Sober\" (featuring Beth Gibbons)",
+      "Mr. Carter 2 (New Wayne Verse)": "\"Mr. Carter 2 (New Wayne Verse)\" | Kendrick Duckworth Dwayne Carter, Jr. | C4",
+      "Mr. Morale": "\"Mr. Morale\" (with Tanna Leone)",
+      "N95": "\"N95\" † | Kendrick Duckworth",
+      "Night of the Living Junkies": "\"Night of the Living Junkies\" | Kendrick Duckworth Mark Spears | Overly Dedicated",
+      "No Make-Up (Her Vice)": "\"No Make-Up (Her Vice)\" (featuring Colin Munroe)",
+      "Not Like Us": "\"Not Like Us\" † | Kendrick Duckworth Dijon McFarlane Mark Spears",
+      "Now or Never": "\"Now or Never\" (featuring Mary J. Blige)",
+      "Opposites Attract (Tomorrow, W/O Her)": "\"Opposites Attract (Tomorrow, W/O Her)\" (featuring JaVonté)",
+      "Opps": "\"Opps\" (Vince Staples and Yugen Blakrok)",
+      "P&P": "\"P&P\" (featuring Ab-Soul)",
+      "P&P 1.5": "\"P&P 1.5\" (featuring Ab-Soul)",
+      "Paramedic": "\"Paramedic\" (SOB X RBE)",
+      "peekaboo": "\"peekaboo\" (featuring AZChike)",
+      "Phone Home": "\"Phone Home\" (featuring Punch)",
+      "Play With Fire": "\"Play With Fire\" | Kendrick Duckworth | C4",
+      "Poe Mans Dreams (Her Vice)": "\"Poe Mans Dreams (Her Vice)\" (featuring GLC)",
+      "Poetic Justice": "\"Poetic Justice\" (featuring Drake) †",
+      "Pray for Me": "\"Pray for Me\" (with The Weeknd) †",
+      "PRIDE.": "\"PRIDE.\" | Kendrick Duckworth Steve Lacy Anna Wise Anthony Tiffith | Damn",
+      "Purple Hearts": "\"Purple Hearts\" (with Summer Walker and Ghostface Killah)",
+      "Put That on Somethin'": "\"Put That on Somethin'\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Range Brothers": "\"Range Brothers\" (with Baby Keem)",
+      "Real": "\"Real\" (featuring Anna Wise)",
+      "The Recipe": "\"The Recipe\" † | Kendrick Duckworth Andre Young",
+      "Redemption": "\"Redemption\" (performed by Zacari and Babes Wodumo)",
+      "Redemption Interlude": "\"Redemption Interlude\" | Kendrick Duckworth Hykeem Carter Zacari Pacaldo | Black Panther: The Album",
+      "reincarnated": "\"reincarnated\" | Kendrick Duckworth Deyra Barrera | GNX",
+      "Rich (Interlude)": "\"Rich (Interlude)\" | Bill Kapri Sam Dew Duval Timothy | Mr. Morale & the Big Steppers",
+      "Rich Spirit": "\"Rich Spirit\" | Kendrick Duckworth Sam Dew Mark Spears",
+      "Ride Up": "\"Ride Up\" (featuring Freeway and Joe Budden)",
+      "Rigamortus": "\"Rigamortus\" | Kendrick Duckworth Eric Reed | Section.80",
+      "Ronald Reagan Era (His Evils)": "\"Ronald Reagan Era (His Evils)\" | Kendrick Duckworth Donte Perkins | Section.80",
+      "R.O.T.C. (Interlude)": "\"R.O.T.C. (Interlude)\" (featuring BJ the Chicago Kid)",
+      "Savior": "\"Savior\" (with Baby Keem and Sam Dew)",
+      "Savior (Interlude)": "\"Savior (Interlude)\" | Kendrick Duckworth Hykeem Carter Mark Spears Jason Pounds | Mr. Morale & the Big Steppers",
+      "Seasons": "\"Seasons\" (performed by Mozzy, Sjava and Reason)",
+      "She Needs Me": "\"She Needs Me\" (featuring JaVonté)",
+      "She Needs Me (Remix)": "\"She Needs Me (Remix)\" (featuring Dom Kennedy and Murs)",
+      "Sherane a.k.a. Master Splinter's Daughter": "\"Sherane a.k.a. Master Splinter's Daughter\" | Kendrick Duckworth Christopher Whitacre Justin Henderson | good kid, m.A.A.d city",
+      "Shot Down": "\"Shot Down\" (featuring Punch)",
+      "Silent Hill": "\"Silent Hill\" (with Kodak Black) †",
+      "Sing About Me, I'm Dying of Thirst": "\"Sing About Me, I'm Dying of Thirst\" | Kendrick Duckworth Gabe Stevenson Derrick Hutchins Quincy Jones Alan Bergman Marilyn Bergman | good kid, m.A.A.d city",
+      "The Spiteful Chant": "\"The Spiteful Chant\" (featuring Schoolboy Q)",
+      "squabble up": "\"squabble up\" † | Kendrick Duckworth | GNX",
+      "Still Hustlin": "\"Still Hustlin\" (featuring Ab-Soul and Jay Rock)",
+      "Swimming Pools (Drank)": "\"Swimming Pools (Drank)\" † | Kendrick Duckworth Tyler Williams | good kid, m.A.A.d city",
+      "Take Off Your Pants": "\"Take Off Your Pants\" (performed by Ab-Soul) | Herbert Stevens IV | C4",
+      "Tammy's Song (Her Evils)": "\"Tammy's Song (Her Evils)\" | Kendrick Duckworth Ricci Riera Axel Morgan | Section.80",
+      "Thanksgiving": "\"Thanksgiving\" (featuring Big Pooh)",
+      "These Walls": "\"These Walls\" † | Kendrick Duckworth Terrace Martin Larrance Dopson James Fauntleroy Rose McKinney | To Pimp a Butterfly",
+      "Trip": "\"Trip\" | Kendrick Duckworth Mark Spears | Kendrick Lamar",
+      "tv off": "\"tv off\" (featuring Lefty Gunplay) †",
+      "u": "\"u\" | Kendrick Duckworth Taz Arnold Michael Brown | To Pimp a Butterfly",
+      "Uncle Bobby & Jason Keaton": "\"Uncle Bobby & Jason Keaton\" (featuring JaVonté)",
+      "United in Grief": "\"United in Grief\" | Kendrick Duckworth Sam Dew Mark Spears",
+      "untitled 01 | 08.12.2014.": "\"untitled 01 | 08.12.2014.\" | Kendrick Duckworth Brent Reynolds | untitled unmastered.",
+      "untitled 02 | 06.23.2014.": "\"untitled 02 | 06.23.2014.\" | Kendrick Duckworth Ronald LaTour Dave Jackson Stephen Bruner | untitled unmastered.",
+      "untitled 03 | 05.28.2013.": "\"untitled 03 | 05.28.2013.\" | Kendrick Duckworth Mathieu Rakotozafy | untitled unmastered.",
+      "untitled 04 | 08.14.2014.": "\"untitled 04 | 08.14.2014.\" | Kendrick Duckworth Stephen Bruner Mark Spears | untitled unmastered.",
+      "untitled 05 | 09.21.2014.": "\"untitled 05 | 09.21.2014.\" | Kendrick Duckworth Mark Spears Terrace Martin Johnny McKinzie Jr. | untitled unmastered.",
+      "untitled 06 | 06.30.2014.": "\"untitled 06 | 06.30.2014.\" | Kendrick Duckworth Adrian Younge Ali Shaheed Muhammad | untitled unmastered.",
+      "untitled 07 | 2014–2016": "\"untitled 07 | 2014–2016\" † | Kendrick Duckworth",
+      "untitled 08 | 09.06.2014.": "\"untitled 08 | 09.06.2014.\" | Kendrick Duckworth Stephen Bruner Charles Dickerson | untitled unmastered.",
+      "Vanity Slaves": "\"Vanity Slaves\" | Kendrick Duckworth Phonte Coleman Matthijs Rook | Kendrick Lamar",
+      "Vanity Slaves, Pt. 2": "\"Vanity Slaves, Pt. 2\" (featuring Gucci Mane)",
+      "wacced out murals": "\"wacced out murals\" | Kendrick Duckworth Deyra Barrera | GNX",
+      "Wanna Be Heard": "\"Wanna Be Heard\" | Kendrick Duckworth Curtis Cross | Kendrick Lamar",
+      "Watch the Party Die": "\"Watch the Party Die\" | Kendrick Duckworth | —N/a | Jack Antonoff Pasqué Greg Sekeres | 2024-09-11 | 2024",
+      "The Ways": "\"The Ways\" (performed by Khalid featuring Swae Lee)",
+      "We Cry Together": "\"We Cry Together\" (with Taylour Paige)",
+      "Welcome to C4": "\"Welcome to C4\" (featuring Ab-Soul, Jay Rock, Schoolboy Q and BO)",
+      "Wesley's Theory": "\"Wesley's Theory\" | Kendrick Duckworth George Clinton Steven Ellison Ronald Colson Stephen Bruner Boris Gardiner | To Pimp a Butterfly",
+      "West Coast Wu Tang": "\"West Coast Wu Tang\" (featuring Ab-Soul and Punch)",
+      "What the Deal": "\"What the Deal\" | Kendrick Duckworth | Y.H.N.I.C.",
+      "Worldwide Steppers": "\"Worldwide Steppers\" | Kendrick Duckworth Sam Dew Mark Spears",
+      "X": "\"X\" (performed by Schoolboy Q, 2 Chainz and Saudi)",
+      "XXX.": "\"XXX.\" (featuring U2)",
+      "YAH.": "\"YAH.\" | Kendrick Duckworth Mark Spears Dacoury Natche Anthony Tiffith | Damn",
+      "You Ain't Gotta Lie (Momma Said)": "\"You Ain't Gotta Lie (Momma Said)\" | Kendrick Duckworth Terrace Martin Rose McKinney Josef Leimberg Mark Spears | To Pimp a Butterfly",
+      "Young & Black": "\"Young & Black\" | Kendrick Duckworth | C4"
+    },
+    "issues": [],
+    "editedInReview": {
+      "removedAnswers": [
+        "Fuck Your Ethnicity",
+        "Industry Niggas (Skit)"
+      ],
+      "reason": "explicit or hurtful titles, or not suitable for a family-friendly trivia game (human review 2026-10-30)"
+    }
+  }
+}

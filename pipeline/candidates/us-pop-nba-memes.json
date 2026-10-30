@@ -1,0 +1,270 @@
+{
+  "question": {
+    "id": "us-pop-nba-memes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name an NBA meme, viral moment or running joke from games, broadcasts, interviews or social media.",
+    "answerSet": "open",
+    "criteria": "A documented, widely circulated meme, viral public moment or recurring joke involving NBA players, teams or coverage; ordinary player names alone do not count.",
+    "answers": [
+      {
+        "id": "crying-jordan",
+        "canonical": "Crying Jordan",
+        "aliases": [
+          "Michael Jordan crying",
+          "Jordan crying face"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "An image of Michael Jordan crying during his Hall of Fame speech became a widely used reaction meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "kawhi-laugh",
+        "canonical": "Kawhi laugh",
+        "aliases": [
+          "Kawhi Leonard laugh",
+          "Kawhi laughing",
+          "I'm a fun guy",
+          "Kawhi fun guy",
+          "Laughing Kawhi"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kawhi Leonard's distinctive laugh during his introductory Raptors press conference went viral.",
+        "sourceIds": []
+      },
+      {
+        "id": "what-it-do-baby",
+        "canonical": "What it do baby",
+        "aliases": [
+          "What it do babyyyy",
+          "Kawhi what it do",
+          "What it do babyyy"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A video of Kawhi Leonard delivering an enthusiastic greeting became a popular NBA meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "not-one-not-two",
+        "canonical": "Not one, not two",
+        "aliases": [
+          "Not 1 not 2",
+          "Not one not two not three",
+          "LeBron counting championships",
+          "LeBron not one not two",
+          "LeBron championship count"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James's championship-counting remarks at the Heat's welcome celebration became a frequently replayed joke.",
+        "sourceIds": []
+      },
+      {
+        "id": "talking-about-practice",
+        "canonical": "Talking about practice",
+        "aliases": [
+          "We talking about practice",
+          "Allen Iverson practice",
+          "Iverson practice rant"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen Iverson repeatedly emphasized the word practice during a memorable press conference.",
+        "sourceIds": []
+      },
+      {
+        "id": "lebron-and-jr",
+        "canonical": "LeBron and JR",
+        "aliases": [
+          "JR Smith blunder",
+          "LeBron pointing at JR",
+          "JR Smith clock mistake",
+          "JR Smith Finals mistake"
+        ],
+        "familiarity": 0.1448,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James's exasperated reaction to JR Smith's late-game clock mistake in the NBA Finals became a reaction meme.",
+        "sourceIds": []
+      },
+      {
+        "id": "board-man-gets-paid",
+        "canonical": "Board man gets paid",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A reported rebounding catchphrase from Kawhi Leonard's college days became a widely shared NBA slogan.",
+        "sourceIds": []
+      },
+      {
+        "id": "westbrook-what",
+        "canonical": "Westbrook what",
+        "aliases": [
+          "Russell Westbrook what",
+          "Westbrook bro what",
+          "Bro what",
+          "Bro what are you talking about",
+          "What are you talking about man"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Russell Westbrook's incredulous response to an interview question became a reaction clip.",
+        "sourceIds": []
+      },
+      {
+        "id": "ball-don-t-lie",
+        "canonical": "Ball don't lie",
+        "aliases": [
+          "Ball doesn't lie",
+          "Rasheed Wallace ball don't lie"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rasheed Wallace helped popularize this catchphrase for missed free throws following disputed calls.",
+        "sourceIds": []
+      },
+      {
+        "id": "both-teams-played-hard",
+        "canonical": "Both teams played hard",
+        "aliases": [
+          "Rasheed Wallace both teams played hard",
+          "Sheed both teams played hard",
+          "Rasheed both teams played hard",
+          "Both teams played hard my man"
+        ],
+        "familiarity": 0.0043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rasheed Wallace repeatedly answered postgame questions with the same statement about both teams playing hard.",
+        "sourceIds": []
+      },
+      {
+        "id": "everybody-acting-tough",
+        "canonical": "Everybody acting tough",
+        "aliases": [
+          "Everybody acting tough when they up",
+          "Luka acting tough",
+          "Everybody acts tough when they're up",
+          "Everyone acts tough when they're up"
+        ],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luka Doncic's comment about opponents acting tough while ahead became a recurring basketball meme.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "NBA meme culture draws on memorable interviews, on-court reactions, broadcast catchphrases and social-media exchanges. Answers beyond those listed can count if they meet the criteria.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "57e0ab2c4adb368d",
+    "brief": "Name a widely known NBA meme, viral moment or running joke from broadcasts, interviews, games or social media.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Crying Jordan": 3,
+      "Talking about practice": 2,
+      "LeBron and JR": 2,
+      "Kawhi laugh": 3,
+      "What it do baby": 3,
+      "Board man gets paid": 2,
+      "Not one, not two": 3,
+      "Westbrook what": 2,
+      "Ball don't lie": 2,
+      "Both teams played hard": 2,
+      "Everybody acting tough": 2
+    },
+    "droppedForVotes": {
+      "Fun guy": 1,
+      "Took that personally": 1,
+      "Lance blowing": 1,
+      "Swaggy P celebration": 1,
+      "Pat Bev camera": 1,
+      "Klay toaster": 1,
+      "I'm trying Jennifer": 1,
+      "They don't love you": 1,
+      "LeGM": 1,
+      "LeBronto": 1,
+      "Chuck's guarantee": 1,
+      "I took that personally": 1,
+      "Lance blowing in LeBron's ear": 1,
+      "Alonzo Mourning nodding": 1,
+      "Swaggy P early celebration": 1,
+      "Harden eye roll": 1,
+      "Reggie Miller choke": 1,
+      "Patrick Beverley play-in celebration": 1,
+      "I called game": 1,
+      "Doc Rivers shocked": 1,
+      "Basketball reasons": 1,
+      "Tragic Bronson": 1,
+      "Form a wall": 1,
+      "Hedo Turkoglu ball": 1,
+      "We talking about practice": 1,
+      "LeBron's JR reaction": 1,
+      "What are you talking about": 1,
+      "Anything is possible": 1,
+      "Alonzo Mourning GIF": 1,
+      "Light the beam": 1,
+      "Bucks in six": 1,
+      "Shaqtin' a Fool": 1,
+      "Blocked by James": 1,
+      "Curry double bang": 1,
+      "Pat Bev play-in": 1,
+      "DeAndre Jordan dunk face": 1,
+      "Luka special": 1,
+      "Who He Play For": 1
+    },
+    "verdicts": {
+      "Crying Jordan": {
+        "verdict": "correct",
+        "reason": "Jordan's tearful 2009 Hall of Fame speech supplied the image for a widely documented reaction meme."
+      },
+      "Kawhi laugh": {
+        "verdict": "correct",
+        "reason": "Leonard's laugh at his 2018 Raptors introductory press conference became a widely circulated meme."
+      },
+      "What it do baby": {
+        "verdict": "correct",
+        "reason": "Leonard's enthusiastic greeting in a video with Serge Ibaka became a popular reaction clip."
+      },
+      "Not one, not two": {
+        "verdict": "correct",
+        "reason": "James's championship-counting remarks at Miami's 2010 welcome celebration became an enduring NBA joke."
+      },
+      "Talking about practice": {
+        "verdict": "correct",
+        "reason": "Iverson's repeated references to practice during his 2002 press conference became an iconic, widely replayed moment."
+      },
+      "LeBron and JR": {
+        "verdict": "correct",
+        "reason": "James's reaction to Smith's late-game mistake in Game 1 of the 2018 NBA Finals became a widely shared reaction meme."
+      },
+      "Board man gets paid": {
+        "verdict": "correct",
+        "reason": "Leonard's reported college-era rebounding catchphrase became a widely circulated slogan during the Raptors' 2019 championship run."
+      },
+      "Westbrook what": {
+        "verdict": "correct",
+        "reason": "Westbrook's incredulous 'What? Bro, what are you talking about, man?' interview response became a familiar reaction meme."
+      },
+      "Ball don't lie": {
+        "verdict": "correct",
+        "reason": "The phrase is famously associated with Wallace using missed free throws to dispute the preceding foul call."
+      },
+      "Both teams played hard": {
+        "verdict": "correct",
+        "reason": "Wallace's repeated use of this answer in a postgame interview became a well-documented NBA running joke."
+      },
+      "Everybody acting tough": {
+        "verdict": "correct",
+        "reason": "Doncic's 'Everybody acting tough when they up' remark during the 2022 Suns playoff series became a widely circulated meme."
+      }
+    },
+    "issues": []
+  }
+}

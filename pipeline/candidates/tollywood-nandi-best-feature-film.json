@@ -1,0 +1,757 @@
+{
+  "question": {
+    "id": "tollywood-nandi-best-feature-film",
+    "category": "tollywood",
+    "prompt": "Name a film that won the Gold Nandi Award for Best Feature Film from 1964 through 2016.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "pelli-choopulu",
+        "canonical": "Pelli Choopulu",
+        "aliases": [
+          "Pellichoopulu"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2016.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2015.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "legend",
+        "canonical": "Legend",
+        "aliases": [],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2014.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "mirchi",
+        "canonical": "Mirchi",
+        "aliases": [],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2013.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2012.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sri-rama-rajyam",
+        "canonical": "Sri Rama Rajyam",
+        "aliases": [
+          "Srirama Rajyam"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2011.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "vedam",
+        "canonical": "Vedam",
+        "aliases": [],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2010.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sontha-vooru",
+        "canonical": "Sontha Vooru",
+        "aliases": [
+          "Sontha Ooru",
+          "Sontha Vuru"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2009.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "gamyam",
+        "canonical": "Gamyam",
+        "aliases": [],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2008.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "mee-sreyobhilashi",
+        "canonical": "Mee Sreyobhilashi",
+        "aliases": [
+          "Mee Shreyobhilashi"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2007.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "bommarillu",
+        "canonical": "Bommarillu",
+        "aliases": [],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2006.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "pothe-poni",
+        "canonical": "Pothe Poni",
+        "aliases": [
+          "Pote Poni"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2005.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "aa-naluguru",
+        "canonical": "Aa Naluguru",
+        "aliases": [
+          "A Naluguru"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2004.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "missamma",
+        "canonical": "Missamma",
+        "aliases": [
+          "Missamma (2003)"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 2003 film Missamma won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "manmadhudu",
+        "canonical": "Manmadhudu",
+        "aliases": [
+          "Manmadhudu (2002)"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2002.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "preminchu",
+        "canonical": "Preminchu",
+        "aliases": [],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2001.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "chirunavvutho",
+        "canonical": "Chirunavvutho",
+        "aliases": [
+          "Chirunavvuto"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 2000.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "kalisundam-raa",
+        "canonical": "Kalisundam Raa",
+        "aliases": [
+          "Kalisundam Ra"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1999.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "tholi-prema",
+        "canonical": "Tholi Prema",
+        "aliases": [
+          "Tholi Prema (1998)",
+          "Toli Prema"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1998 film Tholi Prema won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "annamayya",
+        "canonical": "Annamayya",
+        "aliases": [],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1997.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "pavithra-bandham",
+        "canonical": "Pavithra Bandham",
+        "aliases": [
+          "Pavitra Bandham"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1996.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sogasu-chooda-tharamaa",
+        "canonical": "Sogasu Chooda Tharamaa",
+        "aliases": [
+          "Sogasu Chooda Tarama",
+          "Sogasu Chooda Tharama"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1995.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "bangaru-kutumbam",
+        "canonical": "Bangaru Kutumbam",
+        "aliases": [],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1994.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "mr-pellam",
+        "canonical": "Mr. Pellam",
+        "aliases": [
+          "Mr Pellam",
+          "Mister Pellam"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1993.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "yagnam",
+        "canonical": "Yagnam",
+        "aliases": [
+          "Yagnam (1991)",
+          "Yajnam"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1991 film Yagnam won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "erra-mandaram",
+        "canonical": "Erra Mandaram",
+        "aliases": [
+          "Erra Mandaaram"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1990.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "geethanjali",
+        "canonical": "Geethanjali",
+        "aliases": [
+          "Gitanjali",
+          "Geethanjali (1989)"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1989 film Geethanjali won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "swarna-kamalam",
+        "canonical": "Swarna Kamalam",
+        "aliases": [
+          "Swarnakamalam"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1988.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sruthi-layalu",
+        "canonical": "Sruthi Layalu",
+        "aliases": [
+          "Sruthilayalu",
+          "Shrutilayalu",
+          "Shruti Layalu"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1987.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "swathi-muthyam",
+        "canonical": "Swathi Muthyam",
+        "aliases": [
+          "Swati Mutyam",
+          "Swathi Muthyam (1986)"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1986 film Swathi Muthyam won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "mayuri",
+        "canonical": "Mayuri",
+        "aliases": [],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1985.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "swathi",
+        "canonical": "Swathi",
+        "aliases": [
+          "Swati",
+          "Swathi (1984)"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1984.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "ananda-bhairavi",
+        "canonical": "Ananda Bhairavi",
+        "aliases": [
+          "Anandabhairavi"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1983.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "meghasandesam",
+        "canonical": "Meghasandesam",
+        "aliases": [
+          "Megha Sandesam",
+          "Meghasandhesam"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1982.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "seethakoka-chiluka",
+        "canonical": "Seethakoka Chiluka",
+        "aliases": [
+          "Seethakokachiluka",
+          "Sitakoka Chiluka"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1981.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "yuvatharam-kadilindi",
+        "canonical": "Yuvatharam Kadilindi",
+        "aliases": [
+          "Yuvataram Kadilindi"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It is listed as the Gold award winner for 1980.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sankarabharanam",
+        "canonical": "Sankarabharanam",
+        "aliases": [
+          "Shankarabharanam",
+          "Sankarabharanam (1979)"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1979.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "naalaga-endaro",
+        "canonical": "Naalaga Endaro",
+        "aliases": [
+          "Naalaga Yendaro"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1978.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "oorummadi-brathukulu",
+        "canonical": "Oorummadi Brathukulu",
+        "aliases": [
+          "Oorummadi Bratukulu",
+          "Oorummadi Bathukulu"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1976.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "jeevana-jyothi",
+        "canonical": "Jeevana Jyothi",
+        "aliases": [
+          "Jeevana Jyoti",
+          "Jeevana Jyothi (1975)"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1975.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "alluri-seetharama-raju",
+        "canonical": "Alluri Seetharama Raju",
+        "aliases": [
+          "Alluri Sitarama Raju",
+          "Alluri Seetarama Raju"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1974.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sharada",
+        "canonical": "Sharada",
+        "aliases": [
+          "Sarada",
+          "Sharada (1973)"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1973.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "kalam-marindi",
+        "canonical": "Kalam Marindi",
+        "aliases": [
+          "Kaalam Maarindi"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1972.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "chelleli-kapuram",
+        "canonical": "Chelleli Kapuram",
+        "aliases": [
+          "Chelleli Kaapuram"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1971.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "kathanayika-molla",
+        "canonical": "Kathanayika Molla",
+        "aliases": [
+          "Kathanayika Molla (1970)"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1970.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "kathanayakudu",
+        "canonical": "Kathanayakudu",
+        "aliases": [
+          "Kathanayakudu (1969)"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1969 film Kathanayakudu won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "bandhavyalu",
+        "canonical": "Bandhavyalu",
+        "aliases": [
+          "Bandhavyalu (1968)"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1968.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "sudi-gundalu",
+        "canonical": "Sudi Gundalu",
+        "aliases": [
+          "Sudigundalu"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1967.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "rangula-ratnam",
+        "canonical": "Rangula Ratnam",
+        "aliases": [
+          "Rangula Ratnam (1966)",
+          "Rangula Raatnam"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1966 film Rangula Ratnam won that year's Gold award.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "antastulu",
+        "canonical": "Antastulu",
+        "aliases": [
+          "Anthasthulu",
+          "Antasthulu"
+        ],
+        "familiarity": 0.006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1965.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      },
+      {
+        "id": "doctor-chakravarthy",
+        "canonical": "Doctor Chakravarthy",
+        "aliases": [
+          "Dr. Chakravarthy",
+          "Dr Chakravarthy",
+          "Doctor Chakravarthi"
+        ],
+        "familiarity": 0.0201,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "It won the Gold award for 1964.",
+        "sourceIds": [
+          "nandi-award-for-best-feature-film"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the Gold Best Feature Film winners list for 1964–2016. Silver and Bronze winners are separate categories and do not count here. No Gold award was given in 1977 or 1992.",
+    "sources": [
+      {
+        "id": "nandi-award-for-best-feature-film",
+        "title": "Nandi Award for Best Feature Film",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nandi_Award_for_Best_Feature_Film",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "c9ab2eb153cb997e",
+    "brief": "Name a film that has won the Nandi Award for Best Feature Film.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nandi-award-for-best-feature-film",
+        "version": "1339812354",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Pelli Choopulu": "2016 | Pelli Choopulu | Tharun Bhascker Dhaassyam",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | S. S. Rajamouli",
+      "Legend": "2014 | Legend | Boyapati Srinu",
+      "Mirchi": "2013 | Mirchi | Koratala Siva",
+      "Eega": "2012 | Eega | S. S. Rajamouli",
+      "Sri Rama Rajyam": "2011 | Sri Rama Rajyam | Bapu",
+      "Vedam": "2010 | Vedam | Radhakrishna Jagarlamudi",
+      "Sontha Vooru": "2009 | Sontha Vooru | P. Sunil Kumar Reddy",
+      "Gamyam": "2008 | Gamyam | Radhakrishna Jagarlamudi",
+      "Mee Sreyobhilashi": "2007 | Mee Sreyobhilashi | Eswar Reddy",
+      "Bommarillu": "2006 | Bommarillu | Bhaskar",
+      "Pothe Poni": "2005 | Pothe Poni | Tammareddy Bharadwaja",
+      "Aa Naluguru": "2004 | Aa Naluguru | Chandra Siddhartha",
+      "Missamma": "2003 | Missamma | Neelakanta",
+      "Manmadhudu": "2002 | Manmadhudu | K. Vijaya Bhaskar",
+      "Preminchu": "2001 | Preminchu | Boyina Subba Rao",
+      "Chirunavvutho": "2000 | Chirunavvutho | G. Ramprasad",
+      "Kalisundam Raa": "1999 | Kalisundam Raa | Uday Shankar",
+      "Tholi Prema": "1998 | Tholi Prema | A. Karunakaran",
+      "Annamayya": "1997 | Annamayya | K. Raghavendra Rao",
+      "Pavithra Bandham": "1996 | Pavithra Bandham | Muthyala Subbaiah",
+      "Sogasu Chooda Tharamaa": "1995 | Sogasu Chooda Tharamaa | Gunasekhar",
+      "Bangaru Kutumbam": "1994 | Bangaru Kutumbam | Dasari Narayana Rao",
+      "Mr. Pellam": "1993 | Mr. Pellam | Bapu",
+      "Yagnam": "1991 | Yagnam | Gutta Ramineedu",
+      "Erra Mandaram": "1990 | Erra Mandaram | Muthyala Subbaiah",
+      "Geethanjali": "1989 | Geethanjali | Mani Ratnam",
+      "Swarna Kamalam": "1988 | Swarna Kamalam | K. Viswanath",
+      "Sruthi Layalu": "1987 | Sruthi Layalu | K. Viswanath",
+      "Swathi Muthyam": "1986 | Swathi Muthyam | K. Viswanath",
+      "Mayuri": "1985 | Mayuri | Singeetham Srinivasa Rao",
+      "Swathi": "1984 | Swathi | Kranthi Kumar",
+      "Ananda Bhairavi": "1983 | Ananda Bhairavi | Jandhyala",
+      "Meghasandesam": "1982 | Meghasandesam | Dasari Narayana Rao",
+      "Seethakoka Chiluka": "1981 | Seethakoka Chiluka | Bharathiraja",
+      "Yuvatharam Kadilindi": "1980 | Yuvatharam Kadilindi | Dhavala Satyam",
+      "Sankarabharanam": "1979 | Sankarabharanam | K. Viswanath",
+      "Naalaga Endaro": "1978 | Naalaga Endaro | Eeranki Sharma",
+      "Oorummadi Brathukulu": "1976 | Oorummadi Brathukulu | B. S. Narayana",
+      "Jeevana Jyothi": "1975 | Jeevana Jyothi | K. Viswanath",
+      "Alluri Seetharama Raju": "1974 | Alluri Seetharama Raju | V. Ramachandra Rao",
+      "Sharada": "1973 | Sharada | K. Viswanath",
+      "Kalam Marindi": "1972 | Kalam Marindi | K. Viswanath",
+      "Chelleli Kapuram": "1971 | Chelleli Kapuram | K. Viswanath",
+      "Kathanayika Molla": "1970 | Kathanayika Molla | B. Padmanabham",
+      "Kathanayakudu": "1969 | Kathanayakudu | K. Hemambaradara Rao",
+      "Bandhavyalu": "1968 | Bandhavyalu | S. V. Ranga Rao",
+      "Sudi Gundalu": "1967 | Sudi Gundalu | Adurthi Subba Rao, K. Viswanath",
+      "Rangula Ratnam": "1966 | Rangula Ratnam | B. N. Reddy",
+      "Antastulu": "1965 | Antastulu | V. Madhusudhana Rao",
+      "Doctor Chakravarthy": "1964 | Doctor Chakravarthy | Adurthi Subbarao"
+    },
+    "issues": []
+  }
+}

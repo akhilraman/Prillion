@@ -1,0 +1,305 @@
+{
+  "question": {
+    "id": "space-natural-satellites",
+    "category": "space",
+    "prompt": "Name a moon of a Solar System planet that was discovered before 1900.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "moon",
+        "canonical": "Moon",
+        "aliases": [
+          "The Moon",
+          "Earth's Moon"
+        ],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earth's Moon is listed as known since prehistory.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "phobos",
+        "canonical": "Phobos",
+        "aliases": [],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phobos is a moon of Mars discovered in 1877.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "deimos",
+        "canonical": "Deimos",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deimos is a moon of Mars discovered in 1877.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "io",
+        "canonical": "Io",
+        "aliases": [],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Io is a moon of Jupiter discovered in 1610.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "europa",
+        "canonical": "Europa",
+        "aliases": [],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Europa is a moon of Jupiter discovered in 1610.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "ganymede",
+        "canonical": "Ganymede",
+        "aliases": [],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ganymede is a moon of Jupiter discovered in 1610.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "callisto",
+        "canonical": "Callisto",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Callisto is a moon of Jupiter discovered in 1610.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "amalthea",
+        "canonical": "Amalthea",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amalthea is a moon of Jupiter discovered in 1892.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "mimas",
+        "canonical": "Mimas",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mimas is a moon of Saturn discovered in 1789.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "enceladus",
+        "canonical": "Enceladus",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Enceladus is a moon of Saturn discovered in 1789.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "tethys",
+        "canonical": "Tethys",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tethys is a moon of Saturn discovered in 1684.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "dione",
+        "canonical": "Dione",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dione is a moon of Saturn discovered in 1684.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "rhea",
+        "canonical": "Rhea",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rhea is a moon of Saturn discovered in 1672.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "titan",
+        "canonical": "Titan",
+        "aliases": [],
+        "familiarity": 0.1072,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Titan is a moon of Saturn discovered in 1655.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "hyperion",
+        "canonical": "Hyperion",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hyperion is a moon of Saturn discovered in 1848.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "iapetus",
+        "canonical": "Iapetus",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iapetus is a moon of Saturn discovered in 1671.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "phoebe",
+        "canonical": "Phoebe",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoebe is a moon of Saturn discovered in 1898.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "ariel",
+        "canonical": "Ariel",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ariel is a moon of Uranus discovered in 1851.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "umbriel",
+        "canonical": "Umbriel",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Umbriel is a moon of Uranus discovered in 1851.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "titania",
+        "canonical": "Titania",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Titania is a moon of Uranus discovered in 1787.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "oberon",
+        "canonical": "Oberon",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oberon is a moon of Uranus discovered in 1787.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      },
+      {
+        "id": "triton",
+        "canonical": "Triton",
+        "aliases": [],
+        "familiarity": 0.0429,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Triton is a moon of Neptune discovered in 1846.",
+        "sourceIds": [
+          "list-of-natural-satellites"
+        ]
+      }
+    ],
+    "explanation": "These moons were known before 1900, from Earth's Moon, known since prehistory, to Phoebe, discovered in 1898. Discovery years—not announcement years—determine eligibility.",
+    "sources": [
+      {
+        "id": "list-of-natural-satellites",
+        "title": "List of natural satellites",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_natural_satellites",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "d5ef75e4a744642f",
+    "brief": "Name a moon in our Solar System.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-natural-satellites",
+        "version": "1379468306",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Moon": "Moon | | Earth | I (1) | 1.022 | 1,738 | 73,460 | 384,399 | 27.321582 | Prehistoric | Prehistory",
+      "Phobos": "Phobos | | Mars | I (1) | 2.138 | 11.267 | 0.011 | 9,380 | 0.319 | 1877 | 1877 | Hall",
+      "Deimos": "Deimos | | Mars | II (2) | 1.351 | 6.2±0.18 | 0.001 | 23,460 | 1.262 | 1877 | 1877 | Hall",
+      "Io": "Io | | Jupiter | I (1) | 17.334 | 1,821.6±0.5 | 89,300 | 421,800 | 1.769 | 1610 | 1610 | Galileo",
+      "Europa": "Europa | | Jupiter | II (2) | 13.7 | 1,560.8±0.5 | 47,990 | 671,100 | 3.551 | 1610 | 1610 | Galileo",
+      "Ganymede": "Ganymede | | Jupiter | III (3) | 10.9 | 2,634.1±0.3 | 148,150 | 1,070,400 | 7.155 | 1610 | 1610 | Galileo",
+      "Callisto": "Callisto | | Jupiter | IV (4) | 8.2 | 2,410.3±1.5 | 107,570 | 1,882,700 | 16.69 | 1610 | 1610 | Galileo",
+      "Amalthea": "Amalthea | | Jupiter | V (5) | 26.47 | 83.5±2 | | 181,400 | 0.498 | 1892 | 1892 | Barnard",
+      "Mimas": "Mimas | | Saturn | I (1) | 14.28 | 198.2±0.4 | 37.51 | 185,540 | 0.942 | 1789 | 1789 | Herschel",
+      "Enceladus": "Enceladus | | Saturn | II (2) | | 252.1±0.2 | 108.0 | 238,040 | 1.370 | 1789 | 1789 | Herschel",
+      "Tethys": "Tethys | | Saturn | III (3) | 11.35 | 533.1±0.7 | 617.5 | 294,670 | 1.888 | 1684 | 1686 | Cassini",
+      "Dione": "Dione | | Saturn | IV (4) | | 561.4±0.4 | 1,095 | 377,420 | 2.737 | 1684 | 1686 | Cassini",
+      "Rhea": "Rhea | | Saturn | V (5) | 8.48 | 763.8±1.0 | 2,306 | 527,070 | 4.518 | 1672 | 1673 | Cassini",
+      "Titan": "Titan | | Saturn | VI (6) | 5.57 | 2,574.73±0.09 | 134,520 | 1,221,870 | 15.95 | 1655 | 1656 | Huygens",
+      "Hyperion": "Hyperion | | Saturn | VII (7) | | 135 | 5.551 | 1,500,880 | 21.28 | 1848 | 1848 | W.Bond, G. Bond, and Lassell",
+      "Iapetus": "Iapetus | | Saturn | VIII (8) | 3.26 | 735.6±1.5 | 1,805 | 3,560,840 | 79.33 | 1671 | 1673 | Cassini",
+      "Phoebe": "Phoebe | | Saturn | IX (9) | | 106.5±0.7 | 8.312 | 12,947,780 | 550.31 (r) | 1898 | 1899 | Pickering",
+      "Ariel": "Ariel | | Uranus | I (1) | | 578.9±0.6 | | 190,900 | 2.520 | 1851 | 1851 | Lassell",
+      "Umbriel": "Umbriel | | Uranus | II (2) | | 582.4±0.8 | | 266,000 | 4.144 | 1851 | 1851 | Lassell",
+      "Titania": "Titania | | Uranus | III (3) | | 788.9±1.8 | | 436,300 | 8.706 | 1787 | 1787 | Herschel",
+      "Oberon": "Oberon | | Uranus | IV (4) | | 761.4±2.6 | | 583,500 | 13.46 | 1787 | 1787 | Herschel",
+      "Triton": "Triton | | Neptune | I (1) | 4.39 | 1,353.4±0.9 | 21,389±28 | 354,800 | 5.877 (r) | 1846 | 1846 | Lassell"
+    },
+    "issues": []
+  }
+}

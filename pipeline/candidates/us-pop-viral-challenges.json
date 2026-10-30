@@ -1,0 +1,399 @@
+{
+  "question": {
+    "id": "us-pop-viral-challenges",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a viral social media challenge or participatory trend that spread widely online.",
+    "answerSet": "open",
+    "criteria": "A named, widely documented online challenge or trend in which people posted their own attempts, imitations, or variations.",
+    "answers": [
+      {
+        "id": "ice-bucket-challenge",
+        "canonical": "Ice Bucket Challenge",
+        "aliases": [
+          "ALS Ice Bucket Challenge",
+          "ALS Challenge"
+        ],
+        "familiarity": 0.0956,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants dumped ice water over themselves and nominated others to participate in a fundraising challenge associated with ALS.",
+        "sourceIds": []
+      },
+      {
+        "id": "mannequin-challenge",
+        "canonical": "Mannequin Challenge",
+        "aliases": [
+          "Mannequin"
+        ],
+        "familiarity": 0.0956,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants held frozen poses while a camera moved through the scene.",
+        "sourceIds": []
+      },
+      {
+        "id": "harlem-shake",
+        "canonical": "Harlem Shake",
+        "aliases": [
+          "Harlem Shake Challenge"
+        ],
+        "familiarity": 0.0956,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Videos used a clip of Baauer's Harlem Shake to transition from a lone dancer to a group dancing chaotically.",
+        "sourceIds": []
+      },
+      {
+        "id": "bottle-flip-challenge",
+        "canonical": "Bottle Flip Challenge",
+        "aliases": [
+          "Bottle Flipping",
+          "Water Bottle Challenge",
+          "Water Bottle Flip",
+          "Water Bottle Flip Challenge",
+          "Bottle Flip"
+        ],
+        "familiarity": 0.0956,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants flipped a partially filled water bottle and tried to make it land upright.",
+        "sourceIds": []
+      },
+      {
+        "id": "planking",
+        "canonical": "Planking",
+        "aliases": [
+          "Planking Challenge"
+        ],
+        "familiarity": 0.0956,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants posted photographs of themselves lying face down with rigid bodies in unusual locations.",
+        "sourceIds": []
+      },
+      {
+        "id": "renegade",
+        "canonical": "Renegade",
+        "aliases": [
+          "Renegade Challenge",
+          "Renegade Dance"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A dance created by Jalaiah Harmon spread widely through videos set to K Camp's Lottery.",
+        "sourceIds": []
+      },
+      {
+        "id": "running-man-challenge",
+        "canonical": "Running Man Challenge",
+        "aliases": [
+          "Running Man Dance Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants performed a dance to Ghost Town DJ's My Boo.",
+        "sourceIds": []
+      },
+      {
+        "id": "dolly-parton-challenge",
+        "canonical": "Dolly Parton Challenge",
+        "aliases": [
+          "LinkedIn Facebook Instagram Tinder Challenge",
+          "Dolly Challenge"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants shared a four-image grid showing different personas for LinkedIn, Facebook, Instagram, and Tinder.",
+        "sourceIds": []
+      },
+      {
+        "id": "flip-the-switch",
+        "canonical": "Flip the Switch",
+        "aliases": [
+          "Flip the Switch Challenge",
+          "Flip Switch Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paired participants used a light-switch transition to swap outfits or positions to Drake's Nonstop.",
+        "sourceIds": []
+      },
+      {
+        "id": "don-t-rush-challenge",
+        "canonical": "Don't Rush Challenge",
+        "aliases": [],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants used coordinated transitions to reveal changes in their appearance to Don't Rush by Young T and Bugsey.",
+        "sourceIds": []
+      },
+      {
+        "id": "owling",
+        "canonical": "Owling",
+        "aliases": [
+          "Owling Challenge"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants photographed themselves crouching in an owl-like pose in unusual places.",
+        "sourceIds": []
+      },
+      {
+        "id": "horsemaning",
+        "canonical": "Horsemaning",
+        "aliases": [
+          "Horse Manning",
+          "Horsemaning Challenge"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants staged photographs that created the illusion of a detached head beside a body.",
+        "sourceIds": []
+      },
+      {
+        "id": "sleeveface",
+        "canonical": "Sleeveface",
+        "aliases": [
+          "Sleevefacing",
+          "Sleeveface Challenge"
+        ],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants positioned record sleeves in front of their bodies to make the cover images appear to merge with the surrounding scene.",
+        "sourceIds": []
+      },
+      {
+        "id": "in-my-feelings-challenge",
+        "canonical": "In My Feelings Challenge",
+        "aliases": [
+          "Kiki Challenge",
+          "Keke Challenge",
+          "Shiggy Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants performed a dance to Drake's In My Feelings popularized by Shiggy.",
+        "sourceIds": []
+      },
+      {
+        "id": "wednesday-dance",
+        "canonical": "Wednesday Dance",
+        "aliases": [
+          "Wednesday Dance Challenge",
+          "Wednesday Addams Dance"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Users recreated Jenna Ortega's dance from the television series Wednesday.",
+        "sourceIds": []
+      },
+      {
+        "id": "ten-year-challenge",
+        "canonical": "Ten Year Challenge",
+        "aliases": [
+          "10 Year Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants shared photographs of themselves taken roughly ten years apart.",
+        "sourceIds": []
+      },
+      {
+        "id": "wipe-it-down",
+        "canonical": "Wipe It Down",
+        "aliases": [
+          "Wipe It Down Challenge"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants wiped a mirror to reveal a changed appearance in videos set to BMW Kenny's Wipe It Down.",
+        "sourceIds": []
+      },
+      {
+        "id": "pillow-challenge",
+        "canonical": "Pillow Challenge",
+        "aliases": [
+          "Pillow Dress Challenge",
+          "Quarantine Pillow Challenge"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants fashioned pillows into outfits, typically securing them with belts.",
+        "sourceIds": []
+      },
+      {
+        "id": "getty-museum-challenge",
+        "canonical": "Getty Museum Challenge",
+        "aliases": [
+          "Getty Challenge",
+          "Getty Art Challenge"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants recreated artworks using household objects and shared their versions online.",
+        "sourceIds": []
+      },
+      {
+        "id": "savage-challenge",
+        "canonical": "Savage Challenge",
+        "aliases": [
+          "Savage Dance",
+          "Savage Dance Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants copied a dance routine to Megan Thee Stallion's song Savage.",
+        "sourceIds": []
+      },
+      {
+        "id": "blinding-lights-challenge",
+        "canonical": "Blinding Lights Challenge",
+        "aliases": [
+          "Blinding Lights Dance",
+          "Blinding Lights Dance Challenge"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Participants performed a coordinated dance to The Weeknd's song Blinding Lights.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These trends spread through participation: people copied a dance, attempted a task, recreated an image, or added their own twist. Other answers that meet the criteria also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "bff21f9abbe64fdf",
+    "brief": "Name a viral social media challenge or trend that spread widely online.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Ice Bucket Challenge": 3,
+      "Mannequin Challenge": 3,
+      "Harlem Shake": 3,
+      "Bottle Flip Challenge": 3,
+      "Planking": 3,
+      "Renegade": 3,
+      "In My Feelings Challenge": 2,
+      "Running Man Challenge": 3,
+      "Wednesday Dance": 2,
+      "Ten Year Challenge": 2,
+      "Dolly Parton Challenge": 3,
+      "Flip the Switch": 3,
+      "Don't Rush Challenge": 3,
+      "Wipe It Down": 2,
+      "Pillow Challenge": 2,
+      "Getty Museum Challenge": 2,
+      "Owling": 3,
+      "Horsemaning": 3,
+      "Sleeveface": 3,
+      "Savage Challenge": 2,
+      "Blinding Lights Challenge": 2
+    },
+    "droppedForVotes": {
+      "Dab": 1,
+      "Floss": 1,
+      "Vogue Challenge": 1,
+      "Andy Is Coming": 1,
+      "Leisure Diving": 1,
+      "Flossing": 1,
+      "Dabbing": 1,
+      "Bottle Cap Challenge": 1,
+      "Git Up Challenge": 1,
+      "Trashtag": 1,
+      "Tebowing": 1,
+      "10 Year Challenge": 1,
+      "The Git Up Challenge": 1,
+      "Jerusalema Challenge": 1,
+      "Cup Song": 1,
+      "Invisible Box Challenge": 1,
+      "Broom Challenge": 1
+    },
+    "verdicts": {
+      "Ice Bucket Challenge": {
+        "verdict": "correct",
+        "reason": "Widely documented viral fundraising challenge in which participants dumped ice water over themselves and nominated others."
+      },
+      "Mannequin Challenge": {
+        "verdict": "correct",
+        "reason": "Widely documented video trend featuring participants remaining motionless as a camera moved around them."
+      },
+      "Harlem Shake": {
+        "verdict": "correct",
+        "reason": "Viral video format featuring a lone dancer followed by a cut to chaotic group dancing to Baauer's track."
+      },
+      "Bottle Flip Challenge": {
+        "verdict": "correct",
+        "reason": "Widely shared challenge involving attempts to flip a partially filled bottle and land it upright."
+      },
+      "Planking": {
+        "verdict": "correct",
+        "reason": "Widely documented photo trend involving lying face down with a rigid body in varied locations."
+      },
+      "Renegade": {
+        "verdict": "correct",
+        "reason": "Jalaiah Harmon's dance to K Camp's Lottery became a widely imitated social media trend."
+      },
+      "Running Man Challenge": {
+        "verdict": "correct",
+        "reason": "Widely documented dance challenge associated with Ghost Town DJ's My Boo."
+      },
+      "Dolly Parton Challenge": {
+        "verdict": "correct",
+        "reason": "Viral four-image grid trend contrasting personas for LinkedIn, Facebook, Instagram, and Tinder."
+      },
+      "Flip the Switch": {
+        "verdict": "correct",
+        "reason": "Widely imitated video challenge using Drake's Nonstop and a light-switch transition to swap outfits or roles."
+      },
+      "Don't Rush Challenge": {
+        "verdict": "correct",
+        "reason": "Viral makeover-transition challenge set to Don't Rush by Young T and Bugsey."
+      },
+      "Owling": {
+        "verdict": "correct",
+        "reason": "Documented participatory photo fad involving crouching in an owl-like pose in unusual locations."
+      },
+      "Horsemaning": {
+        "verdict": "correct",
+        "reason": "Documented photo meme in which participants staged the illusion of a detached head beside a body."
+      },
+      "Sleeveface": {
+        "verdict": "correct",
+        "reason": "Established participatory photo trend aligning record-sleeve artwork with people's bodies and surroundings."
+      },
+      "In My Feelings Challenge": {
+        "verdict": "correct",
+        "reason": "Widely documented dance challenge popularized by Shiggy using Drake's In My Feelings."
+      },
+      "Wednesday Dance": {
+        "verdict": "correct",
+        "reason": "Jenna Ortega's dance from Wednesday inspired widespread online recreations and variations."
+      },
+      "Ten Year Challenge": {
+        "verdict": "correct",
+        "reason": "Viral participatory trend comparing personal photographs taken approximately ten years apart."
+      },
+      "Wipe It Down": {
+        "verdict": "correct",
+        "reason": "Widely documented mirror-wiping transformation trend set to BMW Kenny's Wipe It Down."
+      },
+      "Pillow Challenge": {
+        "verdict": "correct",
+        "reason": "Viral fashion-photo challenge involving wearing a pillow as an outfit, commonly secured with a belt."
+      },
+      "Getty Museum Challenge": {
+        "verdict": "correct",
+        "reason": "Widely documented museum-led challenge inviting people to recreate artworks with household materials."
+      },
+      "Savage Challenge": {
+        "verdict": "correct",
+        "reason": "Widely imitated dance challenge set to Megan Thee Stallion's Savage."
+      },
+      "Blinding Lights Challenge": {
+        "verdict": "correct",
+        "reason": "Viral group dance challenge set to The Weeknd's Blinding Lights."
+      }
+    },
+    "issues": []
+  }
+}

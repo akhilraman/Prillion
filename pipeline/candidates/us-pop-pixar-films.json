@@ -1,0 +1,452 @@
+{
+  "question": {
+    "id": "us-pop-pixar-films",
+    "category": "us-pop",
+    "prompt": "Name a Pixar feature film released by the end of June 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "toy-story",
+        "canonical": "Toy Story",
+        "aliases": [
+          "Toy Story 1"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Toy Story as Pixar's first released feature, dated November 22, 1995.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "a-bug-s-life",
+        "canonical": "A Bug's Life",
+        "aliases": [
+          "A Bugs Life",
+          "Bugs Life"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists A Bug's Life as a released Pixar feature dated November 25, 1998.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "toy-story-2",
+        "canonical": "Toy Story 2",
+        "aliases": [
+          "Toy Story Two"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Toy Story 2 as a released Pixar feature dated November 24, 1999.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "monsters-inc",
+        "canonical": "Monsters, Inc.",
+        "aliases": [
+          "Monsters Inc",
+          "Monsters Incorporated"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Monsters, Inc. as a released Pixar feature dated November 2, 2001.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "finding-nemo",
+        "canonical": "Finding Nemo",
+        "aliases": [],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Finding Nemo as a released Pixar feature dated May 30, 2003.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "the-incredibles",
+        "canonical": "The Incredibles",
+        "aliases": [
+          "Incredibles",
+          "The Incredibles 1"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists The Incredibles as a released Pixar feature dated November 5, 2004.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "cars",
+        "canonical": "Cars",
+        "aliases": [
+          "Cars 1"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Cars as a released Pixar feature dated June 9, 2006.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "ratatouille",
+        "canonical": "Ratatouille",
+        "aliases": [],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Ratatouille as a released Pixar feature dated June 29, 2007.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "wall-e",
+        "canonical": "WALL-E",
+        "aliases": [
+          "Wall E",
+          "WALLE",
+          "WALL·E"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists WALL-E as a released Pixar feature dated June 27, 2008.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "up",
+        "canonical": "Up",
+        "aliases": [],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Up as a released Pixar feature dated May 29, 2009.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "toy-story-3",
+        "canonical": "Toy Story 3",
+        "aliases": [
+          "Toy Story Three"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Toy Story 3 as a released Pixar feature dated June 18, 2010.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "cars-2",
+        "canonical": "Cars 2",
+        "aliases": [
+          "Cars Two"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Cars 2 as a released Pixar feature dated June 24, 2011.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "brave",
+        "canonical": "Brave",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Brave as a released Pixar feature dated June 22, 2012.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "monsters-university",
+        "canonical": "Monsters University",
+        "aliases": [
+          "Monsters U"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Monsters University as a released Pixar feature dated June 21, 2013.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "inside-out",
+        "canonical": "Inside Out",
+        "aliases": [
+          "Inside Out 1"
+        ],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Inside Out as a released Pixar feature dated June 19, 2015.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "the-good-dinosaur",
+        "canonical": "The Good Dinosaur",
+        "aliases": [
+          "Good Dinosaur"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists The Good Dinosaur as a released Pixar feature dated November 25, 2015.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "finding-dory",
+        "canonical": "Finding Dory",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Finding Dory as a released Pixar feature dated June 17, 2016.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "cars-3",
+        "canonical": "Cars 3",
+        "aliases": [
+          "Cars Three"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Cars 3 as a released Pixar feature dated June 16, 2017.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "coco",
+        "canonical": "Coco",
+        "aliases": [],
+        "familiarity": 0.059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Coco as a released Pixar feature dated November 22, 2017.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "incredibles-2",
+        "canonical": "Incredibles 2",
+        "aliases": [
+          "The Incredibles 2",
+          "Incredibles Two"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Incredibles 2 as a released Pixar feature dated June 15, 2018.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "toy-story-4",
+        "canonical": "Toy Story 4",
+        "aliases": [
+          "Toy Story Four"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Toy Story 4 as a released Pixar feature dated June 21, 2019.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "onward",
+        "canonical": "Onward",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Onward as a released Pixar feature dated March 6, 2020.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "soul",
+        "canonical": "Soul",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Soul as a released Pixar feature dated December 25, 2020.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "luca",
+        "canonical": "Luca",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Luca as a released Pixar feature dated June 18, 2021.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "turning-red",
+        "canonical": "Turning Red",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Turning Red as a released Pixar feature dated March 11, 2022.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "lightyear",
+        "canonical": "Lightyear",
+        "aliases": [
+          "Light Year"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Lightyear as a released Pixar feature dated June 17, 2022.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "elemental",
+        "canonical": "Elemental",
+        "aliases": [],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Elemental as a released Pixar feature dated June 16, 2023.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "inside-out-2",
+        "canonical": "Inside Out 2",
+        "aliases": [
+          "Inside Out Two"
+        ],
+        "familiarity": 0.0236,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Inside Out 2 as a released Pixar feature dated June 14, 2024.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "elio",
+        "canonical": "Elio",
+        "aliases": [],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Elio as a released Pixar feature dated June 20, 2025.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "hoppers",
+        "canonical": "Hoppers",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Hoppers as a released Pixar feature dated March 6, 2026.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      },
+      {
+        "id": "toy-story-5",
+        "canonical": "Toy Story 5",
+        "aliases": [
+          "Toy Story Five"
+        ],
+        "familiarity": 0.0071,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Toy Story 5 as a released Pixar feature dated June 19, 2026.",
+        "sourceIds": [
+          "list-of-pixar-films"
+        ]
+      }
+    ],
+    "explanation": "Pixar's released-feature list contains 31 films through June 2026, from Toy Story to Toy Story 5. Upcoming films, cancelled projects, shorts, and films merely assisted by Pixar do not count.",
+    "sources": [
+      {
+        "id": "list-of-pixar-films",
+        "title": "List of Pixar films",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Pixar_films",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "fcd3c685c296d50f",
+    "brief": "Name a Pixar film.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-pixar-films",
+        "version": "1380598900",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Toy Story": "1 | Toy Story | November 22, 1995",
+      "A Bug's Life": "2 | A Bug's Life | November 25, 1998",
+      "Toy Story 2": "3 | Toy Story 2 | November 24, 1999",
+      "Monsters, Inc.": "4 | Monsters, Inc. | November 2, 2001",
+      "Finding Nemo": "5 | Finding Nemo | May 30, 2003",
+      "The Incredibles": "6 | The Incredibles | November 5, 2004",
+      "Cars": "7 | Cars | June 9, 2006",
+      "Ratatouille": "8 | Ratatouille | June 29, 2007",
+      "WALL-E": "9 | WALL-E | June 27, 2008",
+      "Up": "10 | Up | May 29, 2009",
+      "Toy Story 3": "11 | Toy Story 3 | June 18, 2010",
+      "Cars 2": "12 | Cars 2 | June 24, 2011",
+      "Brave": "13 | Brave | June 22, 2012",
+      "Monsters University": "14 | Monsters University | June 21, 2013",
+      "Inside Out": "15 | Inside Out | June 19, 2015",
+      "The Good Dinosaur": "16 | The Good Dinosaur | November 25, 2015",
+      "Finding Dory": "17 | Finding Dory | June 17, 2016",
+      "Cars 3": "18 | Cars 3 | June 16, 2017",
+      "Coco": "19 | Coco | November 22, 2017",
+      "Incredibles 2": "20 | Incredibles 2 | June 15, 2018",
+      "Toy Story 4": "21 | Toy Story 4 | June 21, 2019",
+      "Onward": "22 | Onward | March 6, 2020",
+      "Soul": "23 | Soul | December 25, 2020",
+      "Luca": "24 | Luca | June 18, 2021",
+      "Turning Red": "25 | Turning Red | March 11, 2022",
+      "Lightyear": "26 | Lightyear | June 17, 2022",
+      "Elemental": "27 | Elemental | June 16, 2023",
+      "Inside Out 2": "28 | Inside Out 2 | June 14, 2024",
+      "Elio": "29 | Elio | June 20, 2025",
+      "Hoppers": "30 | Hoppers | March 6, 2026",
+      "Toy Story 5": "31 | Toy Story 5 | June 19, 2026"
+    },
+    "issues": []
+  }
+}

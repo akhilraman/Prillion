@@ -1,0 +1,217 @@
+{
+  "question": {
+    "id": "space-fictional-spacecraft",
+    "category": "space",
+    "prompt": "Name a fictional spacecraft from the Halo, Mass Effect, or Dead Space video games.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "unsc-pillar-of-autumn",
+        "canonical": "UNSC Pillar of Autumn",
+        "aliases": [
+          "Pillar of Autumn"
+        ],
+        "familiarity": 0.1793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Pillar of Autumn is a UNSC cruiser in Halo: Combat Evolved.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "normandy-sr-1",
+        "canonical": "Normandy SR-1",
+        "aliases": [
+          "Normandy",
+          "Normandy SR1",
+          "SR-1"
+        ],
+        "familiarity": 0.1793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Normandy SR-1 is Commander Shepard's frigate and base of operations in Mass Effect.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "normandy-sr-2",
+        "canonical": "Normandy SR-2",
+        "aliases": [
+          "Normandy SR2",
+          "SR-2"
+        ],
+        "familiarity": 0.0717,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Mass Effect sequels feature the SR-2, a larger and more advanced version of Normandy SR-1.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "usg-ishimura",
+        "canonical": "USG Ishimura",
+        "aliases": [
+          "Ishimura"
+        ],
+        "familiarity": 0.1793,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The USG Ishimura is the mining vessel that serves as the main setting of the first Dead Space game.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-infinity",
+        "canonical": "UNSC Infinity",
+        "aliases": [
+          "Infinity"
+        ],
+        "familiarity": 0.0717,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "UNSC Infinity is identified as the UNSC flagship appearing in Halo 4, Halo 5: Guardians, and Halo Infinite.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-forward-unto-dawn",
+        "canonical": "UNSC Forward Unto Dawn",
+        "aliases": [
+          "Forward Unto Dawn"
+        ],
+        "familiarity": 0.0717,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Forward Unto Dawn is a Charon-class light frigate in Halo 3.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-in-amber-clad",
+        "canonical": "UNSC In Amber Clad",
+        "aliases": [
+          "In Amber Clad"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "In Amber Clad is a Stalwart-class frigate in Halo 2.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "destiny-ascension",
+        "canonical": "Destiny Ascension",
+        "aliases": [],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Destiny Ascension is an Asari dreadnaught serving as the Citadel fleet's flagship in Mass Effect.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "hyperion",
+        "canonical": "Hyperion",
+        "aliases": [
+          "Ark Hyperion"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hyperion is the ark carrying 20,000 humans to the Andromeda Galaxy in Mass Effect: Andromeda.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-c-709-longsword-interceptor",
+        "canonical": "UNSC C-709 Longsword Interceptor",
+        "aliases": [
+          "Longsword",
+          "C-709",
+          "C-709 Longsword",
+          "Longsword Interceptor"
+        ],
+        "familiarity": 0.0215,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list identifies the UNSC C-709 Longsword Interceptor as a Halo space fighter.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-yss-1000-sabre-space-superiority-fighter",
+        "canonical": "UNSC YSS-1000 Sabre Space Superiority Fighter",
+        "aliases": [
+          "Sabre",
+          "YSS-1000",
+          "YSS-1000 Sabre",
+          "Sabre Space Superiority Fighter"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Halo fighter list includes the UNSC YSS-1000 Sabre, which uses a shuttle-style booster system.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      },
+      {
+        "id": "unsc-f-41-broadsword-exo-atmospheric-multirole-strike-fighter",
+        "canonical": "UNSC F-41 Broadsword Exo-atmospheric Multirole Strike Fighter",
+        "aliases": [
+          "Broadsword",
+          "F-41",
+          "F-41 Broadsword",
+          "Broadsword Fighter"
+        ],
+        "familiarity": 0.0054,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The list names the UNSC F-41 Broadsword as a Halo space fighter.",
+        "sourceIds": [
+          "list-of-fictional-spacecraft"
+        ]
+      }
+    ],
+    "explanation": "These game series feature military frigates, exploration vessels, fighters, and even a planet-cracking mining ship. Both individual vessels and named spacecraft models are accepted.",
+    "sources": [
+      {
+        "id": "list-of-fictional-spacecraft",
+        "title": "List of fictional spacecraft",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_fictional_spacecraft",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Named ships and spacecraft models from Halo, Mass Effect (including Andromeda), or Dead Space count. The two Normandy versions count separately."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "49ca03cfdfb6166e",
+    "brief": "Name a fictional spacecraft or starship from a movie, TV show or game.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-fictional-spacecraft",
+        "version": "1380270130",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "UNSC Pillar of Autumn": "UNSC Pillar of Autumn – The Halcyon-class cruiser in the UNSC Navy commanded by Captain Jacob Keyes in Halo: Combat Evolved",
+      "Normandy SR-1": "Normandy SR-1 – A Systems Alliance Navy frigate that serves as Commander Shepard's base of operations in the Mass Effect universe.",
+      "Normandy SR-2": "Normandy SR-1 – A Systems Alliance Navy frigate that serves as Commander Shepard's base of operations in the Mass Effect universe. Sequels feature a larger and more advanced version known as the SR-2.",
+      "USG Ishimura": "USG Ishimura – A planet-cracking mining vessel and the main setting of the first game of Dead Space.",
+      "UNSC Infinity": "UNSC Infinity – The post-war flagship of the UNSC Navy in Halo 4, Halo 5: Guardians, and Halo Infinite.",
+      "UNSC Forward Unto Dawn": "UNSC Forward Unto Dawn – The Charon-class light frigate in the UNSC Navy commanded by Commander Miranda Keyes in Halo 3",
+      "UNSC In Amber Clad": "UNSC In Amber Clad – The Stalwart-class frigate in the UNSC Navy commanded by Commander Miranda Keyes in Halo 2",
+      "Destiny Ascension": "Destiny Ascension – An Asari dreadnaught with a crew of 10,000 that serves as the flagship of the Citadel fleet in the Mass Effect universe",
+      "Hyperion": "Hyperion – An 'ark' which carries 20,000 humans to the Andromeda Galaxy in Mass Effect: Andromeda",
+      "UNSC C-709 Longsword Interceptor": "Halo\nUNSC C-709 Longsword Interceptor",
+      "UNSC YSS-1000 Sabre Space Superiority Fighter": "Halo\nUNSC C-709 Longsword Interceptor\nUNSC YSS-1000 Sabre Space Superiority Fighter – notably, uses a Shuttle-style booster system for planetary launch",
+      "UNSC F-41 Broadsword Exo-atmospheric Multirole Strike Fighter": "Halo\nUNSC C-709 Longsword Interceptor\nUNSC YSS-1000 Sabre Space Superiority Fighter – notably, uses a Shuttle-style booster system for planetary launch\nUNSC F-41 Broadsword Exo-atmospheric Multirole Strike Fighter"
+    },
+    "issues": []
+  }
+}

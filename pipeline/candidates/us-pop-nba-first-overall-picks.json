@@ -1,0 +1,1059 @@
+{
+  "question": {
+    "id": "us-pop-nba-first-overall-picks",
+    "category": "us-pop",
+    "prompt": "Name a player listed as a first overall NBA draft pick from 1947 through 2026, including the early BAA drafts.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "clifton-mcneely",
+        "canonical": "Clifton McNeely",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Pittsburgh Ironmen selected Clifton McNeely first overall in 1947.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "andy-tonkovich",
+        "canonical": "Andy Tonkovich",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Providence Steamrollers selected Andy Tonkovich first overall in 1948.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "howie-shannon",
+        "canonical": "Howie Shannon",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Providence Steamrollers selected Howie Shannon first overall in 1949.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "charlie-share",
+        "canonical": "Charlie Share",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Boston Celtics selected Charlie Share first overall in 1950.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "gene-melchiorre",
+        "canonical": "Gene Melchiorre",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Baltimore Bullets selected Gene Melchiorre first overall in 1951.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "mark-workman",
+        "canonical": "Mark Workman",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Hawks selected Mark Workman first overall in 1952.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "ray-felix",
+        "canonical": "Ray Felix",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Baltimore Bullets selected Ray Felix first overall in 1953.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "frank-selvy",
+        "canonical": "Frank Selvy",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Baltimore Bullets selected Frank Selvy first overall in 1954.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "dick-ricketts",
+        "canonical": "Dick Ricketts",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Hawks selected Dick Ricketts first overall in 1955.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "sihugo-green",
+        "canonical": "Sihugo Green",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Rochester Royals selected Sihugo Green first overall in 1956.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "rod-hundley",
+        "canonical": "Rod Hundley",
+        "aliases": [
+          "Hot Rod Hundley"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cincinnati Royals selected Rod Hundley first overall in 1957.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "elgin-baylor",
+        "canonical": "Elgin Baylor",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Minneapolis Lakers selected Elgin Baylor first overall in 1958.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "bob-boozer",
+        "canonical": "Bob Boozer",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cincinnati Royals selected Bob Boozer first overall in 1959.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "oscar-robertson",
+        "canonical": "Oscar Robertson",
+        "aliases": [
+          "The Big O"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cincinnati Royals selected Oscar Robertson first overall in 1960.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "walt-bellamy",
+        "canonical": "Walt Bellamy",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chicago Packers selected Walt Bellamy first overall in 1961.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "bill-mcgill",
+        "canonical": "Bill McGill",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chicago Zephyrs selected Bill McGill first overall in 1962.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "art-heyman",
+        "canonical": "Art Heyman",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New York Knicks selected Art Heyman first overall in 1963.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "jim-barnes",
+        "canonical": "Jim Barnes",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New York Knicks selected Jim Barnes first overall in 1964.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "fred-hetzel",
+        "canonical": "Fred Hetzel",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Francisco Warriors selected Fred Hetzel first overall in 1965.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "cazzie-russell",
+        "canonical": "Cazzie Russell",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New York Knicks selected Cazzie Russell first overall in 1966.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "jimmy-walker",
+        "canonical": "Jimmy Walker",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Detroit Pistons selected Jimmy Walker first overall in 1967.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "elvin-hayes",
+        "canonical": "Elvin Hayes",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Diego Rockets selected Elvin Hayes first overall in 1968.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "lew-alcindor",
+        "canonical": "Lew Alcindor",
+        "aliases": [
+          "Kareem Abdul-Jabbar",
+          "Kareem Abdul Jabbar",
+          "Kareem"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Bucks selected Lew Alcindor first overall in 1969.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "bob-lanier",
+        "canonical": "Bob Lanier",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Detroit Pistons selected Bob Lanier first overall in 1970.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "austin-carr",
+        "canonical": "Austin Carr",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected Austin Carr first overall in 1971.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "larue-martin",
+        "canonical": "LaRue Martin",
+        "aliases": [
+          "Larue Martin"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Portland Trail Blazers selected LaRue Martin first overall in 1972.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "doug-collins",
+        "canonical": "Doug Collins",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Philadelphia 76ers selected Doug Collins first overall in 1973.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "bill-walton",
+        "canonical": "Bill Walton",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Portland Trail Blazers selected Bill Walton first overall in 1974.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "david-thompson",
+        "canonical": "David Thompson",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Atlanta Hawks selected David Thompson first overall in 1975.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "john-lucas",
+        "canonical": "John Lucas",
+        "aliases": [
+          "John Lucas II"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Houston Rockets selected John Lucas first overall in 1976.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "kent-benson",
+        "canonical": "Kent Benson",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Bucks selected Kent Benson first overall in 1977.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "mychal-thompson",
+        "canonical": "Mychal Thompson",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Portland Trail Blazers selected Mychal Thompson first overall in 1978.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "magic-johnson",
+        "canonical": "Magic Johnson",
+        "aliases": [
+          "Earvin Johnson",
+          "Earvin Magic Johnson"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Los Angeles Lakers selected Magic Johnson first overall in 1979.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "joe-barry-carroll",
+        "canonical": "Joe Barry Carroll",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Golden State Warriors selected Joe Barry Carroll first overall in 1980.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "mark-aguirre",
+        "canonical": "Mark Aguirre",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dallas Mavericks selected Mark Aguirre first overall in 1981.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "james-worthy",
+        "canonical": "James Worthy",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Los Angeles Lakers selected James Worthy first overall in 1982.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "ralph-sampson",
+        "canonical": "Ralph Sampson",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Houston Rockets selected Ralph Sampson first overall in 1983.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "hakeem-olajuwon",
+        "canonical": "Hakeem Olajuwon",
+        "aliases": [
+          "Akeem Olajuwon",
+          "Hakeem"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Houston Rockets selected Hakeem Olajuwon first overall in 1984.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "patrick-ewing",
+        "canonical": "Patrick Ewing",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New York Knicks selected Patrick Ewing first overall in 1985.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "brad-daugherty",
+        "canonical": "Brad Daugherty",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected Brad Daugherty first overall in 1986.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "david-robinson",
+        "canonical": "David Robinson",
+        "aliases": [
+          "The Admiral"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Antonio Spurs selected David Robinson first overall in 1987.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "danny-manning",
+        "canonical": "Danny Manning",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Los Angeles Clippers selected Danny Manning first overall in 1988.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "pervis-ellison",
+        "canonical": "Pervis Ellison",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sacramento Kings selected Pervis Ellison first overall in 1989.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "derrick-coleman",
+        "canonical": "Derrick Coleman",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New Jersey Nets selected Derrick Coleman first overall in 1990.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "larry-johnson",
+        "canonical": "Larry Johnson",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Charlotte Hornets selected Larry Johnson first overall in 1991.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille Oneal",
+          "Shaquille ONeal"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Orlando Magic selected Shaquille O'Neal first overall in 1992.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "chris-webber",
+        "canonical": "Chris Webber",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Orlando Magic selected Chris Webber first overall in 1993.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "glenn-robinson",
+        "canonical": "Glenn Robinson",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Bucks selected Glenn Robinson first overall in 1994.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "joe-smith",
+        "canonical": "Joe Smith",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Golden State Warriors selected Joe Smith first overall in 1995.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "allen-iverson",
+        "canonical": "Allen Iverson",
+        "aliases": [
+          "AI",
+          "A.I."
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Philadelphia 76ers selected Allen Iverson first overall in 1996.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [
+          "Timothy Duncan"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Antonio Spurs selected Tim Duncan first overall in 1997.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "michael-olowokandi",
+        "canonical": "Michael Olowokandi",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Los Angeles Clippers selected Michael Olowokandi first overall in 1998.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "elton-brand",
+        "canonical": "Elton Brand",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chicago Bulls selected Elton Brand first overall in 1999.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "kenyon-martin",
+        "canonical": "Kenyon Martin",
+        "aliases": [
+          "Kenyon Martin Sr."
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New Jersey Nets selected Kenyon Martin first overall in 2000.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "kwame-brown",
+        "canonical": "Kwame Brown",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Washington Wizards selected Kwame Brown first overall in 2001.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "yao-ming",
+        "canonical": "Yao Ming",
+        "aliases": [
+          "Yao"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Houston Rockets selected Yao Ming first overall in 2002.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron",
+          "Lebron James"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected LeBron James first overall in 2003.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "dwight-howard",
+        "canonical": "Dwight Howard",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Orlando Magic selected Dwight Howard first overall in 2004.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "andrew-bogut",
+        "canonical": "Andrew Bogut",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milwaukee Bucks selected Andrew Bogut first overall in 2005.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "andrea-bargnani",
+        "canonical": "Andrea Bargnani",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Toronto Raptors selected Andrea Bargnani first overall in 2006.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "greg-oden",
+        "canonical": "Greg Oden",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Portland Trail Blazers selected Greg Oden first overall in 2007.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "derrick-rose",
+        "canonical": "Derrick Rose",
+        "aliases": [
+          "D Rose",
+          "D-Rose"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chicago Bulls selected Derrick Rose first overall in 2008.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "blake-griffin",
+        "canonical": "Blake Griffin",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Los Angeles Clippers selected Blake Griffin first overall in 2009.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "john-wall",
+        "canonical": "John Wall",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Washington Wizards selected John Wall first overall in 2010.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "kyrie-irving",
+        "canonical": "Kyrie Irving",
+        "aliases": [
+          "Kyrie"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected Kyrie Irving first overall in 2011.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "anthony-davis",
+        "canonical": "Anthony Davis",
+        "aliases": [
+          "AD",
+          "A.D."
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New Orleans Hornets selected Anthony Davis first overall in 2012.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "anthony-bennett",
+        "canonical": "Anthony Bennett",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected Anthony Bennett first overall in 2013.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "andrew-wiggins",
+        "canonical": "Andrew Wiggins",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cleveland Cavaliers selected Andrew Wiggins first overall in 2014.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "karl-anthony-towns",
+        "canonical": "Karl-Anthony Towns",
+        "aliases": [
+          "Karl Anthony Towns",
+          "KAT"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Minnesota Timberwolves selected Karl-Anthony Towns first overall in 2015.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "ben-simmons",
+        "canonical": "Ben Simmons",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Philadelphia 76ers selected Ben Simmons first overall in 2016.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "markelle-fultz",
+        "canonical": "Markelle Fultz",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Philadelphia 76ers selected Markelle Fultz first overall in 2017.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "deandre-ayton",
+        "canonical": "Deandre Ayton",
+        "aliases": [
+          "DeAndre Ayton"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Phoenix Suns selected Deandre Ayton first overall in 2018.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "zion-williamson",
+        "canonical": "Zion Williamson",
+        "aliases": [
+          "Zion"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The New Orleans Pelicans selected Zion Williamson first overall in 2019.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "anthony-edwards",
+        "canonical": "Anthony Edwards",
+        "aliases": [
+          "Ant",
+          "Ant Edwards"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Minnesota Timberwolves selected Anthony Edwards first overall in 2020.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "cade-cunningham",
+        "canonical": "Cade Cunningham",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Detroit Pistons selected Cade Cunningham first overall in 2021.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "paolo-banchero",
+        "canonical": "Paolo Banchero",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Orlando Magic selected Paolo Banchero first overall in 2022.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "victor-wembanyama",
+        "canonical": "Victor Wembanyama",
+        "aliases": [
+          "Wemby"
+        ],
+        "familiarity": 0.0369,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The San Antonio Spurs selected Victor Wembanyama first overall in 2023.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "zaccharie-risacher",
+        "canonical": "Zaccharie Risacher",
+        "aliases": [
+          "Zacharie Risacher"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Atlanta Hawks selected Zaccharie Risacher first overall in 2024.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "cooper-flagg",
+        "canonical": "Cooper Flagg",
+        "aliases": [],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Cooper Flagg as the Dallas Mavericks' first overall pick in 2025.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      },
+      {
+        "id": "aj-dybantsa",
+        "canonical": "AJ Dybantsa",
+        "aliases": [
+          "A.J. Dybantsa",
+          "A J Dybantsa"
+        ],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists AJ Dybantsa as the Washington Wizards' first overall pick in 2026.",
+        "sourceIds": [
+          "list-of-first-overall-nba-draft-picks"
+        ]
+      }
+    ],
+    "explanation": "These players appear in the source's year-by-year list of first overall picks. The list includes the 1947–1949 BAA drafts, which official NBA publications count as part of NBA draft history.",
+    "sources": [
+      {
+        "id": "list-of-first-overall-nba-draft-picks",
+        "title": "List of first overall NBA draft picks",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_first_overall_NBA_draft_picks",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "6a31df97522ee5c6",
+    "brief": "Name a player who was picked first overall in the NBA draft.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-first-overall-nba-draft-picks",
+        "version": "1379224609",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Clifton McNeely": "1947 | Pittsburgh Ironmen | Clifton McNeely | United States | Guard",
+      "Andy Tonkovich": "1948 | Providence Steamrollers | Andy Tonkovich | United States | Guard/forward",
+      "Howie Shannon": "1949 | Providence Steamrollers | Howie Shannon | United States | Center",
+      "Charlie Share": "1950 | Boston Celtics | Charlie Share | United States | Center",
+      "Gene Melchiorre": "1951 | Baltimore Bullets | Gene Melchiorre | United States | Guard",
+      "Mark Workman": "1952 | Milwaukee Hawks | Mark Workman | United States | Center",
+      "Ray Felix": "1953 | Baltimore Bullets | Ray Felix^ | United States | Center",
+      "Frank Selvy": "1954 | Baltimore Bullets | Frank Selvy^ | United States | Forward/center",
+      "Dick Ricketts": "1955 | Milwaukee Hawks | Dick Ricketts | United States | Guard/forward",
+      "Sihugo Green": "1956 | Rochester Royals | Sihugo Green | United States | Guard/forward",
+      "Rod Hundley": "1957 | Cincinnati Royals | Rod Hundley^ | United States | Guard",
+      "Elgin Baylor": "1958 | Minneapolis Lakers | Elgin Baylor^* | United States | Forward",
+      "Bob Boozer": "1959 | Cincinnati Royals | Bob Boozer^ | United States | Forward",
+      "Oscar Robertson": "1960 | Cincinnati Royals | Oscar Robertson^* | United States | Guard/forward",
+      "Walt Bellamy": "1961 | Chicago Packers | Walt Bellamy^* | United States | Center",
+      "Bill McGill": "1962 | Chicago Zephyrs | Bill McGill | United States | Forward/center",
+      "Art Heyman": "1963 | New York Knicks | Art Heyman | United States | Forward/guard",
+      "Jim Barnes": "1964 | New York Knicks | Jim Barnes | United States | Center/forward",
+      "Fred Hetzel": "1965 | San Francisco Warriors | Fred Hetzel | United States | Forward/center",
+      "Cazzie Russell": "1966 | New York Knicks | Cazzie Russell^ | United States | Forward/guard",
+      "Jimmy Walker": "1967 | Detroit Pistons | Jimmy Walker^ | United States | Guard",
+      "Elvin Hayes": "1968 | San Diego Rockets | Elvin Hayes^* | United States | Center/forward",
+      "Lew Alcindor": "1969 | Milwaukee Bucks | Lew Alcindor^* | United States | Center",
+      "Bob Lanier": "1970 | Detroit Pistons | Bob Lanier^* | United States | Center",
+      "Austin Carr": "1971 | Cleveland Cavaliers | Austin Carr^ | United States | Guard",
+      "LaRue Martin": "1972 | Portland Trail Blazers | LaRue Martin | United States | Center",
+      "Doug Collins": "1973 | Philadelphia 76ers | Doug Collins^ | United States | Guard/forward",
+      "Bill Walton": "1974 | Portland Trail Blazers | Bill Walton^* | United States | Center",
+      "David Thompson": "1975 | Atlanta Hawks | David Thompson^* | United States | Forward/guard",
+      "John Lucas": "1976 | Houston Rockets | John Lucas | United States | Guard",
+      "Kent Benson": "1977 | Milwaukee Bucks | Kent Benson | United States | Center",
+      "Mychal Thompson": "1978 | Portland Trail Blazers | Mychal Thompson | Bahamas | Forward/center",
+      "Magic Johnson": "1979 | Los Angeles Lakers | Magic Johnson^* | United States | Guard/forward",
+      "Joe Barry Carroll": "1980 | Golden State Warriors | Joe Barry Carroll^ | United States | Center",
+      "Mark Aguirre": "1981 | Dallas Mavericks | Mark Aguirre^ | United States | Forward",
+      "James Worthy": "1982 | Los Angeles Lakers | James Worthy^* | United States | Forward",
+      "Ralph Sampson": "1983 | Houston Rockets | Ralph Sampson^* | United States | Center",
+      "Hakeem Olajuwon": "1984 | Houston Rockets | Hakeem Olajuwon^* | Nigeria | Center",
+      "Patrick Ewing": "1985 | New York Knicks | Patrick Ewing^* | United States | Center",
+      "Brad Daugherty": "1986 | Cleveland Cavaliers | Brad Daugherty^ | United States | Center",
+      "David Robinson": "1987 | San Antonio Spurs | David Robinson^* | United States | Center",
+      "Danny Manning": "1988 | Los Angeles Clippers | Danny Manning^ | United States | Forward",
+      "Pervis Ellison": "1989 | Sacramento Kings | Pervis Ellison | United States | Center",
+      "Derrick Coleman": "1990 | New Jersey Nets | Derrick Coleman^ | United States | Forward/center",
+      "Larry Johnson": "1991 | Charlotte Hornets | Larry Johnson^ | United States | Forward",
+      "Shaquille O'Neal": "1992 | Orlando Magic | Shaquille O'Neal^* | United States | Center",
+      "Chris Webber": "1993 | Orlando Magic | Chris Webber^* | United States | Forward",
+      "Glenn Robinson": "1994 | Milwaukee Bucks | Glenn Robinson^ | United States | Forward",
+      "Joe Smith": "1995 | Golden State Warriors | Joe Smith | United States | Forward",
+      "Allen Iverson": "1996 | Philadelphia 76ers | Allen Iverson^* | United States | Guard",
+      "Tim Duncan": "1997 | San Antonio Spurs | Tim Duncan^* | United States | Forward/center",
+      "Michael Olowokandi": "1998 | Los Angeles Clippers | Michael Olowokandi | Nigeria | Center",
+      "Elton Brand": "1999 | Chicago Bulls | Elton Brand^ | United States | Forward",
+      "Kenyon Martin": "2000 | New Jersey Nets | Kenyon Martin^ | United States | Forward",
+      "Kwame Brown": "2001 | Washington Wizards | Kwame Brown | United States | Center",
+      "Yao Ming": "2002 | Houston Rockets | Yao Ming^* | China | Center",
+      "LeBron James": "2003 | Cleveland Cavaliers | LeBron James^ | United States | Forward",
+      "Dwight Howard": "2004 | Orlando Magic | Dwight Howard^* | United States | Center",
+      "Andrew Bogut": "2005 | Milwaukee Bucks | Andrew Bogut^ | Australia | Center",
+      "Andrea Bargnani": "2006 | Toronto Raptors | Andrea Bargnani | Italy | Forward/center",
+      "Greg Oden": "2007 | Portland Trail Blazers | Greg Oden | United States | Center",
+      "Derrick Rose": "2008 | Chicago Bulls | Derrick Rose^ | United States | Guard",
+      "Blake Griffin": "2009 | Los Angeles Clippers | Blake Griffin^ | United States | Forward",
+      "John Wall": "2010 | Washington Wizards | John Wall^ | United States | Guard",
+      "Kyrie Irving": "2011 | Cleveland Cavaliers | Kyrie Irving^ | United States | Guard",
+      "Anthony Davis": "2012 | New Orleans Hornets | Anthony Davis^ | United States | Forward/center",
+      "Anthony Bennett": "2013 | Cleveland Cavaliers | Anthony Bennett | Canada | Forward",
+      "Andrew Wiggins": "2014 | Cleveland Cavaliers | Andrew Wiggins^ | Canada | Forward/guard",
+      "Karl-Anthony Towns": "2015 | Minnesota Timberwolves | Karl-Anthony Towns^ | United States | Center",
+      "Ben Simmons": "2016 | Philadelphia 76ers | Ben Simmons^ | Australia | Guard",
+      "Markelle Fultz": "2017 | Philadelphia 76ers | Markelle Fultz | United States | Guard",
+      "Deandre Ayton": "2018 | Phoenix Suns | Deandre Ayton | Bahamas | Center",
+      "Zion Williamson": "2019 | New Orleans Pelicans | Zion Williamson^ | United States | Forward",
+      "Anthony Edwards": "2020 | Minnesota Timberwolves | Anthony Edwards^ | United States | Guard",
+      "Cade Cunningham": "2021 | Detroit Pistons | Cade Cunningham^ | United States | Guard",
+      "Paolo Banchero": "2022 | Orlando Magic | Paolo Banchero^ | United States | Forward",
+      "Victor Wembanyama": "2023 | San Antonio Spurs | Victor Wembanyama^ | France | Center",
+      "Zaccharie Risacher": "2024 | Atlanta Hawks | Zaccharie Risacher | France | Forward",
+      "Cooper Flagg": "2025 | Dallas Mavericks | Cooper Flagg | United States | Forward",
+      "AJ Dybantsa": "2026 | Washington Wizards | AJ Dybantsa | United States | Forward"
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "question": {
+    "id": "us-pop-urban-legends",
+    "category": "us-pop",
+    "prompt": "Name an urban legend involving a car, motorcycle, or hitchhiker.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "the-ankle-slicing-car-thief",
+        "canonical": "The Ankle slicing car thief",
+        "aliases": [
+          "Ankle slicing car thief",
+          "The man under the car",
+          "Man under the car",
+          "Ankle-slashing car thief"
+        ],
+        "familiarity": 0.0213,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This legend features a thief hiding beneath a driver's car and attacking their ankles before stealing it.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "black-volga",
+        "canonical": "Black Volga",
+        "aliases": [
+          "Black Volga limousine"
+        ],
+        "familiarity": 0.0053,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The legend concerns a black limousine allegedly used to abduct people.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "black-eyed-children",
+        "canonical": "Black-eyed children",
+        "aliases": [
+          "Black eyed children",
+          "Black-eyed kids",
+          "Black eyed kids"
+        ],
+        "familiarity": 0.0708,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "These supposed paranormal children are described as appearing while hitchhiking, among other encounters.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-death-of-james-dean",
+        "canonical": "The Death of James Dean",
+        "aliases": [
+          "James Dean's cursed car",
+          "James Dean car curse",
+          "Little Bastard",
+          "The curse of Little Bastard",
+          "Cursed Porsche"
+        ],
+        "familiarity": 0.0708,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Legends surrounding James Dean's Porsche claim that people who acquired parts of the wreck subsequently died in accidents.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "headless-rider",
+        "canonical": "Headless Rider",
+        "aliases": [
+          "Headless motorcycle rider",
+          "Headless motorcyclist"
+        ],
+        "familiarity": 0.0213,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Japanese urban legend concerns a motorcyclist decapitated by piano wire.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-hook",
+        "canonical": "The Hook",
+        "aliases": [
+          "Hookman",
+          "The Hookman",
+          "Hook-handed killer",
+          "The hook-handed man"
+        ],
+        "familiarity": 0.1771,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hook concerns a hook-handed murderer terrorizing a teenage couple parked at a lovers' lane.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "jato-rocket-car",
+        "canonical": "JATO Rocket Car",
+        "aliases": [
+          "Rocket car",
+          "JATO car",
+          "Jet-assisted car",
+          "Rocket-powered car"
+        ],
+        "familiarity": 0.0708,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The legend describes a driver attaching jet-assisted takeoff units to a car and crashing into a hill.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-killer-in-the-backseat",
+        "canonical": "The Killer in the backseat",
+        "aliases": [
+          "Killer in the backseat",
+          "Killer in the back seat",
+          "High Beams",
+          "The backseat killer"
+        ],
+        "familiarity": 0.1771,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A pursuing driver flashes their headlights to warn a woman about a dangerous person hidden in her backseat.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-niles-canyon-ghost",
+        "canonical": "The Niles Canyon ghost",
+        "aliases": [
+          "Niles Canyon ghost",
+          "Niles Canyon hitchhiker"
+        ],
+        "familiarity": 0.0053,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This vanishing-hitchhiker legend features the ghost of a girl who died in a car accident.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-phantom-hitchhiker-of-black-horse-lake",
+        "canonical": "The phantom hitchhiker of Black Horse Lake",
+        "aliases": [
+          "Phantom hitchhiker of Black Horse Lake",
+          "Black Horse Lake hitchhiker",
+          "Black Horse Lake phantom hitchhiker"
+        ],
+        "familiarity": 0.0053,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This legend describes a figure appearing on car windshields before vanishing without leaving damage.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "resurrection-mary",
+        "canonical": "Resurrection Mary",
+        "aliases": [],
+        "familiarity": 0.0213,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Resurrection Mary is a vanishing-hitchhiker ghost story associated with a cemetery near Chicago.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "spook-hill",
+        "canonical": "Spook Hill",
+        "aliases": [],
+        "familiarity": 0.0213,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Spook Hill legend involves cars appearing to roll uphill at a Florida gravity hill.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "the-vanishing-hitchhiker",
+        "canonical": "The Vanishing hitchhiker",
+        "aliases": [
+          "Vanishing hitchhiker",
+          "Ghostly hitchhiker",
+          "Disappearing hitchhiker",
+          "Phantom hitchhiker",
+          "Ghost hitchhiker"
+        ],
+        "familiarity": 0.1771,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This widespread legend involves a hitchhiker who mysteriously disappears, often from a moving vehicle.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      },
+      {
+        "id": "women-in-black-of-wat-samian-nari",
+        "canonical": "Women in Black of Wat Samian Nari",
+        "aliases": [
+          "Wat Samian Nari women in black",
+          "Thipsuksri sisters",
+          "Chulee and Sulee"
+        ],
+        "familiarity": 0.0053,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "In this Thai ghost story, two women take a taxi to a temple and vanish from its backseat.",
+        "sourceIds": [
+          "list-of-urban-legends"
+        ]
+      }
+    ],
+    "explanation": "Urban legends often turn ordinary journeys into frightening encounters: a passenger disappears, a stranger hides in a backseat, or a seemingly threatening driver is actually trying to help. These are folklore stories, not verified accounts.",
+    "sources": [
+      {
+        "id": "list-of-urban-legends",
+        "title": "List of urban legends",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_urban_legends",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A named urban legend whose story involves a car, motorcycle, or hitchhiker. A location being near a road is not sufficient by itself."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ad13d146ddd1172a",
+    "brief": "Name a famous urban legend.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-urban-legends",
+        "version": "1379717741",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "The Ankle slicing car thief": "The Ankle slicing car thief (or the man under the car) is an urban legend that tells of a driver that keeps hearing noises under their car when they are driving.",
+      "Black Volga": "Black Volga refers to a black Volga limousine that was allegedly used to abduct people in Eastern Europe, especially children.",
+      "Black-eyed children": "Black-eyed children (or black-eyed kids) are an urban legend of supposed paranormal creatures that resemble children between the ages of 6 and 16, with pale skin and black eyes, who are reportedly seen hitchhiking or panhandling, or are encountered on doorsteps of residential homes.",
+      "The Death of James Dean": "The Death of James Dean in a car accident spawned many urban legends related to his Porsche 550 nicknamed \"Little Bastard\". The most common one (often described as a \"curse\") states that any individual who took a part from Dean's car after the accident later died in an accident of their own.",
+      "Headless Rider": "Headless Rider is a Japanese urban legend about a motorcycle rider whose head was cut off by piano wire when he crashed into it at high speed.",
+      "The Hook": "The Hook, also called Hookman, is a highly famous urban legend revolving around a deranged murderer with a hook prosthesis in place of a hand escaping from a mental asylum and terrorizing a teenage couple while parked at a lover's lane.",
+      "JATO Rocket Car": "JATO Rocket Car started as a Darwin Award winner where a driver strapped a pair of Jet Assisted Take Off (JATO) units to the rear of his car and ended up smashing into the side of a hill in Arizona.",
+      "The Killer in the backseat": "When she finally makes it home, she realizes that the driver was trying to warn her that there was a man (a murderer, rapist, or escaped mental patient) hiding in her back seat.",
+      "The Niles Canyon ghost": "The Niles Canyon ghost is an urban legend within the vanishing hitchhiker archetype about the ghost of a girl who had died in a car accident.",
+      "The phantom hitchhiker of Black Horse Lake": "The phantom hitchhiker of Black Horse Lake is an urban legend that describes a Native American man with long black hair wearing an outdated, baggy jacket and jeans collides with cars, suddenly appearing on their windshield, only for him to vanish without a dent.",
+      "Resurrection Mary": "Resurrection Mary is a \"vanishing hitchhiker\"-type ghost story associated with Resurrection Cemetery in Justice, Illinois just outside of Chicago.",
+      "Spook Hill": "Spook Hill is an urban legend that describes a gravity hill, an optical illusion in Lake Wales, Florida, where cars appear to roll uphill.",
+      "The Vanishing hitchhiker": "The Vanishing hitchhiker (or variations such as the ghostly hitchhiker, the disappearing hitchhiker, the phantom hitchhiker or simply the hitchhiker) story is an urban legend in which people traveling by vehicle meet with, or are accompanied by, a hitchhiker who subsequently vanishes without explanation, often from a moving vehicle.",
+      "Women in Black of Wat Samian Nari": "As the car nears the destination, the driver glances into the rearview mirror and finds the back seat empty."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [The Killer in the backseat]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Women in Black of Wat Samian Nari]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "question": {
+    "id": "space-famous-images",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous photograph or image from space exploration or astronomy.",
+    "answerSet": "open",
+    "criteria": "An identifiable photograph, composite, or scientific image from space exploration or astronomical observation, known by an established title or nickname.",
+    "answers": [
+      {
+        "id": "earthrise",
+        "canonical": "Earthrise",
+        "aliases": [
+          "Apollo 8 Earthrise"
+        ],
+        "familiarity": 0.111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Earthrise is William Anders's Apollo 8 photograph showing Earth above the lunar horizon.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-blue-marble",
+        "canonical": "The Blue Marble",
+        "aliases": [
+          "Blue Marble",
+          "Apollo 17 Earth"
+        ],
+        "familiarity": 0.111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Blue Marble is an Apollo 17 photograph showing the fully illuminated Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "pale-blue-dot",
+        "canonical": "Pale Blue Dot",
+        "aliases": [
+          "The Pale Blue Dot",
+          "Voyager Pale Blue Dot"
+        ],
+        "familiarity": 0.111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pale Blue Dot is Voyager 1's distant photograph of Earth appearing as a tiny point of light.",
+        "sourceIds": []
+      },
+      {
+        "id": "pillars-of-creation",
+        "canonical": "Pillars of Creation",
+        "aliases": [
+          "The Pillars of Creation",
+          "Hubble Pillars of Creation"
+        ],
+        "familiarity": 0.111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pillars of Creation depicts towering structures of gas and dust in the Eagle Nebula, imaged by both Hubble and Webb.",
+        "sourceIds": []
+      },
+      {
+        "id": "hubble-deep-field",
+        "canonical": "Hubble Deep Field",
+        "aliases": [
+          "HDF",
+          "Hubble Deep Field North"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hubble Deep Field is a long-exposure view revealing numerous distant galaxies in a small patch of sky.",
+        "sourceIds": []
+      },
+      {
+        "id": "hubble-ultra-deep-field",
+        "canonical": "Hubble Ultra Deep Field",
+        "aliases": [
+          "Ultra Deep Field",
+          "HUDF"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hubble Ultra Deep Field is a deep astronomical image showing galaxies across billions of years of cosmic history.",
+        "sourceIds": []
+      },
+      {
+        "id": "hubble-extreme-deep-field",
+        "canonical": "Hubble Extreme Deep Field",
+        "aliases": [
+          "Extreme Deep Field",
+          "XDF"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hubble Extreme Deep Field combines years of Hubble observations to reveal exceptionally faint galaxies.",
+        "sourceIds": []
+      },
+      {
+        "id": "webb-s-first-deep-field",
+        "canonical": "Webb's First Deep Field",
+        "aliases": [
+          "Webb First Deep Field",
+          "JWST First Deep Field",
+          "SMACS 0723"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Webb's First Deep Field shows the galaxy cluster SMACS 0723 and more distant galaxies magnified by gravitational lensing.",
+        "sourceIds": []
+      },
+      {
+        "id": "cosmic-cliffs",
+        "canonical": "Cosmic Cliffs",
+        "aliases": [
+          "The Cosmic Cliffs",
+          "NGC 3324",
+          "Webb Cosmic Cliffs"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cosmic Cliffs is a Webb image of a star-forming region in the Carina Nebula complex.",
+        "sourceIds": []
+      },
+      {
+        "id": "mystic-mountain",
+        "canonical": "Mystic Mountain",
+        "aliases": [
+          "Hubble Mystic Mountain"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mystic Mountain is a Hubble image of a towering gas-and-dust formation in the Carina Nebula.",
+        "sourceIds": []
+      },
+      {
+        "id": "m87-black-hole",
+        "canonical": "M87 Black Hole",
+        "aliases": [
+          "M87*",
+          "First Black Hole Image",
+          "Messier 87 Black Hole",
+          "M87 Black Hole Image"
+        ],
+        "familiarity": 0.111,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Event Horizon Telescope's M87 image shows a bright ring surrounding the shadow of a supermassive black hole.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-day-the-earth-smiled",
+        "canonical": "The Day the Earth Smiled",
+        "aliases": [
+          "Day the Earth Smiled",
+          "Cassini Earth and Saturn"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Day the Earth Smiled is a Cassini mosaic showing Saturn and its rings with Earth visible in the distance.",
+        "sourceIds": []
+      },
+      {
+        "id": "hand-of-god",
+        "canonical": "Hand of God",
+        "aliases": [
+          "Cosmic Hand",
+          "PSR B1509-58",
+          "Hand of God Nebula"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hand of God image shows a hand-shaped nebula powered by the pulsar PSR B1509-58.",
+        "sourceIds": []
+      },
+      {
+        "id": "sagittarius-a",
+        "canonical": "Sagittarius A*",
+        "aliases": [
+          "Sgr A*",
+          "Sagittarius A Star",
+          "Milky Way Black Hole Image",
+          "Sagittarius A* Black Hole Image"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Event Horizon Telescope's Sagittarius A* image depicts the black hole at the center of the Milky Way.",
+        "sourceIds": []
+      },
+      {
+        "id": "family-portrait",
+        "canonical": "Family Portrait",
+        "aliases": [
+          "Voyager Family Portrait",
+          "Solar System Family Portrait"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Voyager 1's Family Portrait is a mosaic containing images of six planets taken from the outer solar system.",
+        "sourceIds": []
+      },
+      {
+        "id": "black-marble",
+        "canonical": "Black Marble",
+        "aliases": [
+          "The Black Marble",
+          "Earth at Night"
+        ],
+        "familiarity": 0.0133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "NASA's Black Marble imagery combines satellite observations to show Earth's nighttime lights.",
+        "sourceIds": []
+      },
+      {
+        "id": "face-on-mars",
+        "canonical": "Face on Mars",
+        "aliases": [
+          "The Face on Mars",
+          "Martian Face",
+          "Mars Face",
+          "Cydonia Face"
+        ],
+        "familiarity": 0.0444,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Face on Mars is a Viking 1 photograph of a Martian landform whose lighting and shadows resemble a human face.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These images include astronaut photographs, telescope observations, and scientific reconstructions. Some show familiar worlds from unfamiliar perspectives; others revealed objects never previously imaged.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "cbbacedf598d6f63",
+    "brief": "Name a famous photograph or image from space exploration or astronomy that is widely shared online.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Earthrise": 3,
+      "The Blue Marble": 3,
+      "Pale Blue Dot": 3,
+      "Pillars of Creation": 3,
+      "Hubble Deep Field": 3,
+      "Hubble Ultra Deep Field": 3,
+      "Hubble Extreme Deep Field": 3,
+      "Webb's First Deep Field": 3,
+      "Cosmic Cliffs": 3,
+      "Mystic Mountain": 3,
+      "M87 Black Hole": 3,
+      "Sagittarius A*": 2,
+      "The Day the Earth Smiled": 3,
+      "Family Portrait": 2,
+      "Black Marble": 2,
+      "Hand of God": 3,
+      "Face on Mars": 2
+    },
+    "droppedForVotes": {
+      "A Man on the Moon": 1,
+      "Cosmic Reef": 1,
+      "A Rose Made of Galaxies": 1,
+      "Voyager Family Portrait": 1,
+      "Sagittarius A* Image": 1,
+      "Webb's Stephan's Quintet": 1,
+      "Webb's Southern Ring Nebula": 1,
+      "Webb's Cartwheel Galaxy": 1,
+      "A Rose of Galaxies": 1
+    },
+    "verdicts": {
+      "Earthrise": {
+        "verdict": "correct",
+        "reason": "The famous Apollo 8 photograph taken by William Anders shows Earth rising above the lunar horizon."
+      },
+      "The Blue Marble": {
+        "verdict": "correct",
+        "reason": "This established title refers to the iconic Apollo 17 photograph of a fully illuminated Earth."
+      },
+      "Pale Blue Dot": {
+        "verdict": "correct",
+        "reason": "Voyager 1's famous 1990 photograph shows Earth as a tiny point from the outer solar system."
+      },
+      "Pillars of Creation": {
+        "verdict": "correct",
+        "reason": "These famous Eagle Nebula structures have been imaged by both Hubble and Webb under this established title."
+      },
+      "Hubble Deep Field": {
+        "verdict": "correct",
+        "reason": "A well-known composite of Hubble exposures revealing thousands of galaxies in a small sky region."
+      },
+      "Hubble Ultra Deep Field": {
+        "verdict": "correct",
+        "reason": "An established deep-field image revealing distant galaxies across billions of years of cosmic history."
+      },
+      "Hubble Extreme Deep Field": {
+        "verdict": "correct",
+        "reason": "This named image combines years of Hubble observations to reveal exceptionally faint, distant galaxies."
+      },
+      "Webb's First Deep Field": {
+        "verdict": "correct",
+        "reason": "The officially named Webb image features SMACS 0723 and gravitationally lensed background galaxies."
+      },
+      "Cosmic Cliffs": {
+        "verdict": "correct",
+        "reason": "The established nickname for Webb's image of a star-forming region in NGC 3324 in the Carina Nebula complex."
+      },
+      "Mystic Mountain": {
+        "verdict": "correct",
+        "reason": "A famous Hubble image of a towering gas-and-dust structure in the Carina Nebula."
+      },
+      "M87 Black Hole": {
+        "verdict": "correct",
+        "reason": "Identifies the famous Event Horizon Telescope image of the bright emission ring around M87's black hole shadow."
+      },
+      "The Day the Earth Smiled": {
+        "verdict": "correct",
+        "reason": "An established title for Cassini's Saturn mosaic that includes Earth as a distant point."
+      },
+      "Hand of God": {
+        "verdict": "correct",
+        "reason": "A widely used nickname for images of the hand-shaped pulsar wind nebula powered by PSR B1509-58."
+      },
+      "Sagittarius A*": {
+        "verdict": "correct",
+        "reason": "The description identifies the famous Event Horizon Telescope image of the Milky Way's central black hole."
+      },
+      "Family Portrait": {
+        "verdict": "correct",
+        "reason": "Voyager 1's named 1990 solar-system mosaic includes images of six planets."
+      },
+      "Black Marble": {
+        "verdict": "correct",
+        "reason": "An established NASA name for satellite imagery and composites showing Earth at night."
+      },
+      "Face on Mars": {
+        "verdict": "correct",
+        "reason": "The established nickname for the Viking 1 image of a Cydonia landform with a face-like appearance."
+      }
+    },
+    "issues": []
+  }
+}

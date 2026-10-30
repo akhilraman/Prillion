@@ -1,0 +1,479 @@
+{
+  "question": {
+    "id": "space-apollo-astronauts",
+    "category": "space",
+    "prompt": "Name an astronaut who flew on a numbered Apollo mission (Apollo 7–17).",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "neil-armstrong",
+        "canonical": "Neil Armstrong",
+        "aliases": [
+          "Neil A. Armstrong"
+        ],
+        "familiarity": 0.1161,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Armstrong commanded Apollo 11.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "buzz-aldrin",
+        "canonical": "Buzz Aldrin",
+        "aliases": [
+          "Edwin Aldrin",
+          "Edwin E. Aldrin",
+          "Edwin E. Aldrin Jr."
+        ],
+        "familiarity": 0.1161,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aldrin flew as lunar module pilot on Apollo 11.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "michael-collins",
+        "canonical": "Michael Collins",
+        "aliases": [],
+        "familiarity": 0.1161,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Collins flew as command module pilot on Apollo 11.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "jim-lovell",
+        "canonical": "Jim Lovell",
+        "aliases": [
+          "James Lovell",
+          "James A. Lovell Jr.",
+          "James A. Lovell"
+        ],
+        "familiarity": 0.1161,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lovell flew on Apollo 8 and commanded Apollo 13.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "alan-shepard",
+        "canonical": "Alan Shepard",
+        "aliases": [
+          "Alan B. Shepard Jr.",
+          "Alan B. Shepard"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shepard commanded Apollo 14 and walked on the Moon.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "john-young",
+        "canonical": "John Young",
+        "aliases": [
+          "John W. Young"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Young flew on Apollo 10 and commanded Apollo 16.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "eugene-cernan",
+        "canonical": "Eugene Cernan",
+        "aliases": [
+          "Gene Cernan",
+          "Eugene A. Cernan"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cernan flew on Apollo 10 and commanded Apollo 17.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "pete-conrad",
+        "canonical": "Pete Conrad",
+        "aliases": [
+          "Charles Conrad",
+          "Charles Conrad Jr.",
+          "Charles \"Pete\" Conrad Jr."
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Conrad commanded Apollo 12.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "frank-borman",
+        "canonical": "Frank Borman",
+        "aliases": [
+          "Frank F. Borman II"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Borman flew on Apollo 8, the first lunar orbital mission.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "bill-anders",
+        "canonical": "Bill Anders",
+        "aliases": [
+          "William Anders",
+          "William A. Anders"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anders flew on Apollo 8.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "jack-swigert",
+        "canonical": "Jack Swigert",
+        "aliases": [
+          "John Swigert",
+          "John L. Swigert Jr.",
+          "John L. Swigert"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Swigert flew on Apollo 13 after replacing Ken Mattingly.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "fred-haise",
+        "canonical": "Fred Haise",
+        "aliases": [
+          "Fred W. Haise Jr.",
+          "Fred W. Haise"
+        ],
+        "familiarity": 0.0465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haise flew as lunar module pilot on Apollo 13.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "david-scott",
+        "canonical": "David Scott",
+        "aliases": [
+          "David R. Scott",
+          "Dave Scott"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scott flew on Apollo 9 and commanded Apollo 15.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "alan-bean",
+        "canonical": "Alan Bean",
+        "aliases": [
+          "Alan L. Bean"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bean flew as lunar module pilot on Apollo 12.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "harrison-schmitt",
+        "canonical": "Harrison Schmitt",
+        "aliases": [
+          "Harrison H. Schmitt",
+          "Jack Schmitt",
+          "Harrison H. \"Jack\" Schmitt"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Schmitt explored the Moon on Apollo 17.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "charles-duke",
+        "canonical": "Charles Duke",
+        "aliases": [
+          "Charles M. Duke Jr.",
+          "Charles M. Duke",
+          "Charlie Duke"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duke flew as lunar module pilot on Apollo 16.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "edgar-mitchell",
+        "canonical": "Edgar Mitchell",
+        "aliases": [
+          "Edgar D. Mitchell",
+          "Ed Mitchell"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mitchell was lunar module pilot on Apollo 14.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "james-irwin",
+        "canonical": "James Irwin",
+        "aliases": [
+          "James B. Irwin",
+          "Jim Irwin"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Irwin was lunar module pilot on Apollo 15.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "tom-stafford",
+        "canonical": "Tom Stafford",
+        "aliases": [
+          "Thomas Stafford",
+          "Thomas P. Stafford"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stafford commanded Apollo 10.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "ken-mattingly",
+        "canonical": "Ken Mattingly",
+        "aliases": [
+          "T. Kenneth Mattingly II",
+          "Thomas Kenneth Mattingly",
+          "Kenneth Mattingly"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mattingly flew on Apollo 16.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "walter-m-schirra-jr",
+        "canonical": "Walter M. Schirra, Jr.",
+        "aliases": [
+          "Walter Schirra",
+          "Wally Schirra",
+          "Walter M. Schirra Jr."
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Schirra flew on Apollo 7.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "james-a-mcdivitt",
+        "canonical": "James A. McDivitt",
+        "aliases": [
+          "James McDivitt",
+          "Jim McDivitt"
+        ],
+        "familiarity": 0.0139,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "McDivitt flew on Apollo 9.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "dick-gordon",
+        "canonical": "Dick Gordon",
+        "aliases": [
+          "Richard Gordon",
+          "Richard F. Gordon Jr.",
+          "Richard F. Gordon"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gordon flew as command module pilot on Apollo 12.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "donn-f-eisele",
+        "canonical": "Donn F. Eisele",
+        "aliases": [
+          "Donn Eisele",
+          "Don Eisele"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eisele flew on Apollo 7.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "r-walter-cunningham",
+        "canonical": "R. Walter Cunningham",
+        "aliases": [
+          "Walter Cunningham",
+          "Walt Cunningham"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cunningham flew on Apollo 7.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "russell-l-schweickart",
+        "canonical": "Russell L. Schweickart",
+        "aliases": [
+          "Rusty Schweickart",
+          "Russell Schweickart",
+          "Russell L. \"Rusty\" Schweickart"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Schweickart flew as lunar module pilot on Apollo 9.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "stuart-roosa",
+        "canonical": "Stuart Roosa",
+        "aliases": [
+          "Stuart A. Roosa",
+          "Stu Roosa"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roosa was command module pilot on Apollo 14.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "alfred-worden",
+        "canonical": "Alfred Worden",
+        "aliases": [
+          "Alfred M. Worden",
+          "Al Worden"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Worden was command module pilot on Apollo 15.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      },
+      {
+        "id": "ronald-evans",
+        "canonical": "Ronald Evans",
+        "aliases": [
+          "Ronald E. Evans Jr.",
+          "Ronald E. Evans",
+          "Ron Evans"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Evans was command module pilot on Apollo 17.",
+        "sourceIds": [
+          "list-of-apollo-astronauts"
+        ]
+      }
+    ],
+    "explanation": "Twenty-nine astronauts flew on the numbered Apollo missions: 24 traveled to the Moon's vicinity, while five others flew only on the Earth-orbiting Apollo 7 or Apollo 9 missions. Apollo 1 never launched, and Skylab and Apollo–Soyuz flights are not included here.",
+    "sources": [
+      {
+        "id": "list-of-apollo-astronauts",
+        "title": "List of Apollo astronauts",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Apollo_astronauts",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "77a4a2fbdc660247",
+    "brief": "Name an astronaut who flew on an Apollo mission.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-apollo-astronauts",
+        "version": "1375175255",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Neil Armstrong": "Neil A. Armstrong – Commander of Gemini 8, commanded Apollo 11, becoming the first human to set foot on the Moon.",
+      "Buzz Aldrin": "Edwin E. \"Buzz\" Aldrin Jr. – Second-seat veteran on Gemini 12, flew as Lunar Module Pilot on Apollo 11, the first Moon landing.",
+      "Michael Collins": "Michael Collins – Second-seat veteran on Gemini 10, flew as Command Module Pilot on Apollo 11.",
+      "Jim Lovell": "James A. Lovell Jr. – Second-seat veteran of Gemini 7, and commander of Gemini 12, flew as Command Module Pilot (second seat) on Apollo 8. Lovell became the first to fly a second Apollo mission as commander of Apollo 13, the third lunar landing attempt.",
+      "Alan Shepard": "5 | | Alan Shepard (Mercury Seven) | (1923-11-18)November 18, 1923 | July 21, 1998(1998-07-21) (aged 74) | 47y 2m 18d | Apollo 14",
+      "John Young": "John W. Young – Second-seat veteran of Gemini 3 and commander of Gemini 10, flew as Command Module Pilot on Apollo 10. Young later commanded the successful Apollo 16 lunar landing.",
+      "Eugene Cernan": "Eugene A. Cernan – Second-seat veteran on Gemini 9A, flew as Lunar Module Pilot on Apollo 10, and commanded the final lunar landing mission Apollo 17.",
+      "Pete Conrad": "Charles \"Pete\" Conrad Jr. – Second-seat veteran of Gemini 5 and commander of Gemini 11, commanded Apollo 12, the second lunar landing.",
+      "Frank Borman": "1 | | Frank Borman (NASA Astronaut Group 2) | (1928-03-14)March 14, 1928 | November 7, 2023(2023-11-07) (aged 95) | 40 | Apollo 8 December 21–27, 1968",
+      "Bill Anders": "William A. Anders – Flew third seat on Apollo 8.",
+      "Jack Swigert": "John L. \"Jack\" Swigert Jr. – Flew as Mattingly's backup on Apollo 13.",
+      "Fred Haise": "Fred W. Haise Jr. – Flew as Lunar Module Pilot on the unsuccessful Apollo 13.",
+      "David Scott": "David R. Scott – Second-seat veteran of Gemini 8, flew as Command Module Pilot on Apollo 9, and commanded the Apollo 15 lunar landing.",
+      "Alan Bean": "Alan L. Bean – Flew as Lunar Module Pilot on Apollo 12. He later served as commander for Skylab 3.",
+      "Harrison Schmitt": "Group 4 – the scientist astronaut group; Harrison Schmitt (center), who became NASA's first scientist astronaut to fly in space, explored the Moon on Apollo 17.",
+      "Charles Duke": "Duke flew as Lunar Module Pilot on Apollo 16.",
+      "Edgar Mitchell": "Edgar D. Mitchell – Lunar Module Pilot on Apollo 14.",
+      "James Irwin": "James B. Irwin – Lunar Module Pilot on Apollo 15.",
+      "Tom Stafford": "Thomas P. Stafford – Second-seat veteran of Gemini 6A and commander of Gemini 9A, commanded a lunar orbital test of the Lunar Module on Apollo 10.",
+      "Ken Mattingly": "11 | | Ken Mattingly (NASA Astronaut Group 5) | (1936-03-17)March 17, 1936 | October 31, 2023(2023-10-31) (aged 87) | 36 | Apollo 16 April 16–27, 1972",
+      "Walter M. Schirra, Jr.": "1 | | Walter M. Schirra, Jr. (NASA Astronaut Group 1) | (1923-03-12)March 12, 1923 | May 3, 2007(2007-05-03) (aged 84) | 45 | Apollo 7 October 11–22, 1968",
+      "James A. McDivitt": "4 | | James A. McDivitt (NASA Astronaut Group 2) | (1929-06-10)June 10, 1929 | October 13, 2022(2022-10-13) (aged 93) | 39 | Apollo 9 March 3–13, 1969",
+      "Dick Gordon": "Richard F. Gordon Jr. – Second-seat veteran on Gemini 11, flew as Command Module Pilot on Apollo 12.",
+      "Donn F. Eisele": "Donn F. Eisele – Flew second seat on Apollo 7.",
+      "R. Walter Cunningham": "R. Walter Cunningham – Flew third seat on Apollo 7.",
+      "Russell L. Schweickart": "Russell L. \"Rusty\" Schweickart – Flew as Lunar Module Pilot on Apollo 9.",
+      "Stuart Roosa": "Stuart A. Roosa – Command Module Pilot on Apollo 14.",
+      "Alfred Worden": "Alfred M. Worden – Command Module Pilot on Apollo 15.",
+      "Ronald Evans": "Ronald E. Evans Jr. – Command Module Pilot on Apollo 17."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Charles Duke]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

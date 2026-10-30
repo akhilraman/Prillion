@@ -1,0 +1,513 @@
+{
+  "question": {
+    "id": "us-pop-classic-internet-memes",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a classic internet meme that first became popular in the 2000s or 2010s.",
+    "answerSet": "open",
+    "criteria": "An image macro, viral video, catchphrase, or meme character that first gained widespread online recognition between 2000 and 2019.",
+    "answers": [
+      {
+        "id": "doge",
+        "canonical": "Doge",
+        "aliases": [
+          "Shiba Inu meme",
+          "Doge meme"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Doge pairs photographs of a Shiba Inu with colorful captions written in deliberately unusual English.",
+        "sourceIds": []
+      },
+      {
+        "id": "distracted-boyfriend",
+        "canonical": "Distracted Boyfriend",
+        "aliases": [
+          "Distracted boyfriend meme"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Distracted Boyfriend uses a stock photograph of a man looking at another woman while his partner reacts.",
+        "sourceIds": []
+      },
+      {
+        "id": "grumpy-cat",
+        "canonical": "Grumpy Cat",
+        "aliases": [
+          "Tardar Sauce"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grumpy Cat became a meme through photographs of a cat with a persistently displeased-looking expression.",
+        "sourceIds": []
+      },
+      {
+        "id": "nyan-cat",
+        "canonical": "Nyan Cat",
+        "aliases": [
+          "Pop Tart Cat"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nyan Cat is an animated cat with a pastry body flying through space and leaving a rainbow trail.",
+        "sourceIds": []
+      },
+      {
+        "id": "keyboard-cat",
+        "canonical": "Keyboard Cat",
+        "aliases": [
+          "Play Him Off Keyboard Cat"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keyboard Cat features footage of a cat appearing to play an electronic keyboard.",
+        "sourceIds": []
+      },
+      {
+        "id": "trollface",
+        "canonical": "Trollface",
+        "aliases": [
+          "Coolface"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trollface is a grinning cartoon face associated with online trolling and rage comics.",
+        "sourceIds": []
+      },
+      {
+        "id": "this-is-fine",
+        "canonical": "This Is Fine",
+        "aliases": [
+          "This is fine dog"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This Is Fine depicts a cartoon dog calmly sitting in a burning room.",
+        "sourceIds": []
+      },
+      {
+        "id": "hide-the-pain-harold",
+        "canonical": "Hide the Pain Harold",
+        "aliases": [
+          "Harold",
+          "Maurice",
+          "Hide Pain Harold",
+          "Pain Harold"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hide the Pain Harold uses stock photographs of a smiling man whose expression is interpreted as concealed discomfort.",
+        "sourceIds": []
+      },
+      {
+        "id": "chocolate-rain",
+        "canonical": "Chocolate Rain",
+        "aliases": [
+          "Tay Zonday Chocolate Rain"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chocolate Rain is a song and viral music video performed by Tay Zonday.",
+        "sourceIds": []
+      },
+      {
+        "id": "dramatic-chipmunk",
+        "canonical": "Dramatic Chipmunk",
+        "aliases": [
+          "Dramatic Prairie Dog",
+          "Dramatic Look"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dramatic Chipmunk is a short clip of a prairie dog turning toward the camera accompanied by dramatic music.",
+        "sourceIds": []
+      },
+      {
+        "id": "philosoraptor",
+        "canonical": "Philosoraptor",
+        "aliases": [
+          "Philosoraptor meme"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Philosoraptor is an image macro featuring a thoughtful-looking dinosaur and captions posing paradoxes or playful questions.",
+        "sourceIds": []
+      },
+      {
+        "id": "socially-awkward-penguin",
+        "canonical": "Socially Awkward Penguin",
+        "aliases": [
+          "Awkward Penguin"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Socially Awkward Penguin is an image macro about embarrassing or uncomfortable social situations.",
+        "sourceIds": []
+      },
+      {
+        "id": "forever-alone",
+        "canonical": "Forever Alone",
+        "aliases": [
+          "Forever Alone Guy",
+          "Forever Alone face"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Forever Alone is a rage-comic character used to express loneliness and social isolation.",
+        "sourceIds": []
+      },
+      {
+        "id": "business-cat",
+        "canonical": "Business Cat",
+        "aliases": [
+          "Business Cat meme"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Business Cat is an image macro featuring a cat wearing a tie and captions mixing office language with feline behavior.",
+        "sourceIds": []
+      },
+      {
+        "id": "longcat",
+        "canonical": "Longcat",
+        "aliases": [],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Longcat originated with a photograph of a white cat held upright to show its unusually long-looking body.",
+        "sourceIds": []
+      },
+      {
+        "id": "rickrolling",
+        "canonical": "Rickrolling",
+        "aliases": [
+          "Rickroll",
+          "Never Gonna Give You Up"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rickrolling tricks someone into opening Rick Astley's music video for Never Gonna Give You Up.",
+        "sourceIds": []
+      },
+      {
+        "id": "surprised-pikachu",
+        "canonical": "Surprised Pikachu",
+        "aliases": [
+          "Shocked Pikachu",
+          "Surprised Pikachu face"
+        ],
+        "familiarity": 0.0663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Surprised Pikachu uses an open-mouthed image of Pikachu to react to an outcome that should have been predictable.",
+        "sourceIds": []
+      },
+      {
+        "id": "success-kid",
+        "canonical": "Success Kid",
+        "aliases": [
+          "I Hate Sandcastles",
+          "Success Baby"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Success Kid uses a photograph of a toddler holding a clenched fist to celebrate small victories.",
+        "sourceIds": []
+      },
+      {
+        "id": "bad-luck-brian",
+        "canonical": "Bad Luck Brian",
+        "aliases": [
+          "Bad Luck Brian meme"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad Luck Brian pairs a school portrait with captions about unfortunate outcomes.",
+        "sourceIds": []
+      },
+      {
+        "id": "expanding-brain",
+        "canonical": "Expanding Brain",
+        "aliases": [
+          "Galaxy Brain",
+          "Brain expansion meme",
+          "Brain Expansion"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Expanding Brain arranges increasingly illuminated brain images beside a sequence of ideas.",
+        "sourceIds": []
+      },
+      {
+        "id": "ermahgerd",
+        "canonical": "Ermahgerd",
+        "aliases": [
+          "Ermahgerd Girl",
+          "Gersberms",
+          "Ermahgerd Gersberms"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ermahgerd pairs a photograph of a girl holding Goosebumps books with deliberately distorted spellings.",
+        "sourceIds": []
+      },
+      {
+        "id": "scumbag-steve",
+        "canonical": "Scumbag Steve",
+        "aliases": [
+          "Scumbag Steve meme"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scumbag Steve pairs a photograph of a young man wearing a sideways cap with captions about inconsiderate behavior.",
+        "sourceIds": []
+      },
+      {
+        "id": "me-gusta",
+        "canonical": "Me Gusta",
+        "aliases": [
+          "Me Gusta face"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Me Gusta is a rage-comic face used to express pleasure or approval.",
+        "sourceIds": []
+      },
+      {
+        "id": "advice-dog",
+        "canonical": "Advice Dog",
+        "aliases": [
+          "Advice Dog meme"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Advice Dog places a puppy's head on a multicolored background with captions offering absurd advice.",
+        "sourceIds": []
+      },
+      {
+        "id": "o-rly",
+        "canonical": "O RLY?",
+        "aliases": [
+          "Oh Really Owl",
+          "O RLY Owl"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "O RLY? uses a photograph of a snowy owl with an abbreviated version of the phrase oh really.",
+        "sourceIds": []
+      },
+      {
+        "id": "all-your-base",
+        "canonical": "All Your Base",
+        "aliases": [
+          "All Your Base Are Belong to Us",
+          "AYBABTU"
+        ],
+        "familiarity": 0.0265,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "All Your Base Are Belong to Us is a poorly translated line from Zero Wing that became an internet catchphrase.",
+        "sourceIds": []
+      },
+      {
+        "id": "y-u-no",
+        "canonical": "Y U NO",
+        "aliases": [
+          "Y U NO Guy",
+          "Y U No Man"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Y U NO combines an agitated cartoon face with questions written in deliberately broken English.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These decades produced viral videos, captioned animal photos, rage-comic characters, and reaction images. Other documented memes from this period also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "5bab6fede3206348",
+    "brief": "Name a classic internet meme from the 2000s or 2010s (an image macro, video, catchphrase or character).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Doge": 3,
+      "Rickrolling": 2,
+      "Distracted Boyfriend": 3,
+      "Grumpy Cat": 3,
+      "Surprised Pikachu": 2,
+      "Nyan Cat": 3,
+      "Keyboard Cat": 3,
+      "Trollface": 3,
+      "This Is Fine": 3,
+      "Success Kid": 2,
+      "Bad Luck Brian": 2,
+      "Hide the Pain Harold": 3,
+      "Expanding Brain": 2,
+      "Chocolate Rain": 3,
+      "Dramatic Chipmunk": 3,
+      "Ermahgerd": 2,
+      "Philosoraptor": 3,
+      "Socially Awkward Penguin": 3,
+      "Scumbag Steve": 2,
+      "Forever Alone": 3,
+      "Me Gusta": 2,
+      "Advice Dog": 2,
+      "Business Cat": 3,
+      "Longcat": 3,
+      "O RLY?": 2,
+      "fsjal": 2,
+      "All Your Base": 2,
+      "Y U NO": 2
+    },
+    "droppedForVotes": {
+      "Drake Hotline Bling": 1,
+      "Mocking SpongeBob": 1,
+      "Double Rainbow": 1,
+      "Spaghetti Cat": 1,
+      "Happy Cat": 1,
+      "Hampster Dance": 1,
+      "Rickroll": 1,
+      "Gangnam Style": 1,
+      "Is This a Pigeon?": 1,
+      "Two Buttons": 1,
+      "Numa Numa": 1,
+      "Peanut Butter Jelly Time": 1,
+      "Badger Badger Badger": 1,
+      "Shoop Da Whoop": 1,
+      "Weegee": 1,
+      "Hamster on a Piano": 1,
+      "One Does Not Simply": 1,
+      "Ancient Aliens": 1,
+      "Woman Yelling at a Cat": 1,
+      "Charlie the Unicorn": 1,
+      "Leeroy Jenkins": 1,
+      "I Can Has Cheezburger": 1,
+      "Good Guy Greg": 1,
+      "Yo Dawg": 1,
+      "Ceiling Cat": 1,
+      "Advice Mallard": 1,
+      "Limecat": 1,
+      "Serious Cat": 1
+    },
+    "verdicts": {
+      "Doge": {
+        "verdict": "correct",
+        "reason": "The Shiba Inu image macro became widely popular in 2013."
+      },
+      "Distracted Boyfriend": {
+        "verdict": "correct",
+        "reason": "The stock-photo meme went viral in 2017."
+      },
+      "Grumpy Cat": {
+        "verdict": "correct",
+        "reason": "Photographs of the displeased-looking cat became an internet sensation in 2012."
+      },
+      "Nyan Cat": {
+        "verdict": "correct",
+        "reason": "The animated pastry-bodied cat video went viral in 2011."
+      },
+      "Keyboard Cat": {
+        "verdict": "correct",
+        "reason": "The keyboard-playing cat footage became a widespread meme in 2009."
+      },
+      "Trollface": {
+        "verdict": "correct",
+        "reason": "The cartoon face originated in 2008 and became a standard trolling and rage-comic meme."
+      },
+      "This Is Fine": {
+        "verdict": "correct",
+        "reason": "The burning-room dog comes from a 2013 webcomic and became a widely recognized reaction meme."
+      },
+      "Hide the Pain Harold": {
+        "verdict": "correct",
+        "reason": "The stock-photo character became a widely circulated meme during the 2010s."
+      },
+      "Chocolate Rain": {
+        "verdict": "correct",
+        "reason": "Tay Zonday's song and music video went viral in 2007."
+      },
+      "Dramatic Chipmunk": {
+        "verdict": "correct",
+        "reason": "The dramatically scored prairie-dog clip went viral in 2007 under this name."
+      },
+      "Philosoraptor": {
+        "verdict": "correct",
+        "reason": "The philosophical dinosaur image macro became popular in the late 2000s."
+      },
+      "Socially Awkward Penguin": {
+        "verdict": "correct",
+        "reason": "The penguin advice-animal meme emerged in 2009 and spread widely."
+      },
+      "Forever Alone": {
+        "verdict": "correct",
+        "reason": "The loneliness-themed rage-comic character became popular around 2010."
+      },
+      "Business Cat": {
+        "verdict": "correct",
+        "reason": "The tie-wearing cat advice-animal meme became popular in 2011."
+      },
+      "Longcat": {
+        "verdict": "correct",
+        "reason": "The photograph of a white cat held upright became an internet meme in the mid-2000s."
+      },
+      "Rickrolling": {
+        "verdict": "correct",
+        "reason": "The bait-and-switch linking to Rick Astley's video became popular in 2007."
+      },
+      "Surprised Pikachu": {
+        "verdict": "correct",
+        "reason": "The open-mouthed Pikachu reaction image went viral in 2018."
+      },
+      "Success Kid": {
+        "verdict": "correct",
+        "reason": "The clenched-fist toddler photograph circulated beginning in 2007 and became a widely recognized victory meme."
+      },
+      "Bad Luck Brian": {
+        "verdict": "correct",
+        "reason": "The school-portrait image macro became popular in 2012."
+      },
+      "Expanding Brain": {
+        "verdict": "correct",
+        "reason": "The escalating brain-image comparison format became popular in 2017."
+      },
+      "Ermahgerd": {
+        "verdict": "correct",
+        "reason": "The Goosebumps photograph with distorted-spelling captions went viral in 2012."
+      },
+      "Scumbag Steve": {
+        "verdict": "correct",
+        "reason": "The sideways-cap photograph became a widely recognized advice-animal template in 2011."
+      },
+      "Me Gusta": {
+        "verdict": "correct",
+        "reason": "The pleasure-expressing rage-comic face became popular around 2010."
+      },
+      "Advice Dog": {
+        "verdict": "correct",
+        "reason": "The puppy-on-a-color-wheel image macro originated in 2006 and became a foundational advice-animal meme."
+      },
+      "O RLY?": {
+        "verdict": "correct",
+        "reason": "The snowy-owl reaction image became widely popular in the mid-2000s."
+      },
+      "fsjal": {
+        "verdict": "correct",
+        "reason": "The excited cartoon figure became a character-redrawing meme in 2009."
+      },
+      "All Your Base": {
+        "verdict": "correct",
+        "reason": "The mistranslated Zero Wing phrase achieved widespread online popularity in 2000–2001."
+      },
+      "Y U NO": {
+        "verdict": "correct",
+        "reason": "The agitated cartoon-face image macro became popular around 2010."
+      }
+    },
+    "issues": [],
+    "removedInReview": {
+      "fsjal": "vague evidence; not confidently a classic meme (human review 2026-10-30)"
+    }
+  }
+}

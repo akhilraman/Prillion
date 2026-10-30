@@ -1,0 +1,438 @@
+{
+  "question": {
+    "id": "space-video-games",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a video game set in space.",
+    "answerSet": "open",
+    "criteria": "Name a released video game whose main setting includes outer space, spacecraft, or planets beyond Earth. An isolated space-themed level does not qualify.",
+    "answers": [
+      {
+        "id": "among-us",
+        "canonical": "Among Us",
+        "aliases": [],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Among Us is a social deduction game with settings that include spacecraft and planetary bases.",
+        "sourceIds": []
+      },
+      {
+        "id": "no-man-s-sky",
+        "canonical": "No Man's Sky",
+        "aliases": [
+          "NMS"
+        ],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "No Man's Sky is an exploration game about traveling through space and visiting procedurally generated planets.",
+        "sourceIds": []
+      },
+      {
+        "id": "starfield",
+        "canonical": "Starfield",
+        "aliases": [],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Starfield is a role-playing game set across inhabited star systems and explorable planets.",
+        "sourceIds": []
+      },
+      {
+        "id": "mass-effect",
+        "canonical": "Mass Effect",
+        "aliases": [
+          "Mass Effect 1",
+          "ME1"
+        ],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mass Effect follows Commander Shepard on a mission across the galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "dead-space",
+        "canonical": "Dead Space",
+        "aliases": [
+          "Dead Space Remake"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dead Space is a science-fiction horror game set aboard the mining spacecraft USG Ishimura.",
+        "sourceIds": []
+      },
+      {
+        "id": "outer-wilds",
+        "canonical": "Outer Wilds",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Outer Wilds is an exploration game set in a small solar system caught in a time loop.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-outer-worlds",
+        "canonical": "The Outer Worlds",
+        "aliases": [
+          "Outer Worlds"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Outer Worlds is a role-playing game set in a corporate-controlled space colony.",
+        "sourceIds": []
+      },
+      {
+        "id": "alien-isolation",
+        "canonical": "Alien: Isolation",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alien: Isolation is a survival horror game set primarily aboard Sevastopol space station.",
+        "sourceIds": []
+      },
+      {
+        "id": "kerbal-space-program",
+        "canonical": "Kerbal Space Program",
+        "aliases": [
+          "KSP"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kerbal Space Program lets players build spacecraft and explore a fictional planetary system.",
+        "sourceIds": []
+      },
+      {
+        "id": "elite-dangerous",
+        "canonical": "Elite Dangerous",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elite Dangerous is a spaceflight simulation set in a representation of the Milky Way.",
+        "sourceIds": []
+      },
+      {
+        "id": "eve-online",
+        "canonical": "EVE Online",
+        "aliases": [
+          "EVE"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "EVE Online is a multiplayer game centered on spacecraft, trade, and conflict across star systems.",
+        "sourceIds": []
+      },
+      {
+        "id": "ftl-faster-than-light",
+        "canonical": "FTL: Faster Than Light",
+        "aliases": [
+          "FTL",
+          "Faster Than Light"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "FTL: Faster Than Light is a spaceship-management game about crossing space while pursued by a rebel fleet.",
+        "sourceIds": []
+      },
+      {
+        "id": "astroneer",
+        "canonical": "Astroneer",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Astroneer is a sandbox exploration game set on planets and moons in a fictional solar system.",
+        "sourceIds": []
+      },
+      {
+        "id": "homeworld",
+        "canonical": "Homeworld",
+        "aliases": [
+          "Homeworld 1"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Homeworld is a real-time strategy game about commanding a fleet on a journey through space.",
+        "sourceIds": []
+      },
+      {
+        "id": "freelancer",
+        "canonical": "Freelancer",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Freelancer is a space trading and combat game set in the Sirius sector.",
+        "sourceIds": []
+      },
+      {
+        "id": "freespace-2",
+        "canonical": "FreeSpace 2",
+        "aliases": [
+          "Freespace II"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "FreeSpace 2 is a space combat simulator featuring fighter missions and battles between large spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "tachyon-the-fringe",
+        "canonical": "Tachyon: The Fringe",
+        "aliases": [
+          "Tachyon"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tachyon: The Fringe is a space combat simulator in which the player works as a mercenary pilot.",
+        "sourceIds": []
+      },
+      {
+        "id": "super-mario-galaxy",
+        "canonical": "Super Mario Galaxy",
+        "aliases": [
+          "Mario Galaxy",
+          "SMG"
+        ],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Super Mario Galaxy sends Mario through space to explore galaxies and small planets.",
+        "sourceIds": []
+      },
+      {
+        "id": "halo-combat-evolved",
+        "canonical": "Halo: Combat Evolved",
+        "aliases": [
+          "Halo",
+          "Halo CE",
+          "Halo 1"
+        ],
+        "familiarity": 0.0791,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Halo: Combat Evolved takes place largely on an artificial ringworld in space.",
+        "sourceIds": []
+      },
+      {
+        "id": "starcraft",
+        "canonical": "StarCraft",
+        "aliases": [
+          "StarCraft 1"
+        ],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "StarCraft is a real-time strategy game about three factions fighting across the Koprulu sector.",
+        "sourceIds": []
+      },
+      {
+        "id": "stellaris",
+        "canonical": "Stellaris",
+        "aliases": [],
+        "familiarity": 0.0317,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stellaris is a grand strategy game about building an interstellar civilization.",
+        "sourceIds": []
+      },
+      {
+        "id": "space-engineers",
+        "canonical": "Space Engineers",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Space Engineers is a sandbox game about constructing spacecraft, stations, and planetary outposts.",
+        "sourceIds": []
+      },
+      {
+        "id": "returnal",
+        "canonical": "Returnal",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Returnal follows an astronaut trapped in a repeating cycle on the alien planet Atropos.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-wars-squadrons",
+        "canonical": "Star Wars: Squadrons",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Wars: Squadrons is a starfighter combat game featuring missions in space.",
+        "sourceIds": []
+      },
+      {
+        "id": "everspace",
+        "canonical": "Everspace",
+        "aliases": [
+          "Everspace 1"
+        ],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Everspace is a roguelike space shooter in which players pilot a spacecraft through hostile sectors.",
+        "sourceIds": []
+      },
+      {
+        "id": "rebel-galaxy",
+        "canonical": "Rebel Galaxy",
+        "aliases": [],
+        "familiarity": 0.0095,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rebel Galaxy is a space adventure centered on commanding a ship in combat and trade.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space games span exploration, combat, strategy, survival, and platforming. Individual games count, including entries in larger series.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "ae1b235739bcefa3",
+    "brief": "Name a video game set in space.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Among Us": 3,
+      "Super Mario Galaxy": 2,
+      "No Man's Sky": 3,
+      "Starfield": 3,
+      "Mass Effect": 3,
+      "Halo: Combat Evolved": 2,
+      "Dead Space": 3,
+      "Outer Wilds": 3,
+      "The Outer Worlds": 3,
+      "Alien: Isolation": 3,
+      "Kerbal Space Program": 3,
+      "Elite Dangerous": 3,
+      "EVE Online": 3,
+      "StarCraft": 2,
+      "Stellaris": 2,
+      "FTL: Faster Than Light": 3,
+      "Astroneer": 3,
+      "Space Engineers": 2,
+      "Returnal": 2,
+      "Homeworld": 3,
+      "Freelancer": 3,
+      "FreeSpace 2": 3,
+      "Tachyon: The Fringe": 3,
+      "Star Wars: Squadrons": 2,
+      "Everspace": 2,
+      "Rebel Galaxy": 2
+    },
+    "droppedForVotes": {
+      "Star Wars: Knights of the Old Republic": 1,
+      "Super Metroid": 1,
+      "Wing Commander": 1,
+      "Destiny 2": 1,
+      "Metroid Prime": 1,
+      "Escape Velocity": 1,
+      "Spacewar!": 1,
+      "Star Fox 64": 1,
+      "Endless Space": 1,
+      "The Ur-Quan Masters": 1
+    },
+    "verdicts": {
+      "Among Us": {
+        "verdict": "correct",
+        "reason": "Released social deduction game with spacecraft and extraterrestrial base settings."
+      },
+      "No Man's Sky": {
+        "verdict": "correct",
+        "reason": "Space travel and exploration of procedurally generated planets are central to the game."
+      },
+      "Starfield": {
+        "verdict": "correct",
+        "reason": "Released role-playing game set across numerous planets and star systems."
+      },
+      "Mass Effect": {
+        "verdict": "correct",
+        "reason": "Set across the galaxy, with spacecraft, space stations, and alien planets."
+      },
+      "Dead Space": {
+        "verdict": "correct",
+        "reason": "Set primarily aboard the USG Ishimura spacecraft."
+      },
+      "Outer Wilds": {
+        "verdict": "correct",
+        "reason": "Exploration of a fictional solar system is the game's main setting."
+      },
+      "The Outer Worlds": {
+        "verdict": "correct",
+        "reason": "Set in the Halcyon colony, spanning alien worlds and space installations."
+      },
+      "Alien: Isolation": {
+        "verdict": "correct",
+        "reason": "Set primarily aboard Sevastopol space station."
+      },
+      "Kerbal Space Program": {
+        "verdict": "correct",
+        "reason": "Spaceflight and exploration of a fictional planetary system are central activities."
+      },
+      "Elite Dangerous": {
+        "verdict": "correct",
+        "reason": "A spaceflight simulation set throughout a representation of the Milky Way."
+      },
+      "EVE Online": {
+        "verdict": "correct",
+        "reason": "An online game centered on spacecraft operations across many star systems."
+      },
+      "FTL: Faster Than Light": {
+        "verdict": "correct",
+        "reason": "Players manage a spacecraft traveling through hostile space sectors."
+      },
+      "Astroneer": {
+        "verdict": "correct",
+        "reason": "Set on explorable planets and moons in a fictional solar system."
+      },
+      "Homeworld": {
+        "verdict": "correct",
+        "reason": "A real-time strategy game centered on a fleet's journey through space."
+      },
+      "Freelancer": {
+        "verdict": "correct",
+        "reason": "A released space trading and combat game set in the Sirius sector."
+      },
+      "FreeSpace 2": {
+        "verdict": "correct",
+        "reason": "A space combat simulator featuring spacecraft battles as its main gameplay."
+      },
+      "Tachyon: The Fringe": {
+        "verdict": "correct",
+        "reason": "A released space combat simulator starring a mercenary spacecraft pilot."
+      },
+      "Super Mario Galaxy": {
+        "verdict": "correct",
+        "reason": "Its main adventure takes place across galaxies and small celestial worlds."
+      },
+      "Halo: Combat Evolved": {
+        "verdict": "correct",
+        "reason": "Set largely on an artificial ringworld, with additional spacecraft settings."
+      },
+      "StarCraft": {
+        "verdict": "correct",
+        "reason": "Set across extraterrestrial worlds and space installations in the Koprulu sector."
+      },
+      "Stellaris": {
+        "verdict": "correct",
+        "reason": "A grand strategy game focused on interstellar empires and galactic exploration."
+      },
+      "Space Engineers": {
+        "verdict": "correct",
+        "reason": "Spacecraft, orbital construction, and planetary exploration are central to its sandbox."
+      },
+      "Returnal": {
+        "verdict": "correct",
+        "reason": "Set on the alien planet Atropos."
+      },
+      "Star Wars: Squadrons": {
+        "verdict": "correct",
+        "reason": "A released starfighter combat game whose principal setting is space."
+      },
+      "Everspace": {
+        "verdict": "correct",
+        "reason": "A space shooter centered on piloting a spacecraft through hostile sectors."
+      },
+      "Rebel Galaxy": {
+        "verdict": "correct",
+        "reason": "A space adventure built around spacecraft combat, exploration, and trade."
+      }
+    },
+    "issues": []
+  }
+}

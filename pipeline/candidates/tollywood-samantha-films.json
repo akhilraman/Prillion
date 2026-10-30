@@ -1,0 +1,661 @@
+{
+  "question": {
+    "id": "tollywood-samantha-films",
+    "category": "tollywood",
+    "prompt": "Name a movie featuring Samantha Ruth Prabhu, including cameos and special appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "vinnaithaandi-varuvaayaa",
+        "canonical": "Vinnaithaandi Varuvaayaa",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Nandini in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "ye-maaya-chesave",
+        "canonical": "Ye Maaya Chesave",
+        "aliases": [
+          "Ye Maya Chesave"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Jessie Thekekuthu in her Telugu lead-role debut.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "baana-kaathadi",
+        "canonical": "Baana Kaathadi",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Priya in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "moscowin-kavery",
+        "canonical": "Moscowin Kavery",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Kaveri Thangavelu in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "brindavanam",
+        "canonical": "Brindavanam",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Indu in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "dookudu",
+        "canonical": "Dookudu",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Prashanthi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "nadunisi-naaygal",
+        "canonical": "Nadunisi Naaygal",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha made a cameo as an asylum patient in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "ekk-deewana-tha",
+        "canonical": "Ekk Deewana Tha",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha made a cameo in this Hindi film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [
+          "Naan Ee"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Bindu in this bilingual film, listed as Eega in Telugu and Naan Ee in Tamil.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "neethaane-en-ponvasantham",
+        "canonical": "Neethaane En Ponvasantham",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Nithya Vasudevan in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "yeto-vellipoyindhi-manasu",
+        "canonical": "Yeto Vellipoyindhi Manasu",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Nithya Yelavarthi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "seethamma-vakitlo-sirimalle-chettu",
+        "canonical": "Seethamma Vakitlo Sirimalle Chettu",
+        "aliases": [
+          "SVSC"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Geetha in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "jabardasth",
+        "canonical": "Jabardasth",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Shreya in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "theeya-velai-seiyyanum-kumaru",
+        "canonical": "Theeya Velai Seiyyanum Kumaru",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha appeared as herself in a cameo in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [
+          "Attarintiki Daaredi"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Sashi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "ramayya-vasthavayya",
+        "canonical": "Ramayya Vasthavayya",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Akarsha in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "manam",
+        "canonical": "Manam",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Krishnaveni and Priya in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "autonagar-surya",
+        "canonical": "Autonagar Surya",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Sirisha in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "alludu-seenu",
+        "canonical": "Alludu Seenu",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Anjali in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "rabhasa",
+        "canonical": "Rabhasa",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Indu in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "anjaan",
+        "canonical": "Anjaan",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Jeeva in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "kaththi",
+        "canonical": "Kaththi",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Ankitha in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "s-o-satyamurthy",
+        "canonical": "S/O Satyamurthy",
+        "aliases": [
+          "Son of Satyamurthy",
+          "S/O Sathyamurthy"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Sameera / Subbalakshmi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "10-endrathukulla",
+        "canonical": "10 Endrathukulla",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Shakila and Gadgi Moi in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "thanga-magan",
+        "canonical": "Thanga Magan",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Yamuna Thamizh in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "bangalore-naatkal",
+        "canonical": "Bangalore Naatkal",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha made a cameo as Grace Francis in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "theri",
+        "canonical": "Theri",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Mithra Vijaykumar in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "24",
+        "canonical": "24",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Sathyabhama, also called Sathya, in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "brahmotsavam",
+        "canonical": "Brahmotsavam",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Brahma in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "a-aa",
+        "canonical": "A Aa",
+        "aliases": [
+          "A... Aa"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Anasuya Ramalingam in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "janatha-garage",
+        "canonical": "Janatha Garage",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Bujji in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "raju-gari-gadhi-2",
+        "canonical": "Raju Gari Gadhi 2",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Amrutha in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "mersal",
+        "canonical": "Mersal",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Tara in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Rama Lakshmi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Madhuravani in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "irumbu-thirai",
+        "canonical": "Irumbu Thirai",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Dr. Rathi Devi in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "seemaraja",
+        "canonical": "Seemaraja",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Sudhanthira Selvi, also called Silambu Selvi, in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "u-turn",
+        "canonical": "U Turn",
+        "aliases": [
+          "U-Turn"
+        ],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Rachana in this Tamil-Telugu bilingual film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "super-deluxe",
+        "canonical": "Super Deluxe",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Vaembu in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "majili",
+        "canonical": "Majili",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Sravani in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "oh-baby",
+        "canonical": "Oh! Baby",
+        "aliases": [
+          "Oh Baby"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited as Savithri / B. Swathi in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "manmadhudu-2",
+        "canonical": "Manmadhudu 2",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha made a cameo as an architecture student in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "jaanu",
+        "canonical": "Jaanu",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Janaki Devi, also called Jaanu, in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha made a special appearance as a dancer in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "kaathuvaakula-rendu-kaadhal",
+        "canonical": "Kaathuvaakula Rendu Kaadhal",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Khatija Begum in this Tamil film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "yashoda",
+        "canonical": "Yashoda",
+        "aliases": [],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played the title character in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "shaakuntalam",
+        "canonical": "Shaakuntalam",
+        "aliases": [
+          "Shakuntalam"
+        ],
+        "familiarity": 0.0174,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Shakuntala in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "kushi",
+        "canonical": "Kushi",
+        "aliases": [],
+        "familiarity": 0.0434,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha played Aradhya Rao in this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "subham",
+        "canonical": "Subham",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha is credited with a cameo as Maya Matasri and as a producer of this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      },
+      {
+        "id": "maa-inti-bangaaram",
+        "canonical": "Maa Inti Bangaaram",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Samantha as Swarna / Jhansi and as a producer of this Telugu film.",
+        "sourceIds": [
+          "samantha-ruth-prabhu-filmography"
+        ]
+      }
+    ],
+    "explanation": "These are the movies in the supplied filmography, spanning Telugu, Tamil and Hindi films and including listed credits through 2026. Cameos and special appearances count. Eega and its Tamil version, Naan Ee, count as the same answer.",
+    "sources": [
+      {
+        "id": "samantha-ruth-prabhu-filmography",
+        "title": "Samantha Ruth Prabhu filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Samantha_Ruth_Prabhu_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "8528add5976d2886",
+    "brief": "Name a movie starring Samantha.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "samantha-ruth-prabhu-filmography",
+        "version": "1382303063",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Vinnaithaandi Varuvaayaa": "2010 | Vinnaithaandi Varuvaayaa | Nandini | Tamil | Debut |",
+      "Ye Maaya Chesave": "2010 | Ye Maaya Chesave | Jessie Thekekuthu | Telugu | Debut as Lead |",
+      "Baana Kaathadi": "2010 | Baana Kaathadi | Priya | Tamil |",
+      "Moscowin Kavery": "2010 | Moscowin Kavery | Kaveri Thangavelu | Tamil |",
+      "Brindavanam": "2010 | Brindavanam | Indu | Telugu |",
+      "Dookudu": "2011 | Dookudu | Prashanthi | Telugu |",
+      "Nadunisi Naaygal": "2011 | Nadunisi Naaygal | Asylum patient | Tamil | Cameo appearance |",
+      "Ekk Deewana Tha": "2012 | Ekk Deewana Tha | Samantha | Hindi | Cameo appearance |",
+      "Eega": "2012 | Eega | Bindu | Telugu | Bilingual film |\n2012 | Naan Ee | Bindu | Tamil | Bilingual film |",
+      "Neethaane En Ponvasantham": "2012 | Neethaane En Ponvasantham | Nithya Vasudevan | Tamil |",
+      "Yeto Vellipoyindhi Manasu": "2012 | Yeto Vellipoyindhi Manasu | Nithya Yelavarthi | Telugu |",
+      "Seethamma Vakitlo Sirimalle Chettu": "2013 | Seethamma Vakitlo Sirimalle Chettu | Geetha | Telugu |",
+      "Jabardasth": "2013 | Jabardasth | Shreya | Telugu |",
+      "Theeya Velai Seiyyanum Kumaru": "2013 | Theeya Velai Seiyyanum Kumaru | Herself | Tamil | Cameo |",
+      "Attarintiki Daredi": "2013 | Attarintiki Daredi | Sashi | Telugu |",
+      "Ramayya Vasthavayya": "2013 | Ramayya Vasthavayya | Akarsha | Telugu |",
+      "Manam": "2014 | Manam | Krishnaveni and Priya | Telugu |",
+      "Autonagar Surya": "2014 | Autonagar Surya | Sirisha | Telugu |",
+      "Alludu Seenu": "2014 | Alludu Seenu | Anjali | Telugu |",
+      "Rabhasa": "2014 | Rabhasa | Indu | Telugu |",
+      "Anjaan": "2014 | Anjaan | Jeeva | Tamil |",
+      "Kaththi": "2014 | Kaththi | Ankitha | Tamil |",
+      "S/O Satyamurthy": "2015 | S/O Satyamurthy | Sameera / Subbalakshmi | Telugu |",
+      "10 Endrathukulla": "2015 | 10 Endrathukulla | Shakila and Gadgi Moi | Tamil |",
+      "Thanga Magan": "2015 | Thanga Magan | Yamuna Thamizh | Tamil |",
+      "Bangalore Naatkal": "2016 | Bangalore Naatkal | Grace Francis | Tamil | Cameo |",
+      "Theri": "2016 | Theri | Mithra Vijaykumar | Tamil |",
+      "24": "2016 | 24 | Sathyabhama \"Sathya\" | Tamil |",
+      "Brahmotsavam": "2016 | Brahmotsavam | Brahma | Telugu |",
+      "A Aa": "2016 | A Aa | Anasuya Ramalingam | Telugu |",
+      "Janatha Garage": "2016 | Janatha Garage | Bujji | Telugu |",
+      "Raju Gari Gadhi 2": "2017 | Raju Gari Gadhi 2 | Amrutha | Telugu |",
+      "Mersal": "2017 | Mersal | Tara | Tamil |",
+      "Rangasthalam": "2018 | Rangasthalam | Rama Lakshmi | Telugu |",
+      "Mahanati": "2018 | Mahanati | Madhuravani | Telugu |",
+      "Irumbu Thirai": "2018 | Irumbu Thirai | Dr. Rathi Devi | Tamil |",
+      "Seemaraja": "2018 | Seemaraja | Sudhanthira Selvi (Silambu Selvi) | Tamil |",
+      "U Turn": "2018 | U Turn | Rachana | Tamil Telugu | Bilingual film |",
+      "Super Deluxe": "2019 | Super Deluxe | Vaembu | Tamil |",
+      "Majili": "2019 | Majili | Sravani | Telugu |",
+      "Oh! Baby": "2019 | Oh! Baby | Savithri / B. Swathi \"Baby\" | Telugu |",
+      "Manmadhudu 2": "2019 | Manmadhudu 2 | Architecture student | Telugu | Cameo |",
+      "Jaanu": "2020 | Jaanu | Janaki Devi \"Jaanu\" | Telugu |",
+      "Pushpa: The Rise": "2021 | Pushpa: The Rise | Dancer | Telugu | Special appearance in the song \"Oo Antava Oo Oo Antava\" |",
+      "Kaathuvaakula Rendu Kaadhal": "2022 | Kaathuvaakula Rendu Kaadhal | Khatija Begum | Tamil |",
+      "Yashoda": "2022 | Yashoda | Yashoda | Telugu |",
+      "Shaakuntalam": "2023 | Shaakuntalam | Shakuntala | Telugu |",
+      "Kushi": "2023 | Kushi | Aradhya Rao | Telugu |",
+      "Subham": "2025 | Subham | Maya Matasri | Telugu | Cameo appearance; Also producer |",
+      "Maa Inti Bangaaram": "2026 | Maa Inti Bangaaram | Swarna / Jhansi | Telugu | Also producer |"
+    },
+    "issues": []
+  }
+}

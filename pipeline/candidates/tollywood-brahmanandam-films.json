@@ -1,0 +1,359 @@
+{
+  "question": {
+    "id": "tollywood-brahmanandam-films",
+    "category": "tollywood",
+    "prompt": "Name a film listed in Brahmanandam’s Telugu acting credits for 2014.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Brahmanandam as an illegal tenant at Satya's home in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "rough",
+        "canonical": "Rough",
+        "aliases": [],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rough appears in Brahmanandam's Telugu acting credits for 2014.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "joru",
+        "canonical": "Joru",
+        "aliases": [],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as PK in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "erra-bus",
+        "canonical": "Erra Bus",
+        "aliases": [
+          "Erra Buss"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Erra Bus appears in Brahmanandam's Telugu acting credits for 2014.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "yamaleela-2",
+        "canonical": "Yamaleela 2",
+        "aliases": [
+          "Yamaleela II"
+        ],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Chitragupta in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "jaihind-2",
+        "canonical": "Jaihind 2",
+        "aliases": [
+          "Jai Hind 2",
+          "Jaihind II"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jaihind 2 appears in Brahmanandam's Telugu acting credits for 2014.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "loukyam",
+        "canonical": "Loukyam",
+        "aliases": [
+          "Loukiyam"
+        ],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Sipana Sridhar, nicknamed Sippy, in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "aagadu",
+        "canonical": "Aagadu",
+        "aliases": [
+          "Agadu"
+        ],
+        "familiarity": 0.1385,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Delhi Suri in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "anukshanam",
+        "canonical": "Anukshanam",
+        "aliases": [],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Shailaja's brother in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "power",
+        "canonical": "Power",
+        "aliases": [],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as CI Animutyam in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "rabhasa",
+        "canonical": "Rabhasa",
+        "aliases": [
+          "Rabasa"
+        ],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Raju in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "boochamma-boochodu",
+        "canonical": "Boochamma Boochodu",
+        "aliases": [
+          "Buchamma Buchodu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Charan in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "geethanjali",
+        "canonical": "Geethanjali",
+        "aliases": [
+          "Geetanjali"
+        ],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Saitan Raj in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "alludu-seenu",
+        "canonical": "Alludu Seenu",
+        "aliases": [
+          "Alludu Srinu"
+        ],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Dimple in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "autonagar-surya",
+        "canonical": "Autonagar Surya",
+        "aliases": [
+          "Auto Nagar Surya"
+        ],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Super Mechanic Brahmi in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "manam",
+        "canonical": "Manam",
+        "aliases": [],
+        "familiarity": 0.1385,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Girish Karnad in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "amrutham-chandamamalo",
+        "canonical": "Amrutham Chandamamalo",
+        "aliases": [
+          "Amrutham Chandamama Lo"
+        ],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amrutham Chandamamalo appears in Brahmanandam's Telugu acting credits for 2014.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "laddu-babu",
+        "canonical": "Laddu Babu",
+        "aliases": [
+          "Laddoo Babu"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Laddu Babu appears in Brahmanandam's Telugu acting credits for 2014.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "race-gurram",
+        "canonical": "Race Gurram",
+        "aliases": [
+          "Racegurram"
+        ],
+        "familiarity": 0.1385,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Kill Bill Pandey in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "legend",
+        "canonical": "Legend",
+        "aliases": [],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Manikyam in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "malligadu-marriage-bureau",
+        "canonical": "Malligadu Marriage Bureau",
+        "aliases": [],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Chotu Bhai in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "pandavulu-pandavulu-tummeda",
+        "canonical": "Pandavulu Pandavulu Tummeda",
+        "aliases": [
+          "Pandavulu Pandavulu Thummeda"
+        ],
+        "familiarity": 0.0166,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as Bapure in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "heart-attack",
+        "canonical": "Heart Attack",
+        "aliases": [
+          "Heartattack"
+        ],
+        "familiarity": 0.0554,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits Brahmanandam as ISKCON Ramana in this 2014 Telugu film.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      },
+      {
+        "id": "aggi-ravva",
+        "canonical": "Aggi Ravva",
+        "aliases": [
+          "Aggiravva"
+        ],
+        "familiarity": 0.0042,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aggi Ravva appears in Brahmanandam's Telugu acting credits for 2014 as a partially reshot version.",
+        "sourceIds": [
+          "brahmanandam-filmography"
+        ]
+      }
+    ],
+    "explanation": "The supplied filmography lists 24 films in Brahmanandam’s Telugu acting credits for 2014, including Race Gurram, Manam, Aagadu and Loukyam.",
+    "sources": [
+      {
+        "id": "brahmanandam-filmography",
+        "title": "Brahmanandam filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brahmanandam_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "5af253a0fbbe208b",
+    "brief": "Name a film featuring Brahmanandam.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "brahmanandam-filmography",
+        "version": "1382603557",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Yevadu": "2014 | Yevadu | Illegal tenant at Satya's home | |",
+      "Rough": "2014 | Rough | | |",
+      "Joru": "2014 | Joru | PK | |",
+      "Erra Bus": "2014 | Erra Bus | | |",
+      "Yamaleela 2": "2014 | Yamaleela 2 | Chitragupta | |",
+      "Jaihind 2": "2014 | Jaihind 2 | | |",
+      "Loukyam": "2014 | Loukyam | Sipana Sridhar \"Sippy\" | |",
+      "Aagadu": "2014 | Aagadu | Delhi Suri | |",
+      "Anukshanam": "2014 | Anukshanam | Shailaja's brother | |",
+      "Power": "2014 | Power | CI Animutyam | |",
+      "Rabhasa": "2014 | Rabhasa | Raju | |",
+      "Boochamma Boochodu": "2014 | Boochamma Boochodu | Charan | |",
+      "Geethanjali": "2014 | Geethanjali | Saitan Raj | |",
+      "Alludu Seenu": "2014 | Alludu Seenu | Dimple | |",
+      "Autonagar Surya": "2014 | Autonagar Surya | \"Super Mechanic\" Brahmi | |",
+      "Manam": "2014 | Manam | Girish Karnad | |",
+      "Amrutham Chandamamalo": "2014 | Amrutham Chandamamalo | | |",
+      "Laddu Babu": "2014 | Laddu Babu | | |",
+      "Race Gurram": "2014 | Race Gurram | Kill Bill Pandey | |",
+      "Legend": "2014 | Legend | Manikyam | |",
+      "Malligadu Marriage Bureau": "2014 | Malligadu Marriage Bureau | Chotu Bhai | |",
+      "Pandavulu Pandavulu Tummeda": "2014 | Pandavulu Pandavulu Tummeda | Bapure | |",
+      "Heart Attack": "2014 | Heart Attack | ISKCON Ramana | |",
+      "Aggi Ravva": "2014 | Aggi Ravva | | partially reshot version |"
+    },
+    "issues": []
+  }
+}

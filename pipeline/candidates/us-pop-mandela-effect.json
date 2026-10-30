@@ -1,0 +1,235 @@
+{
+  "question": {
+    "id": "us-pop-mandela-effect",
+    "category": "us-pop",
+    "prompt": "Name a subject of a Mandela effect—something that groups of people famously misremember.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "nelson-mandela",
+        "canonical": "Nelson Mandela",
+        "aliases": [
+          "Mandela",
+          "Nelson Mandela's death",
+          "Mandela dying in prison"
+        ],
+        "familiarity": 0.1237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "People reported remembering Mandela dying in prison in the 1980s, although he actually died in 2013.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "the-berenstain-bears",
+        "canonical": "The Berenstain Bears",
+        "aliases": [
+          "Berenstain Bears",
+          "Berenstein Bears",
+          "The Berenstein Bears",
+          "Berenstain",
+          "Berenstein"
+        ],
+        "familiarity": 0.1237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies remembering the spelling as “Berenstein” as a shared false memory.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "looney-tunes",
+        "canonical": "Looney Tunes",
+        "aliases": [
+          "Looney Toons"
+        ],
+        "familiarity": 0.0495,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "People falsely remember the title being spelled “Looney Toons.”",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "fruit-of-the-loom",
+        "canonical": "Fruit of the Loom",
+        "aliases": [
+          "Fruit of the Loom logo",
+          "Fruit of the Loom cornucopia"
+        ],
+        "familiarity": 0.1237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists a cornucopia in the Fruit of the Loom logo as a shared false memory.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "darth-vader",
+        "canonical": "Darth Vader",
+        "aliases": [
+          "Luke, I am your father",
+          "Luke I am your father",
+          "The Empire Strikes Back",
+          "Vader",
+          "Star Wars"
+        ],
+        "familiarity": 0.1237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vader's line is remembered as “Luke, I am your father,” rather than “No, I am your father.”",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "mr-monopoly",
+        "canonical": "Mr. Monopoly",
+        "aliases": [
+          "Monopoly man",
+          "The Monopoly man",
+          "Monopoly",
+          "Monopoly monocle"
+        ],
+        "familiarity": 0.1237,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mr. Monopoly wearing a monocle is listed as a shared false memory.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "shazaam",
+        "canonical": "Shazaam",
+        "aliases": [
+          "Shazam",
+          "Sinbad genie movie",
+          "Sinbad",
+          "Sinbad's Shazaam"
+        ],
+        "familiarity": 0.0495,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "People remember a nonexistent 1990s movie called Shazaam starring Sinbad as a genie.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "burglar-emoji",
+        "canonical": "Burglar emoji",
+        "aliases": [
+          "Robber emoji",
+          "Thief emoji"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies the remembered existence and removal of a burglar emoji as a false-memory example.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "seahorse-emoji",
+        "canonical": "Seahorse emoji",
+        "aliases": [
+          "Sea horse emoji"
+        ],
+        "familiarity": 0.0148,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies the remembered existence and removal of a seahorse emoji as a false-memory example.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "snow-white-and-the-seven-dwarfs",
+        "canonical": "Snow White and the Seven Dwarfs",
+        "aliases": [
+          "Snow White",
+          "Mirror, Mirror on the wall",
+          "Mirror mirror",
+          "The Evil Queen",
+          "Magic Mirror"
+        ],
+        "familiarity": 0.0495,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Evil Queen's line is remembered as “Mirror, Mirror on the wall,” although she says “Magic Mirror on the wall.”",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "pikachu",
+        "canonical": "Pikachu",
+        "aliases": [
+          "Pikachu's tail",
+          "Pikachu black tail",
+          "Pikachu's black-tipped tail"
+        ],
+        "familiarity": 0.0495,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists Pikachu having a black tip on its tail as a shared false memory.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      },
+      {
+        "id": "bologna-station-clock",
+        "canonical": "Bologna station clock",
+        "aliases": [
+          "Bologna Centrale clock",
+          "Bologna railway station clock",
+          "Bologna clock"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Some people remember the clock remaining stopped since the 1980 bombing, although it was permanently stopped in 1996.",
+        "sourceIds": [
+          "false-memory"
+        ]
+      }
+    ],
+    "explanation": "The Mandela effect refers to a false memory shared by many people. Examples include altered brand spellings, misquoted movie dialogue, remembered visual details, and even a movie that never existed.",
+    "sources": [
+      {
+        "id": "false-memory",
+        "title": "False memory",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/False_memory",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A character, brand, film, quotation, event, or object explicitly identified as a shared false-memory example in the supplied article's “Mandela Effect” section."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "9b2271c4ea9d72f9",
+    "brief": "Name something many people famously misremember (a Mandela effect).",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "false-memory",
+        "version": "1382472142",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Nelson Mandela": "who reported having vivid and detailed memories of news coverage of South African anti-apartheid leader and President Nelson Mandela's (after whom the effect was named) dying in prison in the 1980s.",
+      "The Berenstain Bears": "The Berenstain Bears being spelled \"Berenstein\"",
+      "Looney Tunes": "Looney Tunes being spelled \"Looney Toons\"",
+      "Fruit of the Loom": "The logo of clothing brand Fruit of the Loom containing a cornucopia",
+      "Darth Vader": "Darth Vader telling Luke Skywalker, \"Luke, I am your father\" in the climax of The Empire Strikes Back (he instead says \"No, I am your father\")",
+      "Mr. Monopoly": "Mr. Monopoly wearing a monocle",
+      "Shazaam": "The existence of a 1990s movie titled Shazaam starring comedian Sinbad as a genie",
+      "Burglar emoji": "The existence (and removal) of a burglar or seahorse emoji",
+      "Seahorse emoji": "The existence (and removal) of a burglar or seahorse emoji",
+      "Snow White and the Seven Dwarfs": "The Evil Queen's saying \"Mirror, Mirror on the wall\" in Disney's 1937 movie Snow White and the Seven Dwarfs (she actually says \"Magic Mirror on the wall\")",
+      "Pikachu": "Pikachu from Pokémon having a black tip on the end of its tail",
+      "Bologna station clock": "The Bologna station clock in Italy was permanently stopped in 1996 to commemorate the time of a 1980 bombing; some locals have the collective false memory of it having been stopped since 1980"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Burglar emoji]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

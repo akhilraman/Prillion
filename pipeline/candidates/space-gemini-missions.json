@@ -1,0 +1,476 @@
+{
+  "question": {
+    "id": "space-gemini-missions",
+    "category": "space",
+    "prompt": "Name a NASA Gemini mission that flew, or an astronaut who flew on one.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "gemini-1",
+        "canonical": "Gemini 1",
+        "aliases": [
+          "Gemini I",
+          "Gemini One",
+          "GT-1"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 1 was the program's first uncrewed test flight.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-2",
+        "canonical": "Gemini 2",
+        "aliases": [
+          "Gemini II",
+          "Gemini Two",
+          "GT-2"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 2 was an uncrewed suborbital flight to test the heat shield.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-3",
+        "canonical": "Gemini 3",
+        "aliases": [
+          "Gemini III",
+          "Gemini Three",
+          "GT-3"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 3 was the first crewed Gemini flight.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-4",
+        "canonical": "Gemini 4",
+        "aliases": [
+          "Gemini IV",
+          "Gemini Four",
+          "GT-4"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 4 carried Ed White on the first American spacewalk.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-5",
+        "canonical": "Gemini 5",
+        "aliases": [
+          "Gemini V",
+          "Gemini Five",
+          "GT-5"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 5 flew an eight-day endurance mission in August 1965.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-6a",
+        "canonical": "Gemini 6A",
+        "aliases": [
+          "Gemini VI-A",
+          "Gemini 6-A",
+          "Gemini VI",
+          "Gemini 6",
+          "GT-6"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 6A accomplished a space rendezvous with Gemini 7 in December 1965.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-7",
+        "canonical": "Gemini 7",
+        "aliases": [
+          "Gemini VII",
+          "Gemini Seven",
+          "GT-7"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 7 flew in December 1965 and set a 14-day endurance record.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-8",
+        "canonical": "Gemini 8",
+        "aliases": [
+          "Gemini VIII",
+          "Gemini Eight",
+          "GT-8"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 8 achieved the first docking with an uncrewed Agena target vehicle.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-9a",
+        "canonical": "Gemini 9A",
+        "aliases": [
+          "Gemini IX-A",
+          "Gemini 9-A",
+          "Gemini IX",
+          "Gemini 9",
+          "GT-9"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 9A flew with Stafford and Cernan in June 1966.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-10",
+        "canonical": "Gemini 10",
+        "aliases": [
+          "Gemini X",
+          "Gemini Ten",
+          "GT-10"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 10 flew with Young and Collins in July 1966.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-11",
+        "canonical": "Gemini 11",
+        "aliases": [
+          "Gemini XI",
+          "Gemini Eleven",
+          "GT-11"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 11 flew with Conrad and Gordon in September 1966.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gemini-12",
+        "canonical": "Gemini 12",
+        "aliases": [
+          "Gemini XII",
+          "Gemini Twelve",
+          "GT-12"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini 12 was the final Gemini flight and carried Lovell and Aldrin.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "gordon-cooper",
+        "canonical": "Gordon Cooper",
+        "aliases": [
+          "Cooper"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gordon Cooper flew as command pilot of Gemini 5.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "virgil-gus-grissom",
+        "canonical": "Virgil \"Gus\" Grissom",
+        "aliases": [
+          "Gus Grissom",
+          "Virgil Grissom",
+          "Grissom"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gus Grissom flew as command pilot of Gemini 3.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "walter-m-schirra",
+        "canonical": "Walter M. Schirra",
+        "aliases": [
+          "Wally Schirra",
+          "Walter Schirra",
+          "Schirra"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walter M. Schirra flew as command pilot of Gemini 6A.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "neil-armstrong",
+        "canonical": "Neil Armstrong",
+        "aliases": [
+          "Armstrong"
+        ],
+        "familiarity": 0.1021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neil Armstrong flew as command pilot of Gemini 8.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "frank-borman",
+        "canonical": "Frank Borman",
+        "aliases": [
+          "Borman"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Borman flew as command pilot of Gemini 7.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "charles-pete-conrad",
+        "canonical": "Charles \"Pete\" Conrad",
+        "aliases": [
+          "Pete Conrad",
+          "Charles Conrad",
+          "Conrad"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pete Conrad flew on Gemini 5 and commanded Gemini 11.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "jim-lovell",
+        "canonical": "Jim Lovell",
+        "aliases": [
+          "James Lovell",
+          "Lovell"
+        ],
+        "familiarity": 0.1021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jim Lovell flew on Gemini 7 and commanded Gemini 12.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "james-mcdivitt",
+        "canonical": "James McDivitt",
+        "aliases": [
+          "Jim McDivitt",
+          "McDivitt"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James McDivitt flew as command pilot of Gemini 4.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "thomas-p-stafford",
+        "canonical": "Thomas P. Stafford",
+        "aliases": [
+          "Tom Stafford",
+          "Thomas Stafford",
+          "Stafford"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thomas P. Stafford flew on Gemini 6A and commanded Gemini 9A.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "ed-white",
+        "canonical": "Ed White",
+        "aliases": [
+          "Edward White",
+          "White"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ed White flew as pilot of Gemini 4.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "john-young",
+        "canonical": "John Young",
+        "aliases": [
+          "Young"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Young flew on Gemini 3 and commanded Gemini 10.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "edwin-buzz-aldrin",
+        "canonical": "Edwin \"Buzz\" Aldrin",
+        "aliases": [
+          "Buzz Aldrin",
+          "Edwin Aldrin",
+          "Aldrin"
+        ],
+        "familiarity": 0.1021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Buzz Aldrin flew as pilot of Gemini 12.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "eugene-cernan",
+        "canonical": "Eugene Cernan",
+        "aliases": [
+          "Gene Cernan",
+          "Cernan"
+        ],
+        "familiarity": 0.0409,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eugene Cernan flew as pilot of Gemini 9A.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "michael-collins",
+        "canonical": "Michael Collins",
+        "aliases": [
+          "Mike Collins",
+          "Collins"
+        ],
+        "familiarity": 0.1021,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Collins flew as pilot of Gemini 10.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "richard-f-gordon",
+        "canonical": "Richard F. Gordon",
+        "aliases": [
+          "Richard Gordon",
+          "Dick Gordon",
+          "Gordon"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard F. Gordon flew as pilot of Gemini 11.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      },
+      {
+        "id": "david-scott",
+        "canonical": "David Scott",
+        "aliases": [
+          "Dave Scott",
+          "Scott"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Scott flew as pilot of Gemini 8.",
+        "sourceIds": [
+          "project-gemini"
+        ]
+      }
+    ],
+    "explanation": "NASA flew 12 Gemini missions: two uncrewed test flights and ten crewed flights. Sixteen different astronauts flew in the program. Astronauts selected only for backup or canceled assignments do not count.",
+    "sources": [
+      {
+        "id": "project-gemini",
+        "title": "Project Gemini",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Project_Gemini",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "e02226101d4ea8b0",
+    "brief": "Name a NASA Gemini mission or one of its astronauts.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "project-gemini",
+        "version": "1378545943",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Gemini 1": "Gemini 1 | GLV-1 12556 | SC1 | Uncrewed | Uncrewed | 8–12 April 1964",
+      "Gemini 2": "Gemini 2 | Suborbital flight to test heat shield",
+      "Gemini 3": "Gemini 3 | First crewed Gemini flight, three orbits.",
+      "Gemini 4": "On Gemini 4, Ed White became the first American to make an extravehicular activity (EVA, or \"spacewalk\") on June 3, 1965.",
+      "Gemini 5": "Gemini 5 (August 21–29, 1965) demonstrated the 8-day endurance necessary for an Apollo lunar mission with the first use of fuel cells to generate its electrical power.",
+      "Gemini 6A": "Gemini 6A accomplished the first space rendezvous with its sister craft Gemini 7 in December 1965, with Gemini 7 setting a 14-day endurance record for its flight.",
+      "Gemini 7": "Gemini 6A accomplished the first space rendezvous with its sister craft Gemini 7 in December 1965, with Gemini 7 setting a 14-day endurance record for its flight.",
+      "Gemini 8": "Gemini 8 achieved the first space docking with an uncrewed Agena target vehicle.",
+      "Gemini 9A": "Gemini IX-A | GLV-9 12564 | SC9 | Stafford | Cernan | 3–6 June 1966",
+      "Gemini 10": "Gemini X | GLV-10 12565 | SC10 | Young | Collins | 18–21 July 1966",
+      "Gemini 11": "Gemini XI | GLV-11 12566 | SC11 | Conrad | Gordon | 12–15 September 1966",
+      "Gemini 12": "Gemini XII | GLV-12 12567 | SC12 | Lovell | Aldrin | 11–15 November 1966",
+      "Gordon Cooper": "Astronaut Group 1 | Gordon Cooper | USAF | Gemini 5 Command Pilot | Gemini 12 Command Pilot",
+      "Virgil \"Gus\" Grissom": "Astronaut Group 1 | Virgil \"Gus\" Grissom | USAF | Gemini 3 Command Pilot | Gemini 6A Command Pilot",
+      "Walter M. Schirra": "Astronaut Group 1 | Walter M. Schirra | USN | Gemini 6A Command Pilot | Gemini 3 Command Pilot",
+      "Neil Armstrong": "Astronaut Group 2 | Neil Armstrong | Civilian | Gemini 8 Command Pilot | Gemini 5 Command Pilot",
+      "Frank Borman": "Astronaut Group 2 | Frank Borman | USAF | Gemini 7 Command Pilot | Gemini 4 Command Pilot",
+      "Charles \"Pete\" Conrad": "Astronaut Group 2 | Charles \"Pete\" Conrad | USN | Gemini 11 Command Pilot | Gemini 8 Command Pilot",
+      "Jim Lovell": "Astronaut Group 2 | Jim Lovell | USN | Gemini 12 Command Pilot | Gemini 9A Command Pilot",
+      "James McDivitt": "Astronaut Group 2 | James McDivitt | USAF | Gemini 4 Command Pilot | —N/a",
+      "Thomas P. Stafford": "Astronaut Group 2 | Thomas P. Stafford | USAF | Gemini 9A Command Pilot | Gemini 3 Pilot",
+      "Ed White": "Astronaut Group 2 | Ed White | USAF | Gemini 4 Pilot | Gemini 7 Command Pilot",
+      "John Young": "Astronaut Group 2 | John Young | USN | Gemini 10 Command Pilot | Gemini 6A Pilot",
+      "Edwin \"Buzz\" Aldrin": "Astronaut Group 3 | Edwin \"Buzz\" Aldrin | USAF | Gemini 12 Pilot | Gemini 9A Pilot",
+      "Eugene Cernan": "Astronaut Group 3 | Eugene Cernan | USN | Gemini 9A Pilot | Gemini 12 Pilot",
+      "Michael Collins": "Astronaut Group 3 | Michael Collins | USAF | Gemini 10 Pilot | Gemini 7 Pilot",
+      "Richard F. Gordon": "Astronaut Group 3 | Richard F. Gordon | USN | Gemini 11 Pilot | Gemini 8 Pilot",
+      "David Scott": "Astronaut Group 3 | David Scott | USAF | Gemini 8 Pilot | —N/a"
+    },
+    "issues": []
+  }
+}

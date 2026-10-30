@@ -1,0 +1,385 @@
+{
+  "question": {
+    "id": "space-scifi-novels",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a science-fiction novel set in space or on another world.",
+    "answerSet": "open",
+    "criteria": "A published science-fiction novel with a substantial portion of its story set in outer space or on a world other than Earth; short stories and novellas do not count.",
+    "answers": [
+      {
+        "id": "dune",
+        "canonical": "Dune",
+        "aliases": [],
+        "familiarity": 0.0955,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Frank Herbert's novel centers on the desert planet Arrakis.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-martian",
+        "canonical": "The Martian",
+        "aliases": [
+          "Martian"
+        ],
+        "familiarity": 0.0955,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andy Weir's novel follows an astronaut stranded on Mars.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-hitchhiker-s-guide-to-the-galaxy",
+        "canonical": "The Hitchhiker's Guide to the Galaxy",
+        "aliases": [
+          "Hitchhiker's Guide to the Galaxy",
+          "HHGTTG",
+          "H2G2"
+        ],
+        "familiarity": 0.0955,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Douglas Adams's novel follows Arthur Dent's travels through space after Earth's destruction.",
+        "sourceIds": []
+      },
+      {
+        "id": "ender-s-game",
+        "canonical": "Ender's Game",
+        "aliases": [],
+        "familiarity": 0.0955,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Orson Scott Card's novel follows Ender Wiggin's military training at an orbital Battle School.",
+        "sourceIds": []
+      },
+      {
+        "id": "hyperion",
+        "canonical": "Hyperion",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dan Simmons's novel follows pilgrims traveling to the Time Tombs on the planet Hyperion.",
+        "sourceIds": []
+      },
+      {
+        "id": "leviathan-wakes",
+        "canonical": "Leviathan Wakes",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James S. A. Corey's novel begins The Expanse series with a mystery spanning the inhabited Solar System.",
+        "sourceIds": []
+      },
+      {
+        "id": "ringworld",
+        "canonical": "Ringworld",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Niven's novel follows an expedition to an enormous artificial ring surrounding a star.",
+        "sourceIds": []
+      },
+      {
+        "id": "rendezvous-with-rama",
+        "canonical": "Rendezvous with Rama",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arthur C. Clarke's novel follows astronauts exploring a vast alien spacecraft passing through the Solar System.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-left-hand-of-darkness",
+        "canonical": "The Left Hand of Darkness",
+        "aliases": [
+          "Left Hand of Darkness"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ursula K. Le Guin's novel follows an envoy's mission on the planet Gethen.",
+        "sourceIds": []
+      },
+      {
+        "id": "children-of-time",
+        "canonical": "Children of Time",
+        "aliases": [],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adrian Tchaikovsky's novel follows human space travelers and an evolving spider civilization on a terraformed planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-long-way-to-a-small-angry-planet",
+        "canonical": "The Long Way to a Small, Angry Planet",
+        "aliases": [
+          "Long Way to a Small Angry Planet"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Becky Chambers's novel follows the multispecies crew of the tunneling ship Wayfarer.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-player-of-games",
+        "canonical": "The Player of Games",
+        "aliases": [
+          "Player of Games"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iain M. Banks's novel follows a Culture game player competing in the interstellar Empire of Azad.",
+        "sourceIds": []
+      },
+      {
+        "id": "a-fire-upon-the-deep",
+        "canonical": "A Fire Upon the Deep",
+        "aliases": [
+          "Fire Upon the Deep"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vernor Vinge's novel combines an interstellar crisis with a struggle on a world inhabited by pack-minded aliens.",
+        "sourceIds": []
+      },
+      {
+        "id": "project-hail-mary",
+        "canonical": "Project Hail Mary",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andy Weir's novel follows a lone astronaut on an interstellar mission to save Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "foundation",
+        "canonical": "Foundation",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isaac Asimov's novel follows the establishment of a foundation on Terminus amid the decline of a galactic empire.",
+        "sourceIds": []
+      },
+      {
+        "id": "2001-a-space-odyssey",
+        "canonical": "2001: A Space Odyssey",
+        "aliases": [
+          "2001"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arthur C. Clarke's novel follows humanity's encounters with alien monoliths and a mission to Saturn.",
+        "sourceIds": []
+      },
+      {
+        "id": "starship-troopers",
+        "canonical": "Starship Troopers",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robert A. Heinlein's novel follows a Mobile Infantry soldier in an interstellar war.",
+        "sourceIds": []
+      },
+      {
+        "id": "old-man-s-war",
+        "canonical": "Old Man's War",
+        "aliases": [],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Scalzi's novel follows an elderly recruit who joins a military force fighting on other worlds.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-dispossessed",
+        "canonical": "The Dispossessed",
+        "aliases": [
+          "Dispossessed"
+        ],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ursula K. Le Guin's novel follows a physicist whose story spans the worlds Anarres and Urras.",
+        "sourceIds": []
+      },
+      {
+        "id": "dragon-s-egg",
+        "canonical": "Dragon's Egg",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robert L. Forward's novel depicts a civilization developing on the surface of a neutron star.",
+        "sourceIds": []
+      },
+      {
+        "id": "mission-of-gravity",
+        "canonical": "Mission of Gravity",
+        "aliases": [],
+        "familiarity": 0.0029,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hal Clement's novel follows an expedition across the high-gravity planet Mesklin.",
+        "sourceIds": []
+      },
+      {
+        "id": "solaris",
+        "canonical": "Solaris",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stanisław Lem's novel concerns scientists studying a mysterious ocean on the planet Solaris.",
+        "sourceIds": []
+      },
+      {
+        "id": "ancillary-justice",
+        "canonical": "Ancillary Justice",
+        "aliases": [],
+        "familiarity": 0.0115,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ann Leckie's novel follows Breq, the surviving human-bodied ancillary of a starship intelligence.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space-set science fiction ranges from interplanetary adventures to stories about societies on distant worlds. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "16956bb5142fa052",
+    "brief": "Name a science fiction novel set in space or on other worlds.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Dune": 3,
+      "The Martian": 3,
+      "The Hitchhiker's Guide to the Galaxy": 3,
+      "Ender's Game": 3,
+      "Project Hail Mary": 2,
+      "Foundation": 2,
+      "2001: A Space Odyssey": 2,
+      "Hyperion": 3,
+      "Leviathan Wakes": 3,
+      "Starship Troopers": 2,
+      "Ringworld": 3,
+      "Rendezvous with Rama": 3,
+      "The Left Hand of Darkness": 3,
+      "Children of Time": 3,
+      "The Long Way to a Small, Angry Planet": 3,
+      "Old Man's War": 2,
+      "The Player of Games": 3,
+      "The Dispossessed": 2,
+      "A Fire Upon the Deep": 3,
+      "Dragon's Egg": 2,
+      "Mission of Gravity": 2,
+      "Solaris": 2,
+      "Ancillary Justice": 2
+    },
+    "droppedForVotes": {
+      "Red Rising": 1,
+      "A Memory Called Empire": 1,
+      "Gateway": 1,
+      "Downbelow Station": 1,
+      "Revelation Space": 1,
+      "House of Suns": 1,
+      "Red Mars": 1,
+      "Raft": 1,
+      "The Forever War": 1,
+      "Consider Phlebas": 1,
+      "The Quantum Thief": 1,
+      "A Darkling Sea": 1,
+      "Nophek Gloss": 1,
+      "The Algebraist": 1
+    },
+    "verdicts": {
+      "Dune": {
+        "verdict": "correct",
+        "reason": "Frank Herbert's published science-fiction novel is set primarily on Arrakis."
+      },
+      "The Martian": {
+        "verdict": "correct",
+        "reason": "Andy Weir's novel takes place substantially on Mars."
+      },
+      "The Hitchhiker's Guide to the Galaxy": {
+        "verdict": "correct",
+        "reason": "Douglas Adams's novel features extensive travel through space and visits to other worlds."
+      },
+      "Ender's Game": {
+        "verdict": "correct",
+        "reason": "Orson Scott Card's novel is substantially set at an orbital Battle School and other off-Earth locations."
+      },
+      "Hyperion": {
+        "verdict": "correct",
+        "reason": "Dan Simmons's novel centers on pilgrims on the planet Hyperion."
+      },
+      "Leviathan Wakes": {
+        "verdict": "correct",
+        "reason": "James S. A. Corey's novel takes place across spacecraft, stations, and settlements in the Solar System."
+      },
+      "Ringworld": {
+        "verdict": "correct",
+        "reason": "Larry Niven's novel centers on exploration of an artificial ring-shaped world around a star."
+      },
+      "Rendezvous with Rama": {
+        "verdict": "correct",
+        "reason": "Arthur C. Clarke's novel follows exploration of an alien spacecraft in the Solar System."
+      },
+      "The Left Hand of Darkness": {
+        "verdict": "correct",
+        "reason": "Ursula K. Le Guin's novel is set on the planet Gethen."
+      },
+      "Children of Time": {
+        "verdict": "correct",
+        "reason": "Adrian Tchaikovsky's novel is substantially set aboard spacecraft and on a terraformed planet."
+      },
+      "The Long Way to a Small, Angry Planet": {
+        "verdict": "correct",
+        "reason": "Becky Chambers's novel follows the Wayfarer's crew through space and alien settlements."
+      },
+      "The Player of Games": {
+        "verdict": "correct",
+        "reason": "Iain M. Banks's novel takes place in the Culture and the interstellar Empire of Azad."
+      },
+      "A Fire Upon the Deep": {
+        "verdict": "correct",
+        "reason": "Vernor Vinge's novel includes substantial interstellar travel and events on the Tines' world."
+      },
+      "Project Hail Mary": {
+        "verdict": "correct",
+        "reason": "Andy Weir's novel is substantially set aboard a spacecraft on a mission to another star system."
+      },
+      "Foundation": {
+        "verdict": "correct",
+        "reason": "Isaac Asimov's published science-fiction novel is set on Terminus and other worlds of a galactic empire."
+      },
+      "2001: A Space Odyssey": {
+        "verdict": "correct",
+        "reason": "Arthur C. Clarke's novel includes extensive space travel, with its main expedition bound for Saturn."
+      },
+      "Starship Troopers": {
+        "verdict": "correct",
+        "reason": "Robert A. Heinlein's novel includes substantial action in space and on extraterrestrial worlds."
+      },
+      "Old Man's War": {
+        "verdict": "correct",
+        "reason": "John Scalzi's novel follows military service in space and on other worlds."
+      },
+      "The Dispossessed": {
+        "verdict": "correct",
+        "reason": "Ursula K. Le Guin's novel is set on Anarres and Urras, both extraterrestrial worlds."
+      },
+      "Dragon's Egg": {
+        "verdict": "correct",
+        "reason": "Robert L. Forward's novel centers on life on a neutron star and human observers in space."
+      },
+      "Mission of Gravity": {
+        "verdict": "correct",
+        "reason": "Hal Clement's novel is set on the high-gravity planet Mesklin."
+      },
+      "Solaris": {
+        "verdict": "correct",
+        "reason": "Stanisław Lem's novel takes place primarily at a research station above the alien ocean of Solaris."
+      },
+      "Ancillary Justice": {
+        "verdict": "correct",
+        "reason": "Ann Leckie's novel is substantially set on alien worlds, spacecraft, and a space station."
+      }
+    },
+    "issues": []
+  }
+}

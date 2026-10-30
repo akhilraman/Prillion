@@ -1,0 +1,491 @@
+{
+  "question": {
+    "id": "space-movies",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a movie set mostly or partly in outer space.",
+    "answerSet": "open",
+    "criteria": "Any released feature film with scenes set in outer space, including aboard spacecraft or space stations, counts. Animated films count too.",
+    "answers": [
+      {
+        "id": "star-wars",
+        "canonical": "Star Wars",
+        "aliases": [
+          "A New Hope",
+          "Star Wars: A New Hope",
+          "Star Wars Episode IV",
+          "Star Wars Episode IV: A New Hope"
+        ],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The original Star Wars follows a galactic adventure involving spacecraft and the Death Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "interstellar",
+        "canonical": "Interstellar",
+        "aliases": [],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Interstellar follows astronauts who travel through a wormhole in search of a habitable world.",
+        "sourceIds": []
+      },
+      {
+        "id": "gravity",
+        "canonical": "Gravity",
+        "aliases": [],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gravity follows astronauts struggling to survive after a disaster in Earth orbit.",
+        "sourceIds": []
+      },
+      {
+        "id": "alien",
+        "canonical": "Alien",
+        "aliases": [],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alien takes place largely aboard the commercial spacecraft Nostromo.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-martian",
+        "canonical": "The Martian",
+        "aliases": [
+          "Martian"
+        ],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Martian combines an astronaut's survival on Mars with scenes aboard an interplanetary spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "guardians-of-the-galaxy",
+        "canonical": "Guardians of the Galaxy",
+        "aliases": [
+          "Guardians of the Galaxy Vol. 1",
+          "GOTG"
+        ],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guardians of the Galaxy follows a team of outlaws traveling through space.",
+        "sourceIds": []
+      },
+      {
+        "id": "wall-e",
+        "canonical": "WALL-E",
+        "aliases": [],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "WALL-E follows a robot from Earth to a passenger spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "2001-a-space-odyssey",
+        "canonical": "2001: A Space Odyssey",
+        "aliases": [
+          "2001",
+          "A Space Odyssey"
+        ],
+        "familiarity": 0.067,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "2001: A Space Odyssey includes journeys aboard spacecraft and a mission toward Jupiter.",
+        "sourceIds": []
+      },
+      {
+        "id": "aliens",
+        "canonical": "Aliens",
+        "aliases": [
+          "Alien 2"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aliens follows a mission to an extraterrestrial colony aboard the spacecraft Sulaco.",
+        "sourceIds": []
+      },
+      {
+        "id": "apollo-13",
+        "canonical": "Apollo 13",
+        "aliases": [
+          "Apollo Thirteen"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apollo 13 dramatizes the real lunar mission and its astronauts' struggle to return to Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "spaceballs",
+        "canonical": "Spaceballs",
+        "aliases": [],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spaceballs is a science-fiction parody featuring spacecraft and interplanetary travel.",
+        "sourceIds": []
+      },
+      {
+        "id": "galaxy-quest",
+        "canonical": "Galaxy Quest",
+        "aliases": [],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Galaxy Quest sends actors from a fictional television series aboard a real alien spacecraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "event-horizon",
+        "canonical": "Event Horizon",
+        "aliases": [],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Event Horizon follows a rescue crew investigating a spacecraft that has mysteriously returned.",
+        "sourceIds": []
+      },
+      {
+        "id": "sunshine",
+        "canonical": "Sunshine",
+        "aliases": [
+          "Sunshine (2007)"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunshine follows a spacecraft crew on a mission to reignite the Sun.",
+        "sourceIds": []
+      },
+      {
+        "id": "moon",
+        "canonical": "Moon",
+        "aliases": [
+          "Moon (2009)"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moon is set primarily at a lunar base and includes spacecraft travel.",
+        "sourceIds": []
+      },
+      {
+        "id": "silent-running",
+        "canonical": "Silent Running",
+        "aliases": [],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Silent Running centers on a spacecraft carrying preserved forests from Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "dark-star",
+        "canonical": "Dark Star",
+        "aliases": [],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dark Star follows the crew of a spacecraft assigned to destroy unstable planets.",
+        "sourceIds": []
+      },
+      {
+        "id": "europa-report",
+        "canonical": "Europa Report",
+        "aliases": [],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Europa Report depicts a crewed spacecraft mission to Jupiter's moon Europa.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-empire-strikes-back",
+        "canonical": "The Empire Strikes Back",
+        "aliases": [
+          "Star Wars Episode V",
+          "Empire Strikes Back",
+          "Star Wars Episode V: The Empire Strikes Back"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Empire Strikes Back includes spacecraft journeys and a pursuit through an asteroid field.",
+        "sourceIds": []
+      },
+      {
+        "id": "return-of-the-jedi",
+        "canonical": "Return of the Jedi",
+        "aliases": [
+          "Star Wars Episode VI",
+          "Star Wars Episode VI: Return of the Jedi"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Return of the Jedi includes a space battle around the second Death Star.",
+        "sourceIds": []
+      },
+      {
+        "id": "armageddon",
+        "canonical": "Armageddon",
+        "aliases": [],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Armageddon sends a drilling team into space to stop an asteroid from hitting Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-fifth-element",
+        "canonical": "The Fifth Element",
+        "aliases": [
+          "Fifth Element",
+          "The 5th Element"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Fifth Element includes interplanetary travel and scenes aboard a space cruise liner.",
+        "sourceIds": []
+      },
+      {
+        "id": "passengers",
+        "canonical": "Passengers",
+        "aliases": [
+          "Passengers (2016)"
+        ],
+        "familiarity": 0.0268,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Passengers takes place aboard a spacecraft carrying people to a distant colony.",
+        "sourceIds": []
+      },
+      {
+        "id": "ad-astra",
+        "canonical": "Ad Astra",
+        "aliases": [],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ad Astra follows an astronaut on a journey through the solar system.",
+        "sourceIds": []
+      },
+      {
+        "id": "treasure-planet",
+        "canonical": "Treasure Planet",
+        "aliases": [],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Treasure Planet reimagines Treasure Island as an animated adventure aboard spacefaring ships.",
+        "sourceIds": []
+      },
+      {
+        "id": "star-trek-ii-the-wrath-of-khan",
+        "canonical": "Star Trek II: The Wrath of Khan",
+        "aliases": [
+          "The Wrath of Khan",
+          "Wrath of Khan",
+          "Star Trek 2",
+          "Star Trek II"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Star Trek II: The Wrath of Khan features a confrontation between spacecraft commanded by Kirk and Khan.",
+        "sourceIds": []
+      },
+      {
+        "id": "solaris",
+        "canonical": "Solaris",
+        "aliases": [
+          "Solyaris"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solaris is the title of films centered on a space station orbiting a mysterious planet.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-black-hole",
+        "canonical": "The Black Hole",
+        "aliases": [
+          "Black Hole",
+          "The Black Hole 1979"
+        ],
+        "familiarity": 0.008,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Black Hole follows space explorers who discover a spacecraft near a black hole.",
+        "sourceIds": []
+      },
+      {
+        "id": "outland",
+        "canonical": "Outland",
+        "aliases": [
+          "Outland 1981"
+        ],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Outland is a science-fiction thriller set at a mining colony on Jupiter's moon Io.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space settings appear in science-fiction adventures, comedies, animated films and dramatizations of real missions. A movie does not need to take place entirely in space to qualify.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "35cb8c65a58415a5",
+    "brief": "Name a movie set mostly or partly in outer space.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Star Wars": 3,
+      "Interstellar": 3,
+      "Gravity": 3,
+      "Alien": 3,
+      "The Martian": 3,
+      "Guardians of the Galaxy": 3,
+      "WALL-E": 3,
+      "2001: A Space Odyssey": 3,
+      "The Empire Strikes Back": 2,
+      "Return of the Jedi": 2,
+      "Aliens": 3,
+      "Apollo 13": 3,
+      "Armageddon": 2,
+      "Spaceballs": 3,
+      "Galaxy Quest": 3,
+      "The Fifth Element": 2,
+      "Passengers": 2,
+      "Event Horizon": 3,
+      "Sunshine": 3,
+      "Ad Astra": 2,
+      "Treasure Planet": 2,
+      "Moon": 3,
+      "Silent Running": 3,
+      "Dark Star": 3,
+      "Europa Report": 3,
+      "Star Trek II: The Wrath of Khan": 2,
+      "Solaris": 2,
+      "The Black Hole": 2,
+      "Outland": 2
+    },
+    "droppedForVotes": {
+      "Star Trek: The Motion Picture": 1,
+      "Life": 1,
+      "Aniara": 1,
+      "High Life": 1,
+      "Star Trek": 1,
+      "Prospect": 1,
+      "Dune": 1,
+      "Titan A.E.": 1,
+      "The Last Starfighter": 1
+    },
+    "verdicts": {
+      "Star Wars": {
+        "verdict": "correct",
+        "reason": "Includes numerous scenes aboard spacecraft and the Death Star."
+      },
+      "Interstellar": {
+        "verdict": "correct",
+        "reason": "Features astronauts traveling through space aboard the Endurance."
+      },
+      "Gravity": {
+        "verdict": "correct",
+        "reason": "Set largely in Earth orbit, including aboard spacecraft and space stations."
+      },
+      "Alien": {
+        "verdict": "correct",
+        "reason": "Set largely aboard the commercial spacecraft Nostromo."
+      },
+      "The Martian": {
+        "verdict": "correct",
+        "reason": "Includes scenes aboard the interplanetary spacecraft Hermes."
+      },
+      "Guardians of the Galaxy": {
+        "verdict": "correct",
+        "reason": "Features extensive spacecraft travel and action in outer space."
+      },
+      "WALL-E": {
+        "verdict": "correct",
+        "reason": "Much of the film takes place aboard the spacecraft Axiom."
+      },
+      "2001: A Space Odyssey": {
+        "verdict": "correct",
+        "reason": "Includes extensive sequences aboard spacecraft and a space station."
+      },
+      "Aliens": {
+        "verdict": "correct",
+        "reason": "Includes scenes aboard the spacecraft Sulaco."
+      },
+      "Apollo 13": {
+        "verdict": "correct",
+        "reason": "Depicts the Apollo 13 mission, including extensive scenes in space."
+      },
+      "Spaceballs": {
+        "verdict": "correct",
+        "reason": "Features spacecraft journeys and encounters in outer space."
+      },
+      "Galaxy Quest": {
+        "verdict": "correct",
+        "reason": "The characters travel through space aboard an alien spacecraft."
+      },
+      "Event Horizon": {
+        "verdict": "correct",
+        "reason": "Set aboard spacecraft near Neptune."
+      },
+      "Sunshine": {
+        "verdict": "correct",
+        "reason": "Follows a spacecraft mission to the Sun."
+      },
+      "Moon": {
+        "verdict": "correct",
+        "reason": "Set at a lunar base and includes spacecraft sequences."
+      },
+      "Silent Running": {
+        "verdict": "correct",
+        "reason": "Set largely aboard a spacecraft carrying Earth's remaining forests."
+      },
+      "Dark Star": {
+        "verdict": "correct",
+        "reason": "Follows a spacecraft crew on a planet-demolition mission."
+      },
+      "Europa Report": {
+        "verdict": "correct",
+        "reason": "Depicts an interplanetary spacecraft mission to Europa."
+      },
+      "The Empire Strikes Back": {
+        "verdict": "correct",
+        "reason": "Includes spacecraft travel, space battles, and an asteroid-field pursuit."
+      },
+      "Return of the Jedi": {
+        "verdict": "correct",
+        "reason": "Includes an extensive space battle around the second Death Star."
+      },
+      "Armageddon": {
+        "verdict": "correct",
+        "reason": "Features shuttle flights and a mission to an asteroid in space."
+      },
+      "The Fifth Element": {
+        "verdict": "correct",
+        "reason": "Includes space travel and scenes aboard the cruise liner Fhloston Paradise."
+      },
+      "Passengers": {
+        "verdict": "correct",
+        "reason": "Set aboard the interstellar spacecraft Avalon."
+      },
+      "Ad Astra": {
+        "verdict": "correct",
+        "reason": "Includes spacecraft journeys through the solar system."
+      },
+      "Treasure Planet": {
+        "verdict": "correct",
+        "reason": "An animated feature with extensive travel aboard spacefaring ships."
+      },
+      "Star Trek II: The Wrath of Khan": {
+        "verdict": "correct",
+        "reason": "Features extensive scenes aboard starships and battles in space."
+      },
+      "Solaris": {
+        "verdict": "correct",
+        "reason": "Both the 1972 and 2002 adaptations include scenes aboard a space station."
+      },
+      "The Black Hole": {
+        "verdict": "correct",
+        "reason": "Follows spacecraft crews encountering a vessel near a black hole."
+      },
+      "Outland": {
+        "verdict": "correct",
+        "reason": "Set at a mining colony on Io and includes spacecraft arrival and departure sequences."
+      }
+    },
+    "issues": []
+  }
+}

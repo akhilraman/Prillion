@@ -1,0 +1,272 @@
+{
+  "question": {
+    "id": "us-pop-kanye-songs",
+    "category": "us-pop",
+    "prompt": "Name a Kanye West song from Graduation, including bonus tracks and remixes.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "barry-bonds",
+        "canonical": "Barry Bonds",
+        "aliases": [],
+        "familiarity": 0.0146,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography lists Barry Bonds as a Graduation song featuring Lil Wayne.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "big-brother",
+        "canonical": "Big Brother",
+        "aliases": [],
+        "familiarity": 0.0488,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Big Brother is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "bittersweet-poetry",
+        "canonical": "Bittersweet Poetry",
+        "aliases": [],
+        "familiarity": 0.0146,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bittersweet Poetry is listed on the Japanese edition of Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "can-t-tell-me-nothing",
+        "canonical": "Can't Tell Me Nothing",
+        "aliases": [
+          "Cant Tell Me Nothing"
+        ],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Can't Tell Me Nothing is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "can-t-tell-me-nothing-remix",
+        "canonical": "Can't Tell Me Nothing (Remix)",
+        "aliases": [
+          "Can't Tell Me Nothing Remix",
+          "Cant Tell Me Nothing Remix"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The discography separately lists the Jeezy remix of Can't Tell Me Nothing under Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "champion",
+        "canonical": "Champion",
+        "aliases": [],
+        "familiarity": 0.0488,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Champion is listed as a Graduation song.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "drunk-and-hot-girls",
+        "canonical": "Drunk and Hot Girls",
+        "aliases": [
+          "Drunk & Hot Girls"
+        ],
+        "familiarity": 0.0146,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drunk and Hot Girls is listed as a Graduation song featuring Mos Def.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "everything-i-am",
+        "canonical": "Everything I Am",
+        "aliases": [],
+        "familiarity": 0.0488,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Everything I Am is listed as a Graduation song featuring DJ Premier.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "flashing-lights",
+        "canonical": "Flashing Lights",
+        "aliases": [],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Flashing Lights is listed as a Graduation song featuring Dwele.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "the-glory",
+        "canonical": "The Glory",
+        "aliases": [
+          "Glory"
+        ],
+        "familiarity": 0.0146,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Glory is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "good-life",
+        "canonical": "Good Life",
+        "aliases": [],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Good Life is listed as a Graduation song featuring T-Pain.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "good-morning",
+        "canonical": "Good Morning",
+        "aliases": [],
+        "familiarity": 0.0488,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Good Morning is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "good-night",
+        "canonical": "Good Night",
+        "aliases": [
+          "Goodnight"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Good Night is listed on the iTunes, UK and Japanese editions of Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "homecoming",
+        "canonical": "Homecoming",
+        "aliases": [
+          "Home Coming"
+        ],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Homecoming is listed as a Graduation song featuring Chris Martin.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "i-wonder",
+        "canonical": "I Wonder",
+        "aliases": [],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "I Wonder is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "stronger",
+        "canonical": "Stronger",
+        "aliases": [],
+        "familiarity": 0.122,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stronger is listed as originally released on Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "stronger-andrew-dawson-remix",
+        "canonical": "Stronger (Andrew Dawson Remix)",
+        "aliases": [
+          "Stronger Andrew Dawson Remix"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Andrew Dawson remix of Stronger is separately listed under Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      },
+      {
+        "id": "stronger-a-trak-remix",
+        "canonical": "Stronger (A-Trak Remix)",
+        "aliases": [
+          "Stronger A-Trak Remix",
+          "Stronger A Trak Remix"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The A-Trak remix of Stronger is separately listed under Graduation.",
+        "sourceIds": [
+          "list-of-songs-recorded-by-kanye-west"
+        ]
+      }
+    ],
+    "explanation": "These songs are listed in the provided discography as originally released on Graduation or one of its special editions. Bonus tracks and separately listed remixes count.",
+    "sources": [
+      {
+        "id": "list-of-songs-recorded-by-kanye-west",
+        "title": "List of songs recorded by Kanye West",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Kanye_West",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "803e37a742ced221",
+    "brief": "Name a Kanye West song.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-songs-recorded-by-kanye-west",
+        "version": "1381978966",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Barry Bonds": "\"Barry Bonds\" | Kanye West featuring Lil Wayne | Kanye West Dwayne Carter, Jr. Norman Landsberg Felix Pappalardi John Ventura Leslie Weinstein | Graduation | 2007",
+      "Big Brother": "\"Big Brother\" | Kanye West | Kanye WestAldrin Davis | Graduation | 2007",
+      "Bittersweet Poetry": "\"Bittersweet Poetry\" | Kanye West featuring John Mayer | Kanye West John Mayer | Graduation (Japanese edition) | 2007",
+      "Can't Tell Me Nothing": "\"Can't Tell Me Nothing\" | Kanye West | Kanye West | Graduation | 2007",
+      "Can't Tell Me Nothing (Remix)": "\"Can't Tell Me Nothing (Remix)\" | Kanye West featuring Jeezy | Kanye West Jeezy | Graduation | 2007",
+      "Champion": "\"Champion\" | Kanye West | Kanye West Walter Becker Donald Fagen | Graduation | 2007",
+      "Drunk and Hot Girls": "\"Drunk and Hot Girls\" | Kanye West featuring Mos Def | Kanye West Michael Karoli Jaki Liebezeit Irmin Schmidt Holger Schuering Kenji Suzuki | Graduation | 2007",
+      "Everything I Am": "\"Everything I Am\" | Kanye West featuring DJ Premier | Kanye West George Clinton, Jr. Prince Phillip Mitchell Carlton Ridenhour Eric Sadler Hank Shocklee | Graduation | 2007",
+      "Flashing Lights": "\"Flashing Lights\" | Kanye West featuring Dwele | Kanye West Eric Hudson | Graduation | 2007",
+      "The Glory": "\"The Glory\" | Kanye West | Kanye West Norman Landsberg Laura Nyro Felix Pappalardi Dante Smith John Ventura Leslie Weinstein | Graduation | 2007",
+      "Good Life": "\"Good Life\" | Kanye West featuring T-Pain | Kanye West Faheem Najm James Ingram Quincy Jones John Stephens | Graduation | 2007",
+      "Good Morning": "\"Good Morning\" | Kanye West | Kanye West Elton John Bernie Taupin | Graduation | 2007",
+      "Good Night": "\"Good Night\" | Kanye West featuring Al Be Back and Mos Def | Kanye West Albert Daniels Dante Smith | Graduation (iTunes, UK and Japanese editions) | 2007",
+      "Homecoming": "\"Homecoming\" | Kanye West featuring Chris Martin | Kanye West Warryn Campbell Chris Martin | Graduation | 2007",
+      "I Wonder": "\"I Wonder\" | Kanye West | Kanye West Labi Siffre | Graduation | 2007",
+      "Stronger": "\"Stronger\" | Kanye West | Kanye West Thomas Banghalter Edwin Birdsong Guy-Manuel de Homem-Christo | Graduation | 2007",
+      "Stronger (Andrew Dawson Remix)": "\"Stronger (Andrew Dawson Remix)\" | Kanye West featuring Andrew Dawson | Kanye West Thomas Banghalter Edwin Birdsong Guy-Manuel de Homem-Christo | Graduation | 2007",
+      "Stronger (A-Trak Remix)": "\"Stronger (A-Trak Remix)\" | Kanye West featuring A-Trak | Kanye West Thomas Banghalter Edwin Birdsong Guy-Manuel de Homem-Christo | Graduation | 2007"
+    },
+    "issues": []
+  }
+}

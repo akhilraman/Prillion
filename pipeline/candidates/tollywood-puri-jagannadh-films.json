@@ -1,0 +1,539 @@
+{
+  "question": {
+    "id": "tollywood-puri-jagannadh-films",
+    "category": "tollywood",
+    "prompt": "Name a film directed by Puri Jagannadh, including unreleased films listed in his filmography.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "badri",
+        "canonical": "Badri",
+        "aliases": [],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Badri is listed as a Telugu film he directed in 2000.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "bachi",
+        "canonical": "Bachi",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bachi appears in his directing filmography for 2000.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "yuvaraja",
+        "canonical": "Yuvaraja",
+        "aliases": [
+          "Yuva Raja"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yuvaraja is listed as a Kannada film he directed in 2001.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "itlu-sravani-subramanyam",
+        "canonical": "Itlu Sravani Subramanyam",
+        "aliases": [
+          "Itlu Shravani Subramanyam",
+          "Itlu Sravani Subramaniam"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Itlu Sravani Subramanyam appears in his directing filmography for 2001.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "appu",
+        "canonical": "Appu",
+        "aliases": [],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Appu is listed as a Kannada film he directed in 2002.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "idiot",
+        "canonical": "Idiot",
+        "aliases": [],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Idiot is listed in his directing filmography as a 2002 remake of Appu.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "amma-nanna-o-tamila-ammayi",
+        "canonical": "Amma Nanna O Tamila Ammayi",
+        "aliases": [
+          "Amma Nanna O Tamil Ammayi"
+        ],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amma Nanna O Tamila Ammayi appears in his directing filmography for 2003.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "sivamani",
+        "canonical": "Sivamani",
+        "aliases": [
+          "Shivamani"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sivamani is listed as a Telugu film he directed in 2003.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "andhrawala",
+        "canonical": "Andhrawala",
+        "aliases": [
+          "Andhrawala"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andhrawala appears in his directing filmography for 2004.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "shart-the-challenge",
+        "canonical": "Shart: The Challenge",
+        "aliases": [
+          "Shart",
+          "Shart The Challenge"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shart: The Challenge is listed as a Hindi film he directed in 2004.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "143",
+        "canonical": "143",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "143 appears in his directing filmography for 2004.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "super",
+        "canonical": "Super",
+        "aliases": [],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Super is listed as a Telugu film he directed in 2005.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "pokiri",
+        "canonical": "Pokiri",
+        "aliases": [],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pokiri appears in his directing filmography for 2006.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "desamuduru",
+        "canonical": "Desamuduru",
+        "aliases": [
+          "Desa Muduru"
+        ],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Desamuduru is listed as a Telugu film he directed in 2007.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "chirutha",
+        "canonical": "Chirutha",
+        "aliases": [
+          "Chiruta"
+        ],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chirutha appears in his directing filmography for 2007.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "bujjigadu",
+        "canonical": "Bujjigadu",
+        "aliases": [
+          "Bujji Gadu"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bujjigadu is listed as a Telugu film he directed in 2008.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "neninthe",
+        "canonical": "Neninthe",
+        "aliases": [
+          "Neninte"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neninthe appears in his directing filmography for 2008.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "ek-niranjan",
+        "canonical": "Ek Niranjan",
+        "aliases": [],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ek Niranjan is listed as a Telugu film he directed in 2009.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "golimaar",
+        "canonical": "Golimaar",
+        "aliases": [
+          "Golimar"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Golimaar appears in his directing filmography for 2010.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "nenu-naa-rakshasi",
+        "canonical": "Nenu Naa Rakshasi",
+        "aliases": [
+          "Nenu Na Rakshasi"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nenu Naa Rakshasi is listed as a Telugu film he directed in 2011.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "bbuddah-hoga-terra-baap",
+        "canonical": "Bbuddah... Hoga Terra Baap",
+        "aliases": [
+          "Bbuddah Hoga Terra Baap",
+          "Buddha Hoga Tera Baap",
+          "Buddah Hoga Tera Baap"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bbuddah... Hoga Terra Baap appears in his directing filmography as a 2011 Hindi film.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "businessman",
+        "canonical": "Businessman",
+        "aliases": [
+          "Business Man"
+        ],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Businessman is listed as a Telugu film he directed in 2012.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "devudu-chesina-manushulu",
+        "canonical": "Devudu Chesina Manushulu",
+        "aliases": [
+          "Devudu Chesina Manushulu"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devudu Chesina Manushulu appears in his directing filmography for 2012.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "cameraman-gangatho-rambabu",
+        "canonical": "Cameraman Gangatho Rambabu",
+        "aliases": [
+          "Cameraman Ganga Tho Rambabu",
+          "Cameraman Gangato Rambabu"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cameraman Gangatho Rambabu is listed as a Telugu film he directed in 2012.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "iddarammayilatho",
+        "canonical": "Iddarammayilatho",
+        "aliases": [
+          "Iddarammayilato"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iddarammayilatho appears in his directing filmography for 2013.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "heart-attack",
+        "canonical": "Heart Attack",
+        "aliases": [
+          "Heartattack"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Heart Attack is listed as a Telugu film he directed in 2014.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "temper",
+        "canonical": "Temper",
+        "aliases": [],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Temper appears in his directing filmography for 2015.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "jyothi-lakshmi",
+        "canonical": "Jyothi Lakshmi",
+        "aliases": [
+          "Jyothi Laxmi",
+          "Jyoti Lakshmi"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jyothi Lakshmi is listed as a Telugu film he directed in 2015.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "loafer",
+        "canonical": "Loafer",
+        "aliases": [],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Loafer appears in his directing filmography for 2015.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "ism",
+        "canonical": "Ism",
+        "aliases": [],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ism is listed as a Telugu film he directed in 2016.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "rogue",
+        "canonical": "Rogue",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rogue appears in his directing filmography as a 2017 Telugu–Kannada bilingual film.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "paisa-vasool",
+        "canonical": "Paisa Vasool",
+        "aliases": [
+          "Paisa Vasul"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paisa Vasool is listed as a Telugu film he directed in 2017.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "mehbooba",
+        "canonical": "Mehbooba",
+        "aliases": [
+          "Mehboobha"
+        ],
+        "familiarity": 0.0074,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mehbooba appears in his directing filmography for 2018.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "ismart-shankar",
+        "canonical": "iSmart Shankar",
+        "aliases": [
+          "Ismart Shankar",
+          "Smart Shankar"
+        ],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "iSmart Shankar is listed as a Telugu film he directed in 2019.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "liger",
+        "canonical": "Liger",
+        "aliases": [],
+        "familiarity": 0.0615,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Liger appears in his directing filmography as a 2022 Telugu–Hindi bilingual film.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "double-ismart",
+        "canonical": "Double iSmart",
+        "aliases": [
+          "Double Ismart",
+          "Double Smart"
+        ],
+        "familiarity": 0.0246,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Double iSmart is listed as a Telugu film he directed in 2024.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      },
+      {
+        "id": "slumdog-33-temple-road",
+        "canonical": "Slumdog: 33 Temple Road",
+        "aliases": [
+          "Slumdog 33 Temple Road",
+          "Slumdog"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Slumdog: 33 Temple Road is listed in his directing filmography for 2026 with an unreleased marker and a post-production note.",
+        "sourceIds": [
+          "puri-jagannadh"
+        ]
+      }
+    ],
+    "explanation": "Puri Jagannadh's directing filmography includes Telugu, Kannada and Hindi films, from Badri (2000) to the unreleased Slumdog: 33 Temple Road. Films he only produced, wrote or appeared in do not count.",
+    "sources": [
+      {
+        "id": "puri-jagannadh",
+        "title": "Puri Jagannadh",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Puri_Jagannadh",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "7dab9e9c55395c67",
+    "brief": "Name a film directed by Puri Jagannadh.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "puri-jagannadh",
+        "version": "1381866771",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Badri": "2000 | Badri | Telugu | |",
+      "Bachi": "2000 | Bachi | Telugu | |",
+      "Yuvaraja": "2001 | Yuvaraja | Kannada | Remake of Thammudu (1999), which itself was based on Jo Jeeta Wohi Sikandar (1992), which in turn was inspired by Breaking Away (1979) |",
+      "Itlu Sravani Subramanyam": "2001 | Itlu Sravani Subramanyam | Telugu | Nandi Award for Best Story Writer |",
+      "Appu": "2002 | Appu | Kannada | Cinema Express Award for Best Director – Kannada Cinema Express Award for Best Film – Kannada |",
+      "Idiot": "2002 | Idiot | Telugu | Remake of Appu |",
+      "Amma Nanna O Tamila Ammayi": "2003 | Amma Nanna O Tamila Ammayi | Telugu | Nandi Award for Best Dialogue Writer |",
+      "Sivamani": "2003 | Sivamani | Telugu | |",
+      "Andhrawala": "2004 | Andhrawala | Telugu | |",
+      "Shart: The Challenge": "2004 | Shart: The Challenge | Hindi | Remake of Badri |",
+      "143": "2004 | 143 | Telugu | |",
+      "Super": "2005 | Super | Telugu | |",
+      "Pokiri": "2006 | Pokiri | Telugu | Filmfare Award for Best Director – Telugu Santosham Best Director Award |",
+      "Desamuduru": "2007 | Desamuduru | Telugu | |",
+      "Chirutha": "2007 | Chirutha | Telugu | |",
+      "Bujjigadu": "2008 | Bujjigadu | Telugu | |",
+      "Neninthe": "2008 | Neninthe | Telugu | Nandi Award for Best Dialogue Writer |",
+      "Ek Niranjan": "2009 | Ek Niranjan | Telugu | |",
+      "Golimaar": "2010 | Golimaar | Telugu | |",
+      "Nenu Naa Rakshasi": "2011 | Nenu Naa Rakshasi | Telugu | |",
+      "Bbuddah... Hoga Terra Baap": "2011 | Bbuddah... Hoga Terra Baap | Hindi | |",
+      "Businessman": "2012 | Businessman | Telugu | Santosham Best Director Award Nominated—SIIMA Award for Best Director – Telugu |",
+      "Devudu Chesina Manushulu": "2012 | Devudu Chesina Manushulu | Telugu | |",
+      "Cameraman Gangatho Rambabu": "2012 | Cameraman Gangatho Rambabu | Telugu | |",
+      "Iddarammayilatho": "2013 | Iddarammayilatho | Telugu | |",
+      "Heart Attack": "2014 | Heart Attack | Telugu | |",
+      "Temper": "2015 | Temper | Telugu | |",
+      "Jyothi Lakshmi": "2015 | Jyothi Lakshmi | Telugu | |",
+      "Loafer": "2015 | Loafer | Telugu | |",
+      "Ism": "2016 | Ism | Telugu | Also playback singer |",
+      "Rogue": "2017 | Rogue | Telugu Kannada | Bilingual film |",
+      "Paisa Vasool": "2017 | Paisa Vasool | Telugu | |",
+      "Mehbooba": "2018 | Mehbooba | Telugu | |",
+      "iSmart Shankar": "2019 | iSmart Shankar | Telugu | |",
+      "Liger": "2022 | Liger | Telugu Hindi | Bilingual film |",
+      "Double iSmart": "2024 | Double iSmart | Telugu | |",
+      "Slumdog: 33 Temple Road": "2026 | Slumdog: 33 Temple Road † | Telugu | Post-Production |"
+    },
+    "issues": []
+  }
+}

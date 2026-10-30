@@ -1,0 +1,425 @@
+{
+  "question": {
+    "id": "us-pop-nba-defensive-player",
+    "category": "us-pop",
+    "prompt": "Name a player who has won the NBA Defensive Player of the Year Award.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "sidney-moncrief",
+        "canonical": "Sidney Moncrief",
+        "aliases": [
+          "Moncrief"
+        ],
+        "familiarity": 0.0079,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moncrief won the first two awards, for the 1982–83 and 1983–84 seasons.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "mark-eaton",
+        "canonical": "Mark Eaton",
+        "aliases": [
+          "Eaton"
+        ],
+        "familiarity": 0.0079,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eaton won the award in 1985 and 1989.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "alvin-robertson",
+        "canonical": "Alvin Robertson",
+        "aliases": [
+          "Robertson"
+        ],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robertson won the award for the 1985–86 season with San Antonio.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "michael-cooper",
+        "canonical": "Michael Cooper",
+        "aliases": [
+          "Cooper"
+        ],
+        "familiarity": 0.0079,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cooper won the award for the 1986–87 season with the Lakers.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "Jordan",
+          "MJ"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan won the award for the 1987–88 season with Chicago.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "dennis-rodman",
+        "canonical": "Dennis Rodman",
+        "aliases": [
+          "Rodman"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rodman won the award in 1990 and 1991.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "david-robinson",
+        "canonical": "David Robinson",
+        "aliases": [
+          "Robinson"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robinson won the award for the 1991–92 season with San Antonio.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "hakeem-olajuwon",
+        "canonical": "Hakeem Olajuwon",
+        "aliases": [
+          "Olajuwon",
+          "Hakeem"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Olajuwon won the award in 1993 and 1994.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "dikembe-mutombo",
+        "canonical": "Dikembe Mutombo",
+        "aliases": [
+          "Mutombo"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mutombo won the award four times, in 1995, 1997, 1998 and 2001.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "gary-payton",
+        "canonical": "Gary Payton",
+        "aliases": [
+          "Payton"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Payton won the award for the 1995–96 season with Seattle.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "alonzo-mourning",
+        "canonical": "Alonzo Mourning",
+        "aliases": [
+          "Mourning"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mourning won the award in 1999 and 2000.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "ben-wallace",
+        "canonical": "Ben Wallace",
+        "aliases": [
+          "Wallace"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wallace won the award four times with Detroit.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "ron-artest",
+        "canonical": "Ron Artest",
+        "aliases": [
+          "Artest"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Artest won the award for the 2003–04 season with Indiana.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "marcus-camby",
+        "canonical": "Marcus Camby",
+        "aliases": [
+          "Camby"
+        ],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Camby won the award for the 2006–07 season with Denver.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "kevin-garnett",
+        "canonical": "Kevin Garnett",
+        "aliases": [
+          "Garnett",
+          "KG"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Garnett won the award for the 2007–08 season with Boston.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "dwight-howard",
+        "canonical": "Dwight Howard",
+        "aliases": [
+          "Howard"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Howard won three consecutive awards from 2009 through 2011.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "tyson-chandler",
+        "canonical": "Tyson Chandler",
+        "aliases": [
+          "Chandler"
+        ],
+        "familiarity": 0.0079,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandler won the award for the 2011–12 season with New York.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "marc-gasol",
+        "canonical": "Marc Gasol",
+        "aliases": [
+          "Gasol"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gasol won the award for the 2012–13 season with Memphis.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "joakim-noah",
+        "canonical": "Joakim Noah",
+        "aliases": [
+          "Noah"
+        ],
+        "familiarity": 0.0079,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Noah won the award for the 2013–14 season with Chicago.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "kawhi-leonard",
+        "canonical": "Kawhi Leonard",
+        "aliases": [
+          "Leonard",
+          "Kawhi"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leonard won the award in 2015 and 2016.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "draymond-green",
+        "canonical": "Draymond Green",
+        "aliases": [
+          "Draymond",
+          "Green"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Green won the award for the 2016–17 season with Golden State.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "rudy-gobert",
+        "canonical": "Rudy Gobert",
+        "aliases": [
+          "Gobert"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gobert won the award in 2018, 2019, 2021 and 2024.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "giannis-antetokounmpo",
+        "canonical": "Giannis Antetokounmpo",
+        "aliases": [
+          "Giannis",
+          "Antetokounmpo"
+        ],
+        "familiarity": 0.0655,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antetokounmpo won the award for the 2019–20 season with Milwaukee.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "marcus-smart",
+        "canonical": "Marcus Smart",
+        "aliases": [
+          "Smart"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smart won the award for the 2021–22 season with Boston.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "jaren-jackson-jr",
+        "canonical": "Jaren Jackson Jr.",
+        "aliases": [
+          "Jaren Jackson Jr",
+          "Jaren Jackson",
+          "JJJ"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jackson won the award for the 2022–23 season with Memphis.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "evan-mobley",
+        "canonical": "Evan Mobley",
+        "aliases": [
+          "Mobley"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mobley is listed as the winner for the 2024–25 season with Cleveland.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      },
+      {
+        "id": "victor-wembanyama",
+        "canonical": "Victor Wembanyama",
+        "aliases": [
+          "Wembanyama",
+          "Wemby"
+        ],
+        "familiarity": 0.0262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wembanyama is listed as the winner for the 2025–26 season with San Antonio.",
+        "sourceIds": [
+          "nba-defensive-player-of-the-year"
+        ]
+      }
+    ],
+    "explanation": "The award has honored the NBA's top regular-season defensive player since 1982–83. The supplied winners list runs through 2025–26 and includes 27 different players. Dikembe Mutombo, Ben Wallace and Rudy Gobert share the record with four wins each.",
+    "sources": [
+      {
+        "id": "nba-defensive-player-of-the-year",
+        "title": "NBA Defensive Player of the Year",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_Defensive_Player_of_the_Year",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "cf48ee51cb87be8d",
+    "brief": "Name a player who has won the NBA Defensive Player of the Year Award.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-defensive-player-of-the-year",
+        "version": "1375234415",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Sidney Moncrief": "1982–83 | Sidney Moncrief* | Shooting guard | United States | Milwaukee Bucks",
+      "Mark Eaton": "2 | Mark Eaton | Utah Jazz | 1985, 1989",
+      "Alvin Robertson": "1985–86 | Alvin Robertson | Shooting guard | United States | San Antonio Spurs",
+      "Michael Cooper": "1986–87 | Michael Cooper* | Shooting guard | United States | Los Angeles Lakers",
+      "Michael Jordan": "1987–88 | Michael Jordan* | Shooting guard | United States | Chicago Bulls",
+      "Dennis Rodman": "2 | Dennis Rodman | Detroit Pistons | 1990, 1991",
+      "David Robinson": "1991–92 | David Robinson* | Center | United States | San Antonio Spurs (2)",
+      "Hakeem Olajuwon": "2 | Hakeem Olajuwon | Houston Rockets | 1993, 1994",
+      "Dikembe Mutombo": "4 | Dikembe Mutombo | Denver Nuggets, Atlanta Hawks (2), Philadelphia 76ers | 1995, 1997, 1998, 2001",
+      "Gary Payton": "1995–96 | Gary Payton* | Point guard | United States | Seattle SuperSonics",
+      "Alonzo Mourning": "2 | Alonzo Mourning | Miami Heat | 1999, 2000",
+      "Ben Wallace": "4 | Ben Wallace | Detroit Pistons | 2002, 2003, 2005, 2006",
+      "Ron Artest": "2003–04 | Ron Artest | Small forward | United States | Indiana Pacers",
+      "Marcus Camby": "2006–07 | Marcus Camby | Center | United States | Denver Nuggets (2)",
+      "Kevin Garnett": "2007–08 | Kevin Garnett* | Power forward | United States | Boston Celtics",
+      "Dwight Howard": "3 | Dwight Howard | Orlando Magic | 2009, 2010, 2011",
+      "Tyson Chandler": "2011–12 | Tyson Chandler | Center | United States | New York Knicks",
+      "Marc Gasol": "2012–13 | Marc Gasol | Center | Spain | Memphis Grizzlies",
+      "Joakim Noah": "2013–14 | Joakim Noah | Center | France | Chicago Bulls (2)",
+      "Kawhi Leonard": "2 | Kawhi Leonard | San Antonio Spurs | 2015, 2016",
+      "Draymond Green": "2016–17 | Draymond Green^ | Power forward | United States | Golden State Warriors",
+      "Rudy Gobert": "4 | Rudy Gobert | Utah Jazz (3), Minnesota Timberwolves | 2018, 2019, 2021, 2024",
+      "Giannis Antetokounmpo": "2019–20 | Giannis Antetokounmpo^ | Power forward | Greece | Milwaukee Bucks (3)",
+      "Marcus Smart": "2021–22 | Marcus Smart^ | Point guard | United States | Boston Celtics (2)",
+      "Jaren Jackson Jr.": "2022–23 | Jaren Jackson Jr.^ | Power forward | United States | Memphis Grizzlies (2)",
+      "Evan Mobley": "2024–25 | Evan Mobley^ | Power forward | United States | Cleveland Cavaliers",
+      "Victor Wembanyama": "2025–26 | Victor Wembanyama^ † | Center | France | San Antonio Spurs (5)"
+    },
+    "issues": []
+  }
+}

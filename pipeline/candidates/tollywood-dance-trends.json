@@ -1,0 +1,268 @@
+{
+  "question": {
+    "id": "tollywood-dance-trends",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film song or signature dance step that became a viral reel or dance trend on social media.",
+    "answerSet": "open",
+    "criteria": "Any song or identifiable signature dance step from a Telugu-language film, including bilingual films, with a documented social-media dance or reel trend qualifies.",
+    "answers": [
+      {
+        "id": "naatu-naatu",
+        "canonical": "Naatu Naatu",
+        "aliases": [
+          "Natu Natu",
+          "Naatu Naatu step",
+          "Nacho Nacho"
+        ],
+        "familiarity": 0.133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from RRR inspired a worldwide dance challenge built around its synchronized choreography.",
+        "sourceIds": []
+      },
+      {
+        "id": "srivalli",
+        "canonical": "Srivalli",
+        "aliases": [
+          "Srivalli step",
+          "Srivalli hook step",
+          "Srivalli walk"
+        ],
+        "familiarity": 0.133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Pushpa: The Rise became a dance trend featuring Allu Arjun's sliding hook step.",
+        "sourceIds": []
+      },
+      {
+        "id": "butta-bomma",
+        "canonical": "Butta Bomma",
+        "aliases": [
+          "Butta Bomma step"
+        ],
+        "familiarity": 0.133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Ala Vaikunthapurramuloo became a viral dance trend recreated by fans and celebrities.",
+        "sourceIds": []
+      },
+      {
+        "id": "saami-saami",
+        "canonical": "Saami Saami",
+        "aliases": [
+          "Sami Sami",
+          "Saami Saami step"
+        ],
+        "familiarity": 0.0532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Pushpa: The Rise became a popular dance trend centered on Rashmika Mandanna's hook step.",
+        "sourceIds": []
+      },
+      {
+        "id": "kurchi-madathapetti",
+        "canonical": "Kurchi Madathapetti",
+        "aliases": [
+          "Kurchi Madathapetti step",
+          "Kurchi Madathabetti"
+        ],
+        "familiarity": 0.0532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Guntur Kaaram inspired a viral dance trend using its energetic choreography.",
+        "sourceIds": []
+      },
+      {
+        "id": "ramuloo-ramulaa",
+        "canonical": "Ramuloo Ramulaa",
+        "aliases": [
+          "Ramulo Ramula",
+          "Ramuloo Ramula",
+          "Ramullo Ramulla"
+        ],
+        "familiarity": 0.0532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Ala Vaikunthapurramuloo inspired social-media recreations of its choreography.",
+        "sourceIds": []
+      },
+      {
+        "id": "bullet-song",
+        "canonical": "Bullet Song",
+        "aliases": [
+          "The Bullet Song",
+          "Bullet",
+          "Come On Baby"
+        ],
+        "familiarity": 0.0532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from the Telugu–Tamil bilingual film The Warriorr became a popular reel dance trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "mind-block",
+        "canonical": "Mind Block",
+        "aliases": [
+          "Mind Block step"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Sarileru Neekevvaru inspired a social-media dance challenge using its hook step.",
+        "sourceIds": []
+      },
+      {
+        "id": "oo-antava",
+        "canonical": "Oo Antava",
+        "aliases": [
+          "Oo Antava Mawa",
+          "Oo Antava Oo Oo Antava",
+          "O Antava",
+          "Oo Antava Mava"
+        ],
+        "familiarity": 0.133,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Pushpa: The Rise inspired numerous social-media dance recreations.",
+        "sourceIds": []
+      },
+      {
+        "id": "chuttamalle",
+        "canonical": "Chuttamalle",
+        "aliases": [
+          "Chuttamale"
+        ],
+        "familiarity": 0.0532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Devara: Part 1 became a popular soundtrack for reels and dance recreations.",
+        "sourceIds": []
+      },
+      {
+        "id": "seeti-maar",
+        "canonical": "Seeti Maar",
+        "aliases": [
+          "Seeti Mar"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Duvvada Jagannadham inspired dance covers and social-media recreations of Allu Arjun's choreography.",
+        "sourceIds": []
+      },
+      {
+        "id": "daavudi",
+        "canonical": "Daavudi",
+        "aliases": [
+          "Davudi"
+        ],
+        "familiarity": 0.016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Devara: Part 1 inspired dance reels recreating its fast-paced choreography.",
+        "sourceIds": []
+      },
+      {
+        "id": "ranu-ranu",
+        "canonical": "Ranu Ranu",
+        "aliases": [
+          "Ranu Ranu Antune",
+          "Ranu Ranu Antune Chinnado",
+          "Ranu Ranu Antune Chinnadho"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This song from Jayam gained renewed social-media popularity when its refrain appeared in Ra Ra Reddy from Macherla Niyojakavargam.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has inspired dance challenges worldwide, from the synchronized footwork of “Naatu Naatu” to the sliding step in “Srivalli.” Older songs have also found new audiences through reels and remixes.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "5a166f3df1ab853b",
+    "brief": "Name a Telugu film song or dance step that became a viral reel or dance trend on social media.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Naatu Naatu": 3,
+      "Srivalli": 3,
+      "Oo Antava": 2,
+      "Butta Bomma": 3,
+      "Saami Saami": 3,
+      "Kurchi Madathapetti": 3,
+      "Chuttamalle": 2,
+      "Ramuloo Ramulaa": 3,
+      "Bullet Song": 3,
+      "Seeti Maar": 2,
+      "Mind Block": 3,
+      "Daavudi": 2,
+      "Ranu Ranu": 2
+    },
+    "droppedForVotes": {
+      "Ra Ra Reddy": 1,
+      "Dimaak Kharaab": 1,
+      "Ringa Ringa": 1,
+      "Vachinde": 1,
+      "Saranga Dariya": 1,
+      "Chamkeela Angeelesi": 1,
+      "Radhika": 1,
+      "Tillu Anna DJ Pedithe": 1,
+      "Inkem Inkem Inkem Kaavaale": 1,
+      "Nee Kannu Neeli Samudram": 1,
+      "Dandakadiyal": 1,
+      "Kissik": 1,
+      "Peelings": 1,
+      "Ma Ma Mahesha": 1
+    },
+    "verdicts": {
+      "Naatu Naatu": {
+        "verdict": "correct",
+        "reason": "The RRR song's synchronized hook step became a widely documented international dance challenge."
+      },
+      "Srivalli": {
+        "verdict": "correct",
+        "reason": "Allu Arjun's sliding hook step from Pushpa: The Rise went viral, with numerous celebrity and fan recreations."
+      },
+      "Butta Bomma": {
+        "verdict": "correct",
+        "reason": "The Ala Vaikunthapurramuloo song became a major dance trend, notably recreated by cricketer David Warner."
+      },
+      "Saami Saami": {
+        "verdict": "correct",
+        "reason": "Rashmika Mandanna's hook step from Pushpa: The Rise became a widely recreated social-media dance."
+      },
+      "Kurchi Madathapetti": {
+        "verdict": "correct",
+        "reason": "The Guntur Kaaram song's choreography became a widely documented viral dance and reel trend."
+      },
+      "Ramuloo Ramulaa": {
+        "verdict": "correct",
+        "reason": "The Ala Vaikunthapurramuloo song inspired viral dance recreations, including videos by David Warner and his family."
+      },
+      "Bullet Song": {
+        "verdict": "correct",
+        "reason": "The song from the Telugu–Tamil bilingual The Warriorr became a popular dance-reel trend."
+      },
+      "Mind Block": {
+        "verdict": "correct",
+        "reason": "The Sarileru Neekevvaru song inspired hook-step recreations, including a widely circulated David Warner dance video."
+      },
+      "Oo Antava": {
+        "verdict": "correct",
+        "reason": "The Pushpa: The Rise song generated numerous viral dance reels and choreography recreations."
+      },
+      "Chuttamalle": {
+        "verdict": "correct",
+        "reason": "The Devara: Part 1 song became a popular reel soundtrack and inspired widespread dance recreations."
+      },
+      "Seeti Maar": {
+        "verdict": "correct",
+        "reason": "The original Telugu song from Duvvada Jagannadham inspired social-media dance covers recreating Allu Arjun's choreography."
+      },
+      "Daavudi": {
+        "verdict": "correct",
+        "reason": "The Devara: Part 1 song's energetic choreography inspired viral dance reels and hook-step recreations."
+      },
+      "Ranu Ranu": {
+        "verdict": "correct",
+        "reason": "The Jayam song's refrain received renewed viral attention through its incorporation into Ra Ra Reddy from Macherla Niyojakavargam."
+      }
+    },
+    "issues": []
+  }
+}

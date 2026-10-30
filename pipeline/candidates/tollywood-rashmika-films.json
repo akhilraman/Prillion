@@ -1,0 +1,402 @@
+{
+  "question": {
+    "id": "tollywood-rashmika-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Rashmika Mandanna has acted.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "kirik-party",
+        "canonical": "Kirik Party",
+        "aliases": [],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna made her film debut as Saanvi Joseph in Kirik Party.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "anjani-putra",
+        "canonical": "Anjani Putra",
+        "aliases": [
+          "Anjaniputra"
+        ],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Geetha in the Kannada film Anjani Putra.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "chamak",
+        "canonical": "Chamak",
+        "aliases": [],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Kushi in the Kannada film Chamak.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "chalo",
+        "canonical": "Chalo",
+        "aliases": [],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played L. Karthika in the Telugu film Chalo.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "geetha-govindam",
+        "canonical": "Geetha Govindam",
+        "aliases": [
+          "Geeta Govindam"
+        ],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Geetha in Geetha Govindam.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "devadas",
+        "canonical": "Devadas",
+        "aliases": [
+          "Devadas 2018"
+        ],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Pooja in the Telugu film Devadas.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "yajamana",
+        "canonical": "Yajamana",
+        "aliases": [],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Kaveri in the Kannada film Yajamana.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "dear-comrade",
+        "canonical": "Dear Comrade",
+        "aliases": [],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Aparna, also called Lilly, in Dear Comrade.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [
+          "Sarileru Neekevvaru"
+        ],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Samskruthi in Sarileru Neekevvaru.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "bheeshma",
+        "canonical": "Bheeshma",
+        "aliases": [
+          "Bheeshma"
+        ],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Chaithra in the Telugu film Bheeshma.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "pogaru",
+        "canonical": "Pogaru",
+        "aliases": [],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Geetha in the Kannada film Pogaru.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "sulthan",
+        "canonical": "Sulthan",
+        "aliases": [
+          "Sultan"
+        ],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Rukmani in the Tamil film Sulthan.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Srivalli in Pushpa: The Rise.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "aadavallu-meeku-johaarlu",
+        "canonical": "Aadavallu Meeku Johaarlu",
+        "aliases": [
+          "Aadavallu Meeku Joharlu",
+          "Adavallu Meeku Joharlu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Aadhya in Aadavallu Meeku Johaarlu.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "sita-ramam",
+        "canonical": "Sita Ramam",
+        "aliases": [
+          "Seetha Ramam"
+        ],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Afreen / Waheeda in Sita Ramam.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "goodbye",
+        "canonical": "Goodbye",
+        "aliases": [
+          "Good Bye"
+        ],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Tara Bhalla in the Hindi film Goodbye.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "varisu",
+        "canonical": "Varisu",
+        "aliases": [
+          "Vaarisu"
+        ],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Divya in the Tamil film Varisu.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "mission-majnu",
+        "canonical": "Mission Majnu",
+        "aliases": [],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Nasreen Hussain in Mission Majnu.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "animal",
+        "canonical": "Animal",
+        "aliases": [],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Geetanjali Singh in Animal.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule",
+          "Pushpa 2 The Rule"
+        ],
+        "familiarity": 0.088,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna reprised the role of Srivalli in Pushpa 2: The Rule.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "chhaava",
+        "canonical": "Chhaava",
+        "aliases": [
+          "Chhava",
+          "Chaava"
+        ],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Maharani Yesubai in Chhaava.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "sikandar",
+        "canonical": "Sikandar",
+        "aliases": [],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Saisri Rajkot in Sikandar.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "kuberaa",
+        "canonical": "Kuberaa",
+        "aliases": [
+          "Kubera"
+        ],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Sameera in the Telugu-Tamil bilingual film Kuberaa.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "thamma",
+        "canonical": "Thamma",
+        "aliases": [],
+        "familiarity": 0.0106,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Tadaka / Tarika in Thamma.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "the-girlfriend",
+        "canonical": "The Girlfriend",
+        "aliases": [
+          "Girlfriend"
+        ],
+        "familiarity": 0.0352,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Bhooma Devi in The Girlfriend.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "cocktail-2",
+        "canonical": "Cocktail 2",
+        "aliases": [
+          "Cocktail II"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Diya in Cocktail 2.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      },
+      {
+        "id": "ranabaali",
+        "canonical": "Ranabaali",
+        "aliases": [
+          "Ranabali"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mandanna played Jayamma in the Telugu film Ranabaali.",
+        "sourceIds": [
+          "rashmika-mandanna"
+        ]
+      }
+    ],
+    "explanation": "These films appear in Rashmika Mandanna's filmography across Kannada, Telugu, Tamil and Hindi cinema. Films marked as not yet released are excluded.",
+    "sources": [
+      {
+        "id": "rashmika-mandanna",
+        "title": "Rashmika Mandanna",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rashmika_Mandanna",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "741a7dcc851fa59d",
+    "brief": "Name a film in which Rashmika Mandanna has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "rashmika-mandanna",
+        "version": "1382660803",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Kirik Party": "2016 | Kirik Party | Saanvi Joseph | Kannada | Debut film |",
+      "Anjani Putra": "2017 | Anjani Putra | Geetha | Kannada | |",
+      "Chamak": "2017 | Chamak | Kushi | Kannada | |",
+      "Chalo": "2018 | Chalo | L. Karthika | Telugu | |",
+      "Geetha Govindam": "2018 | Geetha Govindam | Geetha | Telugu | credited as Rashmika |",
+      "Devadas": "2018 | Devadas | Pooja | Telugu | |",
+      "Yajamana": "2019 | Yajamana | Kaveri | Kannada | |",
+      "Dear Comrade": "2019 | Dear Comrade | Aparna \"Lilly\" Devi | Telugu | |",
+      "Sarileru Neekevvaru": "2020 | Sarileru Neekevvaru | Samskruthi | Telugu | |",
+      "Bheeshma": "2020 | Bheeshma | Chaithra | Telugu | |",
+      "Pogaru": "2021 | Pogaru | Geetha | Kannada | |",
+      "Sulthan": "2021 | Sulthan | Rukmani | Tamil | |",
+      "Pushpa: The Rise": "2021 | Pushpa: The Rise | Srivalli | Telugu | |",
+      "Aadavallu Meeku Johaarlu": "2022 | Aadavallu Meeku Johaarlu | Aadhya | Telugu | |",
+      "Sita Ramam": "2022 | Sita Ramam | Afreen / Waheeda | Telugu | |",
+      "Goodbye": "2022 | Goodbye | Tara Bhalla | Hindi | |",
+      "Varisu": "2023 | Varisu | Divya | Tamil | |",
+      "Mission Majnu": "2023 | Mission Majnu | Nasreen Hussain | Hindi | |",
+      "Animal": "2023 | Animal | Geetanjali Singh | Hindi | |",
+      "Pushpa 2: The Rule": "2024 | Pushpa 2: The Rule | Srivalli | Telugu | |",
+      "Chhaava": "2025 | Chhaava | Maharani Yesubai | Hindi | |",
+      "Sikandar": "2025 | Sikandar | Saisri Rajkot | Hindi | |",
+      "Kuberaa": "2025 | Kuberaa | Sameera | Telugu Tamil | Bilingual film |",
+      "Thamma": "2025 | Thamma | Tadaka / Tarika | Hindi | |",
+      "The Girlfriend": "2025 | The Girlfriend | Bhooma Devi | Telugu | |",
+      "Cocktail 2": "2026 | Cocktail 2 | Diya | Hindi | |",
+      "Ranabaali": "2026 | Ranabaali | Jayamma | Telugu | |"
+    },
+    "issues": []
+  }
+}

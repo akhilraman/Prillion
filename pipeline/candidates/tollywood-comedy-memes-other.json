@@ -1,0 +1,238 @@
+{
+  "question": {
+    "id": "tollywood-comedy-memes-other",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film comedy character or scene that became a popular meme—not one performed by Brahmanandam.",
+    "answerSet": "open",
+    "criteria": "Any comic character or scene from a Telugu-language film that has circulated as an internet meme qualifies, excluding characters and scenes performed by Brahmanandam.",
+    "answers": [
+      {
+        "id": "chari",
+        "canonical": "Chari",
+        "aliases": [
+          "Adhurs Chari",
+          "NTR's Chari",
+          "Chary",
+          "Chari Adhurs",
+          "Chari from Adhurs"
+        ],
+        "familiarity": 0.1714,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR's comic priest character Chari in Adhurs became a recurring Telugu meme character.",
+        "sourceIds": []
+      },
+      {
+        "id": "seenu-sontham",
+        "canonical": "Seenu (Sontham)",
+        "aliases": [
+          "Sontham Seenu",
+          "Sontham Sunil",
+          "Seenu from Sontham",
+          "Sontham Srinu"
+        ],
+        "familiarity": 0.0685,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunil's character Seenu in Sontham appears extensively in Telugu reaction memes and comedy clips.",
+        "sourceIds": []
+      },
+      {
+        "id": "kaushik-ee-nagaraniki-emaindi",
+        "canonical": "Kaushik (Ee Nagaraniki Emaindi)",
+        "aliases": [
+          "ENE Kaushik",
+          "Abhinav Gomatam's Kaushik",
+          "Kaushik from Ee Nagaraniki Emaindi",
+          "Kaushik ENE"
+        ],
+        "familiarity": 0.1714,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abhinav Gomatam's character Kaushik in Ee Nagaraniki Emaindi became a recurring source of dialogue and reaction memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "kaushik-pelli-choopulu",
+        "canonical": "Kaushik (Pelli Choopulu)",
+        "aliases": [
+          "Pelli Choopulu Kaushik",
+          "Priyadarshi's Kaushik",
+          "Naa Saavu Nenu Sastha",
+          "Kaushik from Pelli Choopulu"
+        ],
+        "familiarity": 0.0685,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Priyadarshi's character Kaushik in Pelli Choopulu is associated with the widely circulated comic line about dealing with his own troubles.",
+        "sourceIds": []
+      },
+      {
+        "id": "30-years-industry",
+        "canonical": "30 Years Industry",
+        "aliases": [
+          "Thirty Years Industry",
+          "30 Years Industry Ikkada",
+          "Khadgam Prudhvi",
+          "30 Years Industry scene",
+          "Khadgam 30 Years Industry"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Prudhvi's comic film-industry dialogue in Khadgam became a widely reused Telugu meme catchphrase.",
+        "sourceIds": []
+      },
+      {
+        "id": "tillu",
+        "canonical": "Tillu",
+        "aliases": [
+          "DJ Tillu",
+          "Bala Gangadhar Tilak"
+        ],
+        "familiarity": 0.1714,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Siddhu Jonnalagadda’s Tillu in DJ Tillu became a recurring source of dialogue and reaction memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "bunk-seenu",
+        "canonical": "Bunk Seenu",
+        "aliases": [
+          "Banku Seenu",
+          "Bank Seenu",
+          "Bunk Srinu",
+          "Bunk Seenu from Manmadhudu",
+          "Manmadhudu Seenu"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunil’s Bunk Seenu in Manmadhudu is a recurring character in Telugu comedy memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "banthi",
+        "canonical": "Banthi",
+        "aliases": [
+          "Banti",
+          "Banthi Nuvvu Naaku Nachav",
+          "Nuvvu Naaku Nachav Banthi",
+          "Banthi from Nuvvu Naaku Nachav"
+        ],
+        "familiarity": 0.0685,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunil’s Banthi in Nuvvu Naaku Nachav supplies widely shared comic dialogue and reaction clips.",
+        "sourceIds": []
+      },
+      {
+        "id": "jogipet-srikanth",
+        "canonical": "Jogipet Srikanth",
+        "aliases": [
+          "Srikanth Jathi Ratnalu",
+          "Jogipet Sreekanth",
+          "Jathi Ratnalu Srikanth",
+          "Srikanth from Jathi Ratnalu"
+        ],
+        "familiarity": 0.0685,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naveen Polishetty’s Jogipet Srikanth in Jathi Ratnalu features in widely shared comedy and courtroom memes.",
+        "sourceIds": []
+      },
+      {
+        "id": "babji",
+        "canonical": "Babji",
+        "aliases": [
+          "Babji Khaleja",
+          "Khaleja Babji",
+          "Babji from Khaleja"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunil’s Babji in Khaleja appears in recurring reaction memes drawn from his comedy scenes.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu meme culture draws on comic characters, reaction shots and dialogue clips across generations of films. These examples feature performers other than Brahmanandam; other answers meeting the same rule also count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "594fd934cc901e21",
+    "brief": "Name a Telugu film comedy character or scene, other than Brahmanandam's, that became a popular meme.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Seenu (Sontham)": 2,
+      "Kaushik (Ee Nagaraniki Emaindi)": 2,
+      "Kaushik (Pelli Choopulu)": 2,
+      "Chari": 3,
+      "30 Years Industry": 2,
+      "Tillu": 2,
+      "Bunk Seenu": 2,
+      "Banthi": 2,
+      "Jogipet Srikanth": 2,
+      "Babji": 2
+    },
+    "droppedForVotes": {
+      "DJ Tillu": 1,
+      "Yesu": 1,
+      "Sathi": 1,
+      "Anthega Anthega": 1,
+      "Lakshmipathy": 1,
+      "Bokka Venkata Rao": 1,
+      "Boiling Star Babloo": 1,
+      "Radhika": 1,
+      "ENE Kaushik": 1,
+      "Pelli Choopulu Kaushik": 1,
+      "Seshagiri": 1,
+      "Ravi": 1,
+      "Shekhar": 1,
+      "Solomon Raju": 1,
+      "Boiling Star Bablu": 1,
+      "Salman Raju": 1,
+      "Tom Cruise (Khaleja)": 1
+    },
+    "verdicts": {
+      "Chari": {
+        "verdict": "correct",
+        "reason": "Jr NTR plays Chari in Adhurs; the character’s comic scenes and reactions are widely used in Telugu memes."
+      },
+      "Seenu (Sontham)": {
+        "verdict": "correct",
+        "reason": "Sunil’s Seenu in Sontham is a well-established source of Telugu reaction memes and comedy clips."
+      },
+      "Kaushik (Ee Nagaraniki Emaindi)": {
+        "verdict": "correct",
+        "reason": "Abhinav Gomatam plays Kaushik, whose comic dialogue and reactions became popular Telugu meme material."
+      },
+      "Kaushik (Pelli Choopulu)": {
+        "verdict": "correct",
+        "reason": "Priyadarshi plays Kaushik; his widely memed dialogue includes “Naa saavu nenu sastha, neekenduku?”"
+      },
+      "30 Years Industry": {
+        "verdict": "correct",
+        "reason": "Prudhvi’s “30 years industry” dialogue in Khadgam became a famous catchphrase and recurring meme."
+      },
+      "Tillu": {
+        "verdict": "correct",
+        "reason": "Siddhu Jonnalagadda’s character in DJ Tillu became a popular source of dialogue and reaction memes."
+      },
+      "Bunk Seenu": {
+        "verdict": "correct",
+        "reason": "Sunil plays Bunk Seenu in Manmadhudu, and his comedy scenes circulate as Telugu memes and reaction clips."
+      },
+      "Banthi": {
+        "verdict": "correct",
+        "reason": "Sunil’s Banthi in Nuvvu Naaku Nachav is a familiar source of Telugu comedy dialogue and reaction memes."
+      },
+      "Jogipet Srikanth": {
+        "verdict": "correct",
+        "reason": "Naveen Polishetty’s character in Jathi Ratnalu features in popular memes, including clips from the courtroom comedy."
+      },
+      "Babji": {
+        "verdict": "correct",
+        "reason": "Sunil plays Babji in Khaleja; his comic exchanges and reactions are used in Telugu memes."
+      }
+    },
+    "issues": []
+  }
+}

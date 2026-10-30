@@ -1,0 +1,211 @@
+{
+  "question": {
+    "id": "us-pop-disney-villains",
+    "category": "us-pop",
+    "prompt": "Name one of the 13 primary Disney Villains known as the “13 Reflections of Evil.”",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "the-evil-queen",
+        "canonical": "The Evil Queen",
+        "aliases": [
+          "Evil Queen",
+          "Queen from Snow White"
+        ],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Evil Queen from Snow White and the Seven Dwarfs is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "chernabog",
+        "canonical": "Chernabog",
+        "aliases": [],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chernabog from Fantasia is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "the-queen-of-hearts",
+        "canonical": "The Queen of Hearts",
+        "aliases": [
+          "Queen of Hearts"
+        ],
+        "familiarity": 0.0472,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Queen of Hearts from Alice in Wonderland is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "captain-hook",
+        "canonical": "Captain Hook",
+        "aliases": [
+          "Hook"
+        ],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Captain Hook from Peter Pan is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "maleficent",
+        "canonical": "Maleficent",
+        "aliases": [],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maleficent from Sleeping Beauty is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "cruella-de-vil",
+        "canonical": "Cruella De Vil",
+        "aliases": [
+          "Cruella",
+          "Cruella deVille",
+          "Cruella de Ville"
+        ],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cruella De Vil from 101 Dalmatians is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "ursula",
+        "canonical": "Ursula",
+        "aliases": [],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ursula from The Little Mermaid is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "gaston",
+        "canonical": "Gaston",
+        "aliases": [],
+        "familiarity": 0.0472,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gaston from Beauty and the Beast is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "jafar",
+        "canonical": "Jafar",
+        "aliases": [],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jafar from Aladdin is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "oogie-boogie",
+        "canonical": "Oogie Boogie",
+        "aliases": [
+          "Oogie",
+          "Oogie Boogie Man"
+        ],
+        "familiarity": 0.0142,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oogie Boogie from The Nightmare Before Christmas is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "scar",
+        "canonical": "Scar",
+        "aliases": [],
+        "familiarity": 0.1181,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scar from The Lion King is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "hades",
+        "canonical": "Hades",
+        "aliases": [],
+        "familiarity": 0.0472,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hades from Hercules is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      },
+      {
+        "id": "dr-facilier",
+        "canonical": "Dr. Facilier",
+        "aliases": [
+          "Doctor Facilier",
+          "Facilier"
+        ],
+        "familiarity": 0.0142,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dr. Facilier from The Princess and the Frog is listed among the 13 primary villains.",
+        "sourceIds": [
+          "list-of-disney-villain-characters"
+        ]
+      }
+    ],
+    "explanation": "These 13 characters form the primary Disney Villains lineup, appearing most frequently in the franchise’s merchandise, live events and attractions.",
+    "sources": [
+      {
+        "id": "list-of-disney-villain-characters",
+        "title": "List of Disney villain characters",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Disney_villain_characters",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "6f81572b8fb9f5d2",
+    "brief": "Name a Disney villain.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-disney-villain-characters",
+        "version": "1382725010",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "The Evil Queen": "The Evil Queen | Snow White and the Seven Dwarfs",
+      "Chernabog": "Chernabog | Fantasia",
+      "The Queen of Hearts": "The Queen of Hearts | Alice in Wonderland",
+      "Captain Hook": "Captain Hook | Peter Pan",
+      "Maleficent": "Maleficent | Sleeping Beauty",
+      "Cruella De Vil": "Cruella De Vil | 101 Dalmatians",
+      "Ursula": "Ursula | The Little Mermaid",
+      "Gaston": "Gaston | Beauty and the Beast",
+      "Jafar": "Jafar | Aladdin",
+      "Oogie Boogie": "Oogie Boogie | The Nightmare Before Christmas",
+      "Scar": "Scar | The Lion King",
+      "Hades": "Hades | Hercules",
+      "Dr. Facilier": "Dr. Facilier | The Princess and the Frog"
+    },
+    "issues": []
+  }
+}

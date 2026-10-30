@@ -1,0 +1,370 @@
+{
+  "question": {
+    "id": "us-pop-celebrity-death-hoaxes",
+    "category": "us-pop",
+    "prompt": "Name a celebrity who was falsely reported dead.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "abe-vigoda",
+        "canonical": "Abe Vigoda",
+        "aliases": [],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article says Vigoda was repeatedly reported dead before his actual death.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "mark-twain",
+        "canonical": "Mark Twain",
+        "aliases": [],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Twain is quoted correcting an exaggerated report of his death.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "charlie-chaplin",
+        "canonical": "Charlie Chaplin",
+        "aliases": [
+          "Charles Chaplin"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaplin was the subject of a hoax death report in 1945.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "frank-sinatra",
+        "canonical": "Frank Sinatra",
+        "aliases": [],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sinatra was the subject of a hoax death report in 1945.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "paul-mccartney",
+        "canonical": "Paul McCartney",
+        "aliases": [
+          "Paul Mc Cartney",
+          "Sir Paul McCartney"
+        ],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The “Paul is dead” rumor falsely claimed McCartney died in 1966 and was replaced.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "eddie-murphy",
+        "canonical": "Eddie Murphy",
+        "aliases": [],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Murphy was falsely rumored to have died in a snowboarding accident.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "bill-murray",
+        "canonical": "Bill Murray",
+        "aliases": [],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Murray is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "jon-bon-jovi",
+        "canonical": "Jon Bon Jovi",
+        "aliases": [
+          "Bon Jovi",
+          "Jon Bonjovi"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bon Jovi is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "gordon-lightfoot",
+        "canonical": "Gordon Lightfoot",
+        "aliases": [],
+        "familiarity": 0.0092,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lightfoot is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "shah-rukh-khan",
+        "canonical": "Shah Rukh Khan",
+        "aliases": [
+          "Shahrukh Khan",
+          "SRK"
+        ],
+        "familiarity": 0.0092,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Khan is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "eminem",
+        "canonical": "Eminem",
+        "aliases": [],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eminem is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "jerry-springer",
+        "canonical": "Jerry Springer",
+        "aliases": [],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Springer is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "bill-nye",
+        "canonical": "Bill Nye",
+        "aliases": [
+          "Bill Nye the Science Guy"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nye is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "syuusuke-saito",
+        "canonical": "Syuusuke Saito",
+        "aliases": [
+          "Shusuke Saito",
+          "Shuusuke Saito"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saito is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "joe-rogan",
+        "canonical": "Joe Rogan",
+        "aliases": [],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rogan is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "queen-elizabeth-ii",
+        "canonical": "Queen Elizabeth II",
+        "aliases": [
+          "Queen Elizabeth",
+          "Elizabeth II",
+          "Queen Elizabeth 2"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elizabeth II is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "william-h-macy",
+        "canonical": "William H. Macy",
+        "aliases": [
+          "William H Macy",
+          "William Macy"
+        ],
+        "familiarity": 0.0092,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Macy is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "harry-belafonte",
+        "canonical": "Harry Belafonte",
+        "aliases": [],
+        "familiarity": 0.0092,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Belafonte is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "jimmy-fallon",
+        "canonical": "Jimmy Fallon",
+        "aliases": [],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fallon is explicitly listed among celebrities targeted by social-media death hoaxes.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "michael-j-fox",
+        "canonical": "Michael J. Fox",
+        "aliases": [
+          "Michael J Fox",
+          "Michael Fox"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies Fox as a death-hoax target in August 2018.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "jeremy-renner",
+        "canonical": "Jeremy Renner",
+        "aliases": [],
+        "familiarity": 0.0766,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Renner was falsely rumored to have died from injuries sustained in a snowplow incident.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "lil-tay",
+        "canonical": "Lil Tay",
+        "aliases": [
+          "LilTay"
+        ],
+        "familiarity": 0.0307,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lil Tay was falsely reported dead after her Instagram account was compromised.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "toby-keith",
+        "canonical": "Toby Keith",
+        "aliases": [],
+        "familiarity": 0.0092,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keith was incorrectly reported dead in September 2023, before his actual death in February 2024.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "poonam-pandey",
+        "canonical": "Poonam Pandey",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pandey staged a false announcement of her death as part of an awareness campaign.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      },
+      {
+        "id": "stevin-john",
+        "canonical": "Stevin John",
+        "aliases": [
+          "Blippi",
+          "Steven John"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article describes an erroneous report that John had died from a heart attack.",
+        "sourceIds": [
+          "death-hoax"
+        ]
+      }
+    ],
+    "explanation": "False celebrity death reports long predate social media. The article describes cases ranging from Mark Twain and Frank Sinatra to internet-era rumors about actors, musicians, and online personalities.",
+    "sources": [
+      {
+        "id": "death-hoax",
+        "title": "Death hoax",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_hoax",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A named person explicitly identified in the opening or “Celebrities” section of the supplied death-hoax article as the subject of a false death report. People mentioned only as having actually died do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "b6b3fdb40e9712e9",
+    "brief": "Name a celebrity who was the subject of a false death hoax.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "death-hoax",
+        "version": "1370656955",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Abe Vigoda": "Abe Vigoda, seen here on Barney Miller in 1977, was mistakenly reported as dead many times before his actual death in 2016.",
+      "Mark Twain": "The report of my illness grew out of his illness; the report of my death was an exaggeration.\"\n— Mark Twain, 1897.",
+      "Charlie Chaplin": "in 1945 following the death of Franklin Roosevelt, there were hoax reports of the deaths of Charlie Chaplin and Frank Sinatra, among other celebrities of the time.",
+      "Frank Sinatra": "in 1945 following the death of Franklin Roosevelt, there were hoax reports of the deaths of Charlie Chaplin and Frank Sinatra, among other celebrities of the time.",
+      "Paul McCartney": "Possibly the most famous hoax of this type was the \"Paul is dead\" rumor, which claimed that Paul McCartney died in a car crash in 1966 and was replaced by a look-alike.",
+      "Eddie Murphy": "Paul Walker's death on 30 November 2013 sparked rumors of Eddie Murphy dying in a snowboarding accident.",
+      "Bill Murray": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Jon Bon Jovi": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Gordon Lightfoot": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Shah Rukh Khan": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Eminem": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Jerry Springer": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Bill Nye": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Syuusuke Saito": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Joe Rogan": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Queen Elizabeth II": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "William H. Macy": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Harry Belafonte": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Jimmy Fallon": "Other cases of celebrity death hoaxes fueled by social media include Bill Murray, Jon Bon Jovi, Gordon Lightfoot, Shah Rukh Khan, Eminem, Jerry Springer, Bill Nye, BHMNL star Syuusuke Saito, Joe Rogan, Queen Elizabeth II, William H. Macy, Harry Belafonte, and Jimmy Fallon.",
+      "Michael J. Fox": "In August 2018, Michael J. Fox was targeted due to his Parkinson's disease and his age.",
+      "Jeremy Renner": "In June 2023, Jeremy Renner was falsely rumored to have died from his wounds from a snowplow incident in January.",
+      "Lil Tay": "Teenage rapper Lil Tay and her older brother were falsely reported as dead on 9 August 2023, when her Instagram account was compromised.",
+      "Toby Keith": "On 11 September 2023, country music singer Toby Keith was incorrectly reported dead because of his stomach cancer, before his actual death from the disease on 5 February 2024.",
+      "Poonam Pandey": "In February 2024, Indian model and actress Poonam Pandey staged a fake announcement of her death from cervical cancer as part of an awareness campaign.",
+      "Stevin John": "In July 2026, a glitch in Google's search engine resulted in an erroneous report of Stevin John dying from a heart attack being spread across social media."
+    },
+    "issues": []
+  }
+}

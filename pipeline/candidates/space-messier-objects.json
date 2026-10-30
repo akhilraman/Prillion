@@ -1,0 +1,944 @@
+{
+  "question": {
+    "id": "space-messier-objects",
+    "category": "space",
+    "prompt": "Name a common name listed for an object in the Messier catalogue—not just its catalogue number.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "crab-nebula",
+        "canonical": "Crab Nebula",
+        "aliases": [
+          "Crab"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Crab Nebula as M1.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "spider-globular-cluster",
+        "canonical": "Spider Globular Cluster",
+        "aliases": [
+          "Spider Cluster"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Spider Globular Cluster as M4.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "rose-cluster",
+        "canonical": "Rose Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Rose Cluster as M5.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "butterfly-cluster",
+        "canonical": "Butterfly Cluster",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Butterfly Cluster as M6.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "ptolemy-s-cluster",
+        "canonical": "Ptolemy's Cluster",
+        "aliases": [
+          "Ptolemy Cluster"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Ptolemy's Cluster as M7.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "lagoon-nebula",
+        "canonical": "Lagoon Nebula",
+        "aliases": [
+          "Lagoon"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Lagoon Nebula as M8.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "wild-duck-cluster",
+        "canonical": "Wild Duck Cluster",
+        "aliases": [
+          "Wild Duck"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Wild Duck Cluster as M11.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "great-hercules-cluster",
+        "canonical": "Great Hercules Cluster",
+        "aliases": [
+          "Hercules Cluster"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Great Hercules Cluster as M13.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "great-pegasus-cluster",
+        "canonical": "Great Pegasus Cluster",
+        "aliases": [
+          "Pegasus Cluster"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Great Pegasus Cluster as M15.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "eagle-nebula",
+        "canonical": "Eagle Nebula",
+        "aliases": [
+          "Eagle"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Eagle Nebula as M16.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "omega-nebula",
+        "canonical": "Omega Nebula",
+        "aliases": [
+          "Swan Nebula",
+          "Horseshoe Nebula",
+          "Lobster Nebula",
+          "Checkmark Nebula"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Omega, Swan, Horseshoe, Lobster and Checkmark as alternative names for M17.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "black-swan-cluster",
+        "canonical": "Black Swan Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Black Swan Cluster as M18.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "trifid-nebula",
+        "canonical": "Trifid Nebula",
+        "aliases": [
+          "Trifid"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Trifid Nebula as M20.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "webb-s-cross-cluster",
+        "canonical": "Webb's Cross Cluster",
+        "aliases": [
+          "Webbs Cross Cluster",
+          "Webb's Cross"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Webb's Cross Cluster as M21.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "great-sagittarius-cluster",
+        "canonical": "Great Sagittarius Cluster",
+        "aliases": [
+          "Sagittarius Cluster"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Great Sagittarius Cluster as M22.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "small-sagittarius-star-cloud",
+        "canonical": "Small Sagittarius Star Cloud",
+        "aliases": [
+          "Sagittarius Star Cloud"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Small Sagittarius Star Cloud as M24.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "dumbbell-nebula",
+        "canonical": "Dumbbell Nebula",
+        "aliases": [
+          "Dumbbell"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Dumbbell Nebula as M27.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "cooling-tower-cluster",
+        "canonical": "Cooling Tower Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Cooling Tower Cluster as M29.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "jellyfish-cluster",
+        "canonical": "Jellyfish Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Jellyfish Cluster as M30.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "andromeda-galaxy",
+        "canonical": "Andromeda Galaxy",
+        "aliases": [
+          "Andromeda"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Andromeda Galaxy as M31.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "andromeda-satellite-1",
+        "canonical": "Andromeda Satellite #1",
+        "aliases": [
+          "Andromeda Satellite 1"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Andromeda Satellite #1 as M32.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "triangulum-pinwheel-galaxy",
+        "canonical": "Triangulum/Pinwheel Galaxy",
+        "aliases": [
+          "Triangulum Galaxy",
+          "Triangulum"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Triangulum/Pinwheel Galaxy as the common name for M33.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "spiral-cluster",
+        "canonical": "Spiral Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Spiral Cluster as M34.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "shoe-buckle-cluster",
+        "canonical": "Shoe-Buckle Cluster",
+        "aliases": [
+          "Shoe Buckle Cluster",
+          "Shoebuckle Cluster"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Shoe-Buckle Cluster as M35.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "pinwheel-cluster",
+        "canonical": "Pinwheel Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Pinwheel Cluster as M36.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "salt-and-pepper-cluster",
+        "canonical": "Salt and Pepper Cluster",
+        "aliases": [
+          "Salt & Pepper Cluster"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Salt and Pepper Cluster as M37.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "starfish-cluster",
+        "canonical": "Starfish Cluster",
+        "aliases": [],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Starfish Cluster as M38.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "pyramid-cluster",
+        "canonical": "Pyramid Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Pyramid Cluster as M39.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "winnecke-4",
+        "canonical": "Winnecke 4",
+        "aliases": [
+          "Winnecke Four"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Winnecke 4 in the common-name column for M40.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "little-beehive-cluster",
+        "canonical": "Little Beehive Cluster",
+        "aliases": [
+          "Little Beehive"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Little Beehive Cluster as M41.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "great-orion-nebula",
+        "canonical": "Great Orion Nebula",
+        "aliases": [
+          "Orion Nebula",
+          "Great Nebula in Orion"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Great Orion Nebula as M42.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "de-mairan-s-nebula",
+        "canonical": "De Mairan's Nebula",
+        "aliases": [
+          "De Mairans Nebula",
+          "Mairan's Nebula"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies De Mairan's Nebula as M43.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "beehive-cluster",
+        "canonical": "Beehive Cluster",
+        "aliases": [
+          "Praesepe",
+          "Beehive"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Beehive Cluster and Praesepe as alternative names for M44.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "pleiades",
+        "canonical": "Pleiades",
+        "aliases": [
+          "Seven Sisters",
+          "Subaru"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Pleiades, Seven Sisters and Subaru as alternative names for M45.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "heart-shaped-cluster",
+        "canonical": "Heart-Shaped Cluster",
+        "aliases": [
+          "Heart Shaped Cluster"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Heart-Shaped Cluster as M50.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "whirlpool-galaxy",
+        "canonical": "Whirlpool Galaxy",
+        "aliases": [
+          "Whirlpool"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Whirlpool Galaxy as M51.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "scorpion-cluster",
+        "canonical": "Scorpion Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Scorpion Cluster as M52.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "specter-cluster",
+        "canonical": "Specter Cluster",
+        "aliases": [
+          "Spectre Cluster"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Specter Cluster as M55.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "ring-nebula",
+        "canonical": "Ring Nebula",
+        "aliases": [],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Ring Nebula as M57.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "swelling-spiral-galaxy",
+        "canonical": "Swelling Spiral Galaxy",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Swelling Spiral Galaxy as M61.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "flickering-globular",
+        "canonical": "Flickering Globular",
+        "aliases": [
+          "Flickering Globular Cluster"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Flickering Globular as M62.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "sunflower-galaxy",
+        "canonical": "Sunflower Galaxy",
+        "aliases": [
+          "Sunflower"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Sunflower Galaxy as M63.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "black-eye-galaxy",
+        "canonical": "Black Eye Galaxy",
+        "aliases": [
+          "Black-Eye Galaxy",
+          "Blackeye Galaxy"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Black Eye Galaxy as M64.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "leo-triplet",
+        "canonical": "Leo Triplet",
+        "aliases": [],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Leo Triplet as the common name for both M65 and M66.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "king-cobra",
+        "canonical": "King Cobra",
+        "aliases": [
+          "King Cobra Cluster",
+          "Golden Eye Cluster",
+          "Golden Eye"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists King Cobra and Golden Eye Cluster as alternative names for M67.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "angelfish-cluster",
+        "canonical": "Angelfish Cluster",
+        "aliases": [
+          "Angel Fish Cluster"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Angelfish Cluster as M71.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "phantom-galaxy",
+        "canonical": "Phantom Galaxy",
+        "aliases": [
+          "Phantom"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Phantom Galaxy as M74.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "little-dumbbell-nebula",
+        "canonical": "Little Dumbbell Nebula",
+        "aliases": [
+          "Little Dumbbell"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Little Dumbbell Nebula as M76.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "cetus-a",
+        "canonical": "Cetus A",
+        "aliases": [
+          "Squid Galaxy"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Cetus A and Squid Galaxy as alternative names for M77.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "bode-s-galaxy",
+        "canonical": "Bode's Galaxy",
+        "aliases": [
+          "Bodes Galaxy",
+          "Bode Galaxy"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Bode's Galaxy as M81.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "cigar-galaxy",
+        "canonical": "Cigar Galaxy",
+        "aliases": [
+          "Cigar"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Cigar Galaxy as M82.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "southern-pinwheel-galaxy",
+        "canonical": "Southern Pinwheel Galaxy",
+        "aliases": [
+          "Southern Pinwheel"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Southern Pinwheel Galaxy as M83.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "virgo-a",
+        "canonical": "Virgo A",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Virgo A as M87.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "carabin-galaxy",
+        "canonical": "Carabin Galaxy",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Carabin Galaxy as M90.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "critter-cluster",
+        "canonical": "Critter Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Critter Cluster as M93.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "cat-s-eye-galaxy",
+        "canonical": "Cat's Eye Galaxy",
+        "aliases": [
+          "Crocodile Eye",
+          "Crocodile Eye Galaxy",
+          "Cats Eye Galaxy"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table lists Crocodile Eye and Cat's Eye Galaxy as alternative names for M94.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "owl-nebula",
+        "canonical": "Owl Nebula",
+        "aliases": [
+          "Owl"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Owl Nebula as M97.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "st-catherine-s-wheel",
+        "canonical": "St. Catherine's Wheel",
+        "aliases": [
+          "Saint Catherine's Wheel",
+          "St Catherines Wheel",
+          "Catherine's Wheel"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies St. Catherine's Wheel as M99.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "mirror-galaxy",
+        "canonical": "Mirror Galaxy",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Mirror Galaxy as M100.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "pinwheel-galaxy",
+        "canonical": "Pinwheel Galaxy",
+        "aliases": [
+          "Pinwheel"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Pinwheel Galaxy as M101.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "spindle-galaxy",
+        "canonical": "Spindle Galaxy",
+        "aliases": [
+          "Spindle"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Spindle Galaxy as M102.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "sombrero-galaxy",
+        "canonical": "Sombrero Galaxy",
+        "aliases": [
+          "Sombrero"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Sombrero Galaxy as M104.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "crucifix-cluster",
+        "canonical": "Crucifix Cluster",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Crucifix Cluster as M107.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "surfboard-galaxy",
+        "canonical": "Surfboard Galaxy",
+        "aliases": [
+          "Surfboard"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Surfboard Galaxy as M108.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "vacuum-cleaner-galaxy",
+        "canonical": "Vacuum Cleaner Galaxy",
+        "aliases": [
+          "Vacuum Cleaner"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies the Vacuum Cleaner Galaxy as M109.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      },
+      {
+        "id": "andromeda-satellite-2",
+        "canonical": "Andromeda Satellite #2",
+        "aliases": [
+          "Andromeda Satellite 2"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table identifies Andromeda Satellite #2 as M110.",
+        "sourceIds": [
+          "messier-object"
+        ]
+      }
+    ],
+    "explanation": "The Messier catalogue contains 110 objects, including galaxies, nebulae and star clusters. These answers are the common names listed in the supplied catalogue table. Alternative names for the same object count as one answer; the Leo Triplet name is listed for both M65 and M66.",
+    "sources": [
+      {
+        "id": "messier-object",
+        "title": "Messier object",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Messier_object",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "7842e94e74d4ad82",
+    "brief": "Name an object from the Messier catalogue (by name, such as the Crab Nebula).",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "messier-object",
+        "version": "1372398875",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Crab Nebula": "M1 | NGC 1952 | Crab Nebula | | Supernova remnant",
+      "Spider Globular Cluster": "M4 | NGC 6121 | Spider Globular Cluster | | Globular cluster",
+      "Rose Cluster": "M5 | NGC 5904 | Rose Cluster | | Globular cluster",
+      "Butterfly Cluster": "M6 | NGC 6405 | Butterfly Cluster | | Open cluster",
+      "Ptolemy's Cluster": "M7 | NGC 6475 | Ptolemy's Cluster | | Open cluster",
+      "Lagoon Nebula": "M8 | NGC 6523 | Lagoon Nebula | | Nebula with cluster",
+      "Wild Duck Cluster": "M11 | NGC 6705 | Wild Duck Cluster | | Open cluster",
+      "Great Hercules Cluster": "M13 | NGC 6205 | Great Hercules Cluster | | Globular cluster",
+      "Great Pegasus Cluster": "M15 | NGC 7078 | Great Pegasus Cluster | | Globular cluster",
+      "Eagle Nebula": "M16 | NGC 6611 | Eagle Nebula | | H II region nebula with cluster",
+      "Omega Nebula": "M17 | NGC 6618 | Omega, Swan, Horseshoe, Lobster, or Checkmark Nebula | | H II region nebula with cluster",
+      "Black Swan Cluster": "M18 | NGC 6613 | Black Swan Cluster | | Open cluster",
+      "Trifid Nebula": "M20 | NGC 6514 | Trifid Nebula | | H II region nebula with cluster",
+      "Webb's Cross Cluster": "M21 | NGC 6531 | Webb's Cross Cluster | | Open cluster",
+      "Great Sagittarius Cluster": "M22 | NGC 6656 | Great Sagittarius Cluster | | Globular cluster",
+      "Small Sagittarius Star Cloud": "M24 | IC 4715 | Small Sagittarius Star Cloud | | Milky Way star cloud",
+      "Dumbbell Nebula": "M27 | NGC 6853 | Dumbbell Nebula | | Planetary nebula",
+      "Cooling Tower Cluster": "M29 | NGC 6913 | Cooling Tower Cluster | | Open cluster",
+      "Jellyfish Cluster": "M30 | NGC 7099 | Jellyfish Cluster | | Globular cluster",
+      "Andromeda Galaxy": "M31 | NGC 224 | Andromeda Galaxy | | Spiral galaxy",
+      "Andromeda Satellite #1": "M32 | NGC 221 | Andromeda Satellite #1 | | Dwarf elliptical galaxy",
+      "Triangulum/Pinwheel Galaxy": "M33 | NGC 598 | Triangulum/Pinwheel Galaxy | | Spiral galaxy",
+      "Spiral Cluster": "M34 | NGC 1039 | Spiral Cluster | | Open cluster",
+      "Shoe-Buckle Cluster": "M35 | NGC 2168 | Shoe-Buckle Cluster | | Open cluster",
+      "Pinwheel Cluster": "M36 | NGC 1960 | Pinwheel Cluster | | Open cluster",
+      "Salt and Pepper Cluster": "M37 | NGC 2099 | Salt and Pepper Cluster | | Open cluster",
+      "Starfish Cluster": "M38 | NGC 1912 | Starfish Cluster | | Open cluster",
+      "Pyramid Cluster": "M39 | NGC 7092 | Pyramid Cluster | | Open cluster",
+      "Winnecke 4": "M40 | — | Winnecke 4 | | Optical Double",
+      "Little Beehive Cluster": "M41 | NGC 2287 | Little Beehive Cluster | | Open cluster",
+      "Great Orion Nebula": "M42 | NGC 1976 | Great Orion Nebula | | H II region nebula",
+      "De Mairan's Nebula": "M43 | NGC 1982 | De Mairan's Nebula | | H II region nebula (part of the Orion Nebula)",
+      "Beehive Cluster": "M44 | NGC 2632 | Beehive Cluster or Praesepe | | Open cluster",
+      "Pleiades": "M45 | — | Pleiades, Seven Sisters or Subaru | | Open cluster",
+      "Heart-Shaped Cluster": "M50 | NGC 2323 | Heart-Shaped Cluster | | Open cluster",
+      "Whirlpool Galaxy": "M51 | NGC 5194, NGC 5195 | Whirlpool Galaxy | | Spiral galaxy",
+      "Scorpion Cluster": "M52 | NGC 7654 | Scorpion Cluster | | Open cluster",
+      "Specter Cluster": "M55 | NGC 6809 | Specter Cluster | | Globular cluster",
+      "Ring Nebula": "M57 | NGC 6720 | Ring Nebula | | Planetary nebula",
+      "Swelling Spiral Galaxy": "M61 | NGC 4303 | Swelling Spiral Galaxy | | Spiral galaxy",
+      "Flickering Globular": "M62 | NGC 6266 | Flickering Globular | | Globular cluster",
+      "Sunflower Galaxy": "M63 | NGC 5055 | Sunflower Galaxy | | Spiral galaxy",
+      "Black Eye Galaxy": "M64 | NGC 4826 | Black Eye Galaxy | | Spiral galaxy",
+      "Leo Triplet": "M65 | NGC 3623 | Leo Triplet | | Barred Spiral galaxy | 41,000–42,000 | Leo | 9.3 | 8.7′ × 2.5′ | 11 18 55.9 | +13° 05′ 32″\nM66 | NGC 3627 | Leo Triplet | | Barred Spiral galaxy",
+      "King Cobra": "M67 | NGC 2682 | King Cobra or Golden Eye Cluster | | Open cluster",
+      "Angelfish Cluster": "M71 | NGC 6838 | Angelfish Cluster | | Globular cluster",
+      "Phantom Galaxy": "M74 | NGC 628 | Phantom Galaxy | | Spiral galaxy",
+      "Little Dumbbell Nebula": "M76 | NGC 650, NGC 651 | Little Dumbbell Nebula | | Planetary nebula",
+      "Cetus A": "M77 | NGC 1068 | Cetus A or Squid Galaxy | | Spiral galaxy",
+      "Bode's Galaxy": "M81 | NGC 3031 | Bode's Galaxy | | Spiral galaxy",
+      "Cigar Galaxy": "M82 | NGC 3034 | Cigar Galaxy | | Starburst galaxy",
+      "Southern Pinwheel Galaxy": "M83 | NGC 5236 | Southern Pinwheel Galaxy | | Barred Spiral galaxy",
+      "Virgo A": "M87 | NGC 4486 | Virgo A | | Elliptical galaxy",
+      "Carabin Galaxy": "M90 | NGC 4569 | Carabin Galaxy | | Spiral galaxy",
+      "Critter Cluster": "M93 | NGC 2447 | Critter Cluster | | Open cluster",
+      "Cat's Eye Galaxy": "M94 | NGC 4736 | Crocodile Eye or Cat's Eye Galaxy | | Spiral galaxy",
+      "Owl Nebula": "M97 | NGC 3587 | Owl Nebula | | Planetary nebula",
+      "St. Catherine's Wheel": "M99 | NGC 4254 | St. Catherine's Wheel | | Spiral galaxy",
+      "Mirror Galaxy": "M100 | NGC 4321 | Mirror Galaxy | | Spiral galaxy",
+      "Pinwheel Galaxy": "M101 | NGC 5457 | Pinwheel Galaxy | | Spiral galaxy",
+      "Spindle Galaxy": "M102 | NGC 5866 | Spindle Galaxy | | Lenticular galaxy",
+      "Sombrero Galaxy": "M104 | NGC 4594 | Sombrero Galaxy | | Spiral galaxy",
+      "Crucifix Cluster": "M107 | NGC 6171 | Crucifix Cluster | | Globular cluster",
+      "Surfboard Galaxy": "M108 | NGC 3556 | Surfboard Galaxy | | Barred Spiral galaxy",
+      "Vacuum Cleaner Galaxy": "M109 | NGC 3992 | Vacuum Cleaner Galaxy | | Barred Spiral galaxy",
+      "Andromeda Satellite #2": "M110 | NGC 205 | Andromeda Satellite #2 | | Dwarf elliptical galaxy"
+    },
+    "issues": []
+  }
+}

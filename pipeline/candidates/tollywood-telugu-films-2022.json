@@ -1,0 +1,1410 @@
+{
+  "question": {
+    "id": "tollywood-telugu-films-2022",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film released in 2022.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "aasha-encounter",
+        "canonical": "Aasha Encounter",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Aasha Encounter on January 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "induvadana",
+        "canonical": "Induvadana",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Induvadana on January 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "1945",
+        "canonical": "1945",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 1945 on January 7.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "atithi-devo-bhava",
+        "canonical": "Atithi Devo Bhava",
+        "aliases": [
+          "Athithi Devo Bhava"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Atithi Devo Bhava on January 7.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bangarraju",
+        "canonical": "Bangarraju",
+        "aliases": [
+          "Bangaraju"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bangarraju on January 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "rowdy-boys",
+        "canonical": "Rowdy Boys",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Rowdy Boys on January 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "super-machi",
+        "canonical": "Super Machi",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Super Machi on January 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "the-american-dream",
+        "canonical": "The American Dream",
+        "aliases": [
+          "American Dream"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists The American Dream on January 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "hero",
+        "canonical": "Hero",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Hero on January 15.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "uniki",
+        "canonical": "Uniki",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Uniki on January 18.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "good-luck-sakhi",
+        "canonical": "Good Luck Sakhi",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Good Luck Sakhi on January 28.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "khiladi",
+        "canonical": "Khiladi",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Khiladi on February 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sehari",
+        "canonical": "Sehari",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sehari on February 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bhamakalapam",
+        "canonical": "Bhamakalapam",
+        "aliases": [
+          "Bhama Kalapam"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bhamakalapam on February 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "malli-modalaindhi",
+        "canonical": "Malli Modalaindhi",
+        "aliases": [
+          "Malli Modalaindi"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Malli Modalaindhi on February 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "dj-tillu",
+        "canonical": "DJ Tillu",
+        "aliases": [
+          "D J Tillu"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists DJ Tillu on February 12.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "son-of-india",
+        "canonical": "Son of India",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Son of India on February 18.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "virgin-story",
+        "canonical": "Virgin Story",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Virgin Story on February 18.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bheemla-nayak",
+        "canonical": "Bheemla Nayak",
+        "aliases": [
+          "Bhimla Nayak"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bheemla Nayak on February 25.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sebastian-pc-524",
+        "canonical": "Sebastian PC 524",
+        "aliases": [
+          "Sebastian P.C. 524"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sebastian PC 524 on March 4.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "aadavallu-meeku-johaarlu",
+        "canonical": "Aadavallu Meeku Johaarlu",
+        "aliases": [
+          "Aadavallu Meeku Joharlu"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Aadavallu Meeku Johaarlu on March 4.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "radhe-shyam",
+        "canonical": "Radhe Shyam",
+        "aliases": [
+          "RadheShyam"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Radhe Shyam on March 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "stand-up-rahul",
+        "canonical": "Stand Up Rahul",
+        "aliases": [
+          "Standup Rahul"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Stand Up Rahul on March 18.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "R R R"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists RRR on March 25.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "mishan-impossible",
+        "canonical": "Mishan Impossible",
+        "aliases": [
+          "Mission Impossible"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Mishan Impossible on April 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ghani",
+        "canonical": "Ghani",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ghani on April 8.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bloody-mary",
+        "canonical": "Bloody Mary",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bloody Mary on April 15.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "zinga",
+        "canonical": "Zinga",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Zinga on April 19.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bommala-koluvu",
+        "canonical": "Bommala Koluvu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bommala Koluvu on April 22.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "acharya",
+        "canonical": "Acharya",
+        "aliases": [
+          "Aacharya"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Acharya on April 29.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "jayamma-panchayathi",
+        "canonical": "Jayamma Panchayathi",
+        "aliases": [
+          "Jayamma Panchayati"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Jayamma Panchayathi on May 6.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bhala-thandanana",
+        "canonical": "Bhala Thandanana",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bhala Thandanana on May 6.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ashoka-vanamlo-arjuna-kalyanam",
+        "canonical": "Ashoka Vanamlo Arjuna Kalyanam",
+        "aliases": [
+          "Ashoka Vanam Lo Arjuna Kalyanam"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ashoka Vanamlo Arjuna Kalyanam on May 6.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sarkaru-vaari-paata",
+        "canonical": "Sarkaru Vaari Paata",
+        "aliases": [
+          "Sarkaru Vari Pata",
+          "Sarkaru Vari Paata"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sarkaru Vaari Paata on May 12.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "shekar",
+        "canonical": "Shekar",
+        "aliases": [
+          "Sekhar"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Shekar on May 20.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "f3-fun-and-frustration",
+        "canonical": "F3: Fun and Frustration",
+        "aliases": [
+          "F3",
+          "F3 Fun and Frustration",
+          "F 3"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists F3: Fun and Frustration on May 27.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "major",
+        "canonical": "Major",
+        "aliases": [],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Major on June 3.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ante-sundaraniki",
+        "canonical": "Ante Sundaraniki",
+        "aliases": [
+          "Ante Sundaraniki!"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ante Sundaraniki on June 10.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "kinnerasani",
+        "canonical": "Kinnerasani",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Kinnerasani on June 10.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "suraapanam",
+        "canonical": "Suraapanam",
+        "aliases": [
+          "Surapanam"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Suraapanam on June 10.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "virata-parvam",
+        "canonical": "Virata Parvam",
+        "aliases": [
+          "Virataparvam"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Virata Parvam on June 17.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "godse",
+        "canonical": "Godse",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Godse on June 17.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "konda",
+        "canonical": "Konda",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Konda on June 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sammathame",
+        "canonical": "Sammathame",
+        "aliases": [
+          "Sammathamey"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sammathame on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "chor-bazaar",
+        "canonical": "Chor Bazaar",
+        "aliases": [
+          "Chor Bazar"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Chor Bazaar on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sadha-nannu-nadipe",
+        "canonical": "Sadha Nannu Nadipe",
+        "aliases": [
+          "Sada Nannu Nadipe"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sadha Nannu Nadipe on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "7-days-6-nights",
+        "canonical": "7 Days 6 Nights",
+        "aliases": [
+          "Seven Days Six Nights"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 7 Days 6 Nights on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "gangster-gangaraju",
+        "canonical": "Gangster Gangaraju",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Gangster Gangaraju on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "pellikuturu-party",
+        "canonical": "Pellikuturu Party",
+        "aliases": [
+          "Pelli Kuturu Party"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Pellikuturu Party on June 24.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "chittam-maharani",
+        "canonical": "Chittam Maharani",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Chittam Maharani on June 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "pakka-commercial",
+        "canonical": "Pakka Commercial",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Pakka Commercial on July 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "10th-class-diaries",
+        "canonical": "10th Class Diaries",
+        "aliases": [
+          "Tenth Class Diaries"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 10th Class Diaries on July 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "shikaru",
+        "canonical": "Shikaru",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Shikaru on July 1.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "october-december",
+        "canonical": "October–December",
+        "aliases": [
+          "October-December",
+          "October December"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supplied release table gives October–December as the title of a July 8 entry.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "the-warriorr",
+        "canonical": "The Warriorr",
+        "aliases": [
+          "The Warrior",
+          "Warriorr",
+          "Warrior"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists The Warriorr on July 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "canonical": "Thank You",
+        "aliases": [
+          "Thankyou"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Thank You on July 22.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ramarao-on-duty",
+        "canonical": "Ramarao on Duty",
+        "aliases": [
+          "Rama Rao on Duty"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ramarao on Duty on July 29.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "bimbisara",
+        "canonical": "Bimbisara",
+        "aliases": [],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bimbisara on August 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "sita-ramam",
+        "canonical": "Sita Ramam",
+        "aliases": [
+          "Seetha Ramam",
+          "Sitaramam"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sita Ramam on August 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "macherla-niyojakavargam",
+        "canonical": "Macherla Niyojakavargam",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Macherla Niyojakavargam on August 12.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "karthikeya-2",
+        "canonical": "Karthikeya 2",
+        "aliases": [
+          "Kartikeya 2",
+          "Karthikeya Two"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Karthikeya 2 on August 13.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "tees-maar-khan",
+        "canonical": "Tees Maar Khan",
+        "aliases": [
+          "Tees Mar Khan"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Tees Maar Khan on August 19.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "highway",
+        "canonical": "Highway",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Highway on August 19.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "wanted-pandugod",
+        "canonical": "Wanted Pandugod",
+        "aliases": [
+          "Wanted Pandugadu"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Wanted Pandugod on August 19.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "liger",
+        "canonical": "Liger",
+        "aliases": [],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Liger on August 25.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "odela-railway-station",
+        "canonical": "Odela Railway Station",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Odela Railway Station on August 26.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ranga-ranga-vaibhavanga",
+        "canonical": "Ranga Ranga Vaibhavanga",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ranga Ranga Vaibhavanga on September 2.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "first-day-first-show",
+        "canonical": "First Day First Show",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists First Day First Show on September 2.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "oke-oka-jeevitham",
+        "canonical": "Oke Oka Jeevitham",
+        "aliases": [
+          "Oke Oka Jeevitam"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Oke Oka Jeevitham on September 9.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "kotha-kothaga",
+        "canonical": "Kotha Kothaga",
+        "aliases": [
+          "Kotta Kottaga"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Kotha Kothaga on September 9.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "aa-ammayi-gurinchi-meeku-cheppali",
+        "canonical": "Aa Ammayi Gurinchi Meeku Cheppali",
+        "aliases": [
+          "Aa Ammai Gurinchi Meeku Cheppali"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Aa Ammayi Gurinchi Meeku Cheppali on September 16.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "nenu-meeku-baaga-kavalsinavaadini",
+        "canonical": "Nenu Meeku Baaga Kavalsinavaadini",
+        "aliases": [
+          "Nenu Meeku Baga Kavalsinavadini"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Nenu Meeku Baaga Kavalsinavaadini on September 16.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "saakini-daakini",
+        "canonical": "Saakini Daakini",
+        "aliases": [
+          "Sakini Dakini"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Saakini Daakini on September 16.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "krishna-vrinda-vihari",
+        "canonical": "Krishna Vrinda Vihari",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Krishna Vrinda Vihari on September 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "alluri",
+        "canonical": "Alluri",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Alluri on September 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "dongalunnaru-jaagratha",
+        "canonical": "Dongalunnaru Jaagratha",
+        "aliases": [
+          "Dongalunnaru Jagratha"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Dongalunnaru Jaagratha on September 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "the-ghost",
+        "canonical": "The Ghost",
+        "aliases": [
+          "Ghost"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists The Ghost on October 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "godfather",
+        "canonical": "Godfather",
+        "aliases": [
+          "God Father"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Godfather on October 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "swathi-muthyam",
+        "canonical": "Swathi Muthyam",
+        "aliases": [
+          "Swati Mutyam",
+          "Swathi Mutyam"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Swathi Muthyam on October 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "boyfriend-for-hire",
+        "canonical": "Boyfriend for Hire",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Boyfriend for Hire on October 14.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ammu",
+        "canonical": "Ammu",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ammu on October 19.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ginna",
+        "canonical": "Ginna",
+        "aliases": [],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ginna on October 21.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "ori-devuda",
+        "canonical": "Ori Devuda",
+        "aliases": [
+          "Ori Devuda!"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ori Devuda on October 21.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "anukoni-prayanam",
+        "canonical": "Anukoni Prayanam",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Anukoni Prayanam on October 28.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "like-share-subscribe",
+        "canonical": "Like, Share & Subscribe",
+        "aliases": [
+          "Like Share and Subscribe",
+          "Like Share Subscribe"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Like, Share & Subscribe on November 4.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "urvasivo-rakshasivo",
+        "canonical": "Urvasivo Rakshasivo",
+        "aliases": [
+          "Urvasivo Rakshasivo!",
+          "Urvashivo Rakshashivo"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Urvasivo Rakshasivo on November 4.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "pratibimbalu",
+        "canonical": "Pratibimbalu",
+        "aliases": [],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Pratibimbalu on November 5.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "yashoda",
+        "canonical": "Yashoda",
+        "aliases": [
+          "Yasoda"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Yashoda on November 11.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "masooda",
+        "canonical": "Masooda",
+        "aliases": [
+          "Masuda"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Masooda on November 18.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "itlu-maredumilli-prajaneekam",
+        "canonical": "Itlu Maredumilli Prajaneekam",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Itlu Maredumilli Prajaneekam on November 25.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "hit-the-second-case",
+        "canonical": "HIT: The Second Case",
+        "aliases": [
+          "HIT 2",
+          "HIT The Second Case",
+          "Hit Second Case"
+        ],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists HIT: The Second Case on December 2.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "mukhachitram",
+        "canonical": "Mukhachitram",
+        "aliases": [
+          "Mukha Chitram"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Mukhachitram on December 9.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "panchathantram",
+        "canonical": "Panchathantram",
+        "aliases": [
+          "Panchatantram"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Panchathantram on December 9.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "dangerous",
+        "canonical": "Dangerous",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Dangerous on December 9.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "shasana-sabha",
+        "canonical": "Shasana Sabha",
+        "aliases": [
+          "Sasana Sabha",
+          "Shasanasabha"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Shasana Sabha on December 16.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "18-pages",
+        "canonical": "18 Pages",
+        "aliases": [
+          "Eighteen Pages"
+        ],
+        "familiarity": 0.0124,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 18 Pages on December 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "dhamaka",
+        "canonical": "Dhamaka",
+        "aliases": [],
+        "familiarity": 0.031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Dhamaka on December 23.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "top-gear",
+        "canonical": "Top Gear",
+        "aliases": [],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Top Gear on December 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "raajahyogam",
+        "canonical": "Raajahyogam",
+        "aliases": [
+          "Rajayogam",
+          "Raaja Yogam"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Raajahyogam on December 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "lucky-lakshman",
+        "canonical": "Lucky Lakshman",
+        "aliases": [
+          "Lucky Laxman"
+        ],
+        "familiarity": 0.0037,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Lucky Lakshman on December 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "s5-no-exit",
+        "canonical": "S5 No Exit",
+        "aliases": [
+          "S5: No Exit",
+          "S 5 No Exit"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists S5 No Exit on December 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "nuvve-naa-pranam",
+        "canonical": "Nuvve Naa Pranam",
+        "aliases": [
+          "Nuvve Na Pranam"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Nuvve Naa Pranam on December 30.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      },
+      {
+        "id": "korameenu",
+        "canonical": "Korameenu",
+        "aliases": [
+          "Koramenu"
+        ],
+        "familiarity": 0.0009,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Korameenu on December 31.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2022"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied list of Telugu-language films released in 2022, covering January through December.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2022",
+        "title": "List of Telugu films of 2022",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2022",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "ebc5bb6772517591",
+    "brief": "Name a Telugu film released in 2022.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2022",
+        "version": "1380343252",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Aasha Encounter": "J A N | 1 | Aasha Encounter | Anand Chandra",
+      "Induvadana": "J A N | 1 | Induvadana | M. Srinivas Raju",
+      "1945": "J A N | 7 | 1945 | Sathyasiva",
+      "Atithi Devo Bhava": "J A N | 7 | Atithi Devo Bhava | Polimera Nageshawar",
+      "Bangarraju": "J A N | 14 | Bangarraju | Kalyan Krishna",
+      "Rowdy Boys": "J A N | 14 | Rowdy Boys | Harsha Konuganti",
+      "Super Machi": "J A N | 14 | Super Machi | Puli Vaasu",
+      "The American Dream": "J A N | 14 | The American Dream | Dr. Vighnesh Koushik",
+      "Hero": "J A N | 15 | Hero | Sriram Adittya",
+      "Uniki": "J A N | 18 | Uniki | Rajkumar Bobby",
+      "Good Luck Sakhi": "J A N | 28 | Good Luck Sakhi | Nagesh Kukunoor",
+      "Khiladi": "F E B | 11 | Khiladi | Ramesh Varma",
+      "Sehari": "F E B | 11 | Sehari | Gnanasagar Dwaraka",
+      "Bhamakalapam": "F E B | 11 | Bhamakalapam | Abhimanyu",
+      "Malli Modalaindhi": "F E B | 11 | Malli Modalaindhi | TG Keerthi Kumar",
+      "DJ Tillu": "F E B | 12 | DJ Tillu | Vimal Krishna",
+      "Son of India": "F E B | 18 | Son of India | Diamond Ratnababu",
+      "Virgin Story": "F E B | 18 | Virgin Story | Pradip B. Atluri",
+      "Bheemla Nayak": "F E B | 25 | Bheemla Nayak | Saagar K Chandra",
+      "Sebastian PC 524": "M A R | 4 | Sebastian PC 524 | Balaji Sayyapureddy",
+      "Aadavallu Meeku Johaarlu": "M A R | 4 | Aadavallu Meeku Johaarlu | Tirumala Kishore",
+      "Radhe Shyam": "M A R | 11 | Radhe Shyam | Radha Krishna Kumar",
+      "Stand Up Rahul": "M A R | 18 | Stand Up Rahul | Santo",
+      "RRR": "M A R | 25 | RRR | S. S. Rajamouli",
+      "Mishan Impossible": "A P R | 1 | Mishan Impossible | Swaroop RSJ",
+      "Ghani": "A P R | 8 | Ghani | Kiran Korrapati",
+      "Bloody Mary": "A P R | 15 | Bloody Mary | Chandoo Mondeti",
+      "Zinga": "A P R | 19 | Zinga | Jaichanakar Chigurula",
+      "Bommala Koluvu": "A P R | 22 | Bommala Koluvu | Swaroop RSJ",
+      "Acharya": "A P R | 29 | Acharya | Koratala Siva",
+      "Jayamma Panchayathi": "M A Y | 6 | Jayamma Panchayathi | Vijay Kumar Kalivarapu",
+      "Bhala Thandanana": "M A Y | 6 | Bhala Thandanana | Chaitanya Dantluri",
+      "Ashoka Vanamlo Arjuna Kalyanam": "M A Y | 6 | Ashoka Vanamlo Arjuna Kalyanam | Vidya Sagar Chinta",
+      "Sarkaru Vaari Paata": "M A Y | 12 | Sarkaru Vaari Paata | Parasuram",
+      "Shekar": "M A Y | 20 | Shekar | Jeevitha",
+      "F3: Fun and Frustration": "M A Y | 27 | F3: Fun and Frustration | Anil Ravipudi",
+      "Major": "J U N | 3 | Major | Sashi Kiran Tikka",
+      "Ante Sundaraniki": "J U N | 10 | Ante Sundaraniki | Vivek Athreya",
+      "Kinnerasani": "J U N | 10 | Kinnerasani | Ramana Teja",
+      "Suraapanam": "J U N | 10 | Suraapanam | Sampath Kumar",
+      "Virata Parvam": "J U N | 17 | Virata Parvam | Venu Udugula",
+      "Godse": "J U N | 17 | Godse | Gopi Ganesh Pattabhi",
+      "Konda": "J U N | 23 | Konda | Ram Gopal Varma",
+      "Sammathame": "J U N | 24 | Sammathame | Gopinath Reddy",
+      "Chor Bazaar": "J U N | 24 | Chor Bazaar | B Jeeevan Reddy",
+      "Sadha Nannu Nadipe": "J U N | 24 | Sadha Nannu Nadipe | Lanka Pratheek Prem Karan",
+      "7 Days 6 Nights": "J U N | 24 | 7 Days 6 Nights | M. S. Raju",
+      "Gangster Gangaraju": "J U N | 24 | Gangster Gangaraju | Eeshaan Suryaah",
+      "Pellikuturu Party": "J U N | 24 | Pellikuturu Party | Aparna Malladi",
+      "Chittam Maharani": "J U N | 30 | Chittam Maharani | Akula Kasi Viswanath",
+      "Pakka Commercial": "J U L Y | 1 | Pakka Commercial | Maruthi",
+      "10th Class Diaries": "J U L Y | 1 | 10th Class Diaries | Anji",
+      "Shikaru": "J U L Y | 1 | Shikaru | Hari Kolagani",
+      "October–December": "J U L Y | 8 | October–December | Ritesh Rana",
+      "The Warriorr": "J U L Y | 14 | The Warriorr | N. Lingusamy",
+      "Thank You": "J U L Y | 22 | Thank You | Vikram Kumar",
+      "Ramarao on Duty": "J U L Y | 29 | Ramarao on Duty | Sarath Mandava",
+      "Bimbisara": "A U G | 5 | Bimbisara | Mallidi Vashist",
+      "Sita Ramam": "A U G | 5 | Sita Ramam | Hanu Raghavapudi",
+      "Macherla Niyojakavargam": "A U G | 12 | Macherla Niyojakavargam | M.S. Raja Shekhar Reddy",
+      "Karthikeya 2": "A U G | 13 | Karthikeya 2 | Chandoo Mondeti",
+      "Tees Maar Khan": "A U G | 19 | Tees Maar Khan | Kalyanji Gogana",
+      "Highway": "A U G | 19 | Highway | K. V. Guhan",
+      "Wanted Pandugod": "A U G | 19 | Wanted Pandugod | Sreedhar Seepana",
+      "Liger": "A U G | 25 | Liger | Puri Jagannadh",
+      "Odela Railway Station": "A U G | 26 | Odela Railway Station | Ashok Teja",
+      "Ranga Ranga Vaibhavanga": "S E P | 2 | Ranga Ranga Vaibhavanga | Gireesaaya",
+      "First Day First Show": "S E P | 2 | First Day First Show | Vamshidhar Goud",
+      "Oke Oka Jeevitham": "S E P | 9 | Oke Oka Jeevitham | Shree Karthick",
+      "Kotha Kothaga": "S E P | 9 | Kotha Kothaga | Hanumaan Vasamsetty",
+      "Aa Ammayi Gurinchi Meeku Cheppali": "S E P | 16 | Aa Ammayi Gurinchi Meeku Cheppali | Mohana Krishna Indraganti",
+      "Nenu Meeku Baaga Kavalsinavaadini": "S E P | 16 | Nenu Meeku Baaga Kavalsinavaadini | Sridhar Gadhe",
+      "Saakini Daakini": "S E P | 16 | Saakini Daakini | Sudheer Varma",
+      "Krishna Vrinda Vihari": "S E P | 23 | Krishna Vrinda Vihari | Anish R. Krishna",
+      "Alluri": "S E P | 23 | Alluri | Pradeep Varma",
+      "Dongalunnaru Jaagratha": "S E P | 23 | Dongalunnaru Jaagratha | Satish Tripura",
+      "The Ghost": "O C T | 5 | The Ghost | Praveen Sattaru",
+      "Godfather": "O C T | 5 | Godfather | Mohan Raja",
+      "Swathi Muthyam": "O C T | 5 | Swathi Muthyam | Lakshman K Krishna",
+      "Boyfriend for Hire": "O C T | 14 | Boyfriend for Hire | Santosh Kambhampati",
+      "Ammu": "O C T | 19 | Ammu | Charukesh Sekar",
+      "Ginna": "O C T | 21 | Ginna | Suryaah",
+      "Ori Devuda": "O C T | 21 | Ori Devuda | Ashwath Marimuthu",
+      "Anukoni Prayanam": "O C T | 28 | Anukoni Prayanam | Venkatesh Pediredla",
+      "Like, Share & Subscribe": "N O V | 4 | Like, Share & Subscribe | Merlapaka Gandhi",
+      "Urvasivo Rakshasivo": "N O V | 4 | Urvasivo Rakshasivo | Rakesh Sashii",
+      "Pratibimbalu": "N O V | 5 | Pratibimbalu | K. S. Prakash Rao Singeetam Srinivasa Rao",
+      "Yashoda": "N O V | 11 | Yashoda | Hari–Harish",
+      "Masooda": "N O V | 18 | Masooda | Sai Kiran",
+      "Itlu Maredumilli Prajaneekam": "N O V | 25 | Itlu Maredumilli Prajaneekam | AR Mohan",
+      "HIT: The Second Case": "D E C | 2 | HIT: The Second Case | Sailesh Kolanu",
+      "Mukhachitram": "D E C | 9 | Mukhachitram | Sandeep Raj",
+      "Panchathantram": "D E C | 9 | Panchathantram | Harsha Pulipaka",
+      "Dangerous": "D E C | 9 | Dangerous | Ram Gopal Varma",
+      "Shasana Sabha": "D E C | 16 | Shasana Sabha | | | |",
+      "18 Pages": "D E C | 23 | 18 Pages | Palnati Surya Pratap",
+      "Dhamaka": "D E C | 23 | Dhamaka | Trinadha Rao Nakkina",
+      "Top Gear": "D E C | 30 | Top Gear | Shashikanth",
+      "Raajahyogam": "D E C | 30 | Raajahyogam | Ram Ganapathi",
+      "Lucky Lakshman": "D E C | 30 | Lucky Lakshman | AR Abhi",
+      "S5 No Exit": "D E C | 30 | S5 No Exit | Sunny Komalapati",
+      "Nuvve Naa Pranam": "D E C | 30 | Nuvve Naa Pranam | Srikrishna Malisetti",
+      "Korameenu": "D E C | 31 | Korameenu | Sripathy Karri"
+    },
+    "issues": []
+  }
+}

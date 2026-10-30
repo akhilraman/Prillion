@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import type { QuestionResult } from '../domain/round.ts';
 import { scoreQuestionAnswers } from '../domain/scoring.ts';
 import { isAiKnowledge } from '../domain/types.ts';
@@ -7,6 +7,7 @@ import { NO_CATCH, RANKS, TIER_LABELS } from './labels.ts';
 import { CREATURES, EMPTY_HOOK } from './scene/creatures.ts';
 import { PixelSprite } from './scene/PixelSprite.tsx';
 import { sinkMetres } from './scene/depth.ts';
+import { MISS_IMAGE, pickTierImage } from './scene/tierImages.ts';
 
 interface RevealStageProps {
   question: Question;
@@ -30,11 +31,17 @@ export function RevealStage({ question, result }: RevealStageProps) {
   const matched = question.answers.find((a) => a.id === result.answerId);
   const tier = result.outcome === 'correct' && result.score ? result.score.tier : null;
   const rank = tier ? RANKS[tier] : NO_CATCH;
+  // Chosen once per reveal (the stage remounts for every question), so it cannot flicker on re-render.
+  const [sticker] = useState(() => (tier ? pickTierImage(tier) : MISS_IMAGE));
 
   return (
     <section className={`stage stage--${tier ?? 'miss'}`} aria-label="Answer reveal">
       <div className="stage__creature" aria-hidden="true">
-        <PixelSprite sprite={tier ? CREATURES[tier] : EMPTY_HOOK} scale={tier === 'legendary' ? 6 : 8} />
+        {sticker ? (
+          <img className="stage__sticker" src={sticker} alt="" />
+        ) : (
+          <PixelSprite sprite={tier ? CREATURES[tier] : EMPTY_HOOK} scale={tier === 'legendary' ? 6 : 8} />
+        )}
         {tier && (
           <>
             <span className="stage__bubble stage__bubble--1" />
@@ -44,7 +51,18 @@ export function RevealStage({ question, result }: RevealStageProps) {
         )}
       </div>
 
-      <h2 className="stage__rank">{rank.name}</h2>
+      {tier ? (
+        <h2 className="stage__rank">{rank.name}</h2>
+      ) : (
+        // A line strikes through "Hit" and "Miss" is what stays. "Hit" is decoration only,
+        // so screen readers just hear "Miss".
+        <h2 className="stage__rank stage__rank--miss">
+          <span className="stage__hit" aria-hidden="true">
+            Hit
+          </span>
+          <span>{rank.name}</span>
+        </h2>
+      )}
 
       <p className="stage__answer">
         {matched ? (

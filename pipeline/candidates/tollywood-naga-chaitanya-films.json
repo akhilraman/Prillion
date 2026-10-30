@@ -1,0 +1,428 @@
+{
+  "question": {
+    "id": "tollywood-naga-chaitanya-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Naga Chaitanya has acted, including cameo appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "josh",
+        "canonical": "Josh",
+        "aliases": [],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Sathya in his 2009 debut film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "ye-maaya-chesave",
+        "canonical": "Ye Maaya Chesave",
+        "aliases": [
+          "Ye Maya Chesave"
+        ],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Karthik Naidu in this 2010 romantic drama.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "vinnaithaandi-varuvaayaa",
+        "canonical": "Vinnaithaandi Varuvaayaa",
+        "aliases": [
+          "Vinnaithandi Varuvaya",
+          "Vinnaithaandi Varuvaaya"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya made a cameo appearance as himself in this Tamil film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "100-love",
+        "canonical": "100% Love",
+        "aliases": [
+          "100 Percent Love"
+        ],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Balu Mahendra in this 2011 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "dhada",
+        "canonical": "Dhada",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Vishwa in this 2011 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "bejawada",
+        "canonical": "Bejawada",
+        "aliases": [
+          "Bezawada"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Shiva Krishna in this 2011 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "tadakha",
+        "canonical": "Tadakha",
+        "aliases": [
+          "Tadaka"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Karthik in this 2013 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "manam",
+        "canonical": "Manam",
+        "aliases": [],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Nagarjuna and Radha Mohan in this 2014 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "autonagar-surya",
+        "canonical": "Autonagar Surya",
+        "aliases": [
+          "Auto Nagar Surya"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Surya in this 2014 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "oka-laila-kosam",
+        "canonical": "Oka Laila Kosam",
+        "aliases": [],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Karthik in this 2014 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "dohchay",
+        "canonical": "Dohchay",
+        "aliases": [
+          "Dochay"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Chandu in this 2015 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "krishnamma-kalipindi-iddarini",
+        "canonical": "Krishnamma Kalipindi Iddarini",
+        "aliases": [],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya made a cameo appearance as himself in this 2015 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "premam",
+        "canonical": "Premam",
+        "aliases": [
+          "Premam (2016)"
+        ],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Vikram Vatsalya in the 2016 Telugu film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "aatadukundam-raa",
+        "canonical": "Aatadukundam Raa",
+        "aliases": [
+          "Aatadukundam Ra"
+        ],
+        "familiarity": 0.0024,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya made a cameo appearance as himself in this 2016 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "sahasam-swasaga-sagipo",
+        "canonical": "Sahasam Swasaga Sagipo",
+        "aliases": [
+          "Saahasam Swaasaga Saagipo"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Rajinikanth Muralidhar in this 2016 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "rarandoi-veduka-chudham",
+        "canonical": "Rarandoi Veduka Chudham",
+        "aliases": [
+          "Rarandoi Veduka Chuddam"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Shiva in this 2017 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "yuddham-sharanam",
+        "canonical": "Yuddham Sharanam",
+        "aliases": [
+          "Yudham Sharanam"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Arjun in this 2017 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya portrayed Akkineni Nageswara Rao in a cameo in this 2018 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "shailaja-reddy-alludu",
+        "canonical": "Shailaja Reddy Alludu",
+        "aliases": [
+          "Sailaja Reddy Alludu"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Chaitanya, also called Chaitu, in this 2018 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "savyasachi",
+        "canonical": "Savyasachi",
+        "aliases": [],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Vikramaditya and Aditya in this 2018 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "majili",
+        "canonical": "Majili",
+        "aliases": [],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Poorna Chandra Rao in this 2019 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "oh-baby",
+        "canonical": "Oh! Baby",
+        "aliases": [
+          "Oh Baby"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya made a cameo as young Pasupuleti Kanakaraju in this 2019 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "venky-mama",
+        "canonical": "Venky Mama",
+        "aliases": [
+          "Venky Maama"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Captain Karthik Shivaram Veeramachineni in this 2019 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "love-story",
+        "canonical": "Love Story",
+        "aliases": [
+          "Love Story (2021)"
+        ],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Revanth in this 2021 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "bangarraju",
+        "canonical": "Bangarraju",
+        "aliases": [
+          "Bangaraju"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Chinna Bangarraju in this 2022 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "thank-you",
+        "canonical": "Thank You",
+        "aliases": [
+          "Thank You (2022)"
+        ],
+        "familiarity": 0.0098,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Abhiram in this 2022 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "laal-singh-chaddha",
+        "canonical": "Laal Singh Chaddha",
+        "aliases": [
+          "Lal Singh Chaddha",
+          "Laal Singh Chadha"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya appeared in this 2022 Hindi film in the listed Bodi roles.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "custody",
+        "canonical": "Custody",
+        "aliases": [
+          "Custody (2023)"
+        ],
+        "familiarity": 0.0326,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played PC A. Shiva in this film, which was also shot in Tamil.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      },
+      {
+        "id": "thandel",
+        "canonical": "Thandel",
+        "aliases": [],
+        "familiarity": 0.0816,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chaitanya played Raju in this 2025 film.",
+        "sourceIds": [
+          "naga-chaitanya"
+        ]
+      }
+    ],
+    "explanation": "Naga Chaitanya's film credits include leading roles, supporting roles and cameos in Telugu, Tamil and Hindi films. These are the released films listed in the supplied filmography; the unreleased Vrushakarma and the television series Dhootha are excluded.",
+    "sources": [
+      {
+        "id": "naga-chaitanya",
+        "title": "Naga Chaitanya",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Naga_Chaitanya",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "146085681b05c7de",
+    "brief": "Name a film in which the Telugu actor Naga Chaitanya has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "naga-chaitanya",
+        "version": "1376721109",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Josh": "2009 | Josh | Sathya | |",
+      "Ye Maaya Chesave": "2010 | Ye Maaya Chesave | Karthik Naidu | |",
+      "Vinnaithaandi Varuvaayaa": "2010 | Vinnaithaandi Varuvaayaa | Himself | Tamil film; Cameo appearance |",
+      "100% Love": "2011 | 100% Love | Balu Mahendra | |",
+      "Dhada": "2011 | Dhada | Vishwa | |",
+      "Bejawada": "2011 | Bejawada | Shiva Krishna | |",
+      "Tadakha": "2013 | Tadakha | Karthik | |",
+      "Manam": "2014 | Manam | Nagarjuna / Radha Mohan | |",
+      "Autonagar Surya": "2014 | Autonagar Surya | Surya | |",
+      "Oka Laila Kosam": "2014 | Oka Laila Kosam | Karthik | |",
+      "Dohchay": "2015 | Dohchay | Chandu | |",
+      "Krishnamma Kalipindi Iddarini": "2015 | Krishnamma Kalipindi Iddarini | Himself | Cameo appearance |",
+      "Premam": "2016 | Premam | Vikram Vatsalya | |",
+      "Aatadukundam Raa": "2016 | Aatadukundam Raa | Himself | Cameo appearance |",
+      "Sahasam Swasaga Sagipo": "2016 | Sahasam Swasaga Sagipo | Rajinikanth Muralidhar | |",
+      "Rarandoi Veduka Chudham": "2017 | Rarandoi Veduka Chudham | Shiva | |",
+      "Yuddham Sharanam": "2017 | Yuddham Sharanam | Arjun | |",
+      "Mahanati": "2018 | Mahanati | Akkineni Nageswara Rao | Cameo appearance |",
+      "Shailaja Reddy Alludu": "2018 | Shailaja Reddy Alludu | Chaitanya \"Chaitu\" | |",
+      "Savyasachi": "2018 | Savyasachi | Vikramaditya \"Vikram\" / Aditya | |",
+      "Majili": "2019 | Majili | Poorna Chandra Rao | |",
+      "Oh! Baby": "2019 | Oh! Baby | Young Pasupuleti Kanakaraju | Cameo appearance |",
+      "Venky Mama": "2019 | Venky Mama | Capt. Karthik Shivaram Veeramachineni | |",
+      "Love Story": "2021 | Love Story | Revanth | |",
+      "Bangarraju": "2022 | Bangarraju | Chinna Bangarraju | |",
+      "Thank You": "2022 | Thank You | Abhiram | |",
+      "Laal Singh Chaddha": "2022 | Laal Singh Chaddha | Balaraju Bodi, Ramaraju Bodi, Devaraju Bodi and Varadaraju Bodi | Hindi film |",
+      "Custody": "2023 | Custody | PC A. Shiva | Simultaneously shot in Tamil |",
+      "Thandel": "2025 | Thandel | Raju | |"
+    },
+    "issues": []
+  }
+}

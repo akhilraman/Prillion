@@ -1,0 +1,637 @@
+{
+  "question": {
+    "id": "tollywood-shruti-haasan-films",
+    "category": "tollywood",
+    "prompt": "Name a movie listed in Shruti Haasan's film credits, including cameos and unreleased films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "hey-ram",
+        "canonical": "Hey Ram",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan is credited as Vallabhbhai Patel's daughter in this film as a child artist.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "luck",
+        "canonical": "Luck",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Ayesha and Natasha in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "anaganaga-o-dheerudu",
+        "canonical": "Anaganaga O Dheerudu",
+        "aliases": [
+          "Anaganaga O Dhirudu"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Priya in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "dil-toh-baccha-hai-ji",
+        "canonical": "Dil Toh Baccha Hai Ji",
+        "aliases": [
+          "Dil To Baccha Hai Ji"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Nikki Narang in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "7-aum-arivu",
+        "canonical": "7 Aum Arivu",
+        "aliases": [
+          "7aum Arivu",
+          "7am Arivu",
+          "7 Aam Arivu"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Subha Srinivasan in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "oh-my-friend",
+        "canonical": "Oh My Friend",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Siri Chandana in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "3",
+        "canonical": "3",
+        "aliases": [
+          "Three",
+          "3 (2012)"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Janani Ramachandran in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Bhagyalakshmi in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "balupu",
+        "canonical": "Balupu",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Shruti in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "ramaiya-vastavaiya",
+        "canonical": "Ramaiya Vastavaiya",
+        "aliases": [
+          "Ramaiya Vastavaiya (Hindi)"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Sona Singh in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "d-day",
+        "canonical": "D-Day",
+        "aliases": [
+          "D Day"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Suraiya in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "ramayya-vasthavayya",
+        "canonical": "Ramayya Vasthavayya",
+        "aliases": [
+          "Ramayya Vasthavayya (Telugu)"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Ammulu in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "yevadu",
+        "canonical": "Yevadu",
+        "aliases": [],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Manju in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "race-gurram",
+        "canonical": "Race Gurram",
+        "aliases": [
+          "Racegurram"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Spandana, nicknamed Sweety, in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "aagadu",
+        "canonical": "Aagadu",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan makes a special appearance as a dancer in the song Junction Lo.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "poojai",
+        "canonical": "Poojai",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Divya in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "tevar",
+        "canonical": "Tevar",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan makes a special appearance as a dancer in the song Madamiyan.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "gabbar-is-back",
+        "canonical": "Gabbar Is Back",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Advocate Shruti in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "srimanthudu",
+        "canonical": "Srimanthudu",
+        "aliases": [
+          "Sreemanthudu"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Charuseela in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "welcome-back",
+        "canonical": "Welcome Back",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Ranjana Shetty in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "puli",
+        "canonical": "Puli",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Pavazhamalli in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "vedalam",
+        "canonical": "Vedalam",
+        "aliases": [],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Swetha in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "rocky-handsome",
+        "canonical": "Rocky Handsome",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Rukshida Ahlawat in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "premam",
+        "canonical": "Premam",
+        "aliases": [
+          "Premam (2016)",
+          "Premam Telugu"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Sithara Venkatesan in the Telugu film Premam.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "singam-3",
+        "canonical": "Singam 3",
+        "aliases": [
+          "Si3",
+          "S3",
+          "Singam III"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Vidhya / Agni in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "katamarayudu",
+        "canonical": "Katamarayudu",
+        "aliases": [
+          "Katama Rayudu"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Avanthika in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "behen-hogi-teri",
+        "canonical": "Behen Hogi Teri",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Binny Arora in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "yaara",
+        "canonical": "Yaara",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Sukanya in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "putham-pudhu-kaalai",
+        "canonical": "Putham Pudhu Kaalai",
+        "aliases": [
+          "Putham Puthu Kaalai"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Ramya in the Coffee, Anyone? segment of this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "devi",
+        "canonical": "Devi",
+        "aliases": [
+          "Devi (2020)"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Maya in this Hindi short film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "krack",
+        "canonical": "Krack",
+        "aliases": [],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Kalyani Shankar in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "the-power",
+        "canonical": "The Power",
+        "aliases": [
+          "The Power (2021)"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Parveen / Pari in this Hindi film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "pitta-kathalu",
+        "canonical": "Pitta Kathalu",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Divya in the xLife segment of this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "vakeel-saab",
+        "canonical": "Vakeel Saab",
+        "aliases": [
+          "Vakil Saab"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan makes a special appearance as Amrutha Konidela in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "laabam",
+        "canonical": "Laabam",
+        "aliases": [
+          "Labam"
+        ],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Clara in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "veera-simha-reddy",
+        "canonical": "Veera Simha Reddy",
+        "aliases": [
+          "Veerasimha Reddy"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Isha Jai Simha Reddy in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "waltair-veerayya",
+        "canonical": "Waltair Veerayya",
+        "aliases": [
+          "Waltair Veeraya"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays RAW Agent Athidhi in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "the-eye",
+        "canonical": "The Eye",
+        "aliases": [
+          "The Eye (2023)"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Diana in this English-language film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "hi-nanna",
+        "canonical": "Hi Nanna",
+        "aliases": [
+          "Hi Nana"
+        ],
+        "familiarity": 0.0218,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan makes a special appearance as a model in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "salaar-part-1-ceasefire",
+        "canonical": "Salaar: Part 1 – Ceasefire",
+        "aliases": [
+          "Salaar",
+          "Salaar Part 1",
+          "Salaar Ceasefire",
+          "Salaar: Part 1 - Ceasefire"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Aadhya Krishnakanth in this Telugu film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "coolie",
+        "canonical": "Coolie",
+        "aliases": [
+          "Coolie (2025)"
+        ],
+        "familiarity": 0.0546,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan plays Preethi Rajashekar in this Tamil film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "silent-screams",
+        "canonical": "Silent Screams",
+        "aliases": [],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan is credited as the narrator of this Telugu documentary film.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "peddi",
+        "canonical": "Peddi",
+        "aliases": [],
+        "familiarity": 0.0065,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan is credited as Bella Adilakshmi in a special song appearance.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "train",
+        "canonical": "Train",
+        "aliases": [
+          "Train (2026)"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan's film credits list this unreleased Tamil project as being in post-production.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      },
+      {
+        "id": "aakasamlo-oka-tara",
+        "canonical": "Aakasamlo Oka Tara",
+        "aliases": [
+          "Aakashamlo Oka Tara"
+        ],
+        "familiarity": 0.0016,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haasan's film credits list this unreleased Telugu project as filming.",
+        "sourceIds": [
+          "shruti-haasan-filmography"
+        ]
+      }
+    ],
+    "explanation": "These titles appear in Shruti Haasan's filmography across Telugu, Tamil, Hindi and English cinema. The list includes lead roles, cameos, short films, a documentary narration credit and unreleased projects, but excludes television and music videos.",
+    "sources": [
+      {
+        "id": "shruti-haasan-filmography",
+        "title": "Shruti Haasan filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shruti_Haasan_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "48eaa47814051d25",
+    "brief": "Name a movie starring Shruti Haasan.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "shruti-haasan-filmography",
+        "version": "1379747191",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Hey Ram": "2000 | Hey Ram | Vallabhbhai Patel's daughter | Tamil | Child artist |",
+      "Luck": "2009 | Luck | Ayesha, Natasha | Hindi | |",
+      "Anaganaga O Dheerudu": "2011 | Anaganaga O Dheerudu | Priya | Telugu | |",
+      "Dil Toh Baccha Hai Ji": "2011 | Dil Toh Baccha Hai Ji | Nikki Narang | Hindi | |",
+      "7 Aum Arivu": "2011 | 7 Aum Arivu | Subha Srinivasan | Tamil | |",
+      "Oh My Friend": "2011 | Oh My Friend | Siri Chandana | Telugu | |",
+      "3": "2012 | 3 | Janani Ramachandran | Tamil | |",
+      "Gabbar Singh": "2012 | Gabbar Singh | Bhagyalakshmi | Telugu | |",
+      "Balupu": "2013 | Balupu | Shruti | Telugu | |",
+      "Ramaiya Vastavaiya": "2013 | Ramaiya Vastavaiya | Sona Singh | Hindi | |",
+      "D-Day": "2013 | D-Day | Suraiya | Hindi | |",
+      "Ramayya Vasthavayya": "2013 | Ramayya Vasthavayya | Ammulu | Telugu | |",
+      "Yevadu": "2014 | Yevadu | Manju | Telugu | |",
+      "Race Gurram": "2014 | Race Gurram | Spandana \"Sweety\" | Telugu | |",
+      "Aagadu": "2014 | Aagadu | Dancer | Telugu | Special appearance in song \"Junction Lo\" |",
+      "Poojai": "2014 | Poojai | Divya | Tamil | |",
+      "Tevar": "2015 | Tevar | Dancer | Hindi | Special appearance in the song \"Madamiyan\" |",
+      "Gabbar Is Back": "2015 | Gabbar Is Back | Advocate Shruti | Hindi | |",
+      "Srimanthudu": "2015 | Srimanthudu | Charuseela | Telugu | |",
+      "Welcome Back": "2015 | Welcome Back | Ranjana Shetty | Hindi | |",
+      "Puli": "2015 | Puli | Pavazhamalli | Tamil | |",
+      "Vedalam": "2015 | Vedalam | Swetha | Tamil | |",
+      "Rocky Handsome": "2016 | Rocky Handsome | Rukshida Ahlawat | Hindi | |",
+      "Premam": "2016 | Premam | Sithara Venkatesan | Telugu | |",
+      "Singam 3": "2017 | Singam 3 | Vidhya / Agni | Tamil | |",
+      "Katamarayudu": "2017 | Katamarayudu | Avanthika | Telugu | |",
+      "Behen Hogi Teri": "2017 | Behen Hogi Teri | Binny Arora | Hindi | |",
+      "Yaara": "2020 | Yaara | Sukanya | Hindi | |",
+      "Putham Pudhu Kaalai": "2020 | Putham Pudhu Kaalai | Ramya | Tamil | Segment \"Coffee, Anyone?\" |",
+      "Devi": "2020 | Devi | Maya | Hindi | Short film |",
+      "Krack": "2021 | Krack | Kalyani Shankar | Telugu | |",
+      "The Power": "2021 | The Power | Parveen / Pari | Hindi | |",
+      "Pitta Kathalu": "2021 | Pitta Kathalu | Divya | Telugu | Segment: xLife |",
+      "Vakeel Saab": "2021 | Vakeel Saab | Amrutha Konidela | Telugu | Special appearance |",
+      "Laabam": "2021 | Laabam | Clara | Tamil | |",
+      "Veera Simha Reddy": "2023 | Veera Simha Reddy | Isha Jai Simha Reddy | Telugu | |",
+      "Waltair Veerayya": "2023 | Waltair Veerayya | RAW Agent Athidhi | Telugu | |",
+      "The Eye": "2023 | The Eye | Diana | English | |",
+      "Hi Nanna": "2023 | Hi Nanna | Model | Telugu | Special appearance |",
+      "Salaar: Part 1 – Ceasefire": "2023 | Salaar: Part 1 – Ceasefire | Aadhya Krishnakanth | Telugu | |",
+      "Coolie": "2025 | Coolie | Preethi Rajashekar | Tamil | |",
+      "Silent Screams": "2026 | Silent Screams | Narrator | Telugu | Documentary film |",
+      "Peddi": "2026 | Peddi | Bella Adilakshmi | Telugu | Special appearance in the song \"Hellallallo\" |",
+      "Train": "2026 | Train † | TBA | Tamil | Post-production |",
+      "Aakasamlo Oka Tara": "2026 | Aakasamlo Oka Tara † | TBA | Telugu | Filming |"
+    },
+    "issues": []
+  }
+}

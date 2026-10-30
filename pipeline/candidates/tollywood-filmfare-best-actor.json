@@ -1,0 +1,348 @@
+{
+  "question": {
+    "id": "tollywood-filmfare-best-actor",
+    "category": "tollywood",
+    "prompt": "Name an actor who has won the Filmfare Award for Best Actor – Telugu.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "chiranjeevi",
+        "canonical": "Chiranjeevi",
+        "aliases": [
+          "Konidela Chiranjeevi"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chiranjeevi holds the record for this award with seven wins.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "mahesh-babu",
+        "canonical": "Mahesh Babu",
+        "aliases": [
+          "Mahesh"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mahesh Babu has won the award five times.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "allu-arjun",
+        "canonical": "Allu Arjun",
+        "aliases": [
+          "Arjun Allu"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allu Arjun is listed as a five-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "n-t-rama-rao-jr",
+        "canonical": "N. T. Rama Rao Jr.",
+        "aliases": [
+          "Jr NTR",
+          "Junior NTR",
+          "NTR Jr",
+          "N. T. R. Jr.",
+          "NT Rama Rao Jr"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "N. T. Rama Rao Jr. is listed among the actors with three wins.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "ram-charan",
+        "canonical": "Ram Charan",
+        "aliases": [
+          "Ramcharan"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ram Charan is listed as a three-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "pawan-kalyan",
+        "canonical": "Pawan Kalyan",
+        "aliases": [
+          "Pavan Kalyan"
+        ],
+        "familiarity": 0.1044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pawan Kalyan won for Gabbar Singh, released in 2012.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "venkatesh",
+        "canonical": "Venkatesh",
+        "aliases": [
+          "Daggubati Venkatesh",
+          "Venkatesh Daggubati"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Venkatesh has won the award four times.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "nagarjuna",
+        "canonical": "Nagarjuna",
+        "aliases": [
+          "Akkineni Nagarjuna",
+          "Nagarjuna Akkineni"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nagarjuna won for his title role in Annamayya, released in 1997.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "nani",
+        "canonical": "Nani",
+        "aliases": [],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nani won for playing Dharani in Dasara, released in 2023.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "vijay-deverakonda",
+        "canonical": "Vijay Deverakonda",
+        "aliases": [
+          "Vijay Devarakonda"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vijay Deverakonda won for his title role in Arjun Reddy, released in 2017.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "kamal-haasan",
+        "canonical": "Kamal Haasan",
+        "aliases": [
+          "Kamal Hassan",
+          "Kamal"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kamal Haasan is listed as a three-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "n-t-rama-rao",
+        "canonical": "N. T. Rama Rao",
+        "aliases": [
+          "NTR",
+          "NT Rama Rao",
+          "Nandamuri Taraka Rama Rao",
+          "Senior NTR"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "N. T. Rama Rao won the inaugural award for Badi Panthulu, released in 1972.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "akkineni-nageswara-rao",
+        "canonical": "Akkineni Nageswara Rao",
+        "aliases": [
+          "ANR",
+          "Nageswara Rao"
+        ],
+        "familiarity": 0.0418,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Akkineni Nageswara Rao is listed as a three-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "sobhan-babu",
+        "canonical": "Sobhan Babu",
+        "aliases": [
+          "Shobhan Babu",
+          "Sobhanbabu"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sobhan Babu has won the award four times.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "krishnam-raju",
+        "canonical": "Krishnam Raju",
+        "aliases": [
+          "Krishnamraju",
+          "U. V. Krishnam Raju"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Krishnam Raju is listed as a three-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "rajasekhar",
+        "canonical": "Rajasekhar",
+        "aliases": [
+          "Rajashekar",
+          "Rajasekhar"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rajasekhar is listed as a two-time winner.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "mohan-babu",
+        "canonical": "Mohan Babu",
+        "aliases": [
+          "Manchu Mohan Babu"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mohan Babu won for Pedarayudu, released in 1995.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "siddharth",
+        "canonical": "Siddharth",
+        "aliases": [
+          "Siddharth Narayan",
+          "Siddharth Suryanarayan"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Siddharth won for Nuvvostanante Nenoddantana, released in 2005.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "uday-kiran",
+        "canonical": "Uday Kiran",
+        "aliases": [
+          "Udaykiran"
+        ],
+        "familiarity": 0.0125,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Uday Kiran won for Nuvvu Nenu, released in 2001.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "chandra-mohan",
+        "canonical": "Chandra Mohan",
+        "aliases": [
+          "Chandramohan",
+          "Chandramohan"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chandra Mohan won for Padaharella Vayasu, released in 1978.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      },
+      {
+        "id": "j-v-somayajulu",
+        "canonical": "J. V. Somayajulu",
+        "aliases": [
+          "JV Somayajulu",
+          "J V Somayajulu",
+          "Somayajulu"
+        ],
+        "familiarity": 0.0031,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J. V. Somayajulu won for Sankarabharanam, released in 1980.",
+        "sourceIds": [
+          "filmfare-award-for-best-actor-telugu"
+        ]
+      }
+    ],
+    "explanation": "These actors have won the Telugu leading-actor award, not merely received nominations. Chiranjeevi holds the record with seven wins in the supplied source.",
+    "sources": [
+      {
+        "id": "filmfare-award-for-best-actor-telugu",
+        "title": "Filmfare Award for Best Actor – Telugu",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Filmfare_Award_for_Best_Actor_%E2%80%93_Telugu",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "596e23d397ab82bb",
+    "brief": "Name an actor who has won the Filmfare Award for Best Actor – Telugu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "filmfare-award-for-best-actor-telugu",
+        "version": "1378623610",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Chiranjeevi": "7 wins: Chiranjeevi",
+      "Mahesh Babu": "5 wins: Mahesh Babu, Allu Arjun",
+      "Allu Arjun": "5 wins: Mahesh Babu, Allu Arjun",
+      "N. T. Rama Rao Jr.": "3 wins: Akkineni Nageswara Rao, Krishnam Raju, Kamal Haasan, N. T. R. Jr., Ram Charan",
+      "Ram Charan": "3 wins: Akkineni Nageswara Rao, Krishnam Raju, Kamal Haasan, N. T. R. Jr., Ram Charan",
+      "Pawan Kalyan": "2012 | Pawan Kalyan | Venkataratnam Naidu / Gabbar Singh | Gabbar Singh |",
+      "Venkatesh": "4 wins: Sobhan Babu, Venkatesh",
+      "Nagarjuna": "1997 | Nagarjuna | Annamayya | Annamayya |",
+      "Nani": "2023 | Nani | Dharani | Dasara |",
+      "Vijay Deverakonda": "2017 | Vijay Deverakonda | Arjun Reddy | Arjun Reddy |",
+      "Kamal Haasan": "3 wins: Akkineni Nageswara Rao, Krishnam Raju, Kamal Haasan, N. T. R. Jr., Ram Charan",
+      "N. T. Rama Rao": "1972 | N. T. Rama Rao | Raghava Rao | Badi Panthulu |",
+      "Akkineni Nageswara Rao": "3 wins: Akkineni Nageswara Rao, Krishnam Raju, Kamal Haasan, N. T. R. Jr., Ram Charan",
+      "Sobhan Babu": "4 wins: Sobhan Babu, Venkatesh",
+      "Krishnam Raju": "3 wins: Akkineni Nageswara Rao, Krishnam Raju, Kamal Haasan, N. T. R. Jr., Ram Charan",
+      "Rajasekhar": "2 wins: Rajasekhar",
+      "Mohan Babu": "1995 | Mohan Babu | Pedarayudu / Raja | Pedarayudu |",
+      "Siddharth": "2005 | Siddharth | Santosh | Nuvvostanante Nenoddantana |",
+      "Uday Kiran": "2001 | Uday Kiran | Ravi | Nuvvu Nenu |",
+      "Chandra Mohan": "1978 | Chandra Mohan | Gopalakrishna | Padaharella Vayasu |",
+      "J. V. Somayajulu": "1980 | J. V. Somayajulu | Sankara Sastry | Sankarabharanam |"
+    },
+    "issues": []
+  }
+}

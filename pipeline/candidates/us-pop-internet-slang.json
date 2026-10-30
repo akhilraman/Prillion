@@ -1,0 +1,171 @@
+{
+  "question": {
+    "id": "us-pop-internet-slang",
+    "category": "us-pop",
+    "prompt": "Name an abbreviation or acronym used as internet slang.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "lol",
+        "canonical": "LOL",
+        "aliases": [],
+        "familiarity": 0.1735,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists LOL as a common acronym meaning “laugh out loud.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "btw",
+        "canonical": "BTW",
+        "aliases": [],
+        "familiarity": 0.1735,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists BTW as a common acronym meaning “by the way.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "tfw",
+        "canonical": "TFW",
+        "aliases": [],
+        "familiarity": 0.0694,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article lists TFW as a common acronym meaning “that feeling when.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "rofl",
+        "canonical": "ROFL",
+        "aliases": [],
+        "familiarity": 0.0694,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article gives ROFL as internet shorthand for “rolling on the floor laughing.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "cu",
+        "canonical": "CU",
+        "aliases": [],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies CU as an abbreviation for “see you.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "cya",
+        "canonical": "CYA",
+        "aliases": [],
+        "familiarity": 0.0694,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies CYA as an abbreviation for “see ya.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "cul8r",
+        "canonical": "CUL8R",
+        "aliases": [],
+        "familiarity": 0.0208,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article gives CUL8R as a shortened form of “see you later.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "goat",
+        "canonical": "GOAT",
+        "aliases": [],
+        "familiarity": 0.1735,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article explicitly identifies GOAT as a commonly used internet slang term.",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "xoxo",
+        "canonical": "XOXO",
+        "aliases": [],
+        "familiarity": 0.0694,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article includes XOXO as shorthand used by internet users, comparing it with an expression meaning “kiss and hug you.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "pk",
+        "canonical": "pk",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies pk as French online shorthand for pourquoi, meaning “why.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      },
+      {
+        "id": "pq",
+        "canonical": "pq",
+        "aliases": [],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The article identifies pq as French online shorthand for pourquoi, meaning “why.”",
+        "sourceIds": [
+          "internet-slang"
+        ]
+      }
+    ],
+    "explanation": "Internet slang includes shortened words, initialisms, and sound-based abbreviations. Examples range from LOL and BTW to French shorthand such as pk and pq, both used for pourquoi (“why”).",
+    "sources": [
+      {
+        "id": "internet-slang",
+        "title": "Internet slang",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Internet_slang",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "An abbreviation or acronym presented as internet slang in the supplied article. Emoticons, punctuation-only expressions, and names of slang dialects do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "e1cc830e8b4a4f1c",
+    "brief": "Name a piece of internet slang.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "internet-slang",
+        "version": "1376891531",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "LOL": "Examples of common acronyms include \"LOL\" for \"laugh out loud\", \"BTW\" for \"by the way\" and \"TFW\" for \"that feeling when\".",
+      "BTW": "Examples of common acronyms include \"LOL\" for \"laugh out loud\", \"BTW\" for \"by the way\" and \"TFW\" for \"that feeling when\".",
+      "TFW": "Examples of common acronyms include \"LOL\" for \"laugh out loud\", \"BTW\" for \"by the way\" and \"TFW\" for \"that feeling when\".",
+      "ROFL": "LOL \"laugh out loud\" and ROFL \"rolling on the floor laughing\" are examples of letter homophones.",
+      "CU": "An abbreviation is a shortening of a word, for example \"CU\" or \"CYA\" for \"see you (see ya)\".",
+      "CYA": "An abbreviation is a shortening of a word, for example \"CU\" or \"CYA\" for \"see you (see ya)\".",
+      "CUL8R": "There are also combinations of both, like \"CUL8R\" for \"see you later\".",
+      "GOAT": "In the title they reference Faker as the 'GOAT' of League, a commonly used term in internet slang.",
+      "XOXO": "This is comparable to \"XOXO\", which many Internet users use.",
+      "pk": "In French, \"pk\" or \"pq\" is used in the place of pourquoi, which means 'why'.",
+      "pq": "In French, \"pk\" or \"pq\" is used in the place of pourquoi, which means 'why'."
+    },
+    "issues": []
+  }
+}

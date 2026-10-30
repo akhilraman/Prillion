@@ -1,0 +1,333 @@
+{
+  "question": {
+    "id": "tollywood-trisha-films",
+    "category": "tollywood",
+    "prompt": "Name a released Telugu-language film in which Trisha Krishnan appears, including cameos.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "nee-manasu-naaku-telusu",
+        "canonical": "Nee Manasu Naaku Telusu",
+        "aliases": [
+          "Enakku 20 Unakku 18",
+          "Nee Manasu Naku Telusu"
+        ],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Preethi in this Tamil–Telugu bilingual film, which marked her Telugu debut.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "varsham",
+        "canonical": "Varsham",
+        "aliases": [],
+        "familiarity": 0.1076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Sailaja in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "nuvvostanante-nenoddantana",
+        "canonical": "Nuvvostanante Nenoddantana",
+        "aliases": [
+          "Nuvvostanante Nenodantana"
+        ],
+        "familiarity": 0.1076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Siri in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "athadu",
+        "canonical": "Athadu",
+        "aliases": [],
+        "familiarity": 0.1076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Poori in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "allari-bullodu",
+        "canonical": "Allari Bullodu",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays a character named Trisha in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "pournami",
+        "canonical": "Pournami",
+        "aliases": [
+          "Pourn EMI",
+          "Pournima"
+        ],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays the title character in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "bangaram",
+        "canonical": "Bangaram",
+        "aliases": [],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha makes a special appearance as Dhanalakshmi in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "stalin",
+        "canonical": "Stalin",
+        "aliases": [],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Chithra in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "sainikudu",
+        "canonical": "Sainikudu",
+        "aliases": [],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Varalakshmi in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "aadavari-matalaku-arthale-verule",
+        "canonical": "Aadavari Matalaku Arthale Verule",
+        "aliases": [
+          "Adavari Matalaku Arthale Verule",
+          "AMAV"
+        ],
+        "familiarity": 0.1076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Keerthi, also identified as Kusumamba, in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "krishna",
+        "canonical": "Krishna",
+        "aliases": [],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Santhiya in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "bujjigadu",
+        "canonical": "Bujjigadu",
+        "aliases": [
+          "Bujji Gadu"
+        ],
+        "familiarity": 0.1076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Meghana, also called Chitti, in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "king",
+        "canonical": "King",
+        "aliases": [],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Sravani in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "sankham",
+        "canonical": "Sankham",
+        "aliases": [
+          "Shankham"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Mahalakshmi Naidu in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "namo-venkatesa",
+        "canonical": "Namo Venkatesa",
+        "aliases": [
+          "Namo Venkatesha"
+        ],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Pooja in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "ye-maaya-chesave",
+        "canonical": "Ye Maaya Chesave",
+        "aliases": [
+          "Ye Maya Chesave"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha appears as herself in a cameo in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "teen-maar",
+        "canonical": "Teen Maar",
+        "aliases": [
+          "Teenmaar"
+        ],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Meera Shastri in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "bodyguard",
+        "canonical": "Bodyguard",
+        "aliases": [
+          "Body Guard"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Keerthi in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "dammu",
+        "canonical": "Dammu",
+        "aliases": [
+          "Dhammu"
+        ],
+        "familiarity": 0.0431,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Sathya in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "lion",
+        "canonical": "Lion",
+        "aliases": [],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha's role is listed as Guggilla Mahalakshmi / Manjula in this Telugu film.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "cheekati-rajyam",
+        "canonical": "Cheekati Rajyam",
+        "aliases": [
+          "Thoongaa Vanam",
+          "Thoongavanam",
+          "Chీకati Rajyam"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Mallika in this bilingual film's Telugu version.",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      },
+      {
+        "id": "nayaki",
+        "canonical": "Nayaki",
+        "aliases": [
+          "Nayagi"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trisha plays Gayathri in this Telugu film and also sings its song \"Bayam\".",
+        "sourceIds": [
+          "trisha-krishnan-filmography"
+        ]
+      }
+    ],
+    "explanation": "These Telugu-language films appear in Trisha Krishnan's filmography. Bilingual films and cameo appearances count; unreleased films and television series do not.",
+    "sources": [
+      {
+        "id": "trisha-krishnan-filmography",
+        "title": "Trisha Krishnan filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trisha_Krishnan_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "0a312fae8afbf63b",
+    "brief": "Name a film in which Trisha has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "trisha-krishnan-filmography",
+        "version": "1380724336",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Nee Manasu Naaku Telusu": "2003 | Nee Manasu Naaku Telusu | Preethi | Telugu | Bilingual film (Debut in Telugu) |",
+      "Varsham": "2004 | Varsham | Sailaja | Telugu | |",
+      "Nuvvostanante Nenoddantana": "2005 | Nuvvostanante Nenoddantana | Siri | Telugu | |",
+      "Athadu": "2005 | Athadu | Poori | Telugu | |",
+      "Allari Bullodu": "2005 | Allari Bullodu | Trisha | Telugu | |",
+      "Pournami": "2006 | Pournami | Pournami | Telugu | |",
+      "Bangaram": "2006 | Bangaram | Dhanalakshmi | Telugu | Special appearance |",
+      "Stalin": "2006 | Stalin | Chithra | Telugu | |",
+      "Sainikudu": "2006 | Sainikudu | Varalakshmi | Telugu | |",
+      "Aadavari Matalaku Arthale Verule": "2007 | Aadavari Matalaku Arthale Verule | Keerthi (Kusumamba) | Telugu | |",
+      "Krishna": "2008 | Krishna | Santhiya | Telugu | |",
+      "Bujjigadu": "2008 | Bujjigadu | Meghana (Chitti) | Telugu | |",
+      "King": "2008 | King | Sravani | Telugu | |",
+      "Sankham": "2009 | Sankham | Mahalakshmi Naidu | Telugu | |",
+      "Namo Venkatesa": "2010 | Namo Venkatesa | Pooja | Telugu | |",
+      "Ye Maaya Chesave": "2010 | Ye Maaya Chesave | Herself | Telugu | Cameo |",
+      "Teen Maar": "2011 | Teen Maar | Meera Shastri | Telugu | |",
+      "Bodyguard": "2012 | Bodyguard | Keerthi | Telugu | |",
+      "Dammu": "2012 | Dammu | Sathya | Telugu | |",
+      "Lion": "2015 | Lion | Guggilla Mahalakshmi / Manjula | Telugu | |",
+      "Cheekati Rajyam": "2015 | Cheekati Rajyam | Mallika | Telugu | Bilingual film |",
+      "Nayaki": "2016 | Nayaki | Gayathri | Telugu | Also singer for the song \"Bayam\" |"
+    },
+    "issues": []
+  }
+}

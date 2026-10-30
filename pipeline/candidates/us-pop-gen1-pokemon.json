@@ -1,0 +1,1878 @@
+{
+  "question": {
+    "id": "us-pop-gen1-pokemon",
+    "category": "us-pop",
+    "prompt": "Name one of the original 151 Pokémon.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "bulbasaur",
+        "canonical": "Bulbasaur",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0001.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "ivysaur",
+        "canonical": "Ivysaur",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0002.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "venusaur",
+        "canonical": "Venusaur",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0003.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "charmander",
+        "canonical": "Charmander",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0004.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "charmeleon",
+        "canonical": "Charmeleon",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0005.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "charizard",
+        "canonical": "Charizard",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0006.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "squirtle",
+        "canonical": "Squirtle",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0007.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "wartortle",
+        "canonical": "Wartortle",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0008.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "blastoise",
+        "canonical": "Blastoise",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0009.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "caterpie",
+        "canonical": "Caterpie",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0010.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "metapod",
+        "canonical": "Metapod",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0011.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "butterfree",
+        "canonical": "Butterfree",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0012.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "weedle",
+        "canonical": "Weedle",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0013.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kakuna",
+        "canonical": "Kakuna",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0014.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "beedrill",
+        "canonical": "Beedrill",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0015.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "pidgey",
+        "canonical": "Pidgey",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0016.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "pidgeotto",
+        "canonical": "Pidgeotto",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0017.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "pidgeot",
+        "canonical": "Pidgeot",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0018.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "rattata",
+        "canonical": "Rattata",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0019.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "raticate",
+        "canonical": "Raticate",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0020.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "spearow",
+        "canonical": "Spearow",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0021.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "fearow",
+        "canonical": "Fearow",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0022.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "ekans",
+        "canonical": "Ekans",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0023.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "arbok",
+        "canonical": "Arbok",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0024.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "pikachu",
+        "canonical": "Pikachu",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0025.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "raichu",
+        "canonical": "Raichu",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0026.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "sandshrew",
+        "canonical": "Sandshrew",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0027.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "sandslash",
+        "canonical": "Sandslash",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0028.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidoran-female",
+        "canonical": "Nidoran♀ (female)",
+        "aliases": [
+          "Female Nidoran",
+          "Nidoran F"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The female Nidoran is listed as generation I species #0029.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidorina",
+        "canonical": "Nidorina",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0030.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidoqueen",
+        "canonical": "Nidoqueen",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0031.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidoran-male",
+        "canonical": "Nidoran♂ (male)",
+        "aliases": [
+          "Male Nidoran",
+          "Nidoran M"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The male Nidoran is listed as generation I species #0032.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidorino",
+        "canonical": "Nidorino",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0033.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "nidoking",
+        "canonical": "Nidoking",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0034.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "clefairy",
+        "canonical": "Clefairy",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0035.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "clefable",
+        "canonical": "Clefable",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0036.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "vulpix",
+        "canonical": "Vulpix",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0037.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "ninetales",
+        "canonical": "Ninetales",
+        "aliases": [
+          "Ninetails",
+          "Nine Tails"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0038.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "jigglypuff",
+        "canonical": "Jigglypuff",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0039.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "wigglytuff",
+        "canonical": "Wigglytuff",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0040.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "zubat",
+        "canonical": "Zubat",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0041.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "golbat",
+        "canonical": "Golbat",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0042.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "oddish",
+        "canonical": "Oddish",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0043.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "gloom",
+        "canonical": "Gloom",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0044.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "vileplume",
+        "canonical": "Vileplume",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0045.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "paras",
+        "canonical": "Paras",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0046.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "parasect",
+        "canonical": "Parasect",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0047.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "venonat",
+        "canonical": "Venonat",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0048.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "venomoth",
+        "canonical": "Venomoth",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0049.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "diglett",
+        "canonical": "Diglett",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0050.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dugtrio",
+        "canonical": "Dugtrio",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0051.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "meowth",
+        "canonical": "Meowth",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0052.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "persian",
+        "canonical": "Persian",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0053.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "psyduck",
+        "canonical": "Psyduck",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0054.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "golduck",
+        "canonical": "Golduck",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0055.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "mankey",
+        "canonical": "Mankey",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0056.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "primeape",
+        "canonical": "Primeape",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0057.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "growlithe",
+        "canonical": "Growlithe",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0058.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "arcanine",
+        "canonical": "Arcanine",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0059.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "poliwag",
+        "canonical": "Poliwag",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0060.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "poliwhirl",
+        "canonical": "Poliwhirl",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0061.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "poliwrath",
+        "canonical": "Poliwrath",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0062.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "abra",
+        "canonical": "Abra",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0063.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kadabra",
+        "canonical": "Kadabra",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0064.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "alakazam",
+        "canonical": "Alakazam",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0065.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "machop",
+        "canonical": "Machop",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0066.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "machoke",
+        "canonical": "Machoke",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0067.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "machamp",
+        "canonical": "Machamp",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0068.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "bellsprout",
+        "canonical": "Bellsprout",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0069.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "weepinbell",
+        "canonical": "Weepinbell",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0070.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "victreebel",
+        "canonical": "Victreebel",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0071.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "tentacool",
+        "canonical": "Tentacool",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0072.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "tentacruel",
+        "canonical": "Tentacruel",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0073.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "geodude",
+        "canonical": "Geodude",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0074.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "graveler",
+        "canonical": "Graveler",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0075.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "golem",
+        "canonical": "Golem",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0076.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "ponyta",
+        "canonical": "Ponyta",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0077.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "rapidash",
+        "canonical": "Rapidash",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0078.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "slowpoke",
+        "canonical": "Slowpoke",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0079.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "slowbro",
+        "canonical": "Slowbro",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0080.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "magnemite",
+        "canonical": "Magnemite",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0081.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "magneton",
+        "canonical": "Magneton",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0082.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "farfetch-d",
+        "canonical": "Farfetch'd",
+        "aliases": [
+          "Farfetchd"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0083.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "doduo",
+        "canonical": "Doduo",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0084.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dodrio",
+        "canonical": "Dodrio",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0085.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "seel",
+        "canonical": "Seel",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0086.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dewgong",
+        "canonical": "Dewgong",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0087.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "grimer",
+        "canonical": "Grimer",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0088.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "muk",
+        "canonical": "Muk",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0089.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "shellder",
+        "canonical": "Shellder",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0090.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "cloyster",
+        "canonical": "Cloyster",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0091.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "gastly",
+        "canonical": "Gastly",
+        "aliases": [
+          "Ghastly"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0092.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "haunter",
+        "canonical": "Haunter",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0093.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "gengar",
+        "canonical": "Gengar",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0094.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "onix",
+        "canonical": "Onix",
+        "aliases": [
+          "Onyx"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0095.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "drowzee",
+        "canonical": "Drowzee",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0096.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "hypno",
+        "canonical": "Hypno",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0097.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "krabby",
+        "canonical": "Krabby",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0098.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kingler",
+        "canonical": "Kingler",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0099.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "voltorb",
+        "canonical": "Voltorb",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0100.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "electrode",
+        "canonical": "Electrode",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0101.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "exeggcute",
+        "canonical": "Exeggcute",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0102.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "exeggutor",
+        "canonical": "Exeggutor",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0103.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "cubone",
+        "canonical": "Cubone",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0104.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "marowak",
+        "canonical": "Marowak",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0105.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "hitmonlee",
+        "canonical": "Hitmonlee",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0106.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "hitmonchan",
+        "canonical": "Hitmonchan",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0107.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "lickitung",
+        "canonical": "Lickitung",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0108.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "koffing",
+        "canonical": "Koffing",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0109.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "weezing",
+        "canonical": "Weezing",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0110.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "rhyhorn",
+        "canonical": "Rhyhorn",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0111.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "rhydon",
+        "canonical": "Rhydon",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0112.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "chansey",
+        "canonical": "Chansey",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0113.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "tangela",
+        "canonical": "Tangela",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0114.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kangaskhan",
+        "canonical": "Kangaskhan",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0115.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "horsea",
+        "canonical": "Horsea",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0116.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "seadra",
+        "canonical": "Seadra",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0117.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "goldeen",
+        "canonical": "Goldeen",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0118.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "seaking",
+        "canonical": "Seaking",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0119.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "staryu",
+        "canonical": "Staryu",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0120.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "starmie",
+        "canonical": "Starmie",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0121.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "mr-mime",
+        "canonical": "Mr. Mime",
+        "aliases": [
+          "Mr Mime",
+          "Mister Mime"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0122.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "scyther",
+        "canonical": "Scyther",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0123.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "jynx",
+        "canonical": "Jynx",
+        "aliases": [
+          "Jinx"
+        ],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0124.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "electabuzz",
+        "canonical": "Electabuzz",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0125.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "magmar",
+        "canonical": "Magmar",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0126.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "pinsir",
+        "canonical": "Pinsir",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0127.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "tauros",
+        "canonical": "Tauros",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0128.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "magikarp",
+        "canonical": "Magikarp",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0129.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "gyarados",
+        "canonical": "Gyarados",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0130.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "lapras",
+        "canonical": "Lapras",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0131.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "ditto",
+        "canonical": "Ditto",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0132.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "eevee",
+        "canonical": "Eevee",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0133.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "vaporeon",
+        "canonical": "Vaporeon",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0134.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "jolteon",
+        "canonical": "Jolteon",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0135.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "flareon",
+        "canonical": "Flareon",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0136.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "porygon",
+        "canonical": "Porygon",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0137.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "omanyte",
+        "canonical": "Omanyte",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0138.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "omastar",
+        "canonical": "Omastar",
+        "aliases": [
+          "Lord Helix"
+        ],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0139.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kabuto",
+        "canonical": "Kabuto",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0140.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "kabutops",
+        "canonical": "Kabutops",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0141.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "aerodactyl",
+        "canonical": "Aerodactyl",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0142.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "snorlax",
+        "canonical": "Snorlax",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0143.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "articuno",
+        "canonical": "Articuno",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0144.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "zapdos",
+        "canonical": "Zapdos",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0145.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "moltres",
+        "canonical": "Moltres",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0146.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dratini",
+        "canonical": "Dratini",
+        "aliases": [],
+        "familiarity": 0.0077,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0147.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dragonair",
+        "canonical": "Dragonair",
+        "aliases": [],
+        "familiarity": 0.0023,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0148.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "dragonite",
+        "canonical": "Dragonite",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0149.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "mewtwo",
+        "canonical": "Mewtwo",
+        "aliases": [
+          "Mew Two",
+          "Mew2"
+        ],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0150.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      },
+      {
+        "id": "mew",
+        "canonical": "Mew",
+        "aliases": [],
+        "familiarity": 0.0192,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as generation I species #0151.",
+        "sourceIds": [
+          "list-of-generation-i-pok-mon"
+        ]
+      }
+    ],
+    "explanation": "The original 151 are the generation I species numbered #0001 (Bulbasaur) through #0151 (Mew). The female and male Nidoran are separate species; specify which one. MissingNo. is a glitch, not one of the original 151.",
+    "sources": [
+      {
+        "id": "list-of-generation-i-pok-mon",
+        "title": "List of generation I Pokémon",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "df4c79b8dcda95a4",
+    "brief": "Name one of the original 151 Pokémon.",
+    "attempts": 2,
+    "documents": [
+      {
+        "id": "list-of-generation-i-pok-mon",
+        "version": "1382758801",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Bulbasaur": "Bulbasaur Fushigidane (フシギダネ) (0001)",
+      "Ivysaur": "Ivysaur Fushigisō (フシギソウ) (0002)",
+      "Venusaur": "Venusaur Fushigibana (フシギバナ) (0003)",
+      "Charmander": "Charmander Hitokage (ヒトカゲ) (0004)",
+      "Charmeleon": "Charmeleon Rizādo (リザード) (0005)",
+      "Charizard": "Charizard Rizādon (リザードン) (0006)",
+      "Squirtle": "Squirtle Zenigame (ゼニガメ) (0007)",
+      "Wartortle": "Wartortle Kamēru (カメール) (0008)",
+      "Blastoise": "Blastoise Kamekkusu (カメックス) (0009)",
+      "Caterpie": "Caterpie Kyatapī (キャタピー) (0010)",
+      "Metapod": "Metapod Toranseru (トランセル) (0011)",
+      "Butterfree": "Butterfree Batafurī (バタフリー) (0012)",
+      "Weedle": "Weedle Bīdoru (ビードル) (0013)",
+      "Kakuna": "Kakuna Kokūn (コクーン) (0014)",
+      "Beedrill": "Beedrill Supiā (スピアー) (0015)",
+      "Pidgey": "Pidgey Poppo (ポッポ) (0016)",
+      "Pidgeotto": "Pidgeotto Pijon (ピジョン) (0017)",
+      "Pidgeot": "Pidgeot Pijotto (ピジョット) (0018)",
+      "Rattata": "Rattata Koratta (コラッタ) (0019)",
+      "Raticate": "Raticate Ratta (ラッタ) (0020)",
+      "Spearow": "Spearow Onisuzume (オニスズメ) (0021)",
+      "Fearow": "Fearow Onidoriru (オニドリル) (0022)",
+      "Ekans": "Ekans Ābo (アーボ) (0023)",
+      "Arbok": "Arbok Ābokku (アーボック) (0024)",
+      "Pikachu": "Pikachu Pikachū (ピカチュウ) (0025)",
+      "Raichu": "Raichu Raichū (ライチュウ) (0026)",
+      "Sandshrew": "Sandshrew Sando (サンド) (0027)",
+      "Sandslash": "Sandslash Sandopan (サンドパン) (0028)",
+      "Nidoran♀ (female)": "Nidoran♀ Nidoran♀ (ニドラン♀) (0029)",
+      "Nidorina": "Nidorina Nidorīna (ニドリーナ) (0030)",
+      "Nidoqueen": "Nidoqueen Nidokuin (ニドクイン) (0031)",
+      "Nidoran♂ (male)": "Nidoran♂ Nidoran♂ (ニドラン♂) (0032)",
+      "Nidorino": "Nidorino Nidorīno (ニドリーノ) (0033)",
+      "Nidoking": "Nidoking Nidokingu (ニドキング) (0034)",
+      "Clefairy": "Clefairy Pippi (ピッピ) (0035)",
+      "Clefable": "Clefable Pikushī (ピクシー) (0036)",
+      "Vulpix": "Vulpix Rokon (ロコン) (0037)",
+      "Ninetales": "Ninetales Kyūkon (キュウコン) (0038)",
+      "Jigglypuff": "Jigglypuff Purin (プリン) (0039)",
+      "Wigglytuff": "Wigglytuff Pukurin (プクリン) (0040)",
+      "Zubat": "Zubat Zubatto (ズバット) (0041)",
+      "Golbat": "Golbat Gorubatto (ゴルバット) (0042)",
+      "Oddish": "Oddish Nazonokusa (ナゾノクサ) (0043)",
+      "Gloom": "Gloom Kusaihana (クサイハナ) (0044)",
+      "Vileplume": "Vileplume Rafureshia (ラフレシア) (0045)",
+      "Paras": "Paras Parasu (パラス) (0046)",
+      "Parasect": "Parasect Parasekuto (パラセクト) (0047)",
+      "Venonat": "Venonat Konpan (コンパン) (0048)",
+      "Venomoth": "Venomoth Morufon (モルフォン) (0049)",
+      "Diglett": "Diglett Diguda (ディグダ) (0050)",
+      "Dugtrio": "Dugtrio Dagutorio (ダグトリオ) (0051)",
+      "Meowth": "Meowth Nyāsu (ニャース) (0052)",
+      "Persian": "Persian Perushian (ペルシアン) (0053)",
+      "Psyduck": "Psyduck Kodakku (コダック) (0054)",
+      "Golduck": "Golduck Gorudakku (ゴルダック) (0055)",
+      "Mankey": "Mankey Mankī (マンキー) (0056)",
+      "Primeape": "Primeape Okorizaru (オコリザル) (0057)",
+      "Growlithe": "Growlithe Gādi (ガーディ) (0058)",
+      "Arcanine": "Arcanine Uindi (ウインディ) (0059)",
+      "Poliwag": "Poliwag Nyoromo (ニョロモ) (0060)",
+      "Poliwhirl": "Poliwhirl Nyorozo (ニョロゾ) (0061)",
+      "Poliwrath": "Poliwrath Nyorobon (ニョロボン) (0062)",
+      "Abra": "Abra Kēshii (ケーシィ) (0063)",
+      "Kadabra": "Kadabra Yungerā (ユンゲラー) (0064)",
+      "Alakazam": "Alakazam Fūdin (フーディン) (0065)",
+      "Machop": "Machop Wanrikī (ワンリキー) (0066)",
+      "Machoke": "Machoke Gōrikī (ゴーリキー) (0067)",
+      "Machamp": "Machamp Kairikī (カイリキー) (0068)",
+      "Bellsprout": "Bellsprout Madatsubomi (マダツボミ) (0069)",
+      "Weepinbell": "Weepinbell Utsudon (ウツドン) (0070)",
+      "Victreebel": "Victreebel Utsubotto (ウツボット) (0071)",
+      "Tentacool": "Tentacool Menokurage (メノクラゲ) (0072)",
+      "Tentacruel": "Tentacruel Dokukurage (ドククラゲ) (0073)",
+      "Geodude": "Geodude Ishitsubute (イシツブテ) (0074)",
+      "Graveler": "Graveler Gorōn (ゴローン) (0075)",
+      "Golem": "Golem Gorōnya (ゴローニャ) (0076)",
+      "Ponyta": "Ponyta Ponīta (ポニータ) (0077)",
+      "Rapidash": "Rapidash Gyaroppu (ギャロップ) (0078)",
+      "Slowpoke": "Slowpoke Yadon (ヤドン) (0079)",
+      "Slowbro": "Slowbro Yadoran (ヤドラン) (0080)",
+      "Magnemite": "Magnemite Koiru (コイル) (0081)",
+      "Magneton": "Magneton Reakoiru (レアコイル) (0082)",
+      "Farfetch'd": "Farfetch'd Kamonegi (カモネギ) (0083)",
+      "Doduo": "Doduo Dōdō (ドードー) (0084)",
+      "Dodrio": "Dodrio Dōdorio (ドードリオ) (0085)",
+      "Seel": "Seel Pauwau (パウワウ) (0086)",
+      "Dewgong": "Dewgong Jugon (ジュゴン) (0087)",
+      "Grimer": "Grimer Betobetā (ベトベター) (0088)",
+      "Muk": "Muk Betobeton (ベトベトン) (0089)",
+      "Shellder": "Shellder Sherudā (シェルダー) (0090)",
+      "Cloyster": "Cloyster Parushen (パルシェン) (0091)",
+      "Gastly": "Gastly Gōsu (ゴース) (0092)",
+      "Haunter": "Haunter Gōsuto (ゴースト) (0093)",
+      "Gengar": "Gengar Gengā (ゲンガー) (0094)",
+      "Onix": "Onix Iwāku (イワーク) (0095)",
+      "Drowzee": "Drowzee Surīpu (スリープ) (0096)",
+      "Hypno": "Hypno Surīpā (スリーパー) (0097)",
+      "Krabby": "Krabby Kurabu (クラブ) (0098)",
+      "Kingler": "Kingler Kingurā (キングラー) (0099)",
+      "Voltorb": "Voltorb Biriridama (ビリリダマ) (0100)",
+      "Electrode": "Electrode Marumain (マルマイン) (0101)",
+      "Exeggcute": "Exeggcute Tamatama (タマタマ) (0102)",
+      "Exeggutor": "Exeggutor Nasshī (ナッシー) (0103)",
+      "Cubone": "Cubone Karakara (カラカラ) (0104)",
+      "Marowak": "Marowak Garagara (ガラガラ) (0105)",
+      "Hitmonlee": "Hitmonlee Sawamurā (サワムラー) (0106)",
+      "Hitmonchan": "Hitmonchan Ebiwarā (エビワラー) (0107)",
+      "Lickitung": "Lickitung Beroringa (ベロリンガ) (0108)",
+      "Koffing": "Koffing Dogāsu (ドガース) (0109)",
+      "Weezing": "Weezing Matadogasu (マタドガス) (0110)",
+      "Rhyhorn": "Rhyhorn Saihōn (サイホーン) (0111)",
+      "Rhydon": "Rhydon Saidon (サイドン) (0112)",
+      "Chansey": "Chansey Rakkī (ラッキー) (0113)",
+      "Tangela": "Tangela Monjara (モンジャラ) (0114)",
+      "Kangaskhan": "Kangaskhan Garūra (ガルーラ) (0115)",
+      "Horsea": "Horsea Tattsū (タッツー) (0116)",
+      "Seadra": "Seadra Shīdora (シードラ) (0117)",
+      "Goldeen": "Goldeen Tosakinto (トサキント) (0118)",
+      "Seaking": "Seaking Azumaō (アズマオウ) (0119)",
+      "Staryu": "Staryu Hitodeman (ヒトデマン) (0120)",
+      "Starmie": "Starmie Sutāmī (スターミー) (0121)",
+      "Mr. Mime": "Mr. Mime Bariyādo (バリヤード) (0122)",
+      "Scyther": "Scyther Sutoraiku (ストライク) (0123)",
+      "Jynx": "Jynx Rūjura (ルージュラ) (0124)",
+      "Electabuzz": "Electabuzz Erebū (エレブー) (0125)",
+      "Magmar": "Magmar Būbā (ブーバー) (0126)",
+      "Pinsir": "Pinsir Kairosu (カイロス) (0127)",
+      "Tauros": "Tauros Kentarosu (ケンタロス) (0128)",
+      "Magikarp": "Magikarp Koikingu (コイキング) (0129)",
+      "Gyarados": "Gyarados Gyaradosu (ギャラドス) (0130)",
+      "Lapras": "Lapras Rapurasu (ラプラス) (0131)",
+      "Ditto": "Ditto Metamon (メタモン) (0132)",
+      "Eevee": "Eevee Ībui (イーブイ) (0133)",
+      "Vaporeon": "Vaporeon Shawāzu (シャワーズ) (0134)",
+      "Jolteon": "Jolteon Sandāsu (サンダース) (0135)",
+      "Flareon": "Flareon Būsutā (ブースター) (0136)",
+      "Porygon": "Porygon Porigon (ポリゴン) (0137)",
+      "Omanyte": "Omanyte Omunaito (オムナイト) (0138)",
+      "Omastar": "Omastar Omusutā (オムスター) (0139)",
+      "Kabuto": "Kabuto Kabuto (カブト) (0140)",
+      "Kabutops": "Kabutops Kabutopusu (カブトプス) (0141)",
+      "Aerodactyl": "Aerodactyl Putera (プテラ) (0142)",
+      "Snorlax": "Snorlax Kabigon (カビゴン) (0143)",
+      "Articuno": "Articuno Furīzā (フリーザー) (0144)",
+      "Zapdos": "Zapdos Sandā (サンダー) (0145)",
+      "Moltres": "Moltres Faiyā (ファイヤー) (0146)",
+      "Dratini": "Dratini Miniryū (ミニリュウ) (0147)",
+      "Dragonair": "Dragonair Hakuryū (ハクリュー) (0148)",
+      "Dragonite": "Dragonite Kairyū (カイリュー) (0149)",
+      "Mewtwo": "Mewtwo Myūtsū (ミュウツー) (0150)",
+      "Mew": "Mew Myū (ミュウ) (0151)"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Nidoran♀ (female)]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Nidoran♂ (male)]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

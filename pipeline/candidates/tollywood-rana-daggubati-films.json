@@ -1,0 +1,486 @@
+{
+  "question": {
+    "id": "tollywood-rana-daggubati-films",
+    "category": "tollywood",
+    "prompt": "Name a movie listed in Rana Daggubati's film acting credits, including cameo appearances.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "leader",
+        "canonical": "Leader",
+        "aliases": [],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Arjun Prasad in Leader.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "dum-maaro-dum",
+        "canonical": "Dum Maaro Dum",
+        "aliases": [],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays DJ Joaquim \"Joki\" Fernandes in Dum Maaro Dum.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "nenu-naa-rakshasi",
+        "canonical": "Nenu Naa Rakshasi",
+        "aliases": [],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Abhimanyu in Nenu Naa Rakshasi.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "naa-ishtam",
+        "canonical": "Naa Ishtam",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Ganesh in Naa Ishtam.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "department",
+        "canonical": "Department",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Shiv Narayan in Department.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "krishnam-vande-jagadgurum",
+        "canonical": "Krishnam Vande Jagadgurum",
+        "aliases": [],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays B. Tech Babu in Krishnam Vande Jagadgurum.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "yeh-jawaani-hai-deewani",
+        "canonical": "Yeh Jawaani Hai Deewani",
+        "aliases": [
+          "YJHD"
+        ],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has a cameo as Vikram Sahai in Yeh Jawaani Hai Deewani.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "something-something",
+        "canonical": "Something Something",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana appears as himself in a cameo in Something Something.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "arrambam",
+        "canonical": "Arrambam",
+        "aliases": [
+          "Aarambam"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited with a cameo as Sanjay in Arrambam.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "baby",
+        "canonical": "Baby",
+        "aliases": [],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Jai Singh Rathore in Baby.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "dongaata",
+        "canonical": "Dongaata",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana appears as himself in a cameo in Dongaata.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "krishnamma-kalipindi-iddarini",
+        "canonical": "Krishnamma Kalipindi Iddarini",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana appears as himself in a cameo in Krishnamma Kalipindi Iddarini.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali 1",
+          "Bahubali 1",
+          "Bahubali: The Beginning"
+        ],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Bhallaladeva in the Telugu version and Palvaalthevan in the Tamil version of Baahubali: The Beginning.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "rudhramadevi",
+        "canonical": "Rudhramadevi",
+        "aliases": [
+          "Rudramadevi"
+        ],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Chalukya Veerabhadra in Rudhramadevi.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "size-zero",
+        "canonical": "Size Zero",
+        "aliases": [
+          "Inji Iduppazhagi"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has a cameo as himself in the bilingual film listed as Size Zero in Telugu and Inji Iduppazhagi in Tamil.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "bangalore-naatkal",
+        "canonical": "Bangalore Naatkal",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Shiva Prasad in Bangalore Naatkal.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "ghazi",
+        "canonical": "Ghazi",
+        "aliases": [
+          "The Ghazi Attack",
+          "Ghazi Attack"
+        ],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Arjun Verma in the bilingual film listed as Ghazi in Telugu and The Ghazi Attack in Hindi.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-2-the-conclusion",
+        "canonical": "Baahubali 2: The Conclusion",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2",
+          "Bahubali 2: The Conclusion"
+        ],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Bhallaladeva and Palvaalthevan in Baahubali 2: The Conclusion.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "nene-raju-nene-mantri",
+        "canonical": "Nene Raju Nene Mantri",
+        "aliases": [],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Radha Jogendra in Nene Raju Nene Mantri.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "welcome-to-new-york",
+        "canonical": "Welcome to New York",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana appears as himself in a cameo in Welcome to New York.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "n-t-r-kathanayakudu",
+        "canonical": "N.T.R: Kathanayakudu",
+        "aliases": [
+          "NTR Kathanayakudu",
+          "N.T.R. Kathanayakudu"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has a cameo as N. Chandrababu Naidu in N.T.R: Kathanayakudu.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "n-t-r-mahanayukudu",
+        "canonical": "N.T.R: Mahanayukudu",
+        "aliases": [
+          "NTR Mahanayukudu",
+          "NTR Mahanayakudu",
+          "N.T.R: Mahanayakudu"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays N. Chandrababu Naidu in N.T.R: Mahanayukudu.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "housefull-4",
+        "canonical": "Housefull 4",
+        "aliases": [
+          "Housefull Four"
+        ],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has the dual role of Raja Gama and Pappu Rangeela in Housefull 4.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "enai-noki-paayum-thota",
+        "canonical": "Enai Noki Paayum Thota",
+        "aliases": [
+          "Enai Noki Paayum Thotta"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana appears as himself in a cameo in Enai Noki Paayum Thota.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "kaadan",
+        "canonical": "Kaadan",
+        "aliases": [
+          "Aranya",
+          "Haathi Mere Saathi"
+        ],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has acting credits in the trilingual film listed as Kaadan, Aranya and Haathi Mere Saathi.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "bheemla-nayak",
+        "canonical": "Bheemla Nayak",
+        "aliases": [],
+        "familiarity": 0.0867,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Daniel \"Danny\" Shekar in Bheemla Nayak.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "virata-parvam",
+        "canonical": "Virata Parvam",
+        "aliases": [
+          "Virataparvam"
+        ],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Comrade Ravanna in Virata Parvam.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "1945",
+        "canonical": "1945",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Adhi in 1945.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "spy",
+        "canonical": "Spy",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has a cameo as Arjun in Spy.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "vettaiyan",
+        "canonical": "Vettaiyan",
+        "aliases": [],
+        "familiarity": 0.0347,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Natraj \"Nat\" Shanmugam in Vettaiyan.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "mirai",
+        "canonical": "Mirai",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana has a cameo credited as Mysterious man in Mirai.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "baahubali-the-epic",
+        "canonical": "Baahubali: The Epic",
+        "aliases": [
+          "Bahubali: The Epic",
+          "Baahubali The Epic"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is credited as Bhallaladeva in the combined re-release Baahubali: The Epic.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "kaantha",
+        "canonical": "Kaantha",
+        "aliases": [
+          "Kantha"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana plays Inspector Devaraj, alias Phoenix, in Kaantha.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      },
+      {
+        "id": "parasakthi",
+        "canonical": "Parasakthi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rana is listed with a cameo as Michael Reddy in Parasakthi.",
+        "sourceIds": [
+          "rana-daggubati-filmography"
+        ]
+      }
+    ],
+    "explanation": "These movies appear in the document's film acting credits, including cameos and the combined Baahubali re-release. Alternate-language titles of the same bilingual or trilingual film are accepted together. Documentary series, television credits, and production-only, narration-only or dubbing-only credits are excluded.",
+    "sources": [
+      {
+        "id": "rana-daggubati-filmography",
+        "title": "Rana Daggubati filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rana_Daggubati_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "93fa77f8b3b87474",
+    "brief": "Name a movie starring Rana Daggubati.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "rana-daggubati-filmography",
+        "version": "1381114705",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Leader": "2010 | Leader | Arjun Prasad | Telugu | |",
+      "Dum Maaro Dum": "2011 | Dum Maaro Dum | DJ Joaquim \"Joki\" Fernandes | Hindi | |",
+      "Nenu Naa Rakshasi": "2011 | Nenu Naa Rakshasi | Abhimanyu | Telugu | |",
+      "Naa Ishtam": "2012 | Naa Ishtam | Ganesh | Telugu | |",
+      "Department": "2012 | Department | Shiv Narayan | Hindi | |",
+      "Krishnam Vande Jagadgurum": "2012 | Krishnam Vande Jagadgurum | B. Tech Babu | Telugu | |",
+      "Yeh Jawaani Hai Deewani": "2013 | Yeh Jawaani Hai Deewani | Vikram Sahai | Hindi | Cameo appearances |",
+      "Something Something": "2013 | Something Something | Himself | Telugu | Cameo appearances |",
+      "Arrambam": "2013 | Arrambam | Sanjay | Tamil | Cameo appearances |",
+      "Baby": "2015 | Baby | Jai Singh Rathore | Hindi | |",
+      "Dongaata": "2015 | Dongaata | Himself | Telugu | Cameo appearances |",
+      "Krishnamma Kalipindi Iddarini": "2015 | Krishnamma Kalipindi Iddarini | Himself | Telugu | Cameo appearances |",
+      "Baahubali: The Beginning": "2015 | Baahubali: The Beginning | Bhallaladeva | Telugu | Bilingual film |\n2015 | Baahubali: The Beginning | Palvaalthevan | Tamil | Bilingual film |",
+      "Rudhramadevi": "2015 | Rudhramadevi | Chalukya Veerabhadra | Telugu | |",
+      "Size Zero": "2015 | Size Zero | Himself | Telugu | Bilingual film; cameo appearance |\n2015 | Inji Iduppazhagi | Himself | Tamil | Bilingual film; cameo appearance |",
+      "Bangalore Naatkal": "2016 | Bangalore Naatkal | Shiva Prasad | Tamil | |",
+      "Ghazi": "2017 | Ghazi | Arjun Verma | Telugu | Bilingual film |\n2017 | The Ghazi Attack | Arjun Verma | Hindi | Bilingual film |",
+      "Baahubali 2: The Conclusion": "2017 | Baahubali 2: The Conclusion | Bhallaladeva (Telugu) / Palvaalthevan (Tamil) | Telugu / Tamil | Partially reshot in Tamil |",
+      "Nene Raju Nene Mantri": "2017 | Nene Raju Nene Mantri | Radha Jogendra | Telugu | |",
+      "Welcome to New York": "2018 | Welcome to New York | Himself | Hindi | Cameo appearance |",
+      "N.T.R: Kathanayakudu": "2019 | N.T.R: Kathanayakudu | N. Chandrababu Naidu | Telugu | Cameo appearance |",
+      "N.T.R: Mahanayukudu": "2019 | N.T.R: Mahanayukudu | N. Chandrababu Naidu | Telugu | |",
+      "Housefull 4": "2019 | Housefull 4 | Raja Gama, Pappu Rangeela | Hindi | Dual role |",
+      "Enai Noki Paayum Thota": "2019 | Enai Noki Paayum Thota | Himself | Tamil | Cameo |",
+      "Kaadan": "2021 | Kaadan | Veerabarathi \"Kaadan\" | Tamil | Trilingual film |\n2021 | Aranya | Narendra Bhupathi \"Aranya\" | Telugu | Trilingual film |\n2021 | Haathi Mere Saathi | Sumitranandan \"Bandev\" | Hindi | Trilingual film |",
+      "Bheemla Nayak": "2022 | Bheemla Nayak | Daniel \"Danny\" Shekar | Telugu | |",
+      "Virata Parvam": "2022 | Virata Parvam | Comrade Ravanna | Telugu | |",
+      "1945": "2022 | 1945 | Adhi | Tamil | |",
+      "Spy": "2023 | Spy | Arjun | Telugu | Cameo appearance |",
+      "Vettaiyan": "2024 | Vettaiyan | Natraj \"Nat\" Shanmugam | Tamil | |",
+      "Mirai": "2025 | Mirai | Mysterious man | Telugu | Cameo appearance |",
+      "Baahubali: The Epic": "2025 | Baahubali: The Epic | Bhallaladeva | Telugu | Combined re-release version of The Beginning and The Conclusion |",
+      "Kaantha": "2025 | Kaantha | Inspector Devaraj alias \"Phoenix\" | Tamil | Also producer |",
+      "Parasakthi": "2026 | Parasakthi | Michael Reddy | Tamil | Cameo appearance |"
+    },
+    "issues": []
+  }
+}

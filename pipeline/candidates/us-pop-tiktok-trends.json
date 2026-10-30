@@ -1,0 +1,390 @@
+{
+  "question": {
+    "id": "us-pop-tiktok-trends",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a dance, trend, or challenge that went viral on TikTok.",
+    "answerSet": "open",
+    "criteria": "A named dance, recurring video format, food trend, or participatory challenge widely documented as having gone viral on TikTok.",
+    "answers": [
+      {
+        "id": "renegade",
+        "canonical": "Renegade",
+        "aliases": [
+          "Renegade dance",
+          "The Renegade",
+          "Renegade Challenge"
+        ],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Renegade is a viral dance created by Jalaiah Harmon to K Camp's song Lottery.",
+        "sourceIds": []
+      },
+      {
+        "id": "wednesday-dance",
+        "canonical": "Wednesday Dance",
+        "aliases": [
+          "Wednesday Addams dance",
+          "Wednesday challenge",
+          "Goo Goo Muck Dance",
+          "Bloody Mary Dance"
+        ],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "TikTok users recreated Wednesday Addams's dance from Wednesday, frequently pairing it with a sped-up version of Bloody Mary.",
+        "sourceIds": []
+      },
+      {
+        "id": "savage",
+        "canonical": "Savage",
+        "aliases": [
+          "Savage dance",
+          "Savage challenge"
+        ],
+        "familiarity": 0.1075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keara Wilson's choreography to Megan Thee Stallion's Savage became a viral TikTok dance.",
+        "sourceIds": []
+      },
+      {
+        "id": "say-so",
+        "canonical": "Say So",
+        "aliases": [
+          "Say So dance",
+          "Say So challenge"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Haley Sharpe's choreography to Doja Cat's Say So became a widely copied TikTok dance.",
+        "sourceIds": []
+      },
+      {
+        "id": "blinding-lights",
+        "canonical": "Blinding Lights",
+        "aliases": [
+          "Blinding Lights dance",
+          "Blinding Lights challenge"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A dance challenge set to The Weeknd's Blinding Lights spread widely on TikTok.",
+        "sourceIds": []
+      },
+      {
+        "id": "flip-the-switch",
+        "canonical": "Flip the Switch",
+        "aliases": [
+          "Flip the Switch challenge",
+          "Switch challenge",
+          "Flipped the Switch"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Flip the Switch videos show participants swapping outfits or positions when the lights switch off during Drake's Nonstop.",
+        "sourceIds": []
+      },
+      {
+        "id": "wipe-it-down",
+        "canonical": "Wipe It Down",
+        "aliases": [
+          "Wipe It Down challenge",
+          "Wipe It Down Trend",
+          "Wipe It Down mirror challenge"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wipe It Down videos use mirror-cleaning transitions to reveal a changed appearance.",
+        "sourceIds": []
+      },
+      {
+        "id": "tell-me-without-telling-me",
+        "canonical": "Tell Me Without Telling Me",
+        "aliases": [
+          "Tell me without telling me challenge",
+          "Tell Me Without Telling Me Trend"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "This TikTok format asks people to demonstrate something about themselves without stating it directly.",
+        "sourceIds": []
+      },
+      {
+        "id": "pass-the-brush",
+        "canonical": "Pass the Brush",
+        "aliases": [
+          "Pass the Brush challenge",
+          "Makeup brush challenge"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pass the Brush videos link makeup transformations by making a makeup brush appear to pass between participants.",
+        "sourceIds": []
+      },
+      {
+        "id": "ratatouille-musical",
+        "canonical": "Ratatouille Musical",
+        "aliases": [
+          "Ratatouille the Musical",
+          "Ratatouille TikTok musical",
+          "Ratatousical"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "TikTok users collaboratively created songs and theatrical concepts for an unofficial Ratatouille musical.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-git-up",
+        "canonical": "The Git Up",
+        "aliases": [
+          "Git Up",
+          "Git Up challenge",
+          "The Git Up challenge",
+          "Git Up dance"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Blanco Brown's The Git Up inspired a viral line-dance challenge on TikTok.",
+        "sourceIds": []
+      },
+      {
+        "id": "dalgona-coffee",
+        "canonical": "Dalgona Coffee",
+        "aliases": [
+          "Whipped coffee",
+          "Dalgona coffee challenge",
+          "Whipped Coffee Trend"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Videos of whipped instant coffee served over milk became a major TikTok recipe trend.",
+        "sourceIds": []
+      },
+      {
+        "id": "baked-feta-pasta",
+        "canonical": "Baked Feta Pasta",
+        "aliases": [
+          "Feta pasta",
+          "TikTok pasta",
+          "TikTok feta pasta",
+          "Baked Feta"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baked feta pasta became a viral TikTok recipe featuring a block of feta roasted with tomatoes.",
+        "sourceIds": []
+      },
+      {
+        "id": "roman-empire",
+        "canonical": "Roman Empire",
+        "aliases": [
+          "Roman Empire trend",
+          "Roman Empire challenge",
+          "My Roman Empire"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Roman Empire trend featured people asking men how often they thought about ancient Rome.",
+        "sourceIds": []
+      },
+      {
+        "id": "toosie-slide",
+        "canonical": "Toosie Slide",
+        "aliases": [
+          "Toosie Slide dance",
+          "Toosie Slide challenge"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drake's Toosie Slide inspired TikTok dance videos following its directional dance instructions.",
+        "sourceIds": []
+      },
+      {
+        "id": "don-t-rush",
+        "canonical": "Don't Rush",
+        "aliases": [
+          "Don't Rush challenge"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Don't Rush challenge uses coordinated transitions to show participants changing from casual looks to dressed-up looks.",
+        "sourceIds": []
+      },
+      {
+        "id": "sea-shanty-tiktok",
+        "canonical": "Sea Shanty TikTok",
+        "aliases": [
+          "ShantyTok",
+          "Sea shanty trend",
+          "Wellerman trend",
+          "Wellerman",
+          "Wellerman challenge"
+        ],
+        "familiarity": 0.043,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "TikTok creators used duets to build layered sea-shanty performances, with Wellerman becoming a breakout song.",
+        "sourceIds": []
+      },
+      {
+        "id": "microwave-challenge",
+        "canonical": "Microwave Challenge",
+        "aliases": [
+          "Microwave dance",
+          "Microwave trend"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Microwave Challenge features people rotating while seated on the floor as though turning inside a microwave.",
+        "sourceIds": []
+      },
+      {
+        "id": "i-m-just-a-kid",
+        "canonical": "I'm Just a Kid",
+        "aliases": [
+          "I'm Just a Kid Challenge",
+          "Childhood Photo Challenge",
+          "Childhood photo recreation challenge"
+        ],
+        "familiarity": 0.0129,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The I'm Just a Kid challenge recreates childhood photographs to Simple Plan's song I'm Just a Kid.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "TikTok trends include choreographed dances, transformation videos, recipe crazes, and repeatable jokes. A trend can qualify even if it originated elsewhere before spreading on TikTok.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "d0489e7ca25a4596",
+    "brief": "Name a widely known TikTok dance, trend or challenge.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Renegade": 3,
+      "Wednesday Dance": 3,
+      "Savage": 3,
+      "Say So": 3,
+      "Blinding Lights": 3,
+      "Flip the Switch": 3,
+      "Wipe It Down": 3,
+      "Dalgona Coffee": 2,
+      "Baked Feta Pasta": 2,
+      "Roman Empire": 2,
+      "Tell Me Without Telling Me": 3,
+      "Toosie Slide": 2,
+      "Don't Rush": 2,
+      "Pass the Brush": 3,
+      "Sea Shanty TikTok": 2,
+      "Ratatouille Musical": 3,
+      "The Git Up": 3,
+      "Microwave Challenge": 2,
+      "I'm Just a Kid": 2
+    },
+    "droppedForVotes": {
+      "Jerusalema": 1,
+      "Siren Beat": 1,
+      "Distance Dance": 1,
+      "Any Song Challenge": 1,
+      "Jiggle Jiggle": 1,
+      "Sea Shanty": 1,
+      "Wes Anderson": 1,
+      "Very Demure": 1,
+      "NPC Livestream": 1,
+      "Put a Finger Down": 1,
+      "Bored in the House": 1,
+      "The Woah": 1,
+      "Supalonely": 1,
+      "Don't Start Now": 1,
+      "Corvette Corvette": 1,
+      "It's Corn": 1,
+      "Berries and Cream": 1,
+      "Time Warp Scan": 1,
+      "Mi Pan Su Su Sum": 1,
+      "Here Comes the Boy": 1,
+      "M to the B": 1
+    },
+    "verdicts": {
+      "Renegade": {
+        "verdict": "correct",
+        "reason": "Jalaiah Harmon's dance to K Camp's \"Lottery\" was a widely documented viral TikTok dance."
+      },
+      "Wednesday Dance": {
+        "verdict": "correct",
+        "reason": "Recreations of Wednesday Addams's dance went viral, often using a sped-up version of Lady Gaga's \"Bloody Mary.\""
+      },
+      "Savage": {
+        "verdict": "correct",
+        "reason": "Keara Wilson's choreography to Megan Thee Stallion's \"Savage\" became a major TikTok dance trend."
+      },
+      "Say So": {
+        "verdict": "correct",
+        "reason": "Haley Sharpe's dance to Doja Cat's \"Say So\" went viral on TikTok."
+      },
+      "Blinding Lights": {
+        "verdict": "correct",
+        "reason": "The dance challenge set to The Weeknd's \"Blinding Lights\" was widely popular on TikTok."
+      },
+      "Flip the Switch": {
+        "verdict": "correct",
+        "reason": "This viral challenge used Drake's \"Nonstop\" and a light-switch transition to reveal participants swapping outfits or roles."
+      },
+      "Wipe It Down": {
+        "verdict": "correct",
+        "reason": "The viral mirror-wiping challenge used transitions to reveal transformed appearances."
+      },
+      "Tell Me Without Telling Me": {
+        "verdict": "correct",
+        "reason": "This widely documented TikTok format asks users to communicate something indirectly through examples or demonstrations."
+      },
+      "Pass the Brush": {
+        "verdict": "correct",
+        "reason": "This viral makeup-transformation format linked participants through apparent passes of a makeup brush."
+      },
+      "Ratatouille Musical": {
+        "verdict": "correct",
+        "reason": "A viral TikTok collaboration produced songs and concepts for an unofficial Ratatouille musical."
+      },
+      "The Git Up": {
+        "verdict": "correct",
+        "reason": "Blanco Brown's song inspired a widely documented viral line-dance challenge on TikTok."
+      },
+      "Dalgona Coffee": {
+        "verdict": "correct",
+        "reason": "Whipped instant coffee over milk became a major viral TikTok food trend in 2020."
+      },
+      "Baked Feta Pasta": {
+        "verdict": "correct",
+        "reason": "Pasta made with oven-roasted feta and tomatoes became a widely documented TikTok recipe craze."
+      },
+      "Roman Empire": {
+        "verdict": "correct",
+        "reason": "Asking men how often they think about the Roman Empire became a viral TikTok format."
+      },
+      "Toosie Slide": {
+        "verdict": "correct",
+        "reason": "Drake's song and its directional dance instructions inspired a viral TikTok dance challenge."
+      },
+      "Don't Rush": {
+        "verdict": "correct",
+        "reason": "The viral challenge featured coordinated transitions from casual clothing to dressed-up appearances."
+      },
+      "Sea Shanty TikTok": {
+        "verdict": "correct",
+        "reason": "Layered sea-shanty duets, especially performances of \"Wellerman,\" became a major TikTok trend."
+      },
+      "Microwave Challenge": {
+        "verdict": "correct",
+        "reason": "This documented viral challenge involved rotating while seated on the floor, imitating a microwave turntable."
+      },
+      "I'm Just a Kid": {
+        "verdict": "correct",
+        "reason": "Recreating childhood photographs to Simple Plan's \"I'm Just a Kid\" became a viral TikTok challenge."
+      }
+    },
+    "issues": []
+  }
+}

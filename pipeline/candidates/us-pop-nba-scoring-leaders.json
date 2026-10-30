@@ -1,0 +1,751 @@
+{
+  "question": {
+    "id": "us-pop-nba-scoring-leaders",
+    "category": "us-pop",
+    "prompt": "Name a player in the NBA's top 50 all-time scorers by career regular-season points, as of October 28, 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James ranks first in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "kareem-abdul-jabbar",
+        "canonical": "Kareem Abdul-Jabbar",
+        "aliases": [
+          "Kareem",
+          "Abdul-Jabbar",
+          "Kareem Abdul Jabbar"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Abdul-Jabbar ranks second in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "karl-malone",
+        "canonical": "Karl Malone",
+        "aliases": [],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karl Malone ranks third in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "kobe-bryant",
+        "canonical": "Kobe Bryant",
+        "aliases": [
+          "Kobe",
+          "Bryant"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bryant ranks fourth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "kevin-durant",
+        "canonical": "Kevin Durant",
+        "aliases": [
+          "Durant",
+          "KD"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Durant ranks fifth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "Jordan",
+          "MJ"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan ranks sixth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "dirk-nowitzki",
+        "canonical": "Dirk Nowitzki",
+        "aliases": [
+          "Dirk",
+          "Nowitzki"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nowitzki ranks seventh in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "wilt-chamberlain",
+        "canonical": "Wilt Chamberlain",
+        "aliases": [
+          "Wilt",
+          "Chamberlain"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chamberlain ranks eighth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "james-harden",
+        "canonical": "James Harden",
+        "aliases": [
+          "Harden"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Harden ranks ninth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille ONeal",
+          "O'Neal"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "O'Neal ranks tenth in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "carmelo-anthony",
+        "canonical": "Carmelo Anthony",
+        "aliases": [
+          "Carmelo",
+          "Melo"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthony ranks 11th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "moses-malone",
+        "canonical": "Moses Malone",
+        "aliases": [],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moses Malone ranks 12th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "elvin-hayes",
+        "canonical": "Elvin Hayes",
+        "aliases": [
+          "Hayes"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hayes ranks 13th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "russell-westbrook",
+        "canonical": "Russell Westbrook",
+        "aliases": [
+          "Westbrook"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Westbrook ranks 14th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "hakeem-olajuwon",
+        "canonical": "Hakeem Olajuwon",
+        "aliases": [
+          "Hakeem",
+          "Olajuwon"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Olajuwon ranks 15th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "demar-derozan",
+        "canonical": "DeMar DeRozan",
+        "aliases": [
+          "DeRozan",
+          "Demar Derozan"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DeRozan ranks 16th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "oscar-robertson",
+        "canonical": "Oscar Robertson",
+        "aliases": [
+          "Robertson"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robertson ranks 17th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "dominique-wilkins",
+        "canonical": "Dominique Wilkins",
+        "aliases": [
+          "Dominique",
+          "Wilkins"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilkins ranks 18th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "stephen-curry",
+        "canonical": "Stephen Curry",
+        "aliases": [
+          "Steph Curry",
+          "Curry",
+          "Steph"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Curry ranks 19th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [
+          "Duncan"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duncan ranks 20th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "paul-pierce",
+        "canonical": "Paul Pierce",
+        "aliases": [
+          "Pierce"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pierce ranks 21st in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "john-havlicek",
+        "canonical": "John Havlicek",
+        "aliases": [
+          "Havlicek"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Havlicek ranks 22nd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "kevin-garnett",
+        "canonical": "Kevin Garnett",
+        "aliases": [
+          "Garnett",
+          "KG"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Garnett ranks 23rd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "vince-carter",
+        "canonical": "Vince Carter",
+        "aliases": [
+          "Carter"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carter ranks 24th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "alex-english",
+        "canonical": "Alex English",
+        "aliases": [
+          "English"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "English ranks 25th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "reggie-miller",
+        "canonical": "Reggie Miller",
+        "aliases": [
+          "Miller"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miller ranks 26th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "jerry-west",
+        "canonical": "Jerry West",
+        "aliases": [
+          "West"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "West ranks 27th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "patrick-ewing",
+        "canonical": "Patrick Ewing",
+        "aliases": [
+          "Ewing"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ewing ranks 28th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "ray-allen",
+        "canonical": "Ray Allen",
+        "aliases": [],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen ranks 29th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "allen-iverson",
+        "canonical": "Allen Iverson",
+        "aliases": [
+          "Iverson",
+          "AI"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Iverson ranks 30th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "charles-barkley",
+        "canonical": "Charles Barkley",
+        "aliases": [
+          "Barkley"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barkley ranks 31st in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "robert-parish",
+        "canonical": "Robert Parish",
+        "aliases": [
+          "Parish"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Parish ranks 32nd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "adrian-dantley",
+        "canonical": "Adrian Dantley",
+        "aliases": [
+          "Dantley"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dantley ranks 33rd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "dwyane-wade",
+        "canonical": "Dwyane Wade",
+        "aliases": [
+          "Wade",
+          "Dwayne Wade"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wade ranks 34th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "elgin-baylor",
+        "canonical": "Elgin Baylor",
+        "aliases": [
+          "Baylor"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Baylor ranks 35th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "chris-paul",
+        "canonical": "Chris Paul",
+        "aliases": [
+          "CP3"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul ranks 36th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "damian-lillard",
+        "canonical": "Damian Lillard",
+        "aliases": [
+          "Lillard",
+          "Dame"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lillard ranks 37th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "clyde-drexler",
+        "canonical": "Clyde Drexler",
+        "aliases": [
+          "Drexler"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Drexler ranks 38th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "gary-payton",
+        "canonical": "Gary Payton",
+        "aliases": [
+          "Payton"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Payton ranks 39th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "larry-bird",
+        "canonical": "Larry Bird",
+        "aliases": [
+          "Bird"
+        ],
+        "familiarity": 0.046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bird ranks 40th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "giannis-antetokounmpo",
+        "canonical": "Giannis Antetokounmpo",
+        "aliases": [
+          "Giannis",
+          "Antetokounmpo"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antetokounmpo ranks 41st in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "hal-greer",
+        "canonical": "Hal Greer",
+        "aliases": [
+          "Greer"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Greer ranks 42nd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "walt-bellamy",
+        "canonical": "Walt Bellamy",
+        "aliases": [
+          "Bellamy"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bellamy ranks 43rd in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "pau-gasol",
+        "canonical": "Pau Gasol",
+        "aliases": [
+          "Pau"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gasol ranks 44th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "bob-pettit",
+        "canonical": "Bob Pettit",
+        "aliases": [
+          "Pettit"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pettit ranks 45th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "david-robinson",
+        "canonical": "David Robinson",
+        "aliases": [
+          "Robinson"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Robinson ranks 46th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "george-gervin",
+        "canonical": "George Gervin",
+        "aliases": [
+          "Gervin"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gervin ranks 47th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "lamarcus-aldridge",
+        "canonical": "LaMarcus Aldridge",
+        "aliases": [
+          "Aldridge",
+          "Lamarcus Aldridge"
+        ],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aldridge ranks 48th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "mitch-richmond",
+        "canonical": "Mitch Richmond",
+        "aliases": [
+          "Richmond"
+        ],
+        "familiarity": 0.0014,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richmond ranks 49th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      },
+      {
+        "id": "joe-johnson",
+        "canonical": "Joe Johnson",
+        "aliases": [],
+        "familiarity": 0.0055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnson ranks 50th in the source's top 50 career regular-season scorers.",
+        "sourceIds": [
+          "list-of-nba-career-scoring-leaders"
+        ]
+      }
+    ],
+    "explanation": "The source's top 50 ranks players by total NBA career regular-season points, excluding playoff points. These rankings use its October 28, 2026 snapshot.",
+    "sources": [
+      {
+        "id": "list-of-nba-career-scoring-leaders",
+        "title": "List of NBA career scoring leaders",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_NBA_career_scoring_leaders",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "7bfe335f7e7f8d67",
+    "brief": "Name one of the NBA's all-time leading scorers.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-nba-career-scoring-leaders",
+        "version": "1382569469",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "LeBron James": "1 | LeBron James^ | SF | Cleveland Cavaliers (2003–2010, 2014–2018)",
+      "Kareem Abdul-Jabbar": "2 | Kareem Abdul-Jabbar* | C | Milwaukee Bucks (1969–1975) Los Angeles Lakers (1975–1989) | 38,387",
+      "Karl Malone": "3 | Karl Malone* | PF | Utah Jazz (1985–2003) Los Angeles Lakers (2003–2004) | 36,928",
+      "Kobe Bryant": "4 | Kobe Bryant* | SG | Los Angeles Lakers (1996–2016) | 33,643",
+      "Kevin Durant": "5 | Kevin Durant^ | SF/PF | Seattle SuperSonics/Oklahoma City Thunder (2007–2016)",
+      "Michael Jordan": "6 | Michael Jordan* | SG | Chicago Bulls (1984–1993, 1995–1998) Washington Wizards (2001–2003) | 32,292",
+      "Dirk Nowitzki": "7 | Dirk Nowitzki* | PF | Dallas Mavericks (1998–2019) | 31,560",
+      "Wilt Chamberlain": "8 | Wilt Chamberlain* | C | Philadelphia/San Francisco Warriors (1959–1965)",
+      "James Harden": "9 | James Harden^ | SG/PG | Oklahoma City Thunder (2009–2012)",
+      "Shaquille O'Neal": "10 | Shaquille O'Neal* | C | Orlando Magic (1992–1996)",
+      "Carmelo Anthony": "11 | Carmelo Anthony* | SF | Denver Nuggets (2003–2011)",
+      "Moses Malone": "12 | Moses Malone* | C | Buffalo Braves (1976) Houston Rockets (1976–1982)",
+      "Elvin Hayes": "13 | Elvin Hayes* | PF/C | San Diego/Houston Rockets (1968–1972, 1981–1984)",
+      "Russell Westbrook": "14 | Russell Westbrook | PG | Oklahoma City Thunder (2008–2019)",
+      "Hakeem Olajuwon": "15 | Hakeem Olajuwon* | C | Houston Rockets (1984–2001) Toronto Raptors (2001–2002) | 26,946",
+      "DeMar DeRozan": "16 | DeMar DeRozan^ | SG/SF | Toronto Raptors (2009–2018)",
+      "Oscar Robertson": "17 | Oscar Robertson* | PG | Cincinnati Royals (1960–1970) Milwaukee Bucks (1970–1974) | 26,710",
+      "Dominique Wilkins": "18 | Dominique Wilkins* | SF | Atlanta Hawks (1982–1994)",
+      "Stephen Curry": "19 | Stephen Curry^ | PG | Golden State Warriors (2009–present) | 26,643",
+      "Tim Duncan": "20 | Tim Duncan* | PF/C | San Antonio Spurs (1997–2016) | 26,496",
+      "Paul Pierce": "21 | Paul Pierce* | SF/SG | Boston Celtics (1998–2013)",
+      "John Havlicek": "22 | John Havlicek* | SF/SG | Boston Celtics (1962–1978) | 26,395",
+      "Kevin Garnett": "23 | Kevin Garnett* | PF | Minnesota Timberwolves (1995–2007, 2015–2016)",
+      "Vince Carter": "24 | Vince Carter* | SG/SF | Toronto Raptors (1998–2004)",
+      "Alex English": "25 | Alex English* | SF | Milwaukee Bucks (1976–1978)",
+      "Reggie Miller": "26 | Reggie Miller* | SG | Indiana Pacers (1987–2005) | 25,279",
+      "Jerry West": "27 | Jerry West* | PG/SG | Los Angeles Lakers (1960–1974) | 25,192",
+      "Patrick Ewing": "28 | Patrick Ewing* | C | New York Knicks (1985–2000)",
+      "Ray Allen": "29 | Ray Allen* | SG | Milwaukee Bucks (1996–2003)",
+      "Allen Iverson": "30 | Allen Iverson* | SG/PG | Philadelphia 76ers (1996–2006, 2009–2010)",
+      "Charles Barkley": "31 | Charles Barkley* | PF | Philadelphia 76ers (1984–1992)",
+      "Robert Parish": "32 | Robert Parish* | C | Golden State Warriors (1976–1980)",
+      "Adrian Dantley": "33 | Adrian Dantley* | SF | Buffalo Braves (1976–1977)",
+      "Dwyane Wade": "34 | Dwyane Wade* | SG | Miami Heat (2003–2016, 2018–2019)",
+      "Elgin Baylor": "35 | Elgin Baylor* | SF | Minneapolis/Los Angeles Lakers (1958–1971) | 23,149",
+      "Chris Paul": "36 | Chris Paul | PG | New Orleans Hornets (2005–2011)",
+      "Damian Lillard": "37 | Damian Lillard^ | PG | Portland Trail Blazers (2012–2023, 2026–present)",
+      "Clyde Drexler": "38 | Clyde Drexler* | SG | Portland Trail Blazers (1983–1995) Houston Rockets (1995–1998) | 22,195",
+      "Gary Payton": "39 | Gary Payton* | PG | Seattle SuperSonics (1990–2003)",
+      "Larry Bird": "40 | Larry Bird* | SF/PF | Boston Celtics (1979–1992) | 21,791",
+      "Giannis Antetokounmpo": "41 | Giannis Antetokounmpo^ | PF | Milwaukee Bucks (2013–2026)",
+      "Hal Greer": "42 | Hal Greer* | SG/PG | Syracuse Nationals/Philadelphia 76ers (1958–1973) | 21,586",
+      "Walt Bellamy": "43 | Walt Bellamy* | C | Chicago Packers/Zephyrs/Baltimore Bullets (1961–1965)",
+      "Pau Gasol": "44 | Pau Gasol* | PF/C | Memphis Grizzlies (2001–2008)",
+      "Bob Pettit": "45 | Bob Pettit* | PF/C | Milwaukee/St. Louis Hawks (1954–1965) | 20,880",
+      "David Robinson": "46 | David Robinson* | C | San Antonio Spurs (1989–2003) | 20,790",
+      "George Gervin": "47 | George Gervin* | SG/SF | San Antonio Spurs (1976–1985) Chicago Bulls (1985–1986) | 20,708",
+      "LaMarcus Aldridge": "48 | LaMarcus Aldridge | PF/C | Portland Trail Blazers (2006–2015)",
+      "Mitch Richmond": "49 | Mitch Richmond* | SG | Golden State Warriors (1988–1991)",
+      "Joe Johnson": "50 | Joe Johnson | SG/SF | Boston Celtics (2001–2002, 2021–2022)"
+    },
+    "issues": []
+  }
+}

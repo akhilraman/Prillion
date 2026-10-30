@@ -1,0 +1,547 @@
+{
+  "question": {
+    "id": "space-nearest-stars",
+    "category": "space",
+    "prompt": "Name a known star or brown dwarf, other than the Sun, within 12 light-years of the Sun.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "proxima-centauri",
+        "canonical": "Proxima Centauri",
+        "aliases": [
+          "Alpha Centauri C",
+          "V645 Centauri"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Proxima Centauri is listed as a star 4.2465 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "rigil-kentaurus",
+        "canonical": "Rigil Kentaurus",
+        "aliases": [
+          "Alpha Centauri A",
+          "Alpha Centauri"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rigil Kentaurus, component A of Alpha Centauri, is listed at 4.3441 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "toliman",
+        "canonical": "Toliman",
+        "aliases": [
+          "Alpha Centauri B"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toliman, component B of Alpha Centauri, is listed at 4.3441 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "barnard-s-star",
+        "canonical": "Barnard's Star",
+        "aliases": [
+          "Barnards Star",
+          "BD+04°3561a"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barnard's Star is listed at 5.9629 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "luhman-16-a",
+        "canonical": "Luhman 16 A",
+        "aliases": [
+          "Luhman 16",
+          "WISE 1049−5319 A",
+          "WISE 1049-5319 A"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luhman 16 A is marked as a brown dwarf at 6.5102 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "luhman-16-b",
+        "canonical": "Luhman 16 B",
+        "aliases": [
+          "WISE 1049−5319 B",
+          "WISE 1049-5319 B"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luhman 16 B is marked as a brown dwarf at 6.5102 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "wolf-359",
+        "canonical": "Wolf 359",
+        "aliases": [
+          "CN Leonis"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wolf 359 is listed as a star 7.856 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "lalande-21185",
+        "canonical": "Lalande 21185",
+        "aliases": [
+          "Gliese 411",
+          "HD 95735",
+          "BD+36°2147"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lalande 21185 is listed at 8.3044 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "sirius-a",
+        "canonical": "Sirius A",
+        "aliases": [
+          "Sirius",
+          "Alpha Canis Majoris",
+          "Alpha Canis Majoris A"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sirius A is listed as a star 8.7094 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "sirius-b",
+        "canonical": "Sirius B",
+        "aliases": [
+          "Alpha Canis Majoris B"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sirius B is marked as a white dwarf at 8.7094 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "gliese-65-a",
+        "canonical": "Gliese 65 A",
+        "aliases": [
+          "BL Ceti",
+          "Gliese 65",
+          "Luyten 726-8 A",
+          "Luyten 726–8 A"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gliese 65 A, also named BL Ceti, is listed at 8.770 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "gliese-65-b",
+        "canonical": "Gliese 65 B",
+        "aliases": [
+          "UV Ceti",
+          "Luyten 726-8 B",
+          "Luyten 726–8 B"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gliese 65 B, also named UV Ceti, is listed at 8.770 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ross-154",
+        "canonical": "Ross 154",
+        "aliases": [
+          "V1216 Sagittarii"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ross 154 is listed as a star 9.7063 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ross-248",
+        "canonical": "Ross 248",
+        "aliases": [
+          "HH Andromedae"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ross 248 is listed as a star 10.3057 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "epsilon-eridani",
+        "canonical": "Epsilon Eridani",
+        "aliases": [
+          "Ran"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Epsilon Eridani is listed at 10.4749 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "gliese-887",
+        "canonical": "Gliese 887",
+        "aliases": [
+          "Lacaille 9352"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gliese 887 is listed as a star 10.7241 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ross-128",
+        "canonical": "Ross 128",
+        "aliases": [
+          "FI Virginis"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ross 128 is listed as a star 11.0074 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ez-aquarii-a",
+        "canonical": "EZ Aquarii A",
+        "aliases": [
+          "EZ Aquarii",
+          "Gliese 866 A",
+          "Luyten 789-6 A"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "EZ Aquarii A is listed as a star 11.109 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ez-aquarii-b",
+        "canonical": "EZ Aquarii B",
+        "aliases": [
+          "Gliese 866 B",
+          "Luyten 789-6 B"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "EZ Aquarii B is listed as a star 11.109 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "ez-aquarii-c",
+        "canonical": "EZ Aquarii C",
+        "aliases": [
+          "Gliese 866 C",
+          "Luyten 789-6 C"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "EZ Aquarii C is listed as a star 11.109 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "61-cygni-a",
+        "canonical": "61 Cygni A",
+        "aliases": [
+          "61 Cygni",
+          "BD+38°4343"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "61 Cygni A is listed as a star 11.4039 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "61-cygni-b",
+        "canonical": "61 Cygni B",
+        "aliases": [
+          "BD+38°4344"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "61 Cygni B is listed as a star 11.4039 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "procyon-a",
+        "canonical": "Procyon A",
+        "aliases": [
+          "Procyon",
+          "Alpha Canis Minoris",
+          "Alpha Canis Minoris A"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Procyon A is listed as a star 11.463 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "procyon-b",
+        "canonical": "Procyon B",
+        "aliases": [
+          "Alpha Canis Minoris B"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Procyon B is marked as a white dwarf at 11.463 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "struve-2398-a",
+        "canonical": "Struve 2398 A",
+        "aliases": [
+          "Struve 2398",
+          "Gliese 725 A",
+          "HD 173739"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Struve 2398 A is listed as a star 11.4908 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "struve-2398-b",
+        "canonical": "Struve 2398 B",
+        "aliases": [
+          "Gliese 725 B",
+          "HD 173740"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Struve 2398 B is listed as a star 11.4908 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "groombridge-34-a",
+        "canonical": "Groombridge 34 A",
+        "aliases": [
+          "Groombridge 34",
+          "Gliese 15 A",
+          "GX Andromedae"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Groombridge 34 A is listed as a star 11.6191 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "groombridge-34-b",
+        "canonical": "Groombridge 34 B",
+        "aliases": [
+          "Gliese 15 B",
+          "GQ Andromedae"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Groombridge 34 B is listed as a star 11.6191 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "dx-cancri",
+        "canonical": "DX Cancri",
+        "aliases": [
+          "G 51-15"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DX Cancri is listed as a star 11.6797 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "epsilon-indi-a",
+        "canonical": "Epsilon Indi A",
+        "aliases": [
+          "Epsilon Indi",
+          "CPD−57°10015 A",
+          "CPD-57°10015 A"
+        ],
+        "familiarity": 0.0361,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Epsilon Indi A is listed as a star 11.8670 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "epsilon-indi-ba",
+        "canonical": "Epsilon Indi Ba",
+        "aliases": [
+          "CPD−57°10015 Ba",
+          "CPD-57°10015 Ba"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Epsilon Indi Ba is marked as a brown dwarf at 11.8670 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "epsilon-indi-bb",
+        "canonical": "Epsilon Indi Bb",
+        "aliases": [
+          "CPD−57°10015 Bb",
+          "CPD-57°10015 Bb"
+        ],
+        "familiarity": 0.0027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Epsilon Indi Bb is marked as a brown dwarf at 11.8670 light-years.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "tau-ceti",
+        "canonical": "Tau Ceti",
+        "aliases": [
+          "BD−16°295",
+          "BD-16°295"
+        ],
+        "familiarity": 0.0903,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tau Ceti is listed as a star 11.9118 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      },
+      {
+        "id": "gj-1061",
+        "canonical": "GJ 1061",
+        "aliases": [
+          "LHS 1565"
+        ],
+        "familiarity": 0.0108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "GJ 1061 is listed as a star 11.9839 light-years from the Sun.",
+        "sourceIds": [
+          "list-of-nearest-stars"
+        ]
+      }
+    ],
+    "explanation": "These objects are listed within 12 light-years of the Sun. Individual members of multiple-star systems count separately, and white dwarfs count as stars. Objects classified by the source as sub-brown dwarfs or rogue planets are excluded.",
+    "sources": [
+      {
+        "id": "list-of-nearest-stars",
+        "title": "List of nearest stars",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "139787e7bff231cc",
+    "brief": "Name a star or brown dwarf near the Sun.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-nearest-stars",
+        "version": "1380319758",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Proxima Centauri": "Alpha Centauri | Proxima Centauri (C, V645 Centauri) | 4.2465 ±0.0003",
+      "Rigil Kentaurus": "Alpha Centauri | Rigil Kentaurus (A)$ | 4.3441 ±0.0022",
+      "Toliman": "Alpha Centauri | Toliman (B)$ | 4.3441 ±0.0022",
+      "Barnard's Star": "Barnard's Star (BD+04°3561a) | | 5.9629 ±0.0004",
+      "Luhman 16 A": "Luhman 16 (WISE 1049−5319) | A§ | 6.5102 ±0.0006",
+      "Luhman 16 B": "Luhman 16 (WISE 1049−5319) | B§ | 6.5102 ±0.0006",
+      "Wolf 359": "Wolf 359 (CN Leonis) | | 7.856 ±0.001",
+      "Lalande 21185": "Lalande 21185 (BD+36°2147, Gliese 411, HD 95735) | | 8.3044 ±0.0007",
+      "Sirius A": "Sirius (Alpha Canis Majoris) | A$ | 8.7094 ±0.0054",
+      "Sirius B": "Sirius (Alpha Canis Majoris) | B‡ | 8.7094 ±0.0054",
+      "Gliese 65 A": "Gliese 65 (Luyten 726–8) | A (BL Ceti) | 8.770 ±0.010",
+      "Gliese 65 B": "Gliese 65 (Luyten 726–8) | B (UV Ceti) | 8.770 ±0.010",
+      "Ross 154": "Ross 154 (V1216 Sagittarii) | | 9.7063 ±0.0009",
+      "Ross 248": "Ross 248 (HH Andromedae) | | 10.3057 ±0.0014",
+      "Epsilon Eridani": "Epsilon Eridani (Ran)$ | | 10.4749 ±0.0037",
+      "Gliese 887": "Gliese 887 (Lacaille 9352) | | 10.7241 ±0.0007",
+      "Ross 128": "Ross 128 (FI Virginis) | | 11.0074 ±0.0011",
+      "EZ Aquarii A": "EZ Aquarii (Gliese 866, Luyten 789-6) | A | 11.109 ±0.034",
+      "EZ Aquarii B": "EZ Aquarii (Gliese 866, Luyten 789-6) | B | 11.109 ±0.034",
+      "EZ Aquarii C": "EZ Aquarii (Gliese 866, Luyten 789-6) | C | 11.109 ±0.034",
+      "61 Cygni A": "61 Cygni | A (BD+38°4343)$ | 11.4039 ±0.0012",
+      "61 Cygni B": "61 Cygni | B (BD+38°4344)$ | 11.4039 ±0.0012",
+      "Procyon A": "Procyon (Alpha Canis Minoris) | A$ | 11.463 ±0.051",
+      "Procyon B": "Procyon (Alpha Canis Minoris) | B‡ | 11.463 ±0.051",
+      "Struve 2398 A": "Struve 2398 (Gliese 725, BD+59°1915) | A (HD 173739) | 11.4908 ±0.0009",
+      "Struve 2398 B": "Struve 2398 (Gliese 725, BD+59°1915) | B (HD 173740) | 11.4908 ±0.0009",
+      "Groombridge 34 A": "Groombridge 34 (Gliese 15) | A (GX Andromedae) | 11.6191 ±0.0008",
+      "Groombridge 34 B": "Groombridge 34 (Gliese 15) | B (GQ Andromedae) | 11.6191 ±0.0008",
+      "DX Cancri": "DX Cancri (G 51-15) | | 11.6797 ±0.0027",
+      "Epsilon Indi A": "Epsilon Indi (CPD−57°10015) | A$ | 11.8670 ±0.0041",
+      "Epsilon Indi Ba": "Epsilon Indi (CPD−57°10015) | Ba§ | 11.8670 ±0.0041",
+      "Epsilon Indi Bb": "Epsilon Indi (CPD−57°10015) | Bb§ | 11.8670 ±0.0041",
+      "Tau Ceti": "Tau Ceti (BD−16°295)$ | | 11.9118 ±0.0074",
+      "GJ 1061": "GJ 1061 (LHS 1565) | | 11.9839 ±0.0014"
+    },
+    "issues": []
+  }
+}

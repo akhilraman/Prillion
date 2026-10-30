@@ -1,0 +1,557 @@
+{
+  "question": {
+    "id": "us-pop-fast-food-chains",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a fast-food chain popular in the United States.",
+    "answerSet": "open",
+    "criteria": "Any quick-service or fast-casual restaurant chain operating multiple locations in the United States counts.",
+    "answers": [
+      {
+        "id": "mcdonald-s",
+        "canonical": "McDonald's",
+        "aliases": [
+          "Mickey D's"
+        ],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "McDonald's is a fast-food chain known for burgers, fries, and the Big Mac.",
+        "sourceIds": []
+      },
+      {
+        "id": "burger-king",
+        "canonical": "Burger King",
+        "aliases": [
+          "BK"
+        ],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Burger King is a fast-food burger chain known for the Whopper.",
+        "sourceIds": []
+      },
+      {
+        "id": "wendy-s",
+        "canonical": "Wendy's",
+        "aliases": [],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wendy's is a fast-food chain known for square hamburger patties and Frosty desserts.",
+        "sourceIds": []
+      },
+      {
+        "id": "taco-bell",
+        "canonical": "Taco Bell",
+        "aliases": [],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taco Bell is a fast-food chain serving Mexican-inspired items such as tacos and burritos.",
+        "sourceIds": []
+      },
+      {
+        "id": "subway",
+        "canonical": "Subway",
+        "aliases": [],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subway is a quick-service chain specializing in made-to-order submarine sandwiches.",
+        "sourceIds": []
+      },
+      {
+        "id": "kfc",
+        "canonical": "KFC",
+        "aliases": [
+          "Kentucky Fried Chicken"
+        ],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "KFC is a fast-food chain specializing in fried chicken.",
+        "sourceIds": []
+      },
+      {
+        "id": "chick-fil-a",
+        "canonical": "Chick-fil-A",
+        "aliases": [],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chick-fil-A is a fast-food chain known for chicken sandwiches and waffle fries.",
+        "sourceIds": []
+      },
+      {
+        "id": "popeyes",
+        "canonical": "Popeyes",
+        "aliases": [
+          "Popeyes Louisiana Kitchen"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Popeyes is a Louisiana-style fast-food chain known for fried chicken and chicken sandwiches.",
+        "sourceIds": []
+      },
+      {
+        "id": "sonic",
+        "canonical": "Sonic",
+        "aliases": [
+          "Sonic Drive-In"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sonic is a drive-in fast-food chain serving burgers, hot dogs, and a wide selection of drinks.",
+        "sourceIds": []
+      },
+      {
+        "id": "arby-s",
+        "canonical": "Arby's",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arby's is a fast-food chain known for roast beef sandwiches and curly fries.",
+        "sourceIds": []
+      },
+      {
+        "id": "dairy-queen",
+        "canonical": "Dairy Queen",
+        "aliases": [
+          "DQ",
+          "DQ Grill & Chill"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dairy Queen is a quick-service chain offering frozen treats and hot food at many locations.",
+        "sourceIds": []
+      },
+      {
+        "id": "jack-in-the-box",
+        "canonical": "Jack in the Box",
+        "aliases": [
+          "Jack in Box"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jack in the Box is a fast-food chain serving burgers, tacos, and other quick-service meals.",
+        "sourceIds": []
+      },
+      {
+        "id": "domino-s",
+        "canonical": "Domino's",
+        "aliases": [
+          "Domino's Pizza"
+        ],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Domino's is a pizza chain offering delivery and carryout.",
+        "sourceIds": []
+      },
+      {
+        "id": "pizza-hut",
+        "canonical": "Pizza Hut",
+        "aliases": [],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pizza Hut is a pizza chain with delivery, carryout, and dine-in locations.",
+        "sourceIds": []
+      },
+      {
+        "id": "little-caesars",
+        "canonical": "Little Caesars",
+        "aliases": [
+          "Little Caesars Pizza"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Little Caesars is a quick-service pizza chain known for its Hot-N-Ready pizzas.",
+        "sourceIds": []
+      },
+      {
+        "id": "whataburger",
+        "canonical": "Whataburger",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Whataburger is a regional fast-food chain specializing in burgers.",
+        "sourceIds": []
+      },
+      {
+        "id": "culver-s",
+        "canonical": "Culver's",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Culver's is a quick-service chain known for ButterBurgers and frozen custard.",
+        "sourceIds": []
+      },
+      {
+        "id": "raising-cane-s",
+        "canonical": "Raising Cane's",
+        "aliases": [
+          "Cane's"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raising Cane's is a fast-food chain specializing in chicken fingers.",
+        "sourceIds": []
+      },
+      {
+        "id": "white-castle",
+        "canonical": "White Castle",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "White Castle is a fast-food chain known for small square burgers called sliders.",
+        "sourceIds": []
+      },
+      {
+        "id": "del-taco",
+        "canonical": "Del Taco",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Del Taco is a fast-food chain serving Mexican-inspired food alongside burgers and fries.",
+        "sourceIds": []
+      },
+      {
+        "id": "bojangles",
+        "canonical": "Bojangles",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bojangles is a regional fast-food chain known for chicken and biscuits.",
+        "sourceIds": []
+      },
+      {
+        "id": "cook-out",
+        "canonical": "Cook Out",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cook Out is a regional fast-food chain serving burgers, barbecue, and milkshakes.",
+        "sourceIds": []
+      },
+      {
+        "id": "zaxby-s",
+        "canonical": "Zaxby's",
+        "aliases": [],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zaxby's is a quick-service chain specializing in chicken fingers, wings, and sandwiches.",
+        "sourceIds": []
+      },
+      {
+        "id": "pal-s-sudden-service",
+        "canonical": "Pal's Sudden Service",
+        "aliases": [
+          "Pal's"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pal's Sudden Service is a regional fast-food chain operating in Tennessee and Virginia.",
+        "sourceIds": []
+      },
+      {
+        "id": "in-n-out-burger",
+        "canonical": "In-N-Out Burger",
+        "aliases": [
+          "In-N-Out",
+          "In and Out",
+          "In and Out Burger"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "In-N-Out Burger is a regional fast-food chain known for burgers, fries, and shakes.",
+        "sourceIds": []
+      },
+      {
+        "id": "five-guys",
+        "canonical": "Five Guys",
+        "aliases": [
+          "Five Guys Burgers and Fries",
+          "5 Guys",
+          "Five Guys Burgers & Fries"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Five Guys is a fast-casual chain specializing in burgers and fries.",
+        "sourceIds": []
+      },
+      {
+        "id": "chipotle",
+        "canonical": "Chipotle",
+        "aliases": [
+          "Chipotle Mexican Grill"
+        ],
+        "familiarity": 0.0508,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chipotle is a fast-casual chain serving customizable burritos, bowls, tacos, and salads.",
+        "sourceIds": []
+      },
+      {
+        "id": "panda-express",
+        "canonical": "Panda Express",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Panda Express is a quick-service chain serving American Chinese food.",
+        "sourceIds": []
+      },
+      {
+        "id": "qdoba",
+        "canonical": "Qdoba",
+        "aliases": [
+          "Qdoba Mexican Eats",
+          "Qdoba Mexican Grill"
+        ],
+        "familiarity": 0.0061,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Qdoba is a fast-casual chain serving customizable Mexican-inspired meals.",
+        "sourceIds": []
+      },
+      {
+        "id": "burgerville",
+        "canonical": "Burgerville",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Burgerville is a regional quick-service burger chain operating in the Pacific Northwest.",
+        "sourceIds": []
+      },
+      {
+        "id": "tudor-s-biscuit-world",
+        "canonical": "Tudor's Biscuit World",
+        "aliases": [
+          "Tudor's"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tudor's Biscuit World is a regional quick-service chain known for biscuit sandwiches.",
+        "sourceIds": []
+      },
+      {
+        "id": "runza",
+        "canonical": "Runza",
+        "aliases": [
+          "Runza Restaurants"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Runza is a regional fast-food chain known for stuffed bread sandwiches containing beef and cabbage.",
+        "sourceIds": []
+      },
+      {
+        "id": "hardee-s",
+        "canonical": "Hardee's",
+        "aliases": [],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hardee's is a fast-food chain serving burgers and breakfast biscuits.",
+        "sourceIds": []
+      },
+      {
+        "id": "carl-s-jr",
+        "canonical": "Carl's Jr.",
+        "aliases": [
+          "Carl's Junior"
+        ],
+        "familiarity": 0.0203,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carl's Jr. is a fast-food chain known for charbroiled burgers.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Valid answers include nationwide brands and regional favorites, from burger joints and taco shops to chicken, pizza, and sandwich chains.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "69023c46cb744a5f",
+    "brief": "Name a fast-food chain popular in the United States.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "McDonald's": 3,
+      "Burger King": 3,
+      "Wendy's": 3,
+      "Taco Bell": 3,
+      "Subway": 3,
+      "KFC": 3,
+      "Chick-fil-A": 3,
+      "Popeyes": 3,
+      "Sonic": 3,
+      "Arby's": 3,
+      "Dairy Queen": 3,
+      "Jack in the Box": 3,
+      "In-N-Out Burger": 2,
+      "Five Guys": 2,
+      "Chipotle": 2,
+      "Panda Express": 2,
+      "Domino's": 3,
+      "Pizza Hut": 3,
+      "Little Caesars": 3,
+      "Whataburger": 3,
+      "Culver's": 3,
+      "Raising Cane's": 3,
+      "White Castle": 3,
+      "Del Taco": 3,
+      "Bojangles": 3,
+      "Cook Out": 3,
+      "Zaxby's": 3,
+      "Qdoba": 2,
+      "Burgerville": 2,
+      "Pal's Sudden Service": 3,
+      "Tudor's Biscuit World": 2,
+      "Runza": 2,
+      "Hardee's": 2,
+      "Carl's Jr.": 2
+    },
+    "droppedForVotes": {
+      "In-N-Out": 1,
+      "Biscuitville": 1,
+      "Papa Johns": 1,
+      "Shake Shack": 1,
+      "Jersey Mike's": 1,
+      "Firehouse Subs": 1,
+      "Wingstop": 1,
+      "Taco John's": 1
+    },
+    "verdicts": {
+      "McDonald's": {
+        "verdict": "correct",
+        "reason": "Widely documented fast-food chain with many U.S. locations."
+      },
+      "Burger King": {
+        "verdict": "correct",
+        "reason": "Major U.S. fast-food burger chain known for the Whopper."
+      },
+      "Wendy's": {
+        "verdict": "correct",
+        "reason": "Major fast-food chain with numerous U.S. locations."
+      },
+      "Taco Bell": {
+        "verdict": "correct",
+        "reason": "Major U.S. quick-service chain serving Mexican-inspired food."
+      },
+      "Subway": {
+        "verdict": "correct",
+        "reason": "Quick-service sandwich chain operating many U.S. locations."
+      },
+      "KFC": {
+        "verdict": "correct",
+        "reason": "Fried-chicken fast-food chain with numerous U.S. locations."
+      },
+      "Chick-fil-A": {
+        "verdict": "correct",
+        "reason": "Major U.S. quick-service chain specializing in chicken."
+      },
+      "Popeyes": {
+        "verdict": "correct",
+        "reason": "Established fried-chicken fast-food chain operating throughout the U.S."
+      },
+      "Sonic": {
+        "verdict": "correct",
+        "reason": "Established U.S. drive-in fast-food chain."
+      },
+      "Arby's": {
+        "verdict": "correct",
+        "reason": "Major U.S. quick-service chain known for roast beef sandwiches."
+      },
+      "Dairy Queen": {
+        "verdict": "correct",
+        "reason": "U.S. quick-service chain offering frozen treats and, at many locations, hot food."
+      },
+      "Jack in the Box": {
+        "verdict": "correct",
+        "reason": "Established fast-food chain with numerous U.S. locations."
+      },
+      "Domino's": {
+        "verdict": "correct",
+        "reason": "Quick-service pizza chain with many U.S. delivery and carryout locations."
+      },
+      "Pizza Hut": {
+        "verdict": "correct",
+        "reason": "Pizza chain operating numerous U.S. quick-service carryout and delivery locations."
+      },
+      "Little Caesars": {
+        "verdict": "correct",
+        "reason": "Major U.S. quick-service pizza chain."
+      },
+      "Whataburger": {
+        "verdict": "correct",
+        "reason": "Regional U.S. fast-food burger chain with many locations."
+      },
+      "Culver's": {
+        "verdict": "correct",
+        "reason": "Established U.S. quick-service chain known for burgers and frozen custard."
+      },
+      "Raising Cane's": {
+        "verdict": "correct",
+        "reason": "Fast-food chicken-finger chain with numerous U.S. locations."
+      },
+      "White Castle": {
+        "verdict": "correct",
+        "reason": "Established U.S. fast-food chain known for sliders."
+      },
+      "Del Taco": {
+        "verdict": "correct",
+        "reason": "U.S. fast-food chain serving Mexican-inspired food and burgers."
+      },
+      "Bojangles": {
+        "verdict": "correct",
+        "reason": "Regional U.S. quick-service chain known for chicken and biscuits."
+      },
+      "Cook Out": {
+        "verdict": "correct",
+        "reason": "Regional U.S. fast-food chain with numerous locations."
+      },
+      "Zaxby's": {
+        "verdict": "correct",
+        "reason": "Established U.S. quick-service chicken chain."
+      },
+      "Pal's Sudden Service": {
+        "verdict": "correct",
+        "reason": "Documented regional fast-food chain with locations in Tennessee and Virginia."
+      },
+      "In-N-Out Burger": {
+        "verdict": "correct",
+        "reason": "Established regional U.S. fast-food burger chain."
+      },
+      "Five Guys": {
+        "verdict": "correct",
+        "reason": "Fast-casual burger chain operating many U.S. locations."
+      },
+      "Chipotle": {
+        "verdict": "correct",
+        "reason": "Major U.S. fast-casual chain serving customizable Mexican-inspired meals."
+      },
+      "Panda Express": {
+        "verdict": "correct",
+        "reason": "Major U.S. quick-service chain serving American Chinese cuisine."
+      },
+      "Qdoba": {
+        "verdict": "correct",
+        "reason": "Established U.S. fast-casual Mexican-inspired restaurant chain."
+      },
+      "Burgerville": {
+        "verdict": "correct",
+        "reason": "Regional quick-service burger chain operating in the Pacific Northwest."
+      },
+      "Tudor's Biscuit World": {
+        "verdict": "correct",
+        "reason": "Established regional U.S. quick-service chain known for biscuit sandwiches."
+      },
+      "Runza": {
+        "verdict": "correct",
+        "reason": "Regional U.S. fast-food chain known for beef-and-cabbage-filled bread sandwiches."
+      },
+      "Hardee's": {
+        "verdict": "correct",
+        "reason": "Established U.S. fast-food chain serving burgers and breakfast biscuits."
+      },
+      "Carl's Jr.": {
+        "verdict": "correct",
+        "reason": "Established U.S. fast-food chain known for charbroiled burgers."
+      }
+    },
+    "issues": []
+  }
+}

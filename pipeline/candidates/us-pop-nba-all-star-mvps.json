@@ -1,0 +1,765 @@
+{
+  "question": {
+    "id": "us-pop-nba-all-star-mvps",
+    "category": "us-pop",
+    "prompt": "Name a player who has won the NBA All-Star Game MVP award (1951–2026).",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "ed-macauley",
+        "canonical": "Ed Macauley",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ed Macauley won the award in 1951.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "paul-arizin",
+        "canonical": "Paul Arizin",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Arizin won the award in 1952.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "george-mikan",
+        "canonical": "George Mikan",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George Mikan won the award in 1953.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bob-cousy",
+        "canonical": "Bob Cousy",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Cousy won the award in 1954 and 1957.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bill-sharman",
+        "canonical": "Bill Sharman",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Sharman won the award in 1955.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bob-pettit",
+        "canonical": "Bob Pettit",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Pettit won the award four times, in 1956, 1958, 1959 and 1962.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "elgin-baylor",
+        "canonical": "Elgin Baylor",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Elgin Baylor was a joint winner of the award in 1959.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "wilt-chamberlain",
+        "canonical": "Wilt Chamberlain",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wilt Chamberlain won the award in 1960.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "oscar-robertson",
+        "canonical": "Oscar Robertson",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Oscar Robertson won the award in 1961, 1964 and 1969.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bill-russell",
+        "canonical": "Bill Russell",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Russell won the award in 1963.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jerry-lucas",
+        "canonical": "Jerry Lucas",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jerry Lucas won the award in 1965.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "adrian-smith",
+        "canonical": "Adrian Smith",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adrian Smith won the award in 1966.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "rick-barry",
+        "canonical": "Rick Barry",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Barry won the award in 1967.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "hal-greer",
+        "canonical": "Hal Greer",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hal Greer won the award in 1968.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "willis-reed",
+        "canonical": "Willis Reed",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Willis Reed won the award in 1970.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "lenny-wilkens",
+        "canonical": "Lenny Wilkens",
+        "aliases": [
+          "Lenny Wilkins"
+        ],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lenny Wilkens won the award in 1971.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jerry-west",
+        "canonical": "Jerry West",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jerry West won the award in 1972.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dave-cowens",
+        "canonical": "Dave Cowens",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Cowens won the award in 1973.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "bob-lanier",
+        "canonical": "Bob Lanier",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bob Lanier won the award in 1974.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "walt-frazier",
+        "canonical": "Walt Frazier",
+        "aliases": [
+          "Walter Frazier"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walt Frazier won the award in 1975.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dave-bing",
+        "canonical": "Dave Bing",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dave Bing won the award in 1976.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "julius-erving",
+        "canonical": "Julius Erving",
+        "aliases": [
+          "Dr. J",
+          "Dr J"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julius Erving won the award in 1977 and 1983.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "randy-smith",
+        "canonical": "Randy Smith",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Randy Smith won the award in 1978.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "david-thompson",
+        "canonical": "David Thompson",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "David Thompson won the award in 1979.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "george-gervin",
+        "canonical": "George Gervin",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George Gervin won the award in 1980.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "nate-archibald",
+        "canonical": "Nate Archibald",
+        "aliases": [
+          "Tiny Archibald"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nate Archibald won the award in 1981.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "larry-bird",
+        "canonical": "Larry Bird",
+        "aliases": [],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larry Bird won the award in 1982.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "isiah-thomas",
+        "canonical": "Isiah Thomas",
+        "aliases": [
+          "Isaiah Thomas"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Isiah Thomas won the award in 1984 and 1986.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "ralph-sampson",
+        "canonical": "Ralph Sampson",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph Sampson won the award in 1985.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "tom-chambers",
+        "canonical": "Tom Chambers",
+        "aliases": [],
+        "familiarity": 0.0015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tom Chambers won the award in 1987.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "michael-jordan",
+        "canonical": "Michael Jordan",
+        "aliases": [
+          "MJ"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jordan won the award in 1988, 1996 and 1998.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "karl-malone",
+        "canonical": "Karl Malone",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Karl Malone won the award in 1989 and 1993.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "magic-johnson",
+        "canonical": "Magic Johnson",
+        "aliases": [
+          "Earvin Johnson"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magic Johnson won the award in 1990 and 1992.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "charles-barkley",
+        "canonical": "Charles Barkley",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charles Barkley won the award in 1991.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "john-stockton",
+        "canonical": "John Stockton",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Stockton was a joint winner of the award in 1993.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "scottie-pippen",
+        "canonical": "Scottie Pippen",
+        "aliases": [
+          "Scotty Pippen"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scottie Pippen won the award in 1994.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "mitch-richmond",
+        "canonical": "Mitch Richmond",
+        "aliases": [],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mitch Richmond won the award in 1995.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "glen-rice",
+        "canonical": "Glen Rice",
+        "aliases": [
+          "Glenn Rice"
+        ],
+        "familiarity": 0.0059,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Glen Rice won the award in 1997.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "shaquille-o-neal",
+        "canonical": "Shaquille O'Neal",
+        "aliases": [
+          "Shaq",
+          "Shaquille Oneal",
+          "Shaquille O’Neal"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shaquille O'Neal won the award in 2000, 2004 and 2009.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "tim-duncan",
+        "canonical": "Tim Duncan",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Duncan was a joint winner of the award in 2000.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "allen-iverson",
+        "canonical": "Allen Iverson",
+        "aliases": [
+          "AI"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allen Iverson won the award in 2001 and 2005.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kobe-bryant",
+        "canonical": "Kobe Bryant",
+        "aliases": [
+          "Kobe"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kobe Bryant won the award four times, in 2002, 2007, 2009 and 2011.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kevin-garnett",
+        "canonical": "Kevin Garnett",
+        "aliases": [
+          "KG"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Garnett won the award in 2003.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "lebron-james",
+        "canonical": "LeBron James",
+        "aliases": [
+          "LeBron"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "LeBron James won the award in 2006, 2008 and 2018.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "dwyane-wade",
+        "canonical": "Dwyane Wade",
+        "aliases": [
+          "Dwayne Wade",
+          "Dwyane Wade Jr.",
+          "D-Wade"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dwyane Wade won the award in 2010.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kevin-durant",
+        "canonical": "Kevin Durant",
+        "aliases": [
+          "KD"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Durant won the award in 2012 and 2019.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "chris-paul",
+        "canonical": "Chris Paul",
+        "aliases": [
+          "CP3"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chris Paul won the award in 2013.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kyrie-irving",
+        "canonical": "Kyrie Irving",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kyrie Irving won the award in 2014.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "russell-westbrook",
+        "canonical": "Russell Westbrook",
+        "aliases": [
+          "Russ Westbrook"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Russell Westbrook won the award in 2015 and 2016.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "anthony-davis",
+        "canonical": "Anthony Davis",
+        "aliases": [
+          "AD"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthony Davis won the award in 2017.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "kawhi-leonard",
+        "canonical": "Kawhi Leonard",
+        "aliases": [],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kawhi Leonard won the award in 2020.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "giannis-antetokounmpo",
+        "canonical": "Giannis Antetokounmpo",
+        "aliases": [
+          "Giannis"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giannis Antetokounmpo won the award in 2021.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "stephen-curry",
+        "canonical": "Stephen Curry",
+        "aliases": [
+          "Steph Curry",
+          "Steph"
+        ],
+        "familiarity": 0.0494,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Curry won the award in 2022 and 2025.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "jayson-tatum",
+        "canonical": "Jayson Tatum",
+        "aliases": [
+          "Jason Tatum"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jayson Tatum won the award in 2023.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "damian-lillard",
+        "canonical": "Damian Lillard",
+        "aliases": [
+          "Dame Lillard",
+          "Dame"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Damian Lillard won the award in 2024.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      },
+      {
+        "id": "anthony-edwards",
+        "canonical": "Anthony Edwards",
+        "aliases": [
+          "Ant Edwards"
+        ],
+        "familiarity": 0.0198,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthony Edwards won the award in 2026.",
+        "sourceIds": [
+          "nba-all-star-game-most-valuable-player"
+        ]
+      }
+    ],
+    "explanation": "The award recognizes the All-Star Game's most valuable player, including joint winners. It was renamed in Kobe Bryant's honor in 2020. Bryant and Bob Pettit share the record with four wins each.",
+    "sources": [
+      {
+        "id": "nba-all-star-game-most-valuable-player",
+        "title": "NBA All-Star Game Most Valuable Player",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_All-Star_Game_Most_Valuable_Player",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "21d964964bd6d41f",
+    "brief": "Name a player who has won the NBA All-Star Game MVP.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-all-star-game-most-valuable-player",
+        "version": "1375373185",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Ed Macauley": "1951 | Ed Macauley* | Center/forward | United States | Boston Celtics",
+      "Paul Arizin": "1952 | Paul Arizin* | Forward/guard | United States | Philadelphia Warriors",
+      "George Mikan": "1953 | George Mikan* | Center | United States | Minneapolis Lakers",
+      "Bob Cousy": "2 | Bob Cousy | Boston Celtics | 1954, 1957",
+      "Bill Sharman": "1955 | Bill Sharman* | Guard | United States | Boston Celtics (3)",
+      "Bob Pettit": "4 | Bob Pettit | St. Louis Hawks | 1956, 1958, 1959, 1962",
+      "Elgin Baylor": "Four of the games had joint winners—Elgin Baylor and Pettit in 1959, John Stockton and Malone in 1993, O'Neal and Tim Duncan in 2000, and O'Neal and Bryant in 2009.",
+      "Wilt Chamberlain": "1960 | Wilt Chamberlain* | Center | United States | Philadelphia Warriors (2)",
+      "Oscar Robertson": "3 | Oscar Robertson | Cincinnati Royals | 1961, 1964, 1969",
+      "Bill Russell": "1963 | Bill Russell* | Center | United States | Boston Celtics (5)",
+      "Jerry Lucas": "1965 | Jerry Lucas* | Forward/center | United States | Cincinnati Royals (3)",
+      "Adrian Smith": "1966 | Adrian Smith | Guard | United States | Cincinnati Royals (4)",
+      "Rick Barry": "1967 | Rick Barry* | Forward | United States | San Francisco Warriors (3)",
+      "Hal Greer": "1968 | Hal Greer* | Guard/forward | United States | Philadelphia 76ers",
+      "Willis Reed": "1970 | Willis Reed* | Center/forward | United States | New York Knicks",
+      "Lenny Wilkens": "1971 | Lenny Wilkens* | Guard | United States | Seattle SuperSonics",
+      "Jerry West": "1972 | Jerry West* | Guard | United States | Los Angeles Lakers (3)",
+      "Dave Cowens": "1973 | Dave Cowens* | Center/forward | United States | Boston Celtics (6)",
+      "Bob Lanier": "1974 | Bob Lanier* | Center | United States | Detroit Pistons",
+      "Walt Frazier": "1975 | Walt Frazier* | Guard | United States | New York Knicks (2)",
+      "Dave Bing": "1976 | Dave Bing* | Guard | United States | Washington Bullets",
+      "Julius Erving": "2 | Julius Erving | Philadelphia 76ers | 1977, 1983",
+      "Randy Smith": "1978 | Randy Smith | Guard/forward | United States | Buffalo Braves",
+      "David Thompson": "1979 | David Thompson* | Guard/forward | United States | Denver Nuggets",
+      "George Gervin": "1980 | George Gervin* | Guard/forward | United States | San Antonio Spurs",
+      "Nate Archibald": "1981 | Nate Archibald* | Guard | United States | Boston Celtics (7)",
+      "Larry Bird": "1982 | Larry Bird* | Forward | United States | Boston Celtics (8)",
+      "Isiah Thomas": "2 | Isiah Thomas | Detroit Pistons | 1984, 1986",
+      "Ralph Sampson": "1985 | Ralph Sampson* | Center/forward | United States | Houston Rockets",
+      "Tom Chambers": "1987 | Tom Chambers | Forward/center | United States | Seattle SuperSonics (2)",
+      "Michael Jordan": "3 | Michael Jordan | Chicago Bulls | 1988, 1996, 1998",
+      "Karl Malone": "2 | Karl Malone | Utah Jazz | 1989, 1993",
+      "Magic Johnson": "2 | Magic Johnson | Los Angeles Lakers | 1990, 1992",
+      "Charles Barkley": "1991 | Charles Barkley* | Forward | United States | Philadelphia 76ers (4)",
+      "John Stockton": "Four of the games had joint winners—Elgin Baylor and Pettit in 1959, John Stockton and Malone in 1993, O'Neal and Tim Duncan in 2000, and O'Neal and Bryant in 2009.",
+      "Scottie Pippen": "1994 | Scottie Pippen* | Forward | United States | Chicago Bulls (2)",
+      "Mitch Richmond": "1995 | Mitch Richmond* | Guard | United States | Sacramento Kings (6)",
+      "Glen Rice": "1997 | Glen Rice | Forward | United States | Charlotte Hornets",
+      "Shaquille O'Neal": "3 | Shaquille O'Neal | Los Angeles Lakers (2), Phoenix Suns (1) | 2000, 2004, 2009",
+      "Tim Duncan": "Four of the games had joint winners—Elgin Baylor and Pettit in 1959, John Stockton and Malone in 1993, O'Neal and Tim Duncan in 2000, and O'Neal and Bryant in 2009.",
+      "Allen Iverson": "2 | Allen Iverson | Philadelphia 76ers | 2001, 2005",
+      "Kobe Bryant": "4 | Kobe Bryant | Los Angeles Lakers | 2002, 2007, 2009, 2011",
+      "Kevin Garnett": "2003 | Kevin Garnett* | Forward/center | United States | Minnesota Timberwolves",
+      "LeBron James": "3 | LeBron James | Cleveland Cavaliers | 2006, 2008, 2018",
+      "Dwyane Wade": "2010 | Dwyane Wade* | Guard | United States | Miami Heat",
+      "Kevin Durant": "2 | Kevin Durant | Oklahoma City Thunder (1), Golden State Warriors (1) | 2012, 2019",
+      "Chris Paul": "2013 | Chris Paul | Guard | United States | Los Angeles Clippers (2)",
+      "Kyrie Irving": "2014 | Kyrie Irving^ | Guard | United States | Cleveland Cavaliers (3)",
+      "Russell Westbrook": "2 | Russell Westbrook | Oklahoma City Thunder | 2015, 2016",
+      "Anthony Davis": "2017 | Anthony Davis^ | Forward/center | United States | New Orleans Pelicans",
+      "Kawhi Leonard": "2020 | Kawhi Leonard^ | Forward | United States | Los Angeles Clippers (3)",
+      "Giannis Antetokounmpo": "2021 | Giannis Antetokounmpo^ | Forward | Greece | Milwaukee Bucks",
+      "Stephen Curry": "2 | Stephen Curry | Golden State Warriors | 2022, 2025",
+      "Jayson Tatum": "2023 | Jayson Tatum^ | Forward | United States | Boston Celtics (9)",
+      "Damian Lillard": "2024 | Damian Lillard^ | Guard | United States | Milwaukee Bucks (2)",
+      "Anthony Edwards": "2026 | Anthony Edwards^ | Guard | United States | Minnesota Timberwolves (2)"
+    },
+    "issues": []
+  }
+}

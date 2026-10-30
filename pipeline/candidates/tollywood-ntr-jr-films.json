@@ -1,0 +1,511 @@
+{
+  "question": {
+    "id": "tollywood-ntr-jr-films",
+    "category": "tollywood",
+    "prompt": "Name a released movie in which Jr NTR has an acting credit, including child roles, cameos, and voice roles.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "brahmarshi-viswamitra",
+        "canonical": "Brahmarshi Viswamitra",
+        "aliases": [
+          "Brahmarshi Vishwamitra"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Bharata in a child role.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "ramayanam",
+        "canonical": "Ramayanam",
+        "aliases": [
+          "Bala Ramayanam"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Rama in a child role.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "ninnu-choodalani",
+        "canonical": "Ninnu Choodalani",
+        "aliases": [
+          "Ninnu Chudalani"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR played Venu Reddy in his debut as a lead actor.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "student-no-1",
+        "canonical": "Student No: 1",
+        "aliases": [
+          "Student No. 1",
+          "Student No 1",
+          "Student Number 1"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Aditya Rao in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "subbu",
+        "canonical": "Subbu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Bala Subramanyam in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "aadhi",
+        "canonical": "Aadhi",
+        "aliases": [
+          "Aadi"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Aadhi Kesava Reddy in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "allari-ramudu",
+        "canonical": "Allari Ramudu",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Ramakrishna in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "naaga",
+        "canonical": "Naaga",
+        "aliases": [
+          "Naga"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Nagaraju in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "simhadri",
+        "canonical": "Simhadri",
+        "aliases": [],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Simhadri and Singamalai in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "andhrawala",
+        "canonical": "Andhrawala",
+        "aliases": [
+          "Andhrawaala"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Munna and Shankar Pehelwan in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "samba",
+        "canonical": "Samba",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Samba Shiva Naidu in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "naa-alludu",
+        "canonical": "Naa Alludu",
+        "aliases": [
+          "Na Alludu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Karthik and Murugan in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "narasimhudu",
+        "canonical": "Narasimhudu",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Kondaveedi Narasimhudu in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "ashok",
+        "canonical": "Ashok",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as the title character Ashok.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "rakhi",
+        "canonical": "Rakhi",
+        "aliases": [
+          "Rakhee"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as K. Ramakrishna, also called Rakhi.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "yamadonga",
+        "canonical": "Yamadonga",
+        "aliases": [
+          "Yama Donga"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Raja and Young Yama Dharma Raja in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "kantri",
+        "canonical": "Kantri",
+        "aliases": [],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Kranthi, also called Kantri.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "chintakayala-ravi",
+        "canonical": "Chintakayala Ravi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR makes a special appearance as himself in the song Shaava Shaava.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "adhurs",
+        "canonical": "Adhurs",
+        "aliases": [
+          "Adurs"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Narasimha and Chari in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "rama-rama-krishna-krishna",
+        "canonical": "Rama Rama Krishna Krishna",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR has a credited voice role as the film's narrator.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "brindavanam",
+        "canonical": "Brindavanam",
+        "aliases": [
+          "Brundaavanam",
+          "Brindhavanam"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Krishna, also called Krish.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "sakthi",
+        "canonical": "Sakthi",
+        "aliases": [
+          "Shakti",
+          "Shakthi"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Sakthi Swaroop and Maha Rudra in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "oosaravelli",
+        "canonical": "Oosaravelli",
+        "aliases": [],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Tony in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "dammu",
+        "canonical": "Dammu",
+        "aliases": [
+          "Dhammu"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Ramachandra and Raja Vijay Dhwaja Sri Simha in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "baadshah",
+        "canonical": "Baadshah",
+        "aliases": [
+          "Badshah"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as N. T. Rama Rao and Baadshah in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "ramayya-vasthavayya",
+        "canonical": "Ramayya Vasthavayya",
+        "aliases": [
+          "Ramayya Vastavayya"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Nandu and Ramu in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "rabhasa",
+        "canonical": "Rabhasa",
+        "aliases": [
+          "Rabasa"
+        ],
+        "familiarity": 0.0104,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Karthik in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "temper",
+        "canonical": "Temper",
+        "aliases": [],
+        "familiarity": 0.0869,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Daya in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "nannaku-prematho",
+        "canonical": "Nannaku Prematho",
+        "aliases": [
+          "Nannaku Premato"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR played Abhiram in this film, listed as his 25th.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "janatha-garage",
+        "canonical": "Janatha Garage",
+        "aliases": [
+          "Janata Garage"
+        ],
+        "familiarity": 0.0869,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Anand in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "jai-lava-kusa",
+        "canonical": "Jai Lava Kusa",
+        "aliases": [
+          "Jai Lava Kusha"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited with the three roles of Jai Kumar, Lava Kumar, and Kusa Kumar.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "aravinda-sametha-veera-raghava",
+        "canonical": "Aravinda Sametha Veera Raghava",
+        "aliases": [
+          "Aravinda Sametha",
+          "Aravindha Sametha"
+        ],
+        "familiarity": 0.0348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Veera Raghava Reddy in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [],
+        "familiarity": 0.0869,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Komaram Bheem in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "devara-part-1",
+        "canonical": "Devara: Part 1",
+        "aliases": [
+          "Devara",
+          "Devara Part 1",
+          "Devara 1"
+        ],
+        "familiarity": 0.0869,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Devara and Vara in the film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      },
+      {
+        "id": "war-2",
+        "canonical": "War 2",
+        "aliases": [
+          "War II"
+        ],
+        "familiarity": 0.0869,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jr NTR is credited as Major Vikram Chelapathi in this Hindi film.",
+        "sourceIds": [
+          "n-t-rama-rao-jr-filmography"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the Film section of Jr NTR's filmography. Child roles, special appearances, and narration count; television appearances, documentaries, and the unreleased Dragon do not.",
+    "sources": [
+      {
+        "id": "n-t-rama-rao-jr-filmography",
+        "title": "N. T. Rama Rao Jr. filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/N._T._Rama_Rao_Jr._filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "d8cdc29242300264",
+    "brief": "Name a movie starring Jr NTR.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "n-t-rama-rao-jr-filmography",
+        "version": "1380060466",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Brahmarshi Viswamitra": "1991 | Brahmarshi Viswamitra | Bharata | Child Actor |",
+      "Ramayanam": "1997 | Ramayanam | Rama | Child Actor |",
+      "Ninnu Choodalani": "2001 | Ninnu Choodalani | Venu Reddy | Debut as lead actor |",
+      "Student No: 1": "2001 | Student No: 1 | Aditya Rao | |",
+      "Subbu": "2001 | Subbu | Bala Subramanyam | |",
+      "Aadhi": "2002 | Aadhi | Aadhi Kesava Reddy | |",
+      "Allari Ramudu": "2002 | Allari Ramudu | Ramakrishna | |",
+      "Naaga": "2003 | Naaga | Nagaraju | |",
+      "Simhadri": "2003 | Simhadri | Simhadri / Singamalai | |",
+      "Andhrawala": "2004 | Andhrawala | Munna / Shankar Pehelwan | |",
+      "Samba": "2004 | Samba | Samba Shiva Naidu | |",
+      "Naa Alludu": "2005 | Naa Alludu | Karthik \"Suryam\" / Murugan | |",
+      "Narasimhudu": "2005 | Narasimhudu | Kondaveedi Narasimhudu | |",
+      "Ashok": "2006 | Ashok | Ashok | |",
+      "Rakhi": "2006 | Rakhi | K. Ramakrishna / Rakhi | |",
+      "Yamadonga": "2007 | Yamadonga | Raja / Young Yama Dharma Raja | |",
+      "Kantri": "2008 | Kantri | Kranthi \"Kantri\" | |",
+      "Chintakayala Ravi": "2008 | Chintakayala Ravi | Himself | Special appearance in the song \"Shaava Shaava\" |",
+      "Adhurs": "2010 | Adhurs | Narasimha / Chari | |",
+      "Rama Rama Krishna Krishna": "2010 | Rama Rama Krishna Krishna | Narrator | Voice role |",
+      "Brindavanam": "2010 | Brindavanam | Krishna \"Krish\" | |",
+      "Sakthi": "2011 | Sakthi | Sakthi Swaroop / Maha Rudra | |",
+      "Oosaravelli": "2011 | Oosaravelli | Tony | |",
+      "Dammu": "2012 | Dammu | Ramachandra / Raja Vijay Dhwaja Sri Simha | |",
+      "Baadshah": "2013 | Baadshah | N. T. Rama Rao / Baadshah | |",
+      "Ramayya Vasthavayya": "2013 | Ramayya Vasthavayya | Nandu / Ramu | |",
+      "Rabhasa": "2014 | Rabhasa | Karthik | |",
+      "Temper": "2015 | Temper | Daya | |",
+      "Nannaku Prematho": "2016 | Nannaku Prematho | Abhiram | 25th film |",
+      "Janatha Garage": "2016 | Janatha Garage | Anand | |",
+      "Jai Lava Kusa": "2017 | Jai Lava Kusa | Jai Kumar \"Raavan\" / Lava Kumar / Kusa Kumar | |",
+      "Aravinda Sametha Veera Raghava": "2018 | Aravinda Sametha Veera Raghava | Veera Raghava Reddy | |",
+      "RRR": "2022 | RRR | Komaram Bheem | |",
+      "Devara: Part 1": "2024 | Devara: Part 1 | Devara / Vara | |",
+      "War 2": "2025 | War 2 | Major Vikram Chelapathi | Hindi film |"
+    },
+    "issues": []
+  }
+}

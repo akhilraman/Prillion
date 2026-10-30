@@ -1,0 +1,238 @@
+{
+  "question": {
+    "id": "space-neptune-moons",
+    "category": "space",
+    "prompt": "Name a moon of Neptune.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "triton",
+        "canonical": "Triton",
+        "aliases": [],
+        "familiarity": 0.3663,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Triton is Neptune's largest moon.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "nereid",
+        "canonical": "Nereid",
+        "aliases": [],
+        "familiarity": 0.1465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nereid is identified as Neptune's third-largest moon.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "proteus",
+        "canonical": "Proteus",
+        "aliases": [],
+        "familiarity": 0.1465,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Proteus is listed among Neptune's seven regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "naiad",
+        "canonical": "Naiad",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naiad is listed as the closest regular moon to Neptune.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "thalassa",
+        "canonical": "Thalassa",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thalassa is listed among Neptune's regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "despina",
+        "canonical": "Despina",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Despina is listed among Neptune's regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "galatea",
+        "canonical": "Galatea",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Galatea is listed among Neptune's regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "larissa",
+        "canonical": "Larissa",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Larissa is listed among Neptune's regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "hippocamp",
+        "canonical": "Hippocamp",
+        "aliases": [],
+        "familiarity": 0.044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hippocamp is listed among Neptune's regular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "halimede",
+        "canonical": "Halimede",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Halimede is listed among Neptune's irregular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "sao",
+        "canonical": "Sao",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sao is listed among Neptune's irregular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "s-2002-n-5",
+        "canonical": "S/2002 N 5",
+        "aliases": [
+          "S/2002 N5",
+          "S2002 N5",
+          "S/2002N5"
+        ],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S/2002 N 5 is one of two provisionally designated moons of Neptune announced in 2024.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "laomedeia",
+        "canonical": "Laomedeia",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Laomedeia is listed among Neptune's irregular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "psamathe",
+        "canonical": "Psamathe",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Psamathe is listed among Neptune's irregular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "neso",
+        "canonical": "Neso",
+        "aliases": [],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neso is listed among Neptune's irregular moons.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      },
+      {
+        "id": "s-2021-n-1",
+        "canonical": "S/2021 N 1",
+        "aliases": [
+          "S/2021 N1",
+          "S2021 N1",
+          "S/2021N1"
+        ],
+        "familiarity": 0.011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "S/2021 N 1 is one of two provisionally designated moons of Neptune announced in 2024.",
+        "sourceIds": [
+          "moons-of-neptune"
+        ]
+      }
+    ],
+    "explanation": "The source lists 16 known moons of Neptune: seven inner regular moons and nine irregular moons. Fourteen have names, while two have provisional designations.",
+    "sources": [
+      {
+        "id": "moons-of-neptune",
+        "title": "Moons of Neptune",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moons_of_Neptune",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "28e4025be1f18ed1",
+    "brief": "Name a moon of Neptune.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "moons-of-neptune",
+        "version": "1380598004",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Triton": "The largest is Triton, discovered by William Lassell on 10 October 1846, 17 days after the discovery of Neptune itself.",
+      "Nereid": "Nereid is the third-largest moon of Neptune.",
+      "Proteus": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Naiad": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Thalassa": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Despina": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Galatea": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Larissa": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Hippocamp": "In order of distance from Neptune, the regular moons are Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, and Proteus.",
+      "Halimede": "In order of their distance from the planet, the irregular moons are Triton, Nereid, Halimede, Sao, S/2002 N 5, Laomedeia, Psamathe, Neso, and S/2021 N 1, a group that includes both prograde and retrograde objects.",
+      "Sao": "In order of their distance from the planet, the irregular moons are Triton, Nereid, Halimede, Sao, S/2002 N 5, Laomedeia, Psamathe, Neso, and S/2021 N 1, a group that includes both prograde and retrograde objects.",
+      "S/2002 N 5": "These two moons are provisionally designated S/2021 N 1 and S/2002 N 5.",
+      "Laomedeia": "In order of their distance from the planet, the irregular moons are Triton, Nereid, Halimede, Sao, S/2002 N 5, Laomedeia, Psamathe, Neso, and S/2021 N 1, a group that includes both prograde and retrograde objects.",
+      "Psamathe": "In order of their distance from the planet, the irregular moons are Triton, Nereid, Halimede, Sao, S/2002 N 5, Laomedeia, Psamathe, Neso, and S/2021 N 1, a group that includes both prograde and retrograde objects.",
+      "Neso": "In order of their distance from the planet, the irregular moons are Triton, Nereid, Halimede, Sao, S/2002 N 5, Laomedeia, Psamathe, Neso, and S/2021 N 1, a group that includes both prograde and retrograde objects.",
+      "S/2021 N 1": "These two moons are provisionally designated S/2021 N 1 and S/2002 N 5."
+    },
+    "issues": []
+  }
+}

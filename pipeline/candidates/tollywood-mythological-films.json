@@ -1,0 +1,405 @@
+{
+  "question": {
+    "id": "tollywood-mythological-films",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu mythological or folklore-based film.",
+    "answerSet": "open",
+    "criteria": "Any film originally made in Telugu, including multilingual productions, classified as mythological or folklore/folk-fantasy counts. Telugu-dubbed releases alone do not qualify.",
+    "answers": [
+      {
+        "id": "mayabazar",
+        "canonical": "Mayabazar",
+        "aliases": [
+          "Maya Bazaar"
+        ],
+        "familiarity": 0.1257,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mayabazar is a mythological film about the marriage of Sasirekha and Abhimanyu, featuring Krishna and Ghatotkacha.",
+        "sourceIds": []
+      },
+      {
+        "id": "pathala-bhairavi",
+        "canonical": "Pathala Bhairavi",
+        "aliases": [
+          "Patala Bhairavi",
+          "Paathala Bhairavi"
+        ],
+        "familiarity": 0.1257,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pathala Bhairavi is a Telugu folklore fantasy about a gardener's son, a princess and a sorcerer.",
+        "sourceIds": []
+      },
+      {
+        "id": "lava-kusa",
+        "canonical": "Lava Kusa",
+        "aliases": [
+          "Lava Kusha"
+        ],
+        "familiarity": 0.1257,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lava Kusa tells the Ramayana story of Rama and Sita's sons.",
+        "sourceIds": []
+      },
+      {
+        "id": "jagadeka-veeruni-katha",
+        "canonical": "Jagadeka Veeruni Katha",
+        "aliases": [
+          "Jagadeka Veeruni Kadha"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jagadeka Veeruni Katha is a Telugu folklore fantasy about a prince and celestial maidens.",
+        "sourceIds": []
+      },
+      {
+        "id": "nartanasala",
+        "canonical": "Nartanasala",
+        "aliases": [
+          "Narthanasala"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nartanasala adapts the Mahabharata episode in which the Pandavas live in disguise at King Virata's court.",
+        "sourceIds": []
+      },
+      {
+        "id": "bhakta-prahlada",
+        "canonical": "Bhakta Prahlada",
+        "aliases": [
+          "Bhaktha Prahlada",
+          "Bhakta Prahladha",
+          "Bhaktha Prahladha",
+          "Bhakta Prahlad"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhakta Prahlada depicts Prahlada's devotion to Vishnu and the appearance of Narasimha.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-rama-rajyam",
+        "canonical": "Sri Rama Rajyam",
+        "aliases": [
+          "Sree Rama Rajyam"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Rama Rajyam depicts Rama's reign and the story of Sita, Lava and Kusa.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-krishna-pandaveeyam",
+        "canonical": "Sri Krishna Pandaveeyam",
+        "aliases": [
+          "Sri Krishna Pandaviyam",
+          "Krishna Pandaveeyam"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Krishna Pandaveeyam dramatizes episodes involving Krishna and the Pandavas from the Mahabharata.",
+        "sourceIds": []
+      },
+      {
+        "id": "sampoorna-ramayanam",
+        "canonical": "Sampoorna Ramayanam",
+        "aliases": [
+          "Sampurna Ramayanam",
+          "Sampoorna Ramayan",
+          "Sampoorna Ramayana"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sampoorna Ramayanam is a Telugu adaptation of the Ramayana directed by Bapu.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-venkateswara-mahatyam",
+        "canonical": "Sri Venkateswara Mahatyam",
+        "aliases": [
+          "Sri Venkateswara Mahatmyam",
+          "Venkateswara Mahatyam",
+          "Srinivasa Mahatyam",
+          "Sree Venkateswara Mahatyam"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Venkateswara Mahatyam dramatizes legends associated with Lord Venkateswara.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-krishna-tulabharam",
+        "canonical": "Sri Krishna Tulabharam",
+        "aliases": [
+          "Sri Krishna Thulabharam",
+          "Krishna Tulabharam"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Krishna Tulabharam depicts the legend in which Satyabhama attempts to balance Krishna's weight with riches.",
+        "sourceIds": []
+      },
+      {
+        "id": "keelu-gurram",
+        "canonical": "Keelu Gurram",
+        "aliases": [
+          "Kilu Gurram",
+          "Keelu Gurramu"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keelu Gurram is a Telugu folklore fantasy featuring a magical horse.",
+        "sourceIds": []
+      },
+      {
+        "id": "daksha-yagnam",
+        "canonical": "Daksha Yagnam",
+        "aliases": [
+          "Daksha Yajnam",
+          "Daksha Yagam",
+          "Daksha Yajna"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daksha Yagnam depicts the mythological story of Daksha's sacrifice and its conflict with Shiva.",
+        "sourceIds": []
+      },
+      {
+        "id": "suvarna-sundari",
+        "canonical": "Suvarna Sundari",
+        "aliases": [
+          "Swarna Sundari"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Suvarna Sundari is a Telugu folk-fantasy film involving a prince and a celestial dancer.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-vinayaka-vijayam",
+        "canonical": "Sri Vinayaka Vijayam",
+        "aliases": [
+          "Vinayaka Vijayam",
+          "Sree Vinayaka Vijayam",
+          "Sri Vinayaka Vijaya"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Vinayaka Vijayam is a Telugu mythological film centered on Ganesha.",
+        "sourceIds": []
+      },
+      {
+        "id": "bhookailas",
+        "canonical": "Bhookailas",
+        "aliases": [
+          "Bhookailash",
+          "Bhu Kailas"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhookailas depicts the mythological story of Ravana seeking Shiva's Atma Linga.",
+        "sourceIds": []
+      },
+      {
+        "id": "bhakta-kannappa",
+        "canonical": "Bhakta Kannappa",
+        "aliases": [
+          "Bhaktha Kannappa"
+        ],
+        "familiarity": 0.0503,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bhakta Kannappa dramatizes the religious legend of Kannappa's devotion to Shiva.",
+        "sourceIds": []
+      },
+      {
+        "id": "seeta-rama-kalyanam",
+        "canonical": "Seeta Rama Kalyanam",
+        "aliases": [
+          "Sita Rama Kalyanam",
+          "Seetha Rama Kalyanam"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 1961 Seeta Rama Kalyanam depicts events from the Ramayana leading to Rama and Sita's marriage.",
+        "sourceIds": []
+      },
+      {
+        "id": "chenchu-lakshmi",
+        "canonical": "Chenchu Lakshmi",
+        "aliases": [
+          "Chenchu Laxmi"
+        ],
+        "familiarity": 0.0151,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chenchu Lakshmi draws on the religious legend linking Narasimha with Chenchu Lakshmi.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-krishna-satya",
+        "canonical": "Sri Krishna Satya",
+        "aliases": [
+          "Sri Krishna Sathya"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Krishna Satya presents mythological stories involving Krishna and Satyabhama.",
+        "sourceIds": []
+      },
+      {
+        "id": "sri-ramanjaneya-yuddham",
+        "canonical": "Sri Ramanjaneya Yuddham",
+        "aliases": [
+          "Sri Rama Anjaneya Yuddham",
+          "Ramanjaneya Yuddham",
+          "Sri Ramanjaneya Yudham",
+          "Sree Ramanjaneya Yuddham"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Ramanjaneya Yuddham adapts a legend about a confrontation between Rama and Hanuman.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu cinema has a long tradition of adapting the Ramayana, Mahabharata, stories of gods and devotees, and folklore adventures involving magic and legendary kingdoms.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "12d6673d0625de95",
+    "brief": "Name a Telugu mythological or folklore-based film (for example about gods, epics or legends).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Mayabazar": 3,
+      "Pathala Bhairavi": 3,
+      "Lava Kusa": 3,
+      "Jagadeka Veeruni Katha": 3,
+      "Nartanasala": 3,
+      "Bhakta Prahlada": 3,
+      "Sri Rama Rajyam": 3,
+      "Sri Krishna Pandaveeyam": 3,
+      "Sampoorna Ramayanam": 3,
+      "Sri Venkateswara Mahatyam": 3,
+      "Sri Krishna Tulabharam": 3,
+      "Suvarna Sundari": 2,
+      "Keelu Gurram": 3,
+      "Daksha Yagnam": 3,
+      "Sri Vinayaka Vijayam": 2,
+      "Bhookailas": 2,
+      "Bhakta Kannappa": 2,
+      "Seeta Rama Kalyanam": 2,
+      "Chenchu Lakshmi": 2,
+      "Sri Krishna Satya": 2,
+      "Sri Ramanjaneya Yuddham": 2
+    },
+    "droppedForVotes": {
+      "Dana Veera Sura Karna": 1,
+      "Bhairava Dweepam": 1,
+      "Sri Krishnarjuna Yuddham": 1,
+      "Seeta Kalyanam": 1,
+      "Sri Seetha Rama Kalyanam": 1,
+      "Gulebakavali Katha": 1,
+      "Bala Nagamma": 1,
+      "Suvarna Manjari": 1,
+      "Chikkadu Dorakadu": 1,
+      "Bala Bharatam": 1,
+      "Sati Savitri": 1,
+      "Dana Veera Soora Karna": 1,
+      "Adipurush": 1,
+      "Bala Ramayanam": 1,
+      "Shaakuntalam": 1,
+      "Pandava Vanavasam": 1,
+      "Sri Kalahastiswara Mahatyam": 1
+    },
+    "verdicts": {
+      "Mayabazar": {
+        "verdict": "correct",
+        "reason": "A Telugu–Tamil bilingual mythological film based on the Sasirekha–Abhimanyu marriage story."
+      },
+      "Pathala Bhairavi": {
+        "verdict": "correct",
+        "reason": "A Telugu–Tamil bilingual folklore-fantasy film about a gardener's son, a princess and a sorcerer."
+      },
+      "Lava Kusa": {
+        "verdict": "correct",
+        "reason": "A Telugu–Tamil bilingual mythological film recounting the Ramayana story of Lava and Kusa."
+      },
+      "Jagadeka Veeruni Katha": {
+        "verdict": "correct",
+        "reason": "A Telugu folklore-fantasy film involving a prince and celestial maidens."
+      },
+      "Nartanasala": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film adapting the Mahabharata's Virata Parva."
+      },
+      "Bhakta Prahlada": {
+        "verdict": "correct",
+        "reason": "Multiple Telugu mythological films bear this title and depict Prahlada's devotion and Narasimha's appearance."
+      },
+      "Sri Rama Rajyam": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film based on the Ramayana's later events involving Sita, Lava and Kusa."
+      },
+      "Sri Krishna Pandaveeyam": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film featuring Krishna and the Pandavas in Mahabharata episodes."
+      },
+      "Sampoorna Ramayanam": {
+        "verdict": "correct",
+        "reason": "Bapu directed this Telugu mythological adaptation of the Ramayana."
+      },
+      "Sri Venkateswara Mahatyam": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film dramatizing legends of Venkateswara."
+      },
+      "Sri Krishna Tulabharam": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film based on the legend of weighing Krishna against offerings."
+      },
+      "Keelu Gurram": {
+        "verdict": "correct",
+        "reason": "A Telugu folklore-fantasy film featuring a magical horse."
+      },
+      "Daksha Yagnam": {
+        "verdict": "correct",
+        "reason": "A documented Telugu mythological film title depicting Daksha's sacrifice and conflict with Shiva."
+      },
+      "Suvarna Sundari": {
+        "verdict": "correct",
+        "reason": "A Telugu folk-fantasy film involving a prince and a celestial dancer."
+      },
+      "Sri Vinayaka Vijayam": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film centered on Ganesha, released in 1979."
+      },
+      "Bhookailas": {
+        "verdict": "correct",
+        "reason": "The 1958 Telugu mythological film depicts Ravana's quest for Shiva's Atma Linga."
+      },
+      "Bhakta Kannappa": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological-devotional film based on the legend of Kannappa's devotion to Shiva."
+      },
+      "Seeta Rama Kalyanam": {
+        "verdict": "correct",
+        "reason": "The 1961 Telugu mythological film recounts Ramayana events culminating in Rama and Sita's marriage."
+      },
+      "Chenchu Lakshmi": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film title associated with the legends of Narasimha and Chenchu Lakshmi."
+      },
+      "Sri Krishna Satya": {
+        "verdict": "correct",
+        "reason": "A 1971 Telugu mythological film featuring Krishna and Satyabhama."
+      },
+      "Sri Ramanjaneya Yuddham": {
+        "verdict": "correct",
+        "reason": "A Telugu mythological film based on a legendary confrontation between Rama and Hanuman."
+      }
+    },
+    "issues": []
+  }
+}

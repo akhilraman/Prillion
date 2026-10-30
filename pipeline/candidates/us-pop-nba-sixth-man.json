@@ -1,0 +1,494 @@
+{
+  "question": {
+    "id": "us-pop-nba-sixth-man",
+    "category": "us-pop",
+    "prompt": "Name a player who won the NBA Sixth Man of the Year Award from 1982–83 through 2025–26.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "bobby-jones",
+        "canonical": "Bobby Jones",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bobby Jones won the inaugural award in 1982–83.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "kevin-mchale",
+        "canonical": "Kevin McHale",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin McHale won the award in 1983–84 and 1984–85.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "bill-walton",
+        "canonical": "Bill Walton",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bill Walton won the award in 1985–86.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "ricky-pierce",
+        "canonical": "Ricky Pierce",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ricky Pierce won the award in 1986–87 and 1989–90.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "roy-tarpley",
+        "canonical": "Roy Tarpley",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roy Tarpley won the award in 1987–88.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "eddie-johnson",
+        "canonical": "Eddie Johnson",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eddie Johnson won the award in 1988–89.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "detlef-schrempf",
+        "canonical": "Detlef Schrempf",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Detlef Schrempf won the award in 1990–91 and 1991–92.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "clifford-robinson",
+        "canonical": "Clifford Robinson",
+        "aliases": [
+          "Cliff Robinson"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clifford Robinson won the award in 1992–93.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "dell-curry",
+        "canonical": "Dell Curry",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dell Curry won the award in 1993–94.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "anthony-mason",
+        "canonical": "Anthony Mason",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Anthony Mason won the award in 1994–95.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "toni-kuko",
+        "canonical": "Toni Kukoč",
+        "aliases": [
+          "Toni Kukoc"
+        ],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Toni Kukoč won the award in 1995–96.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "john-starks",
+        "canonical": "John Starks",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Starks won the award in 1996–97.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "danny-manning",
+        "canonical": "Danny Manning",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Danny Manning won the award in 1997–98.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "darrell-armstrong",
+        "canonical": "Darrell Armstrong",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darrell Armstrong won the award in 1998–99.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "rodney-rogers",
+        "canonical": "Rodney Rogers",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rodney Rogers won the award in 1999–00.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "aaron-mckie",
+        "canonical": "Aaron McKie",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aaron McKie won the award in 2000–01.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "corliss-williamson",
+        "canonical": "Corliss Williamson",
+        "aliases": [],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Corliss Williamson won the award in 2001–02.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "bobby-jackson",
+        "canonical": "Bobby Jackson",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bobby Jackson won the award in 2002–03.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "antawn-jamison",
+        "canonical": "Antawn Jamison",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antawn Jamison won the award in 2003–04.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "ben-gordon",
+        "canonical": "Ben Gordon",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ben Gordon won the award in 2004–05.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "mike-miller",
+        "canonical": "Mike Miller",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike Miller won the award in 2005–06.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "leandro-barbosa",
+        "canonical": "Leandro Barbosa",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leandro Barbosa won the award in 2006–07.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "manu-gin-bili",
+        "canonical": "Manu Ginóbili",
+        "aliases": [
+          "Manu Ginobili"
+        ],
+        "familiarity": 0.0838,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Manu Ginóbili won the award in 2007–08.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "jason-terry",
+        "canonical": "Jason Terry",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jason Terry won the award in 2008–09.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "jamal-crawford",
+        "canonical": "Jamal Crawford",
+        "aliases": [],
+        "familiarity": 0.0838,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jamal Crawford won the award in 2009–10, 2013–14 and 2015–16.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "lamar-odom",
+        "canonical": "Lamar Odom",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lamar Odom won the award in 2010–11.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "james-harden",
+        "canonical": "James Harden",
+        "aliases": [],
+        "familiarity": 0.0838,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Harden won the award in 2011–12.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "j-r-smith",
+        "canonical": "J. R. Smith",
+        "aliases": [
+          "JR Smith",
+          "J.R. Smith",
+          "J R Smith"
+        ],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J. R. Smith won the award in 2012–13.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "lou-williams",
+        "canonical": "Lou Williams",
+        "aliases": [],
+        "familiarity": 0.0838,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lou Williams won the award in 2014–15, 2017–18 and 2018–19.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "eric-gordon",
+        "canonical": "Eric Gordon",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eric Gordon won the award in 2016–17.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "montrezl-harrell",
+        "canonical": "Montrezl Harrell",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Montrezl Harrell won the award in 2019–20.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "jordan-clarkson",
+        "canonical": "Jordan Clarkson",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jordan Clarkson won the award in 2020–21.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "tyler-herro",
+        "canonical": "Tyler Herro",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tyler Herro won the award in 2021–22.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "malcolm-brogdon",
+        "canonical": "Malcolm Brogdon",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malcolm Brogdon won the award in 2022–23.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "naz-reid",
+        "canonical": "Naz Reid",
+        "aliases": [
+          "Nazreon Hilton Reid"
+        ],
+        "familiarity": 0.0838,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naz Reid won the award in 2023–24.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "payton-pritchard",
+        "canonical": "Payton Pritchard",
+        "aliases": [],
+        "familiarity": 0.0335,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Payton Pritchard won the award in 2024–25.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      },
+      {
+        "id": "keldon-johnson",
+        "canonical": "Keldon Johnson",
+        "aliases": [],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Keldon Johnson is listed as the winner for 2025–26.",
+        "sourceIds": [
+          "nba-sixth-man-of-the-year"
+        ]
+      }
+    ],
+    "explanation": "The award recognizes the NBA's best-performing player coming off the bench. The winners listed for these seasons include three-time recipients Jamal Crawford and Lou Williams; repeat winners count as a single answer.",
+    "sources": [
+      {
+        "id": "nba-sixth-man-of-the-year",
+        "title": "NBA Sixth Man of the Year",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/NBA_Sixth_Man_of_the_Year",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "120927ba5f4b3712",
+    "brief": "Name a player who has won the NBA Sixth Man of the Year Award.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "nba-sixth-man-of-the-year",
+        "version": "1368446412",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Bobby Jones": "1982–83 | Bobby Jones* | Power forward | United States | Philadelphia 76ers",
+      "Kevin McHale": "1983–84 | Kevin McHale* | Power forward | United States | Boston Celtics",
+      "Bill Walton": "1985–86 | Bill Walton* | Center | United States | Boston Celtics (3)",
+      "Ricky Pierce": "1986–87 | Ricky Pierce | Shooting guard | United States | Milwaukee Bucks",
+      "Roy Tarpley": "1987–88 | Roy Tarpley | Power forward | United States | Dallas Mavericks",
+      "Eddie Johnson": "1988–89 | Eddie Johnson | Small forward | United States | Phoenix Suns",
+      "Detlef Schrempf": "1990–91 | Detlef Schrempf | Power forward | Germany | Indiana Pacers",
+      "Clifford Robinson": "1992–93 | Clifford Robinson | Power forward | United States | Portland Trail Blazers",
+      "Dell Curry": "1993–94 | Dell Curry | Shooting guard | United States | Charlotte Hornets",
+      "Anthony Mason": "1994–95 | Anthony Mason | Power forward | United States | New York Knicks",
+      "Toni Kukoč": "1995–96 | Toni Kukoč* | Small forward | Croatia | Chicago Bulls",
+      "John Starks": "1996–97 | John Starks | Shooting guard | United States | New York Knicks (2)",
+      "Danny Manning": "1997–98 | Danny Manning | Power forward | United States | Phoenix Suns (2)",
+      "Darrell Armstrong": "1998–99 | Darrell Armstrong | Point guard | United States | Orlando Magic",
+      "Rodney Rogers": "1999–00 | Rodney Rogers | Power forward | United States | Phoenix Suns (3)",
+      "Aaron McKie": "2000–01 | Aaron McKie | Shooting guard | United States | Philadelphia 76ers (2)",
+      "Corliss Williamson": "2001–02 | Corliss Williamson | Small forward | United States | Detroit Pistons",
+      "Bobby Jackson": "2002–03 | Bobby Jackson | Point guard | United States | Sacramento Kings",
+      "Antawn Jamison": "2003–04 | Antawn Jamison | Small forward | United States | Dallas Mavericks (2)",
+      "Ben Gordon": "2004–05 | Ben Gordon | Shooting guard | United Kingdom | Chicago Bulls (2)",
+      "Mike Miller": "2005–06 | Mike Miller | Shooting guard | United States | Memphis Grizzlies",
+      "Leandro Barbosa": "2006–07 | Leandro Barbosa | Shooting guard | Brazil | Phoenix Suns (4)",
+      "Manu Ginóbili": "2007–08 | Manu Ginóbili* | Shooting guard | Argentina | San Antonio Spurs",
+      "Jason Terry": "2008–09 | Jason Terry | Shooting guard | United States | Dallas Mavericks (3)",
+      "Jamal Crawford": "Jamal Crawford and Lou Williams are the only three-time winners of the award.",
+      "Lamar Odom": "2010–11 | Lamar Odom | Power forward | United States | Los Angeles Lakers",
+      "James Harden": "2011–12 | James Harden^ | Shooting guard | United States | Oklahoma City Thunder",
+      "J. R. Smith": "2012–13 | J. R. Smith | Shooting guard | United States | New York Knicks (3)",
+      "Lou Williams": "Jamal Crawford and Lou Williams are the only three-time winners of the award.",
+      "Eric Gordon": "2016–17 | Eric Gordon^ | Shooting guard | United States | Houston Rockets",
+      "Montrezl Harrell": "2019–20 | Montrezl Harrell | Center | United States | Los Angeles Clippers (5)",
+      "Jordan Clarkson": "2020–21 | Jordan Clarkson^ | Shooting guard | United States | Utah Jazz",
+      "Tyler Herro": "2021–22 | Tyler Herro^ | Shooting guard | United States | Miami Heat",
+      "Malcolm Brogdon": "2022–23 | Malcolm Brogdon | Shooting guard | United States | Boston Celtics (4)",
+      "Naz Reid": "2023–24 | Naz Reid^ | Center | United States | Minnesota Timberwolves",
+      "Payton Pritchard": "2024–25 | Payton Pritchard^ | Point guard | United States | Boston Celtics (5)",
+      "Keldon Johnson": "2025–26 | Keldon Johnson^ | Small forward | United States | San Antonio Spurs (2)"
+    },
+    "issues": []
+  }
+}

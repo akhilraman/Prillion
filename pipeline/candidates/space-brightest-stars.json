@@ -1,0 +1,338 @@
+{
+  "question": {
+    "id": "space-brightest-stars",
+    "category": "space",
+    "prompt": "Name one of the 20 brightest stars in Earth's night sky, excluding the Sun.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "sirius",
+        "canonical": "Sirius",
+        "aliases": [
+          "Alpha Canis Majoris",
+          "α Canis Majoris"
+        ],
+        "familiarity": 0.1052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sirius is ranked first among the night-sky stars in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "canopus",
+        "canonical": "Canopus",
+        "aliases": [
+          "Alpha Carinae",
+          "α Carinae"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Canopus is ranked second in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "alpha-centauri",
+        "canonical": "Alpha Centauri",
+        "aliases": [
+          "α Centauri"
+        ],
+        "familiarity": 0.1052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alpha Centauri is ranked third using its combined apparent brightness.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "arcturus",
+        "canonical": "Arcturus",
+        "aliases": [
+          "Alpha Boötis",
+          "Alpha Bootis",
+          "α Boötis"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Arcturus is ranked fourth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "vega",
+        "canonical": "Vega",
+        "aliases": [
+          "Alpha Lyrae",
+          "α Lyrae"
+        ],
+        "familiarity": 0.1052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vega is ranked fifth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "capella",
+        "canonical": "Capella",
+        "aliases": [
+          "Alpha Aurigae",
+          "α Aurigae"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Capella is ranked sixth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "rigel",
+        "canonical": "Rigel",
+        "aliases": [
+          "Beta Orionis",
+          "β Orionis"
+        ],
+        "familiarity": 0.1052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rigel is ranked seventh in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "procyon",
+        "canonical": "Procyon",
+        "aliases": [
+          "Alpha Canis Minoris",
+          "α Canis Minoris"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Procyon is ranked eighth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "achernar",
+        "canonical": "Achernar",
+        "aliases": [
+          "Alpha Eridani",
+          "α Eridani"
+        ],
+        "familiarity": 0.0126,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Achernar is ranked ninth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "betelgeuse",
+        "canonical": "Betelgeuse",
+        "aliases": [
+          "Alpha Orionis",
+          "α Orionis"
+        ],
+        "familiarity": 0.1052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Betelgeuse is ranked tenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "hadar",
+        "canonical": "Hadar",
+        "aliases": [
+          "Beta Centauri",
+          "β Centauri"
+        ],
+        "familiarity": 0.0126,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hadar is ranked eleventh in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "altair",
+        "canonical": "Altair",
+        "aliases": [
+          "Alpha Aquilae",
+          "α Aquilae"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Altair is ranked twelfth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "acrux",
+        "canonical": "Acrux",
+        "aliases": [
+          "Alpha Crucis",
+          "α Crucis"
+        ],
+        "familiarity": 0.0126,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Acrux is ranked thirteenth using its combined apparent brightness.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "aldebaran",
+        "canonical": "Aldebaran",
+        "aliases": [
+          "Alpha Tauri",
+          "α Tauri"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aldebaran is ranked fourteenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "antares",
+        "canonical": "Antares",
+        "aliases": [
+          "Alpha Scorpii",
+          "α Scorpii"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antares is ranked fifteenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "spica",
+        "canonical": "Spica",
+        "aliases": [
+          "Alpha Virginis",
+          "α Virginis"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spica is ranked sixteenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "pollux",
+        "canonical": "Pollux",
+        "aliases": [
+          "Beta Geminorum",
+          "β Geminorum"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pollux is ranked seventeenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "fomalhaut",
+        "canonical": "Fomalhaut",
+        "aliases": [
+          "Alpha Piscis Austrini",
+          "α Piscis Austrini"
+        ],
+        "familiarity": 0.0126,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fomalhaut is ranked eighteenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "deneb",
+        "canonical": "Deneb",
+        "aliases": [
+          "Alpha Cygni",
+          "α Cygni"
+        ],
+        "familiarity": 0.0421,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deneb is ranked nineteenth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      },
+      {
+        "id": "mimosa",
+        "canonical": "Mimosa",
+        "aliases": [
+          "Beta Crucis",
+          "β Crucis"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mimosa is ranked twentieth in the table.",
+        "sourceIds": [
+          "list-of-brightest-stars"
+        ]
+      }
+    ],
+    "explanation": "These are the stars ranked 1–20 in the supplied apparent-brightness table. Brightness is measured as seen from Earth, and multiple-star systems that appear as one star to the naked eye use their combined brightness. Some stars vary in brightness, so their exact order can change.",
+    "sources": [
+      {
+        "id": "list-of-brightest-stars",
+        "title": "List of brightest stars",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_brightest_stars",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "794d7c8c483a9401",
+    "brief": "Name one of the brightest stars in Earth's night sky.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-brightest-stars",
+        "version": "1380542673",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Sirius": "1 | 0.001−1.46 | Sirius | α Canis Majoris | 0008.6 | A0mA1 Va | Southern",
+      "Canopus": "2 | 0.003−0.74 | Canopus | α Carinae | 0310 | A9II | Southern",
+      "Alpha Centauri": "3 | 0.004−0.27 (0.01 + 1.33) | Alpha Centauri | α Centauri | 0004.34 | G2V | Southern",
+      "Arcturus": "4 | 0.005−0.05 | Arcturus | α Boötis | 0037 | K1.5 III Fe−0.5 | Northern",
+      "Vega": "5 | 0.03 (−0.02–0.07var) | Vega | α Lyrae | 0025 | A0Va | Northern",
+      "Capella": "6 | 0.08 (0.03–0.16var) | Capella | α Aurigae | 0043 | K0 III, G1 III | Northern",
+      "Rigel": "7 | 0.13 (0.05–0.18var) | Rigel | β Orionis | 0860 | B8 Ia | Southern",
+      "Procyon": "8 | 0.34 | Procyon | α Canis Minoris | 0011 | F5 IV-V | Northern",
+      "Achernar": "9 | 0.46 (0.40–0.46var) | Achernar | α Eridani | 0140 | B3 Vpe | Southern",
+      "Betelgeuse": "10 | 0.50 (0.0–1.6var) | Betelgeuse | α Orionis | 640 | M1-M2 Ia-ab | Northern",
+      "Hadar": "11 | 0.61 | Hadar | β Centauri | 0390 | B1 III | Southern",
+      "Altair": "12 | 0.76 | Altair | α Aquilae | 0017 | A7 V | Northern",
+      "Acrux": "13 | 0.76 (1.33 + 1.73) | Acrux | α Crucis | 0320 | B0.5 IV, B1 V | Southern",
+      "Aldebaran": "14 | 0.86 (0.75–0.95var) | Aldebaran | α Tauri | 0065 | K5 III | Northern",
+      "Antares": "15 | 0.96 (0.6–1.6var) | Antares | α Scorpii | 0550 | M1.5 Iab-Ib, B2.5 V | Southern",
+      "Spica": "16 | 0.97 (0.97–1.04var) | Spica | α Virginis | 0250 | B1 III-IV, B2 V | Southern",
+      "Pollux": "17 | 1.14 | Pollux | β Geminorum | 0034 | K0 III | Northern",
+      "Fomalhaut": "18 | 1.16 | Fomalhaut | α Piscis Austrini | 0025 | A3 V | Southern",
+      "Deneb": "19 | 1.25 (1.21–1.29var) | Deneb | α Cygni | 2,600 | A2 Ia | Northern",
+      "Mimosa": "20 | 1.25 (1.23–1.31var) | Mimosa | β Crucis | 0280 | B0.5 III, B2 V | Southern"
+    },
+    "issues": []
+  }
+}

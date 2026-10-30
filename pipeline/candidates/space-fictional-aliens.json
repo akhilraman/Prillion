@@ -1,0 +1,441 @@
+{
+  "question": {
+    "id": "space-fictional-aliens",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name an alien character or alien species from a film, TV show or video game.",
+    "answerSet": "open",
+    "criteria": "Any named fictional extraterrestrial character or species appearing in a released film, television show or video game counts.",
+    "answers": [
+      {
+        "id": "e-t",
+        "canonical": "E.T.",
+        "aliases": [
+          "E.T. the Extra-Terrestrial"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "E.T. is the stranded alien befriended by Elliott in E.T. the Extra-Terrestrial.",
+        "sourceIds": []
+      },
+      {
+        "id": "yoda",
+        "canonical": "Yoda",
+        "aliases": [
+          "Master Yoda"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yoda is an alien Jedi Master in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "chewbacca",
+        "canonical": "Chewbacca",
+        "aliases": [
+          "Chewie"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chewbacca is a Wookiee and Han Solo's copilot in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "stitch",
+        "canonical": "Stitch",
+        "aliases": [
+          "Experiment 626",
+          "626"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stitch is a genetically engineered alien in Lilo & Stitch.",
+        "sourceIds": []
+      },
+      {
+        "id": "superman",
+        "canonical": "Superman",
+        "aliases": [
+          "Kal-El",
+          "Clark Kent"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Superman is a hero from the planet Krypton who appears in numerous films, television shows and games.",
+        "sourceIds": []
+      },
+      {
+        "id": "xenomorph",
+        "canonical": "Xenomorph",
+        "aliases": [
+          "Xenomorphs"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Xenomorphs are the extraterrestrial creatures featured in the Alien franchise.",
+        "sourceIds": []
+      },
+      {
+        "id": "predator",
+        "canonical": "Predator",
+        "aliases": [
+          "Yautja",
+          "Predators"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Predators are extraterrestrial hunters featured in the Predator franchise.",
+        "sourceIds": []
+      },
+      {
+        "id": "klingon",
+        "canonical": "Klingon",
+        "aliases": [
+          "Klingons"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Klingons are an extraterrestrial species in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "vulcan",
+        "canonical": "Vulcan",
+        "aliases": [
+          "Vulcans"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vulcans are a Star Trek species known for their commitment to logic.",
+        "sourceIds": []
+      },
+      {
+        "id": "dalek",
+        "canonical": "Dalek",
+        "aliases": [
+          "Daleks"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daleks are alien mutants housed in armored machines in Doctor Who.",
+        "sourceIds": []
+      },
+      {
+        "id": "ewok",
+        "canonical": "Ewok",
+        "aliases": [
+          "Ewoks"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ewoks are the small, furry inhabitants of the forest moon of Endor in Star Wars.",
+        "sourceIds": []
+      },
+      {
+        "id": "groot",
+        "canonical": "Groot",
+        "aliases": [
+          "Baby Groot"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Groot is a tree-like alien member of the Guardians of the Galaxy.",
+        "sourceIds": []
+      },
+      {
+        "id": "marvin-the-martian",
+        "canonical": "Marvin the Martian",
+        "aliases": [
+          "Marvin Martian"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marvin the Martian is an alien character in Looney Tunes cartoons.",
+        "sourceIds": []
+      },
+      {
+        "id": "asari",
+        "canonical": "Asari",
+        "aliases": [],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The asari are an alien species in the Mass Effect games.",
+        "sourceIds": []
+      },
+      {
+        "id": "protoss",
+        "canonical": "Protoss",
+        "aliases": [
+          "The Protoss"
+        ],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The protoss are a technologically advanced alien species in StarCraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "zerg",
+        "canonical": "Zerg",
+        "aliases": [
+          "The Swarm",
+          "Zerg Swarm",
+          "The Zerg"
+        ],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The zerg are an alien swarm in StarCraft.",
+        "sourceIds": []
+      },
+      {
+        "id": "sangheili",
+        "canonical": "Sangheili",
+        "aliases": [
+          "Elites",
+          "Halo Elites",
+          "Elite"
+        ],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sangheili are the alien species commonly called Elites in Halo.",
+        "sourceIds": []
+      },
+      {
+        "id": "hanar",
+        "canonical": "Hanar",
+        "aliases": [],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The hanar are a jellyfish-like alien species in Mass Effect.",
+        "sourceIds": []
+      },
+      {
+        "id": "elcor",
+        "canonical": "Elcor",
+        "aliases": [],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The elcor are a large, four-legged alien species in Mass Effect.",
+        "sourceIds": []
+      },
+      {
+        "id": "spock",
+        "canonical": "Spock",
+        "aliases": [
+          "Mr. Spock",
+          "Mister Spock"
+        ],
+        "familiarity": 0.0674,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spock is a half-human, half-Vulcan Starfleet officer in Star Trek.",
+        "sourceIds": []
+      },
+      {
+        "id": "time-lord",
+        "canonical": "Time Lord",
+        "aliases": [
+          "Time Lords"
+        ],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Time Lords are the alien civilization from Gallifrey to which the Doctor belongs in Doctor Who.",
+        "sourceIds": []
+      },
+      {
+        "id": "alf",
+        "canonical": "Alf",
+        "aliases": [
+          "Gordon Shumway"
+        ],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alf is an alien from Melmac who lives with a human household in the sitcom ALF.",
+        "sourceIds": []
+      },
+      {
+        "id": "turian",
+        "canonical": "Turian",
+        "aliases": [
+          "Turians"
+        ],
+        "familiarity": 0.0081,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Turians are an alien species in the Mass Effect games.",
+        "sourceIds": []
+      },
+      {
+        "id": "na-vi",
+        "canonical": "Na'vi",
+        "aliases": [],
+        "familiarity": 0.027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Na'vi are the humanoid inhabitants of Pandora in the Avatar films.",
+        "sourceIds": []
+      },
+      {
+        "id": "thermian",
+        "canonical": "Thermian",
+        "aliases": [
+          "Thermians"
+        ],
+        "familiarity": 0.002,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Thermians are the aliens who seek help from television actors in Galaxy Quest.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Science fiction has introduced countless aliens, from friendly visitors and intergalactic heroes to entire civilizations and extraterrestrial monsters.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "109d192e9c16922d",
+    "brief": "Name a famous alien species or alien character from film, TV or games.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "E.T.": 3,
+      "Yoda": 3,
+      "Chewbacca": 3,
+      "Stitch": 3,
+      "Superman": 3,
+      "Xenomorph": 3,
+      "Predator": 3,
+      "Klingon": 3,
+      "Vulcan": 3,
+      "Spock": 2,
+      "Dalek": 3,
+      "Time Lord": 2,
+      "Ewok": 3,
+      "Groot": 3,
+      "Alf": 2,
+      "Marvin the Martian": 3,
+      "Asari": 3,
+      "Turian": 2,
+      "Protoss": 3,
+      "Zerg": 3,
+      "Sangheili": 3,
+      "Hanar": 3,
+      "Elcor": 3,
+      "Na'vi": 2,
+      "Thermian": 2
+    },
+    "droppedForVotes": {
+      "Jabba the Hutt": 1,
+      "Zoidberg": 1,
+      "Vortigaunt": 1,
+      "Twi'lek": 1,
+      "Furon": 1,
+      "Krogan": 1,
+      "Goa'uld": 1,
+      "Narn": 1,
+      "Wookiee": 1,
+      "Horta": 1
+    },
+    "verdicts": {
+      "E.T.": {
+        "verdict": "correct",
+        "reason": "The titular extraterrestrial in the released film E.T. the Extra-Terrestrial."
+      },
+      "Yoda": {
+        "verdict": "correct",
+        "reason": "An alien Jedi Master appearing in the Star Wars films and television series."
+      },
+      "Chewbacca": {
+        "verdict": "correct",
+        "reason": "A Wookiee from Kashyyyk appearing in the Star Wars films."
+      },
+      "Stitch": {
+        "verdict": "correct",
+        "reason": "A genetically engineered alien, Experiment 626, in Lilo & Stitch."
+      },
+      "Superman": {
+        "verdict": "correct",
+        "reason": "A Kryptonian extraterrestrial appearing in numerous films, television shows and games."
+      },
+      "Xenomorph": {
+        "verdict": "correct",
+        "reason": "The alien creatures featured in the Alien film franchise."
+      },
+      "Predator": {
+        "verdict": "correct",
+        "reason": "The extraterrestrial hunters featured in the Predator films."
+      },
+      "Klingon": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species appearing throughout Star Trek television and films."
+      },
+      "Vulcan": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species appearing throughout Star Trek television and films."
+      },
+      "Dalek": {
+        "verdict": "correct",
+        "reason": "An alien mutant species encased in armored machines in Doctor Who."
+      },
+      "Ewok": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species native to Endor's forest moon, appearing in Return of the Jedi."
+      },
+      "Groot": {
+        "verdict": "correct",
+        "reason": "A tree-like extraterrestrial appearing in the Guardians of the Galaxy films."
+      },
+      "Marvin the Martian": {
+        "verdict": "correct",
+        "reason": "A Martian character appearing in released Looney Tunes cartoons and films."
+      },
+      "Asari": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species appearing in the Mass Effect games."
+      },
+      "Protoss": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species appearing in the StarCraft games."
+      },
+      "Zerg": {
+        "verdict": "correct",
+        "reason": "An alien biological swarm appearing in the StarCraft games."
+      },
+      "Sangheili": {
+        "verdict": "correct",
+        "reason": "The extraterrestrial species known as Elites in the Halo games."
+      },
+      "Hanar": {
+        "verdict": "correct",
+        "reason": "A jellyfish-like extraterrestrial species appearing in the Mass Effect games."
+      },
+      "Elcor": {
+        "verdict": "correct",
+        "reason": "A large, quadrupedal extraterrestrial species appearing in the Mass Effect games."
+      },
+      "Spock": {
+        "verdict": "correct",
+        "reason": "A half-human, half-Vulcan character appearing in Star Trek television and films."
+      },
+      "Time Lord": {
+        "verdict": "correct",
+        "reason": "The Doctor's extraterrestrial people from Gallifrey in Doctor Who."
+      },
+      "Alf": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial from Melmac and the title character of the television sitcom ALF."
+      },
+      "Turian": {
+        "verdict": "correct",
+        "reason": "An extraterrestrial species appearing in the Mass Effect games."
+      },
+      "Na'vi": {
+        "verdict": "correct",
+        "reason": "The extraterrestrial humanoid species native to Pandora in the Avatar films."
+      },
+      "Thermian": {
+        "verdict": "correct",
+        "reason": "The extraterrestrials who recruit television actors for help in Galaxy Quest."
+      }
+    },
+    "issues": []
+  }
+}

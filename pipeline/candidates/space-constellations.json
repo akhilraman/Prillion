@@ -1,0 +1,1293 @@
+{
+  "question": {
+    "id": "space-constellations",
+    "category": "space",
+    "prompt": "Name one of the 88 modern constellations recognized by the International Astronomical Union.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "andromeda",
+        "canonical": "Andromeda",
+        "aliases": [
+          "And"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andromeda appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "antlia",
+        "canonical": "Antlia",
+        "aliases": [
+          "Ant",
+          "Antlia Pneumatica"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Antlia appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "apus",
+        "canonical": "Apus",
+        "aliases": [
+          "Aps"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "aquarius",
+        "canonical": "Aquarius",
+        "aliases": [
+          "Aqr"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aquarius appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "aquila",
+        "canonical": "Aquila",
+        "aliases": [
+          "Aql"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aquila appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "ara",
+        "canonical": "Ara",
+        "aliases": [],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ara appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "aries",
+        "canonical": "Aries",
+        "aliases": [
+          "Ari"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aries appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "auriga",
+        "canonical": "Auriga",
+        "aliases": [
+          "Aur"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Auriga appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "bo-tes",
+        "canonical": "Boötes",
+        "aliases": [
+          "Bootes",
+          "Boo"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Boötes appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "caelum",
+        "canonical": "Caelum",
+        "aliases": [
+          "Cae",
+          "Caelum Sculptorium"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Caelum appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "camelopardalis",
+        "canonical": "Camelopardalis",
+        "aliases": [
+          "Cam"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Camelopardalis appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "cancer",
+        "canonical": "Cancer",
+        "aliases": [
+          "Cnc"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cancer appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "canes-venatici",
+        "canonical": "Canes Venatici",
+        "aliases": [
+          "CVn"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Canes Venatici appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "canis-major",
+        "canonical": "Canis Major",
+        "aliases": [
+          "CMa",
+          "Greater Dog"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Canis Major appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "canis-minor",
+        "canonical": "Canis Minor",
+        "aliases": [
+          "CMi",
+          "Lesser Dog"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Canis Minor appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "capricornus",
+        "canonical": "Capricornus",
+        "aliases": [
+          "Capricorn",
+          "Cap"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Capricornus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "carina",
+        "canonical": "Carina",
+        "aliases": [
+          "Car"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carina appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "cassiopeia",
+        "canonical": "Cassiopeia",
+        "aliases": [
+          "Cas"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cassiopeia appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "centaurus",
+        "canonical": "Centaurus",
+        "aliases": [
+          "Cen"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Centaurus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "cepheus",
+        "canonical": "Cepheus",
+        "aliases": [
+          "Cep"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cepheus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "cetus",
+        "canonical": "Cetus",
+        "aliases": [
+          "Cet"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cetus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "chamaeleon",
+        "canonical": "Chamaeleon",
+        "aliases": [
+          "Chameleon",
+          "Cha"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chamaeleon appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "circinus",
+        "canonical": "Circinus",
+        "aliases": [
+          "Cir"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Circinus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "columba",
+        "canonical": "Columba",
+        "aliases": [
+          "Col"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Columba appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "coma-berenices",
+        "canonical": "Coma Berenices",
+        "aliases": [
+          "Com",
+          "Berenice's Hair"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coma Berenices appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "corona-australis",
+        "canonical": "Corona Australis",
+        "aliases": [
+          "CrA",
+          "Southern Crown"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Corona Australis appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "corona-borealis",
+        "canonical": "Corona Borealis",
+        "aliases": [
+          "CrB",
+          "Northern Crown"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Corona Borealis appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "corvus",
+        "canonical": "Corvus",
+        "aliases": [
+          "Crv"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Corvus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "crater",
+        "canonical": "Crater",
+        "aliases": [
+          "Crt"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crater appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "crux",
+        "canonical": "Crux",
+        "aliases": [
+          "Cru"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crux appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "cygnus",
+        "canonical": "Cygnus",
+        "aliases": [
+          "Cyg"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cygnus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "delphinus",
+        "canonical": "Delphinus",
+        "aliases": [
+          "Del"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Delphinus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "dorado",
+        "canonical": "Dorado",
+        "aliases": [
+          "Dor"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dorado appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "draco",
+        "canonical": "Draco",
+        "aliases": [
+          "Dra"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Draco appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "equuleus",
+        "canonical": "Equuleus",
+        "aliases": [
+          "Equ"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Equuleus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "eridanus",
+        "canonical": "Eridanus",
+        "aliases": [
+          "Eri"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eridanus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "fornax",
+        "canonical": "Fornax",
+        "aliases": [
+          "For",
+          "Fourneau Chymique"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Fornax appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "gemini",
+        "canonical": "Gemini",
+        "aliases": [
+          "Gem"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "grus",
+        "canonical": "Grus",
+        "aliases": [
+          "Gru"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "hercules",
+        "canonical": "Hercules",
+        "aliases": [
+          "Her"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hercules appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "horologium",
+        "canonical": "Horologium",
+        "aliases": [
+          "Hor"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Horologium appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "hydra",
+        "canonical": "Hydra",
+        "aliases": [
+          "Hya"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hydra appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "hydrus",
+        "canonical": "Hydrus",
+        "aliases": [
+          "Hyi",
+          "Lesser Water Snake"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hydrus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "indus",
+        "canonical": "Indus",
+        "aliases": [
+          "Ind"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Indus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "lacerta",
+        "canonical": "Lacerta",
+        "aliases": [
+          "Lac"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lacerta appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "leo",
+        "canonical": "Leo",
+        "aliases": [],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leo appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "leo-minor",
+        "canonical": "Leo Minor",
+        "aliases": [
+          "LMi",
+          "Lesser Lion"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Leo Minor appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "lepus",
+        "canonical": "Lepus",
+        "aliases": [
+          "Lep"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lepus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "libra",
+        "canonical": "Libra",
+        "aliases": [
+          "Lib"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Libra appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "lupus",
+        "canonical": "Lupus",
+        "aliases": [
+          "Lup"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lupus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "lynx",
+        "canonical": "Lynx",
+        "aliases": [
+          "Lyn"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lynx appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "lyra",
+        "canonical": "Lyra",
+        "aliases": [
+          "Lyr"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lyra appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "mensa",
+        "canonical": "Mensa",
+        "aliases": [
+          "Men",
+          "Mons Mensae",
+          "Mons Mensæ"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mensa appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "microscopium",
+        "canonical": "Microscopium",
+        "aliases": [
+          "Mic"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Microscopium appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "monoceros",
+        "canonical": "Monoceros",
+        "aliases": [
+          "Mon"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Monoceros appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "musca",
+        "canonical": "Musca",
+        "aliases": [
+          "Mus"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Musca appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "norma",
+        "canonical": "Norma",
+        "aliases": [
+          "Nor"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Norma appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "octans",
+        "canonical": "Octans",
+        "aliases": [
+          "Oct"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Octans appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "ophiuchus",
+        "canonical": "Ophiuchus",
+        "aliases": [
+          "Oph",
+          "Serpent-bearer"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ophiuchus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "orion",
+        "canonical": "Orion",
+        "aliases": [
+          "Ori"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Orion appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "pavo",
+        "canonical": "Pavo",
+        "aliases": [
+          "Pav"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pavo appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "pegasus",
+        "canonical": "Pegasus",
+        "aliases": [
+          "Peg"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pegasus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "perseus",
+        "canonical": "Perseus",
+        "aliases": [
+          "Per"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Perseus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "phoenix",
+        "canonical": "Phoenix",
+        "aliases": [
+          "Phe"
+        ],
+        "familiarity": 0.0132,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Phoenix appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "pictor",
+        "canonical": "Pictor",
+        "aliases": [
+          "Pic",
+          "Equuleus Pictoris"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pictor appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "pisces",
+        "canonical": "Pisces",
+        "aliases": [
+          "Psc"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pisces appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "piscis-austrinus",
+        "canonical": "Piscis Austrinus",
+        "aliases": [
+          "PsA",
+          "Southern Fish"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Piscis Austrinus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "puppis",
+        "canonical": "Puppis",
+        "aliases": [
+          "Pup"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Puppis appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "pyxis",
+        "canonical": "Pyxis",
+        "aliases": [
+          "Pyx",
+          "Pyxis Nautica"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pyxis appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "reticulum",
+        "canonical": "Reticulum",
+        "aliases": [
+          "Ret"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Reticulum appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "sagitta",
+        "canonical": "Sagitta",
+        "aliases": [
+          "Sge"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sagitta appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "sagittarius",
+        "canonical": "Sagittarius",
+        "aliases": [
+          "Sgr"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sagittarius appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "scorpius",
+        "canonical": "Scorpius",
+        "aliases": [
+          "Scorpio",
+          "Sco"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scorpius appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "sculptor",
+        "canonical": "Sculptor",
+        "aliases": [
+          "Scl",
+          "Apparatus Sculptoris"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sculptor appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "scutum",
+        "canonical": "Scutum",
+        "aliases": [
+          "Sct",
+          "Scutum Sobiescianum"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Scutum appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "serpens",
+        "canonical": "Serpens",
+        "aliases": [
+          "Ser"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Serpens appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "sextans",
+        "canonical": "Sextans",
+        "aliases": [
+          "Sex"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sextans appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "taurus",
+        "canonical": "Taurus",
+        "aliases": [
+          "Tau"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Taurus appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "telescopium",
+        "canonical": "Telescopium",
+        "aliases": [
+          "Tel"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Telescopium appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "triangulum",
+        "canonical": "Triangulum",
+        "aliases": [
+          "Tri"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Triangulum appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "triangulum-australe",
+        "canonical": "Triangulum Australe",
+        "aliases": [
+          "TrA",
+          "Southern Triangle"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Triangulum Australe appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "tucana",
+        "canonical": "Tucana",
+        "aliases": [
+          "Tuc"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tucana appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "ursa-major",
+        "canonical": "Ursa Major",
+        "aliases": [
+          "UMa",
+          "Great Bear"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ursa Major appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "ursa-minor",
+        "canonical": "Ursa Minor",
+        "aliases": [
+          "UMi",
+          "Lesser Bear"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ursa Minor appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "vela",
+        "canonical": "Vela",
+        "aliases": [
+          "Vel"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vela appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "virgo",
+        "canonical": "Virgo",
+        "aliases": [
+          "Vir"
+        ],
+        "familiarity": 0.0331,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Virgo appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "volans",
+        "canonical": "Volans",
+        "aliases": [
+          "Vol",
+          "Piscis Volans"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Volans appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      },
+      {
+        "id": "vulpecula",
+        "canonical": "Vulpecula",
+        "aliases": [
+          "Vul",
+          "Vulpecula cum Ansere"
+        ],
+        "familiarity": 0.004,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vulpecula appears in the document's list of 88 modern constellations.",
+        "sourceIds": [
+          "iau-designated-constellations"
+        ]
+      }
+    ],
+    "explanation": "The IAU recognizes 88 constellations whose boundaries together cover the entire celestial sphere. Star patterns such as the Big Dipper are asterisms, not separate modern constellations.",
+    "sources": [
+      {
+        "id": "iau-designated-constellations",
+        "title": "IAU designated constellations",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/IAU_designated_constellations",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "974c75777c463725",
+    "brief": "Name one of the 88 modern constellations.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "iau-designated-constellations",
+        "version": "1381140789",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Andromeda": "Andromeda /ænˈdrɒmɪdə/ | And | Andr | Andromedae",
+      "Antlia": "Antlia /ˈæntliə/ | Ant | Antl | Antliae",
+      "Apus": "Apus /ˈeɪpəs/ | Aps | Apus | Apodis",
+      "Aquarius": "Aquarius /əˈkwɛəriəs/ | Aqr | Aqar | Aquarii",
+      "Aquila": "Aquila /ˈækwɪlə/ | Aql | Aqil | Aquilae",
+      "Ara": "Ara /ˈɛərə/ | Ara | Arae | Arae",
+      "Aries": "Aries /ˈɛər(i)iːz/ | Ari | Arie | Arietis",
+      "Auriga": "Auriga /ɔːˈraɪɡə/ | Aur | Auri | Aurigae",
+      "Boötes": "Boötes /boʊˈoʊtiːz/ | Boo | Boot | Boötis",
+      "Caelum": "Caelum /ˈsiːləm/ | Cae | Cael | Caeli",
+      "Camelopardalis": "Camelopardalis /kəˌmɛloʊˈpɑːrdəlɪs/ | Cam | Caml",
+      "Cancer": "Cancer /ˈkænsər/ | Cnc | Canc | Cancri",
+      "Canes Venatici": "Canes Venatici /ˈkeɪniːz vɪˈnætɪsaɪ/ | CVn | CVen | Canum Venaticorum",
+      "Canis Major": "Canis Major /ˈkeɪnɪs ˈmeɪdʒər/ | CMa | CMaj | Canis Majoris",
+      "Canis Minor": "Canis Minor /ˈkeɪnɪs ˈmaɪnər/ | CMi | CMin | Canis Minoris",
+      "Capricornus": "Capricornus /ˌkæprɪˈkɔːrnəs/ | Cap | Capr | Capricorni",
+      "Carina": "Carina /kəˈraɪnə/ | Car | Cari | Carinae",
+      "Cassiopeia": "Cassiopeia /ˌkæsioʊˈpiːə/ | Cas | Cass | Cassiopeiae",
+      "Centaurus": "Centaurus /sɛnˈtɔːrəs/ | Cen | Cent | Centauri",
+      "Cepheus": "Cepheus /ˈsiːfiəs/ | Cep | Ceph | Cephei",
+      "Cetus": "Cetus /ˈsiːtəs/ | Cet | Ceti | Ceti",
+      "Chamaeleon": "Chamaeleon /kəˈmiːliən/ | Cha | Cham | Chamaeleontis",
+      "Circinus": "Circinus /ˈsɜːrsɪnəs/ | Cir | Circ | Circini",
+      "Columba": "Columba /koʊˈlʌmbə/ | Col | Colm | Columbae",
+      "Coma Berenices": "Coma Berenices /ˈkoʊmə ˌbɛrəˈnaɪsiːz/ | Com | Coma | Comae Berenices",
+      "Corona Australis": "Corona Australis /koʊˈroʊnə ɔːˈstrælɪs, -ˈstreɪ-/ | CrA | CorA | Coronae Australis",
+      "Corona Borealis": "Corona Borealis /koʊˈroʊnə ˌbɔːriˈælɪs, -ˈeɪlɪs/ | CrB | CorB | Coronae Borealis",
+      "Corvus": "Corvus /ˈkɔːrvəs/ | Crv | Corv | Corvi",
+      "Crater": "Crater /ˈkreɪtər/ | Crt | Crat | Crateris",
+      "Crux": "Crux /ˈkrʌks/ | Cru | Cruc | Crucis",
+      "Cygnus": "Cygnus /ˈsɪɡnəs/ | Cyg | Cygn | Cygni",
+      "Delphinus": "Delphinus /dɛlˈfaɪnəs/ | Del | Dlph | Delphini",
+      "Dorado": "Dorado /dəˈrɑːdoʊ/ | Dor | Dora | Doradus",
+      "Draco": "Draco /ˈdreɪkoʊ/ | Dra | Drac | Draconis",
+      "Equuleus": "Equuleus /ɪˈkwuːliəs/ | Equ | Equl | Equulei",
+      "Eridanus": "Eridanus /ɪˈrɪdənəs/ | Eri | Erid | Eridani",
+      "Fornax": "Fornax /ˈfɔːrnæks/ | For | Forn | Fornacis",
+      "Gemini": "Gemini /ˈdʒɛmɪnaɪ/ | Gem | Gemi | Geminorum",
+      "Grus": "Grus /ˈɡrʌs/ | Gru | Grus | Gruis",
+      "Hercules": "Hercules /ˈhɜːrkjʊliːz/ | Her | Herc | Herculis",
+      "Horologium": "Horologium /ˌhɒrəˈlɒdʒiəm, -ˈloʊ-/ | Hor | Horo | Horologii",
+      "Hydra": "Hydra /ˈhaɪdrə/ | Hya | Hyda | Hydrae",
+      "Hydrus": "Hydrus /ˈhaɪdrəs/ | Hyi | Hydi | Hydri",
+      "Indus": "Indus /ˈɪndəs/ | Ind | Indi | Indi",
+      "Lacerta": "Lacerta /ləˈsɜːrtə/ | Lac | Lacr | Lacertae",
+      "Leo": "Leo /ˈliːoʊ/ | Leo | Leon | Leonis",
+      "Leo Minor": "Leo Minor /ˈliːoʊ ˈmaɪnər/ | LMi | LMin | Leonis Minoris",
+      "Lepus": "Lepus /ˈliːpəs/ | Lep | Leps | Leporis",
+      "Libra": "Libra /ˈlaɪbrə, ˈliː-/ | Lib | Libr | Librae",
+      "Lupus": "Lupus /ˈljuːpəs/ | Lup | Lupi | Lupi",
+      "Lynx": "Lynx /ˈlɪŋks/ | Lyn | Lync | Lyncis",
+      "Lyra": "Lyra /ˈlaɪrə/ | Lyr | Lyra | Lyrae",
+      "Mensa": "Mensa /ˈmɛnsə/ | Men | Mens | Mensae",
+      "Microscopium": "Microscopium /ˌmaɪkroʊˈskɒpiəm/ | Mic | Micr | Microscopii",
+      "Monoceros": "Monoceros /məˈnɒsɪrəs/ | Mon | Mono | Monocerotis",
+      "Musca": "Musca /ˈmʌskə/ | Mus | Musc | Muscae",
+      "Norma": "Norma /ˈnɔːrmə/ | Nor | Norm | Normae",
+      "Octans": "Octans /ˈɒktænz/ | Oct | Octn | Octantis",
+      "Ophiuchus": "Ophiuchus /ˌɒfiˈjuːkəs/ | Oph | Ophi | Ophiuchi",
+      "Orion": "Orion /oʊˈraɪən/ | Ori | Orio | Orionis",
+      "Pavo": "Pavo /ˈpeɪvoʊ/ | Pav | Pavo | Pavonis",
+      "Pegasus": "Pegasus /ˈpɛɡəsəs/ | Peg | Pegs | Pegasi",
+      "Perseus": "Perseus /ˈpɜːrsiəs/ | Per | Pers | Persei",
+      "Phoenix": "Phoenix /ˈfiːnɪks/ | Phe | Phoe | Phoenicis",
+      "Pictor": "Pictor /ˈpɪktər/ | Pic | Pict | Pictoris",
+      "Pisces": "Pisces /ˈpaɪsiːz, ˈpɪ-/ | Psc | Pisc | Piscium",
+      "Piscis Austrinus": "Piscis Austrinus /ˈpaɪsɪs ɔːˈstraɪnəs/ | PsA | PscA | Piscis Austrini",
+      "Puppis": "Puppis /ˈpʌpɪs/ | Pup | Pupp | Puppis",
+      "Pyxis": "Pyxis /ˈpɪksɪs/ | Pyx | Pyxi | Pyxidis",
+      "Reticulum": "Reticulum /rɪˈtɪkjʊləm/ | Ret | Reti | Reticuli",
+      "Sagitta": "Sagitta /səˈdʒɪtə/ | Sge | Sgte | Sagittae",
+      "Sagittarius": "Sagittarius /ˌsædʒɪˈtɛəriəs/ | Sgr | Sgtr | Sagittarii",
+      "Scorpius": "Scorpius /ˈskɔːrpiəs/ | Sco | Scor | Scorpii",
+      "Sculptor": "Sculptor /ˈskʌlptər/ | Scl | Scul | Sculptoris",
+      "Scutum": "Scutum /ˈskjuːtəm/ | Sct | Scut | Scuti",
+      "Serpens": "Serpens /ˈsɜːrpɛnz/ | Ser | Serp | Serpentis",
+      "Sextans": "Sextans /ˈsɛkstənz/ | Sex | Sext | Sextantis",
+      "Taurus": "Taurus /ˈtɔːrəs/ | Tau | Taur | Tauri",
+      "Telescopium": "Telescopium /ˌtɛlɪˈskɒpiəm/ | Tel | Tele | Telescopii",
+      "Triangulum": "Triangulum /traɪˈæŋɡjʊləm/ | Tri | Tria | Trianguli",
+      "Triangulum Australe": "Triangulum Australe /traɪˈæŋɡjʊləm ɔːˈstræliː, -ˈstreɪ-/ | TrA | TrAu | Trianguli Australis",
+      "Tucana": "Tucana /tjuːˈkeɪnə/ | Tuc | Tucn | Tucanae",
+      "Ursa Major": "Ursa Major /ˌɜːrsə ˈmeɪdʒər/ | UMa | UMaj | Ursae Majoris",
+      "Ursa Minor": "Ursa Minor /ˌɜːrsə ˈmaɪnər/ | UMi | UMin | Ursae Minoris",
+      "Vela": "Vela /ˈviːlə/ | Vel | Velr | Velorum",
+      "Virgo": "Virgo /ˈvɜːrɡoʊ/ | Vir | Virg | Virginis",
+      "Volans": "Volans /ˈvoʊlænz/ | Vol | Voln | Volantis",
+      "Vulpecula": "Vulpecula /vʌlˈpɛkjʊlə/ | Vul | Vulp | Vulpeculae"
+    },
+    "issues": []
+  }
+}

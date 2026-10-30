@@ -1,0 +1,456 @@
+{
+  "question": {
+    "id": "tollywood-ram-gopal-varma-films",
+    "category": "tollywood",
+    "prompt": "Name a Telugu-language feature film directed or co-directed by Ram Gopal Varma, including bilingual films.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "siva",
+        "canonical": "Siva",
+        "aliases": [
+          "Shiva",
+          "Siva (1989)",
+          "Shiva (1989)"
+        ],
+        "familiarity": 0.108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Siva as a 1989 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "kshana-kshanam",
+        "canonical": "Kshana Kshanam",
+        "aliases": [
+          "Kshana Kshanam (1991)"
+        ],
+        "familiarity": 0.108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Kshana Kshanam as a 1991 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "anthamdrohi",
+        "canonical": "AnthamDrohi",
+        "aliases": [
+          "Antham",
+          "Drohi",
+          "Antham Drohi",
+          "Antham / Drohi"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists the combined title AnthamDrohi as a 1992 Telugu/Hindi film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "raatraatri",
+        "canonical": "RaatRaatri",
+        "aliases": [
+          "Raat",
+          "Raatri",
+          "Raat Raatri",
+          "Raat / Raatri"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists the combined title RaatRaatri as a 1992 Telugu/Hindi film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "gaayam",
+        "canonical": "Gaayam",
+        "aliases": [
+          "Gayam"
+        ],
+        "familiarity": 0.108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Gaayam as a 1993 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "govinda-govinda",
+        "canonical": "Govinda Govinda",
+        "aliases": [],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Govinda Govinda as a 1994 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "deyyam",
+        "canonical": "Deyyam",
+        "aliases": [
+          "Deyyam (1996)",
+          "Deyyam (2021)",
+          "Deyyam 1996",
+          "Deyyam 2021"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Deyyam is listed as a Telugu film directed by Varma in both 1996 and 2021.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "anaganaga-oka-roju",
+        "canonical": "Anaganaga Oka Roju",
+        "aliases": [],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Anaganaga Oka Roju as a 1996 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "prema-katha",
+        "canonical": "Prema Katha",
+        "aliases": [
+          "Prema Katha (1999)"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Prema Katha as a 1999 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "madhyanam-hathya",
+        "canonical": "Madhyanam Hathya",
+        "aliases": [
+          "Madhyanam Hatya"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Madhyanam Hathya as a 2004 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "rakta-charitra",
+        "canonical": "Rakta Charitra",
+        "aliases": [
+          "Raktha Charitra",
+          "Rakta Charitra 1",
+          "Rakta Charitra Part 1",
+          "Rakht Charitra"
+        ],
+        "familiarity": 0.108,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Rakta Charitra as a 2010 Telugu/Hindi film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "rakta-charitra-2",
+        "canonical": "Rakta Charitra 2",
+        "aliases": [
+          "Raktha Charitra 2",
+          "Rakta Charitra Part 2",
+          "Rakht Charitra 2"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Rakta Charitra 2 as a 2010 Telugu/Hindi film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "katha-screenplay-darsakatvam-appalaraju",
+        "canonical": "Katha Screenplay Darsakatvam Appalaraju",
+        "aliases": [
+          "Katha Screenplay Darshakatvam Appalaraju",
+          "KSD Appalaraju"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Katha Screenplay Darsakatvam Appalaraju as a 2011 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "dongala-mutha",
+        "canonical": "Dongala Mutha",
+        "aliases": [
+          "Dongala Mutta"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Dongala Mutha as a 2011 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "satya-2",
+        "canonical": "Satya 2",
+        "aliases": [
+          "Satya II"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Satya 2 as a 2013 Hindi/Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "rowdy",
+        "canonical": "Rowdy",
+        "aliases": [
+          "Rowdy (2014)"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Rowdy as a 2014 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "ice-cream",
+        "canonical": "Ice Cream",
+        "aliases": [
+          "Ice Cream (2014)",
+          "Ice Cream 1"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Ice Cream as a 2014 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "anukshanam",
+        "canonical": "Anukshanam",
+        "aliases": [],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Anukshanam as a 2014 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "ice-cream-2",
+        "canonical": "Ice Cream 2",
+        "aliases": [
+          "Ice Cream II"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Ice Cream 2 as a 2014 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "365-days",
+        "canonical": "365 Days",
+        "aliases": [
+          "365 Days (2015)"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists 365 Days as a 2015 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "attack",
+        "canonical": "Attack",
+        "aliases": [
+          "Attack (2016)"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Attack as a 2016 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "vangaveeti",
+        "canonical": "Vangaveeti",
+        "aliases": [],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Vangaveeti as a 2016 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "officer",
+        "canonical": "Officer",
+        "aliases": [
+          "Officer (2018)"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Officer as a 2018 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "lakshmi-s-ntr",
+        "canonical": "Lakshmi's NTR",
+        "aliases": [
+          "Lakshmis NTR",
+          "Lakshmi NTR"
+        ],
+        "familiarity": 0.0432,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Lakshmi's NTR as a 2019 Telugu film Varma co-directed with Agasthya Manju.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "amma-rajyam-lo-kadapa-biddalu",
+        "canonical": "Amma Rajyam Lo Kadapa Biddalu",
+        "aliases": [
+          "Amma Rajyamlo Kadapa Biddalu"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Amma Rajyam Lo Kadapa Biddalu as a 2019 Telugu film Varma co-directed with Siddartha Thatolu.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "konda",
+        "canonical": "Konda",
+        "aliases": [
+          "Konda (2022)"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Konda as a 2022 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "aasha-encounter",
+        "canonical": "Aasha Encounter",
+        "aliases": [
+          "Asha Encounter"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography identifies Varma as the uncredited director of the 2022 Telugu film Aasha Encounter.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "vyuham",
+        "canonical": "Vyuham",
+        "aliases": [
+          "Vyooham"
+        ],
+        "familiarity": 0.013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Vyuham as a 2024 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      },
+      {
+        "id": "shapadham",
+        "canonical": "Shapadham",
+        "aliases": [
+          "Shapatham",
+          "Sapadham"
+        ],
+        "familiarity": 0.0032,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists Shapadham as a 2024 Telugu film directed by Varma.",
+        "sourceIds": [
+          "ram-gopal-varma-filmography"
+        ]
+      }
+    ],
+    "explanation": "These titles appear in the filmography's feature-film table with Telugu among their languages and Ram Gopal Varma credited as director, co-director, or uncredited director. Short films and films he only wrote or produced are excluded. Deyyam is the title of two qualifying films, released in 1996 and 2021.",
+    "sources": [
+      {
+        "id": "ram-gopal-varma-filmography",
+        "title": "Ram Gopal Varma filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ram_Gopal_Varma_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "54bbb1600d9bfd8a",
+    "brief": "Name a film directed by Ram Gopal Varma.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "ram-gopal-varma-filmography",
+        "version": "1381451857",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Siva": "1989 | Siva | Telugu | Yes | | Yes |",
+      "Kshana Kshanam": "1991 | Kshana Kshanam | Telugu | Yes | | Yes |",
+      "AnthamDrohi": "1992 | AnthamDrohi | Telugu,Hindi | Yes | Yes | Yes |",
+      "RaatRaatri": "1992 | RaatRaatri | Telugu,Hindi | Yes | Yes | Yes |",
+      "Gaayam": "1993 | Gaayam | Telugu | Yes | Yes | Yes |",
+      "Govinda Govinda": "1994 | Govinda Govinda | Telugu | Yes | | Yes |",
+      "Deyyam": "1996 | Deyyam | Telugu | Yes | | Yes |",
+      "Anaganaga Oka Roju": "1996 | Anaganaga Oka Roju | Telugu | Yes | Yes | Yes |",
+      "Prema Katha": "1999 | Prema Katha | Telugu | Yes | | Yes |",
+      "Madhyanam Hathya": "2004 | Madhyanam Hathya | Telugu | Yes | Yes | Yes |",
+      "Rakta Charitra": "2010 | Rakta Charitra | Telugu,Hindi | Yes | | Yes |",
+      "Rakta Charitra 2": "2010 | Rakta Charitra 2 | Telugu,Hindi | Yes | | Yes | Partially reshot in Tamil as Raththa Saritham",
+      "Katha Screenplay Darsakatvam Appalaraju": "2011 | Katha Screenplay Darsakatvam Appalaraju | Telugu | Yes | | Yes |",
+      "Dongala Mutha": "2011 | Dongala Mutha | Telugu | Yes | | Yes |",
+      "Satya 2": "2013 | Satya 2 | Hindi,Telugu | Yes | | Yes |",
+      "Rowdy": "2014 | Rowdy | Telugu | Yes | | Yes |",
+      "Ice Cream": "2014 | Ice Cream | Telugu | Yes | | Yes |",
+      "Anukshanam": "2014 | Anukshanam | Telugu | Yes | | Yes |",
+      "Ice Cream 2": "2014 | Ice Cream 2 | Telugu | Yes | | Yes |",
+      "365 Days": "2015 | 365 Days | Telugu | Yes | | Yes |",
+      "Attack": "2016 | Attack | Telugu | Yes | | Yes |",
+      "Vangaveeti": "2016 | Vangaveeti | Telugu | Yes | | Yes |",
+      "Officer": "2018 | Officer | Telugu | Yes | Yes | Yes |",
+      "Lakshmi's NTR": "2019 | Lakshmi's NTR | Telugu | Yes | | Yes | Co-directed with Agasthya Manju",
+      "Amma Rajyam Lo Kadapa Biddalu": "2019 | Amma Rajyam Lo Kadapa Biddalu | Telugu | Yes | | Yes | Co-directed with Siddartha Thatolu",
+      "Konda": "2022 | Konda | Telugu | Yes | Yes | Yes |",
+      "Aasha Encounter": "2022 | Aasha Encounter | Telugu | Uncredited | Uncredited | Uncredited |",
+      "Vyuham": "2024 | Vyuham | Telugu | Yes | | Yes |",
+      "Shapadham": "2024 | Shapadham | Telugu | Yes | | Yes |"
+    },
+    "issues": []
+  }
+}

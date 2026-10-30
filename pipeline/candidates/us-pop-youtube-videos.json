@@ -1,0 +1,478 @@
+{
+  "question": {
+    "id": "us-pop-youtube-videos",
+    "category": "us-pop",
+    "prompt": "Name one of the top 30 most-viewed long-form YouTube videos in the August 30, 2026 ranking.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "baby-shark-dance",
+        "canonical": "Baby Shark Dance",
+        "aliases": [
+          "Pinkfong Baby Shark",
+          "Baby Shark by Pinkfong"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pinkfong's video appears in the top-30 table with 17.28 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "wheels-on-the-bus",
+        "canonical": "Wheels on the Bus",
+        "aliases": [
+          "The Wheels on the Bus",
+          "Cocomelon Wheels on the Bus"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cocomelon's video appears in the top-30 table with 9.34 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "despacito",
+        "canonical": "Despacito",
+        "aliases": [
+          "Luis Fonsi Despacito"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Luis Fonsi's video appears in the top-30 table with 9.11 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "009-1225-getinspiredongroups-crafts-global-acq-en-uac-1920x1080-21s-null-fb-m0-267",
+        "canonical": "009 1225 GetInspiredOnGroups Crafts GLOBAL Acq EN UAC 1920x1080 21s Null FB M0 267",
+        "aliases": [
+          "Facebook ad",
+          "Facebook advertisement",
+          "GetInspiredOnGroups",
+          "Facebook crafts ad"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Facebook's advertisement appears in the top-30 table with 8.02 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "bath-song",
+        "canonical": "Bath Song",
+        "aliases": [
+          "Cocomelon Bath Song"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cocomelon's video appears in the top-30 table with 7.61 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "johny-johny-yes-papa",
+        "canonical": "Johny Johny Yes Papa",
+        "aliases": [
+          "Johnny Johnny Yes Papa",
+          "Johny Johny",
+          "Johnny Johnny"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The LooLoo Kids video appears in the top-30 table with 7.24 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "phonics-song-with-two-words",
+        "canonical": "Phonics Song with Two Words",
+        "aliases": [
+          "Phonics Song",
+          "ChuChu TV Phonics Song"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ChuChu TV's video appears in the top-30 table with 7.08 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "see-you-again",
+        "canonical": "See You Again",
+        "aliases": [
+          "Wiz Khalifa See You Again"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wiz Khalifa's video appears in the top-30 table with 7.08 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "shape-of-you",
+        "canonical": "Shape of You",
+        "aliases": [
+          "Ed Sheeran Shape of You"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ed Sheeran's video appears in the top-30 table with 6.79 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "axel-f",
+        "canonical": "Axel F",
+        "aliases": [
+          "Crazy Frog Axel F",
+          "Crazy Frog"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crazy Frog's video appears in the top-30 table with 6.14 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "gangnam-style",
+        "canonical": "Gangnam Style",
+        "aliases": [
+          "Psy Gangnam Style",
+          "Gangnam"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Psy's video appears in the top-30 table with 6.05 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "uptown-funk",
+        "canonical": "Uptown Funk",
+        "aliases": [
+          "Mark Ronson Uptown Funk"
+        ],
+        "familiarity": 0.0842,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mark Ronson's video appears in the top-30 table with 5.89 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "shree-hanuman-chalisa",
+        "canonical": "Shree Hanuman Chalisa",
+        "aliases": [
+          "Hanuman Chalisa",
+          "Shri Hanuman Chalisa"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The T-Series Bhakti Sagar devotional video appears in the top-30 table with 5.67 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "dame-tu-cosita",
+        "canonical": "Dame Tu Cosita",
+        "aliases": [],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ultra Records' video appears in the top-30 table with 5.60 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "learning-colors-colorful-eggs-on-a-farm",
+        "canonical": "Learning Colors – Colorful Eggs on a Farm",
+        "aliases": [
+          "Learning Colors",
+          "Colorful Eggs on a Farm",
+          "Learning Colors - Colorful Eggs on a Farm"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Miroshka TV's educational video appears in the top-30 table with 5.51 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "baa-baa-black-sheep",
+        "canonical": "Baa Baa Black Sheep",
+        "aliases": [
+          "Baa Baa Black Sheep Cocomelon",
+          "Baa Baa Blacksheep"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cocomelon's video appears in the top-30 table with 4.92 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "temu-s-big-game-ad",
+        "canonical": "Temu's Big Game Ad",
+        "aliases": [
+          "Temu Big Game Ad",
+          "Temu ad",
+          "Temu Super Bowl ad"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Temu's advertisement appears in the top-30 table with 4.74 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "waka-waka-this-time-for-africa",
+        "canonical": "Waka Waka (This Time for Africa)",
+        "aliases": [
+          "Waka Waka",
+          "This Time for Africa",
+          "Shakira Waka Waka"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shakira's video appears in the top-30 table with 4.73 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "masha-and-the-bear-recipe-for-disaster",
+        "canonical": "Masha and the Bear – Recipe for Disaster",
+        "aliases": [
+          "Masha and the Bear Recipe for Disaster",
+          "Recipe for Disaster",
+          "Masha and the Bear"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Get Movies animated video appears in the top-30 table with 4.67 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "lakdi-ki-kathi",
+        "canonical": "Lakdi Ki Kathi",
+        "aliases": [
+          "Lakdi Ki Kathi Jingle Toons"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jingle Toons' video appears in the top-30 table with 4.65 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "humpty-the-train-on-a-fruits-ride",
+        "canonical": "Humpty the train on a fruits ride",
+        "aliases": [
+          "Humpty the Train",
+          "Humpty the Train on a Fruit Ride"
+        ],
+        "familiarity": 0.0025,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Kiddiestv Hindi video appears in the top-30 table with 4.41 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "counting-stars",
+        "canonical": "Counting Stars",
+        "aliases": [
+          "OneRepublic Counting Stars"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "OneRepublic's video appears in the top-30 table with 4.40 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "sugar",
+        "canonical": "Sugar",
+        "aliases": [
+          "Maroon 5 Sugar"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maroon 5's video appears in the top-30 table with 4.37 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "baby-shark",
+        "canonical": "Baby Shark",
+        "aliases": [
+          "Cocomelon Baby Shark",
+          "Baby Shark by Cocomelon"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cocomelon's distinct Baby Shark upload appears in the top-30 table with 4.39 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "roar",
+        "canonical": "Roar",
+        "aliases": [
+          "Katy Perry Roar"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Katy Perry's video appears in the top-30 table with 4.30 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "dark-horse",
+        "canonical": "Dark Horse",
+        "aliases": [
+          "Katy Perry Dark Horse"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Katy Perry's video appears in the top-30 table with 4.15 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "perfect",
+        "canonical": "Perfect",
+        "aliases": [
+          "Ed Sheeran Perfect"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ed Sheeran's video appears in the top-30 table with 4.14 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "sorry",
+        "canonical": "Sorry",
+        "aliases": [
+          "Justin Bieber Sorry"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Justin Bieber's video appears in the top-30 table with 4.09 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "let-her-go",
+        "canonical": "Let Her Go",
+        "aliases": [
+          "Passenger Let Her Go"
+        ],
+        "familiarity": 0.0101,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Passenger's video appears in the top-30 table with 4.04 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      },
+      {
+        "id": "girls-like-you",
+        "canonical": "Girls Like You",
+        "aliases": [
+          "Maroon 5 Girls Like You"
+        ],
+        "familiarity": 0.0337,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Maroon 5's video appears in the top-30 table with 4.00 billion views.",
+        "sourceIds": [
+          "list-of-most-viewed-youtube-videos"
+        ]
+      }
+    ],
+    "explanation": "This ranking includes music videos, children's songs, advertisements and animation—not just pop hits. Answers are the 30 video titles listed in the source's August 30, 2026 table; different uploads of the same song count separately.",
+    "sources": [
+      {
+        "id": "list-of-most-viewed-youtube-videos",
+        "title": "List of most-viewed YouTube videos",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "f1b0744e1113391e",
+    "brief": "Name one of the most-viewed YouTube videos ever.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-most-viewed-youtube-videos",
+        "version": "1380280805",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Baby Shark Dance": "Baby Shark Dance | Pinkfong Baby Shark - Kids' Songs & Stories | 17.28 | June 17, 2016 | Children's song |",
+      "Wheels on the Bus": "Wheels on the Bus | Cocomelon - Nursery Rhymes | 9.34 | May 24, 2018 | Children's song |",
+      "Despacito": "Despacito | Luis Fonsi | 9.11 | January 12, 2017 | Music video |",
+      "009 1225 GetInspiredOnGroups Crafts GLOBAL Acq EN UAC 1920x1080 21s Null FB M0 267": "009 1225 GetInspiredOnGroups Crafts GLOBAL Acq EN UAC 1920x1080 21s Null FB M0 267 | Facebook | 8.02 | September 8, 2022 | Advertisement |",
+      "Bath Song": "Bath Song | Cocomelon - Nursery Rhymes | 7.61 | May 2, 2018 | Children's song |",
+      "Johny Johny Yes Papa": "Johny Johny Yes Papa | LooLoo Kids - Nursery Rhymes and Children's Songs | 7.24 | October 8, 2016 | Children's song |",
+      "Phonics Song with Two Words": "Phonics Song with Two Words | ChuChu TV Nursery Rhymes & Kids Songs | 7.08 | March 6, 2014 | Children's song |",
+      "See You Again": "See You Again | Wiz Khalifa | 7.08 | April 6, 2015 | Music video |",
+      "Shape of You": "Shape of You | Ed Sheeran | 6.79 | January 30, 2017 | Music video |",
+      "Axel F": "Axel F | Crazy Frog | 6.14 | June 16, 2009 | Music video |",
+      "Gangnam Style": "Gangnam Style | Psy | 6.05 | July 15, 2012 | Music video |",
+      "Uptown Funk": "Uptown Funk | Mark Ronson | 5.89 | November 19, 2014 | Music video |",
+      "Shree Hanuman Chalisa": "Shree Hanuman Chalisa | T-Series Bhakti Sagar | 5.67 | May 10, 2011 | Devotional song |",
+      "Dame Tu Cosita": "Dame Tu Cosita | Ultra Records | 5.60 | April 5, 2018 | Music video |",
+      "Learning Colors – Colorful Eggs on a Farm": "Learning Colors – Colorful Eggs on a Farm | Miroshka TV | 5.51 | February 27, 2018 | Children's educational |",
+      "Baa Baa Black Sheep": "Baa Baa Black Sheep | Cocomelon - Nursery Rhymes | 4.92 | June 25, 2018 | Children's song |",
+      "Temu's Big Game Ad": "Temu's Big Game Ad | Temu | 4.74 | February 12, 2024 | Advertisement |",
+      "Waka Waka (This Time for Africa)": "Waka Waka (This Time for Africa) | Shakira | 4.73 | June 4, 2010 | Music video |",
+      "Masha and the Bear – Recipe for Disaster": "Masha and the Bear – Recipe for Disaster | Get Movies | 4.67 | January 31, 2012 | Animated children's |",
+      "Lakdi Ki Kathi": "Lakdi Ki Kathi | Jingle Toons | 4.65 | June 14, 2018 | Children's song |",
+      "Humpty the train on a fruits ride": "Humpty the train on a fruits ride | Kiddiestv Hindi - Nursery Rhymes & Kids Songs | 4.41 | January 26, 2018 | Children's song |",
+      "Counting Stars": "Counting Stars | OneRepublic | 4.40 | May 31, 2013 | Music video |",
+      "Sugar": "Sugar | Maroon 5 | 4.37 | January 14, 2015 | Music video |",
+      "Baby Shark": "Baby Shark | Cocomelon - Nursery Rhymes | 4.39 | November 21, 2017 | Children's song |",
+      "Roar": "Roar | Katy Perry | 4.30 | September 5, 2013 | Music video |",
+      "Dark Horse": "Dark Horse | Katy Perry | 4.15 | February 20, 2014 | Music video |",
+      "Perfect": "Perfect | Ed Sheeran | 4.14 | November 9, 2017 | Music video |",
+      "Sorry": "Sorry | Justin Bieber | 4.09 | October 22, 2015 | Music video |",
+      "Let Her Go": "Let Her Go | Passenger | 4.04 | July 25, 2012 | Music video |",
+      "Girls Like You": "Girls Like You | Maroon 5 | 4.00 | May 31, 2018 | Music video |"
+    },
+    "issues": []
+  }
+}

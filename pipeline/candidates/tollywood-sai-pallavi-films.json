@@ -1,0 +1,288 @@
+{
+  "question": {
+    "id": "tollywood-sai-pallavi-films",
+    "category": "tollywood",
+    "prompt": "Name a released film in which Sai Pallavi has acted, in any language. Short films and uncredited appearances count.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "premam",
+        "canonical": "Premam",
+        "aliases": [],
+        "familiarity": 0.1178,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Malar in the Malayalam film Premam.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "fidaa",
+        "canonical": "Fidaa",
+        "aliases": [],
+        "familiarity": 0.1178,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Bhanumathi in the Telugu film Fidaa.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "love-story",
+        "canonical": "Love Story",
+        "aliases": [],
+        "familiarity": 0.1178,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Mounika Rani in the Telugu film Love Story.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "shyam-singha-roy",
+        "canonical": "Shyam Singha Roy",
+        "aliases": [
+          "Shyam Singa Roy"
+        ],
+        "familiarity": 0.1178,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Maithreyi / Rosie Singha Roy in Shyam Singha Roy.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "amaran",
+        "canonical": "Amaran",
+        "aliases": [],
+        "familiarity": 0.1178,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Indhu Rebecca Varghese in the Tamil film Amaran.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "thandel",
+        "canonical": "Thandel",
+        "aliases": [],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Koracha Sathya in the Telugu film Thandel.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "middle-class-abbayi",
+        "canonical": "Middle Class Abbayi",
+        "aliases": [
+          "MCA"
+        ],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Pallavi / Chinni in Middle Class Abbayi.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "maari-2",
+        "canonical": "Maari 2",
+        "aliases": [
+          "Maari Two"
+        ],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Aanandhi Mariyappan in the Tamil film Maari 2.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "gargi",
+        "canonical": "Gargi",
+        "aliases": [],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played the title character in the Tamil film Gargi.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "virata-parvam",
+        "canonical": "Virata Parvam",
+        "aliases": [],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Vennela in the Telugu film Virata Parvam.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "padi-padi-leche-manasu",
+        "canonical": "Padi Padi Leche Manasu",
+        "aliases": [],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Vaishali Cherukuri in Padi Padi Leche Manasu.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "kali",
+        "canonical": "Kali",
+        "aliases": [],
+        "familiarity": 0.0471,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Anjali in the Malayalam film Kali.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "athiran",
+        "canonical": "Athiran",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Nithya Lakshmi in the Malayalam film Athiran.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "ngk",
+        "canonical": "NGK",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Geetha Kumari in the Tamil film NGK.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "diya",
+        "canonical": "Diya",
+        "aliases": [
+          "Kanam"
+        ],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi appeared in the bilingual film released as Diya in Tamil and Kanam in Telugu.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "paava-kadhaigal",
+        "canonical": "Paava Kadhaigal",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Sumathi in the Oor Iravu segment of the anthology film Paava Kadhaigal.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "ek-din",
+        "canonical": "Ek Din",
+        "aliases": [],
+        "familiarity": 0.0141,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Meera Ranganathan in the Hindi film Ek Din, which is listed without an unreleased marker.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "kasthuri-maan",
+        "canonical": "Kasthuri Maan",
+        "aliases": [
+          "Kasthurimaan"
+        ],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi made an uncredited junior-artist appearance in Kasthuri Maan.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "dhaam-dhoom",
+        "canonical": "Dhaam Dhoom",
+        "aliases": [],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi made an uncredited junior-artist appearance in Dhaam Dhoom.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      },
+      {
+        "id": "kaatchi-pizhai",
+        "canonical": "Kaatchi Pizhai",
+        "aliases": [],
+        "familiarity": 0.0035,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sai Pallavi played Anu in the Tamil short film Kaatchi Pizhai.",
+        "sourceIds": [
+          "sai-pallavi"
+        ]
+      }
+    ],
+    "explanation": "Sai Pallavi's filmography includes films in Tamil, Telugu, Malayalam and Hindi, as well as a short film and early uncredited appearances. Unreleased projects are excluded. Diya and its Telugu version Kanam count as the same answer.",
+    "sources": [
+      {
+        "id": "sai-pallavi",
+        "title": "Sai Pallavi",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sai_Pallavi",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "264264cf3c671f35",
+    "brief": "Name a film in which Sai Pallavi has acted.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "sai-pallavi",
+        "version": "1382540326",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Premam": "2015 | Premam | Malar | Malayalam | Also choreographed the song \"Rockaankuthu\" |",
+      "Fidaa": "2017 | Fidaa | Bhanumathi | Telugu | |",
+      "Love Story": "2021 | Love Story | Mounika Rani | Telugu | Also co-choreographed the song \"Saranga Dariya\" with Sekhar |",
+      "Shyam Singha Roy": "2021 | Shyam Singha Roy | Maithreyi / Rosie Singha Roy | Telugu | |",
+      "Amaran": "2024 | Amaran | Indhu Rebecca Varghese | Tamil | |",
+      "Thandel": "2025 | Thandel | Koracha Sathya | Telugu | |",
+      "Middle Class Abbayi": "2017 | Middle Class Abbayi | Pallavi / Chinni | Telugu | |",
+      "Maari 2": "2018 | Maari 2 | \"Araathu\" Aanandhi Mariyappan | Tamil | |",
+      "Gargi": "2022 | Gargi | Gargi | Tamil | |",
+      "Virata Parvam": "2022 | Virata Parvam | Vennela | Telugu | |",
+      "Padi Padi Leche Manasu": "2018 | Padi Padi Leche Manasu | Vaishali Cherukuri | Telugu | |",
+      "Kali": "2016 | Kali | Anjali | Malayalam | |",
+      "Athiran": "2019 | Athiran | Nithya Lakshmi | Malayalam | |",
+      "NGK": "2019 | NGK | Geetha Kumari | Tamil | |",
+      "Diya": "2018 | Diya | Thulasi | Tamil | Bilingual film |\n2018 | Kanam | Thulasi | Telugu | Bilingual film |",
+      "Paava Kadhaigal": "2020 | Paava Kadhaigal | Sumathi | Tamil | Netflix Anthology Film Segment: \"Oor Iravu\" |",
+      "Ek Din": "2026 | Ek Din | Meera Ranganathan | Hindi | |",
+      "Kasthuri Maan": "2005 | Kasthuri Maan | — | Tamil | Uncredited junior artist; cameo |",
+      "Dhaam Dhoom": "2008 | Dhaam Dhoom | — | Tamil | Uncredited junior artist; cameo |",
+      "Kaatchi Pizhai": "2011 | Kaatchi Pizhai | Anu | Tamil | Short film |"
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "question": {
+    "id": "space-astronauts",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous astronaut or cosmonaut.",
+    "answerSet": "open",
+    "criteria": "Any real astronaut or cosmonaut who has traveled to space counts, regardless of nationality.",
+    "answers": [
+      {
+        "id": "neil-armstrong",
+        "canonical": "Neil Armstrong",
+        "aliases": [
+          "Armstrong",
+          "Neil Alden Armstrong"
+        ],
+        "familiarity": 0.1027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Neil Armstrong became the first person to walk on the Moon during Apollo 11.",
+        "sourceIds": []
+      },
+      {
+        "id": "buzz-aldrin",
+        "canonical": "Buzz Aldrin",
+        "aliases": [
+          "Edwin Aldrin",
+          "Aldrin",
+          "Edwin Eugene Aldrin Jr."
+        ],
+        "familiarity": 0.1027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Buzz Aldrin walked on the Moon alongside Neil Armstrong during Apollo 11.",
+        "sourceIds": []
+      },
+      {
+        "id": "yuri-gagarin",
+        "canonical": "Yuri Gagarin",
+        "aliases": [
+          "Yury Gagarin",
+          "Gagarin"
+        ],
+        "familiarity": 0.1027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yuri Gagarin became the first human to travel to space aboard Vostok 1.",
+        "sourceIds": []
+      },
+      {
+        "id": "sally-ride",
+        "canonical": "Sally Ride",
+        "aliases": [
+          "Ride",
+          "Sally Kristen Ride"
+        ],
+        "familiarity": 0.1027,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sally Ride became the first American woman to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "john-glenn",
+        "canonical": "John Glenn",
+        "aliases": [
+          "Glenn",
+          "John H. Glenn",
+          "John Herschel Glenn Jr."
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Glenn became the first American to orbit Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "alan-shepard",
+        "canonical": "Alan Shepard",
+        "aliases": [
+          "Shepard",
+          "Alan B. Shepard",
+          "Alan Bartlett Shepard Jr."
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alan Shepard was the first American in space and later walked on the Moon during Apollo 14.",
+        "sourceIds": []
+      },
+      {
+        "id": "valentina-tereshkova",
+        "canonical": "Valentina Tereshkova",
+        "aliases": [
+          "Tereshkova"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Valentina Tereshkova became the first woman to travel to space aboard Vostok 6.",
+        "sourceIds": []
+      },
+      {
+        "id": "chris-hadfield",
+        "canonical": "Chris Hadfield",
+        "aliases": [
+          "Christopher Hadfield",
+          "Hadfield"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chris Hadfield is a Canadian astronaut whose performance of Space Oddity aboard the International Space Station went viral.",
+        "sourceIds": []
+      },
+      {
+        "id": "mae-jemison",
+        "canonical": "Mae Jemison",
+        "aliases": [
+          "Jemison",
+          "Mae C. Jemison",
+          "Mae Carol Jemison"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mae Jemison became the first Black woman to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "michael-collins",
+        "canonical": "Michael Collins",
+        "aliases": [
+          "Mike Collins"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Collins piloted Apollo 11's command module while his crewmates explored the lunar surface.",
+        "sourceIds": []
+      },
+      {
+        "id": "jim-lovell",
+        "canonical": "Jim Lovell",
+        "aliases": [
+          "James Lovell",
+          "Lovell",
+          "James A. Lovell"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jim Lovell commanded Apollo 13 and also flew aboard Apollo 8.",
+        "sourceIds": []
+      },
+      {
+        "id": "sunita-williams",
+        "canonical": "Sunita Williams",
+        "aliases": [
+          "Suni Williams",
+          "Sunita Lyn Williams"
+        ],
+        "familiarity": 0.0411,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sunita Williams is an American astronaut who has commanded the International Space Station.",
+        "sourceIds": []
+      },
+      {
+        "id": "alexei-leonov",
+        "canonical": "Alexei Leonov",
+        "aliases": [
+          "Alexey Leonov",
+          "Leonov",
+          "Aleksei Leonov"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alexei Leonov performed the first spacewalk during the Voskhod 2 mission.",
+        "sourceIds": []
+      },
+      {
+        "id": "peggy-whitson",
+        "canonical": "Peggy Whitson",
+        "aliases": [
+          "Whitson",
+          "Peggy A. Whitson",
+          "Peggy Annette Whitson"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Peggy Whitson became the first woman to command the International Space Station.",
+        "sourceIds": []
+      },
+      {
+        "id": "kalpana-chawla",
+        "canonical": "Kalpana Chawla",
+        "aliases": [
+          "Chawla"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kalpana Chawla was the first woman born in India to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "yang-liwei",
+        "canonical": "Yang Liwei",
+        "aliases": [
+          "Liwei Yang"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Yang Liwei became the first person sent to space by China's human spaceflight program.",
+        "sourceIds": []
+      },
+      {
+        "id": "guion-bluford",
+        "canonical": "Guion Bluford",
+        "aliases": [
+          "Guy Bluford",
+          "Bluford",
+          "Guion S. Bluford"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guion Bluford became the first African American to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "helen-sharman",
+        "canonical": "Helen Sharman",
+        "aliases": [
+          "Sharman",
+          "Helen Patricia Sharman"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Helen Sharman became the first British astronaut when she visited the Mir space station.",
+        "sourceIds": []
+      },
+      {
+        "id": "rakesh-sharma",
+        "canonical": "Rakesh Sharma",
+        "aliases": [
+          "Sharma"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rakesh Sharma became the first Indian citizen to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "samantha-cristoforetti",
+        "canonical": "Samantha Cristoforetti",
+        "aliases": [
+          "Cristoforetti",
+          "AstroSamantha"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Samantha Cristoforetti became the first Italian woman to travel to space.",
+        "sourceIds": []
+      },
+      {
+        "id": "eileen-collins",
+        "canonical": "Eileen Collins",
+        "aliases": [
+          "Eileen M. Collins",
+          "Eileen Marie Collins"
+        ],
+        "familiarity": 0.0123,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eileen Collins became the first woman to pilot and later command a Space Shuttle mission.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Space travelers include lunar explorers, space-station crew members, and pioneers who achieved historic firsts. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "3316ad45bea22af2",
+    "brief": "Name a famous astronaut or cosmonaut.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Neil Armstrong": 3,
+      "Buzz Aldrin": 3,
+      "Yuri Gagarin": 3,
+      "Sally Ride": 3,
+      "John Glenn": 3,
+      "Alan Shepard": 3,
+      "Valentina Tereshkova": 3,
+      "Chris Hadfield": 3,
+      "Mae Jemison": 3,
+      "Michael Collins": 3,
+      "Jim Lovell": 3,
+      "Sunita Williams": 3,
+      "Alexei Leonov": 3,
+      "Peggy Whitson": 3,
+      "Kalpana Chawla": 3,
+      "Yang Liwei": 3,
+      "Rakesh Sharma": 2,
+      "Samantha Cristoforetti": 2,
+      "Guion Bluford": 3,
+      "Helen Sharman": 3,
+      "Eileen Collins": 2
+    },
+    "droppedForVotes": {
+      "Scott Kelly": 1,
+      "Ellen Ochoa": 1,
+      "Charlie Duke": 1,
+      "Sultan Al Neyadi": 1,
+      "Sergei Krikalev": 1,
+      "Bruce McCandless": 1,
+      "William Pogue": 1,
+      "Nicole Stott": 1,
+      "Harrison Schmitt": 1,
+      "Gherman Titov": 1,
+      "Vladimír Remek": 1,
+      "Georgi Ivanov": 1
+    },
+    "verdicts": {
+      "Neil Armstrong": {
+        "verdict": "correct",
+        "reason": "Apollo 11 astronaut and the first person to walk on the Moon."
+      },
+      "Buzz Aldrin": {
+        "verdict": "correct",
+        "reason": "Apollo 11 astronaut who walked on the Moon with Neil Armstrong."
+      },
+      "Yuri Gagarin": {
+        "verdict": "correct",
+        "reason": "The first human in space, aboard Vostok 1 in 1961."
+      },
+      "Sally Ride": {
+        "verdict": "correct",
+        "reason": "The first American woman in space, flying aboard Challenger in 1983."
+      },
+      "John Glenn": {
+        "verdict": "correct",
+        "reason": "The first American to orbit Earth, aboard Friendship 7 in 1962."
+      },
+      "Alan Shepard": {
+        "verdict": "correct",
+        "reason": "The first American in space and commander of the Apollo 14 lunar landing."
+      },
+      "Valentina Tereshkova": {
+        "verdict": "correct",
+        "reason": "The first woman in space, aboard Vostok 6 in 1963."
+      },
+      "Chris Hadfield": {
+        "verdict": "correct",
+        "reason": "Canadian astronaut and ISS commander whose orbital performance of Space Oddity became widely popular."
+      },
+      "Mae Jemison": {
+        "verdict": "correct",
+        "reason": "The first Black woman in space, aboard Endeavour in 1992."
+      },
+      "Michael Collins": {
+        "verdict": "correct",
+        "reason": "Apollo 11 command module pilot who orbited the Moon during the lunar landing."
+      },
+      "Jim Lovell": {
+        "verdict": "correct",
+        "reason": "Flew on Apollo 8 and commanded Apollo 13, as well as two Gemini missions."
+      },
+      "Sunita Williams": {
+        "verdict": "correct",
+        "reason": "American astronaut who has flown to space and commanded the ISS."
+      },
+      "Alexei Leonov": {
+        "verdict": "correct",
+        "reason": "Performed the first spacewalk during Voskhod 2 in 1965."
+      },
+      "Peggy Whitson": {
+        "verdict": "correct",
+        "reason": "Veteran astronaut who became the first woman to command the ISS."
+      },
+      "Kalpana Chawla": {
+        "verdict": "correct",
+        "reason": "The first woman born in India to travel to space, flying aboard Columbia in 1997."
+      },
+      "Yang Liwei": {
+        "verdict": "correct",
+        "reason": "China's first astronaut in space, aboard Shenzhou 5 in 2003."
+      },
+      "Guion Bluford": {
+        "verdict": "correct",
+        "reason": "The first African American in space, aboard Challenger in 1983."
+      },
+      "Helen Sharman": {
+        "verdict": "correct",
+        "reason": "The first British astronaut, visiting Mir in 1991."
+      },
+      "Rakesh Sharma": {
+        "verdict": "correct",
+        "reason": "The first Indian citizen in space, flying aboard Soyuz T-11 in 1984."
+      },
+      "Samantha Cristoforetti": {
+        "verdict": "correct",
+        "reason": "The first Italian woman in space, launching to the ISS in 2014."
+      },
+      "Eileen Collins": {
+        "verdict": "correct",
+        "reason": "The first woman to pilot a Space Shuttle mission and later the first woman to command one."
+      }
+    },
+    "issues": []
+  }
+}

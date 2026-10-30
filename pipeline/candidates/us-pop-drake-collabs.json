@@ -1,0 +1,549 @@
+{
+  "question": {
+    "id": "us-pop-drake-collabs",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name an artist who has collaborated with Drake on an officially released song.",
+    "answerSet": "open",
+    "criteria": "Any artist credited as a performer alongside Drake on an officially released song counts, including featured appearances and official remixes; songwriting or production credits alone do not count.",
+    "answers": [
+      {
+        "id": "rihanna",
+        "canonical": "Rihanna",
+        "aliases": [
+          "RiRi"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rihanna and Drake collaborated on \"Work,\" \"What's My Name?\" and \"Take Care.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "future",
+        "canonical": "Future",
+        "aliases": [],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Future and Drake released the collaborative song \"Jumpman.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "lil-wayne",
+        "canonical": "Lil Wayne",
+        "aliases": [
+          "Weezy",
+          "Lil Tunechi"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lil Wayne featured Drake on \"Right Above It.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "nicki-minaj",
+        "canonical": "Nicki Minaj",
+        "aliases": [
+          "Nicki"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nicki Minaj featured Drake on \"Moment 4 Life.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "travis-scott",
+        "canonical": "Travis Scott",
+        "aliases": [
+          "Travis"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Travis Scott appears on Drake's song \"Fair Trade.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "21-savage",
+        "canonical": "21 Savage",
+        "aliases": [
+          "Twenty One Savage"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "21 Savage and Drake collaborated on \"Rich Flex.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "the-weeknd",
+        "canonical": "The Weeknd",
+        "aliases": [
+          "Weeknd",
+          "Abel Tesfaye"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Weeknd appears on Drake's song \"Crew Love.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "bad-bunny",
+        "canonical": "Bad Bunny",
+        "aliases": [],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bad Bunny featured Drake on \"Mia.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "eminem",
+        "canonical": "Eminem",
+        "aliases": [
+          "Slim Shady",
+          "Marshall Mathers"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eminem appears alongside Drake on \"Forever.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "kanye-west",
+        "canonical": "Kanye West",
+        "aliases": [
+          "Kanye",
+          "Ye"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kanye West appears alongside Drake on \"Forever.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "jay-z",
+        "canonical": "Jay-Z",
+        "aliases": [
+          "Hov"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jay-Z appears on Drake's \"Pound Cake / Paris Morton Music 2.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "beyonc",
+        "canonical": "Beyoncé",
+        "aliases": [],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beyoncé featured Drake on \"Mine.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "sza",
+        "canonical": "SZA",
+        "aliases": [],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SZA appears on Drake's song \"Slime You Out.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "rick-ross",
+        "canonical": "Rick Ross",
+        "aliases": [
+          "Rozay"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rick Ross appears on Drake's song \"Lord Knows.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "dj-khaled",
+        "canonical": "DJ Khaled",
+        "aliases": [
+          "Khaled"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "DJ Khaled released \"Popstar\" featuring Drake.",
+        "sourceIds": []
+      },
+      {
+        "id": "wizkid",
+        "canonical": "Wizkid",
+        "aliases": [],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wizkid appears on Drake's song \"One Dance.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "partynextdoor",
+        "canonical": "PARTYNEXTDOOR",
+        "aliases": [
+          "PND"
+        ],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "PARTYNEXTDOOR featured Drake on \"Come and See Me.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "j-cole",
+        "canonical": "J. Cole",
+        "aliases": [],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "J. Cole appears on Drake's song \"First Person Shooter.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "kendrick-lamar",
+        "canonical": "Kendrick Lamar",
+        "aliases": [
+          "Kendrick",
+          "K Dot"
+        ],
+        "familiarity": 0.0579,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar appears on Drake's song \"Poetic Justice\" as its lead artist, with Drake featured.",
+        "sourceIds": []
+      },
+      {
+        "id": "tems",
+        "canonical": "Tems",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tems appears on Drake's song \"Fountains.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "giveon",
+        "canonical": "Giveon",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giveon appears on Drake's song \"Chicago Freestyle.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "sampha",
+        "canonical": "Sampha",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sampha appears on Drake's song \"Too Much.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "majid-jordan",
+        "canonical": "Majid Jordan",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Majid Jordan appears on Drake's song \"Hold On, We're Going Home.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "blocboy-jb",
+        "canonical": "BlocBoy JB",
+        "aliases": [
+          "BlocBoy"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "BlocBoy JB featured Drake on \"Look Alive.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "ilovemakonnen",
+        "canonical": "ILoveMakonnen",
+        "aliases": [
+          "Makonnen"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "ILoveMakonnen featured Drake on the remix of \"Tuesday.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "smiley",
+        "canonical": "Smiley",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Smiley featured Drake on \"Over the Top.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "jorja-smith",
+        "canonical": "Jorja Smith",
+        "aliases": [
+          "Jorja"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jorja Smith appears on Drake's song \"Get It Together.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "black-coffee",
+        "canonical": "Black Coffee",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Black Coffee is a featured artist on Drake's song \"Get It Together.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "giggs",
+        "canonical": "Giggs",
+        "aliases": [],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Giggs appears on Drake's song \"KMT.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "headie-one",
+        "canonical": "Headie One",
+        "aliases": [
+          "Headie"
+        ],
+        "familiarity": 0.0069,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Headie One and Drake collaborated on \"Only You Freestyle.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "kyla",
+        "canonical": "Kyla",
+        "aliases": [],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kyla is a featured artist on Drake's song \"One Dance.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "lil-baby",
+        "canonical": "Lil Baby",
+        "aliases": [],
+        "familiarity": 0.0231,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lil Baby and Drake collaborated on \"Yes Indeed.\"",
+        "sourceIds": []
+      },
+      {
+        "id": "preme",
+        "canonical": "Preme",
+        "aliases": [
+          "P Reign"
+        ],
+        "familiarity": 0.0017,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Preme released \"DnF,\" featuring Drake and Future, under the name P Reign.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Drake's collaborations span rap, R&B, pop, dancehall and more. Artists count whether Drake featured on their song or they appeared on his.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "b77eda8eba9137ad",
+    "brief": "Name an artist who has collaborated with Drake on a song.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Rihanna": 3,
+      "Future": 3,
+      "Lil Wayne": 3,
+      "Nicki Minaj": 3,
+      "Travis Scott": 3,
+      "21 Savage": 3,
+      "The Weeknd": 3,
+      "Bad Bunny": 3,
+      "Eminem": 3,
+      "Kanye West": 3,
+      "Jay-Z": 3,
+      "Beyoncé": 3,
+      "SZA": 3,
+      "Rick Ross": 3,
+      "DJ Khaled": 3,
+      "Wizkid": 3,
+      "PARTYNEXTDOOR": 3,
+      "J. Cole": 3,
+      "Kendrick Lamar": 3,
+      "Tems": 3,
+      "Giveon": 3,
+      "Sampha": 3,
+      "Majid Jordan": 3,
+      "Jorja Smith": 2,
+      "Black Coffee": 2,
+      "Giggs": 2,
+      "Headie One": 2,
+      "BlocBoy JB": 3,
+      "ILoveMakonnen": 3,
+      "Kyla": 2,
+      "Smiley": 3,
+      "Lil Baby": 2,
+      "Preme": 2
+    },
+    "droppedForVotes": {
+      "Lil Yachty": 1,
+      "Sexyy Red": 1,
+      "Jhené Aiko": 1,
+      "Dave": 1,
+      "Trey Songz": 1,
+      "Lloyd": 1,
+      "Omarion": 1,
+      "Santigold": 1,
+      "Justin Bieber": 1,
+      "Young Thug": 1,
+      "Gunna": 1,
+      "OB O'Brien": 1,
+      "Lil Durk": 1,
+      "Migos": 1,
+      "Romeo Santos": 1
+    },
+    "verdicts": {
+      "Rihanna": {
+        "verdict": "correct",
+        "reason": "Rihanna and Drake are credited performers on all three named songs."
+      },
+      "Future": {
+        "verdict": "correct",
+        "reason": "“Jumpman” is an officially released Drake and Future collaboration."
+      },
+      "Lil Wayne": {
+        "verdict": "correct",
+        "reason": "“Right Above It” is a Lil Wayne song featuring Drake."
+      },
+      "Nicki Minaj": {
+        "verdict": "correct",
+        "reason": "“Moment 4 Life” is a Nicki Minaj song featuring Drake."
+      },
+      "Travis Scott": {
+        "verdict": "correct",
+        "reason": "Travis Scott is featured on Drake’s “Fair Trade.”"
+      },
+      "21 Savage": {
+        "verdict": "correct",
+        "reason": "“Rich Flex” credits Drake and 21 Savage as performers."
+      },
+      "The Weeknd": {
+        "verdict": "correct",
+        "reason": "The Weeknd is featured on Drake’s “Crew Love.”"
+      },
+      "Bad Bunny": {
+        "verdict": "correct",
+        "reason": "“Mia” is a Bad Bunny song featuring Drake."
+      },
+      "Eminem": {
+        "verdict": "correct",
+        "reason": "Eminem and Drake are both credited performers on “Forever.”"
+      },
+      "Kanye West": {
+        "verdict": "correct",
+        "reason": "Kanye West and Drake are both credited performers on “Forever.”"
+      },
+      "Jay-Z": {
+        "verdict": "correct",
+        "reason": "Jay-Z is featured on Drake’s “Pound Cake / Paris Morton Music 2.”"
+      },
+      "Beyoncé": {
+        "verdict": "correct",
+        "reason": "“Mine” is a Beyoncé song featuring Drake."
+      },
+      "SZA": {
+        "verdict": "correct",
+        "reason": "SZA is featured on Drake’s “Slime You Out.”"
+      },
+      "Rick Ross": {
+        "verdict": "correct",
+        "reason": "Rick Ross is featured on Drake’s “Lord Knows.”"
+      },
+      "DJ Khaled": {
+        "verdict": "correct",
+        "reason": "“Popstar” is officially credited to DJ Khaled featuring Drake."
+      },
+      "Wizkid": {
+        "verdict": "correct",
+        "reason": "Wizkid is a credited featured artist on Drake’s “One Dance.”"
+      },
+      "PARTYNEXTDOOR": {
+        "verdict": "correct",
+        "reason": "“Come and See Me” is a PARTYNEXTDOOR song featuring Drake."
+      },
+      "J. Cole": {
+        "verdict": "correct",
+        "reason": "J. Cole is featured on Drake’s “First Person Shooter.”"
+      },
+      "Kendrick Lamar": {
+        "verdict": "correct",
+        "reason": "“Poetic Justice” is Kendrick Lamar’s song featuring Drake, so the collaboration qualifies."
+      },
+      "Tems": {
+        "verdict": "correct",
+        "reason": "Tems is featured on Drake’s “Fountains.”"
+      },
+      "Giveon": {
+        "verdict": "correct",
+        "reason": "Giveon is featured on Drake’s “Chicago Freestyle.”"
+      },
+      "Sampha": {
+        "verdict": "correct",
+        "reason": "Sampha is featured on Drake’s “Too Much.”"
+      },
+      "Majid Jordan": {
+        "verdict": "correct",
+        "reason": "Majid Jordan is featured on Drake’s “Hold On, We’re Going Home.”"
+      },
+      "BlocBoy JB": {
+        "verdict": "correct",
+        "reason": "“Look Alive” is a BlocBoy JB song featuring Drake."
+      },
+      "ILoveMakonnen": {
+        "verdict": "correct",
+        "reason": "The officially released remix of “Tuesday” features Drake."
+      },
+      "Smiley": {
+        "verdict": "correct",
+        "reason": "“Over the Top” is a Smiley song featuring Drake."
+      },
+      "Jorja Smith": {
+        "verdict": "correct",
+        "reason": "Jorja Smith is a credited featured artist on Drake’s “Get It Together.”"
+      },
+      "Black Coffee": {
+        "verdict": "correct",
+        "reason": "Black Coffee is explicitly credited as a featured artist on “Get It Together,” not solely as a producer."
+      },
+      "Giggs": {
+        "verdict": "correct",
+        "reason": "Giggs is featured on Drake’s “KMT.”"
+      },
+      "Headie One": {
+        "verdict": "correct",
+        "reason": "“Only You Freestyle” is an officially released Headie One and Drake collaboration."
+      },
+      "Kyla": {
+        "verdict": "correct",
+        "reason": "Kyla is a credited featured artist on Drake’s “One Dance.”"
+      },
+      "Lil Baby": {
+        "verdict": "correct",
+        "reason": "“Yes Indeed” is an officially released Lil Baby and Drake collaboration."
+      },
+      "Preme": {
+        "verdict": "correct",
+        "reason": "Under his former name P Reign, Preme released “DnF” featuring Drake and Future."
+      }
+    },
+    "issues": []
+  }
+}

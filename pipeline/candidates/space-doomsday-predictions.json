@@ -1,0 +1,237 @@
+{
+  "question": {
+    "id": "space-doomsday-predictions",
+    "category": "space",
+    "basis": "ai-knowledge",
+    "prompt": "Name a widely publicised doomsday prediction or end-of-the-world scare linked to space.",
+    "answerSet": "open",
+    "criteria": "A documented, publicly circulated prediction or scare linking the world's end or a global catastrophe to a celestial body, astronomical event or supposed planetary alignment.",
+    "answers": [
+      {
+        "id": "2012-apocalypse",
+        "canonical": "2012 apocalypse",
+        "aliases": [
+          "Mayan apocalypse",
+          "2012 doomsday",
+          "2012 galactic alignment",
+          "December 21 2012",
+          "Mayan doomsday"
+        ],
+        "familiarity": 0.2348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Some versions of the 2012 apocalypse prediction claimed that a supposed galactic alignment would cause global catastrophe.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-jupiter-effect",
+        "canonical": "The Jupiter Effect",
+        "aliases": [
+          "Jupiter Effect",
+          "1982 planetary alignment",
+          "1982 alignment",
+          "March 10 1982"
+        ],
+        "familiarity": 0.0939,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Jupiter Effect was a book predicting that a 1982 planetary configuration would trigger catastrophic earthquakes.",
+        "sourceIds": []
+      },
+      {
+        "id": "comet-elenin",
+        "canonical": "Comet Elenin",
+        "aliases": [
+          "Elenin",
+          "Elenin doomsday",
+          "C/2010 X1",
+          "Elenin apocalypse",
+          "2011 comet apocalypse"
+        ],
+        "familiarity": 0.0939,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Comet Elenin became the focus of unsupported predictions of worldwide catastrophe during its 2011 approach.",
+        "sourceIds": []
+      },
+      {
+        "id": "comet-ison",
+        "canonical": "Comet ISON",
+        "aliases": [
+          "ISON",
+          "ISON doomsday",
+          "C/2012 S1",
+          "ISON apocalypse"
+        ],
+        "familiarity": 0.0282,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Comet ISON's 2013 approach inspired online doomsday claims and speculation connecting it to Nibiru.",
+        "sourceIds": []
+      },
+      {
+        "id": "1962-planetary-alignment",
+        "canonical": "1962 planetary alignment",
+        "aliases": [
+          "February 1962 alignment",
+          "1962 doomsday",
+          "February 4 1962",
+          "February 5 1962"
+        ],
+        "familiarity": 0.0282,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A planetary grouping and solar eclipse in February 1962 prompted widely reported predictions of worldwide destruction in India.",
+        "sourceIds": []
+      },
+      {
+        "id": "1919-planetary-alignment",
+        "canonical": "1919 planetary alignment",
+        "aliases": [
+          "Albert Porta prediction",
+          "Porta prediction",
+          "December 17 1919",
+          "1919 doomsday",
+          "Porta's prediction",
+          "Albert Porta's prediction"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Albert Porta predicted that a planetary configuration in December 1919 would produce a solar disturbance and destroy Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "1524-great-flood",
+        "canonical": "1524 great flood",
+        "aliases": [
+          "1524 flood prediction",
+          "Stoffler's flood",
+          "1524 planetary conjunction",
+          "1524 flood"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Astrological interpretations of planetary conjunctions in 1524 prompted widespread predictions of a catastrophic flood.",
+        "sourceIds": []
+      },
+      {
+        "id": "nibiru-cataclysm",
+        "canonical": "Nibiru cataclysm",
+        "aliases": [
+          "Nibiru",
+          "Planet X doomsday",
+          "Nibiru collision",
+          "Planet X apocalypse"
+        ],
+        "familiarity": 0.2348,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Nibiru cataclysm is a repeatedly postponed prediction that a supposed rogue planet would bring catastrophe to Earth.",
+        "sourceIds": []
+      },
+      {
+        "id": "blood-moon-prophecy",
+        "canonical": "Blood moon prophecy",
+        "aliases": [
+          "Blood moons",
+          "Four blood moons",
+          "Blood moon apocalypse",
+          "2015 blood moon"
+        ],
+        "familiarity": 0.0939,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The blood moon prophecy linked a sequence of lunar eclipses in 2014 and 2015 to biblical end-times events.",
+        "sourceIds": []
+      },
+      {
+        "id": "2000-planetary-alignment",
+        "canonical": "2000 planetary alignment",
+        "aliases": [
+          "May 2000 alignment",
+          "May 5 2000",
+          "5/5/2000",
+          "Ice: The Ultimate Disaster",
+          "5/5/2000 Ice: The Ultimate Disaster"
+        ],
+        "familiarity": 0.0282,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard Noone's book 5/5/2000 Ice: The Ultimate Disaster linked a May 2000 planetary alignment to a catastrophic shift of Earth's ice.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Comets, planetary alignments and imaginary planets have all inspired doomsday claims. These answers identify documented predictions and scares, not scientifically established threats.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "a0d44dc48e3099d6",
+    "brief": "Name a widely publicised doomsday or end-of-the-world prediction linked to space, such as an asteroid, comet, planet or celestial alignment.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "2012 apocalypse": 3,
+      "Nibiru cataclysm": 2,
+      "Blood moon prophecy": 2,
+      "The Jupiter Effect": 3,
+      "Comet Elenin": 3,
+      "Comet ISON": 3,
+      "1962 planetary alignment": 3,
+      "1919 planetary alignment": 3,
+      "1524 great flood": 3,
+      "2000 planetary alignment": 2
+    },
+    "droppedForVotes": {
+      "Halley's Comet panic": 1,
+      "May 2000 alignment": 1,
+      "Comet Kohoutek": 1,
+      "Letter of Toledo": 1,
+      "1910 Halley's Comet panic": 1,
+      "1999 eclipse apocalypse": 1,
+      "1186 planetary conjunction": 1,
+      "Nibiru": 1,
+      "Halley's Comet": 1,
+      "Toledo Letter": 1,
+      "Biela's Comet": 1
+    },
+    "verdicts": {
+      "2012 apocalypse": {
+        "verdict": "correct",
+        "reason": "Widely circulated 2012 doomsday claims included a supposed galactic alignment causing global catastrophe."
+      },
+      "The Jupiter Effect": {
+        "verdict": "correct",
+        "reason": "The 1974 book predicted that a 1982 planetary configuration would trigger devastating earthquakes."
+      },
+      "Comet Elenin": {
+        "verdict": "correct",
+        "reason": "Its 2011 approach prompted widely circulated, unsupported claims of catastrophic effects on Earth."
+      },
+      "Comet ISON": {
+        "verdict": "correct",
+        "reason": "Its 2013 approach attracted publicly circulated doomsday conspiracy claims, including supposed connections to Nibiru."
+      },
+      "1962 planetary alignment": {
+        "verdict": "correct",
+        "reason": "The February 1962 planetary grouping and solar eclipse prompted documented predictions of worldwide destruction, particularly in India."
+      },
+      "1919 planetary alignment": {
+        "verdict": "correct",
+        "reason": "Albert Porta's widely publicized prediction linked a December 1919 planetary configuration to a catastrophic solar disturbance."
+      },
+      "1524 great flood": {
+        "verdict": "correct",
+        "reason": "Astrologers' interpretations of planetary conjunctions prompted widespread predictions of a disastrous flood in 1524."
+      },
+      "Nibiru cataclysm": {
+        "verdict": "correct",
+        "reason": "This well-documented doomsday conspiracy predicts catastrophe from a nonexistent approaching planet, with repeatedly revised dates."
+      },
+      "Blood moon prophecy": {
+        "verdict": "correct",
+        "reason": "Publicized religious predictions linked the 2014–2015 lunar-eclipse tetrad to biblical end-times events."
+      },
+      "2000 planetary alignment": {
+        "verdict": "correct",
+        "reason": "Richard Noone's book linked the May 2000 planetary configuration to a catastrophic displacement of polar ice."
+      }
+    },
+    "issues": []
+  }
+}
