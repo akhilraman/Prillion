@@ -100,7 +100,7 @@ cd ../web && npm run check                                                      
 
 What it guarantees:
 - **All or nothing:** several candidates can be promoted at once; if any is invalid, nothing is written.
-- **Validated before saving:** the resulting bank is written to a temp file and must pass the web app's own bank gate (`web/scripts/check-bank.ts`: structural validator plus the quality gate for every question). Only then does it atomically replace `web/src/content/seed-bank.json`.
+- **Validated before saving:** the resulting bank is written to a temp file and must pass the web app's own bank gate (`web/scripts/check-bank.ts`: structural validator plus the quality gate for every question). Only then does it atomically replace `web/src/content/seed-bank.json`. The app does not ship that file in the initial JS bundle: `web/scripts/split-bank.ts` (run by `npm run dev` / `check` / `build`) writes one JSON file per category, loaded when the player picks a dive.
 - **No silent overwrites:** an id that is already live (for example a hand-curated question) is refused. `--replace` swaps it in place, keeping its position, and should be a deliberate editorial decision.
 - **Rejected candidates** (`*.failed.json`) are refused.
 - **`approvedOn`** is the promotion date (override with `--approved-on YYYY-MM-DD`), not the generation date. `provenance` stays in the candidate file and git history; the live bank carries only what the game needs.

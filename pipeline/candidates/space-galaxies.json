@@ -1,0 +1,1068 @@
+{
+  "question": {
+    "id": "space-galaxies",
+    "category": "space",
+    "prompt": "Name a galaxy or galaxy system listed in the “Named galaxies” section of Wikipedia’s List of galaxies.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "alcyoneus",
+        "canonical": "Alcyoneus",
+        "aliases": [
+          "SDSS J081421.68+522410"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alcyoneus appears in the named-galaxies table as a radio galaxy in Lynx.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "andromeda-i",
+        "canonical": "Andromeda I",
+        "aliases": [
+          "Andromeda 1"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andromeda I is listed as a dwarf spheroidal galaxy in the constellation Andromeda.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "andromeda-galaxy",
+        "canonical": "Andromeda Galaxy",
+        "aliases": [
+          "Andromeda",
+          "M31",
+          "Messier 31",
+          "NGC 224",
+          "Great Andromeda Nebula"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The named-galaxies table includes the Andromeda Galaxy, named for its constellation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "ambartsumian-s-knot",
+        "canonical": "Ambartsumian's Knot",
+        "aliases": [
+          "Ambartsumians Knot"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The table includes Ambartsumian's Knot, described as a small tidal dwarf galaxy.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "antennae-galaxies",
+        "canonical": "Antennae Galaxies",
+        "aliases": [
+          "Antennae",
+          "Ringtail Galaxy",
+          "Arp 244",
+          "NGC 4038 and NGC 4039"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Antennae Galaxies are listed as two colliding galaxies named for their antenna-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "backward-galaxy",
+        "canonical": "Backward Galaxy",
+        "aliases": [
+          "Backward"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Backward Galaxy is listed with a name referring to its apparently backward rotation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "barnard-s-galaxy",
+        "canonical": "Barnard's Galaxy",
+        "aliases": [
+          "Barnards Galaxy"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barnard's Galaxy appears in the table and is named after Edward Emerson Barnard.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "bear-paw-galaxy",
+        "canonical": "Bear Paw Galaxy",
+        "aliases": [
+          "Bear Paw",
+          "Bear Claw Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bear Paw Galaxy is listed as resembling a bear's claw.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "black-eye-galaxy",
+        "canonical": "Black Eye Galaxy",
+        "aliases": [
+          "Black Eye",
+          "Evil Eye Galaxy",
+          "Sleeping Beauty Galaxy"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Black Eye Galaxy is listed with nicknames inspired by its dark dust band.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "blinking-galaxy",
+        "canonical": "Blinking Galaxy",
+        "aliases": [
+          "Blinking"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Blinking Galaxy is listed with a name referring to its tendency to go in and out of view.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "bode-s-galaxy",
+        "canonical": "Bode's Galaxy",
+        "aliases": [
+          "Bodes Galaxy",
+          "Messier 81",
+          "M81",
+          "NGC 3031"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bode's Galaxy is listed as named for its discoverer, Johann Elert Bode.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "butterfly-galaxies",
+        "canonical": "Butterfly Galaxies",
+        "aliases": [
+          "Butterfly",
+          "Siamese Twins Galaxies",
+          "NGC 4567 and NGC 4568"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Butterfly Galaxies appear in the table with a name based on their appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "cartwheel-galaxy",
+        "canonical": "Cartwheel Galaxy",
+        "aliases": [
+          "Cartwheel"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cartwheel Galaxy is listed as resembling a spoked cartwheel.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "cigar-galaxy",
+        "canonical": "Cigar Galaxy",
+        "aliases": [
+          "Cigar",
+          "Messier 82",
+          "M82"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cigar Galaxy is listed under its shape-based name and its Messier designation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "circinus-galaxy",
+        "canonical": "Circinus Galaxy",
+        "aliases": [
+          "Circinus"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Circinus Galaxy appears in the table and is named for its constellation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "cocoon-galaxy",
+        "canonical": "Cocoon Galaxy",
+        "aliases": [
+          "Cocoon"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cocoon Galaxy is listed with a name based on its cocoon-like shape.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "coma-pinwheel-galaxy",
+        "canonical": "Coma Pinwheel Galaxy",
+        "aliases": [
+          "Coma Pinwheel",
+          "Messier 99",
+          "M99"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Coma Pinwheel Galaxy is listed with a name referring to its appearance and constellation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "comet-galaxy",
+        "canonical": "Comet Galaxy",
+        "aliases": [
+          "Comet"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Comet Galaxy is listed as named for its comet-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "condor-galaxy",
+        "canonical": "Condor Galaxy",
+        "aliases": [
+          "Condor"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Condor Galaxy appears in the table with a name derived from the bird.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "cosmos-redshift-7",
+        "canonical": "Cosmos Redshift 7",
+        "aliases": [
+          "Cosmos Redshift Seven"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cosmos Redshift 7 is listed with a name based on its measured redshift.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "dusty-hand-galaxy",
+        "canonical": "Dusty Hand Galaxy",
+        "aliases": [
+          "Dusty Hand"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dusty Hand Galaxy is listed as named for its dust lanes and spiral arms.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "dusty-spiral-galaxy",
+        "canonical": "Dusty Spiral Galaxy",
+        "aliases": [
+          "Dusty Spiral"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dusty Spiral Galaxy appears in the table with a name based on its dust lanes and spiral arms.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "eye-of-god",
+        "canonical": "Eye of God",
+        "aliases": [
+          "Eye of God Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eye of God is listed as a galaxy named for its structural appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "eye-of-sauron",
+        "canonical": "Eye of Sauron",
+        "aliases": [
+          "Eye of Sauron Galaxy"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eye of Sauron appears in the table with a name referencing The Lord of the Rings.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "fireworks-galaxy",
+        "canonical": "Fireworks Galaxy",
+        "aliases": [
+          "Fireworks"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Fireworks Galaxy is listed as an active starburst galaxy with a bright, spotty appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "fried-egg-galaxy",
+        "canonical": "Fried Egg Galaxy",
+        "aliases": [
+          "Fried Egg"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Fried Egg Galaxy is listed with a name based on its resemblance to a fried egg.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "godzilla-galaxy",
+        "canonical": "Godzilla Galaxy",
+        "aliases": [
+          "Godzilla"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Godzilla Galaxy is listed with a name referring to its extremely large size.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "grasshopper",
+        "canonical": "Grasshopper",
+        "aliases": [
+          "Grasshopper Galaxy",
+          "Grasshopper Galaxies"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Grasshopper is listed as two colliding galaxies whose appearance inspired the name.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "hamburger-galaxy",
+        "canonical": "Hamburger Galaxy",
+        "aliases": [
+          "Hamburger"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hamburger Galaxy is listed as named for its resemblance to a hamburger.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "helix-galaxy",
+        "canonical": "Helix Galaxy",
+        "aliases": [
+          "Helix"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Helix Galaxy appears in the table with a name based on its shape.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "hidden-galaxy",
+        "canonical": "Hidden Galaxy",
+        "aliases": [
+          "Hidden"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hidden Galaxy is listed with a name referring to the difficulty of observing it.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "hockey-stick-galaxies",
+        "canonical": "Hockey Stick Galaxies",
+        "aliases": [
+          "Hockey Stick Galaxy",
+          "Hockey Stick",
+          "Crowbar Galaxy"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hockey Stick Galaxies are listed under a name describing their elongated, curved appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "hoag-s-object",
+        "canonical": "Hoag's Object",
+        "aliases": [
+          "Hoags Object"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hoag's Object is listed as a ring galaxy named after its discoverer, Art Hoag.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "knife-edge-galaxy",
+        "canonical": "Knife Edge Galaxy",
+        "aliases": [
+          "Knife Edge",
+          "Knife-Edge Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Knife Edge Galaxy is listed as named for its thin shape.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "large-magellanic-cloud",
+        "canonical": "Large Magellanic Cloud",
+        "aliases": [
+          "LMC"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Large Magellanic Cloud appears in the table and is named after Ferdinand Magellan.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "lindsay-shapley-ring",
+        "canonical": "Lindsay-Shapley Ring",
+        "aliases": [
+          "Lindsay Shapley Ring"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Lindsay-Shapley Ring is listed as a ring galaxy named for Eric Lindsay and Harlow Shapley.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "little-sombrero-galaxy",
+        "canonical": "Little Sombrero Galaxy",
+        "aliases": [
+          "Little Sombrero"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Little Sombrero Galaxy is listed with a name referring to its similarity to the Sombrero Galaxy.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "malin-1",
+        "canonical": "Malin 1",
+        "aliases": [
+          "Malin One"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Malin 1 appears in the table as a galaxy discovered and named by David Malin.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "meathook-galaxy",
+        "canonical": "Meathook Galaxy",
+        "aliases": [
+          "Meathook",
+          "Meat Hook Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Meathook Galaxy is listed with a name based on its appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "medusa-merger",
+        "canonical": "Medusa Merger",
+        "aliases": [
+          "Medusa"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Medusa Merger is listed with a name inspired by dust resembling Medusa's snakes.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "sculptor-dwarf-galaxy",
+        "canonical": "Sculptor Dwarf Galaxy",
+        "aliases": [
+          "Sculptor Dwarf",
+          "Sculptor Dwarf Elliptical Galaxy",
+          "Sculptor Dwarf Spheroidal Galaxy",
+          "Sculptor System"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sculptor Dwarf Galaxy is an entry in the table with several alternative names.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "mice-galaxies",
+        "canonical": "Mice Galaxies",
+        "aliases": [
+          "Mice",
+          "NGC 4676",
+          "Arp 242"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Mice Galaxies are listed with a name based on their mouse-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "small-magellanic-cloud",
+        "canonical": "Small Magellanic Cloud",
+        "aliases": [
+          "SMC",
+          "NGC 292"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Small Magellanic Cloud is listed as a galaxy named after Ferdinand Magellan.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "mayall-s-object",
+        "canonical": "Mayall's Object",
+        "aliases": [
+          "Mayalls Object",
+          "VV 32",
+          "Arp 148"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mayall's Object is listed as named for its discoverer, Nicholas Mayall.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "milky-way",
+        "canonical": "Milky Way",
+        "aliases": [
+          "Milky Way Galaxy",
+          "The Milky Way"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Milky Way is listed as the galaxy containing the Sun, Solar System, and Earth.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "needle-galaxy",
+        "canonical": "Needle Galaxy",
+        "aliases": [
+          "Needle",
+          "Caldwell 38"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Needle Galaxy is listed with a name referring to its slender appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "wolf-lundmark-melotte",
+        "canonical": "Wolf-Lundmark-Melotte",
+        "aliases": [
+          "Wolf Lundmark Melotte",
+          "Wolf-Lundmark-Melotte Galaxy",
+          "WLM"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Wolf-Lundmark-Melotte is listed as named for three astronomers involved in its discovery and identification.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "paramecium-galaxy",
+        "canonical": "Paramecium Galaxy",
+        "aliases": [
+          "Paramecium"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Paramecium Galaxy is listed with a name based on its resemblance to the organism.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "peekaboo-galaxy",
+        "canonical": "Peekaboo Galaxy",
+        "aliases": [
+          "Peekaboo",
+          "HIPASS J1131-31"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Peekaboo Galaxy is listed as a galaxy formerly hidden behind a foreground star.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "pinwheel-galaxy",
+        "canonical": "Pinwheel Galaxy",
+        "aliases": [
+          "Pinwheel",
+          "Messier 101",
+          "M101"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Pinwheel Galaxy is listed under its appearance-based name and Messier designation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "porphyrion",
+        "canonical": "Porphyrion",
+        "aliases": [
+          "Porphyrion Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Porphyrion appears as an entry in the named-galaxies table in Draco.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "porpoise-galaxy",
+        "canonical": "Porpoise Galaxy",
+        "aliases": [
+          "Porpoise",
+          "Penguin Galaxy"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Porpoise Galaxy is listed with the alternative name Penguin Galaxy.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "sculptor-galaxy",
+        "canonical": "Sculptor Galaxy",
+        "aliases": [
+          "Sculptor",
+          "Silver Dollar Galaxy",
+          "Silver Coin Galaxy",
+          "Silver Dollar",
+          "Silver Coin",
+          "Caldwell 65"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sculptor Galaxy is listed with alternative names Silver Dollar and Silver Coin.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "sculptor-pinwheel-galaxy",
+        "canonical": "Sculptor Pinwheel Galaxy",
+        "aliases": [
+          "Sculptor Pinwheel",
+          "NGC 300",
+          "Caldwell 70"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sculptor Pinwheel Galaxy is listed as named for its appearance and constellation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "skyrocket-galaxy",
+        "canonical": "Skyrocket Galaxy",
+        "aliases": [
+          "Skyrocket"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Skyrocket Galaxy appears in the table with a name based on its resemblance to a firework.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "sombrero-galaxy",
+        "canonical": "Sombrero Galaxy",
+        "aliases": [
+          "Sombrero",
+          "Messier 104",
+          "Messier Object 104",
+          "M104",
+          "NGC 4594"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sombrero Galaxy is listed with a name inspired by its resemblance to a sombrero.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "southern-pinwheel-galaxy",
+        "canonical": "Southern Pinwheel Galaxy",
+        "aliases": [
+          "Southern Pinwheel"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Southern Pinwheel Galaxy is listed with a name referring to its appearance and southern location.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "spider-galaxy",
+        "canonical": "Spider Galaxy",
+        "aliases": [
+          "Spider"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Spider Galaxy is listed with a name based on its spider-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "spiderweb-galaxy",
+        "canonical": "Spiderweb Galaxy",
+        "aliases": [
+          "Spiderweb",
+          "Spider Web Galaxy"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Spiderweb Galaxy is listed as resembling a spiderweb because of its irregular shape and structure.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "starfish-galaxy",
+        "canonical": "Starfish Galaxy",
+        "aliases": [
+          "Starfish",
+          "NGC 6240",
+          "IC 4625"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Starfish Galaxy is listed as a merger of three galaxies with a starfish-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "sunflower-galaxy",
+        "canonical": "Sunflower Galaxy",
+        "aliases": [
+          "Sunflower"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sunflower Galaxy is listed with a name based on its resemblance to a sunflower.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "surfboard-galaxy",
+        "canonical": "Surfboard Galaxy",
+        "aliases": [
+          "Surfboard",
+          "Messier 108",
+          "M108"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Surfboard Galaxy is listed under its shape-based name and Messier designation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "tadpole-galaxy",
+        "canonical": "Tadpole Galaxy",
+        "aliases": [
+          "Tadpole"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Tadpole Galaxy is listed with a name inspired by its long tidal tail.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "topsy-turvy-galaxy",
+        "canonical": "Topsy Turvy Galaxy",
+        "aliases": [
+          "Topsy Turvy",
+          "Topsy-Turvy Galaxy"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Topsy Turvy Galaxy is listed with a name referring to its chaotic appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "trekkie-galaxy",
+        "canonical": "Trekkie Galaxy",
+        "aliases": [
+          "Trekkie"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Trekkie Galaxy is listed with a name referencing the USS Enterprise's serial number.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "triangulum-galaxy",
+        "canonical": "Triangulum Galaxy",
+        "aliases": [
+          "Triangulum",
+          "M33",
+          "Messier 33",
+          "NGC 598"
+        ],
+        "familiarity": 0.0254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Triangulum Galaxy appears in the table and is named for its constellation.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "ufo-galaxy",
+        "canonical": "UFO Galaxy",
+        "aliases": [
+          "UFO"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The UFO Galaxy is listed with a name based on its resemblance to a UFO.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "whale-galaxy",
+        "canonical": "Whale Galaxy",
+        "aliases": [
+          "Whale"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Whale Galaxy is listed with a name based on its supposed resemblance to a whale.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      },
+      {
+        "id": "whirlpool-galaxy",
+        "canonical": "Whirlpool Galaxy",
+        "aliases": [
+          "Whirlpool",
+          "M51",
+          "Messier 51",
+          "M51a",
+          "NGC 5194"
+        ],
+        "familiarity": 0.0634,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Whirlpool Galaxy is listed with a name describing its whirlpool-like appearance.",
+        "sourceIds": [
+          "list-of-galaxies"
+        ]
+      }
+    ],
+    "explanation": "These entries are listed as galaxies known by names other than just catalog numbers or coordinates. Many names describe their appearance; others honor astronomers or refer to their constellations. Named pairs and merging systems also count.",
+    "sources": [
+      {
+        "id": "list-of-galaxies",
+        "title": "List of galaxies",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_galaxies",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "50101dc9c6152dd7",
+    "brief": "Name a well-known galaxy.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-galaxies",
+        "version": "1380994099",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Alcyoneus": "| Alcyoneus | Lynx | | A low-exitation, Fanaroff and Riley Class II radio galaxy, one of the largest discovered.",
+      "Andromeda I": "Andromeda I is a dwarf spheroidal galaxy (dSph) about 2.40 million light-years away in the constellation Andromeda.",
+      "Andromeda Galaxy": "| Andromeda Galaxy | Andromeda | Andromeda, which is shortened from \"Andromeda Galaxy\", gets its name from the area of the sky in which it appears, the constellation of Andromeda.",
+      "Ambartsumian's Knot": "Its common name is \"the Guitar\" and contains a small tidal dwarf galaxy known as Ambartsumian's Knot that is believed to be the remnant of the extensive tidal tail pulled out of one of the galaxies.",
+      "Antennae Galaxies": "| Antennae Galaxies | Corvus | Appearance is similar to an insect's antennae. | Two colliding galaxies",
+      "Backward Galaxy": "| Backward Galaxy | Centaurus | It appears to rotate backwards, as the tips of the spiral arms point in the direction of rotation. |",
+      "Barnard's Galaxy": "| Barnard's Galaxy | | Named after Edward Emerson Barnard. |",
+      "Bear Paw Galaxy": "| Bear Paw Galaxy | Lynx | It resembles the appearance of a bear's claw. | Also known as \"Bear Claw Galaxy.\"",
+      "Black Eye Galaxy": "| Black Eye Galaxy | Coma Berenices | It has a spectacular dark band of absorbing dust in front of the galaxy's bright nucleus, giving rise to its nicknames of the \"Black Eye\" or \"Evil Eye\" galaxy. | Also known as \"Sleeping Beauty Galaxy.\"",
+      "Blinking Galaxy": "| Blinking Galaxy | Serpens | Its difficulty of viewing in a small telescope and tendency to go in and out of view.",
+      "Bode's Galaxy": "| Bode's Galaxy | Ursa Major | Named for Johann Elert Bode who discovered this galaxy in 1774. | Also known as Messier 81.",
+      "Butterfly Galaxies": "| Butterfly Galaxies | Virgo | Looks are similar to a butterfly. |",
+      "Cartwheel Galaxy": "| Cartwheel Galaxy | Sculptor | Its visual appearance is similar to that of a spoked cartwheel. | The largest in the Cartwheel Galaxy group, made up of four spiral galaxies",
+      "Cigar Galaxy": "| Cigar Galaxy | Ursa Major | Appears similar in shape to a cigar. | Also known as Messier 82 or M82",
+      "Circinus Galaxy": "| Circinus Galaxy | Circinus | Named after the constellation it is located in (Circinus). |",
+      "Cocoon Galaxy": "| Cocoon Galaxy | Canes Venatici | Its resemblance in shape to a cocoon |",
+      "Coma Pinwheel Galaxy": "| Coma Pinwheel Galaxy | Coma Berenices | Named after its resemblance to the Pinwheel Galaxy and its location in the Coma Berenices constellation. | Also known as Messier 99 or M99",
+      "Comet Galaxy": "| Comet Galaxy | Sculptor | This galaxy is named after its unusual appearance, looking like a comet. | The comet effect is caused by tidal stripping by its galaxy cluster, Abell 2667.",
+      "Condor Galaxy": "| Condor Galaxy | Pavo | Named after a condor, a type of vulture that is one of the largest flying birds.",
+      "Cosmos Redshift 7": "| Cosmos Redshift 7 | Sextans | The name of this galaxy is based on a Redshift (z) measurement of nearly 7 (actually, z = 6.604).",
+      "Dusty Hand Galaxy": "| Dusty Hand Galaxy | Camelopardalis | Named after the dust lanes and spiral arms of the galaxy. |",
+      "Dusty Spiral Galaxy": "| Dusty Spiral Galaxy | Coma Berenices | Named after the dust lanes and spiral arms of the galaxy. |",
+      "Eye of God": "| Eye of God | Eridanus | Named after its structural appearance | A prototype for multi-arm spiral galaxies",
+      "Eye of Sauron": "| Eye of Sauron | Canes Venatici | Due to its resemblance to the Eye of Sauron from The Lord of the Rings. |",
+      "Fireworks Galaxy": "| Fireworks Galaxy | Cygnus and Cepheus | Due to its bright and spotty appearance | Active starburst galaxy",
+      "Fried Egg Galaxy": "| Fried Egg Galaxy | Pegasus | Due to its similar appearance to a fried egg",
+      "Godzilla Galaxy": "| Godzilla Galaxy | Perseus | Its extremely large size |",
+      "Grasshopper": "| Grasshopper | Lynx | Named after its appearance to a grasshopper | Two colliding galaxies",
+      "Hamburger Galaxy": "| Hamburger Galaxy | Leo | Named after its resemblance to a Hamburger. |",
+      "Helix Galaxy": "| Helix Galaxy | Ursa Major | Its shape resembles a helix",
+      "Hidden Galaxy": "| Hidden Galaxy | Camelopardalis | The difficulty in observing this object makes it 'hidden' though it can readily be detected even with binoculars. |",
+      "Hockey Stick Galaxies": "| Hockey Stick Galaxies | Canes Venatici | Its elongated and curved appearance resembles a hockey stick. | Also known as Crowbar Galaxy",
+      "Hoag's Object": "| Hoag's Object | Serpens Caput | This is named after Art Hoag, who discovered this ring galaxy.",
+      "Knife Edge Galaxy": "| Knife Edge Galaxy | Draco | Named after its thin shape, similar to knife's edge.",
+      "Large Magellanic Cloud": "| Large Magellanic Cloud | Dorado/Mensa | Named after Ferdinand Magellan | This is the fourth-largest galaxy in the Local Group, and forms a pair with the SMC",
+      "Lindsay-Shapley Ring": "| Lindsay-Shapley Ring | Volans | Named after its discoverer, Eric Lindsay, his professor Harlow Shapley, and its nature as a ring galaxy. | The ring is the result of collision with another galaxy",
+      "Little Sombrero Galaxy": "| Little Sombrero Galaxy | Pegasus | Named after its similarity to the Sombrero Galaxy. |",
+      "Malin 1": "| Malin 1 | Coma Berenices | Discovered and named by David Malin. |",
+      "Meathook Galaxy": "| Meathook Galaxy | Volans | After its appearance resembling a meathook.",
+      "Medusa Merger": "| Medusa Merger | Ursa Major | Ejected dust from the merging galaxies is said to look like the snakes that the Gorgon Medusa from Greek mythology had on her head. |",
+      "Sculptor Dwarf Galaxy": "| Sculptor Dwarf Galaxy | Sculptor | Similar to the Sculpture Galaxies | Also known as Sculptor Dwarf Elliptical Galaxy, Sculptor Dwarf Spheroidal Galaxy, and formerly as the Sculptor System",
+      "Mice Galaxies": "| Mice Galaxies | Coma Berenices | Appearance is similar to a mouse. |",
+      "Small Magellanic Cloud": "| Small Magellanic Cloud | Tucana | Named after Ferdinand Magellan | This forms a pair with the LMC",
+      "Mayall's Object": "| Mayall's Object | Ursa Major | This is named after Nicholas Mayall, of the Lick Observatory, who discovered it. | Also called VV 32 and Arp 148",
+      "Milky Way": "| Milky Way | Sagittarius (centre) | The appearance from Earth of the galaxy—a band of light | The galaxy containing the Sun and its Solar System, and therefore Earth.",
+      "Needle Galaxy": "| Needle Galaxy | Coma Berenices | Named due to its slender appearance. | Also known as Caldwell 38",
+      "Wolf-Lundmark-Melotte": "| Wolf-Lundmark-Melotte | Cetus | Named for the three astronomers instrumental in its discovery and identification. |",
+      "Paramecium Galaxy": "| Paramecium Galaxy | Pegasus | Named after its appearance to the organism Paramecium |",
+      "Peekaboo Galaxy": "| Peekaboo Galaxy | Hydra | Galaxy (aka HIPASS J1131-31) was hidden behind a relatively fast-moving foreground star (TYC 7215–199–1) and became observable when the star moved aside.",
+      "Pinwheel Galaxy": "| Pinwheel Galaxy | Ursa Major | Similar in appearance to a pinwheel. | Also known as Messier 101 or M101.",
+      "Porphyrion": "| Porphyrion | Draco | |",
+      "Porpoise Galaxy": "| Porpoise Galaxy | Hydra | Its appearance resembles a porpoise | Also known as the Penguin Galaxy",
+      "Sculptor Galaxy": "| Sculptor Galaxy | Sculptor | Named after its location in the Sculptor Constellation. Also called the Silver Dollar or Silver Coin Galaxy, because of its light and circular appearance. | Also known as the Silver Coin, Silver Dollar Galaxy or Caldwell 65",
+      "Sculptor Pinwheel Galaxy": "| Sculptor Pinwheel Galaxy | Sculptor | Named after its resemblance to a pinwheel and its location in the Sculptor Constellation. | Also known as NGC 300 and Caldwell 70.",
+      "Skyrocket Galaxy": "| Skyrocket Galaxy | Ursa Major | Its resemblance to a July 4th skyrocket",
+      "Sombrero Galaxy": "| Sombrero Galaxy | Virgo | Similar in appearance to a sombrero. | Also known as Messier Object 104 or M104",
+      "Southern Pinwheel Galaxy": "| Southern Pinwheel Galaxy | Hydra | Named after its resemblance to the Pinwheel Galaxy and its location in the southern celestial hemisphere. |",
+      "Spider Galaxy": "| Spider Galaxy | Boötes | Named after its appearance of a spider |",
+      "Spiderweb Galaxy": "| Spiderweb Galaxy | Hydra | Its irregular shape and continuous structure resembles a spiderweb. |",
+      "Starfish Galaxy": "| Starfish Galaxy | Ophiuchus | Similar in appearance to a starfish. | Merger of 3 galaxies",
+      "Sunflower Galaxy": "| Sunflower Galaxy | Canes Venatici | Similar in appearance to a sunflower. |",
+      "Surfboard Galaxy": "| Surfboard Galaxy | Ursa Major | Similar in appearance to a surfboard. | Also known as Messier 108 or M108.",
+      "Tadpole Galaxy": "| Tadpole Galaxy | Draco | The name comes from the resemblance of the galaxy to a tadpole. | This shape resulted from tidal interaction that drew out a long tidal tail.",
+      "Topsy Turvy Galaxy": "| Topsy Turvy Galaxy | Reticulum | The disorganized and chaotic appearance makes it look topsy turvy.",
+      "Trekkie Galaxy": "| Trekkie Galaxy | Caelum | Its NGC number almost matches the serial number of the spaceship USS Enterprise from Star Trek |",
+      "Triangulum Galaxy": "| Triangulum Galaxy | Triangulum | Named after its location within the Triangulum constellation. |",
+      "UFO Galaxy": "| UFO Galaxy | Lynx | Named after its resemblance to a UFO.",
+      "Whale Galaxy": "| Whale Galaxy | Canes Venatici | Named after its supposed resemblance to a whale.",
+      "Whirlpool Galaxy": "| Whirlpool Galaxy | Canes Venatici | From the whirlpool appearance this gravitationally disturbed galaxy exhibits. |"
+    },
+    "issues": []
+  }
+}

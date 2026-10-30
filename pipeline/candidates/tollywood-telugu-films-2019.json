@@ -1,0 +1,1887 @@
+{
+  "question": {
+    "id": "tollywood-telugu-films-2019",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film released in 2019.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "ajay-passayyad",
+        "canonical": "Ajay Passayyad",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 4 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "natana",
+        "canonical": "Natana",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 4 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "n-t-r-kathanayakudu",
+        "canonical": "N.T.R: Kathanayakudu",
+        "aliases": [
+          "NTR Kathanayakudu",
+          "Kathanayakudu"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 9 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "vinaya-vidheya-rama",
+        "canonical": "Vinaya Vidheya Rama",
+        "aliases": [
+          "VVR"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 11 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "f2-fun-and-frustration",
+        "canonical": "F2: Fun and Frustration",
+        "aliases": [
+          "F2",
+          "Fun and Frustration"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kothaga-maa-prayanam",
+        "canonical": "Kothaga Maa Prayanam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "mr-majnu",
+        "canonical": "Mr. Majnu",
+        "aliases": [
+          "Mr Majnu",
+          "Mister Majnu"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 January 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "akkadokaduntadu",
+        "canonical": "Akkadokaduntadu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Included in the document's 2019 Telugu release schedule.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "bichagada-majaka",
+        "canonical": "Bichagada Majaka",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "gamer",
+        "canonical": "Gamer",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "sakala-kala-vallabhudu",
+        "canonical": "Sakala Kala Vallabhudu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "yatra",
+        "canonical": "Yatra",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 8 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "4-letters",
+        "canonical": "4 Letters",
+        "aliases": [
+          "Four Letters"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "mithai",
+        "canonical": "Mithai",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "n-t-r-mahanayakudu",
+        "canonical": "N.T.R: Mahanayakudu",
+        "aliases": [
+          "NTR Mahanayakudu",
+          "Mahanayakudu"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "prementha-panichese-narayana",
+        "canonical": "Prementha Panichese Narayana",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 February 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "crazy-crazy-feeling",
+        "canonical": "Crazy Crazy Feeling",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "118",
+        "canonical": "118",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "eureka",
+        "canonical": "Eureka",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 13 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "aa-nimisham",
+        "canonical": "Aa Nimisham",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ashok-reddy",
+        "canonical": "Ashok Reddy",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "bilalpur-police-station",
+        "canonical": "Bilalpur Police Station",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "college-poragallu",
+        "canonical": "College Poragallu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "jessie",
+        "canonical": "Jessie",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "magnet",
+        "canonical": "Magnet",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "manasa-vaacha",
+        "canonical": "Manasa Vaacha",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "pranam-khareedu",
+        "canonical": "Pranam Khareedu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "where-is-the-venkatalakshmi",
+        "canonical": "Where Is the Venkatalakshmi",
+        "aliases": [
+          "Where Is Venkatalakshmi"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "mouname-ishtam",
+        "canonical": "Mouname Ishtam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "prematho-cheppana",
+        "canonical": "Prematho Cheppana",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "adhrushyam",
+        "canonical": "Adhrushyam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "cheddi-gang",
+        "canonical": "Cheddi Gang",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "vinara-sodara-veera-kumara",
+        "canonical": "Vinara Sodara Veera Kumara",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "lakshmi-s-ntr",
+        "canonical": "Lakshmi's NTR",
+        "aliases": [
+          "Lakshmis NTR"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "suryakantham",
+        "canonical": "Suryakantham",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 March 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "majili",
+        "canonical": "Majili",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "prema-katha-chitram-2",
+        "canonical": "Prema Katha Chitram 2",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "chitralahari",
+        "canonical": "Chitralahari",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "runam",
+        "canonical": "Runam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "jersey",
+        "canonical": "Jersey",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 19 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "chikati-gadilo-chithakotudu",
+        "canonical": "Chikati Gadilo Chithakotudu",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "danger-love-story",
+        "canonical": "Danger Love Story",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 26 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "diksoochi",
+        "canonical": "Diksoochi",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 26 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "duppatlo-minnagu",
+        "canonical": "Duppatlo Minnagu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 26 April 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "nuvvu-thopu-raa",
+        "canonical": "Nuvvu Thopu Raa",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 3 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "okate-life",
+        "canonical": "Okate Life",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 3 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rangu-paduddi",
+        "canonical": "Rangu Paduddi",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 3 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "maharshi",
+        "canonical": "Maharshi",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 9 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "abcd-american-born-confused-desi",
+        "canonical": "ABCD: American Born Confused Desi",
+        "aliases": [
+          "ABCD",
+          "American Born Confused Desi"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 17 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "enthavaraalaina",
+        "canonical": "Enthavaraalaina",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 17 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "romantic-criminals",
+        "canonical": "Romantic Criminals",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 17 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "swayamvadha",
+        "canonical": "Swayamvadha",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 17 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "sita",
+        "canonical": "Sita",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 24 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "abhinetri-2",
+        "canonical": "Abhinetri 2",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 31 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "december-31",
+        "canonical": "December 31",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 31 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "falaknuma-das",
+        "canonical": "Falaknuma Das",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 31 May 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "seven",
+        "canonical": "Seven",
+        "aliases": [
+          "7"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "hippi",
+        "canonical": "Hippi",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ek",
+        "canonical": "Ek",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 14 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "game-over",
+        "canonical": "Game Over",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 14 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "vajra-kavachadhara-govinda",
+        "canonical": "Vajra Kavachadhara Govinda",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 14 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "viswamitra",
+        "canonical": "Viswamitra",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 14 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "1st-rank-raju",
+        "canonical": "1st Rank Raju",
+        "aliases": [
+          "First Rank Raju"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "agent-sai-srinivasa-athreya",
+        "canonical": "Agent Sai Srinivasa Athreya",
+        "aliases": [
+          "Sai Srinivasa Athreya"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "mallesham",
+        "canonical": "Mallesham",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "special-the-story-of-a-mind-reader",
+        "canonical": "Special – The Story of a Mind Reader",
+        "aliases": [
+          "Special",
+          "Special: The Story of a Mind Reader"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "voter",
+        "canonical": "Voter",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "brochevarevarura",
+        "canonical": "Brochevarevarura",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 28 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "captain-rana-prathap",
+        "canonical": "Captain Rana Prathap",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 28 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kalki",
+        "canonical": "Kalki",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 28 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "prema-janta",
+        "canonical": "Prema Janta",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 28 June 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "burrakatha",
+        "canonical": "Burrakatha",
+        "aliases": [
+          "Burra Katha"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kakatheeyudu",
+        "canonical": "Kakatheeyudu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "oh-baby",
+        "canonical": "Oh! Baby",
+        "aliases": [
+          "Oh Baby"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "durmargudu",
+        "canonical": "Durmargudu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "dorasaani",
+        "canonical": "Dorasaani",
+        "aliases": [
+          "Dorasani"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ks100",
+        "canonical": "KS100",
+        "aliases": [
+          "KS 100"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ninu-veedani-needanu-nene",
+        "canonical": "Ninu Veedani Needanu Nene",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "marketlo-prajaswamyam",
+        "canonical": "Marketlo Prajaswamyam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rajdooth",
+        "canonical": "Rajdooth",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ismart-shankar",
+        "canonical": "iSmart Shankar",
+        "aliases": [
+          "Ismart Shankar",
+          "Smart Shankar"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "dear-comrade",
+        "canonical": "Dear Comrade",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 26 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "nenu-lenu",
+        "canonical": "Nenu Lenu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 26 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "bailampudi",
+        "canonical": "Bailampudi",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 27 July 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "guna-369",
+        "canonical": "Guna 369",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 2 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rakshasudu",
+        "canonical": "Rakshasudu",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 2 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "sivaranjani",
+        "canonical": "Sivaranjani",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 2 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kathanam",
+        "canonical": "Kathanam",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 9 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "manmadhudu-2",
+        "canonical": "Manmadhudu 2",
+        "aliases": [
+          "Manmadhudu Two"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 9 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kobbari-matta",
+        "canonical": "Kobbari Matta",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 10 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "evaru",
+        "canonical": "Evaru",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ranarangam",
+        "canonical": "Ranarangam",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "boy",
+        "canonical": "Boy",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 23 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "edaina-jaragocchu",
+        "canonical": "Edaina Jaragocchu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 23 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "kousalya-krishnamurthy",
+        "canonical": "Kousalya Krishnamurthy",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 23 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "hawaa",
+        "canonical": "Hawaa",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 23 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "nene-kedi-no-1",
+        "canonical": "Nene Kedi No.1",
+        "aliases": [
+          "Nene Kedi No 1",
+          "Nene Kedi Number One"
+        ],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 23 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "saaho",
+        "canonical": "Saaho",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 30 August 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "jodi",
+        "canonical": "Jodi",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "nani-s-gang-leader",
+        "canonical": "Nani's Gang Leader",
+        "aliases": [
+          "Gang Leader",
+          "Nanis Gang Leader"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 13 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "marshal",
+        "canonical": "Marshal",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 13 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "gaddalakonda-ganesh",
+        "canonical": "Gaddalakonda Ganesh",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 20 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "nenu-naa-nagarjuna",
+        "canonical": "Nenu Naa Nagarjuna",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 20 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "pandugadi-photo-studio",
+        "canonical": "Pandugadi Photo Studio",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 21 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rama-chakkani-seetha",
+        "canonical": "Rama Chakkani Seetha",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 27 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rayalaseema-love-story",
+        "canonical": "Rayalaseema Love Story",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 27 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ninnu-thalachi",
+        "canonical": "Ninnu Thalachi",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 27 September 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "sye-raa-narasimha-reddy",
+        "canonical": "Sye Raa Narasimha Reddy",
+        "aliases": [
+          "Sye Raa",
+          "Syeraa Narasimha Reddy"
+        ],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 2 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "chanakya",
+        "canonical": "Chanakya",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "oorantha-anukuntunnaru",
+        "canonical": "Oorantha Anukuntunnaru",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 5 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "evvarikee-cheppoddu",
+        "canonical": "Evvarikee Cheppoddu",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 8 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "rdx-love",
+        "canonical": "RDX Love",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 11 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "krishna-rao-supermarket",
+        "canonical": "Krishna Rao Supermarket",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "malli-malli-chusa",
+        "canonical": "Malli Malli Chusa",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "operation-gold-fish",
+        "canonical": "Operation Gold Fish",
+        "aliases": [
+          "Operation Goldfish"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "raju-gari-gadhi-3",
+        "canonical": "Raju Gari Gadhi 3",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "sarovaram",
+        "canonical": "Sarovaram",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 18 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "thupaki-ramudu",
+        "canonical": "Thupaki Ramudu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "vanavasam",
+        "canonical": "Vanavasam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 October 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "aaviri",
+        "canonical": "Aaviri",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "dandupalyam-4",
+        "canonical": "Dandupalyam 4",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "meeku-maathrame-cheptha",
+        "canonical": "Meeku Maathrame Cheptha",
+        "aliases": [
+          "Meeku Mathrame Cheptha"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "planning",
+        "canonical": "Planning",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 1 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "thipparaa-meesam",
+        "canonical": "Thipparaa Meesam",
+        "aliases": [
+          "Thippara Meesam"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 8 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "konapuram-lo-jarigina-katha",
+        "canonical": "Konapuram Lo Jarigina Katha",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 8 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "tenali-ramakrishna-ba-bl",
+        "canonical": "Tenali Ramakrishna BA. BL",
+        "aliases": [
+          "Tenali Ramakrishna BA BL",
+          "Tenali Ramakrishna"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 15 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "george-reddy",
+        "canonical": "George Reddy",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "raagala-24-gantallo",
+        "canonical": "Raagala 24 Gantallo",
+        "aliases": [
+          "Ragala 24 Gantallo"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "tholu-bommalata",
+        "canonical": "Tholu Bommalata",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "pichhodu",
+        "canonical": "Pichhodu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "beach-road-chetan",
+        "canonical": "Beach Road Chetan",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "traap",
+        "canonical": "Traap",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 22 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ranasthalam",
+        "canonical": "Ranasthalam",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "arjun-suravaram",
+        "canonical": "Arjun Suravaram",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "raja-vaaru-rani-gaaru",
+        "canonical": "Raja Vaaru Rani Gaaru",
+        "aliases": [
+          "Raja Varu Rani Garu"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "raghupathi-venkaiah-naidu",
+        "canonical": "Raghupathi Venkaiah Naidu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 29 November 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "miss-match",
+        "canonical": "Miss Match",
+        "aliases": [
+          "Mismatch"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "bhagyanagara-veedullo-gamattu",
+        "canonical": "Bhagyanagara Veedullo Gamattu",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ashwamedham",
+        "canonical": "Ashwamedham",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "90ml",
+        "canonical": "90ML",
+        "aliases": [
+          "90 ML"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 6 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "amma-rajyam-lo-kadapa-biddalu",
+        "canonical": "Amma Rajyam Lo Kadapa Biddalu",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 12 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "hulchul",
+        "canonical": "Hulchul",
+        "aliases": [],
+        "familiarity": 0.001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 13 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "venky-mama",
+        "canonical": "Venky Mama",
+        "aliases": [],
+        "familiarity": 0.0338,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 13 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "ruler",
+        "canonical": "Ruler",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 20 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "prati-roju-pandage",
+        "canonical": "Prati Roju Pandage",
+        "aliases": [
+          "Prathi Roju Pandage"
+        ],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 20 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "iddari-lokam-okate",
+        "canonical": "Iddari Lokam Okate",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "mathu-vadalara",
+        "canonical": "Mathu Vadalara",
+        "aliases": [],
+        "familiarity": 0.0135,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 25 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      },
+      {
+        "id": "software-sudheer",
+        "canonical": "Software Sudheer",
+        "aliases": [],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as a Telugu film released on 28 December 2019.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2019"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the supplied list of Telugu films released in 2019, spanning major commercial releases and smaller productions.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2019",
+        "title": "List of Telugu films of 2019",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2019",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "3a7b8460b6cb3e9e",
+    "brief": "Name a Telugu film released in 2019.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2019",
+        "version": "1381271252",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Ajay Passayyad": "J A N | 4 | Ajay Passayyad | Prem Deepak",
+      "Natana": "J A N | 4 | Natana | Bharathi Babu",
+      "N.T.R: Kathanayakudu": "J A N | 9 | N.T.R: Kathanayakudu | Krish",
+      "Vinaya Vidheya Rama": "J A N | 11 | Vinaya Vidheya Rama | Boyapati Srinu",
+      "F2: Fun and Frustration": "J A N | 12 | F2: Fun and Frustration | Anil Ravipudi",
+      "Kothaga Maa Prayanam": "J A N | 25 | Kothaga Maa Prayanam | Ramana Mogili",
+      "Mr. Majnu": "J A N | 25 | Mr. Majnu | Venky Atluri",
+      "Akkadokaduntadu": "F E B | 1 | Akkadokaduntadu | Sri Paada Viswak",
+      "Bichagada Majaka": "F E B | 1 | Bichagada Majaka | K. S. Nageswara Rao",
+      "Gamer": "F E B | 1 | Gamer | Rajesh Tadakala",
+      "Sakala Kala Vallabhudu": "F E B | 1 | Sakala Kala Vallabhudu | Siva Ganesh",
+      "Yatra": "F E B | 8 | Yatra | Mahi V. Raghav",
+      "4 Letters": "F E B | 22 | 4 Letters | R. Raghuraj",
+      "Mithai": "F E B | 22 | Mithai | Prashant Kumar",
+      "N.T.R: Mahanayakudu": "F E B | 22 | N.T.R: Mahanayakudu | Krish",
+      "Prementha Panichese Narayana": "F E B | 22 | Prementha Panichese Narayana | Jonnalagadda Srinivasa Rao",
+      "Crazy Crazy Feeling": "M A R | 1 | Crazy Crazy Feeling | Sanjai Kartik",
+      "118": "M A R | 1 | 118 | K. V. Guhan",
+      "Eureka": "M A R | 13 | Eureka | Karteek Anand",
+      "Aa Nimisham": "M A R | 15 | Aa Nimisham | Kala Rajesh",
+      "Ashok Reddy": "M A R | 15 | Ashok Reddy | Nandi Venkat Reddy",
+      "Bilalpur Police Station": "M A R | 15 | Bilalpur Police Station | Naga Sai Makham",
+      "College Poragallu": "M A R | 15 | College Poragallu | Annam Chandrashekar",
+      "Jessie": "M A R | 15 | Jessie | Ashwani Kumar. V",
+      "Magnet": "M A R | 15 | Magnet | Adishesha Sai Reddy",
+      "Manasa Vaacha": "M A R | 15 | Manasa Vaacha | M. V. Prasad",
+      "Pranam Khareedu": "M A R | 15 | Pranam Khareedu | P. L. K. Reddy",
+      "Where Is the Venkatalakshmi": "M A R | 15 | Where Is the Venkatalakshmi | Kishore Kumar",
+      "Mouname Ishtam": "M A R | 15 | Mouname Ishtam | Ashok Koralath",
+      "Prematho Cheppana": "M A R | 21 | Prematho Cheppana | Ranga Ravinder Gupta",
+      "Adhrushyam": "M A R | 22 | Adhrushyam | Ravi Prakash Krishnamsetty",
+      "Cheddi Gang": "M A R | 22 | Cheddi Gang | Kanagala Ramesh Chowdhary",
+      "Vinara Sodara Veera Kumara": "M A R | 22 | Vinara Sodara Veera Kumara | Sateesh Chandra Nadella",
+      "Lakshmi's NTR": "M A R | 29 | Lakshmi's NTR | Ram Gopal Varma Agasthya Manju",
+      "Suryakantham": "M A R | 29 | Suryakantham | Pranith Bramandapally",
+      "Majili": "A P R | 5 | Majili | Shiva Nirvana",
+      "Prema Katha Chitram 2": "A P R | 6 | Prema Katha Chitram 2 | Hari Krishna",
+      "Chitralahari": "A P R | 12 | Chitralahari | Kishore Tirumala",
+      "Runam": "A P R | 12 | Runam | Srinivas Gundareddy",
+      "Jersey": "A P R | 19 | Jersey | Gowtam Tinnanuri",
+      "Chikati Gadilo Chithakotudu": "A P R | 21 | Chikati Gadilo Chithakotudu | Santhosh P. Jayakumar",
+      "Danger Love Story": "A P R | 26 | Danger Love Story | Shekar Chandra",
+      "Diksoochi": "A P R | 26 | Diksoochi | Dilip Kumar Salvadi",
+      "Duppatlo Minnagu": "A P R | 26 | Duppatlo Minnagu | Yandamuri Veerendranath",
+      "Nuvvu Thopu Raa": "M A Y | 3 | Nuvvu Thopu Raa | B. Harinath Babu",
+      "Okate Life": "M A Y | 3 | Okate Life | M. Venkat",
+      "Rangu Paduddi": "M A Y | 3 | Rangu Paduddi | S. Shyam Prasad",
+      "Maharshi": "M A Y | 9 | Maharshi | Vamsi Paidipally",
+      "ABCD: American Born Confused Desi": "M A Y | 17 | ABCD: American Born Confused Desi | Sanjeev Reddy",
+      "Enthavaraalaina": "M A Y | 17 | Enthavaraalaina | Guru Chindepalli",
+      "Romantic Criminals": "M A Y | 17 | Romantic Criminals | P. Sunil Kumar Reddy",
+      "Swayamvadha": "M A Y | 17 | Swayamvadha | Vivek Varma",
+      "Sita": "M A Y | 24 | Sita | Teja",
+      "Abhinetri 2": "M A Y | 31 | Abhinetri 2 | A. L. Vijay",
+      "December 31": "M A Y | 31 | December 31 | G. Kondal Rao",
+      "Falaknuma Das": "M A Y | 31 | Falaknuma Das | Vishwak Sen",
+      "Seven": "J U N | 5 | Seven | Nizar Shafi",
+      "Hippi": "J U N | 6 | Hippi | Krishna",
+      "Ek": "J U N | 14 | Ek | Sampath V. Rudra",
+      "Game Over": "J U N | 14 | Game Over | Ashwin Saravanan",
+      "Vajra Kavachadhara Govinda": "J U N | 14 | Vajra Kavachadhara Govinda | Arun Pawar",
+      "Viswamitra": "J U N | 14 | Viswamitra | Raajkiran",
+      "1st Rank Raju": "J U N | 21 | 1st Rank Raju | Naresh Kumar H. N.",
+      "Agent Sai Srinivasa Athreya": "J U N | 21 | Agent Sai Srinivasa Athreya | Swaroop RSJ",
+      "Mallesham": "J U N | 21 | Mallesham | Raj. R",
+      "Special – The Story of a Mind Reader": "J U N | 21 | Special – The Story of a Mind Reader | Vastav",
+      "Voter": "J U N | 21 | Voter | G. S. Karthik",
+      "Brochevarevarura": "J U N | 28 | Brochevarevarura | Vivek Athreya",
+      "Captain Rana Prathap": "J U N | 28 | Captain Rana Prathap | Haranath Policherla",
+      "Kalki": "J U N | 28 | Kalki | Prasanth Varma",
+      "Prema Janta": "J U N | 28 | Prema Janta | Nikhilesh Thogari",
+      "Burrakatha": "J U L | 5 | Burrakatha | Diamond Ratna Babu",
+      "Kakatheeyudu": "J U L | 5 | Kakatheeyudu | Vijay Samudra",
+      "Oh! Baby": "J U L | 5 | Oh! Baby | B. V. Nandini Reddy",
+      "Durmargudu": "J U L | 5 | Durmargudu | Suneeth Jampa",
+      "Dorasaani": "J U L | 12 | Dorasaani | K. V. R. Mahendra",
+      "KS100": "J U L | 12 | KS100 | Sher",
+      "Ninu Veedani Needanu Nene": "J U L | 12 | Ninu Veedani Needanu Nene | Caarthick Raju",
+      "Marketlo Prajaswamyam": "J U L | 12 | Marketlo Prajaswamyam | R. Narayana Murthy",
+      "Rajdooth": "J U L | 12 | Rajdooth | Arjun Gunnala, Cartyk",
+      "iSmart Shankar": "J U L | 18 | iSmart Shankar | Puri Jagannadh",
+      "Dear Comrade": "J U L | 26 | Dear Comrade | Bharat Kamma",
+      "Nenu Lenu": "J U L | 26 | Nenu Lenu | Ram Kumar A.S.K",
+      "Bailampudi": "J U L | 27 | Bailampudi | Anil Raj",
+      "Guna 369": "A U G | 2 | Guna 369 | Arjun Jandhyala",
+      "Rakshasudu": "A U G | 2 | Rakshasudu | Ramesh Varma",
+      "Sivaranjani": "A U G | 2 | Sivaranjani | Naaga Prabhakkar",
+      "Kathanam": "A U G | 9 | Kathanam | Rajesh Nadendla",
+      "Manmadhudu 2": "A U G | 9 | Manmadhudu 2 | Rahul Ravindran",
+      "Kobbari Matta": "A U G | 10 | Kobbari Matta | Rupak Ronaldson",
+      "Evaru": "A U G | 15 | Evaru | Venkat Ramji",
+      "Ranarangam": "A U G | 15 | Ranarangam | Sudheer Varma",
+      "Boy": "A U G | 23 | Boy | Amar Viswaraj",
+      "Edaina Jaragocchu": "A U G | 23 | Edaina Jaragocchu | K. Rama Kanth",
+      "Kousalya Krishnamurthy": "A U G | 23 | Kousalya Krishnamurthy | Bhimaneni Srinivasa Rao",
+      "Hawaa": "A U G | 23 | Hawaa | Mahesh Reddy",
+      "Nene Kedi No.1": "A U G | 23 | Nene Kedi No.1 | Johni",
+      "Saaho": "A U G | 30 | Saaho | Sujeeth",
+      "Jodi": "S E P | 06 | Jodi | Viswanath Arigella",
+      "Nani's Gang Leader": "S E P | 13 | Nani's Gang Leader | Vikram Kumar",
+      "Marshal": "S E P | 13 | Marshal | Jai Raaja Singh",
+      "Gaddalakonda Ganesh": "S E P | 20 | Gaddalakonda Ganesh | Harish Shankar",
+      "Nenu Naa Nagarjuna": "S E P | 20 | Nenu Naa Nagarjuna | R. B. Gopal",
+      "Pandugadi Photo Studio": "S E P | 21 | Pandugadi Photo Studio | Dileep Raj",
+      "Rama Chakkani Seetha": "S E P | 27 | Rama Chakkani Seetha | Sriharsha Manda",
+      "Rayalaseema Love Story": "S E P | 27 | Rayalaseema Love Story | Ram Ranadheer",
+      "Ninnu Thalachi": "S E P | 27 | Ninnu Thalachi | Anil Thota",
+      "Sye Raa Narasimha Reddy": "O C T | 2 | Sye Raa Narasimha Reddy | Surender Reddy",
+      "Chanakya": "O C T | 5 | Chanakya | Thiru",
+      "Oorantha Anukuntunnaru": "O C T | 5 | Oorantha Anukuntunnaru | Balaji",
+      "Evvarikee Cheppoddu": "O C T | 8 | Evvarikee Cheppoddu | Basava Shanker",
+      "RDX Love": "O C T | 11 | RDX Love | Bhanu Shankar",
+      "Krishna Rao Supermarket": "O C T | 18 | Krishna Rao Supermarket | Sreenath Pulakuram",
+      "Malli Malli Chusa": "O C T | 18 | Malli Malli Chusa | Hemanth Karthik",
+      "Operation Gold Fish": "O C T | 18 | Operation Gold Fish | Sai Kiran Adivi",
+      "Raju Gari Gadhi 3": "O C T | 18 | Raju Gari Gadhi 3 | Ohmkar",
+      "Sarovaram": "O C T | 18 | Sarovaram | Suresh Yadavalli",
+      "Thupaki Ramudu": "O C T | 25 | Thupaki Ramudu | T. Prabhakar",
+      "Vanavasam": "O C T | 25 | Vanavasam | Bharath Kumar P & Narendra",
+      "Aaviri": "N O V | 1 | Aaviri | Ravi Babu",
+      "Dandupalyam 4": "N O V | 1 | Dandupalyam 4 | K. T. Nayak",
+      "Meeku Maathrame Cheptha": "N O V | 1 | Meeku Maathrame Cheptha | Shammer Sulthan",
+      "Planning": "N O V | 1 | Planning | B. L. Prasad",
+      "Thipparaa Meesam": "N O V | 8 | Thipparaa Meesam | Krishna Vijay",
+      "Konapuram Lo Jarigina Katha": "N O V | 8 | Konapuram Lo Jarigina Katha | K. B. Krishna",
+      "Tenali Ramakrishna BA. BL": "N O V | 15 | Tenali Ramakrishna BA. BL | G. Nageswara Reddy",
+      "George Reddy": "N O V | 22 | George Reddy | B. Jeevan Reddy",
+      "Raagala 24 Gantallo": "N O V | 22 | Raagala 24 Gantallo | Srinivasa Reddy",
+      "Tholu Bommalata": "N O V | 22 | Tholu Bommalata | Vishwanath Maganti",
+      "Pichhodu": "N O V | 22 | Pichhodu | Hemanth Srinivas",
+      "Beach Road Chetan": "N O V | 22 | Beach Road Chetan | Chetan Maddineni",
+      "Traap": "N O V | 22 | Traap | V. S. Phanindra",
+      "Ranasthalam": "N O V | 29 | Ranasthalam | Adhi Aravala",
+      "Arjun Suravaram": "N O V | 29 | Arjun Suravaram | T. N. Santhosh",
+      "Raja Vaaru Rani Gaaru": "N O V | 29 | Raja Vaaru Rani Gaaru | Ravi Kiran Kola",
+      "Raghupathi Venkaiah Naidu": "N O V | 29 | Raghupathi Venkaiah Naidu | Babji",
+      "Miss Match": "D E C | 6 | Miss Match | N. V. Nirmal Kumar",
+      "Bhagyanagara Veedullo Gamattu": "D E C | 6 | Bhagyanagara Veedullo Gamattu | Srinivasa Reddy",
+      "Ashwamedham": "D E C | 6 | Ashwamedham | Nitin Gawde",
+      "90ML": "D E C | 6 | 90ML | Sekhar Reddy Yerra",
+      "Amma Rajyam Lo Kadapa Biddalu": "D E C | 12 | Amma Rajyam Lo Kadapa Biddalu | Ram Gopal Varma",
+      "Hulchul": "D E C | 13 | Hulchul | Sripathi Karrl",
+      "Venky Mama": "D E C | 13 | Venky Mama | K. S. Ravindra",
+      "Ruler": "D E C | 20 | Ruler | K. S. Ravikumar",
+      "Prati Roju Pandage": "D E C | 20 | Prati Roju Pandage | Maruthi",
+      "Iddari Lokam Okate": "D E C | 25 | Iddari Lokam Okate | G. R. Krishna",
+      "Mathu Vadalara": "D E C | 25 | Mathu Vadalara | Ritesh Rana",
+      "Software Sudheer": "D E C | 28 | Software Sudheer | P. Rajasekhar Reddy"
+    },
+    "issues": []
+  }
+}

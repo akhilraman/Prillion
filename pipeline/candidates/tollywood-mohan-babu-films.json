@@ -1,0 +1,2989 @@
+{
+  "question": {
+    "id": "tollywood-mohan-babu-films",
+    "category": "tollywood",
+    "prompt": "Name a film listed in Mohan Babu's acting filmography.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "alluri-seetarama-raju",
+        "canonical": "Alluri Seetarama Raju",
+        "aliases": [
+          "Alluri Sitarama Raju"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among Mohan Babu's Telugu acting credits for 1974.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kannavaari-kalalu",
+        "canonical": "Kannavaari Kalalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1974.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "swargam-narakam",
+        "canonical": "Swargam Narakam",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rajesh.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bhale-dongalu",
+        "canonical": "Bhale Dongalu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ranga.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "athavarillu",
+        "canonical": "Athavarillu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1976.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "o-manishi-thirigi-chudu",
+        "canonical": "O Manishi Thirigi Chudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1976.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ardhangi",
+        "canonical": "Ardhangi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1977.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "jeevana-teeralu",
+        "canonical": "Jeevana Teeralu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Pottu Raju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "manushulu-chesina-dongalu",
+        "canonical": "Manushulu Chesina Dongalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1977.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bangaru-bommalu",
+        "canonical": "Bangaru Bommalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1977.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bhale-alludu",
+        "canonical": "Bhale Alludu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1977.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dongalaku-donga",
+        "canonical": "Dongalaku Donga",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Thufan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-kalidasu",
+        "canonical": "Khaidi Kalidasu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Thufan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kurukshetram",
+        "canonical": "Kurukshetram",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sisupala.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "tholireyi-gadichindi",
+        "canonical": "Tholireyi Gadichindi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1977.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chal-mohana-ranga",
+        "canonical": "Chal Mohana Ranga",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1978.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pottelu-punnamma",
+        "canonical": "Pottelu Punnamma",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Hari Babu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dongala-dopidi",
+        "canonical": "Dongala Dopidi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Jaggadu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gorantha-deepam",
+        "canonical": "Gorantha Deepam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1978.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kalanthakulu",
+        "canonical": "Kalanthakulu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1978.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kumara-raja",
+        "canonical": "Kumara Raja",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1978.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mugguru-muggure",
+        "canonical": "Mugguru Muggure",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "nayudu-bava",
+        "canonical": "Nayudu Bava",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Suryam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "padaharella-vayasu",
+        "canonical": "Padaharella Vayasu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Simhachalam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rama-krishnulu",
+        "canonical": "Rama Krishnulu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Thyagaraju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "simha-baludu",
+        "canonical": "Simha Baludu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gajapathi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "simha-gharjane",
+        "canonical": "Simha Gharjane",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1978.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sivaranjani",
+        "canonical": "Sivaranjani",
+        "aliases": [
+          "Shivaranjani"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "vichitra-jeevitham",
+        "canonical": "Vichitra Jeevitham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Surendra Nath.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "shri-rama-bantu",
+        "canonical": "Shri Rama Bantu",
+        "aliases": [
+          "Sri Rama Bantu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Nagaraju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kotta-alludu",
+        "canonical": "Kotta Alludu",
+        "aliases": [
+          "Kotha Alludu"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "andadu-aagadu",
+        "canonical": "Andadu Aagadu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bhujangam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "driver-ramudu",
+        "canonical": "Driver Ramudu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kamal Babu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kalyani",
+        "canonical": "Kalyani",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "captain-krishna",
+        "canonical": "Captain Krishna",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dongaluku-saval",
+        "canonical": "Dongaluku Saval",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sundaram.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maavuri-devatha",
+        "canonical": "Maavuri Devatha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "nindu-noorellu",
+        "canonical": "Nindu Noorellu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rama-banam",
+        "canonical": "Rama Banam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ravanude-ramudayithe",
+        "canonical": "Ravanude Ramudayithe?",
+        "aliases": [
+          "Ravanude Ramudayithe"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Poolaiah.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rangoon-rowdy",
+        "canonical": "Rangoon Rowdy",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Babu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "shokilla-rayudu",
+        "canonical": "Shokilla Rayudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1979.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "amma-evarikaina-amma",
+        "canonical": "Amma Evarikaina Amma",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raja.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kottapeta-rowdy",
+        "canonical": "Kottapeta Rowdy",
+        "aliases": [
+          "Kothapeta Rowdy"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vaikuntham.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bhale-krishnudu",
+        "canonical": "Bhale Krishnudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "buchi-babu",
+        "canonical": "Buchi Babu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as V.P. Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chesina-basalu",
+        "canonical": "Chesina Basalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "circus-ramudu",
+        "canonical": "Circus Ramudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sambaiah.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "deeparadhana",
+        "canonical": "Deeparadhana",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dharma-chakram",
+        "canonical": "Dharma Chakram",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gandhara-golam",
+        "canonical": "Gandhara Golam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gharana-donga",
+        "canonical": "Gharana Donga",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kishore Kumar.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gopala-rao-gari-ammayi",
+        "canonical": "Gopala Rao Gari Ammayi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "guru",
+        "canonical": "Guru",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramesh in its Telugu and Tamil listings.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kaksha",
+        "canonical": "Kaksha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ketugadu",
+        "canonical": "Ketugadu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mahalakshmi",
+        "canonical": "Mahalakshmi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rudraiah.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "manavude-mahaneeyudu",
+        "canonical": "Manavude Mahaneeyudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "paalu-neelu",
+        "canonical": "Paalu Neelu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pilla-zamindar",
+        "canonical": "Pilla Zamindar",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prema-kanuka",
+        "canonical": "Prema Kanuka",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ragile-hrudayalu",
+        "canonical": "Ragile Hrudayalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sarada-ramudu",
+        "canonical": "Sarada Ramudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sardar-papa-rayudu",
+        "canonical": "Sardar Papa Rayudu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sita-ramulu",
+        "canonical": "Sita Ramulu",
+        "aliases": [
+          "Seeta Ramulu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ravi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sujatha",
+        "canonical": "Sujatha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pelli-gola",
+        "canonical": "Pelli Gola",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ranga Raju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "trilok-sundari",
+        "canonical": "Trilok Sundari",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kirayi-rowdylu",
+        "canonical": "Kirayi Rowdylu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Koti.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chattaniki-kallu-levu",
+        "canonical": "Chattaniki Kallu Levu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1981.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "addala-meda",
+        "canonical": "Addala Meda",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1981.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prema-simhasanam",
+        "canonical": "Prema Simhasanam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kalyan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "aggi-ravva",
+        "canonical": "Aggi Ravva",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Inspector Suryam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dabbu-dabbu-dabbu",
+        "canonical": "Dabbu Dabbu Dabbu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1981.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-simham",
+        "canonical": "Kondaveeti Simham",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ravi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "patalam-pandu",
+        "canonical": "Patalam Pandu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1981.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "premabhishekam",
+        "canonical": "Premabhishekam",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Dr. Chakravarthy.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "satyam-shivam",
+        "canonical": "Satyam Shivam",
+        "aliases": [
+          "Satyam Sivam"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1981.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "taxi-driver",
+        "canonical": "Taxi Driver",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "billa-ranga",
+        "canonical": "Billa Ranga",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him in a dual role as Ranga and Rajaram.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "patnam-vachina-pativrathalu",
+        "canonical": "Patnam Vachina Pativrathalu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prathigna",
+        "canonical": "Prathigna",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bharat and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gruha-pravesam",
+        "canonical": "Gruha Pravesam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chandamama",
+        "canonical": "Chandamama",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "devatha",
+        "canonical": "Devatha",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kamesham.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "jayasudha",
+        "canonical": "Jayasudha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kotha-neeru",
+        "canonical": "Kotha Neeru",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bangaru-koduku",
+        "canonical": "Bangaru Koduku",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramesh.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pralaya-rudrudu",
+        "canonical": "Pralaya Rudrudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as 'Mangalavaram' Malligadu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prathikaram",
+        "canonical": "Prathikaram",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rangadu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sawaal",
+        "canonical": "Sawaal",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1982.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dharma-poratam",
+        "canonical": "Dharma Poratam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "moogavani-paga",
+        "canonical": "Moogavani Paga",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Nagaraju/Ashok Raj.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "durga-devi",
+        "canonical": "Durga Devi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kala-yamudu",
+        "canonical": "Kala Yamudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kurukshetramlo-seeta",
+        "canonical": "Kurukshetramlo Seeta",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maro-maya-bazaar",
+        "canonical": "Maro Maya Bazaar",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mayagadu",
+        "canonical": "Mayagadu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "palletoori-pidugu",
+        "canonical": "Palletoori Pidugu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "police-venkataswamy",
+        "canonical": "Police Venkataswamy",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pralaya-garjanai",
+        "canonical": "Pralaya Garjanai",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rangula-puli",
+        "canonical": "Rangula Puli",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1983.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bhale-ramudu",
+        "canonical": "Bhale Ramudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ee-thirpu-illalidhi",
+        "canonical": "Ee Thirpu Illalidhi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "srimathi-kaavali",
+        "canonical": "Srimathi Kaavali",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "padmavyuham",
+        "canonical": "Padmavyuham",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "aada-puli",
+        "canonical": "Aada Puli",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "grihalakshmi",
+        "canonical": "Grihalakshmi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rowdy",
+        "canonical": "Rowdy",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists this title in 1984 and credits him as Anna Garu in the 2014 film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sardar",
+        "canonical": "Sardar",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "seethamma-pelli",
+        "canonical": "Seethamma Pelli",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1984.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "adavi-donga",
+        "canonical": "Adavi Donga",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "vintha-mogudu",
+        "canonical": "Vintha Mogudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "edadugula-bandham",
+        "canonical": "Edadugula Bandham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "illaliko-pariksha",
+        "canonical": "Illaliko Pariksha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maa-inti-mahalakshmi",
+        "canonical": "Maa Inti Mahalakshmi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan Kumar.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kalyana-thilakam",
+        "canonical": "Kalyana Thilakam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kothapelli-kuthuru",
+        "canonical": "Kothapelli Kuthuru",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maro-monagadu",
+        "canonical": "Maro Monagadu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "nerasthudu",
+        "canonical": "Nerasthudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Nagaraju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ragile-gundelu",
+        "canonical": "Ragile Gundelu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sanchalanam",
+        "canonical": "Sanchalanam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "tirugubatu",
+        "canonical": "Tirugubatu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1985.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maanavudu-daanavudu",
+        "canonical": "Maanavudu Daanavudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1986.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-raja",
+        "canonical": "Kondaveeti Raja",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1986.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "nampalli-nagu",
+        "canonical": "Nampalli Nagu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1986.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "papikondalu",
+        "canonical": "Papikondalu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit, with additional director and writer credits.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "tandra-paparayudu",
+        "canonical": "Tandra Paparayudu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vijaya Ramaraju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ugra-narasimham",
+        "canonical": "Ugra Narasimham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1986.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "srinivasa-kalyanam",
+        "canonical": "Srinivasa Kalyanam",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bokka Lambodharam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chakravarthy",
+        "canonical": "Chakravarthy",
+        "aliases": [
+          "Chakravarthi"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sardar-dharmanna",
+        "canonical": "Sardar Dharmanna",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1987.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "veera-prathap",
+        "canonical": "Veera Prathap",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1987.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "krishna-leela",
+        "canonical": "Krishna Leela",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1987.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "nene-raju-nene-manthri",
+        "canonical": "Nene Raju Nene Manthri",
+        "aliases": [
+          "Nene Raju Nene Mantri"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1987.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "viswanatha-nayakudu",
+        "canonical": "Viswanatha Nayakudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1987.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dorakani-donga",
+        "canonical": "Dorakani Donga",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Cobra and Sisupal.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "yuddha-bhoomi",
+        "canonical": "Yuddha Bhoomi",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1988.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "janaki-ramudu",
+        "canonical": "Janaki Ramudu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Balavantha Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-no-786",
+        "canonical": "Khaidi No. 786",
+        "aliases": [
+          "Khaidi No 786",
+          "Khaidi 786"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as SI Asirayya.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "murali-krishnudu",
+        "canonical": "Murali Krishnudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Parasuram.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "manchi-donga",
+        "canonical": "Manchi Donga",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1988.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "atmakatha",
+        "canonical": "Atmakatha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1988.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "brahma-puthrudu",
+        "canonical": "Brahma Puthrudu",
+        "aliases": [
+          "Brahma Putrudu"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ranjeeth.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chinababu",
+        "canonical": "Chinababu",
+        "aliases": [
+          "Chinna Babu"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sunnam Chinna Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "donga-ramudu",
+        "canonical": "Donga Ramudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1988.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "intinti-bhagavatham",
+        "canonical": "Intinti Bhagavatham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1988.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "praja-pratinidhi",
+        "canonical": "Praja Pratinidhi",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Dasakantha Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "varasudochadu",
+        "canonical": "Varasudochadu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ambaji Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kaliyuga-karnudu",
+        "canonical": "Kaliyuga Karnudu",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Adiseshu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "lankeswarudu",
+        "canonical": "Lankeswarudu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bhale-donga",
+        "canonical": "Bhale Donga",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Manmadha Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "vijay",
+        "canonical": "Vijay",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Puligolla Pasupathi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "agni",
+        "canonical": "Agni",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bala-gopaludu",
+        "canonical": "Bala Gopaludu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Govinda Babu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "black-tiger",
+        "canonical": "Black Tiger",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "dhruva-nakshatram",
+        "canonical": "Dhruva Nakshatram",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "koduku-diddina-kapuram",
+        "canonical": "Koduku Diddina Kapuram",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "naa-mogudu-nanke-sontham",
+        "canonical": "Naa Mogudu Nanke Sontham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1989.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "two-town-rowdy",
+        "canonical": "Two Town Rowdy",
+        "aliases": [
+          "2 Town Rowdy"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Baba Sab.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ontari-poratam",
+        "canonical": "Ontari Poratam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sivangi Sivaramakrishma.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kodama-simham",
+        "canonical": "Kodama Simham",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sudigaali.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-donga",
+        "canonical": "Kondaveeti Donga",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1990.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "maa-inti-katha",
+        "canonical": "Maa Inti Katha",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed as an acting credit and a production credit for 1990.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "yama-dharmaraju",
+        "canonical": "Yama Dharmaraju",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1990.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "alludugaru",
+        "canonical": "Alludugaru",
+        "aliases": [
+          "Alludu Garu"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vishnu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kadapa-reddamma",
+        "canonical": "Kadapa Reddamma",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1990.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prananiki-pranam",
+        "canonical": "Prananiki Pranam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rasool.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prema-yuddham",
+        "canonical": "Prema Yuddham",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Jayasimha.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rowdy-gari-pellam",
+        "canonical": "Rowdy Gari Pellam",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rambabu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "agni-nakshatram",
+        "canonical": "Agni Nakshatram",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1991.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "coolie-no-1",
+        "canonical": "Coolie No. 1",
+        "aliases": [
+          "Coolie No 1",
+          "Coolie Number One"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopal.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "assembly-rowdy",
+        "canonical": "Assembly Rowdy",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivaji and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "alludu-diddina-kapuram",
+        "canonical": "Alludu Diddina Kapuram",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Jaganatham.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "peddintalludu",
+        "canonical": "Peddintalludu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Goodala Kanna Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "prema-panjaram",
+        "canonical": "Prema Panjaram",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Telugu acting credits for 1991.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "brahma",
+        "canonical": "Brahma",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ravi Varma and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "allari-mogudu",
+        "canonical": "Allari Mogudu",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopal.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "donga-police",
+        "canonical": "Donga Police",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rambabu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "detective-narada",
+        "canonical": "Detective Narada",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Naarada.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "samrat-ashoka",
+        "canonical": "Samrat Ashoka",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Malavasimha Rudradeva.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kunti-puthrudu",
+        "canonical": "Kunti Puthrudu",
+        "aliases": [
+          "Kunti Putrudu"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rambabu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "chittemma-mogudu",
+        "canonical": "Chittemma Mogudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sai Krishna.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "major-chandrakanth",
+        "canonical": "Major Chandrakanth",
+        "aliases": [
+          "Major Chandrakant"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivaji and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rowdy-mogudu",
+        "canonical": "Rowdy Mogudu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Kaali.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "allari-police",
+        "canonical": "Allari Police",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him in a dual role as Venkata Ramana and Ashok.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "punya-bhoomi-naa-desam",
+        "canonical": "Punya Bhoomi Naa Desam",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bharath and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "m-dharmaraju-m-a",
+        "canonical": "M. Dharmaraju M.A.",
+        "aliases": [
+          "M Dharmaraju MA"
+        ],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him in a dual role as M Dharmaraju and Satyam.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pedarayudu",
+        "canonical": "Pedarayudu",
+        "aliases": [
+          "Peda Rayudu"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him in a dual role as Pedarayudu and Raja.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "adirindi-alludu",
+        "canonical": "Adirindi Alludu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Gopal.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "soggadi-pellam",
+        "canonical": "Soggadi Pellam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rambabu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "adavilo-anna",
+        "canonical": "Adavilo Anna",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivaji and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "veedevadandi-babu",
+        "canonical": "Veedevadandi Babu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Sriram.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "annamayya",
+        "canonical": "Annamayya",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Saluva Narasimha.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "collector-garu",
+        "canonical": "Collector Garu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rambabu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "raayudu",
+        "canonical": "Raayudu",
+        "aliases": [
+          "Rayudu"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rayudu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "khaidi-garu",
+        "canonical": "Khaidi Garu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raju and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sri-ramulayya",
+        "canonical": "Sri Ramulayya",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramulayya.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "yamajathakudu",
+        "canonical": "Yamajathakudu",
+        "aliases": [
+          "Yama Jathakudu"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivaji and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "postman",
+        "canonical": "Postman",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Vishnu and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "rayalaseema-ramanna-chowdary",
+        "canonical": "Rayalaseema Ramanna Chowdary",
+        "aliases": [
+          "Rayalaseema Ramanna Choudhary"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ramanna and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "adhipathi",
+        "canonical": "Adhipathi",
+        "aliases": [
+          "Adhipati"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Yogendra, alias Yogi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "tappu-chesi-pappu-koodu",
+        "canonical": "Tappu Chesi Pappu Koodu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivaji and also as producer.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kondaveeti-simhasanam",
+        "canonical": "Kondaveeti Simhasanam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Satti.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "suryam",
+        "canonical": "Suryam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance as himself.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "shiva-shankar",
+        "canonical": "Shiva Shankar",
+        "aliases": [
+          "Siva Shankar"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shiv Shankar / Sivaji.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sri",
+        "canonical": "Sri",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance as Basavadu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "political-rowdy",
+        "canonical": "Political Rowdy",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Panduranga Vithal.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "game",
+        "canonical": "Game",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Pandit Raghava.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "yamadonga",
+        "canonical": "Yamadonga",
+        "aliases": [
+          "Yama Donga"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Yamadharmaraju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pandurangadu",
+        "canonical": "Pandurangadu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Muneeswarudu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "bujjigadu",
+        "canonical": "Bujjigadu",
+        "aliases": [
+          "Bujji Gadu"
+        ],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Shivanna.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "krishnarjuna",
+        "canonical": "Krishnarjuna",
+        "aliases": [
+          "Krishna Arjuna"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a cameo appearance as Baba.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "saleem",
+        "canonical": "Saleem",
+        "aliases": [
+          "Salim"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Ozo, alias Ogirala Jogaiah.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "raju-maharaju",
+        "canonical": "Raju Maharaju",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Chakravarthy.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mestri",
+        "canonical": "Mestri",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "jhummandi-naadam",
+        "canonical": "Jhummandi Naadam",
+        "aliases": [
+          "Jhummandi Nadam"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Captain Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "jagadguru-adi-shankara",
+        "canonical": "Jagadguru Adi Shankara",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Rudraksha Rushi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "pandavulu-pandavulu-tummeda",
+        "canonical": "Pandavulu Pandavulu Tummeda",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Naidu / Graha Raju.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "a-day-in-the-life-of-lakshmi-manchu-s-feet",
+        "canonical": "A day in the life of Lakshmi Manchu's feet",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as himself in this short film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "yamaleela-2",
+        "canonical": "Yamaleela 2",
+        "aliases": [
+          "Yamaleela II",
+          "Yama Leela 2"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Yama Dharma Raja.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mama-manchu-alludu-kanchu",
+        "canonical": "Mama Manchu Alludu Kanchu",
+        "aliases": [],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Bhaktavatsalam Naidu.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "luckunnodu",
+        "canonical": "Luckunnodu",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance as himself.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "mahanati",
+        "canonical": "Mahanati",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance as S. V. Ranga Rao.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "gayatri",
+        "canonical": "Gayatri",
+        "aliases": [
+          "Gayathri"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him in a dual role as Dasari Sivaji and Gayatri Patel.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "son-of-india",
+        "canonical": "Son of India",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Virupaksha.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "shaakuntalam",
+        "canonical": "Shaakuntalam",
+        "aliases": [
+          "Shakuntalam"
+        ],
+        "familiarity": 0.0087,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Durvasa Maharishi.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "kannappa",
+        "canonical": "Kannappa",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists a special appearance as Mahadeva Sastry.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "daksha-the-deadly-conspiracy",
+        "canonical": "Daksha: The Deadly Conspiracy",
+        "aliases": [
+          "Daksha"
+        ],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Dr. Viswamitra.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "srinivasa-mangapuram",
+        "canonical": "Srinivasa Mangapuram",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Venkatappaya Naidu in this 2026 entry.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "the-paradise",
+        "canonical": "The Paradise",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists him as Shikanja Maalik in this 2026 entry.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "annan-oru-koyil",
+        "canonical": "Annan Oru Koyil",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Baskar in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "thai-meethu-sathiyam",
+        "canonical": "Thai Meethu Sathiyam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Johnny in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "annai-oru-aalayam",
+        "canonical": "Annai Oru Aalayam",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Mohan in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "vetrikku-oruvan",
+        "canonical": "Vetrikku Oruvan",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Madhan in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "natchathiram",
+        "canonical": "Natchathiram",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his Tamil acting credits for 1980.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "ratha-paasam",
+        "canonical": "Ratha Paasam",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as Raj in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "garjanai",
+        "canonical": "Garjanai",
+        "aliases": [],
+        "familiarity": 0.0026,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography lists an uncredited role in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "sneham-oru-pravaaham",
+        "canonical": "Sneham Oru Pravaaham",
+        "aliases": [],
+        "familiarity": 0.0006,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Listed among his acting credits as a Malayalam film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      },
+      {
+        "id": "soorarai-pottru",
+        "canonical": "Soorarai Pottru",
+        "aliases": [],
+        "familiarity": 0.0216,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The filmography credits him as M. Bhaktavatsalam Naidu in this Tamil film.",
+        "sourceIds": [
+          "mohan-babu-filmography"
+        ]
+      }
+    ],
+    "explanation": "These titles appear in the supplied acting filmography, including supporting roles, cameos, special appearances, a short film, and listed future projects. Films listed only as productions in which he did not act are excluded.",
+    "sources": [
+      {
+        "id": "mohan-babu-filmography",
+        "title": "Mohan Babu filmography",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mohan_Babu_filmography",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "9ae83a1e31295ecb",
+    "brief": "Name a film starring Mohan Babu.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "mohan-babu-filmography",
+        "version": "1380266801",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Alluri Seetarama Raju": "1974 | Alluri Seetarama Raju | |",
+      "Kannavaari Kalalu": "1974 | Kannavaari Kalalu | |",
+      "Swargam Narakam": "1975 | Swargam Narakam | Rajesh |",
+      "Bhale Dongalu": "1976 | Bhale Dongalu | Ranga |",
+      "Athavarillu": "1976 | Athavarillu | |",
+      "O Manishi Thirigi Chudu": "1976 | O Manishi Thirigi Chudu | |",
+      "Ardhangi": "1977 | Ardhangi | |",
+      "Jeevana Teeralu": "1977 | Jeevana Teeralu | Pottu Raju |",
+      "Manushulu Chesina Dongalu": "1977 | Manushulu Chesina Dongalu | |",
+      "Bangaru Bommalu": "1977 | Bangaru Bommalu | |",
+      "Bhale Alludu": "1977 | Bhale Alludu | |",
+      "Dongalaku Donga": "1977 | Dongalaku Donga | Thufan |",
+      "Khaidi Kalidasu": "1977 | Khaidi Kalidasu | Thufan |",
+      "Kurukshetram": "1977 | Kurukshetram | Sisupala |",
+      "Tholireyi Gadichindi": "1977 | Tholireyi Gadichindi | |",
+      "Chal Mohana Ranga": "1978 | Chal Mohana Ranga | |",
+      "Pottelu Punnamma": "1978 | Pottelu Punnamma | Hari Babu |",
+      "Dongala Dopidi": "1978 | Dongala Dopidi | Jaggadu |",
+      "Gorantha Deepam": "1978 | Gorantha Deepam | |",
+      "Kalanthakulu": "1978 | Kalanthakulu | |",
+      "Kumara Raja": "1978 | Kumara Raja | |",
+      "Mugguru Muggure": "1978 | Mugguru Muggure | Raju |",
+      "Nayudu Bava": "1978 | Nayudu Bava | Suryam |",
+      "Padaharella Vayasu": "1978 | Padaharella Vayasu | Simhachalam |",
+      "Rama Krishnulu": "1978 | Rama Krishnulu | Thyagaraju |",
+      "Simha Baludu": "1978 | Simha Baludu | Gajapathi |",
+      "Simha Gharjane": "1978 | Simha Gharjane | |",
+      "Sivaranjani": "1978 | Sivaranjani | Mohan |",
+      "Vichitra Jeevitham": "1978 | Vichitra Jeevitham | Surendra Nath |",
+      "Shri Rama Bantu": "1979 | Shri Rama Bantu | Nagaraju |",
+      "Kotta Alludu": "1979 | Kotta Alludu | |",
+      "Andadu Aagadu": "1979 | Andadu Aagadu | Bhujangam |",
+      "Driver Ramudu": "1979 | Driver Ramudu | Kamal Babu |",
+      "Kalyani": "1979 | Kalyani | Raja Rao |",
+      "Captain Krishna": "1979 | Captain Krishna | |",
+      "Dongaluku Saval": "1979 | Dongaluku Saval | Sundaram |",
+      "Maavuri Devatha": "1979 | Maavuri Devatha | |",
+      "Nindu Noorellu": "1979 | Nindu Noorellu | |",
+      "Rama Banam": "1979 | Rama Banam | |",
+      "Ravanude Ramudayithe?": "1979 | Ravanude Ramudayithe? | Poolaiah |",
+      "Rangoon Rowdy": "1979 | Rangoon Rowdy | Babu |",
+      "Shokilla Rayudu": "1979 | Shokilla Rayudu | |",
+      "Amma Evarikaina Amma": "1979 | Amma Evarikaina Amma | Raja |",
+      "Kottapeta Rowdy": "1980 | Kottapeta Rowdy | Vaikuntham |",
+      "Bhale Krishnudu": "1980 | Bhale Krishnudu | |",
+      "Buchi Babu": "1980 | Buchi Babu | V.P. Rao |",
+      "Chesina Basalu": "1980 | Chesina Basalu | |",
+      "Circus Ramudu": "1980 | Circus Ramudu | Sambaiah |",
+      "Deeparadhana": "1980 | Deeparadhana | Mohan |",
+      "Dharma Chakram": "1980 | Dharma Chakram | |",
+      "Gandhara Golam": "1980 | Gandhara Golam | |",
+      "Gharana Donga": "1980 | Gharana Donga | Kishore Kumar |",
+      "Gopala Rao Gari Ammayi": "1980 | Gopala Rao Gari Ammayi | |",
+      "Guru": "1980 | Guru | Ramesh | Tamil |",
+      "Kaksha": "1980 | Kaksha | |",
+      "Ketugadu": "1980 | Ketugadu | |",
+      "Mahalakshmi": "1980 | Mahalakshmi | Rudraiah |",
+      "Manavude Mahaneeyudu": "1980 | Manavude Mahaneeyudu | |",
+      "Paalu Neelu": "1980 | Paalu Neelu | |",
+      "Pilla Zamindar": "1980 | Pilla Zamindar | |",
+      "Prema Kanuka": "1980 | Prema Kanuka | Mohan |",
+      "Ragile Hrudayalu": "1980 | Ragile Hrudayalu | Mohan |",
+      "Sarada Ramudu": "1980 | Sarada Ramudu | |",
+      "Sardar Papa Rayudu": "1980 | Sardar Papa Rayudu | |",
+      "Sita Ramulu": "1980 | Sita Ramulu | Ravi |",
+      "Sujatha": "1980 | Sujatha | |",
+      "Pelli Gola": "1980 | Pelli Gola | Ranga Raju |",
+      "Trilok Sundari": "1980 | Trilok Sundari | |",
+      "Kirayi Rowdylu": "1981 | Kirayi Rowdylu | Koti |",
+      "Chattaniki Kallu Levu": "1981 | Chattaniki Kallu Levu | |",
+      "Addala Meda": "1981 | Addala Meda | |",
+      "Prema Simhasanam": "1981 | Prema Simhasanam | Kalyan |",
+      "Aggi Ravva": "1981 | Aggi Ravva | Inspector Suryam |",
+      "Dabbu Dabbu Dabbu": "1981 | Dabbu Dabbu Dabbu | |",
+      "Kondaveeti Simham": "1981 | Kondaveeti Simham | Ravi |",
+      "Patalam Pandu": "1981 | Patalam Pandu | |",
+      "Premabhishekam": "1981 | Premabhishekam | Dr. Chakravarthy |",
+      "Satyam Shivam": "1981 | Satyam Shivam | |",
+      "Taxi Driver": "1981 | Taxi Driver | Mohan |",
+      "Billa Ranga": "1982 | Billa Ranga | Ranga & Rajaram (Dual role) |",
+      "Patnam Vachina Pativrathalu": "1982 | Patnam Vachina Pativrathalu | |",
+      "Prathigna": "1982 | Prathigna | Bharat | Also producer",
+      "Gruha Pravesam": "1982 | Gruha Pravesam | |",
+      "Chandamama": "1982 | Chandamama | |",
+      "Devatha": "1982 | Devatha | Kamesham |",
+      "Jayasudha": "1982 | Jayasudha | |",
+      "Kotha Neeru": "1982 | Kotha Neeru | |",
+      "Bangaru Koduku": "1982 | Bangaru Koduku | Ramesh |",
+      "Pralaya Rudrudu": "1982 | Pralaya Rudrudu | 'Mangalavaram' Malligadu |",
+      "Prathikaram": "1982 | Prathikaram | Rangadu |",
+      "Sawaal": "1982 | Sawaal | |",
+      "Dharma Poratam": "1983 | Dharma Poratam | Mohan | Also producer",
+      "Moogavani Paga": "1983 | Moogavani Paga | Nagaraju/Ashok Raj |",
+      "Durga Devi": "1983 | Durga Devi | |",
+      "Kala Yamudu": "1983 | Kala Yamudu | |",
+      "Kurukshetramlo Seeta": "1983 | Kurukshetramlo Seeta | |",
+      "Maro Maya Bazaar": "1983 | Maro Maya Bazaar | |",
+      "Mayagadu": "1983 | Mayagadu | |",
+      "Palletoori Pidugu": "1983 | Palletoori Pidugu | |",
+      "Police Venkataswamy": "1983 | Police Venkataswamy | |",
+      "Pralaya Garjanai": "1983 | Pralaya Garjanai | |",
+      "Rangula Puli": "1983 | Rangula Puli | |",
+      "Bhale Ramudu": "1984 | Bhale Ramudu | | Also producer",
+      "Ee Thirpu Illalidhi": "1984 | Ee Thirpu Illalidhi | |",
+      "Srimathi Kaavali": "1984 | Srimathi Kaavali | |",
+      "Padmavyuham": "1984 | Padmavyuham | | Also producer",
+      "Aada Puli": "1984 | Aada Puli | |",
+      "Grihalakshmi": "1984 | Grihalakshmi | |",
+      "Rowdy": "2014 | Rowdy | Anna Garu |",
+      "Sardar": "1984 | Sardar | |",
+      "Seethamma Pelli": "1984 | Seethamma Pelli | |",
+      "Adavi Donga": "1985 | Adavi Donga | |",
+      "Vintha Mogudu": "1985 | Vintha Mogudu | |",
+      "Edadugula Bandham": "1985 | Edadugula Bandham | | Also producer",
+      "Illaliko Pariksha": "1985 | Illaliko Pariksha | |",
+      "Maa Inti Mahalakshmi": "1985 | Maa Inti Mahalakshmi | Mohan Kumar |",
+      "Kalyana Thilakam": "1985 | Kalyana Thilakam | |",
+      "Kothapelli Kuthuru": "1985 | Kothapelli Kuthuru | |",
+      "Maro Monagadu": "1985 | Maro Monagadu | |",
+      "Nerasthudu": "1985 | Nerasthudu | Nagaraju |",
+      "Ragile Gundelu": "1985 | Ragile Gundelu | | Also producer",
+      "Sanchalanam": "1985 | Sanchalanam | |",
+      "Tirugubatu": "1985 | Tirugubatu | |",
+      "Maanavudu Daanavudu": "1986 | Maanavudu Daanavudu | | Also producer",
+      "Kondaveeti Raja": "1986 | Kondaveeti Raja | |",
+      "Nampalli Nagu": "1986 | Nampalli Nagu | |",
+      "Papikondalu": "1986 | Papikondalu | | Also director and writer",
+      "Tandra Paparayudu": "1986 | Tandra Paparayudu | Vijaya Ramaraju |",
+      "Ugra Narasimham": "1986 | Ugra Narasimham | |",
+      "Srinivasa Kalyanam": "1987 | Srinivasa Kalyanam | Bokka Lambodharam |",
+      "Chakravarthy": "1987 | Chakravarthy | Mohan Rao |",
+      "Sardar Dharmanna": "1987 | Sardar Dharmanna | |",
+      "Veera Prathap": "1987 | Veera Prathap | | Also producer",
+      "Krishna Leela": "1987 | Krishna Leela | |",
+      "Nene Raju Nene Manthri": "1987 | Nene Raju Nene Manthri | |",
+      "Viswanatha Nayakudu": "1987 | Viswanatha Nayakudu | |",
+      "Dorakani Donga": "1988 | Dorakani Donga | Cobra and Sisupal |",
+      "Yuddha Bhoomi": "1988 | Yuddha Bhoomi | |",
+      "Janaki Ramudu": "1988 | Janaki Ramudu | Balavantha Rao |",
+      "Khaidi No. 786": "1988 | Khaidi No. 786 | SI Asirayya |",
+      "Murali Krishnudu": "1988 | Murali Krishnudu | Parasuram |",
+      "Manchi Donga": "1988 | Manchi Donga | |",
+      "Atmakatha": "1988 | Atmakatha | |",
+      "Brahma Puthrudu": "1988 | Brahma Puthrudu | Ranjeeth |",
+      "Chinababu": "1988 | Chinababu | Sunnam Chinna Rao |",
+      "Donga Ramudu": "1988 | Donga Ramudu | |",
+      "Intinti Bhagavatham": "1988 | Intinti Bhagavatham | |",
+      "Praja Pratinidhi": "1988 | Praja Pratinidhi | Dasakantha Rao |",
+      "Varasudochadu": "1988 | Varasudochadu | Ambaji Rao |",
+      "Kaliyuga Karnudu": "1988 | Kaliyuga Karnudu | Adiseshu |",
+      "Lankeswarudu": "1989 | Lankeswarudu | |",
+      "Bhale Donga": "1989 | Bhale Donga | Manmadha Rao |",
+      "Vijay": "1989 | Vijay | Puligolla Pasupathi |",
+      "Agni": "1989 | Agni | |",
+      "Bala Gopaludu": "1989 | Bala Gopaludu | Govinda Babu |",
+      "Black Tiger": "1989 | Black Tiger | |",
+      "Dhruva Nakshatram": "1989 | [Dhruva Nakshatram | |",
+      "Koduku Diddina Kapuram": "1989 | Koduku Diddina Kapuram | |",
+      "Naa Mogudu Nanke Sontham": "1989 | Naa Mogudu Nanke Sontham | | Also producer",
+      "Two Town Rowdy": "1989 | Two Town Rowdy | Baba Sab |",
+      "Ontari Poratam": "1989 | Ontari Poratam | Sivangi Sivaramakrishma |",
+      "Kodama Simham": "1990 | Kodama Simham | Sudigaali |",
+      "Kondaveeti Donga": "1990 | Kondaveeti Donga | |",
+      "Maa Inti Katha": "1990 | Maa Inti Katha | | Also producer",
+      "Yama Dharmaraju": "1990 | Yama Dharmaraju | |",
+      "Alludugaru": "1990 | Alludugaru | Vishnu | Also producer",
+      "Kadapa Reddamma": "1990 | Kadapa Reddamma | |",
+      "Prananiki Pranam": "1990 | Prananiki Pranam | Rasool |",
+      "Prema Yuddham": "1990 | Prema Yuddham | Jayasimha |",
+      "Rowdy Gari Pellam": "1991 | Rowdy Gari Pellam | Rambabu | Also producer",
+      "Agni Nakshatram": "1991 | Agni Nakshatram | |",
+      "Coolie No. 1": "1991 | Coolie No. 1 | Gopal |",
+      "Assembly Rowdy": "1991 | Assembly Rowdy | Shivaji | Also producer",
+      "Alludu Diddina Kapuram": "1991 | Alludu Diddina Kapuram | Jaganatham |",
+      "Peddintalludu": "1991 | Peddintalludu | Goodala Kanna Rao |",
+      "Prema Panjaram": "1991 | Prema Panjaram | |",
+      "Brahma": "1992 | Brahma | Ravi Varma | Also producer",
+      "Allari Mogudu": "1992 | Allari Mogudu | Gopal |",
+      "Donga Police": "1992 | Donga Police | Rambabu |",
+      "Detective Narada": "1992 | Detective Narada | Naarada |",
+      "Samrat Ashoka": "1992 | Samrat Ashoka | Malavasimha Rudradeva |",
+      "Kunti Puthrudu": "1993 | Kunti Puthrudu | Rambabu | Also producer",
+      "Chittemma Mogudu": "1993 | Chittemma Mogudu | Sai Krishna |",
+      "Major Chandrakanth": "1993 | Major Chandrakanth | Shivaji | Also producer",
+      "Rowdy Mogudu": "1993 | Rowdy Mogudu | Kaali |",
+      "Allari Police": "1994 | Allari Police | Venkata Ramana & Ashok (Dual role) | Also producer",
+      "Punya Bhoomi Naa Desam": "1994 | Punya Bhoomi Naa Desam | Bharath | Also producer",
+      "M. Dharmaraju M.A.": "1994 | M. Dharmaraju M.A. | M Dharmaraju & Satyam (Dual role) |",
+      "Pedarayudu": "1995 | Pedarayudu | Pedarayudu & Raja (Dual role) | Also producer",
+      "Adirindi Alludu": "1996 | Adirindi Alludu | Gopal |",
+      "Soggadi Pellam": "1996 | Soggadi Pellam | Rambabu |",
+      "Adavilo Anna": "1997 | Adavilo Anna | Shivaji | Also producer",
+      "Veedevadandi Babu": "1997 | Veedevadandi Babu | Sriram |",
+      "Annamayya": "1997 | Annamayya | Saluva Narasimha |",
+      "Collector Garu": "1997 | Collector Garu | Rambabu | Also producer",
+      "Raayudu": "1998 | Raayudu | Rayudu | Also producer",
+      "Khaidi Garu": "1998 | Khaidi Garu | Raju | Also producer",
+      "Sri Ramulayya": "1999 | Sri Ramulayya | Ramulayya |",
+      "Yamajathakudu": "1999 | Yamajathakudu | Shivaji | Also producer",
+      "Postman": "2000 | Postman | Vishnu | Also producer",
+      "Rayalaseema Ramanna Chowdary": "2000 | Rayalaseema Ramanna Chowdary | Ramanna | Also producer",
+      "Adhipathi": "2001 | Adhipathi | Yogendra alias Yogi | Also producer",
+      "Tappu Chesi Pappu Koodu": "2002 | Tappu Chesi Pappu Koodu | Shivaji | Also producer",
+      "Kondaveeti Simhasanam": "2002 | Kondaveeti Simhasanam | Satti |",
+      "Suryam": "2004 | Suryam | Himself | Also producer Special appearance",
+      "Shiva Shankar": "2004 | Shiva Shankar | Shiv Shankar / Sivaji | Also producer",
+      "Sri": "2005 | Sri | Basavadu | Special appearance",
+      "Political Rowdy": "2005 | Political Rowdy | Panduranga Vithal | Also producer",
+      "Game": "2006 | Game | Pandit Raghava | Also producer",
+      "Yamadonga": "2007 | Yamadonga | Yamadharmaraju |",
+      "Pandurangadu": "2008 | Pandurangadu | Muneeswarudu |",
+      "Bujjigadu": "2008 | Bujjigadu | Shivanna |",
+      "Krishnarjuna": "2008 | Krishnarjuna | Baba | Also producer Cameo appearance",
+      "Saleem": "2009 | Saleem | Ozo alias Ogirala Jogaiah |",
+      "Raju Maharaju": "2009 | Raju Maharaju | Chakravarthy |",
+      "Mestri": "2009 | Mestri | | Special appearance",
+      "Jhummandi Naadam": "2010 | Jhummandi Naadam | Captain Rao |",
+      "Jagadguru Adi Shankara": "2013 | Jagadguru Adi Shankara | Rudraksha Rushi |",
+      "Pandavulu Pandavulu Tummeda": "2014 | Pandavulu Pandavulu Tummeda | Naidu / Graha Raju |",
+      "A day in the life of Lakshmi Manchu's feet": "2014 | A day in the life of Lakshmi Manchu's feet | Himself | Short film",
+      "Yamaleela 2": "2014 | Yamaleela 2 | Yama Dharma Raja |",
+      "Mama Manchu Alludu Kanchu": "2015 | Mama Manchu Alludu Kanchu | Bhaktavatsalam Naidu |",
+      "Luckunnodu": "2017 | Luckunnodu | Himself | Special appearance",
+      "Mahanati": "2018 | Mahanati | S. V. Ranga Rao | Special appearance",
+      "Gayatri": "2018 | Gayatri | Dasari Sivaji & Gayatri Patel | Also producer; dual role",
+      "Son of India": "2022 | Son of India | Virupaksha | Also screenplay writer",
+      "Shaakuntalam": "2023 | Shaakuntalam | Durvasa Maharishi |",
+      "Kannappa": "2025 | Kannappa | Mahadeva Sastry | Also producer & Special appearance",
+      "Daksha: The Deadly Conspiracy": "2025 | Daksha: The Deadly Conspiracy | Dr. Viswamitra | Also Producer",
+      "Srinivasa Mangapuram": "2026 | Srinivasa Mangapuram | Venkatappaya Naidu |",
+      "The Paradise": "2026 | The Paradise | Shikanja Maalik |",
+      "Annan Oru Koyil": "1977 | Annan Oru Koyil | Baskar | Tamil",
+      "Thai Meethu Sathiyam": "1978 | Thai Meethu Sathiyam | Johnny | Tamil |",
+      "Annai Oru Aalayam": "1979 | Annai Oru Aalayam | Mohan | Tamil |",
+      "Vetrikku Oruvan": "1979 | Vetrikku Oruvan | Madhan | Tamil |",
+      "Natchathiram": "1980 | Natchathiram | | Tamil |",
+      "Ratha Paasam": "1980 | Ratha Paasam | Raj | Tamil |",
+      "Garjanai": "1981 | Garjanai | | Tamil | Uncredited role",
+      "Sneham Oru Pravaaham": "1981 | Sneham Oru Pravaaham | | Malayalam |",
+      "Soorarai Pottru": "2020 | Soorarai Pottru | M. Bhaktavatsalam Naidu | Tamil | Amazon Prime Video film"
+    },
+    "issues": []
+  }
+}

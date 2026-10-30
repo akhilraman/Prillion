@@ -1,0 +1,2662 @@
+{
+  "question": {
+    "id": "space-earth-craters",
+    "category": "space",
+    "prompt": "Name an impact crater or confirmed impact structure on Earth.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "jinlin",
+        "canonical": "Jinlin",
+        "aliases": [
+          "Jinlin crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jinlin as a confirmed impact structure in China.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "wabar",
+        "canonical": "Wabar",
+        "aliases": [
+          "Wabar craters"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Wabar as a confirmed impact structure in Saudi Arabia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "dalgaranga",
+        "canonical": "Dalgaranga",
+        "aliases": [
+          "Dalgaranga crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Dalgaranga as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "whitecourt",
+        "canonical": "Whitecourt",
+        "aliases": [
+          "Whitecourt crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Whitecourt as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kaali",
+        "canonical": "Kaali",
+        "aliases": [
+          "Kaali crater",
+          "Kaali craters"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kaali as a confirmed impact structure in Estonia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "campo-del-cielo",
+        "canonical": "Campo del Cielo",
+        "aliases": [],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Campo del Cielo as a confirmed impact structure in Argentina.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "henbury",
+        "canonical": "Henbury",
+        "aliases": [
+          "Henbury craters"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Henbury as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "morasko",
+        "canonical": "Morasko",
+        "aliases": [
+          "Morasko craters"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Morasko as a confirmed impact structure in Poland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "boxhole",
+        "canonical": "Boxhole",
+        "aliases": [
+          "Boxhole crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Boxhole as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "macha",
+        "canonical": "Macha",
+        "aliases": [
+          "Macha crater field"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Macha as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "luna",
+        "canonical": "Luna",
+        "aliases": [
+          "Luna crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Luna as a confirmed impact structure in India.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "wolfe-creek",
+        "canonical": "Wolfe Creek",
+        "aliases": [
+          "Wolfe Creek crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Wolfe Creek as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "hickman",
+        "canonical": "Hickman",
+        "aliases": [
+          "Hickman crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Hickman as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kalkkop",
+        "canonical": "Kalkkop",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kalkkop as a confirmed impact structure in South Africa.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "jeokjung-chogye-basin",
+        "canonical": "Jeokjung-Chogye Basin",
+        "aliases": [
+          "Jeokjung-Chogye"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jeokjung-Chogye Basin as a confirmed impact structure in South Korea.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "monturaqui",
+        "canonical": "Monturaqui",
+        "aliases": [
+          "Monturaqui crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Monturaqui as a confirmed impact structure in Chile.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "pantasma",
+        "canonical": "Pantasma",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Pantasma as a confirmed impact structure in Nicaragua.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "amguid",
+        "canonical": "Amguid",
+        "aliases": [
+          "Amguid crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Amguid as a confirmed impact structure in Algeria.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "aorounga-central",
+        "canonical": "Aorounga Central",
+        "aliases": [
+          "Aorounga"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Aorounga Central as a confirmed impact structure in Chad.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "yilan",
+        "canonical": "Yilan",
+        "aliases": [
+          "Yilan crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Yilan as a confirmed impact structure in China.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "meteor-barringer",
+        "canonical": "Meteor/Barringer",
+        "aliases": [
+          "Meteor Crater",
+          "Barringer",
+          "Barringer Crater",
+          "Meteor"
+        ],
+        "familiarity": 0.0417,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Meteor/Barringer as a confirmed impact structure in Arizona.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "xiuyan",
+        "canonical": "Xiuyan",
+        "aliases": [
+          "Xiuyan crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Xiuyan as a confirmed impact structure in China.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lonar",
+        "canonical": "Lonar",
+        "aliases": [
+          "Lonar crater",
+          "Lonar Lake"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lonar as a confirmed impact structure in India.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "agoudal",
+        "canonical": "Agoudal",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Agoudal as a confirmed impact structure in Morocco.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tswaing",
+        "canonical": "Tswaing",
+        "aliases": [
+          "Tswaing crater",
+          "Pretoria Saltpan"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tswaing as a confirmed impact structure in South Africa.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "zhamanshin",
+        "canonical": "Zhamanshin",
+        "aliases": [
+          "Zhamanshin crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Zhamanshin as a confirmed impact structure in Kazakhstan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tenoumer",
+        "canonical": "Tenoumer",
+        "aliases": [
+          "Tenoumer crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tenoumer as a confirmed impact structure in Mauritania.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "bosumtwi",
+        "canonical": "Bosumtwi",
+        "aliases": [
+          "Lake Bosumtwi",
+          "Bosumtwi crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Bosumtwi as a confirmed impact structure in Ghana.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "new-quebec-pingualuit",
+        "canonical": "New Quebec/Pingualuit",
+        "aliases": [
+          "New Quebec",
+          "Pingualuit",
+          "Pingualuit crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists New Quebec/Pingualuit as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "el-gygytgyn",
+        "canonical": "El'gygytgyn",
+        "aliases": [
+          "Elgygytgyn",
+          "Lake Elgygytgyn"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists El'gygytgyn as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "bigach",
+        "canonical": "Bigach",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Bigach as a confirmed impact structure in Kazakhstan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "karla",
+        "canonical": "Karla",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Karla as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "alhama-de-almer-a",
+        "canonical": "Alhama de Almería",
+        "aliases": [
+          "Alhama de Almeria"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Alhama de Almería as a confirmed impact structure in Spain.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "roter-kamm",
+        "canonical": "Roter Kamm",
+        "aliases": [
+          "Roter Kamm crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Roter Kamm as a confirmed impact structure in Namibia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "talemzane",
+        "canonical": "Talemzane",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Talemzane as a confirmed impact structure in Algeria.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tsenkher",
+        "canonical": "Tsenkher",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tsenkher as a confirmed impact structure in Mongolia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "aouelloul",
+        "canonical": "Aouelloul",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Aouelloul as a confirmed impact structure in Mauritania.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "vredefort",
+        "canonical": "Vredefort",
+        "aliases": [
+          "Vredefort crater",
+          "Vredefort Dome"
+        ],
+        "familiarity": 0.0417,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Vredefort as a confirmed impact structure in South Africa.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "chicxulub",
+        "canonical": "Chicxulub",
+        "aliases": [
+          "Chicxulub crater"
+        ],
+        "familiarity": 0.0417,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Chicxulub as a confirmed impact structure in Mexico.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "sudbury",
+        "canonical": "Sudbury",
+        "aliases": [
+          "Sudbury Basin",
+          "Sudbury crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Sudbury as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "popigai",
+        "canonical": "Popigai",
+        "aliases": [
+          "Popigai crater",
+          "Popigai impact structure"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Popigai as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "manicouagan",
+        "canonical": "Manicouagan",
+        "aliases": [
+          "Manicouagan crater",
+          "Manicouagan impact structure"
+        ],
+        "familiarity": 0.0417,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Manicouagan as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "acraman",
+        "canonical": "Acraman",
+        "aliases": [
+          "Acraman crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Acraman as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "morokweng",
+        "canonical": "Morokweng",
+        "aliases": [
+          "Morokweng crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Morokweng as a confirmed impact structure in South Africa.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kara",
+        "canonical": "Kara",
+        "aliases": [
+          "Kara crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kara as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "beaverhead",
+        "canonical": "Beaverhead",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Beaverhead as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tookoonooka",
+        "canonical": "Tookoonooka",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tookoonooka as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "charlevoix",
+        "canonical": "Charlevoix",
+        "aliases": [
+          "Charlevoix impact structure"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Charlevoix as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "siljan-ring",
+        "canonical": "Siljan Ring",
+        "aliases": [
+          "Siljan"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Siljan Ring as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "karakul",
+        "canonical": "Karakul",
+        "aliases": [
+          "Kara-Kul"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Karakul as a confirmed impact structure in Tajikistan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "montagnais",
+        "canonical": "Montagnais",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Montagnais as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "araguainha",
+        "canonical": "Araguainha",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Araguainha as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "chesapeake-bay",
+        "canonical": "Chesapeake Bay",
+        "aliases": [
+          "Chesapeake Bay crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Chesapeake Bay as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mj-lnir",
+        "canonical": "Mjølnir",
+        "aliases": [
+          "Mjolnir"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mjølnir as a confirmed impact structure in Norway.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "puchezh-katunki",
+        "canonical": "Puchezh-Katunki",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Puchezh-Katunki as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "saint-martin",
+        "canonical": "Saint Martin",
+        "aliases": [
+          "St Martin"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Saint Martin as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "woodleigh",
+        "canonical": "Woodleigh",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Woodleigh as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "carswell",
+        "canonical": "Carswell",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Carswell as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "clearwater-west",
+        "canonical": "Clearwater West",
+        "aliases": [
+          "West Clearwater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Clearwater West as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "manson",
+        "canonical": "Manson",
+        "aliases": [
+          "Manson crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Manson as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "hiawatha",
+        "canonical": "Hiawatha",
+        "aliases": [
+          "Hiawatha crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Hiawatha as a confirmed impact structure in Greenland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "slate-islands",
+        "canonical": "Slate Islands",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Slate Islands as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "yarrabubba",
+        "canonical": "Yarrabubba",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Yarrabubba as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "keurusselk",
+        "canonical": "Keurusselkä",
+        "aliases": [
+          "Keurusselka"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Keurusselkä as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "shoemaker",
+        "canonical": "Shoemaker",
+        "aliases": [
+          "Shoemaker crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Shoemaker as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mistastin",
+        "canonical": "Mistastin",
+        "aliases": [
+          "Mistastin crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mistastin as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "clearwater-east",
+        "canonical": "Clearwater East",
+        "aliases": [
+          "East Clearwater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Clearwater East as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kamensk",
+        "canonical": "Kamensk",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kamensk as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "steen-river",
+        "canonical": "Steen River",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Steen River as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "strangways",
+        "canonical": "Strangways",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Strangways as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tunnunik",
+        "canonical": "Tunnunik",
+        "aliases": [
+          "Tunuunik"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tunnunik as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "boltysh",
+        "canonical": "Boltysh",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Boltysh as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "n-rdlinger-ries",
+        "canonical": "Nördlinger Ries",
+        "aliases": [
+          "Nordlinger Ries",
+          "Ries crater",
+          "Ries"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Nördlinger Ries as a confirmed impact structure in Germany.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "presqu-le",
+        "canonical": "Presqu'île",
+        "aliases": [
+          "Presqu'ile",
+          "Presquile"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Presqu'île as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "haughton",
+        "canonical": "Haughton",
+        "aliases": [
+          "Haughton crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Haughton as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lappaj-rvi",
+        "canonical": "Lappajärvi",
+        "aliases": [
+          "Lappajarvi"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lappajärvi as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "rochechouart",
+        "canonical": "Rochechouart",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Rochechouart as a confirmed impact structure in France.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "cerro-do-jarau",
+        "canonical": "Cerro do Jarau",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Cerro do Jarau as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "cleanskin",
+        "canonical": "Cleanskin",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Cleanskin as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "amelia-creek",
+        "canonical": "Amelia Creek",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Amelia Creek as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "avak",
+        "canonical": "Avak",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Avak as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ames",
+        "canonical": "Ames",
+        "aliases": [
+          "Ames crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ames as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "beyenchime-salaatin",
+        "canonical": "Beyenchime-Salaatin",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Beyenchime-Salaatin as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "bp",
+        "canonical": "BP",
+        "aliases": [
+          "BP crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists BP as a confirmed impact structure in Libya.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "brent",
+        "canonical": "Brent",
+        "aliases": [
+          "Brent crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Brent as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "calvin",
+        "canonical": "Calvin",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Calvin as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "chiyli",
+        "canonical": "Chiyli",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Chiyli as a confirmed impact structure in Kazakhstan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "chukcha",
+        "canonical": "Chukcha",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Chukcha as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "cloud-creek",
+        "canonical": "Cloud Creek",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Cloud Creek as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "colonia",
+        "canonical": "Colonia",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Colonia as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "connolly-basin",
+        "canonical": "Connolly Basin",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Connolly Basin as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "couture",
+        "canonical": "Couture",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Couture as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "crooked-creek",
+        "canonical": "Crooked Creek",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Crooked Creek as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "decaturville",
+        "canonical": "Decaturville",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Decaturville as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "decorah",
+        "canonical": "Decorah",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Decorah as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "deep-bay",
+        "canonical": "Deep Bay",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Deep Bay as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "dellen",
+        "canonical": "Dellen",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Dellen as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "des-plaines",
+        "canonical": "Des Plaines",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Des Plaines as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "dhala",
+        "canonical": "Dhala",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Dhala as a confirmed impact structure in India.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "dobele",
+        "canonical": "Dobele",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Dobele as a confirmed impact structure in Latvia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "douglas",
+        "canonical": "Douglas",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Douglas as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "eagle-butte",
+        "canonical": "Eagle Butte",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Eagle Butte as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "elbow",
+        "canonical": "Elbow",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Elbow as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "flaxman",
+        "canonical": "Flaxman",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Flaxman as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "flynn-creek",
+        "canonical": "Flynn Creek",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Flynn Creek as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "foelsche",
+        "canonical": "Foelsche",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Foelsche as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "gardnos",
+        "canonical": "Gardnos",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Gardnos as a confirmed impact structure in Norway.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "glasford",
+        "canonical": "Glasford",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Glasford as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "glikson",
+        "canonical": "Glikson",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Glikson as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "glover-bluff",
+        "canonical": "Glover Bluff",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Glover Bluff as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "goat-paddock",
+        "canonical": "Goat Paddock",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Goat Paddock as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "gosses-bluff",
+        "canonical": "Gosses Bluff",
+        "aliases": [
+          "Gosses Bluff crater"
+        ],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Gosses Bluff as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "gow",
+        "canonical": "Gow",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Gow as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "goyder",
+        "canonical": "Goyder",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Goyder as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "granby",
+        "canonical": "Granby",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Granby as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "gweni-fada",
+        "canonical": "Gweni-Fada",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Gweni-Fada as a confirmed impact structure in Chad.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "holleford",
+        "canonical": "Holleford",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Holleford as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "hummeln",
+        "canonical": "Hummeln",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Hummeln as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ile-rouleau",
+        "canonical": "Ile Rouleau",
+        "aliases": [
+          "Île Rouleau"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ile Rouleau as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ilkurlka",
+        "canonical": "Ilkurlka",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ilkurlka as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ilyinets",
+        "canonical": "Ilyinets",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ilyinets as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "iso-naakkima",
+        "canonical": "Iso-Naakkima",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Iso-Naakkima as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "jake-seller-draw",
+        "canonical": "Jake Seller Draw",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jake Seller Draw as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "j-nisj-rvi",
+        "canonical": "Jänisjärvi",
+        "aliases": [
+          "Janisjarvi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jänisjärvi as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "jabel-waqf-as-suwwan",
+        "canonical": "Jabel Waqf as Suwwan",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Jabel Waqf as Suwwan as a confirmed impact structure in Jordan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kaluga",
+        "canonical": "Kaluga",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kaluga as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kamenetsk",
+        "canonical": "Kamenetsk",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kamenetsk as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kardla",
+        "canonical": "Kardla",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kardla as a confirmed impact structure in Estonia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "karikkoselk",
+        "canonical": "Karikkoselkä",
+        "aliases": [
+          "Karikkoselka"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Karikkoselkä as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kelly-west",
+        "canonical": "Kelly West",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kelly West as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kentland",
+        "canonical": "Kentland",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kentland as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kgagodi",
+        "canonical": "Kgagodi",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kgagodi as a confirmed impact structure in Botswana.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "kursk",
+        "canonical": "Kursk",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Kursk as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "la-moinerie",
+        "canonical": "La Moinerie",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists La Moinerie as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lake-raeside",
+        "canonical": "Lake Raeside",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lake Raeside as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lawn-hill",
+        "canonical": "Lawn Hill",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lawn Hill as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "liverpool",
+        "canonical": "Liverpool",
+        "aliases": [
+          "Liverpool crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Liverpool as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lockne",
+        "canonical": "Lockne",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lockne as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "logancha",
+        "canonical": "Logancha",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Logancha as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "logoisk",
+        "canonical": "Logoisk",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Logoisk as a confirmed impact structure in Belarus.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "luizi",
+        "canonical": "Luizi",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Luizi as a confirmed impact structure in the Democratic Republic of the Congo.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "lumparn",
+        "canonical": "Lumparn",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Lumparn as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "malingen",
+        "canonical": "Malingen",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Malingen as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "maple-creek",
+        "canonical": "Maple Creek",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Maple Creek as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "marquez",
+        "canonical": "Marquez",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Marquez as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "matt-wilson",
+        "canonical": "Matt Wilson",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Matt Wilson as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "middlesboro",
+        "canonical": "Middlesboro",
+        "aliases": [
+          "Middlesboro crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Middlesboro as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mien",
+        "canonical": "Mien",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mien as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mishina-gora",
+        "canonical": "Mishina Gora",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mishina Gora as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mizarai",
+        "canonical": "Mizarai",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mizarai as a confirmed impact structure in Lithuania.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "mount-toondina",
+        "canonical": "Mount Toondina",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Mount Toondina as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "neugrund",
+        "canonical": "Neugrund",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Neugrund as a confirmed impact structure in Estonia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "newporte",
+        "canonical": "Newporte",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Newporte as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "nicholson",
+        "canonical": "Nicholson",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Nicholson as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "nova-colinas",
+        "canonical": "Nova Colinas",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Nova Colinas as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "oasis",
+        "canonical": "Oasis",
+        "aliases": [
+          "Oasis crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Oasis as a confirmed impact structure in Libya.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "obolon",
+        "canonical": "Obolon'",
+        "aliases": [
+          "Obolon"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Obolon' as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ora-banda",
+        "canonical": "Ora Banda",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ora Banda as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ouarkziz",
+        "canonical": "Ouarkziz",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ouarkziz as a confirmed impact structure in Algeria.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "paasselk",
+        "canonical": "Paasselkä",
+        "aliases": [
+          "Paasselka"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Paasselkä as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "pilot",
+        "canonical": "Pilot",
+        "aliases": [
+          "Pilot crater"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Pilot as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ragozinka",
+        "canonical": "Ragozinka",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ragozinka as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ramgarh",
+        "canonical": "Ramgarh",
+        "aliases": [
+          "Ramgarh crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ramgarh as a confirmed impact structure in India.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "red-wing",
+        "canonical": "Red Wing",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Red Wing as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "riach-o",
+        "canonical": "Riachão",
+        "aliases": [
+          "Riachao"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Riachão as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ritland",
+        "canonical": "Ritland",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ritland as a confirmed impact structure in Norway.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "rock-elm",
+        "canonical": "Rock Elm",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Rock Elm as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "rotmistrovka",
+        "canonical": "Rotmistrovka",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Rotmistrovka as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "s-ksj-rvi",
+        "canonical": "Sääksjärvi",
+        "aliases": [
+          "Saaksjarvi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Sääksjärvi as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "saarij-rvi",
+        "canonical": "Saarijärvi",
+        "aliases": [
+          "Saarijarvi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Saarijärvi as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "santa-fe",
+        "canonical": "Santa Fe",
+        "aliases": [
+          "Santa Fe impact structure"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Santa Fe as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "santa-marta",
+        "canonical": "Santa Marta",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Santa Marta as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "saqqar",
+        "canonical": "Saqqar",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Saqqar as a confirmed impact structure in Saudi Arabia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "serpent-mound",
+        "canonical": "Serpent Mound",
+        "aliases": [
+          "Serpent Mound crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Serpent Mound as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "serra-da-cangalha",
+        "canonical": "Serra da Cangalha",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Serra da Cangalha as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "shunak",
+        "canonical": "Shunak",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Shunak as a confirmed impact structure in Kazakhstan.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "sierra-madera",
+        "canonical": "Sierra Madera",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Sierra Madera as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "s-derfj-rden",
+        "canonical": "Söderfjärden",
+        "aliases": [
+          "Soderfjarden"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Söderfjärden as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "spider",
+        "canonical": "Spider",
+        "aliases": [
+          "Spider crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Spider as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "steinheim",
+        "canonical": "Steinheim",
+        "aliases": [
+          "Steinheim crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Steinheim as a confirmed impact structure in Germany.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "suavj-rvi",
+        "canonical": "Suavjärvi",
+        "aliases": [
+          "Suavjarvi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Suavjärvi as a confirmed impact structure in Russia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "summasj-rvi",
+        "canonical": "Summasjärvi",
+        "aliases": [
+          "Summasjarvi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Summasjärvi as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "suvasvesi-north",
+        "canonical": "Suvasvesi North",
+        "aliases": [
+          "North Suvasvesi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Suvasvesi North as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "suvasvesi-south",
+        "canonical": "Suvasvesi South",
+        "aliases": [
+          "South Suvasvesi"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Suvasvesi South as a confirmed impact structure in Finland.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tabun-khara-obo",
+        "canonical": "Tabun-Khara-Obo",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tabun-Khara-Obo as a confirmed impact structure in Mongolia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "talundilly",
+        "canonical": "Talundilly",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Talundilly as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "ternovka",
+        "canonical": "Ternovka",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Ternovka as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tin-bider",
+        "canonical": "Tin Bider",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tin Bider as a confirmed impact structure in Algeria.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "tvaren",
+        "canonical": "Tvaren",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Tvaren as a confirmed impact structure in Sweden.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "upheaval-dome",
+        "canonical": "Upheaval Dome",
+        "aliases": [],
+        "familiarity": 0.0167,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Upheaval Dome as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "vargeao-dome",
+        "canonical": "Vargeao Dome",
+        "aliases": [
+          "Vargeão Dome",
+          "Vargeao",
+          "Vargeão"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Vargeao Dome as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "vepriai",
+        "canonical": "Vepriai",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Vepriai as a confirmed impact structure in Lithuania.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "viewfield",
+        "canonical": "Viewfield",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Viewfield as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "vista-alegre",
+        "canonical": "Vista Alegre",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Vista Alegre as a confirmed impact structure in Brazil.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "wanapitei",
+        "canonical": "Wanapitei",
+        "aliases": [],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Wanapitei as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "wells-creek",
+        "canonical": "Wells Creek",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Wells Creek as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "west-hawk",
+        "canonical": "West Hawk",
+        "aliases": [
+          "West Hawk Lake"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists West Hawk as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "wetumpka",
+        "canonical": "Wetumpka",
+        "aliases": [
+          "Wetumpka crater"
+        ],
+        "familiarity": 0.005,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Wetumpka as a confirmed impact structure in the United States.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "yallalie",
+        "canonical": "Yallalie",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Yallalie as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "zapadnaya",
+        "canonical": "Zapadnaya",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Zapadnaya as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "zeleny-gai",
+        "canonical": "Zeleny Gai",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Zeleny Gai as a confirmed impact structure in Ukraine.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "miralga",
+        "canonical": "Miralga",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Miralga as a confirmed impact structure in Australia.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      },
+      {
+        "id": "uhackatik",
+        "canonical": "Uhackatik",
+        "aliases": [
+          "Uhacktik"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The source lists Uhackatik as a confirmed impact structure in Canada.",
+        "sourceIds": [
+          "list-of-impact-structures-on-earth"
+        ]
+      }
+    ],
+    "explanation": "Earth's impact structures include recognizable craters as well as ancient, eroded or buried structures. The source groups confirmed examples by age and includes sites across the world.",
+    "sources": [
+      {
+        "id": "list-of-impact-structures-on-earth",
+        "title": "List of impact structures on Earth",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_impact_structures_on_Earth",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "A named terrestrial impact crater or structure listed as confirmed in the supplied source; inferred impact events without an identified structure do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "80821429dce8617f",
+    "brief": "Name an impact crater on Earth.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-impact-structures-on-earth",
+        "version": "1381890264",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Jinlin": "Jinlin | Guangdong Province | China | 000.9",
+      "Wabar": "Wabar | Rub' al Khali desert | Saudi Arabia",
+      "Dalgaranga": "Dalgaranga | Western Australia | Australia",
+      "Whitecourt": "Whitecourt | Alberta | Canada | 000.04",
+      "Kaali": "Kaali | Saaremaa | Estonia | 000.1",
+      "Campo del Cielo": "Campo del Cielo | Chaco | Argentina | 000.1",
+      "Henbury": "Henbury | Northern Territory | Australia | 000.2",
+      "Morasko": "Morasko | Poznań | Poland | 000.1",
+      "Boxhole": "Boxhole | Northern Territory | Australia | 000.2",
+      "Macha": "Macha | Sakha Republic | Russia | 000.3",
+      "Luna": "Luna | Gujarat | India | 1.5–1.8",
+      "Wolfe Creek": "Wolfe Creek | Western Australia | Australia | 0.9",
+      "Hickman": "Hickman | Western Australia | Australia | 0.26",
+      "Kalkkop": "Kalkkop | Eastern Cape | South Africa | 0.64",
+      "Jeokjung-Chogye Basin": "Jeokjung-Chogye Basin | Gyeongsangnam | South Korea | 8",
+      "Monturaqui": "Monturaqui | Atacama Desert | Chile | 0.455",
+      "Pantasma": "Pantasma | Jinotega | Nicaragua | 14",
+      "Amguid": "Amguid | Tamanrasset | Algeria | 0.45",
+      "Aorounga Central": "Aorounga Central | Borkou | Chad | 16",
+      "Yilan": "Yilan | Heilongjiang | China | 1.85",
+      "Meteor/Barringer": "Meteor/Barringer | Arizona | United States | 1.2",
+      "Xiuyan": "Xiuyan | Xiuyan | China | 1.8",
+      "Lonar": "Lonar | Maharashtra | India | 1.8",
+      "Agoudal": "Agoudal | Atlas Mountains | Morocco | 3.0",
+      "Tswaing": "Tswaing | Pretoria Saltpan | South Africa | 1.1",
+      "Zhamanshin": "Zhamanshin | Kazakhstan | Kazakhstan | 14.0",
+      "Tenoumer": "Tenoumer | Sahara Desert | Mauritania | 1.9",
+      "Bosumtwi": "Bosumtwi | Ashanti | Ghana | 10",
+      "New Quebec/Pingualuit": "New Quebec/Pingualuit | Quebec | Canada | 3.4",
+      "El'gygytgyn": "El'gygytgyn | Chukotka Autonomous Okrug | Russia | 18",
+      "Bigach": "Bigach | Kazakhstan | Kazakhstan | 8",
+      "Karla": "Karla | Tatarstan | Russia | 10",
+      "Alhama de Almería": "Alhama de Almería | Almería | Spain | 22",
+      "Roter Kamm": "Roter Kamm | Karas | Namibia | 2.4",
+      "Talemzane": "Talemzane | Djelfa | Algeria | 1.6",
+      "Tsenkher": "Tsenkher | Gobi-Altai | Mongolia | 3.7",
+      "Aouelloul": "Aouelloul | Adrar | Mauritania | 0.39",
+      "Vredefort": "Vredefort | Free State | South Africa | 160",
+      "Chicxulub": "Chicxulub | Yucatán | Mexico | 150",
+      "Sudbury": "Sudbury | Ontario | Canada | 130",
+      "Popigai": "Popigai | Siberia | Russia | 100",
+      "Manicouagan": "Manicouagan | Quebec | Canada | 100",
+      "Acraman": "Acraman | South Australia | Australia | 90",
+      "Morokweng": "Morokweng | Kalahari Desert | South Africa | 70",
+      "Kara": "Kara | Nenetsia | Russia | 65",
+      "Beaverhead": "Beaverhead | Idaho and Montana | United States | 60",
+      "Tookoonooka": "Tookoonooka | Queensland | Australia | 66",
+      "Charlevoix": "Charlevoix | Quebec | Canada | 54",
+      "Siljan Ring": "Siljan Ring | Dalarna | Sweden | 65–75",
+      "Karakul": "Karakul | Pamir Mountains | Tajikistan | 52",
+      "Montagnais": "Montagnais | Nova Scotia | Canada | 45",
+      "Araguainha": "Araguainha | Central Brazil | Brazil | 40",
+      "Chesapeake Bay": "Chesapeake Bay | Virginia | United States | 40",
+      "Mjølnir": "Mjølnir | Barents Sea | Norway | 40",
+      "Puchezh-Katunki": "Puchezh-Katunki | Nizhny Novgorod Oblast | Russia | 40",
+      "Saint Martin": "Saint Martin | Manitoba | Canada | 40",
+      "Woodleigh": "Woodleigh | Western Australia | Australia | 40",
+      "Carswell": "Carswell | Saskatchewan | Canada | 39",
+      "Clearwater West": "Clearwater West | Quebec | Canada | 36",
+      "Manson": "Manson | Iowa | United States | 35",
+      "Hiawatha": "Hiawatha | Greenland | Denmark | 31",
+      "Slate Islands": "Slate Islands | Ontario | Canada | 30",
+      "Yarrabubba": "Yarrabubba | Western Australia | Australia | 30",
+      "Keurusselkä": "Keurusselkä | Western Finland | Finland | 30",
+      "Shoemaker": "Shoemaker | Western Australia | Australia | 30",
+      "Mistastin": "Mistastin | Newfoundland and Labrador | Canada | 28",
+      "Clearwater East": "Clearwater East | Quebec | Canada | 26",
+      "Kamensk": "Kamensk | Southern Federal District | Russia | 25",
+      "Steen River": "Steen River | Alberta | Canada | 25",
+      "Strangways": "Strangways | Northern Territory | Australia | 25",
+      "Tunnunik": "Tunnunik | Northwest Territories | Canada | 25",
+      "Boltysh": "Boltysh | Kirovohrad Oblast | Ukraine | 24",
+      "Nördlinger Ries": "Nördlinger Ries | Bavaria, Baden-Württemberg | Germany | 24",
+      "Presqu'île": "Presqu'île | Quebec | Canada | 24",
+      "Haughton": "Haughton | Nunavut | Canada | 23",
+      "Lappajärvi": "Lappajärvi | Western Finland | Finland | 23",
+      "Rochechouart": "Rochechouart | France | France | 23",
+      "Cerro do Jarau": "Cerro do Jarau | Rio Grande do Sul | Brazil | 13.5",
+      "Cleanskin": "Cleanskin | Northern Territory | Australia | 15",
+      "Amelia Creek": "Amelia Creek | Northern Territory | Australia | 20",
+      "Avak": "Avak | Alaska | United States | 10",
+      "Ames": "Ames | Oklahoma | United States | 16",
+      "Beyenchime-Salaatin": "Beyenchime-Salaatin | Sakha | Russia | 8",
+      "BP": "BP | Cyrenaica | Libya | 3.2",
+      "Brent": "Brent | Ontario | Canada | 3.4",
+      "Calvin": "Calvin | Michigan | United States | 8.5",
+      "Chiyli": "Chiyli | Aktobe | Kazakhstan | 5.5",
+      "Chukcha": "Chukcha | Taymyr | Russia | 6",
+      "Cloud Creek": "Cloud Creek | Wyoming | United States | 7",
+      "Colonia": "Colonia | São Paulo | Brazil | 3.6",
+      "Connolly Basin": "Connolly Basin | Western Australia | Australia | 9",
+      "Couture": "Couture | Quebec | Canada | 8",
+      "Crooked Creek": "Crooked Creek | Missouri | United States | 7",
+      "Decaturville": "Decaturville | Missouri | United States | 6",
+      "Decorah": "Decorah | Iowa | United States | 5.6",
+      "Deep Bay": "Deep Bay | Saskatchewan | Canada | 13",
+      "Dellen": "Dellen | Gavleborgs | Sweden | 19",
+      "Des Plaines": "Des Plaines | Illinois | United States | 8",
+      "Dhala": "Dhala | Madhya Pradesh | India | 11",
+      "Dobele": "Dobele | Dobele | Latvia | 4.5",
+      "Douglas": "Douglas | Wyoming | United States | 16",
+      "Eagle Butte": "Eagle Butte | Alberta | Canada | 8",
+      "Elbow": "Elbow | Saskatchewan | Canada | 3.8",
+      "Flaxman": "Flaxman | South Australia | Australia | 10",
+      "Flynn Creek": "Flynn Creek | Tennessee | United States | 3.8",
+      "Foelsche": "Foelsche | Northern Territory | Australia | 6",
+      "Gardnos": "Gardnos | Buskerud | Norway | 5",
+      "Glasford": "Glasford | Illinois | United States | 4",
+      "Glikson": "Glikson | Western Australia | Australia | 19",
+      "Glover Bluff": "Glover Bluff | Wisconsin | United States | 8",
+      "Goat Paddock": "Goat Paddock | Western Australia | Australia | 5",
+      "Gosses Bluff": "Gosses Bluff | Northern Territory | Australia | 32",
+      "Gow": "Gow | Saskatchewan | Canada | 4",
+      "Goyder": "Goyder | Northern Territory | Australia | 7",
+      "Granby": "Granby | Ostergotland | Sweden | 3",
+      "Gweni-Fada": "Gweni-Fada | Ennedi | Chad | 22",
+      "Holleford": "Holleford | Ontario | Canada | 2.35",
+      "Hummeln": "Hummeln | Småland | Sweden | 1.2",
+      "Ile Rouleau": "Ile Rouleau | Quebec | Canada | 4",
+      "Ilkurlka": "Ilkurlka | Western Australia | Australia | 12",
+      "Ilyinets": "Ilyinets | Vinnytsia | Ukraine | 4.5",
+      "Iso-Naakkima": "Iso-Naakkima | Mikkeli | Finland | 3",
+      "Jake Seller Draw": "Jake Seller Draw | Wyoming | United States | 4.3",
+      "Jänisjärvi": "Jänisjärvi | Karelia | Russia | 14",
+      "Jabel Waqf as Suwwan": "Jabel Waqf as Suwwan | Ma'an | Jordan | 5.5",
+      "Kaluga": "Kaluga | Kaluga | Russia | 15",
+      "Kamenetsk": "Kamenetsk | Mykolaiv | Ukraine | 1.2",
+      "Kardla": "Kardla | Hiiu | Estonia | 4",
+      "Karikkoselkä": "Karikkoselkä | Central Finland | Finland | 2.1–2.4",
+      "Kelly West": "Kelly West | Northern Territory | Australia | 6.6",
+      "Kentland": "Kentland | Indiana | United States | 7",
+      "Kgagodi": "Kgagodi | Central District | Botswana | 3.4",
+      "Kursk": "Kursk | Kursk | Russia | 5.5",
+      "La Moinerie": "La Moinerie | Quebec | Canada | 8",
+      "Lake Raeside": "Lake Raeside | Western Australia | Australia | 11",
+      "Lawn Hill": "Lawn Hill | Queensland | Australia | 16.8",
+      "Liverpool": "Liverpool | Northern Territory | Australia | 1.6",
+      "Lockne": "Lockne | Jämtland | Sweden | 13.5",
+      "Logancha": "Logancha | Siberia | Russia | 20",
+      "Logoisk": "Logoisk | Minsk | Belarus | 17",
+      "Luizi": "Luizi | Katanga | Dem. Rep. of the Congo | 15",
+      "Lumparn": "Lumparn | Southwest Finland | Finland | 10",
+      "Malingen": "Malingen | Jämtland | Sweden | 0.7",
+      "Maple Creek": "Maple Creek | Saskatchewan | Canada | 5.75",
+      "Marquez": "Marquez | Texas | United States | 12.7",
+      "Matt Wilson": "Matt Wilson | Northern Territory | Australia | 7.5",
+      "Middlesboro": "Middlesboro | Kentucky | United States | 5.5",
+      "Mien": "Mien | Kronoberg | Sweden | 7",
+      "Mishina Gora": "Mishina Gora | Pskov | Russia | 2.5",
+      "Mizarai": "Mizarai | Alytus | Lithuania | 5",
+      "Mount Toondina": "Mount Toondina | South Australia | Australia | 4",
+      "Neugrund": "Neugrund | Harju | Estonia | 20",
+      "Newporte": "Newporte | North Dakota | United States | 3.2",
+      "Nicholson": "Nicholson | Northwest Territories | Canada | 12.5",
+      "Nova Colinas": "Nova Colinas | Maranhao | Brazil | 7",
+      "Oasis": "Oasis | Kufra | Libya | 18",
+      "Obolon'": "Obolon' | Poltava Oblast | Ukraine | 20",
+      "Ora Banda": "Ora Banda | Western Australia | Australia | 5",
+      "Ouarkziz": "Ouarkziz | Tindouf | Algeria | 3",
+      "Paasselkä": "Paasselkä | Mikkeli | Finland | 10",
+      "Pilot": "Pilot | Northwest Territories | Canada | ~6",
+      "Ragozinka": "Ragozinka | Sverdlovsk | Russia | 9",
+      "Ramgarh": "Ramgarh | Rajasthan | India | 10",
+      "Red Wing": "Red Wing | North Dakota | United States | 9",
+      "Riachão": "Riachão | Maranhao | Brazil | 4",
+      "Ritland": "Ritland | Rogaland | Norway | 2.7",
+      "Rock Elm": "Rock Elm | Wisconsin | United States | 6.5",
+      "Rotmistrovka": "Rotmistrovka | Cherkasy | Ukraine | 2.7",
+      "Sääksjärvi": "Sääksjärvi | Western Finland | Finland | 5",
+      "Saarijärvi": "Saarijärvi | Oulu | Finland | 2",
+      "Santa Fe": "Santa Fe | New Mexico | United States | 13",
+      "Santa Marta": "Santa Marta | Piaui | Brazil | 10",
+      "Saqqar": "Saqqar | Jawf | Saudi Arabia | 34",
+      "Serpent Mound": "Serpent Mound | Ohio | United States | 8",
+      "Serra da Cangalha": "Serra da Cangalha | Tocantins | Brazil | 13.7",
+      "Shunak": "Shunak | Karaganda | Kazakhstan | 2.8",
+      "Sierra Madera": "Sierra Madera | Texas | United States | 20",
+      "Söderfjärden": "Söderfjärden | Ostrobothnia | Finland | 6.5",
+      "Spider": "Spider | Western Australia | Australia | 13",
+      "Steinheim": "Steinheim | Baden-Württemberg | Germany | 3.8",
+      "Suavjärvi": "Suavjärvi | Karelia | Russia | 16",
+      "Summasjärvi": "Summasjärvi | Western Finland | Finland | 2.6",
+      "Suvasvesi North": "Suvasvesi North | Northern Savonia | Finland | 3.5",
+      "Suvasvesi South": "Suvasvesi South | Northern Savonia | Finland | 3.8",
+      "Tabun-Khara-Obo": "Tabun-Khara-Obo | Dornogovi | Mongolia | 1.3",
+      "Talundilly": "Talundilly | Queensland | Australia | 84",
+      "Ternovka": "Ternovka | Dnipropetrovsk | Ukraine | 15",
+      "Tin Bider": "Tin Bider | Tamanrasset | Algeria | 6",
+      "Tvaren": "Tvaren | Södermanland | Sweden | 3.1",
+      "Upheaval Dome": "Upheaval Dome | Utah | United States | 5.2",
+      "Vargeao Dome": "Vargeao Dome | Santa Catarina | Brazil | 12.4",
+      "Vepriai": "Vepriai | Vilnius | Lithuania | 7.5",
+      "Viewfield": "Viewfield | Saskatchewan | Canada | 2.4",
+      "Vista Alegre": "Vista Alegre | Paraná | Brazil | 9.5",
+      "Wanapitei": "Wanapitei | Ontario | Canada | 7.5",
+      "Wells Creek": "Wells Creek | Tennessee | United States | 13.7",
+      "West Hawk": "West Hawk | Manitoba | Canada | 3.6",
+      "Wetumpka": "Wetumpka | Alabama | United States | 6.25",
+      "Yallalie": "Yallalie | Western Australia | Australia | 12",
+      "Zapadnaya": "Zapadnaya | Zhytomyr | Ukraine | 3.2",
+      "Zeleny Gai": "Zeleny Gai | Kirovograd | Ukraine | 3.5",
+      "Miralga": "Miralga | Western Australia | Australia | 40–45",
+      "Uhackatik": "Uhackatik | Quebec | Canada | ~25"
+    },
+    "issues": []
+  }
+}

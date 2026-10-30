@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { watchDeadline } from '../game/deadlineTimer.ts';
+import { play } from '../game/sound.ts';
 
 interface TimerProps {
   deadlineMs: number;
@@ -16,12 +17,24 @@ const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
  */
 export function Timer({ deadlineMs, totalSeconds, onExpire }: TimerProps) {
   const [remainingMs, setRemainingMs] = useState(() => Math.max(0, deadlineMs - performance.now()));
+  const warned = useRef(false);
 
   // Keep the latest callback without restarting the timer when the parent re-renders.
   const onExpireRef = useRef(onExpire);
   useEffect(() => {
     onExpireRef.current = onExpire;
   });
+
+  useEffect(() => {
+    warned.current = false;
+  }, [deadlineMs]);
+
+  useEffect(() => {
+    if (!warned.current && remainingMs > 0 && remainingMs <= 5000) {
+      warned.current = true;
+      play('warn', { onceKey: `warn-${deadlineMs}` });
+    }
+  }, [remainingMs, deadlineMs]);
 
   useEffect(() => {
     const watcher = watchDeadline({

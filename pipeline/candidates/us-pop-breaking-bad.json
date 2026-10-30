@@ -1,0 +1,1293 @@
+{
+  "question": {
+    "id": "us-pop-breaking-bad",
+    "category": "us-pop",
+    "prompt": "Name a character who appears in the TV series Breaking Bad.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "walter-white",
+        "canonical": "Walter White",
+        "aliases": [
+          "Walt",
+          "Walter",
+          "Heisenberg",
+          "Walter Hartwell White",
+          "Walt White",
+          "Mr. White"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walter White is the chemistry teacher who begins manufacturing methamphetamine.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "jesse-pinkman",
+        "canonical": "Jesse Pinkman",
+        "aliases": [
+          "Jesse",
+          "Jesse Bruce Pinkman"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jesse Pinkman is Walter's former student and partner in the meth trade.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "skyler-white",
+        "canonical": "Skyler White",
+        "aliases": [
+          "Skyler",
+          "Skyler Lambert"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Skyler White is Walter's wife.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "hank-schrader",
+        "canonical": "Hank Schrader",
+        "aliases": [
+          "Hank",
+          "Henry Schrader",
+          "Henry R. Schrader",
+          "Hank Schroeder"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hank Schrader is Walter's DEA-agent brother-in-law.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "marie-schrader",
+        "canonical": "Marie Schrader",
+        "aliases": [
+          "Marie",
+          "Marie Lambert",
+          "Marie Schroeder"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marie Schrader is Skyler's sister and Hank's wife.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "walter-white-jr",
+        "canonical": "Walter White Jr.",
+        "aliases": [
+          "Walter Jr.",
+          "Walt Jr.",
+          "Walt Junior",
+          "Walter White Junior",
+          "Flynn",
+          "Flynn White"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Walter White Jr., also called Flynn, is Walter and Skyler's son.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "gus-fring",
+        "canonical": "Gus Fring",
+        "aliases": [
+          "Gus",
+          "Gustavo Fring",
+          "Gustavo"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gus Fring runs Los Pollos Hermanos and a concealed drug operation.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "saul-goodman",
+        "canonical": "Saul Goodman",
+        "aliases": [
+          "Saul",
+          "Jimmy McGill",
+          "James Morgan McGill",
+          "James McGill",
+          "Slippin' Jimmy",
+          "Gene Takavić",
+          "Gene Takavic"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saul Goodman is Walter and Jesse's lawyer.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "mike-ehrmantraut",
+        "canonical": "Mike Ehrmantraut",
+        "aliases": [
+          "Mike",
+          "Michael Ehrmantraut",
+          "Mike Ermantraut"
+        ],
+        "familiarity": 0.0424,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike Ehrmantraut works for Gus and Saul as an investigator, cleaner, and hit man.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "lydia-rodarte-quayle",
+        "canonical": "Lydia Rodarte-Quayle",
+        "aliases": [
+          "Lydia",
+          "Lydia Rodarte Quayle"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lydia supplies chemicals for Walt's meth production in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "todd-alquist",
+        "canonical": "Todd Alquist",
+        "aliases": [
+          "Todd"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Todd Alquist works for the fumigation company used as a front for Walt's meth business.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "steve-g-mez",
+        "canonical": "Steve Gómez",
+        "aliases": [
+          "Steve Gomez",
+          "Steven Gómez",
+          "Steven Gomez",
+          "Gomey",
+          "Gomez"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Steve Gómez is Hank's DEA partner.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "skinny-pete",
+        "canonical": "Skinny Pete",
+        "aliases": [
+          "Skinny Peter"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Skinny Pete as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "carmen-molina",
+        "canonical": "Carmen Molina",
+        "aliases": [
+          "Carmen"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Carmen Molina as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "tuco-salamanca",
+        "canonical": "Tuco Salamanca",
+        "aliases": [
+          "Tuco"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Tuco Salamanca as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "dr-delcavoli",
+        "canonical": "Dr. Delcavoli",
+        "aliases": [
+          "Delcavoli",
+          "Doctor Delcavoli"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Dr. Delcavoli as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "gretchen-schwartz",
+        "canonical": "Gretchen Schwartz",
+        "aliases": [
+          "Gretchen"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Gretchen Schwartz appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "gonzo",
+        "canonical": "Gonzo",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Gonzo appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "no-doze",
+        "canonical": "No-Doze",
+        "aliases": [
+          "No Doze",
+          "Nodoze"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records No-Doze appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "domingo-krazy-8-molina",
+        "canonical": "Domingo \"Krazy-8\" Molina",
+        "aliases": [
+          "Krazy-8",
+          "Krazy 8",
+          "Krazy Eight",
+          "Crazy 8",
+          "Crazy Eight",
+          "Domingo Molina",
+          "Domingo"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Domingo Molina, known as Krazy-8, appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "emilio-koyama",
+        "canonical": "Emilio Koyama",
+        "aliases": [
+          "Emilio"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Emilio Koyama appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "holly-white",
+        "canonical": "Holly White",
+        "aliases": [
+          "Holly"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Holly White as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "ted-beneke",
+        "canonical": "Ted Beneke",
+        "aliases": [
+          "Ted"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Ted Beneke as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "george-merkert",
+        "canonical": "George Merkert",
+        "aliases": [
+          "Merkert"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "George Merkert is Hank's boss at the DEA.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "h-ctor-salamanca",
+        "canonical": "Héctor Salamanca",
+        "aliases": [
+          "Hector Salamanca",
+          "Hector",
+          "Don Hector",
+          "Don Héctor",
+          "Tio",
+          "Tío"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Héctor Salamanca is the elderly head of the Salamanca drug organization who appears in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "badger",
+        "canonical": "Badger",
+        "aliases": [
+          "Badger Mayhew"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Badger is a recurring Breaking Bad character whose arrest involves an undercover operation.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "diane-pinkman",
+        "canonical": "Diane Pinkman",
+        "aliases": [
+          "Diane"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Diane Pinkman appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "jane-margolis",
+        "canonical": "Jane Margolis",
+        "aliases": [
+          "Jane"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Jane Margolis appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "combo",
+        "canonical": "Combo",
+        "aliases": [],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Combo appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "donald-margolis",
+        "canonical": "Donald Margolis",
+        "aliases": [
+          "Donald",
+          "Jane's dad",
+          "Jane's father"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Donald Margolis appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "clovis",
+        "canonical": "Clovis",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Clovis appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "austin-ramey",
+        "canonical": "Austin Ramey",
+        "aliases": [
+          "Austin Ramey",
+          "Austin Ramey",
+          "Ramey"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Austin Ramey heads the El Paso DEA division and appears in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "spooge",
+        "canonical": "Spooge",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Spooge appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "andrea-cantillo",
+        "canonical": "Andrea Cantillo",
+        "aliases": [
+          "Andrea"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Andrea Cantillo as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "brock-cantillo",
+        "canonical": "Brock Cantillo",
+        "aliases": [
+          "Brock"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Brock Cantillo as a recurring Breaking Bad character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "gale-boetticher",
+        "canonical": "Gale Boetticher",
+        "aliases": [
+          "Gale",
+          "Gale Boetticher"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gale Boetticher is the chemist hired to set up Gus's lab and assist Walt.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "victor",
+        "canonical": "Victor",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Victor serves as Gus's bodyguard and enforcer in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "juan-bolsa",
+        "canonical": "Juan Bolsa",
+        "aliases": [
+          "Bolsa",
+          "Don Juan"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Juan Bolsa is a cartel member who acts as its liaison with Gus in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "group-leader",
+        "canonical": "Group Leader",
+        "aliases": [
+          "Jesse's group leader",
+          "Recovery group leader",
+          "Support group leader"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records the Group Leader, played by Jere Burns, appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "kaylee-ehrmantraut",
+        "canonical": "Kaylee Ehrmantraut",
+        "aliases": [
+          "Kaylee"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Kaylee Ehrmantraut appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "leonel-salamanca",
+        "canonical": "Leonel Salamanca",
+        "aliases": [
+          "Leonel"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Leonel Salamanca appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "marco-salamanca",
+        "canonical": "Marco Salamanca",
+        "aliases": [
+          "Marco"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Marco Salamanca appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "tom-s-cantillo",
+        "canonical": "Tomás Cantillo",
+        "aliases": [
+          "Tomas Cantillo",
+          "Tomás",
+          "Tomas"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Tomás Cantillo appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "pamela",
+        "canonical": "Pamela",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Pamela appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "huell-babineaux",
+        "canonical": "Huell Babineaux",
+        "aliases": [
+          "Huell",
+          "Huel"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Huell Babineaux appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "patrick-kuby",
+        "canonical": "Patrick Kuby",
+        "aliases": [
+          "Kuby",
+          "Patrick"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Patrick Kuby appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "chris-mara",
+        "canonical": "Chris Mara",
+        "aliases": [
+          "Chris"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chris Mara is one of Gus's henchmen.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "francesca-liddy",
+        "canonical": "Francesca Liddy",
+        "aliases": [
+          "Francesca"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Francesca Liddy appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "tyrus-kitt",
+        "canonical": "Tyrus Kitt",
+        "aliases": [
+          "Tyrus"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tyrus Kitt works as one of Gus's henchmen in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "eladio-vuente",
+        "canonical": "Eladio Vuente",
+        "aliases": [
+          "Don Eladio",
+          "Eladio"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eladio Vuente heads the cartel associated with Gus and the Salamancas.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "nick",
+        "canonical": "Nick",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nick is a member of Gus's security team whose body Walter dissolves in acid.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "tim-roberts",
+        "canonical": "Tim Roberts",
+        "aliases": [
+          "Detective Roberts",
+          "Roberts"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tim Roberts is an Albuquerque detective who works with Hank.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "bogdan-wolynetz",
+        "canonical": "Bogdan Wolynetz",
+        "aliases": [
+          "Bogdan"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Bogdan Wolynetz appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "gaff",
+        "canonical": "Gaff",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Gaff appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "declan",
+        "canonical": "Declan",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Declan appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "dennis-markowski",
+        "canonical": "Dennis Markowski",
+        "aliases": [
+          "Dennis"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dennis Markowski manages the laundry concealing Gus's superlab.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "ron-forenall",
+        "canonical": "Ron Forenall",
+        "aliases": [
+          "Ron",
+          "Forenall"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ron Forenall is Mike's contact at Madrigal's chemical warehouse.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "dan-wachsberger",
+        "canonical": "Dan Wachsberger",
+        "aliases": [
+          "Dan",
+          "Wachsberger",
+          "Dan Wachsberger"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dan Wachsberger is the attorney representing surviving members of Gus's operation.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "kenny",
+        "canonical": "Kenny",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Kenny appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "elliott-schwartz",
+        "canonical": "Elliott Schwartz",
+        "aliases": [
+          "Elliott",
+          "Elliot Schwartz",
+          "Elliot"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Elliott Schwartz appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "kalanchoe",
+        "canonical": "Kalanchoe",
+        "aliases": [
+          "Detective Kalanchoe"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kalanchoe is one of the Albuquerque detectives who question Jesse.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "munn",
+        "canonical": "Munn",
+        "aliases": [
+          "Detective Munn"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Munn is one of the Albuquerque detectives who question Jesse.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "jack-welker",
+        "canonical": "Jack Welker",
+        "aliases": [
+          "Jack",
+          "Uncle Jack"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Jack Welker appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "frankie",
+        "canonical": "Frankie",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Frankie appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "lester",
+        "canonical": "Lester",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Lester appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "matt",
+        "canonical": "Matt",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Matt, played by Matt Metzler, appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "fran",
+        "canonical": "Fran",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Fran appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "lawson",
+        "canonical": "Lawson",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Lawson appearing as a Breaking Bad guest character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "ira",
+        "canonical": "Ira",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Ira appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "adam-pinkman",
+        "canonical": "Adam Pinkman",
+        "aliases": [
+          "Adam"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Adam Pinkman as a Breaking Bad guest character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "old-joe",
+        "canonical": "Old Joe",
+        "aliases": [
+          "Joe"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Old Joe appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "ed-galbraith",
+        "canonical": "Ed Galbraith",
+        "aliases": [
+          "Ed",
+          "The disappearer",
+          "Vacuum repairman",
+          "Vacuum cleaner guy"
+        ],
+        "familiarity": 0.0169,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Ed Galbraith appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "wendy",
+        "canonical": "Wendy",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Wendy as a Breaking Bad guest character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "ken",
+        "canonical": "Ken",
+        "aliases": [
+          "Ken Wins"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Ken appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "cynthia",
+        "canonical": "Cynthia",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cynthia manages the Albuquerque Los Pollos Hermanos store and encounters Walter.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "tortuga",
+        "canonical": "Tortuga",
+        "aliases": [],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table lists Tortuga as a Breaking Bad guest character.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "duane-chow",
+        "canonical": "Duane Chow",
+        "aliases": [
+          "Duane",
+          "Chow",
+          "Duane Chow"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Duane Chow owns the chemical company supplying Gus's operation.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "officer-saxton",
+        "canonical": "Officer Saxton",
+        "aliases": [
+          "Saxton"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Officer Saxton responds when Skyler reports Walter breaking into her house.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "barry-goodman",
+        "canonical": "Barry Goodman",
+        "aliases": [
+          "Dr. Goodman",
+          "Doctor Goodman",
+          "Dr. Barry Goodman",
+          "Barry"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barry Goodman is Gus's doctor and treats Gus and Mike after the cartel confrontation.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "stephanie-doswell",
+        "canonical": "Stephanie Doswell",
+        "aliases": [
+          "Stephanie"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The cast table records Stephanie Doswell appearing in Breaking Bad.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "peter-schuler",
+        "canonical": "Peter Schuler",
+        "aliases": [
+          "Peter",
+          "Schuler"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Peter Schuler appears in Breaking Bad when his connection to Gus is exposed.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "getz",
+        "canonical": "Getz",
+        "aliases": [
+          "Detective Getz"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Getz is the undercover detective who arrests Badger.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "max-arciniega",
+        "canonical": "Max Arciniega",
+        "aliases": [
+          "Max",
+          "Maximino Arciniega"
+        ],
+        "familiarity": 0.0051,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Max Arciniega appears in the Breaking Bad flashback showing his death.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "rival-dealers",
+        "canonical": "Rival Dealers",
+        "aliases": [
+          "Gus's rival dealers",
+          "The rival dealers"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The two characters credited as Rival Dealers sell meth for Gus and confront Jesse and Walter.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "darla",
+        "canonical": "Darla",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Darla is the corrections guard who receives Dan Wachsberger and Mike.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "dorothy-yobs",
+        "canonical": "Dorothy Yobs",
+        "aliases": [
+          "Dorothy"
+        ],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dorothy Yobs gives Dan Wachsberger access to the bank's safety deposit boxes.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      },
+      {
+        "id": "louis",
+        "canonical": "Louis",
+        "aliases": [],
+        "familiarity": 0.0013,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Louis is Walter Jr.'s best friend, whom he asks to teach him to drive.",
+        "sourceIds": [
+          "list-of-characters-in-the-breaking-bad-franchise"
+        ]
+      }
+    ],
+    "explanation": "Breaking Bad's cast includes the White family, Jesse's friends, DEA agents, lawyers, cartel members, and many minor characters. Alternate names for the same character count as one answer.",
+    "sources": [
+      {
+        "id": "list-of-characters-in-the-breaking-bad-franchise",
+        "title": "List of characters in the Breaking Bad franchise",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_characters_in_the_Breaking_Bad_franchise",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Any character who appears in Breaking Bad (2008–2013), including guest and minor characters; characters who are only mentioned or appear only in spin-offs do not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "0c0f2a811924369c",
+    "brief": "Name a character from Breaking Bad.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-characters-in-the-breaking-bad-franchise",
+        "version": "1382235422",
+        "truncated": true
+      }
+    ],
+    "quotes": {
+      "Walter White": "Walter Hartwell White (also known by his alias Heisenberg) (played by Bryan Cranston) is an overqualified high school chemistry teacher from Albuquerque, New Mexico.",
+      "Jesse Pinkman": "Jesse Bruce Pinkman (played by Aaron Paul) is a small-time methamphetamine user, manufacturer, and dealer.",
+      "Skyler White": "Skyler White (née Lambert) (played by Anna Gunn) is Walter's wife.",
+      "Hank Schrader": "Henry R. Schrader (played by Dean Norris) is Walt and Skyler's brother-in-law and Marie's husband, who works as a U.S. Drug Enforcement Administration (DEA) agent.",
+      "Marie Schrader": "Marie Schrader (née Lambert) (played by Betsy Brandt) is Skyler's sister, Hank's wife, and Walt's sister-in-law.",
+      "Walter White Jr.": "Walter Hartwell (Flynn) White Jr. (played by RJ Mitte) is Walter and Skyler's teenage son and Holly's older brother.",
+      "Gus Fring": "Gustavo Fring (played by Giancarlo Esposito) is the Chilean-born proprietor of Los Pollos Hermanos, a highly successful fried chicken restaurant chain.",
+      "Saul Goodman": "Saul Goodman (played by Bob Odenkirk), byname of James Morgan (Jimmy) McGill, is a sleazy and unscrupulous lawyer who acts as Walter and Jesse's attorney and provides some of the series' comic relief.",
+      "Mike Ehrmantraut": "Michael Ehrmantraut (played by Jonathan Banks) is a former Philadelphia police officer who works for Gus — and, on occasion, Saul — as a private investigator, head of security, cleaner, and hit man.",
+      "Lydia Rodarte-Quayle": "Within Breaking Bad, Lydia continues to discreetly provide chemicals to Gus for Walt's meth production in Gus's superlab.",
+      "Todd Alquist": "Todd Alquist (played by Jesse Plemons) is an exterminator for Vamonos Pest, a fumigation company used by Walt, Mike, and Jesse as the front for their meth business after Gus Fring's death.",
+      "Steve Gómez": "Steven \"Steve\" Gómez (played by Steven Michael Quezada), also nicknamed \"Gomey\", is Hank's Drug Enforcement Administration partner and friend.",
+      "Skinny Pete": "Skinny Pete | Charles Baker | Recurring | | | Guest | | R | | | | | | | Supporting",
+      "Carmen Molina": "Carmen Molina | Carmen Serano | Recurring | | | | | G | | | | | | |",
+      "Tuco Salamanca": "Tuco Salamanca | Raymond Cruz | Recurring | | | | | | R | G | | | | |",
+      "Dr. Delcavoli": "Dr. Delcavoli | David House | Recurring | | | | | | | | | | | |",
+      "Gretchen Schwartz": "Gretchen Schwartz | Jessica Hecht | R | G | | | | R | | | | | | |",
+      "Gonzo": "Gonzo | Jesús Payán Jr. | R | G | | | | | G | | | | | |",
+      "No-Doze": "No-Doze | César García | R | G | | | | | G | | | | | |",
+      "Domingo \"Krazy-8\" Molina": "Domingo \"Krazy-8\" Molina | Max Arciniega | R | | | | | | | G | R | G | R | |",
+      "Emilio Koyama": "Emilio Koyama | John Koyama | R | | | | | | | | | | | G |",
+      "Holly White": "Holly White | Various | | Recurring | | | | | | | | | | |",
+      "Ted Beneke": "Ted Beneke | Christopher Cousins | | Recurring | | | G | | | | | | | |",
+      "George Merkert": "Assistant special agent in charge George Merkert (played by Michael Shamus Wiles) is Hank's boss at the DEA.",
+      "Héctor Salamanca": "Héctor Salamanca (played by Mark Margolis), often known as \"Don Héctor\" or \"Tío\", is the elderly don of the Salamanca drug organization and an associate of cartel boss Don Eladio.",
+      "Badger": "Getz (portrayed by DJ Qualls) is an Albuquerque police detective who takes part in an undercover operation that results in him arresting Badger Mayhew for possession of meth.",
+      "Diane Pinkman": "Diane Pinkman | Tess Harper | G | R | G | | | | | | | | | | Supporting",
+      "Jane Margolis": "Jane Margolis | Krysten Ritter | | R | G | | | | | | | | | | Supporting",
+      "Combo": "Combo | Rodney Rush | G | R | G | | | | | | | | | |",
+      "Donald Margolis": "Donald Margolis | John de Lancie | | R | G | | | | | | | | | |",
+      "Clovis": "Clovis | Tom Kiesche | | R | G | | | | | | | | | |",
+      "Austin Ramey": "He is one of five characters (along with Mike Ehrmantraut, Walter White, Jesse Pinkman, and Ed Galbraith) to appear in each of Breaking Bad, Better Call Saul, and El Camino.",
+      "Spooge": "Spooge | David Ury | | R | | | | | | | | | | G |",
+      "Andrea Cantillo": "Andrea Cantillo | Emily Ríos | | | Recurring | | G | R | | | | | | |",
+      "Brock Cantillo": "Brock Cantillo | Ian Posada | | | Recurring | | Guest | | | | | | | |",
+      "Gale Boetticher": "Gale Boetticher (played by David Costabile) is a chemist hired by Gus Fring to set up the underground meth lab and serve as Walt's assistant.",
+      "Victor": "Victor acts as Gus's front in initial deals with Walter and Jesse.",
+      "Juan Bolsa": "Within Breaking Bad, it is Bolsa who orders Tortuga's execution by The Cousins and later places his head on a booby-trapped tortoise for the DEA to find.",
+      "Group Leader": "Group Leader | Jere Burns | | | R | G | | | | | | | | |",
+      "Kaylee Ehrmantraut": "Kaylee Ehrmantraut | Various | | | R | | R | | Recurring | | | | | |",
+      "Leonel Salamanca": "Leonel Salamanca | Daniel Moncada | | | R | | | | | R | | R | G | R |",
+      "Marco Salamanca": "Marco Salamanca | Luis Moncada | | | R | | | | | R | | R | G | R |",
+      "Tomás Cantillo": "Tomás Cantillo | Angelo Martinez | | G | R | | | | | | | | | |",
+      "Pamela": "Pamela | Julie Dretzin | | | R | | | | | | | | | |",
+      "Huell Babineaux": "Huell Babineaux | Lavell Crawford | | | | R | G | R | | | G | Recurring | | G |",
+      "Patrick Kuby": "Patrick Kuby | Bill Burr | | | | R | G | R | | | | | | |",
+      "Chris Mara": "Chris Mara (played by Christopher King) is one of Gus's henchmen and frequently runs errands among Gus, the mules, and the dealers.",
+      "Francesca Liddy": "Francesca Liddy | Tina Parker | | Guest | | R | | R | | | R | G | | R |",
+      "Tyrus Kitt": "Tyrus Kitt (played by Ray Campbell) is one of Gus's henchmen in both Breaking Bad and Better Call Saul.",
+      "Eladio Vuente": "Don Eladio Vuente (played by Steven Bauer) is the head of a drug cartel in Ciudad Juárez that includes Juan Bolsa, Hector Salamanca, and Salamanca's nephews.",
+      "Nick": "Nick (played by Eric Steinig) is a member of Gus' security team, under the management of Mike.",
+      "Tim Roberts": "Tim Roberts (played by Nigel Gibbs) is a detective with the Albuquerque Police Department, who works closely with Hank Schrader and the DEA under George Merkert's watch.",
+      "Bogdan Wolynetz": "Bogdan Wolynetz | Marius Stan | G | | G | R | | | | | | | | |",
+      "Gaff": "Gaff | Maurice Compte | | | | R | | | | | | | | |",
+      "Declan": "Declan | Louis Ferreira | | | | | R | G | | | | | | |",
+      "Dennis Markowski": "Dennis Markowski (played by Michael Batayeh) manages Lavanderia Brilliante, the industrial laundromat that served as the cover for Gus's superlab.",
+      "Ron Forenall": "Ron Forenall (played by Russ Dillen) is Mike Ehrmantraut's contact at Madrigal Electromotive's chemical warehouse in Houston.",
+      "Dan Wachsberger": "Dan Wachsberger (played by Chris Freihofer) is an attorney hired by Mike Ehrmantraut to represent Ron Forenall, Dennis Markowski, and the other seven surviving members of Gus Fring's operation running out of the Lavanderia Brilliante in Albuquerque.",
+      "Kenny": "Kenny | Kevin Rankin | | | | | G | R | | | | | | | Supporting",
+      "Elliott Schwartz": "Elliott Schwartz | Adam Godley | G | | | | | R | | | | | | |",
+      "Kalanchoe": "Kalanchoe (played by Gonzalo Menendez) and Munn (played by Jason Douglas) are detectives with the Albuquerque Police Department (APD), questioning Jesse first in regard to the poisoning of Brock Cantillo, and then in regard to the large amount of money he has been giving away.",
+      "Munn": "Kalanchoe (played by Gonzalo Menendez) and Munn (played by Jason Douglas) are detectives with the Albuquerque Police Department (APD), questioning Jesse first in regard to the poisoning of Brock Cantillo, and then in regard to the large amount of money he has been giving away.",
+      "Jack Welker": "Jack Welker | Michael Bowen | | | | | G | R | | | | | | |",
+      "Frankie": "Frankie | Patrick Sane | | | | | G | R | | | | | | |",
+      "Lester": "Lester | Tait Fletcher | | | | | | R | | | | | | |",
+      "Matt": "Matt | Matt Metzler | | | | | | R | | | | | | |",
+      "Fran": "Fran | Debrianna Mansini | | | | | G | | | R | | R | | |",
+      "Lawson": "Lawson | Jim Beaver | | | | Guest | | | | R | | | | |",
+      "Ira": "Ira | Franc Ross | | | | | G | | | | | R | | |",
+      "Adam Pinkman": "Adam Pinkman | Michael Bofshever | Guest | | | | | | | | | | | | Supporting",
+      "Old Joe": "Old Joe | Larry Hankin | | | G | | G | | | | | | | | Supporting",
+      "Ed Galbraith": "Ed Galbraith | Robert Forster | | | | | | G | | | | | G | | Supporting",
+      "Wendy": "Wendy | Julia Minesci | Guest | | | | | | | | | | | G |",
+      "Ken": "Ken | Kyle Bornheimer | G | | | | | | | G | | | | |",
+      "Cynthia": "Cynthia (portrayed by Ashley Kajiki) is the manager of the Los Pollos Hermanos restaurant chain's Albuquerque store. She occasionally encounters Walter when he demands to meet with Gus.",
+      "Tortuga": "Tortuga | Danny Trejo | | Guest | | | | | | | | | | |",
+      "Duane Chow": "Duane Chow (played by James Ning) is the owner of Golden Moth Chemical, an industrial chemical manufacturing company that supplies Gus's drug empire.",
+      "Officer Saxton": "Officer Saxton (played by Stoney Westmoreland) is a member of the Albuquerque Police Department. He is called to the White residence when Skyler reports that Walt has illegally broken into her house.",
+      "Barry Goodman": "Dr. Barry Goodman (played by JB Blanc) is Gus's personal doctor, treating him and Mike after the showdown at Don Eladio's residence.",
+      "Stephanie Doswell": "Stephanie Doswell | Jennifer Hasty | | | | G | | | | G | | | | |",
+      "Peter Schuler": "Following Gus' death in Breaking Bad, Schuler's connection with him is exposed. When the police arrive to question him, Schuler electrocutes himself with an automated external defibrillator.",
+      "Getz": "Getz (portrayed by DJ Qualls) is an Albuquerque police detective who takes part in an undercover operation that results in him arresting Badger Mayhew for possession of meth.",
+      "Max Arciniega": "As shown in flashback in the Breaking Bad episode \"Hermanos\", Gus and his business/romantic partner Maximino Arciniega had approached the cartel with the offer to produce and sell meth for the cartel, but Don Eladio had Hector Salamanca kill Max as punishment for going behind Eladio's back, then forced Gus to participate in distributing cartel cocaine.",
+      "Rival Dealers": "The \"Rival Dealers\" (played by Mike Seal and Antonio Leyba) are two street-level drug dealers who work for Gus and sell meth on his behalf.",
+      "Darla": "Dan signs in and tells the attending guard, Darla, that he has brought in his \"paralegal\" and they have come to see Dennis Markowski.",
+      "Dorothy Yobs": "Dan is consistently shown flirting with women, such as Darla and, at the bank, with Dorothy Yobs, whom he routinely lavishes with gifts of sugary baked goods. Dorothy gives Dan access to the safety deposit boxes at Cradock Marine Bank.",
+      "Louis": "Angered by his parents' constant fighting, Walter Jr. tries to establish an independent identity, insisting on being called Flynn and asking his best friend Louis to teach him how to drive."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [Austin Ramey]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

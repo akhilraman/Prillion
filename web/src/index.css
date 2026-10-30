@@ -105,7 +105,7 @@ body {
 
   /* World scale: how many pixels one metre of depth takes on screen. */
   --px-per-m: 1.8px; /* was 1.1: a longer scroll, so even a Tier 1 answer feels like real progress */
-  --depth: min(1, calc(var(--metres) / 1600));
+  --depth: min(1, calc(var(--metres) / 8000)); /* fully dark around two Tier 4 answers */
   /* The diver sinks from the waterline, then holds at 44% of the screen while the world scrolls. */
   --you-y: min(calc(var(--waterline) + var(--metres) * var(--px-per-m)), max(44vh, var(--waterline)));
   /* Where the surface (the 0 m line) currently is on screen. */
@@ -358,6 +358,7 @@ body {
 /* ---- Layout ---------------------------------------------------------- */
 
 .screen {
+  position: relative;
   min-height: 100dvh;
   width: min(100%, var(--max-width));
   margin: 0 auto;
@@ -457,7 +458,8 @@ body {
 .button,
 .begin,
 .category-card,
-.quit {
+.quit,
+.mute {
   font: inherit;
   cursor: pointer;
   border-radius: 0;
@@ -491,10 +493,20 @@ body {
   cursor: not-allowed;
 }
 
-.quit {
+.round-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
   align-self: flex-start;
   width: auto !important; /* beats the .screen--round > * width rule */
   margin-inline: max(1rem, calc((100% - var(--max-width)) / 2)) !important;
+}
+.round-tools .quit {
+  margin-inline: 0 !important;
+  align-self: auto;
+}
+.quit,
+.mute {
   padding: 0.25rem 0.7rem;
   font-family: var(--font-display);
   font-size: 0.6rem;
@@ -504,9 +516,25 @@ body {
   background: var(--panel);
   border: 2px solid var(--panel-border);
 }
-.quit:hover {
+.quit {
+  align-self: flex-start;
+  width: auto !important;
+  margin-inline: max(1rem, calc((100% - var(--max-width)) / 2)) !important;
+}
+.quit:hover,
+.mute:hover {
   color: var(--text);
   border-color: var(--cyan);
+}
+.mute[aria-pressed='true'] {
+  color: var(--pink);
+  border-color: var(--pink);
+}
+.mute--home {
+  position: absolute;
+  top: max(0.55rem, env(safe-area-inset-top, 0px));
+  right: max(0.55rem, env(safe-area-inset-right, 0px));
+  z-index: 2;
 }
 
 /* Strong, always-visible keyboard focus. */
@@ -563,6 +591,11 @@ body {
   text-transform: uppercase;
   color: var(--text-muted);
 }
+.home__status {
+  margin: 0.4rem 0 0;
+  text-align: center;
+  color: var(--pink);
+}
 .home__footer {
   margin: 0.4rem 0 0;
   text-align: center;
@@ -588,8 +621,12 @@ body {
     0 0 0 3px rgb(79 216 238 / 0.18),
     0 5px 0 #14566a;
 }
-.begin:hover {
+.begin:hover:not(:disabled) {
   background: rgb(10 36 72 / 0.95);
+}
+.begin:disabled {
+  opacity: 0.55;
+  cursor: wait;
 }
 .begin:active {
   transform: translateY(3px);
@@ -757,16 +794,6 @@ body {
   font-size: 1.75rem;
   line-height: 1.1;
   font-weight: 400;
-}
-.question-card__criteria {
-  margin: 0;
-  font-size: 1.05rem;
-  line-height: 1.2;
-  color: var(--text-muted);
-}
-.question-card__criteria strong {
-  font-weight: 400;
-  color: var(--accent);
 }
 .question-card__hint {
   margin: 0;
@@ -1063,6 +1090,16 @@ body {
 .stage__prompt {
   margin: 0 0 0.5rem;
   color: var(--text-muted);
+}
+.stage__criteria {
+  margin: 0 0 0.7rem;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  color: var(--text-muted);
+}
+.stage__criteria strong {
+  font-weight: 400;
+  color: var(--accent);
 }
 .stage__explanation,
 .stage__sources {
@@ -1371,6 +1408,63 @@ body {
 @media (max-width: 639px) {
   .ruler__tick {
     color: transparent;
+  }
+  .hud {
+    gap: 0.25rem;
+  }
+  .hud__value {
+    font-size: 1.4rem;
+  }
+  .hud__panel {
+    padding: 0.2rem 0.4rem 0.3rem;
+    max-width: 7.5rem;
+  }
+  .question-card {
+    /* Sit higher so a long prompt still leaves room above the sticky answer bar. */
+    margin-top: max(0px, calc(var(--surface-y) - 12rem));
+    margin-bottom: 0.8rem;
+    padding: 0.75rem 0.85rem 0.85rem;
+    gap: 0.4rem;
+  }
+  .question-card__prompt {
+    font-size: 1.35rem;
+    line-height: 1.15;
+  }
+  .question-card__hint {
+    display: none;
+  }
+  .stage__sticker {
+    max-width: min(150px, 48vw);
+    max-height: 130px;
+  }
+  .stage__rank {
+    font-size: 1.35rem;
+  }
+  .stage__answer {
+    font-size: 1.4rem;
+  }
+  .stage__flavor,
+  .stage__note {
+    font-size: 1rem;
+  }
+  .home__sky {
+    height: auto;
+    min-height: 0;
+    padding: 1rem 0.5rem 0.6rem;
+    gap: 0.3rem;
+  }
+  .screen--round {
+    padding-top: calc(0.65rem + env(safe-area-inset-top, 0px));
+  }
+  .home__tagline {
+    font-size: 1rem;
+    padding-inline: 0.25rem;
+  }
+  .dive-bar {
+    padding: 0.85rem 0 calc(0.55rem + env(safe-area-inset-bottom));
+  }
+  .logo {
+    font-size: clamp(2rem, 12vw, 2.6rem);
   }
 }
 

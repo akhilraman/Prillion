@@ -1,0 +1,264 @@
+{
+  "question": {
+    "id": "tollywood-spy-films",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu spy, espionage or secret-agent film.",
+    "answerSet": "open",
+    "criteria": "A Telugu-original or Telugu-bilingual feature film classified as a spy thriller or centred on espionage or secret-agent operations; dubbed-only releases do not count.",
+    "answers": [
+      {
+        "id": "goodachari",
+        "canonical": "Goodachari",
+        "aliases": [
+          "Goodachari (2018)",
+          "Gudachari"
+        ],
+        "familiarity": 0.1721,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Goodachari is a Telugu spy thriller starring Adivi Sesh as a recruit to a secret intelligence organisation.",
+        "sourceIds": []
+      },
+      {
+        "id": "agent",
+        "canonical": "Agent",
+        "aliases": [
+          "Agent (2023)"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Agent is a Telugu spy action film starring Akhil Akkineni.",
+        "sourceIds": []
+      },
+      {
+        "id": "spy",
+        "canonical": "Spy",
+        "aliases": [
+          "Spy (2023)"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spy is a Telugu spy action thriller starring Nikhil Siddhartha.",
+        "sourceIds": []
+      },
+      {
+        "id": "chanakya",
+        "canonical": "Chanakya",
+        "aliases": [
+          "Chanakya (2019)"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Chanakya is a Telugu spy action thriller starring Gopichand as an intelligence agent.",
+        "sourceIds": []
+      },
+      {
+        "id": "gudachari-116",
+        "canonical": "Gudachari 116",
+        "aliases": [
+          "Goodachari 116",
+          "Gudachari No. 116"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gudachari 116 is a Telugu spy film starring Krishna as a secret agent.",
+        "sourceIds": []
+      },
+      {
+        "id": "gudachari-117",
+        "canonical": "Gudachari 117",
+        "aliases": [
+          "Goodachari 117",
+          "Gudachari No. 117"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gudachari 117 is a Telugu spy film starring Krishna.",
+        "sourceIds": []
+      },
+      {
+        "id": "gudachari-no-1",
+        "canonical": "Gudachari No. 1",
+        "aliases": [
+          "Goodachari No. 1",
+          "Gudachari Number One",
+          "Goodachari Number One"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gudachari No. 1 is a Telugu spy film starring Chiranjeevi.",
+        "sourceIds": []
+      },
+      {
+        "id": "james-bond-777",
+        "canonical": "James Bond 777",
+        "aliases": [],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Bond 777 is a Telugu spy film starring Krishna.",
+        "sourceIds": []
+      },
+      {
+        "id": "agent-gopi",
+        "canonical": "Agent Gopi",
+        "aliases": [
+          "Agent Gopi 1978"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Agent Gopi is a Telugu spy film starring Krishna.",
+        "sourceIds": []
+      },
+      {
+        "id": "spyder",
+        "canonical": "Spyder",
+        "aliases": [
+          "Spyder (2017)"
+        ],
+        "familiarity": 0.1721,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Spyder is a Telugu-Tamil bilingual thriller starring Mahesh Babu as an intelligence officer.",
+        "sourceIds": []
+      },
+      {
+        "id": "devil",
+        "canonical": "Devil",
+        "aliases": [
+          "Devil: The British Secret Agent",
+          "Devil (2023)"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devil is a Telugu period spy thriller starring Nandamuri Kalyan Ram as a British secret agent.",
+        "sourceIds": []
+      },
+      {
+        "id": "psv-garuda-vega",
+        "canonical": "PSV Garuda Vega",
+        "aliases": [
+          "Garuda Vega",
+          "PSV Garuda Vega 126.18M"
+        ],
+        "familiarity": 0.0688,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "PSV Garuda Vega is a Telugu spy action thriller starring Rajasekhar as a National Investigation Agency officer.",
+        "sourceIds": []
+      },
+      {
+        "id": "rudra-netra",
+        "canonical": "Rudra Netra",
+        "aliases": [
+          "Rudra Nethra"
+        ],
+        "familiarity": 0.0206,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rudra Netra is a Telugu spy thriller starring Chiranjeevi as a secret agent.",
+        "sourceIds": []
+      },
+      {
+        "id": "rahasya-gudachari",
+        "canonical": "Rahasya Gudachari",
+        "aliases": [
+          "Rahasya Goodachari"
+        ],
+        "familiarity": 0.0052,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rahasya Gudachari is a Telugu spy film starring Krishna.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu spy cinema stretches from Krishna’s classic secret-agent adventures to modern intelligence thrillers. Telugu bilingual productions count, but films merely dubbed into Telugu do not.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "03682b7728d66eaf",
+    "brief": "Name a Telugu spy, espionage or secret-agent film.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Goodachari": 3,
+      "Spyder": 2,
+      "Agent": 3,
+      "Spy": 3,
+      "Chanakya": 3,
+      "Devil": 2,
+      "PSV Garuda Vega": 2,
+      "Gudachari 116": 3,
+      "Gudachari 117": 3,
+      "Gudachari No. 1": 3,
+      "Rudra Netra": 2,
+      "James Bond 777": 3,
+      "Agent Gopi": 3,
+      "Rahasya Gudachari": 2
+    },
+    "droppedForVotes": {
+      "Operation Gold Fish": 1,
+      "Chari 111": 1,
+      "Agent 009": 1,
+      "Agent 001": 1
+    },
+    "verdicts": {
+      "Goodachari": {
+        "verdict": "correct",
+        "reason": "A 2018 Telugu-original spy thriller starring Adivi Sesh as an intelligence recruit."
+      },
+      "Agent": {
+        "verdict": "correct",
+        "reason": "A 2023 Telugu-original spy action thriller starring Akhil Akkineni."
+      },
+      "Spy": {
+        "verdict": "correct",
+        "reason": "A 2023 Telugu-original spy action thriller starring Nikhil Siddhartha."
+      },
+      "Chanakya": {
+        "verdict": "correct",
+        "reason": "A 2019 Telugu spy action thriller starring Gopichand as a RAW agent."
+      },
+      "Gudachari 116": {
+        "verdict": "correct",
+        "reason": "A 1966 Telugu spy film starring Krishna as secret agent Gopi."
+      },
+      "Gudachari 117": {
+        "verdict": "correct",
+        "reason": "A 1989 Telugu spy film starring Krishna, directed by Kodi Ramakrishna."
+      },
+      "Gudachari No. 1": {
+        "verdict": "correct",
+        "reason": "A 1983 Telugu spy film starring Chiranjeevi, directed by Kodi Ramakrishna."
+      },
+      "James Bond 777": {
+        "verdict": "correct",
+        "reason": "A 1971 Telugu spy film starring Krishna, directed by K. S. R. Das."
+      },
+      "Agent Gopi": {
+        "verdict": "correct",
+        "reason": "A 1978 Telugu spy film starring Krishna as the titular agent."
+      },
+      "Spyder": {
+        "verdict": "correct",
+        "reason": "A 2017 Telugu–Tamil bilingual thriller centred on an Intelligence Bureau officer and his surveillance operations."
+      },
+      "Devil": {
+        "verdict": "correct",
+        "reason": "A 2023 Telugu period spy thriller starring Nandamuri Kalyan Ram as a British secret agent."
+      },
+      "PSV Garuda Vega": {
+        "verdict": "correct",
+        "reason": "A 2017 Telugu spy action thriller starring Rajasekhar as an NIA officer."
+      },
+      "Rudra Netra": {
+        "verdict": "correct",
+        "reason": "A 1989 Telugu spy thriller starring Chiranjeevi as a secret agent."
+      },
+      "Rahasya Gudachari": {
+        "verdict": "correct",
+        "reason": "A 1981 Telugu spy film starring Krishna, directed by K. S. R. Das."
+      }
+    },
+    "issues": []
+  }
+}

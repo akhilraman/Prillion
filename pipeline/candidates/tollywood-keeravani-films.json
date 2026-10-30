@@ -1,0 +1,330 @@
+{
+  "question": {
+    "id": "tollywood-keeravani-films",
+    "category": "tollywood",
+    "prompt": "Name a film whose music was composed by M. M. Keeravani.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "kshana-kshanam",
+        "canonical": "Kshana Kshanam",
+        "aliases": [
+          "Kshana Kshanam (1991)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document names Kshana Kshanam among the films featuring his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "gharana-mogudu",
+        "canonical": "Gharana Mogudu",
+        "aliases": [
+          "Gharana Mogudu (1992)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gharana Mogudu is listed among his film composition credits.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "allari-priyudu",
+        "canonical": "Allari Priyudu",
+        "aliases": [
+          "Allari Priyudu (1993)"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Allari Priyudu is listed among the works for which he composed music.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "criminal",
+        "canonical": "Criminal",
+        "aliases": [
+          "Criminal (1994)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Criminal is explicitly included in the document's list of his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "subha-sankalpam",
+        "canonical": "Subha Sankalpam",
+        "aliases": [
+          "Shubha Sankalpam",
+          "Subha Sankalpam (1995)"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Subha Sankalpam appears in the list of films featuring his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "pelli-sandadi",
+        "canonical": "Pelli Sandadi",
+        "aliases": [
+          "Pelli Sandadi (1996)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document credits his compositions in the 1996 film Pelli Sandadi.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "devaraagam",
+        "canonical": "Devaraagam",
+        "aliases": [
+          "Devaragam",
+          "Devaraagam (1996)"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Devaraagam is named among the films for which he composed music.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "annamayya",
+        "canonical": "Annamayya",
+        "aliases": [
+          "Annamayya (1997)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "He received the National Film Award for Best Music Direction for Annamayya.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "zakhm",
+        "canonical": "Zakhm",
+        "aliases": [
+          "Zakhm (1998)"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Zakhm is included among the films featuring his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "student-no-1",
+        "canonical": "Student No.1",
+        "aliases": [
+          "Student No 1",
+          "Student Number 1",
+          "Student No. 1"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Student No.1 appears in the document's list of his film compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "jism",
+        "canonical": "Jism",
+        "aliases": [
+          "Jism (2003)"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jism is explicitly named as a film featuring his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "paheli",
+        "canonical": "Paheli",
+        "aliases": [
+          "Paheli (2005)"
+        ],
+        "familiarity": 0.012,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Paheli among his composition credits.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "sri-ramadasu",
+        "canonical": "Sri Ramadasu",
+        "aliases": [
+          "Sriramadasu",
+          "Sri Ramadasu (2006)"
+        ],
+        "familiarity": 0.04,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sri Ramadasu is listed among the films whose music he composed.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [
+          "Magadheera (2009)"
+        ],
+        "familiarity": 0.1001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magadheera appears in the document's list of his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "eega",
+        "canonical": "Eega",
+        "aliases": [
+          "Eega (2012)"
+        ],
+        "familiarity": 0.1001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eega is named among the films featuring Keeravani's compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "baahubali-the-beginning",
+        "canonical": "Baahubali: The Beginning",
+        "aliases": [
+          "Baahubali",
+          "Bahubali",
+          "Baahubali 1",
+          "Bahubali 1",
+          "Baahubali (2015)",
+          "Bahubali The Beginning"
+        ],
+        "familiarity": 0.1001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies his music for Baahubali: The Beginning through its Saturn Award nomination.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "baahubali-2017",
+        "canonical": "Baahubali (2017)",
+        "aliases": [
+          "Baahubali 2",
+          "Bahubali 2"
+        ],
+        "familiarity": 0.1001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document credits his compositions for both the 2015 and 2017 Baahubali films.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "RRR (2022)"
+        ],
+        "familiarity": 0.1001,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "RRR is explicitly listed among the films featuring his compositions.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "kalki",
+        "canonical": "Kalki",
+        "aliases": [
+          "Kalki (1990)"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kalki was his first independent film music project, although the film was never released.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      },
+      {
+        "id": "manasu-mamatha",
+        "canonical": "Manasu Mamatha",
+        "aliases": [
+          "Manasu Mamatha (1990)"
+        ],
+        "familiarity": 0.003,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Manasu Mamatha as his first released film as an independent musician.",
+        "sourceIds": [
+          "m-m-keeravani"
+        ]
+      }
+    ],
+    "explanation": "Keeravani has composed for Telugu films and also worked in Hindi, Tamil, Kannada and Malayalam cinema. His credits range from Manasu Mamatha to RRR.",
+    "sources": [
+      {
+        "id": "m-m-keeravani",
+        "title": "M. M. Keeravani",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/M._M._Keeravani",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Any film for which M. M. Keeravani was a music composer counts, including unreleased films; work solely as an assistant music director does not count."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "fd9bcaf0c4077a5a",
+    "brief": "Name a film whose music was composed by M. M. Keeravani.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "m-m-keeravani",
+        "version": "1381899941",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Kshana Kshanam": "He is best known for his compositions in works such as Kshana Kshanam (1991), Gharana Mogudu (1992), Allari Priyudu (1993), Criminal (1994),",
+      "Gharana Mogudu": "He is best known for his compositions in works such as Kshana Kshanam (1991), Gharana Mogudu (1992), Allari Priyudu (1993), Criminal (1994),",
+      "Allari Priyudu": "He is best known for his compositions in works such as Kshana Kshanam (1991), Gharana Mogudu (1992), Allari Priyudu (1993), Criminal (1994),",
+      "Criminal": "He is best known for his compositions in works such as Kshana Kshanam (1991), Gharana Mogudu (1992), Allari Priyudu (1993), Criminal (1994),",
+      "Subha Sankalpam": "Subha Sankalpam (1995), Pelli Sandadi (1996), Devaraagam (1996), Annamayya (1997), Zakhm (1998),",
+      "Pelli Sandadi": "Subha Sankalpam (1995), Pelli Sandadi (1996), Devaraagam (1996), Annamayya (1997), Zakhm (1998),",
+      "Devaraagam": "Subha Sankalpam (1995), Pelli Sandadi (1996), Devaraagam (1996), Annamayya (1997), Zakhm (1998),",
+      "Annamayya": "He received a National Film Award for Best Music Direction for the 1997 Telugu film Annamayya.",
+      "Zakhm": "Subha Sankalpam (1995), Pelli Sandadi (1996), Devaraagam (1996), Annamayya (1997), Zakhm (1998),",
+      "Student No.1": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Jism": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Paheli": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Sri Ramadasu": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Magadheera": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Eega": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Baahubali: The Beginning": "He was also nominated for Saturn Award for Best Music for Baahubali: The Beginning (2015).",
+      "Baahubali (2017)": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "RRR": "Student No.1 (2001), Jism (2003), Paheli (2005), Sri Ramadasu (2006), Magadheera (2009), Eega (2012), Baahubali (2015 and 2017), and RRR (2022).",
+      "Kalki": "Keeravani's first big break as an independent musician came with the film Kalki in 1990, but the film never got released and the soundtrack also went unnoticed.",
+      "Manasu Mamatha": "It was director Mouli's 1990 film Manasu Mamatha that brought him to the limelight and was considered his first released movie."
+    },
+    "issues": []
+  }
+}

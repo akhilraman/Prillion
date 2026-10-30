@@ -2,9 +2,11 @@ import { useEffect, useRef } from 'react';
 import type { RoundState } from '../domain/round.ts';
 import { totalPoints } from '../domain/round.ts';
 import { isAiKnowledge } from '../domain/types.ts';
+import { play, stopSink } from '../game/sound.ts';
 import type { RoundNotice } from '../game/useRound.ts';
 import { AnswerForm } from './AnswerForm.tsx';
 import { CATEGORY_LABELS, headlineFor } from './labels.ts';
+import { MuteToggle } from './MuteToggle.tsx';
 import { RevealStage } from './RevealStage.tsx';
 import { SINK_MS, diveMetres, sinkMetres } from './scene/depth.ts';
 import { Timer } from './Timer.tsx';
@@ -23,11 +25,37 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
   const descendRef = useRef<HTMLButtonElement>(null);
   const revealed = state.phase === 'revealed';
   const index = state.index;
+  const missCount = state.phase === 'answering' ? state.misses.length : 0;
+  const lastResult = revealed ? state.results[state.results.length - 1] : undefined;
 
   // Move focus to the continue button so keyboard users can just press Enter again.
   useEffect(() => {
     if (revealed) descendRef.current?.focus();
   }, [revealed, index]);
+
+  // Cues follow Krillion's beat: miss thud while still answering, then on reveal a
+  // submit blip + 3 s whoosh (correct) or a dull timeout; the tier sting lands with the rank.
+  useEffect(() => {
+    if (state.phase === 'answering') {
+      stopSink();
+      if (missCount > 0) play('miss', { onceKey: `miss-${index}-${missCount}` });
+      return;
+    }
+    if (!lastResult) return;
+    if (lastResult.outcome === 'correct') {
+      play('submit', { onceKey: `submit-${index}` });
+      play('sink', { onceKey: `sink-${index}` });
+      const reduced =
+        typeof window.matchMedia === 'function' &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      const delay = reduced ? 0 : SINK_MS - 200;
+      const t = window.setTimeout(() => {
+        play('tier', { tier: lastResult.score?.tier, onceKey: `tier-${index}` });
+      }, delay);
+      return () => clearTimeout(t);
+    }
+    play('timeout', { onceKey: `timeout-${index}` });
+  }, [revealed, index, missCount, lastResult, state.phase]);
 
   // Cosmetic: the HUD numbers glide up while the scene scrolls down.
   const depth = useCountUp(diveMetres(state), { durationMs: SINK_MS - 200 });
@@ -37,7 +65,6 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
   if (!question) return null; // unreachable: the reducer guarantees a valid index
 
   const total = state.questions.length;
-  const lastResult = revealed ? state.results[state.results.length - 1] : undefined;
 
   return (
     <main className="screen screen--round">
@@ -72,9 +99,12 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
         </div>
       </header>
 
-      <button className="quit" type="button" onClick={onQuit}>
-        Quit round
-      </button>
+      <div className="round-tools">
+        <button className="quit" type="button" onClick={onQuit}>
+          Quit round
+        </button>
+        <MuteToggle />
+      </div>
 
       {notice && (notice.shortfall || notice.repeats > 0) && index === 0 && (
         <p className="notice" role="note">
@@ -99,11 +129,6 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
         <h1 id="prompt" className="question-card__prompt">
           {question.prompt}
         </h1>
-        {question.criteria && (
-          <p className="question-card__criteria">
-            <strong>What counts:</strong> {question.criteria}
-          </p>
-        )}
         <p className="question-card__hint">▼ rarer answers sink deeper ▼</p>
       </section>
 
@@ -144,7 +169,10 @@ export function RoundScreen({ state, notice, onSubmit, onTimeout, onNext, onQuit
               ref={descendRef}
               className={`button button--primary descend${lastResult?.outcome === 'correct' ? '' : ' descend--miss'}`}
               type="button"
-              onClick={onNext}
+              onClick={() => {
+                play('descend');
+                onNext();
+              }}
             >
               {index === total - 1 ? 'See results' : 'Descend'} <span aria-hidden="true">▼</span>
             </button>

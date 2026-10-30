@@ -1,0 +1,924 @@
+{
+  "question": {
+    "id": "us-pop-song-of-the-year",
+    "category": "us-pop",
+    "prompt": "Name a song that won the Grammy Award for Song of the Year from 1959 through 2026.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "nel-blu-dipinto-di-blu-volare",
+        "canonical": "Nel blu, dipinto di blu (Volare)",
+        "aliases": [
+          "Volare",
+          "Nel blu dipinto di blu"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Domenico Modugno's song won in 1959.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "the-battle-of-new-orleans",
+        "canonical": "The Battle of New Orleans",
+        "aliases": [
+          "Battle of New Orleans"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Johnny Horton song, written by Jimmy Driftwood, won in 1960.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "theme-from-exodus",
+        "canonical": "Theme from Exodus",
+        "aliases": [
+          "Theme of Exodus",
+          "Exodus"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ernest Gold's instrumental won in 1961.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "moon-river",
+        "canonical": "Moon River",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Henry Mancini and Johnny Mercer composition won in 1962.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "what-kind-of-fool-am-i",
+        "canonical": "What Kind of Fool Am I?",
+        "aliases": [
+          "What Kind of Fool Am I"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Sammy Davis Jr. song, written by Leslie Bricusse and Anthony Newley, won in 1963.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "days-of-wine-and-roses",
+        "canonical": "Days of Wine and Roses",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Henry Mancini and Johnny Mercer composition won in 1964.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "hello-dolly",
+        "canonical": "Hello, Dolly!",
+        "aliases": [
+          "Hello Dolly"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jerry Herman's song, performed by Louis Armstrong, won in 1965.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "the-shadow-of-your-smile",
+        "canonical": "The Shadow of Your Smile",
+        "aliases": [
+          "Shadow of Your Smile"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Tony Bennett song, written by Paul Francis Webster and Johnny Mandel, won in 1966.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "michelle",
+        "canonical": "Michelle",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Beatles song, written by John Lennon and Paul McCartney, won in 1967.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "up-up-and-away",
+        "canonical": "Up, Up, and Away",
+        "aliases": [
+          "Up Up and Away"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jimmy Webb's song, performed by the 5th Dimension, won in 1968.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "little-green-apples",
+        "canonical": "Little Green Apples",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bobby Russell's song, performed by O. C. Smith, won in 1969.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "games-people-play",
+        "canonical": "Games People Play",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joe South's song won in 1970.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "bridge-over-troubled-water",
+        "canonical": "Bridge over Troubled Water",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Paul Simon's song, performed by Simon & Garfunkel, won in 1971.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "you-ve-got-a-friend",
+        "canonical": "You've Got a Friend",
+        "aliases": [
+          "Youve Got a Friend",
+          "You Have Got a Friend"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Carole King's song won in 1972.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "the-first-time-ever-i-saw-your-face",
+        "canonical": "The First Time Ever I Saw Your Face",
+        "aliases": [
+          "First Time Ever I Saw Your Face"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ewan MacColl's song, performed by Roberta Flack, won in 1973.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "killing-me-softly-with-his-song",
+        "canonical": "Killing Me Softly with His Song",
+        "aliases": [
+          "Killing Me Softly"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Roberta Flack song, written by Norman Gimbel and Charles Fox, won in 1974.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "the-way-we-were",
+        "canonical": "The Way We Were",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Barbra Streisand song, written by Alan and Marilyn Bergman and Marvin Hamlisch, won in 1975.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "send-in-the-clowns",
+        "canonical": "Send in the Clowns",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stephen Sondheim's song, performed by Judy Collins, won in 1976.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "i-write-the-songs",
+        "canonical": "I Write the Songs",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bruce Johnston's song, performed by Barry Manilow, won in 1977.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "evergreen-love-theme-from-a-star-is-born",
+        "canonical": "Evergreen (Love Theme from A Star Is Born)",
+        "aliases": [
+          "Evergreen",
+          "Love Theme from A Star Is Born"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Barbra Streisand and Paul Williams's song shared the award in the 1978 tie.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "you-light-up-my-life",
+        "canonical": "You Light Up My Life",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Joe Brooks's song, performed by Debby Boone, shared the award in the 1978 tie.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "just-the-way-you-are",
+        "canonical": "Just the Way You Are",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billy Joel's song won in 1979.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "what-a-fool-believes",
+        "canonical": "What a Fool Believes",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Doobie Brothers song, written by Kenny Loggins and Michael McDonald, won in 1980.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "sailing",
+        "canonical": "Sailing",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Christopher Cross's song won in 1981.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "bette-davis-eyes",
+        "canonical": "Bette Davis Eyes",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Kim Carnes song, written by Donna Weiss and Jackie DeShannon, won in 1982.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "always-on-my-mind",
+        "canonical": "Always on My Mind",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Willie Nelson song, written by Johnny Christopher, Mark James and Wayne Carson, won in 1983.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "every-breath-you-take",
+        "canonical": "Every Breath You Take",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sting's song, performed by the Police, won in 1984.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "what-s-love-got-to-do-with-it",
+        "canonical": "What's Love Got to Do with It",
+        "aliases": [
+          "Whats Love Got to Do with It"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Tina Turner song, written by Graham Lyle and Terry Britten, won in 1985.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "we-are-the-world",
+        "canonical": "We Are the World",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Michael Jackson and Lionel Richie's song, performed by USA for Africa, won in 1986.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "that-s-what-friends-are-for",
+        "canonical": "That's What Friends Are For",
+        "aliases": [
+          "Thats What Friends Are For"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Burt Bacharach and Carole Bayer Sager composition won in 1987.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "somewhere-out-there",
+        "canonical": "Somewhere Out There",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Linda Ronstadt and James Ingram song, written by James Horner, Barry Mann and Cynthia Weil, won in 1988.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "don-t-worry-be-happy",
+        "canonical": "Don't Worry, Be Happy",
+        "aliases": [
+          "Don't Worry Be Happy",
+          "Dont Worry Be Happy"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bobby McFerrin's song won in 1989.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "wind-beneath-my-wings",
+        "canonical": "Wind Beneath My Wings",
+        "aliases": [
+          "The Wind Beneath My Wings"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bette Midler song, written by Larry Henley and Jeff Silbar, won in 1990.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "from-a-distance",
+        "canonical": "From a Distance",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Julie Gold's song, performed by Bette Midler, won in 1991.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "unforgettable",
+        "canonical": "Unforgettable",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Irving Gordon's song, performed by Natalie Cole with Nat King Cole, won in 1992.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "tears-in-heaven",
+        "canonical": "Tears in Heaven",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Eric Clapton and Will Jennings's song won in 1993.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "a-whole-new-world",
+        "canonical": "A Whole New World",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alan Menken and Tim Rice's song, performed by Peabo Bryson and Regina Belle, won in 1994.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "streets-of-philadelphia",
+        "canonical": "Streets of Philadelphia",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bruce Springsteen's song won in 1995.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "kiss-from-a-rose",
+        "canonical": "Kiss from a Rose",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seal's song won in 1996.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "change-the-world",
+        "canonical": "Change the World",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Eric Clapton song, written by Gordon Kennedy, Wayne Kirkpatrick and Tommy Sims, won in 1997.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "sunny-came-home",
+        "canonical": "Sunny Came Home",
+        "aliases": [],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shawn Colvin and John Leventhal's song won in 1998.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "my-heart-will-go-on",
+        "canonical": "My Heart Will Go On",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "James Horner and Will Jennings's song, performed by Celine Dion, won in 1999.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "smooth",
+        "canonical": "Smooth",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Itaal Shur and Rob Thomas's song, performed by Santana featuring Rob Thomas, won in 2000.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "beautiful-day",
+        "canonical": "Beautiful Day",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "U2's song won in 2001.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "fallin",
+        "canonical": "Fallin'",
+        "aliases": [
+          "Fallin",
+          "Falling"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alicia Keys's song won in 2002.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "don-t-know-why",
+        "canonical": "Don't Know Why",
+        "aliases": [
+          "Dont Know Why"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jesse Harris's song, performed by Norah Jones, won in 2003.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "dance-with-my-father",
+        "canonical": "Dance with My Father",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Richard Marx and Luther Vandross's song won in 2004.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "daughters",
+        "canonical": "Daughters",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Mayer's song won in 2005.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "sometimes-you-can-t-make-it-on-your-own",
+        "canonical": "Sometimes You Can't Make It on Your Own",
+        "aliases": [
+          "Sometimes You Cant Make It on Your Own"
+        ],
+        "familiarity": 0.0011,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "U2's song won in 2006.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "not-ready-to-make-nice",
+        "canonical": "Not Ready to Make Nice",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dixie Chicks song, written by Emily Robison, Martie Maguire, Natalie Maines and Dan Wilson, won in 2007.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "rehab",
+        "canonical": "Rehab",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amy Winehouse's song won in 2008.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "viva-la-vida",
+        "canonical": "Viva la Vida",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Coldplay's song won in 2009.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "single-ladies-put-a-ring-on-it",
+        "canonical": "Single Ladies (Put a Ring on It)",
+        "aliases": [
+          "Single Ladies",
+          "Put a Ring on It"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beyoncé's song won in 2010.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "need-you-now",
+        "canonical": "Need You Now",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Lady Antebellum song won in 2011.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "rolling-in-the-deep",
+        "canonical": "Rolling in the Deep",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adele and Paul Epworth's song won in 2012.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "we-are-young",
+        "canonical": "We Are Young",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Fun featuring Janelle Monáe song won in 2013.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "royals",
+        "canonical": "Royals",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lorde's song, written with Joel Little, won in 2014.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "stay-with-me-darkchild-version",
+        "canonical": "Stay with Me (Darkchild Version)",
+        "aliases": [
+          "Stay with Me"
+        ],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sam Smith's song won in 2015 in its Darkchild Version.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "thinking-out-loud",
+        "canonical": "Thinking Out Loud",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ed Sheeran and Amy Wadge's song won in 2016.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "hello",
+        "canonical": "Hello",
+        "aliases": [
+          "Hello by Adele",
+          "Adele's Hello"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Adele and Greg Kurstin's song won in 2017.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "that-s-what-i-like",
+        "canonical": "That's What I Like",
+        "aliases": [
+          "Thats What I Like"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bruno Mars song won in 2018.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "this-is-america",
+        "canonical": "This Is America",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Childish Gambino song won in 2019.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "bad-guy",
+        "canonical": "Bad Guy",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billie Eilish and Finneas O'Connell's song won in 2020.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "i-can-t-breathe",
+        "canonical": "I Can't Breathe",
+        "aliases": [
+          "I Cant Breathe"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The H.E.R. song, written with Dernst Emile II and Tiara Thomas, won in 2021.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "leave-the-door-open",
+        "canonical": "Leave the Door Open",
+        "aliases": [],
+        "familiarity": 0.0153,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Silk Sonic song won in 2022.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "just-like-that",
+        "canonical": "Just Like That",
+        "aliases": [],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bonnie Raitt's song won in 2023.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "what-was-i-made-for",
+        "canonical": "What Was I Made For?",
+        "aliases": [
+          "What Was I Made For"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billie Eilish and Finneas O'Connell's song won in 2024.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "not-like-us",
+        "canonical": "Not Like Us",
+        "aliases": [],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kendrick Lamar's song won in 2025.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      },
+      {
+        "id": "wildflower",
+        "canonical": "Wildflower",
+        "aliases": [
+          "Wild Flower"
+        ],
+        "familiarity": 0.0382,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Billie Eilish and Finneas O'Connell's song won in 2026.",
+        "sourceIds": [
+          "grammy-award-for-song-of-the-year"
+        ]
+      }
+    ],
+    "explanation": "Song of the Year honors a song's composition and is awarded to its songwriter(s), rather than its performers or recording team. These winners span 1959–2026, including both songs that tied in 1978.",
+    "sources": [
+      {
+        "id": "grammy-award-for-song-of-the-year",
+        "title": "Grammy Award for Song of the Year",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grammy_Award_for_Song_of_the_Year",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "0123cf13f00b477b",
+    "brief": "Name a song that has won the Grammy Award for Song of the Year.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "grammy-award-for-song-of-the-year",
+        "version": "1373229500",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Nel blu, dipinto di blu (Volare)": "1959 | \"Nel blu, dipinto di blu (Volare)\" | Domenico Modugno | Domenico Modugno",
+      "The Battle of New Orleans": "1960 | \"The Battle of New Orleans\" | Jimmy Driftwood | Johnny Horton",
+      "Theme from Exodus": "1961 | \"Theme from Exodus\" | Ernest Gold | Ernest Gold",
+      "Moon River": "1962 | \"Moon River\" | Henry Mancini and Johnny Mercer | Henry Mancini",
+      "What Kind of Fool Am I?": "1963 | \"What Kind of Fool Am I?\" | Leslie Bricusse and Anthony Newley | Sammy Davis Jr.",
+      "Days of Wine and Roses": "1964 | \"Days of Wine and Roses\" | Henry Mancini and Johnny Mercer | Henry Mancini",
+      "Hello, Dolly!": "1965 | \"Hello, Dolly!\" | Jerry Herman | Louis Armstrong",
+      "The Shadow of Your Smile": "1966 | \"The Shadow of Your Smile\" | Paul Francis Webster and Johnny Mandel | Tony Bennett",
+      "Michelle": "1967 | \"Michelle\" | John Lennon and Paul McCartney | The Beatles",
+      "Up, Up, and Away": "1968 | \"Up, Up, and Away\" | Jimmy Webb | The 5th Dimension",
+      "Little Green Apples": "1969 | \"Little Green Apples\" | Bobby Russell | O. C. Smith",
+      "Games People Play": "1970 | \"Games People Play\" | Joe South | Joe South",
+      "Bridge over Troubled Water": "1971 | \"Bridge over Troubled Water\" | Paul Simon | Simon & Garfunkel",
+      "You've Got a Friend": "1972 | \"You've Got a Friend\" | Carole King | James Taylor / Carole King",
+      "The First Time Ever I Saw Your Face": "1973 | \"The First Time Ever I Saw Your Face\" | Ewan MacColl | Roberta Flack",
+      "Killing Me Softly with His Song": "1974 | \"Killing Me Softly with His Song\" | Norman Gimbel and Charles Fox | Roberta Flack",
+      "The Way We Were": "1975 | \"The Way We Were\" | Alan and Marilyn Bergman and Marvin Hamlisch | Barbra Streisand",
+      "Send in the Clowns": "1976 | \"Send in the Clowns\" | Stephen Sondheim | Judy Collins",
+      "I Write the Songs": "1977 | \"I Write the Songs\" | Bruce Johnston | Barry Manilow",
+      "Evergreen (Love Theme from A Star Is Born)": "1978 | \"Evergreen (Love Theme from A Star Is Born)\" (TIE) | Barbra Streisand and Paul Williams | Barbra Streisand",
+      "You Light Up My Life": "1978 | \"You Light Up My Life\" (TIE) | Joe Brooks | Debby Boone",
+      "Just the Way You Are": "1979 | \"Just the Way You Are\" | Billy Joel | Billy Joel",
+      "What a Fool Believes": "1980 | \"What a Fool Believes\" | Kenny Loggins and Michael McDonald | The Doobie Brothers",
+      "Sailing": "1981 | \"Sailing\" | Christopher Cross | Christopher Cross",
+      "Bette Davis Eyes": "1982 | \"Bette Davis Eyes\" | Donna Weiss and Jackie DeShannon | Kim Carnes",
+      "Always on My Mind": "1983 | \"Always on My Mind\" | Johnny Christopher, Mark James and Wayne Carson | Willie Nelson",
+      "Every Breath You Take": "1984 | \"Every Breath You Take\" | Sting | The Police",
+      "What's Love Got to Do with It": "1985 | \"What's Love Got to Do with It\" | Graham Lyle and Terry Britten | Tina Turner",
+      "We Are the World": "1986 | \"We Are the World\" | Michael Jackson and Lionel Richie | USA for Africa",
+      "That's What Friends Are For": "1987 | \"That's What Friends Are For\" | Burt Bacharach and Carole Bayer Sager | Dionne Warwick & Friends (Elton John, Gladys Knight and Stevie Wonder)",
+      "Somewhere Out There": "1988 | \"Somewhere Out There\" | James Horner, Barry Mann and Cynthia Weil | Linda Ronstadt and James Ingram",
+      "Don't Worry, Be Happy": "1989 | \"Don't Worry, Be Happy\" | Bobby McFerrin | Bobby McFerrin",
+      "Wind Beneath My Wings": "1990 | \"Wind Beneath My Wings\" | Larry Henley and Jeff Silbar | Bette Midler",
+      "From a Distance": "1991 | \"From a Distance\" | Julie Gold | Bette Midler",
+      "Unforgettable": "1992 | \"Unforgettable\" | Irving Gordon | Natalie Cole (with Nat King Cole)",
+      "Tears in Heaven": "1993 | \"Tears in Heaven\" | Eric Clapton and Will Jennings | Eric Clapton",
+      "A Whole New World": "1994 | \"A Whole New World\" | Alan Menken and Tim Rice | Peabo Bryson and Regina Belle",
+      "Streets of Philadelphia": "1995 | \"Streets of Philadelphia\" | Bruce Springsteen | Bruce Springsteen",
+      "Kiss from a Rose": "1996 | \"Kiss from a Rose\" | Seal | Seal",
+      "Change the World": "1997 | \"Change the World\" | Gordon Kennedy, Wayne Kirkpatrick and Tommy Sims | Eric Clapton",
+      "Sunny Came Home": "1998 | \"Sunny Came Home\" | Shawn Colvin and John Leventhal | Shawn Colvin",
+      "My Heart Will Go On": "1999 | \"My Heart Will Go On\" | James Horner and Will Jennings | Celine Dion",
+      "Smooth": "2000 | \"Smooth\" | Itaal Shur and Rob Thomas | Santana featuring Rob Thomas",
+      "Beautiful Day": "2001 | \"Beautiful Day\" | Adam Clayton, David Evans, Larry Mullen Jr. and Paul Hewson | U2",
+      "Fallin'": "2002 | \"Fallin'\" | Alicia Keys | Alicia Keys",
+      "Don't Know Why": "2003 | \"Don't Know Why\" | Jesse Harris | Norah Jones",
+      "Dance with My Father": "2004 | \"Dance with My Father\" | Richard Marx and Luther Vandross | Luther Vandross",
+      "Daughters": "2005 | \"Daughters\" | John Mayer | John Mayer",
+      "Sometimes You Can't Make It on Your Own": "2006 | \"Sometimes You Can't Make It on Your Own\" | Adam Clayton, David Evans, Larry Mullen Jr. and Paul Hewson | U2",
+      "Not Ready to Make Nice": "2007 | \"Not Ready to Make Nice\" | Emily Robison, Martie Maguire, Natalie Maines and Dan Wilson | Dixie Chicks",
+      "Rehab": "2008 | \"Rehab\" | Amy Winehouse | Amy Winehouse",
+      "Viva la Vida": "2009 | \"Viva la Vida\" | Guy Berryman, Jonny Buckland, Will Champion and Chris Martin | Coldplay",
+      "Single Ladies (Put a Ring on It)": "2010 | \"Single Ladies (Put a Ring on It)\" | Thaddis Harrell, Beyoncé Knowles, Terius Nash and Christopher Stewart | Beyoncé",
+      "Need You Now": "2011 | \"Need You Now\" | Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott | Lady Antebellum",
+      "Rolling in the Deep": "2012 | \"Rolling in the Deep\" | Adele Adkins and Paul Epworth | Adele",
+      "We Are Young": "2013 | \"We Are Young\" | Nate Ruess, Jack Antonoff, Jeff Bhasker and Andrew Dost | Fun featuring Janelle Monáe",
+      "Royals": "2014 | \"Royals\" | Joel Little and Ella Yelich-O'Connor | Lorde",
+      "Stay with Me (Darkchild Version)": "2015 | \"Stay with Me\" (Darkchild Version) | James Napier, William Phillips and Sam Smith | Sam Smith",
+      "Thinking Out Loud": "2016 | \"Thinking Out Loud\" | Ed Sheeran and Amy Wadge | Ed Sheeran",
+      "Hello": "2017 | \"Hello\" | Adele Adkins and Greg Kurstin | Adele",
+      "That's What I Like": "2018 | \"That's What I Like\" | Christopher Brody Brown, James Fauntleroy, Philip Lawrence, Bruno Mars, Ray Charles McCullough II, Jeremy Reeves, Ray Romulus and Jonathan Yip | Bruno Mars",
+      "This Is America": "2019 | \"This Is America\" | Donald Glover, Ludwig Göransson and Jeffery Lamar Williams | Childish Gambino",
+      "Bad Guy": "2020 | \"Bad Guy\" | Billie Eilish O'Connell and Finneas O'Connell | Billie Eilish",
+      "I Can't Breathe": "2021 | \"I Can't Breathe\" | Dernst Emile II, H.E.R. and Tiara Thomas | H.E.R.",
+      "Leave the Door Open": "2022 | \"Leave the Door Open\" | Brandon Anderson, Christopher Brody Brown, Dernst Emile II and Bruno Mars | Silk Sonic",
+      "Just Like That": "2023 | \"Just Like That\" | Bonnie Raitt | Bonnie Raitt",
+      "What Was I Made For?": "2024 | \"What Was I Made For?\" | Billie Eilish O'Connell and Finneas O'Connell | Billie Eilish",
+      "Not Like Us": "2025 | \"Not Like Us\" | Kendrick Lamar | Kendrick Lamar",
+      "Wildflower": "2026 | \"Wildflower\" | Billie Eilish O'Connell and Finneas O'Connell | Billie Eilish"
+    },
+    "issues": []
+  }
+}

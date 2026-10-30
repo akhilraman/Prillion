@@ -89,9 +89,9 @@ export interface Question {
   answerSet: AnswerSetKind;
   answers: Answer[];
   /**
-   * "What counts": the editorial rule for membership, shown to the player.
-   * Required (by the quality gate) for open sets, where the prompt alone is
-   * subjective, e.g. what makes a film a "saviour trope" film.
+   * "What counts": the editorial rule for membership. Shown after the player
+   * answers, inside the accepted-answers panel — not on the prompt, where it
+   * crowds a phone screen. Required (by the quality gate) for open sets.
    */
   criteria?: string;
   /** Shown after the player answers. */

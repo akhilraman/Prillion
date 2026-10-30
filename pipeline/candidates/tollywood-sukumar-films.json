@@ -1,0 +1,189 @@
+{
+  "question": {
+    "id": "tollywood-sukumar-films",
+    "category": "tollywood",
+    "prompt": "Name a film directed by Sukumar, including short films.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "arya",
+        "canonical": "Arya",
+        "aliases": [
+          "Aarya",
+          "Arya (2004)"
+        ],
+        "familiarity": 0.1478,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar made his directorial debut with Arya in 2004.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "jagadam",
+        "canonical": "Jagadam",
+        "aliases": [
+          "Jagadam (2007)"
+        ],
+        "familiarity": 0.0177,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jagadam is identified as one of Sukumar's films in the account of his directing career.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "arya-2",
+        "canonical": "Arya 2",
+        "aliases": [
+          "Aarya 2",
+          "Arya II",
+          "Aarya II"
+        ],
+        "familiarity": 0.0591,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar wrote and directed Arya 2, released in 2009.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "100-love",
+        "canonical": "100% Love",
+        "aliases": [
+          "100 Percent Love",
+          "100 Love"
+        ],
+        "familiarity": 0.0591,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly identifies 100% Love as Sukumar's next directorial film.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "1-nenokkadine",
+        "canonical": "1: Nenokkadine",
+        "aliases": [
+          "Nenokkadine",
+          "1 Nenokkadine",
+          "One Nenokkadine"
+        ],
+        "familiarity": 0.0591,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document discusses Sukumar's direction of the psychological thriller 1: Nenokkadine.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "i-am-that-change",
+        "canonical": "I Am That Change",
+        "aliases": [],
+        "familiarity": 0.0044,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar wrote and directed this three-minute short film in 2014.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "nannaku-prematho",
+        "canonical": "Nannaku Prematho",
+        "aliases": [
+          "Nannaku Premato"
+        ],
+        "familiarity": 0.0591,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar directed Nannaku Prematho, starring N. T. Rama Rao Jr. and Rakul Preet Singh.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "rangasthalam",
+        "canonical": "Rangasthalam",
+        "aliases": [
+          "Rangasthalam (2018)"
+        ],
+        "familiarity": 0.1478,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly praises Sukumar's direction of Rangasthalam.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1",
+          "Pushpa The Rise"
+        ],
+        "familiarity": 0.1478,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar won Best Director awards for Pushpa: The Rise.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      },
+      {
+        "id": "pushpa-2-the-rule",
+        "canonical": "Pushpa 2: The Rule",
+        "aliases": [
+          "Pushpa 2",
+          "Pushpa The Rule",
+          "Pushpa 2 The Rule"
+        ],
+        "familiarity": 0.1478,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sukumar won the Best Director – Telugu award for Pushpa 2: The Rule.",
+        "sourceIds": [
+          "sukumar"
+        ]
+      }
+    ],
+    "explanation": "Sukumar's directing credits range from Arya to the Pushpa films, and include the short film I Am That Change. Films he only wrote or produced do not count.",
+    "sources": [
+      {
+        "id": "sukumar",
+        "title": "Sukumar",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sukumar",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Feature films or short films credited to Sukumar as director count; writing, producing, or assistant-director credits alone do not."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "116b06d8e58ab4d7",
+    "brief": "Name a film directed by Sukumar.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "sukumar",
+        "version": "1379494830",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Arya": "He made his directorial debut with Arya (2004), which was a major success",
+      "Jagadam": "Unlike Arya, Jagadam focused more on violence and in an interview with South Scope, Sukumar called the film an \"act of bravado\", adding that he \"made it with an innocent passion\", without thinking about the audience's response.",
+      "Arya 2": "He then wrote and directed Arya 2 (2009), which was promoted as the namesake sequel to his debut Arya.",
+      "100% Love": "After a gap of two years, Sukumar's next directorial film 100% Love (2011) was released.",
+      "1: Nenokkadine": "Sangeetha Devi Dundoo of The Hindu stated, \"Habitual to watching films that begin with a great premise only to fall into the commercial trap of force-fit comic situations, it comes as a relief when Sukumar laces the psychological thriller with subtle wit that never takes the focus away from the plot\".",
+      "I Am That Change": "In 2014, he wrote and directed a 3-minute short film I Am That Change produced by and starring Allu Arjun.",
+      "Nannaku Prematho": "Following the demise of his father Tirupathi Naidu, Sukumar decided to direct Nannaku Prematho starring N. T. Rama Rao Jr. and Rakul Preet Singh in the lead roles.",
+      "Rangasthalam": "His 2018 period action film with Ram Charan titled Rangasthalam received positive reviews with particular praise for Ram Charan's performance, and Sukumar's direction and screenplay.",
+      "Pushpa: The Rise": "South Indian International Movie Awards | Best Director – Telugu | Pushpa: The Rise | Won |",
+      "Pushpa 2: The Rule": "South Indian International Movie Awards | Best Director – Telugu | Pushpa 2: The Rule | Won |"
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [1: Nenokkadine]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

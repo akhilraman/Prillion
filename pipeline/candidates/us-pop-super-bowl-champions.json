@@ -1,0 +1,358 @@
+{
+  "question": {
+    "id": "us-pop-super-bowl-champions",
+    "category": "us-pop",
+    "prompt": "Name an NFL team that has won the Super Bowl.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "new-england-patriots",
+        "canonical": "New England Patriots",
+        "aliases": [
+          "Patriots",
+          "New England",
+          "Boston Patriots",
+          "Pats"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Patriots have won six Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "pittsburgh-steelers",
+        "canonical": "Pittsburgh Steelers",
+        "aliases": [
+          "Steelers",
+          "Pittsburgh"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Steelers have won six Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "san-francisco-49ers",
+        "canonical": "San Francisco 49ers",
+        "aliases": [
+          "49ers",
+          "San Francisco",
+          "Niners",
+          "San Francisco Forty-Niners",
+          "Forty Niners"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The 49ers have won five Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "dallas-cowboys",
+        "canonical": "Dallas Cowboys",
+        "aliases": [
+          "Cowboys",
+          "Dallas"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Cowboys have won five Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "kansas-city-chiefs",
+        "canonical": "Kansas City Chiefs",
+        "aliases": [
+          "Chiefs",
+          "Kansas City",
+          "KC Chiefs"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Chiefs have won four Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "green-bay-packers",
+        "canonical": "Green Bay Packers",
+        "aliases": [
+          "Packers",
+          "Green Bay"
+        ],
+        "familiarity": 0.1089,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Packers have won four Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "new-york-giants",
+        "canonical": "New York Giants",
+        "aliases": [
+          "Giants",
+          "NY Giants"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Giants have won four Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "denver-broncos",
+        "canonical": "Denver Broncos",
+        "aliases": [
+          "Broncos",
+          "Denver"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Broncos have won three Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "las-vegas-raiders",
+        "canonical": "Las Vegas Raiders",
+        "aliases": [
+          "Raiders",
+          "Oakland Raiders",
+          "Los Angeles Raiders",
+          "Las Vegas",
+          "Oakland",
+          "LA Raiders"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Raiders franchise has won three Super Bowls across its historical names.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "washington-commanders",
+        "canonical": "Washington Commanders",
+        "aliases": [
+          "Commanders",
+          "Washington",
+          "Washington Redskins",
+          "Redskins",
+          "Washington Football Team"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Washington franchise has won three Super Bowls under its former Redskins name.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "philadelphia-eagles",
+        "canonical": "Philadelphia Eagles",
+        "aliases": [
+          "Eagles",
+          "Philadelphia",
+          "Philly Eagles"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Eagles have won two Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "los-angeles-rams",
+        "canonical": "Los Angeles Rams",
+        "aliases": [
+          "Rams",
+          "LA Rams",
+          "St. Louis Rams",
+          "St Louis Rams"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Rams franchise has won two Super Bowls, including its time in St. Louis.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "miami-dolphins",
+        "canonical": "Miami Dolphins",
+        "aliases": [
+          "Dolphins",
+          "Miami"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Dolphins have won two Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "seattle-seahawks",
+        "canonical": "Seattle Seahawks",
+        "aliases": [
+          "Seahawks",
+          "Seattle"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Seahawks have won two Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "indianapolis-colts",
+        "canonical": "Indianapolis Colts",
+        "aliases": [
+          "Colts",
+          "Indianapolis",
+          "Baltimore Colts",
+          "Indy Colts"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Colts franchise has won two Super Bowls across its Baltimore and Indianapolis history.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "tampa-bay-buccaneers",
+        "canonical": "Tampa Bay Buccaneers",
+        "aliases": [
+          "Buccaneers",
+          "Bucs",
+          "Tampa Bay",
+          "Tampa Bay Bucs"
+        ],
+        "familiarity": 0.0436,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Buccaneers have won two Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "baltimore-ravens",
+        "canonical": "Baltimore Ravens",
+        "aliases": [
+          "Ravens",
+          "Baltimore"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Ravens have won two Super Bowls.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "chicago-bears",
+        "canonical": "Chicago Bears",
+        "aliases": [
+          "Bears",
+          "Chicago"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bears have won one Super Bowl.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "new-orleans-saints",
+        "canonical": "New Orleans Saints",
+        "aliases": [
+          "Saints",
+          "New Orleans"
+        ],
+        "familiarity": 0.0131,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Saints have won one Super Bowl.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      },
+      {
+        "id": "new-york-jets",
+        "canonical": "New York Jets",
+        "aliases": [
+          "Jets",
+          "NY Jets"
+        ],
+        "familiarity": 0.0033,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Jets have won one Super Bowl.",
+        "sourceIds": [
+          "list-of-super-bowl-champions"
+        ]
+      }
+    ],
+    "explanation": "The source lists 20 franchises with at least one Super Bowl victory. Former names and home cities count as the same franchise.",
+    "sources": [
+      {
+        "id": "list-of-super-bowl-champions",
+        "title": "List of Super Bowl champions",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "e8feb95dcd5d7ae4",
+    "brief": "Name an NFL team that has won the Super Bowl.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-super-bowl-champions",
+        "version": "1381077570",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "New England Patriots": "Boston / New England Patriots | 6 | 6 | .500",
+      "Pittsburgh Steelers": "Pittsburgh Steelers | 6 | 2 | .750",
+      "San Francisco 49ers": "San Francisco 49ers | 5 | 3 | .625",
+      "Dallas Cowboys": "Dallas Cowboys | 5 | 3 | .625",
+      "Kansas City Chiefs": "Kansas City Chiefs | 4 | 3 | .571",
+      "Green Bay Packers": "Green Bay Packers | 4 | 1 | .800",
+      "New York Giants": "New York Giants | 4 | 1 | .800",
+      "Denver Broncos": "Denver Broncos | 3 | 5 | .375",
+      "Las Vegas Raiders": "Oakland / Los Angeles / Las Vegas Raiders | 3 | 2 | .600",
+      "Washington Commanders": "Washington Redskins / Football Team / Commanders | 3 | 2 | .600",
+      "Philadelphia Eagles": "Philadelphia Eagles | 2 | 3 | .400",
+      "Los Angeles Rams": "St. Louis / Los Angeles Rams | 2 | 3 | .400",
+      "Miami Dolphins": "Miami Dolphins | 2 | 3 | .400",
+      "Seattle Seahawks": "Seattle Seahawks | 2 | 2 | .500",
+      "Indianapolis Colts": "Baltimore / Indianapolis Colts | 2 | 2 | .500",
+      "Tampa Bay Buccaneers": "Tampa Bay Buccaneers | 2 | 0 | 1.000",
+      "Baltimore Ravens": "Baltimore Ravens | 2 | 0 | 1.000",
+      "Chicago Bears": "Chicago Bears | 1 | 1 | .500",
+      "New Orleans Saints": "New Orleans Saints | 1 | 0 | 1.000",
+      "New York Jets": "New York Jets | 1 | 0 | 1.000"
+    },
+    "issues": []
+  }
+}

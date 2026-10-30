@@ -1,0 +1,219 @@
+{
+  "question": {
+    "id": "space-named-stars",
+    "category": "space",
+    "prompt": "Name a star in the constellation Orion that has an IAU-approved proper name.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "alnilam",
+        "canonical": "Alnilam",
+        "aliases": [
+          "ε Orionis",
+          "Epsilon Orionis"
+        ],
+        "familiarity": 0.0905,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alnilam is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "alnitak",
+        "canonical": "Alnitak",
+        "aliases": [
+          "Al Nitak",
+          "Alnitah",
+          "ζ Orionis Aa",
+          "Zeta Orionis Aa"
+        ],
+        "familiarity": 0.0905,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Alnitak is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "beehive-proplyd",
+        "canonical": "Beehive Proplyd",
+        "aliases": [
+          "HH 540"
+        ],
+        "familiarity": 0.0068,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beehive Proplyd is listed in Orion without a dagger, which the document uses to identify approved names.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "bellatrix",
+        "canonical": "Bellatrix",
+        "aliases": [
+          "γ Orionis",
+          "Gamma Orionis"
+        ],
+        "familiarity": 0.0905,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bellatrix is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "betelgeuse",
+        "canonical": "Betelgeuse",
+        "aliases": [
+          "α Orionis A",
+          "Alpha Orionis A"
+        ],
+        "familiarity": 0.2262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Betelgeuse is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "hatysa",
+        "canonical": "Hatysa",
+        "aliases": [
+          "ι Orionis Aa",
+          "Iota Orionis Aa"
+        ],
+        "familiarity": 0.0271,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hatysa is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "meissa",
+        "canonical": "Meissa",
+        "aliases": [
+          "λ Orionis A",
+          "Lambda Orionis A"
+        ],
+        "familiarity": 0.0271,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Meissa is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "mintaka",
+        "canonical": "Mintaka",
+        "aliases": [
+          "δ Orionis Aa",
+          "Delta Orionis Aa"
+        ],
+        "familiarity": 0.0905,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mintaka is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "rigel",
+        "canonical": "Rigel",
+        "aliases": [
+          "β Orionis A",
+          "Beta Orionis A"
+        ],
+        "familiarity": 0.2262,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rigel is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "saiph",
+        "canonical": "Saiph",
+        "aliases": [
+          "κ Orionis",
+          "Kappa Orionis"
+        ],
+        "familiarity": 0.0905,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Saiph is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "siwarha",
+        "canonical": "Siwarha",
+        "aliases": [
+          "α Orionis B",
+          "Alpha Orionis B"
+        ],
+        "familiarity": 0.0068,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Siwarha is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      },
+      {
+        "id": "tabit",
+        "canonical": "Tabit",
+        "aliases": [
+          "π Orionis",
+          "Pi Orionis"
+        ],
+        "familiarity": 0.0271,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tabit is listed in Orion without a dagger, indicating an IAU-approved proper name.",
+        "sourceIds": [
+          "list-of-proper-names-of-stars"
+        ]
+      }
+    ],
+    "explanation": "The supplied list contains 12 approved proper names for stars in Orion. Its table identifies IAU-approved names by the absence of a dagger (†), and attributes names to individual stars rather than entire multiple-star systems.",
+    "sources": [
+      {
+        "id": "list-of-proper-names-of-stars",
+        "title": "List of proper names of stars",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_proper_names_of_stars",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "3a704298a1d05568",
+    "brief": "Name a star that has an IAU-approved proper name.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-proper-names-of-stars",
+        "version": "1382709882",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Alnilam": "Alnilam | ε Orionis | Orion | Arabic | The middle star in Orion's belt.",
+      "Alnitak": "Alnitak | ζ Orionis Aa | Orion | Arabic | The traditional name, alternately spelled Al Nitak or Alnitah,",
+      "Beehive Proplyd": "Beehive Proplyd | HH 540 | Orion | English | A proplyd resembling a beehive.",
+      "Bellatrix": "Bellatrix | γ Orionis | Orion | Latin | Latin for 'female warrior'; applied to this star in the 15th century.",
+      "Betelgeuse": "Betelgeuse | α Orionis A | Orion | Arabic |",
+      "Hatysa": "Hatysa | ι Orionis Aa | Orion | unknown | Name originating in Antonín Bečvář's 1948 star atlas, Atlas Coeli Skalnaté Pleso.",
+      "Meissa": "Meissa | λ Orionis A | Orion | Arabic | Traditional name deriving from Arabic: الميسان al-maysān ('the shining one').",
+      "Mintaka": "Mintaka | δ Orionis Aa | Orion | Arabic | The right-most star in Orion's belt.",
+      "Rigel": "Rigel | β Orionis A | Orion | Arabic | Traditional name first recorded in the Alfonsine Tables of 1252",
+      "Saiph": "Saiph | κ Orionis | Orion | Arabic | Traditional name from Arabic: سیف الجبار sayf al-jabbār, literally 'saif ('sword') of the giant'.",
+      "Siwarha": "Siwarha | α Orionis B | Orion | Arabic | \"Her Bracelet\" in Arabic, proposed by the discovery team.",
+      "Tabit": "Tabit | π Orionis | Orion | Arabic | | /ˈteɪbɪt/"
+    },
+    "issues": []
+  }
+}

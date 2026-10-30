@@ -1,0 +1,306 @@
+{
+  "question": {
+    "id": "tollywood-sports-films",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film whose story centres on a sport or an athlete’s sporting journey.",
+    "answerSet": "open",
+    "criteria": "Any film originally made in Telugu, including bilingual productions, with a sport or an athlete’s sporting journey central to its main story counts; Telugu-dubbed films alone do not.",
+    "answers": [
+      {
+        "id": "jersey",
+        "canonical": "Jersey",
+        "aliases": [
+          "Jersey (2019)"
+        ],
+        "familiarity": 0.1254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jersey follows a cricketer who attempts a comeback after leaving the sport.",
+        "sourceIds": []
+      },
+      {
+        "id": "sye",
+        "canonical": "Sye",
+        "aliases": [
+          "Sye (2004)"
+        ],
+        "familiarity": 0.1254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sye centres on college students whose rugby team faces a decisive match.",
+        "sourceIds": []
+      },
+      {
+        "id": "thammudu",
+        "canonical": "Thammudu",
+        "aliases": [
+          "Tammudu",
+          "Thammudu (1999)"
+        ],
+        "familiarity": 0.1254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thammudu follows a young man who trains in kickboxing to compete in his injured brother’s place.",
+        "sourceIds": []
+      },
+      {
+        "id": "majili",
+        "canonical": "Majili",
+        "aliases": [],
+        "familiarity": 0.0501,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Majili combines a frustrated cricketer’s personal story with his later role coaching a young player.",
+        "sourceIds": []
+      },
+      {
+        "id": "guru",
+        "canonical": "Guru",
+        "aliases": [
+          "Guru (2017)"
+        ],
+        "familiarity": 0.0501,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Guru follows a boxing coach who trains a talented young woman.",
+        "sourceIds": []
+      },
+      {
+        "id": "a1-express",
+        "canonical": "A1 Express",
+        "aliases": [
+          "A One Express"
+        ],
+        "familiarity": 0.0501,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A1 Express is a sports drama centred on hockey and the fight to protect a hockey ground.",
+        "sourceIds": []
+      },
+      {
+        "id": "seetimaarr",
+        "canonical": "Seetimaarr",
+        "aliases": [
+          "Seetimaar"
+        ],
+        "familiarity": 0.0501,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seetimaarr follows a coach preparing a women’s kabaddi team for competition.",
+        "sourceIds": []
+      },
+      {
+        "id": "ghani",
+        "canonical": "Ghani",
+        "aliases": [],
+        "familiarity": 0.0501,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ghani follows a young boxer pursuing success in the ring.",
+        "sourceIds": []
+      },
+      {
+        "id": "lakshya",
+        "canonical": "Lakshya",
+        "aliases": [
+          "Lakshya (2021)"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lakshya follows an archer whose sporting career is threatened by personal setbacks.",
+        "sourceIds": []
+      },
+      {
+        "id": "bheemili-kabaddi-jattu",
+        "canonical": "Bheemili Kabaddi Jattu",
+        "aliases": [
+          "Bhimili Kabaddi Jattu",
+          "Bheemili",
+          "Bheemili Kabadi Jattu"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bheemili Kabaddi Jattu follows a village kabaddi team entering a tournament.",
+        "sourceIds": []
+      },
+      {
+        "id": "kousalya-krishnamurthy",
+        "canonical": "Kousalya Krishnamurthy",
+        "aliases": [
+          "Kausalya Krishnamurthy",
+          "Kousalya Krishnamurthy: The Cricketer"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kousalya Krishnamurthy follows a farmer’s daughter pursuing a career in cricket.",
+        "sourceIds": []
+      },
+      {
+        "id": "good-luck-sakhi",
+        "canonical": "Good Luck Sakhi",
+        "aliases": [],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Good Luck Sakhi follows a village woman who trains as a competitive shooter.",
+        "sourceIds": []
+      },
+      {
+        "id": "kabaddi-kabaddi",
+        "canonical": "Kabaddi Kabaddi",
+        "aliases": [
+          "Kabadi Kabadi"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kabaddi Kabaddi is a romantic comedy whose central challenge involves forming a kabaddi team and winning a match.",
+        "sourceIds": []
+      },
+      {
+        "id": "ashwini",
+        "canonical": "Ashwini",
+        "aliases": [
+          "Aswini",
+          "Ashwini (1991)"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ashwini is a Telugu biographical sports film starring athlete Ashwini Nachappa as herself.",
+        "sourceIds": []
+      },
+      {
+        "id": "golconda-high-school",
+        "canonical": "Golconda High School",
+        "aliases": [
+          "Golkonda High School"
+        ],
+        "familiarity": 0.015,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Golconda High School follows a school cricket team whose tournament performance could save its playground.",
+        "sourceIds": []
+      },
+      {
+        "id": "clap",
+        "canonical": "Clap",
+        "aliases": [
+          "Clap (2022)"
+        ],
+        "familiarity": 0.0038,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Clap is a Tamil–Telugu sports drama about a former athlete who coaches a young runner.",
+        "sourceIds": []
+      },
+      {
+        "id": "amma-nanna-o-tamila-ammayi",
+        "canonical": "Amma Nanna O Tamila Ammayi",
+        "aliases": [
+          "Amma Nanna O Tamil Ammayi",
+          "Amma Nanna O Tamil Ammai"
+        ],
+        "familiarity": 0.1254,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Amma Nanna O Tamila Ammayi combines a boxer's sporting ambitions with a family drama.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "Telugu sports films cover cricket, kabaddi, boxing, rugby, hockey, archery, shooting and athletics, often combining sporting ambitions with romance or family drama.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "f95241628b1053ce",
+    "brief": "Name a Telugu film whose story is built around a sport.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Jersey": 3,
+      "Sye": 3,
+      "Thammudu": 3,
+      "Majili": 3,
+      "Guru": 3,
+      "A1 Express": 3,
+      "Seetimaarr": 3,
+      "Ghani": 3,
+      "Lakshya": 3,
+      "Bheemili Kabaddi Jattu": 3,
+      "Golconda High School": 2,
+      "Kousalya Krishnamurthy": 3,
+      "Good Luck Sakhi": 3,
+      "Kabaddi Kabaddi": 3,
+      "Ashwini": 3,
+      "Clap": 2,
+      "Amma Nanna O Tamila Ammayi": 2
+    },
+    "droppedForVotes": {
+      "Okkadu": 1,
+      "Golkonda High School": 1,
+      "Dhoni": 1
+    },
+    "verdicts": {
+      "Jersey": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama centred on a former cricketer's comeback."
+      },
+      "Sye": {
+        "verdict": "correct",
+        "reason": "A Telugu film in which college rugby players contest a decisive match to protect their college."
+      },
+      "Thammudu": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama about a young man training to replace his injured brother in a kickboxing competition."
+      },
+      "Majili": {
+        "verdict": "correct",
+        "reason": "A Telugu romantic sports drama in which the protagonist's cricket ambitions and later coaching role are central."
+      },
+      "Guru": {
+        "verdict": "correct",
+        "reason": "A Telugu boxing drama about a coach developing a young woman's talent."
+      },
+      "A1 Express": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama centred on hockey and efforts to save a hockey ground."
+      },
+      "Seetimaarr": {
+        "verdict": "correct",
+        "reason": "A Telugu sports action film centred on a coach and a women's kabaddi team."
+      },
+      "Ghani": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama following an aspiring boxer's journey."
+      },
+      "Lakshya": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama centred on an archer's setbacks and comeback."
+      },
+      "Bheemili Kabaddi Jattu": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama following a village kabaddi team's participation in a tournament."
+      },
+      "Kousalya Krishnamurthy": {
+        "verdict": "correct",
+        "reason": "A Telugu sports drama about a farmer's daughter aspiring to play cricket professionally."
+      },
+      "Good Luck Sakhi": {
+        "verdict": "correct",
+        "reason": "A Telugu sports film about a village woman training in competitive shooting."
+      },
+      "Kabaddi Kabaddi": {
+        "verdict": "correct",
+        "reason": "A Telugu romantic comedy whose main plot involves assembling a kabaddi team and winning a match."
+      },
+      "Ashwini": {
+        "verdict": "correct",
+        "reason": "A Telugu biographical sports film about athlete Ashwini Nachappa, who plays herself."
+      },
+      "Golconda High School": {
+        "verdict": "correct",
+        "reason": "A Telugu cricket drama in which a school team's tournament success is crucial to saving its playground."
+      },
+      "Clap": {
+        "verdict": "correct",
+        "reason": "A Tamil–Telugu bilingual sports drama about a former athlete coaching a young runner."
+      },
+      "Amma Nanna O Tamila Ammayi": {
+        "verdict": "correct",
+        "reason": "A Telugu film combining a central boxing journey with family drama."
+      }
+    },
+    "issues": []
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "question": {
+    "id": "us-pop-wwe-wrestlers",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a WWE wrestler by their ring name.",
+    "answerSet": "open",
+    "criteria": "Any ring name used by a wrestler who competed in WWE, including its former WWF and WWWF names, counts.",
+    "answers": [
+      {
+        "id": "the-rock",
+        "canonical": "The Rock",
+        "aliases": [
+          "Rock",
+          "Rocky Maivia",
+          "Dwayne Johnson"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Rock is a WWE wrestler who also competed as Rocky Maivia.",
+        "sourceIds": []
+      },
+      {
+        "id": "john-cena",
+        "canonical": "John Cena",
+        "aliases": [
+          "Cena"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "John Cena is a WWE wrestler known for his 'You Can't See Me' catchphrase.",
+        "sourceIds": []
+      },
+      {
+        "id": "hulk-hogan",
+        "canonical": "Hulk Hogan",
+        "aliases": [
+          "Hogan",
+          "Hollywood Hogan",
+          "The Immortal Hulk Hogan"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Hulk Hogan was a leading WWF star during the company's national expansion.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-undertaker",
+        "canonical": "The Undertaker",
+        "aliases": [
+          "Undertaker",
+          "Taker"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Undertaker is a WWE wrestler known for his supernatural-themed character.",
+        "sourceIds": []
+      },
+      {
+        "id": "stone-cold-steve-austin",
+        "canonical": "Stone Cold Steve Austin",
+        "aliases": [
+          "Stone Cold",
+          "Steve Austin",
+          "Stone Cold Austin",
+          "The Ringmaster"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stone Cold Steve Austin was a leading WWF wrestler during the Attitude Era.",
+        "sourceIds": []
+      },
+      {
+        "id": "roman-reigns",
+        "canonical": "Roman Reigns",
+        "aliases": [
+          "Reigns"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Roman Reigns is a WWE wrestler who debuted on the main roster as part of The Shield.",
+        "sourceIds": []
+      },
+      {
+        "id": "triple-h",
+        "canonical": "Triple H",
+        "aliases": [
+          "HHH",
+          "Hunter Hearst Helmsley"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Triple H is a WWE wrestler who was a member of D-Generation X.",
+        "sourceIds": []
+      },
+      {
+        "id": "randy-orton",
+        "canonical": "Randy Orton",
+        "aliases": [
+          "Orton",
+          "The Viper"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Randy Orton is a WWE wrestler known for his RKO finishing move.",
+        "sourceIds": []
+      },
+      {
+        "id": "rey-mysterio",
+        "canonical": "Rey Mysterio",
+        "aliases": [
+          "Rey Mysterio Jr.",
+          "Mysterio",
+          "Rey Misterio"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rey Mysterio is a masked WWE wrestler known for his high-flying style.",
+        "sourceIds": []
+      },
+      {
+        "id": "shawn-michaels",
+        "canonical": "Shawn Michaels",
+        "aliases": [
+          "HBK",
+          "The Heartbreak Kid"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shawn Michaels is a WWE wrestler who was part of The Rockers and D-Generation X.",
+        "sourceIds": []
+      },
+      {
+        "id": "bret-hart",
+        "canonical": "Bret Hart",
+        "aliases": [
+          "Bret The Hitman Hart",
+          "Bret Hitman Hart",
+          "The Hitman"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bret Hart is a former WWF wrestler who was part of The Hart Foundation.",
+        "sourceIds": []
+      },
+      {
+        "id": "batista",
+        "canonical": "Batista",
+        "aliases": [
+          "Dave Batista",
+          "Dave Bautista"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Batista is a former WWE wrestler who was a member of Evolution.",
+        "sourceIds": []
+      },
+      {
+        "id": "cm-punk",
+        "canonical": "CM Punk",
+        "aliases": [
+          "Punk"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "CM Punk is a WWE wrestler known for his straight-edge persona.",
+        "sourceIds": []
+      },
+      {
+        "id": "seth-rollins",
+        "canonical": "Seth Rollins",
+        "aliases": [
+          "Seth Freakin Rollins",
+          "Rollins"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Seth Rollins is a WWE wrestler who debuted on the main roster with The Shield.",
+        "sourceIds": []
+      },
+      {
+        "id": "becky-lynch",
+        "canonical": "Becky Lynch",
+        "aliases": [
+          "Becky",
+          "The Man"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Becky Lynch is a WWE wrestler known by the nickname 'The Man.'",
+        "sourceIds": []
+      },
+      {
+        "id": "rhea-ripley",
+        "canonical": "Rhea Ripley",
+        "aliases": [
+          "Rhea",
+          "Ripley"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rhea Ripley is a WWE wrestler who has been a member of The Judgment Day.",
+        "sourceIds": []
+      },
+      {
+        "id": "charlotte-flair",
+        "canonical": "Charlotte Flair",
+        "aliases": [
+          "Charlotte"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Charlotte Flair is a WWE wrestler who has held multiple women's championships.",
+        "sourceIds": []
+      },
+      {
+        "id": "kane",
+        "canonical": "Kane",
+        "aliases": [
+          "The Big Red Machine",
+          "Isaac Yankem",
+          "Isaac Yankem DDS"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kane is a WWE wrestler whose character formed the Brothers of Destruction with The Undertaker.",
+        "sourceIds": []
+      },
+      {
+        "id": "asuka",
+        "canonical": "Asuka",
+        "aliases": [
+          "The Empress of Tomorrow"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Asuka is a WWE wrestler who previously held the NXT Women's Championship.",
+        "sourceIds": []
+      },
+      {
+        "id": "al-snow",
+        "canonical": "Al Snow",
+        "aliases": [
+          "Leif Cassidy"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Al Snow is a former WWE wrestler known for carrying a mannequin head.",
+        "sourceIds": []
+      },
+      {
+        "id": "ric-flair",
+        "canonical": "Ric Flair",
+        "aliases": [
+          "Nature Boy",
+          "The Nature Boy"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ric Flair is a wrestler who held the WWF Championship and later joined Evolution in WWE.",
+        "sourceIds": []
+      },
+      {
+        "id": "mick-foley",
+        "canonical": "Mick Foley",
+        "aliases": [
+          "Mankind",
+          "Cactus Jack",
+          "Dude Love"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mick Foley competed in WWE under his own name and as Mankind, Cactus Jack and Dude Love.",
+        "sourceIds": []
+      },
+      {
+        "id": "bayley",
+        "canonical": "Bayley",
+        "aliases": [],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bayley is a WWE wrestler who was a founding member of Damage CTRL.",
+        "sourceIds": []
+      },
+      {
+        "id": "bianca-belair",
+        "canonical": "Bianca Belair",
+        "aliases": [
+          "Bianca"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Bianca Belair is a WWE wrestler known as 'The EST of WWE.'",
+        "sourceIds": []
+      },
+      {
+        "id": "goldust",
+        "canonical": "Goldust",
+        "aliases": [
+          "Gold Dust",
+          "Dustin Rhodes"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Goldust is a WWE wrestling character known for gold-and-black face paint.",
+        "sourceIds": []
+      },
+      {
+        "id": "william-regal",
+        "canonical": "William Regal",
+        "aliases": [
+          "Steven Regal"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "William Regal competed in WWE and won the King of the Ring tournament.",
+        "sourceIds": []
+      },
+      {
+        "id": "tajiri",
+        "canonical": "Tajiri",
+        "aliases": [
+          "Yoshihiro Tajiri"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tajiri is a Japanese wrestler who competed in WWE's cruiserweight division.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-hurricane",
+        "canonical": "The Hurricane",
+        "aliases": [
+          "Hurricane",
+          "Hurricane Helms",
+          "Gregory Helms"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Hurricane is a superhero-themed character portrayed by WWE wrestler Gregory Helms.",
+        "sourceIds": []
+      },
+      {
+        "id": "funaki",
+        "canonical": "Funaki",
+        "aliases": [
+          "Sho Funaki",
+          "Shoichi Funaki",
+          "Kung Fu Naki"
+        ],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Funaki is a former WWE Cruiserweight Champion who was a member of Kaientai.",
+        "sourceIds": []
+      },
+      {
+        "id": "kizarny",
+        "canonical": "Kizarny",
+        "aliases": [],
+        "familiarity": 0.0018,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kizarny was a carnival-themed wrestler who appeared on WWE's SmackDown.",
+        "sourceIds": []
+      },
+      {
+        "id": "andre-the-giant",
+        "canonical": "Andre the Giant",
+        "aliases": [
+          "Andre"
+        ],
+        "familiarity": 0.0585,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Andre the Giant was a WWF wrestler who faced Hulk Hogan at WrestleMania III.",
+        "sourceIds": []
+      },
+      {
+        "id": "trish-stratus",
+        "canonical": "Trish Stratus",
+        "aliases": [
+          "Trish"
+        ],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Trish Stratus is a WWE Women's Champion and WWE Hall of Fame inductee.",
+        "sourceIds": []
+      },
+      {
+        "id": "lita",
+        "canonical": "Lita",
+        "aliases": [],
+        "familiarity": 0.0234,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Lita is a WWE Women's Champion known for her high-flying wrestling style.",
+        "sourceIds": []
+      },
+      {
+        "id": "kofi-kingston",
+        "canonical": "Kofi Kingston",
+        "aliases": [
+          "Kofi"
+        ],
+        "familiarity": 0.007,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kofi Kingston is a WWE champion and member of The New Day.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "WWE's history spans generations of wrestlers, from global crossover stars to cult favorites and short-lived characters. Current and former wrestlers count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "09642bc607d861c6",
+    "brief": "Name a famous WWE wrestler, by ring name.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "The Rock": 3,
+      "John Cena": 3,
+      "Hulk Hogan": 3,
+      "The Undertaker": 3,
+      "Stone Cold Steve Austin": 3,
+      "Roman Reigns": 3,
+      "Triple H": 3,
+      "Randy Orton": 3,
+      "Rey Mysterio": 3,
+      "Shawn Michaels": 3,
+      "Bret Hart": 3,
+      "Ric Flair": 2,
+      "Batista": 3,
+      "CM Punk": 3,
+      "Seth Rollins": 3,
+      "Becky Lynch": 3,
+      "Rhea Ripley": 3,
+      "Charlotte Flair": 3,
+      "Kane": 3,
+      "Mick Foley": 2,
+      "Asuka": 3,
+      "Bayley": 2,
+      "Bianca Belair": 2,
+      "Goldust": 2,
+      "William Regal": 2,
+      "Tajiri": 2,
+      "Al Snow": 3,
+      "The Hurricane": 2,
+      "Funaki": 2,
+      "Kizarny": 2,
+      "Andre the Giant": 2,
+      "Trish Stratus": 2,
+      "Lita": 2,
+      "Kofi Kingston": 2
+    },
+    "droppedForVotes": {
+      "Brock Lesnar": 1,
+      "Eddie Guerrero": 1,
+      "Essa Rios": 1,
+      "Flash Funk": 1,
+      "Big Show": 1,
+      "Cody Rhodes": 1,
+      "AJ Styles": 1,
+      "Edge": 1,
+      "Doink the Clown": 1,
+      "Repo Man": 1,
+      "Mantaur": 1,
+      "Bastion Booger": 1,
+      "The Berzerker": 1,
+      "Randy Savage": 1,
+      "Mankind": 1,
+      "The Miz": 1,
+      "Dolph Ziggler": 1,
+      "Scotty 2 Hotty": 1,
+      "D'Lo Brown": 1,
+      "Gillberg": 1,
+      "Simon Dean": 1,
+      "The Goon": 1
+    },
+    "verdicts": {
+      "The Rock": {
+        "verdict": "correct",
+        "reason": "Competed in WWE as both The Rock and Rocky Maivia."
+      },
+      "John Cena": {
+        "verdict": "correct",
+        "reason": "Widely documented WWE wrestler known for 'You Can't See Me.'"
+      },
+      "Hulk Hogan": {
+        "verdict": "correct",
+        "reason": "Major WWF star during its national expansion in the 1980s."
+      },
+      "The Undertaker": {
+        "verdict": "correct",
+        "reason": "Longtime WWE wrestler with a supernatural-themed character."
+      },
+      "Stone Cold Steve Austin": {
+        "verdict": "correct",
+        "reason": "Leading WWF wrestler during the Attitude Era."
+      },
+      "Roman Reigns": {
+        "verdict": "correct",
+        "reason": "Competed in WWE and debuted on its main roster with The Shield."
+      },
+      "Triple H": {
+        "verdict": "correct",
+        "reason": "WWE wrestler and prominent member of D-Generation X."
+      },
+      "Randy Orton": {
+        "verdict": "correct",
+        "reason": "WWE wrestler whose signature finishing move is the RKO."
+      },
+      "Rey Mysterio": {
+        "verdict": "correct",
+        "reason": "Masked WWE wrestler widely known for high-flying wrestling."
+      },
+      "Shawn Michaels": {
+        "verdict": "correct",
+        "reason": "Competed in WWE and belonged to both The Rockers and D-Generation X."
+      },
+      "Bret Hart": {
+        "verdict": "correct",
+        "reason": "WWF wrestler and member of The Hart Foundation."
+      },
+      "Batista": {
+        "verdict": "correct",
+        "reason": "Competed in WWE and was a member of Evolution."
+      },
+      "CM Punk": {
+        "verdict": "correct",
+        "reason": "Competed in WWE under this ring name with a straight-edge persona."
+      },
+      "Seth Rollins": {
+        "verdict": "correct",
+        "reason": "WWE wrestler who debuted on the main roster with The Shield."
+      },
+      "Becky Lynch": {
+        "verdict": "correct",
+        "reason": "WWE wrestler who uses the nickname 'The Man.'"
+      },
+      "Rhea Ripley": {
+        "verdict": "correct",
+        "reason": "WWE wrestler who was a member of The Judgment Day."
+      },
+      "Charlotte Flair": {
+        "verdict": "correct",
+        "reason": "WWE wrestler and multiple-time women's champion."
+      },
+      "Kane": {
+        "verdict": "correct",
+        "reason": "WWE wrestler who teamed with The Undertaker as the Brothers of Destruction."
+      },
+      "Asuka": {
+        "verdict": "correct",
+        "reason": "WWE wrestler and former NXT Women's Champion."
+      },
+      "Al Snow": {
+        "verdict": "correct",
+        "reason": "Competed in WWE with a gimmick involving a mannequin head."
+      },
+      "Ric Flair": {
+        "verdict": "correct",
+        "reason": "Held the WWF Championship and later belonged to Evolution."
+      },
+      "Mick Foley": {
+        "verdict": "correct",
+        "reason": "Wrestled in WWE under his own name and all three listed personas."
+      },
+      "Bayley": {
+        "verdict": "correct",
+        "reason": "WWE wrestler and founding member of Damage CTRL."
+      },
+      "Bianca Belair": {
+        "verdict": "correct",
+        "reason": "WWE wrestler known as 'The EST of WWE.'"
+      },
+      "Goldust": {
+        "verdict": "correct",
+        "reason": "Established WWE ring character recognizable by gold-and-black face paint."
+      },
+      "William Regal": {
+        "verdict": "correct",
+        "reason": "Competed in WWE and won the 2008 King of the Ring tournament."
+      },
+      "Tajiri": {
+        "verdict": "correct",
+        "reason": "Japanese wrestler who competed in WWE and held its Cruiserweight Championship."
+      },
+      "The Hurricane": {
+        "verdict": "correct",
+        "reason": "Gregory Helms competed in WWE under this superhero-themed ring name."
+      },
+      "Funaki": {
+        "verdict": "correct",
+        "reason": "WWE wrestler, former Cruiserweight Champion, and Kaientai member."
+      },
+      "Kizarny": {
+        "verdict": "correct",
+        "reason": "Real carnival-themed WWE character who wrestled on SmackDown."
+      },
+      "Andre the Giant": {
+        "verdict": "correct",
+        "reason": "WWF wrestler who faced Hulk Hogan at WrestleMania III."
+      },
+      "Trish Stratus": {
+        "verdict": "correct",
+        "reason": "Former WWE Women's Champion and WWE Hall of Fame inductee."
+      },
+      "Lita": {
+        "verdict": "correct",
+        "reason": "Former WWE Women's Champion known for high-flying moves."
+      },
+      "Kofi Kingston": {
+        "verdict": "correct",
+        "reason": "Former WWE Champion and member of The New Day."
+      }
+    },
+    "issues": []
+  }
+}

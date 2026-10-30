@@ -1,0 +1,302 @@
+{
+  "question": {
+    "id": "space-crewed-spacecraft",
+    "category": "space",
+    "prompt": "Name a spacecraft type that has carried humans into space, including suborbital flights but excluding space stations.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "soyuz",
+        "canonical": "Soyuz",
+        "aliases": [
+          "Soyuz spacecraft"
+        ],
+        "familiarity": 0.1297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Soyuz is a Russian crewed orbital spacecraft with over 150 crewed spaceflights.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "shenzhou",
+        "canonical": "Shenzhou",
+        "aliases": [
+          "Shenzhou spacecraft"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shenzhou carried China's first astronaut into space in 2003.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "crew-dragon",
+        "canonical": "Crew Dragon",
+        "aliases": [
+          "SpaceX Crew Dragon",
+          "SpaceX Dragon 2",
+          "Dragon 2"
+        ],
+        "familiarity": 0.1297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Crew Dragon has made crewed spaceflights since its first crewed launch in May 2020.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "new-shepard",
+        "canonical": "New Shepard",
+        "aliases": [
+          "Blue Origin New Shepard"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "New Shepard is a suborbital capsule that has carried passengers into space.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "starliner",
+        "canonical": "Starliner",
+        "aliases": [
+          "Boeing Starliner",
+          "CST-100 Starliner",
+          "Boeing CST-100 Starliner",
+          "CST-100"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Starliner carried Suni Williams and Butch Wilmore to the International Space Station during its crewed flight test.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "orion",
+        "canonical": "Orion",
+        "aliases": [
+          "Orion spacecraft"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Artemis II as Orion's first crewed mission around the Moon.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "vostok",
+        "canonical": "Vostok",
+        "aliases": [
+          "Vostok spacecraft"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Vostok carried the first human into space in 1961.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "mercury",
+        "canonical": "Mercury",
+        "aliases": [
+          "Project Mercury",
+          "Mercury spacecraft",
+          "Mercury capsule"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mercury was the first United States crewed spacecraft and flew both orbital and suborbital missions.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "x-15",
+        "canonical": "X-15",
+        "aliases": [
+          "X15",
+          "North American X-15"
+        ],
+        "familiarity": 0.0156,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The X-15 was a single-seat suborbital spaceplane with flights above both the 80 km and 100 km thresholds.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "voskhod",
+        "canonical": "Voskhod",
+        "aliases": [
+          "Voskhod spacecraft"
+        ],
+        "familiarity": 0.0039,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Voskhod made two crewed flights, including the mission on which the first spacewalk occurred.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "gemini",
+        "canonical": "Gemini",
+        "aliases": [
+          "Project Gemini",
+          "Gemini spacecraft",
+          "Gemini capsule"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gemini was a two-person orbital spacecraft that made ten flights.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "apollo",
+        "canonical": "Apollo",
+        "aliases": [
+          "Apollo spacecraft"
+        ],
+        "familiarity": 0.1297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Apollo was a crewed lunar-capable spacecraft used for missions including the first crewed lunar orbit.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "apollo-command-and-service-module",
+        "canonical": "Apollo command and service module",
+        "aliases": [
+          "Apollo CSM",
+          "CSM",
+          "Apollo command module",
+          "Command and service module"
+        ],
+        "familiarity": 0.0156,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Apollo command and service module is listed as the three-person Earth and lunar orbital component of the flown Apollo spacecraft.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "apollo-lunar-module",
+        "canonical": "Apollo Lunar Module",
+        "aliases": [
+          "Lunar Module",
+          "Apollo LM",
+          "LM",
+          "Lunar Excursion Module",
+          "LEM"
+        ],
+        "familiarity": 0.0519,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Apollo Lunar Module carried humans to the lunar surface.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "space-shuttle",
+        "canonical": "Space Shuttle",
+        "aliases": [
+          "NASA Space Shuttle",
+          "Space Transportation System",
+          "STS"
+        ],
+        "familiarity": 0.1297,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Space Shuttle was a crewed orbital spaceplane that made 135 spaceflights.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "spaceshipone",
+        "canonical": "SpaceShipOne",
+        "aliases": [
+          "SpaceShip One",
+          "SpaceShip 1"
+        ],
+        "familiarity": 0.0156,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SpaceShipOne was a piloted suborbital spaceplane that made three flights above the Kármán line.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      },
+      {
+        "id": "spaceshiptwo",
+        "canonical": "SpaceShipTwo",
+        "aliases": [
+          "SpaceShip Two",
+          "SpaceShip 2"
+        ],
+        "familiarity": 0.0156,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "SpaceShipTwo made twelve successful crewed spaceflights.",
+        "sourceIds": [
+          "list-of-crewed-spacecraft"
+        ]
+      }
+    ],
+    "explanation": "These spacecraft types are listed as having flown with crews. Suborbital flights above 80 km count, as do retired spacecraft. Answers should be spacecraft types rather than individual missions or named vehicles. Apollo's command/service module and lunar module are also accepted separately.",
+    "sources": [
+      {
+        "id": "list-of-crewed-spacecraft",
+        "title": "List of crewed spacecraft",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_crewed_spacecraft",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "67969f07c72102aa",
+    "brief": "Name a crewed spacecraft.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-crewed-spacecraft",
+        "version": "1379007189",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Soyuz": "Soyuz has completed over 150 crewed spaceflights, including two emergency sub-orbital flights: Soyuz 18a and Soyuz MS-10.",
+      "Shenzhou": "On 15 October 2003, Yang Liwei was carried into space by Shenzhou 5 becoming China's first astronaut.",
+      "Crew Dragon": "As of April 2025, Crew Dragon has made 17 crewed spaceflights. The first crewed flight, Crew Dragon Demo-2, launched on 30 May 2020 and returned to Earth on 2 August 2020.",
+      "New Shepard": "The first crewed test flight flew on 20 July 2021. As of December 2023 there have been 24 flights, including six crewed flights carrying a total of 32 passengers into space.",
+      "Starliner": "The following crewed flight test (CFT) launched in June 2024, carrying astronauts Suni Williams and Butch Wilmore to the International Space Station.",
+      "Orion": "Orion's first crewed mission was Artemis II, which launched on April 1, 2026, and slingshotted around the Moon without entering orbit.",
+      "Vostok": "On 12 April 1961 Vostok 1 carried the first human into space, Cosmonaut Yuri Gagarin.",
+      "Mercury": "United States single-person Earth orbital spacecraft 6 flights (including 2 sub-orbital). Mercury was the United States first crewed spacecraft.",
+      "X-15": "United States single seat, air-launched sub-orbital spaceplane; two X-15 flights above the 100 km Kármán line occurred in 1963, an additional 11 flights between 1962 and 1968 reached altitudes between 80 and 100 km which were recognized as spaceflights by U.S. authorities.",
+      "Voskhod": "Soviet three person Vostok derivative made 2 flights. On 18 March 1965, Alexei Leonov performed the first spacewalk in history, from Voskhod 2.",
+      "Gemini": "United States two person Earth orbital spacecraft which made 10 flights. On 3 June 1965, Ed White made America's first spacewalk during Gemini 4.",
+      "Apollo": "In December 1968, Apollo 8 was the first crewed spacecraft to orbit the Moon.",
+      "Apollo command and service module": "The Apollo command and service module (1968–1975), three-person Earth and lunar orbital craft",
+      "Apollo Lunar Module": "Apollo 11 Lunar Module Eagle was the first crewed spacecraft to land on the Moon (July 20, 1969).",
+      "Space Shuttle": "United States eight person Earth orbital spacecraft; first orbit-capable spaceplane; first reusable orbital spacecraft. Largest cargo capacity to orbit at the time. 135 spaceflights were made in six shuttles;",
+      "SpaceShipOne": "United States privately developed single pilot, air-launched sub-orbital spaceplane; three flights above the Kármán line occurred in 2004.",
+      "SpaceShipTwo": "SpaceShipTwo made 12 successful crewed spaceflights in 13 attempts."
+    },
+    "issues": [
+      "warning:quote-does-not-name-answer [New Shepard]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Starliner]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [Space Shuttle]: quote and source title never mention this answer; reviewer should confirm",
+      "warning:quote-does-not-name-answer [SpaceShipOne]: quote and source title never mention this answer; reviewer should confirm"
+    ]
+  }
+}

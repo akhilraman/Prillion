@@ -28,7 +28,7 @@ describe('reveal labels', () => {
   });
 
   it('announces the level, points and depth to screen readers', () => {
-    expect(headlineFor(correct('legendary', 500), 1000)).toBe('Tier 4 answer, 500 points, sink 1000 metres');
+    expect(headlineFor(correct('legendary', 500), 4000)).toBe('Tier 4 answer, 500 points, sink 4000 metres');
   });
 
   it('keeps the empty-hook wording for a timeout', () => {

@@ -1,0 +1,895 @@
+{
+  "question": {
+    "id": "tollywood-telugu-films-2020",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film released in 2020.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "beautiful",
+        "canonical": "Beautiful",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Beautiful on January 1, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "oollalla-oollalla",
+        "canonical": "Oollalla Oollalla",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Oollalla Oollalla on January 1, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "utthara",
+        "canonical": "Utthara",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Utthara on January 3, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "wife-i",
+        "canonical": "Wife,i",
+        "aliases": [
+          "Wife I",
+          "Wife, i"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Wife,i on January 3, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "sarileru-neekevvaru",
+        "canonical": "Sarileru Neekevvaru",
+        "aliases": [
+          "Sarileru Neekevaru"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Sarileru Neekevvaru on January 11, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikunthapurramulo",
+          "Ala Vaikuntapuramlo"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Ala Vaikunthapurramuloo on January 12, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "entha-manchivaadavuraa",
+        "canonical": "Entha Manchivaadavuraa",
+        "aliases": [
+          "Entha Manchivadavuraa"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Entha Manchivaadavuraa on January 15, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "thagite-thandana",
+        "canonical": "Thagite Thandana",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Thagite Thandana on January 22, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "disco-raja",
+        "canonical": "Disco Raja",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Disco Raja on January 24, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "dubsmash",
+        "canonical": "DubSmash",
+        "aliases": [
+          "Dub Smash"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists DubSmash on January 30, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "aswathama",
+        "canonical": "Aswathama",
+        "aliases": [
+          "Ashwathama"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Aswathama on January 31, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "choosi-choodangaane",
+        "canonical": "Choosi Choodangaane",
+        "aliases": [
+          "Choosi Choodangane"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Choosi Choodangaane on January 31, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "jaanu",
+        "canonical": "Jaanu",
+        "aliases": [],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Jaanu on February 7, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "3-monkeys",
+        "canonical": "3 Monkeys",
+        "aliases": [
+          "Three Monkeys"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 3 Monkeys on February 7, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "savaari",
+        "canonical": "Savaari",
+        "aliases": [
+          "Savari"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Savaari on February 7, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "degree-college",
+        "canonical": "Degree College",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Degree College on February 7, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "neevalle-nenunna",
+        "canonical": "Neevalle Nenunna",
+        "aliases": [
+          "Nee Valle Nenunna"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Neevalle Nenunna on February 7, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "world-famous-lover",
+        "canonical": "World Famous Lover",
+        "aliases": [],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists World Famous Lover on February 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "oka-chinna-viramam",
+        "canonical": "Oka Chinna Viramam",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Oka Chinna Viramam on February 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "shiva-143",
+        "canonical": "Shiva 143",
+        "aliases": [
+          "Siva 143"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Shiva 143 on February 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "life-anubavinchu-raja",
+        "canonical": "Life Anubavinchu Raja",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Life Anubavinchu Raja on February 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "bheeshma",
+        "canonical": "Bheeshma",
+        "aliases": [
+          "Bheeshma (2020)"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bheeshma on February 21, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "pressure-cooker",
+        "canonical": "Pressure Cooker",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Pressure Cooker on February 21, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "valayam",
+        "canonical": "Valayam",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Valayam on February 21, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "cheema-prema-madhyalo-bhaama",
+        "canonical": "Cheema Prema Madhyalo Bhaama",
+        "aliases": [
+          "Cheema Prema Madhyalo Bhama"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Cheema Prema Madhyalo Bhaama on February 21, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "raahu",
+        "canonical": "Raahu",
+        "aliases": [
+          "Rahu"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Raahu on February 28, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "hit-the-first-case",
+        "canonical": "HIT: The First Case",
+        "aliases": [
+          "HIT",
+          "HIT The First Case",
+          "HIT 1"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists HIT: The First Case on February 28, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "swecha",
+        "canonical": "Swecha",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Swecha on February 28, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "college-kumar",
+        "canonical": "College Kumar",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists College Kumar on March 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "palasa-1978",
+        "canonical": "Palasa 1978",
+        "aliases": [
+          "Palasa"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Palasa 1978 on March 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "o-pitta-katha",
+        "canonical": "O Pitta Katha",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists O Pitta Katha on March 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "anukunnadi-okkati-ayyandhi-okati",
+        "canonical": "Anukunnadi Okkati Ayyandhi Okati",
+        "aliases": [
+          "Anukunnadi Okkati Ayyindi Okati"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Anukunnadi Okkati Ayyandhi Okati on March 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "screenplay-of-an-indian-love-story",
+        "canonical": "Screenplay of an Indian Love Story",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Screenplay of an Indian Love Story on March 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "eureka",
+        "canonical": "Eureka",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Eureka on March 13, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "madha",
+        "canonical": "Madha",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Madha on March 13, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "arjuna",
+        "canonical": "Arjuna",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Arjuna on March 13, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "amrutharamam",
+        "canonical": "Amrutharamam",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Amrutharamam on April 29, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "run",
+        "canonical": "Run",
+        "aliases": [
+          "Run (2020)"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Run on May 29, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "krishna-and-his-leela",
+        "canonical": "Krishna and His Leela",
+        "aliases": [
+          "Krishna & His Leela"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Krishna and His Leela on June 25, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "47-days",
+        "canonical": "47 Days",
+        "aliases": [
+          "Forty Seven Days"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists 47 Days on June 30, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "bhanumathi-ramakrishna",
+        "canonical": "Bhanumathi & Ramakrishna",
+        "aliases": [
+          "Bhanumathi and Ramakrishna"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bhanumathi & Ramakrishna on July 3, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "uma-maheswara-ugra-roopasya",
+        "canonical": "Uma Maheswara Ugra Roopasya",
+        "aliases": [
+          "Uma Maheshwara Ugra Roopasya",
+          "UMUR"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Uma Maheswara Ugra Roopasya on July 30, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "meka-suri",
+        "canonical": "Meka Suri",
+        "aliases": [
+          "Meka Suri 1"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Meka Suri on July 31, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "johaar",
+        "canonical": "Johaar",
+        "aliases": [
+          "Johar"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Johaar on August 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "buchinaidu-khandriga",
+        "canonical": "Buchinaidu Khandriga",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Buchinaidu Khandriga on August 21, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "v",
+        "canonical": "V",
+        "aliases": [
+          "V (2020)",
+          "V movie"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists V on September 5, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "maguva",
+        "canonical": "Maguva",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Maguva on September 5, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "amaram-akhilam-prema",
+        "canonical": "Amaram Akhilam Prema",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Amaram Akhilam Prema on September 18, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "nishabdham",
+        "canonical": "Nishabdham",
+        "aliases": [
+          "Nishabdam"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Nishabdham on October 2, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "orey-bujjiga",
+        "canonical": "Orey Bujjiga",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Orey Bujjiga on October 2, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "colour-photo",
+        "canonical": "Colour Photo",
+        "aliases": [
+          "Color Photo"
+        ],
+        "familiarity": 0.0627,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Colour Photo on October 23, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "miss-india",
+        "canonical": "Miss India",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Miss India on November 4, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "gatham",
+        "canonical": "Gatham",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Gatham on November 6, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "dhira",
+        "canonical": "Dhira",
+        "aliases": [
+          "Dheera"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Dhira on November 10, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "maa-vintha-gaadha-vinuma",
+        "canonical": "Maa Vintha Gaadha Vinuma",
+        "aliases": [
+          "Maa Vintha Gadha Vinuma"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Maa Vintha Gaadha Vinuma on November 14, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "anaganaga-o-athdhi",
+        "canonical": "Anaganaga O Athdhi",
+        "aliases": [
+          "Anaganaga O Athidhi",
+          "Anaganaga O Atithi"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Anaganaga O Athdhi on November 20, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "middle-class-melodies",
+        "canonical": "Middle Class Melodies",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Middle Class Melodies on November 20, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "meka-suri-2",
+        "canonical": "Meka Suri 2",
+        "aliases": [
+          "Meka Suri II"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Meka Suri 2 on November 27, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "bombhaat",
+        "canonical": "Bombhaat",
+        "aliases": [
+          "Bombhat"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Bombhaat on December 3, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "iit-krishnamurthy",
+        "canonical": "IIT Krishnamurthy",
+        "aliases": [
+          "IIT Krishna Murthy"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists IIT Krishnamurthy on December 10, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "guvva-gorinka",
+        "canonical": "Guvva Gorinka",
+        "aliases": [],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Guvva Gorinka on December 17, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "dirty-hari",
+        "canonical": "Dirty Hari",
+        "aliases": [],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Dirty Hari on December 18, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "murder",
+        "canonical": "Murder",
+        "aliases": [
+          "Murder (2020)"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Murder on December 24, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "solo-brathuke-so-better",
+        "canonical": "Solo Brathuke So Better",
+        "aliases": [
+          "Solo Bratuke So Better"
+        ],
+        "familiarity": 0.0251,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Solo Brathuke So Better on December 25, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      },
+      {
+        "id": "oka-yodhudu",
+        "canonical": "Oka Yodhudu",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The release table lists Oka Yodhudu on December 25, 2020.",
+        "sourceIds": [
+          "list-of-telugu-films-of-2020"
+        ]
+      }
+    ],
+    "explanation": "These films appear in the provided 2020 Telugu-film release list, including both theatrical and streaming releases.",
+    "sources": [
+      {
+        "id": "list-of-telugu-films-of-2020",
+        "title": "List of Telugu films of 2020",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Telugu_films_of_2020",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "c6404f3013a9e414",
+    "brief": "Name a Telugu film released in 2020.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "list-of-telugu-films-of-2020",
+        "version": "1375605596",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Beautiful": "J A N | 1 | Beautiful | Agasthya Manju",
+      "Oollalla Oollalla": "J A N | 1 | Oollalla Oollalla | Satya Prakash",
+      "Utthara": "J A N | 3 | Utthara | SR Thirupathi",
+      "Wife,i": "J A N | 3 | Wife,i | GSSP Kalyan",
+      "Sarileru Neekevvaru": "J A N | 11 | Sarileru Neekevvaru | Anil Ravipudi",
+      "Ala Vaikunthapurramuloo": "J A N | 12 | Ala Vaikunthapurramuloo | Trivikram Srinivas",
+      "Entha Manchivaadavuraa": "J A N | 15 | Entha Manchivaadavuraa | Satish Vegesna",
+      "Thagite Thandana": "J A N | 22 | Thagite Thandana | Srinath Badineni",
+      "Disco Raja": "J A N | 24 | Disco Raja | Vi Anand",
+      "DubSmash": "J A N | 30 | DubSmash | Keshav Depur",
+      "Aswathama": "J A N | 31 | Aswathama | Ramana Teja",
+      "Choosi Choodangaane": "J A N | 31 | Choosi Choodangaane | Sesha Sindhu Rao",
+      "Jaanu": "F E B | 7 | Jaanu | C. Premkumar",
+      "3 Monkeys": "F E B | 7 | 3 Monkeys | Anil Kumar G",
+      "Savaari": "F E B | 7 | Savaari | Saahith Mothkuri",
+      "Degree College": "F E B | 7 | Degree College | Narasimha Nandi",
+      "Neevalle Nenunna": "F E B | 7 | Neevalle Nenunna | Saibaba. M",
+      "World Famous Lover": "F E B | 14 | World Famous Lover | Kranthi Madhav",
+      "Oka Chinna Viramam": "F E B | 14 | Oka Chinna Viramam | Sundeep cheguri",
+      "Shiva 143": "F E B | 14 | Shiva 143 | Sagar Sailesh",
+      "Life Anubavinchu Raja": "F E B | 14 | Life Anubavinchu Raja | Suresh Thirumur",
+      "Bheeshma": "F E B | 21 | Bheeshma | Venky Kudumula",
+      "Pressure Cooker": "F E B | 21 | Pressure Cooker | Sujoi & Sushil",
+      "Valayam": "F E B | 21 | Valayam | Ramesh Kadumula",
+      "Cheema Prema Madhyalo Bhaama": "F E B | 21 | Cheema Prema Madhyalo Bhaama | Srikanth 'Sri' Appalaraju",
+      "Raahu": "F E B | 28 | Raahu | Subbu Vedula",
+      "HIT: The First Case": "F E B | 28 | HIT: The First Case | Sailesh Kolanu",
+      "Swecha": "F E B | 28 | Swecha | KPN Chawhan",
+      "College Kumar": "M A R | 6 | College Kumar | Hari Santhosh",
+      "Palasa 1978": "M A R | 6 | Palasa 1978 | Karuna Kumar",
+      "O Pitta Katha": "M A R | 6 | O Pitta Katha | Chandu Muddu",
+      "Anukunnadi Okkati Ayyandhi Okati": "M A R | 6 | Anukunnadi Okkati Ayyandhi Okati | Baalu Adusumilli",
+      "Screenplay of an Indian Love Story": "M A R | 6 | Screenplay of an Indian Love Story | K L Prasad",
+      "Eureka": "M A R | 13 | Eureka | Karteek Anand",
+      "Madha": "M A R | 13 | Madha | Srividya Basawa",
+      "Arjuna": "M A R | 13 | Arjuna | Kanmani",
+      "Amrutharamam": "A P R | 29 | Amrutharamam | Surender Kontadi",
+      "Run": "M A Y | 29 | Run | Lakshmikanth Chenna",
+      "Krishna and His Leela": "J U N | 25 | Krishna and His Leela | Ravikanth Perepu",
+      "47 Days": "J U N | 30 | 47 Days | Pradeep Maddali",
+      "Bhanumathi & Ramakrishna": "J U L | 3 | Bhanumathi & Ramakrishna | Srikanth Nagothi",
+      "Uma Maheswara Ugra Roopasya": "J U L | 30 | Uma Maheswara Ugra Roopasya | Venkatesh Maha",
+      "Meka Suri": "J U L | 31 | Meka Suri | Trinadh Velisala",
+      "Johaar": "A U G | 14 | Johaar | Teja Marni",
+      "Buchinaidu Khandriga": "A U G | 21 | Buchinaidu Khandriga | Poluru Krishna",
+      "V": "S E P | 5 | V | Mohan Krishna Indraganti",
+      "Maguva": "S E P | 5 | Maguva | Sriram Yedhoti",
+      "Amaram Akhilam Prema": "S E P | 18 | Amaram Akhilam Prema | Edwards Jonathan",
+      "Nishabdham": "O C T | 2 | Nishabdham | Hemant Madhukar",
+      "Orey Bujjiga": "O C T | 2 | Orey Bujjiga | Vijay Kumar Konda",
+      "Colour Photo": "O C T | 23 | Colour Photo | Sandeep Raj",
+      "Miss India": "N O V | 4 | Miss India | Narendra Nath",
+      "Gatham": "N O V | 6 | Gatham | Kiran Reddy",
+      "Dhira": "N O V | 10 | Dhira | Arun Kumar Rapolu",
+      "Maa Vintha Gaadha Vinuma": "N O V | 14 | Maa Vintha Gaadha Vinuma | Aditya Mandala",
+      "Anaganaga O Athdhi": "N O V | 20 | Anaganaga O Athdhi | Dayal Padmanabhan",
+      "Middle Class Melodies": "N O V | 20 | Middle Class Melodies | Vinod Ananthoju",
+      "Meka Suri 2": "N O V | 27 | Meka Suri 2 | Trinadh Velisala",
+      "Bombhaat": "D E C | 3 | Bombhaat | Raghavendra Varma",
+      "IIT Krishnamurthy": "D E C | 10 | IIT Krishnamurthy | Sree Vardhan",
+      "Guvva Gorinka": "D E C | 17 | Guvva Gorinka | Bammidi Mohan",
+      "Dirty Hari": "D E C | 18 | Dirty Hari | M. S. Raju",
+      "Murder": "D E C | 24 | Murder | Anand Chandra",
+      "Solo Brathuke So Better": "D E C | 25 | Solo Brathuke So Better | Subbu",
+      "Oka Yodhudu": "D E C | 25 | Oka Yodhudu | Haari"
+    },
+    "issues": []
+  }
+}

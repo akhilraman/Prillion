@@ -1,0 +1,308 @@
+{
+  "question": {
+    "id": "us-pop-nba-announcer-calls",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a famous NBA broadcast call or commentator catchphrase that fans still repeat.",
+    "answerSet": "open",
+    "criteria": "A documented call or recurring catchphrase spoken by a commentator during an NBA game broadcast, on television or radio.",
+    "answers": [
+      {
+        "id": "bang",
+        "canonical": "Bang!",
+        "aliases": [
+          "Bang bang",
+          "Double bang"
+        ],
+        "familiarity": 0.1209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike Breen uses this signature call for big shots during NBA broadcasts.",
+        "sourceIds": []
+      },
+      {
+        "id": "is-this-the-dagger",
+        "canonical": "Is this the dagger?",
+        "aliases": [
+          "The dagger"
+        ],
+        "familiarity": 0.1209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Harlan asked this as Kawhi Leonard launched his series-winning shot against Philadelphia in the 2019 playoffs.",
+        "sourceIds": []
+      },
+      {
+        "id": "with-no-regard-for-human-life",
+        "canonical": "With no regard for human life!",
+        "aliases": [
+          "No regard for human life"
+        ],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Harlan used this line for a LeBron James dunk against Boston in the 2008 playoffs.",
+        "sourceIds": []
+      },
+      {
+        "id": "mama-there-goes-that-man",
+        "canonical": "Mama, there goes that man!",
+        "aliases": [
+          "Momma there goes that man",
+          "There goes that man"
+        ],
+        "familiarity": 0.1209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mark Jackson used this recurring expression to praise standout plays during NBA broadcasts.",
+        "sourceIds": []
+      },
+      {
+        "id": "hand-down-man-down",
+        "canonical": "Hand down, man down",
+        "aliases": [],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mark Jackson used this catchphrase when a shooter scored against a defender who failed to raise a hand.",
+        "sourceIds": []
+      },
+      {
+        "id": "yes",
+        "canonical": "Yes!",
+        "aliases": [
+          "Yes, and it counts"
+        ],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marv Albert's emphatic delivery of this word became his signature basket call.",
+        "sourceIds": []
+      },
+      {
+        "id": "havlicek-stole-the-ball",
+        "canonical": "Havlicek stole the ball!",
+        "aliases": [
+          "Havlicek stole it",
+          "Havlicek steals the ball"
+        ],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnny Most made this call after John Havlicek's decisive steal against Philadelphia in the 1965 Eastern Division finals.",
+        "sourceIds": []
+      },
+      {
+        "id": "bingo",
+        "canonical": "Bingo!",
+        "aliases": [],
+        "familiarity": 0.0145,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph Lawler used this signature call for Clippers three-pointers.",
+        "sourceIds": []
+      },
+      {
+        "id": "oh-me-oh-my",
+        "canonical": "Oh me, oh my!",
+        "aliases": [],
+        "familiarity": 0.0145,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph Lawler regularly used this exclamation during Clippers broadcasts.",
+        "sourceIds": []
+      },
+      {
+        "id": "right-between-the-eyes",
+        "canonical": "Right between the eyes!",
+        "aliases": [
+          "Between the eyes"
+        ],
+        "familiarity": 0.0145,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Kevin Harlan uses this emphatic phrase for made jump shots during NBA broadcasts.",
+        "sourceIds": []
+      },
+      {
+        "id": "blocked-by-james",
+        "canonical": "Blocked by James!",
+        "aliases": [
+          "Oh blocked by James",
+          "Blocked by LeBron"
+        ],
+        "familiarity": 0.1209,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mike Breen made this call when LeBron James blocked Andre Iguodala in Game 7 of the 2016 NBA Finals.",
+        "sourceIds": []
+      },
+      {
+        "id": "a-steal-by-bird",
+        "canonical": "A steal by Bird!",
+        "aliases": [
+          "Now there's a steal by Bird",
+          "There's a steal by Bird",
+          "Steal by Bird",
+          "Bird steals the ball"
+        ],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Johnny Most made this call when Larry Bird intercepted Detroit's inbound pass in Game 5 of the 1987 Eastern Conference finals.",
+        "sourceIds": []
+      },
+      {
+        "id": "a-spectacular-move",
+        "canonical": "A spectacular move!",
+        "aliases": [
+          "A spectacular move by Michael Jordan",
+          "Oh a spectacular move by Michael Jordan"
+        ],
+        "familiarity": 0.0484,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Marv Albert exclaimed this after Michael Jordan switched hands in midair to finish a layup in the 1991 NBA Finals.",
+        "sourceIds": []
+      },
+      {
+        "id": "gimme-the-hot-sauce",
+        "canonical": "Gimme the hot sauce!",
+        "aliases": [
+          "Give me the hot sauce",
+          "Hot sauce"
+        ],
+        "familiarity": 0.0145,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stacey King uses this catchphrase to celebrate made three-pointers on Bulls broadcasts.",
+        "sourceIds": []
+      },
+      {
+        "id": "first-to-100-wins",
+        "canonical": "First to 100 wins",
+        "aliases": [
+          "First team to 100 wins",
+          "First to one hundred wins",
+          "Lawler's Law"
+        ],
+        "familiarity": 0.0036,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ralph Lawler called his first-to-100 prediction rule Lawler's Law.",
+        "sourceIds": []
+      },
+      {
+        "id": "too-big-too-strong-too-fast-too-good",
+        "canonical": "Too big, too strong, too fast, too good",
+        "aliases": [],
+        "familiarity": 0.0145,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Stacey King used this sequence of praise for Derrick Rose on Bulls broadcasts.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "These include both unforgettable calls from individual plays and signature phrases used across many games. College basketball calls and video-game-only commentary do not count.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "01c6afc12d614042",
+    "brief": "Name a famous NBA play-by-play call, catchphrase or commentator line that fans still repeat.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Bang!": 3,
+      "Blocked by James!": 2,
+      "Is this the dagger?": 3,
+      "With no regard for human life!": 3,
+      "Mama, there goes that man!": 3,
+      "Hand down, man down": 3,
+      "Yes!": 3,
+      "Havlicek stole the ball!": 3,
+      "A steal by Bird!": 2,
+      "A spectacular move!": 2,
+      "Bingo!": 3,
+      "Oh me, oh my!": 3,
+      "Gimme the hot sauce!": 2,
+      "Right between the eyes!": 3,
+      "First to 100 wins": 2,
+      "Too big, too strong, too fast, too good": 2
+    },
+    "droppedForVotes": {
+      "From downtown!": 1,
+      "If you don't like that": 1,
+      "Shazam!": 1,
+      "Get that weak stuff outta here!": 1,
+      "Sucked the gravity out": 1,
+      "Heartbreak city!": 1,
+      "A spectacular move by Michael Jordan": 1,
+      "Now there's a steal by Bird!": 1,
+      "If you don't like that, you don't like NBA basketball": 1,
+      "Fasten your seatbelts": 1,
+      "Throw it down, big man!": 1,
+      "Give me the hot sauce": 1,
+      "Cookies!": 1,
+      "This game's in the refrigerator": 1,
+      "The mustard's off the hot dog": 1,
+      "Rebound Bosh": 1,
+      "Dishing and swishing": 1,
+      "Bounding and astounding": 1
+    },
+    "verdicts": {
+      "Bang!": {
+        "verdict": "correct",
+        "reason": "Mike Breen's widely documented signature call for big made shots."
+      },
+      "Is this the dagger?": {
+        "verdict": "correct",
+        "reason": "Kevin Harlan said this during Kawhi Leonard's series-winning shot against Philadelphia in Game 7 in 2019."
+      },
+      "With no regard for human life!": {
+        "verdict": "correct",
+        "reason": "Kevin Harlan used this famous call for LeBron James's dunk against Boston in the 2008 playoffs."
+      },
+      "Mama, there goes that man!": {
+        "verdict": "correct",
+        "reason": "A well-documented recurring Mark Jackson catchphrase during NBA broadcasts."
+      },
+      "Hand down, man down": {
+        "verdict": "correct",
+        "reason": "Mark Jackson regularly used this phrase when discussing shots made against insufficient defensive contests."
+      },
+      "Yes!": {
+        "verdict": "correct",
+        "reason": "Marv Albert's emphatic 'Yes!' was his signature basket call."
+      },
+      "Havlicek stole the ball!": {
+        "verdict": "correct",
+        "reason": "Johnny Most's famous radio call of John Havlicek's decisive steal in the 1965 Eastern Division finals."
+      },
+      "Bingo!": {
+        "verdict": "correct",
+        "reason": "Ralph Lawler's signature call for made Clippers three-pointers."
+      },
+      "Oh me, oh my!": {
+        "verdict": "correct",
+        "reason": "A widely documented Ralph Lawler catchphrase from Clippers broadcasts."
+      },
+      "Right between the eyes!": {
+        "verdict": "correct",
+        "reason": "Kevin Harlan has repeatedly used this phrase for made jump shots in NBA broadcasts."
+      },
+      "Blocked by James!": {
+        "verdict": "correct",
+        "reason": "Mike Breen's famous call of LeBron James's block on Andre Iguodala in Game 7 of the 2016 Finals."
+      },
+      "A steal by Bird!": {
+        "verdict": "correct",
+        "reason": "Johnny Most made this call during Larry Bird's pivotal steal against Detroit in Game 5 of the 1987 Eastern Conference finals."
+      },
+      "A spectacular move!": {
+        "verdict": "correct",
+        "reason": "Marv Albert used this call for Michael Jordan's switching-hands layup in Game 2 of the 1991 Finals."
+      },
+      "Gimme the hot sauce!": {
+        "verdict": "correct",
+        "reason": "A documented Stacey King catchphrase celebrating made three-pointers on Bulls broadcasts."
+      },
+      "First to 100 wins": {
+        "verdict": "correct",
+        "reason": "Ralph Lawler regularly invoked Lawler's Law: the first team to 100 points wins."
+      },
+      "Too big, too strong, too fast, too good": {
+        "verdict": "correct",
+        "reason": "Stacey King used this well-known sequence to celebrate Derrick Rose's play on Bulls broadcasts."
+      }
+    },
+    "issues": []
+  }
+}

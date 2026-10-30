@@ -1,0 +1,230 @@
+{
+  "question": {
+    "id": "tollywood-mass-entries",
+    "category": "tollywood",
+    "basis": "ai-knowledge",
+    "prompt": "Name a Telugu film famous for a “mass” hero entry scene.",
+    "answerSet": "open",
+    "criteria": "A Telugu-language feature film known for a dramatically staged introductory sequence for its lead hero, using action, a visual reveal, or heightened music.",
+    "answers": [
+      {
+        "id": "rrr",
+        "canonical": "RRR",
+        "aliases": [
+          "Roudram Ranam Rudhiram"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "RRR gives its two heroes elaborate introductions involving Ram confronting a crowd and Bheem confronting a tiger.",
+        "sourceIds": []
+      },
+      {
+        "id": "pushpa-the-rise",
+        "canonical": "Pushpa: The Rise",
+        "aliases": [
+          "Pushpa",
+          "Pushpa 1"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pushpa: The Rise introduces Allu Arjun's protagonist through an action sequence connected to red sandalwood smuggling.",
+        "sourceIds": []
+      },
+      {
+        "id": "pokiri",
+        "canonical": "Pokiri",
+        "aliases": [
+          "Pokiri 2006",
+          "Pokkiri"
+        ],
+        "familiarity": 0.1532,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pokiri gives Mahesh Babu's character Pandu an action-driven introduction.",
+        "sourceIds": []
+      },
+      {
+        "id": "gabbar-singh",
+        "canonical": "Gabbar Singh",
+        "aliases": [
+          "Gabbar Singh 2012"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Gabbar Singh introduces Pawan Kalyan's police-officer hero with a larger-than-life action sequence.",
+        "sourceIds": []
+      },
+      {
+        "id": "mirchi",
+        "canonical": "Mirchi",
+        "aliases": [
+          "Mirchi 2013"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mirchi introduces Prabhas's Jai through a confrontation in Italy.",
+        "sourceIds": []
+      },
+      {
+        "id": "billa",
+        "canonical": "Billa",
+        "aliases": [
+          "Billa 2009",
+          "Telugu Billa"
+        ],
+        "familiarity": 0.0184,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Telugu film Billa gives Prabhas's title character a stylish underworld introduction.",
+        "sourceIds": []
+      },
+      {
+        "id": "jalsa",
+        "canonical": "Jalsa",
+        "aliases": [],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jalsa gives Pawan Kalyan's Sanjay Sahu a stylized introduction supported by Mahesh Babu's narration.",
+        "sourceIds": []
+      },
+      {
+        "id": "magadheera",
+        "canonical": "Magadheera",
+        "aliases": [
+          "Magadheera 2009"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Magadheera opens with a dramatic cliffside sequence featuring Ram Charan as the warrior Kala Bhairava.",
+        "sourceIds": []
+      },
+      {
+        "id": "sarrainodu",
+        "canonical": "Sarrainodu",
+        "aliases": [
+          "Sarainodu",
+          "Sarrainodu 2016"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sarrainodu gives Allu Arjun's Gana an action-heavy hero introduction.",
+        "sourceIds": []
+      },
+      {
+        "id": "dookudu",
+        "canonical": "Dookudu",
+        "aliases": [
+          "Dukudu"
+        ],
+        "familiarity": 0.0613,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dookudu introduces Mahesh Babu's adult police-officer character through an action sequence in Istanbul.",
+        "sourceIds": []
+      },
+      {
+        "id": "sardaar-gabbar-singh",
+        "canonical": "Sardaar Gabbar Singh",
+        "aliases": [
+          "Sardar Gabbar Singh"
+        ],
+        "familiarity": 0.0046,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sardaar Gabbar Singh gives Pawan Kalyan's returning police-officer character a large-scale action introduction.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "In Telugu cinema, a “mass entry” introduces the hero with larger-than-life staging, often combining a dramatic reveal, punchy dialogue, action, and a powerful background score. These are examples, not an exhaustive list.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "b16eb78ea4d72c5b",
+    "brief": "Name a Telugu film famous for a mass hero entry scene (the hero's first appearance in the film).",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "RRR": 3,
+      "Pushpa: The Rise": 3,
+      "Pokiri": 3,
+      "Gabbar Singh": 3,
+      "Jalsa": 2,
+      "Mirchi": 3,
+      "Magadheera": 2,
+      "Sarrainodu": 2,
+      "Billa": 3,
+      "Dookudu": 2,
+      "Sardaar Gabbar Singh": 2
+    },
+    "droppedForVotes": {
+      "Salaar": 1,
+      "Devara: Part 1": 1,
+      "Akhanda": 1,
+      "Khaidi No. 150": 1,
+      "Simhadri": 1,
+      "Aadi": 1,
+      "Chennakesava Reddy": 1,
+      "Narasimha Naidu": 1,
+      "Gudumba Shankar": 1,
+      "Pushpa 2: The Rule": 1,
+      "Sarileru Neekevvaru": 1,
+      "Attarintiki Daredi": 1,
+      "Bheemla Nayak": 1,
+      "Vakeel Saab": 1,
+      "Guntur Kaaram": 1,
+      "Baahubali: The Beginning": 1,
+      "Athadu": 1,
+      "Saaho": 1,
+      "Panjaa": 1,
+      "Oosaravelli": 1,
+      "Kantri": 1
+    },
+    "verdicts": {
+      "RRR": {
+        "verdict": "correct",
+        "reason": "Ram’s confrontation with a huge crowd and Bheem’s tiger sequence are elaborate, widely recognized hero introductions."
+      },
+      "Pushpa: The Rise": {
+        "verdict": "correct",
+        "reason": "Pushpa receives a stylized, action-driven introduction involving red sandalwood smuggling."
+      },
+      "Pokiri": {
+        "verdict": "correct",
+        "reason": "Pandu’s introductory fight is a well-known mass-hero entrance for Mahesh Babu."
+      },
+      "Gabbar Singh": {
+        "verdict": "correct",
+        "reason": "Pawan Kalyan’s police-officer protagonist receives a larger-than-life action introduction."
+      },
+      "Mirchi": {
+        "verdict": "correct",
+        "reason": "Jai’s introduction in Italy uses a confrontation and heightened heroic presentation."
+      },
+      "Billa": {
+        "verdict": "correct",
+        "reason": "The Telugu film presents Prabhas’s gangster character with a stylized, larger-than-life introduction."
+      },
+      "Jalsa": {
+        "verdict": "correct",
+        "reason": "Sanjay Sahu receives a stylized heroic introduction, with Mahesh Babu providing narration."
+      },
+      "Magadheera": {
+        "verdict": "correct",
+        "reason": "The opening cliffside sequence dramatically introduces Ram Charan’s warrior incarnation, Kala Bhairava."
+      },
+      "Sarrainodu": {
+        "verdict": "correct",
+        "reason": "Gana’s action-heavy introduction fits the film’s overt mass-hero presentation."
+      },
+      "Dookudu": {
+        "verdict": "correct",
+        "reason": "Mahesh Babu’s police-officer character is introduced through an action sequence in Istanbul."
+      },
+      "Sardaar Gabbar Singh": {
+        "verdict": "correct",
+        "reason": "Pawan Kalyan’s police-officer hero receives a heightened, large-scale action entrance."
+      }
+    },
+    "issues": []
+  }
+}

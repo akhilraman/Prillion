@@ -1,0 +1,449 @@
+{
+  "question": {
+    "id": "us-pop-reality-tv",
+    "category": "us-pop",
+    "basis": "ai-knowledge",
+    "prompt": "Name a popular American reality TV show.",
+    "answerSet": "open",
+    "criteria": "Any U.S.-produced reality television series counts, including reality competitions and American editions of international formats; scripted series and conventional quiz shows do not.",
+    "answers": [
+      {
+        "id": "survivor",
+        "canonical": "Survivor",
+        "aliases": [
+          "Survivor US",
+          "Survivor USA"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Survivor is a reality competition in which contestants compete while living in remote locations and vote one another out.",
+        "sourceIds": []
+      },
+      {
+        "id": "american-idol",
+        "canonical": "American Idol",
+        "aliases": [
+          "Idol"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "American Idol is an American singing competition television series.",
+        "sourceIds": []
+      },
+      {
+        "id": "big-brother",
+        "canonical": "Big Brother",
+        "aliases": [
+          "Big Brother US",
+          "Big Brother USA"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American edition of Big Brother follows contestants living together and competing to avoid eviction.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-amazing-race",
+        "canonical": "The Amazing Race",
+        "aliases": [
+          "Amazing Race"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Amazing Race is an American reality competition in which teams race between destinations and complete challenges.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-voice",
+        "canonical": "The Voice",
+        "aliases": [
+          "The Voice US",
+          "The Voice USA"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American edition of The Voice is a singing competition featuring celebrity coaches and blind auditions.",
+        "sourceIds": []
+      },
+      {
+        "id": "america-s-got-talent",
+        "canonical": "America's Got Talent",
+        "aliases": [
+          "AGT"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "America's Got Talent is a televised competition featuring performers from a variety of disciplines.",
+        "sourceIds": []
+      },
+      {
+        "id": "dancing-with-the-stars",
+        "canonical": "Dancing with the Stars",
+        "aliases": [
+          "DWTS"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Dancing with the Stars pairs celebrities with professional dancers for a televised dance competition.",
+        "sourceIds": []
+      },
+      {
+        "id": "rupaul-s-drag-race",
+        "canonical": "RuPaul's Drag Race",
+        "aliases": [
+          "Drag Race",
+          "RPDR"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "RuPaul's Drag Race is an American reality competition featuring drag performers.",
+        "sourceIds": []
+      },
+      {
+        "id": "top-chef",
+        "canonical": "Top Chef",
+        "aliases": [],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Top Chef is an American reality competition in which chefs complete culinary challenges.",
+        "sourceIds": []
+      },
+      {
+        "id": "project-runway",
+        "canonical": "Project Runway",
+        "aliases": [],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Project Runway is an American reality competition featuring fashion designers.",
+        "sourceIds": []
+      },
+      {
+        "id": "shark-tank",
+        "canonical": "Shark Tank",
+        "aliases": [],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Shark Tank is an American reality series in which entrepreneurs pitch businesses to investors.",
+        "sourceIds": []
+      },
+      {
+        "id": "hell-s-kitchen",
+        "canonical": "Hell's Kitchen",
+        "aliases": [
+          "Hell's Kitchen US"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American edition of Hell's Kitchen is a cooking competition hosted by Gordon Ramsay.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-mole",
+        "canonical": "The Mole",
+        "aliases": [
+          "The Mole US",
+          "The Mole USA"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American edition of The Mole features contestants completing challenges while trying to identify a secret saboteur.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-bachelor",
+        "canonical": "The Bachelor",
+        "aliases": [
+          "Bachelor"
+        ],
+        "familiarity": 0.0632,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bachelor is an American reality dating competition.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-bachelorette",
+        "canonical": "The Bachelorette",
+        "aliases": [
+          "Bachelorette"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Bachelorette is an American reality dating competition spun off from The Bachelor.",
+        "sourceIds": []
+      },
+      {
+        "id": "kitchen-nightmares",
+        "canonical": "Kitchen Nightmares",
+        "aliases": [
+          "Gordon Ramsay's Kitchen Nightmares",
+          "Kitchen Nightmares US"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The American edition of Kitchen Nightmares follows Gordon Ramsay as he works with struggling restaurants.",
+        "sourceIds": []
+      },
+      {
+        "id": "pawn-stars",
+        "canonical": "Pawn Stars",
+        "aliases": [],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pawn Stars is an American reality series centered on a Las Vegas pawn shop.",
+        "sourceIds": []
+      },
+      {
+        "id": "below-deck",
+        "canonical": "Below Deck",
+        "aliases": [],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Below Deck is an American reality series following crew members working aboard a charter yacht.",
+        "sourceIds": []
+      },
+      {
+        "id": "love-is-blind",
+        "canonical": "Love Is Blind",
+        "aliases": [],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Love Is Blind is a reality dating series in which participants initially meet without seeing each other.",
+        "sourceIds": []
+      },
+      {
+        "id": "selling-sunset",
+        "canonical": "Selling Sunset",
+        "aliases": [],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Selling Sunset is an American reality series centered on a Los Angeles real estate brokerage.",
+        "sourceIds": []
+      },
+      {
+        "id": "american-ninja-warrior",
+        "canonical": "American Ninja Warrior",
+        "aliases": [
+          "ANW"
+        ],
+        "familiarity": 0.0253,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "American Ninja Warrior is a reality competition featuring elaborate obstacle courses.",
+        "sourceIds": []
+      },
+      {
+        "id": "beauty-and-the-geek",
+        "canonical": "Beauty and the Geek",
+        "aliases": [
+          "Beauty & the Geek"
+        ],
+        "familiarity": 0.0076,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Beauty and the Geek is an American reality competition that pairs contestants with contrasting social and academic strengths.",
+        "sourceIds": []
+      },
+      {
+        "id": "the-joe-schmo-show",
+        "canonical": "The Joe Schmo Show",
+        "aliases": [
+          "Joe Schmo Show",
+          "Joe Schmo"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The Joe Schmo Show presents an elaborate staged reality show to an unsuspecting participant.",
+        "sourceIds": []
+      },
+      {
+        "id": "solitary",
+        "canonical": "Solitary",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Solitary is an American reality competition in which contestants undertake challenges while separated into individual pods.",
+        "sourceIds": []
+      },
+      {
+        "id": "pirate-master",
+        "canonical": "Pirate Master",
+        "aliases": [],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pirate Master is an American pirate-themed reality competition set aboard a sailing ship.",
+        "sourceIds": []
+      }
+    ],
+    "explanation": "American reality TV includes talent contests, survival competitions, dating shows, workplace series, and more. Shows adapted from international formats count when they have an American edition.",
+    "sources": [],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "mode": "ai-knowledge",
+    "promptVersion": "2026-10-30.1",
+    "inputHash": "d46f6aaac2ebd31e",
+    "brief": "Name a popular American reality TV show.",
+    "samplesRequested": 3,
+    "samplesReceived": 3,
+    "votes": {
+      "Survivor": 3,
+      "American Idol": 3,
+      "The Bachelor": 2,
+      "The Bachelorette": 2,
+      "Big Brother": 3,
+      "The Amazing Race": 3,
+      "The Voice": 3,
+      "America's Got Talent": 3,
+      "Dancing with the Stars": 3,
+      "RuPaul's Drag Race": 3,
+      "Top Chef": 3,
+      "Project Runway": 3,
+      "Shark Tank": 3,
+      "Hell's Kitchen": 3,
+      "Kitchen Nightmares": 2,
+      "Pawn Stars": 2,
+      "Below Deck": 2,
+      "Love Is Blind": 2,
+      "Selling Sunset": 2,
+      "American Ninja Warrior": 2,
+      "The Mole": 3,
+      "Beauty and the Geek": 2,
+      "The Joe Schmo Show": 2,
+      "Solitary": 2,
+      "Pirate Master": 2
+    },
+    "droppedForVotes": {
+      "MasterChef": 1,
+      "Storage Wars": 1,
+      "Deadliest Catch": 1,
+      "Fear Factor": 1,
+      "Work of Art": 1,
+      "Keeping Up with the Kardashians": 1,
+      "Jersey Shore": 1,
+      "The Real World": 1,
+      "The Challenge": 1,
+      "American Chopper": 1,
+      "Pimp My Ride": 1,
+      "Kid Nation": 1,
+      "Whodunnit?": 1,
+      "The Masked Singer": 1,
+      "America's Next Top Model": 1,
+      "So You Think You Can Dance": 1,
+      "Chopped": 1,
+      "Extreme Makeover: Home Edition": 1,
+      "Nailed It!": 1,
+      "LEGO Masters": 1,
+      "BattleBots": 1,
+      "Face Off": 1,
+      "Ink Master": 1,
+      "Cutthroat Kitchen": 1,
+      "Cupcake Wars": 1,
+      "The Great Food Truck Race": 1,
+      "Tough as Nails": 1,
+      "Treasure Hunters": 1,
+      "The Quest": 1
+    },
+    "verdicts": {
+      "Survivor": {
+        "verdict": "correct",
+        "reason": "A well-documented American reality competition featuring survival challenges and elimination votes."
+      },
+      "American Idol": {
+        "verdict": "correct",
+        "reason": "An American reality singing competition."
+      },
+      "Big Brother": {
+        "verdict": "correct",
+        "reason": "The American edition is a reality competition involving housemates and evictions."
+      },
+      "The Amazing Race": {
+        "verdict": "correct",
+        "reason": "An American reality competition in which teams race and complete challenges."
+      },
+      "The Voice": {
+        "verdict": "correct",
+        "reason": "The American edition is a reality singing competition with celebrity coaches."
+      },
+      "America's Got Talent": {
+        "verdict": "correct",
+        "reason": "An American reality talent competition featuring varied performance disciplines."
+      },
+      "Dancing with the Stars": {
+        "verdict": "correct",
+        "reason": "The American edition is a reality dance competition pairing celebrities with professional dancers."
+      },
+      "RuPaul's Drag Race": {
+        "verdict": "correct",
+        "reason": "An American reality competition featuring drag performers."
+      },
+      "Top Chef": {
+        "verdict": "correct",
+        "reason": "An American reality cooking competition."
+      },
+      "Project Runway": {
+        "verdict": "correct",
+        "reason": "An American reality competition for fashion designers."
+      },
+      "Shark Tank": {
+        "verdict": "correct",
+        "reason": "An American business reality series featuring entrepreneurs pitching investors."
+      },
+      "Hell's Kitchen": {
+        "verdict": "correct",
+        "reason": "The American edition is a reality cooking competition hosted by Gordon Ramsay."
+      },
+      "The Mole": {
+        "verdict": "correct",
+        "reason": "The American edition is a reality competition involving challenges and a hidden saboteur."
+      },
+      "The Bachelor": {
+        "verdict": "correct",
+        "reason": "An American reality dating competition."
+      },
+      "The Bachelorette": {
+        "verdict": "correct",
+        "reason": "An American reality dating competition and spinoff of The Bachelor."
+      },
+      "Kitchen Nightmares": {
+        "verdict": "correct",
+        "reason": "The American edition is a restaurant-turnaround reality series featuring Gordon Ramsay."
+      },
+      "Pawn Stars": {
+        "verdict": "correct",
+        "reason": "An American reality series about a Las Vegas pawn shop."
+      },
+      "Below Deck": {
+        "verdict": "correct",
+        "reason": "An American reality series following charter-yacht crew members."
+      },
+      "Love Is Blind": {
+        "verdict": "correct",
+        "reason": "An American reality dating series whose participants initially interact without seeing each other."
+      },
+      "Selling Sunset": {
+        "verdict": "correct",
+        "reason": "An American reality series following a Los Angeles real estate brokerage."
+      },
+      "American Ninja Warrior": {
+        "verdict": "correct",
+        "reason": "An American reality sports competition featuring obstacle courses."
+      },
+      "Beauty and the Geek": {
+        "verdict": "correct",
+        "reason": "An American reality competition pairing self-described geeks with contestants selected as beauties."
+      },
+      "The Joe Schmo Show": {
+        "verdict": "correct",
+        "reason": "An American reality hoax series placing unsuspecting participants in staged reality-show scenarios."
+      },
+      "Solitary": {
+        "verdict": "correct",
+        "reason": "An American reality competition featuring contestants isolated in individual pods."
+      },
+      "Pirate Master": {
+        "verdict": "correct",
+        "reason": "An American pirate-themed reality competition that aired on CBS."
+      }
+    },
+    "issues": []
+  }
+}

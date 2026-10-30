@@ -1,0 +1,418 @@
+{
+  "question": {
+    "id": "tollywood-thaman-films",
+    "category": "tollywood",
+    "prompt": "Name a Telugu film for which S. Thaman composed music.",
+    "answerSet": "open",
+    "answers": [
+      {
+        "id": "kick",
+        "canonical": "Kick",
+        "aliases": [
+          "Kick (2009)"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Kick as one of Thaman's debut releases as a music director and explicitly identifies it as Telugu.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "brindavanam",
+        "canonical": "Brindavanam",
+        "aliases": [
+          "Brindavanam (2010)"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Brindavanam is included among Thaman's notable film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "mirapakay",
+        "canonical": "Mirapakay",
+        "aliases": [
+          "Mirapakaya"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mirapakay is listed among the films with notable compositions by Thaman.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "dookudu",
+        "canonical": "Dookudu",
+        "aliases": [
+          "Dookudu (2011)"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document records Thaman's Telugu Best Music Director award for Dookudu.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "businessman",
+        "canonical": "Businessman",
+        "aliases": [
+          "Business Man"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Businessman appears among Thaman's notable film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "naayak",
+        "canonical": "Naayak",
+        "aliases": [
+          "Nayak",
+          "Naayak (2013)"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Naayak is named in the document's list of Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "baadshah",
+        "canonical": "Baadshah",
+        "aliases": [
+          "Badshah",
+          "Baadshah (2013)"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists Baadshah among Thaman's notable film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "greeku-veerudu",
+        "canonical": "Greeku Veerudu",
+        "aliases": [
+          "Greekuveerudu"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Greeku Veerudu is included among Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "ramayya-vasthavayya",
+        "canonical": "Ramayya Vasthavayya",
+        "aliases": [
+          "Ramayya Vastavayya",
+          "Ramaya Vasthavaya"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ramayya Vasthavayya appears in the document's list of Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "race-gurram",
+        "canonical": "Race Gurram",
+        "aliases": [
+          "Racegurram"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Race Gurram is listed among the films featuring Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "aagadu",
+        "canonical": "Aagadu",
+        "aliases": [
+          "Agadu"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aagadu is included in the document's list of Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "bruce-lee-the-fighter",
+        "canonical": "Bruce Lee: The Fighter",
+        "aliases": [
+          "Bruce Lee",
+          "Bruce Lee The Fighter"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document names Bruce Lee: The Fighter among Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "sarrainodu",
+        "canonical": "Sarrainodu",
+        "aliases": [
+          "Sarainodu"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sarrainodu appears in the notable-compositions list and among films for which Thaman received a music-director award.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "tholi-prema",
+        "canonical": "Tholi Prema",
+        "aliases": [
+          "Tholi Prema (2018)",
+          "Tholiprema"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document lists the 2018 film Tholi Prema among Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikuntapuramulo",
+          "Ala Vaikunthapuramulo",
+          "Ala Vaikunthapurramloo",
+          "AVPL"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Thaman received the National Film Award for Best Music Direction for Ala Vaikunthapurramuloo.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "akhanda",
+        "canonical": "Akhanda",
+        "aliases": [
+          "Akhanda (2021)"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Akhanda is named among Thaman's notable film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "sarkaru-vaari-paata",
+        "canonical": "Sarkaru Vaari Paata",
+        "aliases": [
+          "Sarkaru Vari Pata",
+          "Sarkaru Vari Paata",
+          "SVP"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Sarkaru Vaari Paata is included among Thaman's notable compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "daaku-maharaaj",
+        "canonical": "Daaku Maharaaj",
+        "aliases": [
+          "Daku Maharaj",
+          "Daaku Maharaj"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Daaku Maharaaj is listed as one of Thaman's notable film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "malli-malli",
+        "canonical": "Malli Malli",
+        "aliases": [
+          "Malli Malli (2009)"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly identifies Malli Malli as a Telugu feature film marking Thaman's composer debut.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "guntur-kaaram",
+        "canonical": "Guntur Kaaram",
+        "aliases": [
+          "Guntur Karam"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes Kurchi Madathapetti from Guntur Kaaram among Thaman's popular Telugu film compositions.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "dj-tillu",
+        "canonical": "DJ Tillu",
+        "aliases": [
+          "D J Tillu"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document includes a song from DJ Tillu in its discussion of Thaman's Telugu film music.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "fidaa",
+        "canonical": "Fidaa",
+        "aliases": [
+          "Fida"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The supplied document attributes Vachinde from Fidaa to its discussion of Thaman's music.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "bheemla-nayak",
+        "canonical": "Bheemla Nayak",
+        "aliases": [
+          "Bhimla Nayak",
+          "Bheemla Naayak"
+        ],
+        "familiarity": 0.0249,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document records a Telugu Best Music Director nomination for Thaman's work on Bheemla Nayak.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "srirastu-subhamastu",
+        "canonical": "Srirastu Subhamastu",
+        "aliases": [
+          "Srirasthu Subhamasthu",
+          "Srirastu Shubhamastu"
+        ],
+        "familiarity": 0.0019,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document names Srirastu Subhamastu among films for which Thaman received a Best Music Director award.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "kick-2",
+        "canonical": "Kick 2",
+        "aliases": [
+          "Kick Two"
+        ],
+        "familiarity": 0.0075,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document records an award for the song Nuvve Nuvve from Kick 2 among Thaman's accolades.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      },
+      {
+        "id": "aravinda-sametha-veera-raghava",
+        "canonical": "Aravinda Sametha Veera Raghava",
+        "aliases": [
+          "Aravinda Sametha",
+          "Aravindha Sametha",
+          "ASVR"
+        ],
+        "familiarity": 0.0622,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document records Thaman's Best Music Director award for Aravinda Sametha Veera Raghava.",
+        "sourceIds": [
+          "thaman-s"
+        ]
+      }
+    ],
+    "explanation": "Thaman's Telugu film work ranges from early releases such as Malli Malli and Kick to major hits such as Dookudu and Ala Vaikunthapurramuloo, for which he won a National Film Award.",
+    "sources": [
+      {
+        "id": "thaman-s",
+        "title": "Thaman S",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thaman_S",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30",
+    "criteria": "Any Telugu-language film credited with music composed by S. Thaman counts."
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "3df515c8d973b871",
+    "brief": "Name a Telugu film scored by S. Thaman.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "thaman-s",
+        "version": "1382570133",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Kick": "His debut releases as a music director were Kick in Telugu and Sindhanai Sei in Tamil, both of which released in 2009.",
+      "Brindavanam": "Brindavanam (2010), Mirapakay (2011), Osthe (2011), Dookudu (2011), Businessman (2012)",
+      "Mirapakay": "Brindavanam (2010), Mirapakay (2011), Osthe (2011), Dookudu (2011), Businessman (2012)",
+      "Dookudu": "2012: Best Music Director – Telugu for Dookudu",
+      "Businessman": "Dookudu (2011), Businessman (2012), Naayak (2013), Baadshah (2013)",
+      "Naayak": "Businessman (2012), Naayak (2013), Baadshah (2013), Greeku Veerudu (2013)",
+      "Baadshah": "Naayak (2013), Baadshah (2013), Greeku Veerudu (2013), Ramayya Vasthavayya (2013)",
+      "Greeku Veerudu": "Baadshah (2013), Greeku Veerudu (2013), Ramayya Vasthavayya (2013)",
+      "Ramayya Vasthavayya": "Greeku Veerudu (2013), Ramayya Vasthavayya (2013), Race Gurram (2014)",
+      "Race Gurram": "Ramayya Vasthavayya (2013), Race Gurram (2014), Aagadu (2014)",
+      "Aagadu": "Race Gurram (2014), Aagadu (2014), Bruce Lee: The Fighter (2015)",
+      "Bruce Lee: The Fighter": "Aagadu (2014), Bruce Lee: The Fighter (2015), Sarrainodu (2016)",
+      "Sarrainodu": "TSR TV9 Awards 2016 – Best Music Director for Sarrainodu, Srirastu Subhamastu.",
+      "Tholi Prema": "Sarrainodu (2016), Tholi Prema (2018), Ala Vaikunthapurramuloo (2020)",
+      "Ala Vaikunthapurramuloo": "2022: 68th National Film Awards – Best Music Direction for Ala Vaikunthapurramuloo",
+      "Akhanda": "Ala Vaikunthapurramuloo (2020), Akhanda (2021), Sarkaru Vaari Paata (2022)",
+      "Sarkaru Vaari Paata": "Akhanda (2021), Sarkaru Vaari Paata (2022), Varisu (2023), and Daaku Maharaaj (2025).",
+      "Daaku Maharaaj": "Sarkaru Vaari Paata (2022), Varisu (2023), and Daaku Maharaaj (2025).",
+      "Malli Malli": "Thaman made his debut as a composer in through the Telugu feature film Malli Malli (2009), although the soundtrack album was released in 2008.",
+      "Guntur Kaaram": "Kurchi Madathapetti from Guntur Kaaram (2024), with around 839 million views",
+      "DJ Tillu": "Other widely viewed songs include “Tillu Anna DJ Pedithe” from DJ Tillu (2022), with around 400 million views",
+      "Fidaa": "and Vachinde from Fidaa (2017), with approximately 385 million views.",
+      "Bheemla Nayak": "2023: Nominated – Best Music Director – Telugu for Bheemla Nayak",
+      "Srirastu Subhamastu": "TSR TV9 Awards 2016 – Best Music Director for Sarrainodu, Srirastu Subhamastu.",
+      "Kick 2": "GAMA Awards 2016 – Best Love song \"Nuvve Nuvve\" in Kick 2.",
+      "Aravinda Sametha Veera Raghava": "17th Santosham Film Awards 2019 – Best Music Director Award for Aravinda Sametha Veera Raghava (2018)."
+    },
+    "issues": []
+  }
+}

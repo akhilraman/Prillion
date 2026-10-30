@@ -1,7 +1,9 @@
-import { loadBank } from './content/loadBank.ts';
-import type { BankLoad } from './content/loadBank.ts';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { indexFromQuestions, loadCategories, loadIndex } from './content/loadBank.ts';
+import type { BankIndex, BankLoad } from './content/loadBank.ts';
 import { DEFAULT_ROUND_LENGTH } from './domain/selection.ts';
-import type { Question } from './domain/types.ts';
+import type { CategorySelection, Question } from './domain/types.ts';
+import { installUnlock } from './game/sound.ts';
 import { useRound } from './game/useRound.ts';
 import { ErrorScreen } from './ui/ErrorScreen.tsx';
 import { HomeScreen } from './ui/HomeScreen.tsx';
@@ -10,23 +12,33 @@ import { RoundScreen } from './ui/RoundScreen.tsx';
 import { diveMetres } from './ui/scene/depth.ts';
 import { Scene } from './ui/scene/Scene.tsx';
 
-// Validated once at module load. `loadBank` never throws; failures become an error screen.
-const defaultBank: BankLoad = loadBank();
-
 interface AppProps {
-  /** Injectable for tests. Production uses the bundled seed bank. */
+  /** Injectable for tests. Production lazy-loads one category (or all three, for mixed) on start. */
   bank?: BankLoad;
 }
 
-export default function App({ bank = defaultBank }: AppProps) {
-  if (!bank.ok) {
+export default function App({ bank }: AppProps) {
+  if (bank && !bank.ok) {
     return (
       <Scene metres={0}>
         <ErrorScreen message={bank.message} />
       </Scene>
     );
   }
-  return <Game questions={bank.questions} />;
+
+  if (bank?.ok) {
+    return <Game index={indexFromQuestions(bank.questions)} injected={bank.questions} />;
+  }
+
+  const index = loadIndex();
+  if (!index.ok) {
+    return (
+      <Scene metres={0}>
+        <ErrorScreen message={index.message} />
+      </Scene>
+    );
+  }
+  return <Game index={index.index} />;
 }
 
 /**
@@ -34,8 +46,36 @@ export default function App({ bank = defaultBank }: AppProps) {
  * The ocean scene wraps every screen, so it stays mounted and the descent between
  * questions animates instead of resetting.
  */
-function Game({ questions }: { questions: readonly Question[] }) {
-  const { state, notice, start, submit, timeout, next, reset } = useRound(questions);
+function Game({ index, injected }: { index: BankIndex; injected?: readonly Question[] }) {
+  const { state, notice, start, submit, timeout, next, reset } = useRound(new Set(index.ids));
+  const [loading, setLoading] = useState(false);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const loadingRef = useRef(false);
+
+  useEffect(() => installUnlock(), []);
+
+  const onStart = useCallback(
+    (selection: CategorySelection) => {
+      if (injected) {
+        start(selection, injected);
+        return;
+      }
+      if (loadingRef.current) return;
+      loadingRef.current = true;
+      setLoading(true);
+      setLoadError(null);
+      void loadCategories(selection).then((result) => {
+        loadingRef.current = false;
+        setLoading(false);
+        if (!result.ok) {
+          setLoadError(result.message);
+          return;
+        }
+        start(selection, result.questions);
+      });
+    },
+    [injected, start],
+  );
 
   return (
     <Scene metres={diveMetres(state)} diving={state.phase !== 'idle'}>
@@ -46,7 +86,16 @@ function Game({ questions }: { questions: readonly Question[] }) {
   function screenFor() {
     switch (state.phase) {
       case 'idle':
-        return <HomeScreen bank={questions} roundLength={DEFAULT_ROUND_LENGTH} onStart={start} />;
+        return (
+          <HomeScreen
+            counts={index.counts}
+            total={index.ids.length}
+            roundLength={DEFAULT_ROUND_LENGTH}
+            loading={loading}
+            loadError={loadError}
+            onStart={onStart}
+          />
+        );
       case 'answering':
       case 'revealed':
         return (

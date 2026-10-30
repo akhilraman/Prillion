@@ -97,6 +97,11 @@ export function RevealStage({ question, result }: RevealStageProps) {
           {question.answerSet === 'closed' ? 'All accepted answers' : 'Some accepted answers'}
         </summary>
         <p className="stage__prompt">{question.prompt}</p>
+        {question.criteria && (
+          <p className="stage__criteria">
+            <strong>What counts:</strong> {question.criteria}
+          </p>
+        )}
         <ul className="answer-list">
           {ranked.map((answer) => {
             const answerTier = scores.get(answer.id)!.tier;

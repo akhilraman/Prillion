@@ -1,0 +1,220 @@
+{
+  "question": {
+    "id": "us-pop-disney-princesses",
+    "category": "us-pop",
+    "prompt": "Name a current member of the official Disney Princess lineup.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "snow-white",
+        "canonical": "Snow White",
+        "aliases": [
+          "Princess Snow White"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Snow White is listed as the first current member of the official Disney Princess lineup.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "cinderella",
+        "canonical": "Cinderella",
+        "aliases": [
+          "Princess Cinderella"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Cinderella is listed as the second current member of the official Disney Princess lineup.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "aurora",
+        "canonical": "Aurora",
+        "aliases": [
+          "Princess Aurora"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aurora, from Sleeping Beauty, is listed as the third current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "ariel",
+        "canonical": "Ariel",
+        "aliases": [
+          "Princess Ariel"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ariel, from The Little Mermaid, is listed as the fourth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "belle",
+        "canonical": "Belle",
+        "aliases": [
+          "Princess Belle"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Belle, from Beauty and the Beast, is listed as the fifth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "jasmine",
+        "canonical": "Jasmine",
+        "aliases": [
+          "Princess Jasmine"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Jasmine, from Aladdin, is listed as the sixth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "pocahontas",
+        "canonical": "Pocahontas",
+        "aliases": [
+          "Princess Pocahontas"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Pocahontas is listed as the seventh current member of the official Disney Princess lineup.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "mulan",
+        "canonical": "Mulan",
+        "aliases": [
+          "Princess Mulan"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Mulan is listed as the eighth current member of the official Disney Princess lineup.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "tiana",
+        "canonical": "Tiana",
+        "aliases": [
+          "Princess Tiana"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Tiana, from The Princess and the Frog, is listed as the ninth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "rapunzel",
+        "canonical": "Rapunzel",
+        "aliases": [
+          "Princess Rapunzel"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Rapunzel, from Tangled, is listed as the tenth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "merida",
+        "canonical": "Merida",
+        "aliases": [
+          "Princess Merida"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Merida, from Brave, is listed as the eleventh current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "moana",
+        "canonical": "Moana",
+        "aliases": [
+          "Princess Moana"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Moana is listed as the twelfth current member of the official Disney Princess lineup.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      },
+      {
+        "id": "raya",
+        "canonical": "Raya",
+        "aliases": [
+          "Princess Raya"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Raya, from Raya and the Last Dragon, is listed as the thirteenth current member.",
+        "sourceIds": [
+          "disney-princess"
+        ]
+      }
+    ],
+    "explanation": "The official Disney Princess lineup has 13 current members, from Snow White to Raya. It does not include every Disney character who is a princess: Anna and Elsa never officially joined, while Tinker Bell and Esmeralda are former members.",
+    "sources": [
+      {
+        "id": "disney-princess",
+        "title": "Disney Princess",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disney_Princess",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "aa0bad34ca8ff8ec",
+    "brief": "Name an official Disney Princess.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "disney-princess",
+        "version": "1382167715",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Snow White": "1 | Snow White | Snow White and the Seven Dwarfs (1937)",
+      "Cinderella": "2 | Cinderella | Cinderella (1950)",
+      "Aurora": "3 | Aurora | Sleeping Beauty (1959)",
+      "Ariel": "4 | Ariel | The Little Mermaid (1989)",
+      "Belle": "5 | Belle | Beauty and the Beast (1991)",
+      "Jasmine": "6 | Jasmine | Aladdin (1992)",
+      "Pocahontas": "7 | Pocahontas | Pocahontas (1995)",
+      "Mulan": "8 | Mulan | Mulan (1998)",
+      "Tiana": "9 | Tiana | The Princess and the Frog (2009)",
+      "Rapunzel": "10 | Rapunzel | Tangled (2010)",
+      "Merida": "11 | Merida | Brave (2012)",
+      "Moana": "12 | Moana | Moana (2016)",
+      "Raya": "13 | Raya | Raya and the Last Dragon (2021)"
+    },
+    "issues": []
+  }
+}

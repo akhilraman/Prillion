@@ -1,0 +1,235 @@
+{
+  "question": {
+    "id": "tollywood-trivikram-films",
+    "category": "tollywood",
+    "prompt": "Name a film directed by Trivikram Srinivas, including announced projects.",
+    "answerSet": "closed",
+    "answers": [
+      {
+        "id": "nuvve-nuvve",
+        "canonical": "Nuvve Nuvve",
+        "aliases": [
+          "Nuvve Nuvve 2002"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Nuvve Nuvve (2002) marked Trivikram Srinivas's directorial debut.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "athadu",
+        "canonical": "Athadu",
+        "aliases": [],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Athadu is listed as a 2005 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "jalsa",
+        "canonical": "Jalsa",
+        "aliases": [],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Jalsa as Trivikram's third directorial film.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "khaleja",
+        "canonical": "Khaleja",
+        "aliases": [
+          "Khaleja 2010"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Khaleja is listed as a 2010 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "julayi",
+        "canonical": "Julayi",
+        "aliases": [
+          "Julai"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly states that Trivikram directed Julayi in 2012.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "attarintiki-daredi",
+        "canonical": "Attarintiki Daredi",
+        "aliases": [
+          "Atharintiki Daaredi",
+          "Attarintiki Daaredi",
+          "Attarintiki Dari",
+          "Attarinitki Daredi"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly credits Trivikram with directing Attarintiki Daredi in 2013.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "s-o-satyamurthy",
+        "canonical": "S/O Satyamurthy",
+        "aliases": [
+          "Son of Satyamurthy",
+          "S/O Sathyamurthy",
+          "Son of Sathyamurthy",
+          "S O Satyamurthy"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document explicitly states that Trivikram directed S/O Satyamurthy in 2015.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "a-aa",
+        "canonical": "A Aa",
+        "aliases": [
+          "A Aa 2016",
+          "A... Aa"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "A Aa is listed as a 2016 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "agnyaathavaasi",
+        "canonical": "Agnyaathavaasi",
+        "aliases": [
+          "Agnathavasi",
+          "Agnyathavasi",
+          "Agnyaathavaasi 2018"
+        ],
+        "familiarity": 0.0165,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Agnyaathavaasi is listed as a 2018 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "aravinda-sametha-veera-raghava",
+        "canonical": "Aravinda Sametha Veera Raghava",
+        "aliases": [
+          "Aravinda Sametha",
+          "Aravindha Sametha",
+          "Aravindha Sametha Veera Raghava"
+        ],
+        "familiarity": 0.055,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aravinda Sametha Veera Raghava is listed as a 2018 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "ala-vaikunthapurramuloo",
+        "canonical": "Ala Vaikunthapurramuloo",
+        "aliases": [
+          "Ala Vaikuntapuramulo",
+          "Ala Vaikunthapuramulo",
+          "Ala Vaikunthapurramulo",
+          "AVPL"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Ala Vaikunthapurramuloo is listed as a 2020 film in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "guntur-kaaram",
+        "canonical": "Guntur Kaaram",
+        "aliases": [
+          "Guntur Karam",
+          "Gunturu Kaaram"
+        ],
+        "familiarity": 0.1376,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "The document identifies Guntur Kaaram (2024) as Trivikram's directorial feature.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      },
+      {
+        "id": "aadarsha-kutumbam-house-no-47-ak47",
+        "canonical": "Aadarsha Kutumbam House No: 47 - AK47",
+        "aliases": [
+          "Aadarsha Kutumbam",
+          "Adarsha Kutumbam",
+          "AK47",
+          "AK 47",
+          "Aadarsha Kutumbam House No 47"
+        ],
+        "familiarity": 0.0041,
+        "familiarityBasis": "llm-estimate",
+        "evidence": "Aadarsha Kutumbam House No: 47 - AK47 appears as the 2026 entry in his director filmography.",
+        "sourceIds": [
+          "trivikram-srinivas"
+        ]
+      }
+    ],
+    "explanation": "Trivikram's director filmography lists 13 films, from his 2002 debut Nuvve Nuvve through the announced 2026 project Aadarsha Kutumbam House No: 47 - AK47. Films he only wrote, such as Manmadhudu and Bheemla Nayak, do not count.",
+    "sources": [
+      {
+        "id": "trivikram-srinivas",
+        "title": "Trivikram Srinivas",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trivikram_Srinivas",
+        "retrievedOn": "2026-10-30"
+      }
+    ],
+    "approvedOn": "2026-10-30"
+  },
+  "provenance": {
+    "model": "gpt-6.1-sol",
+    "promptVersion": "2026-10-29.2",
+    "inputHash": "26fabd124df1b62f",
+    "brief": "Name a film directed by Trivikram Srinivas.",
+    "attempts": 1,
+    "documents": [
+      {
+        "id": "trivikram-srinivas",
+        "version": "1382747410",
+        "truncated": false
+      }
+    ],
+    "quotes": {
+      "Nuvve Nuvve": "Nuvve Nuvve released in 2002, marking Trivikram's directorial debut.",
+      "Athadu": "2005 | Athadu | |",
+      "Jalsa": "Trivikram's third directorial, Jalsa, became the most anticipated film of the year 2008",
+      "Khaleja": "2010 | Khaleja | |",
+      "Julayi": "He then directed Julayi (2012) starring Allu Arjun and Ileana D'Cruz, and the film became a box-office hit.",
+      "Attarintiki Daredi": "Next, he directed Attarintiki Daredi (2013), starring Pawan Kalyan, Samantha, and Pranitha Subhash.",
+      "S/O Satyamurthy": "Trivikram then directed S/O Satyamurthy (2015), starring Allu Arjun and Samantha.",
+      "A Aa": "2016 | A Aa | |",
+      "Agnyaathavaasi": "2018 | Agnyaathavaasi | |",
+      "Aravinda Sametha Veera Raghava": "2018 | Aravinda Sametha Veera Raghava | |",
+      "Ala Vaikunthapurramuloo": "2020 | Ala Vaikunthapurramuloo | |",
+      "Guntur Kaaram": "His next directorial feature was the Mahesh Babu-starrer Guntur Kaaram (2024), marking their third collaboration.",
+      "Aadarsha Kutumbam House No: 47 - AK47": "2026 | Aadarsha Kutumbam House No: 47 - AK47 | |"
+    },
+    "issues": []
+  }
+}

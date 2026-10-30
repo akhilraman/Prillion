@@ -1,21 +1,35 @@
 import { CATEGORIES } from '../domain/types.ts';
-import type { CategorySelection, Question } from '../domain/types.ts';
+import type { Category, CategorySelection } from '../domain/types.ts';
 import { DEFAULT_SECONDS_PER_QUESTION } from '../domain/round.ts';
+import { play } from '../game/sound.ts';
 import { CATEGORY_BLURBS, CATEGORY_LABELS } from './labels.ts';
+import { MuteToggle } from './MuteToggle.tsx';
 
 interface HomeScreenProps {
-  bank: readonly Question[];
+  counts: Record<Category, number>;
+  total: number;
   roundLength: number;
+  loading?: boolean;
+  loadError?: string | null;
   onStart: (selection: CategorySelection) => void;
 }
 
-export function HomeScreen({ bank, roundLength, onStart }: HomeScreenProps) {
-  const counts = Object.fromEntries(
-    CATEGORIES.map((c) => [c, bank.filter((q) => q.category === c).length]),
-  ) as Record<(typeof CATEGORIES)[number], number>;
+export function HomeScreen({
+  counts,
+  total,
+  roundLength,
+  loading = false,
+  loadError = null,
+  onStart,
+}: HomeScreenProps) {
+  function begin(selection: CategorySelection) {
+    play('start');
+    onStart(selection);
+  }
 
   return (
     <main className="screen screen--home">
+      <MuteToggle className="mute--home" />
       <header className="home__sky">
         <h1 className="logo">Prillion</h1>
         <p className="home__subtitle">the rare-answer dive</p>
@@ -25,18 +39,25 @@ export function HomeScreen({ bank, roundLength, onStart }: HomeScreenProps) {
         </p>
       </header>
 
-      <section className="home__deep" aria-labelledby="dive-choice">
+      <section className="home__deep" aria-labelledby="dive-choice" aria-busy={loading}>
         <h2 id="dive-choice" className="home__choose">
           Choose your dive
         </h2>
 
-        <button className="begin" type="button" onClick={() => onStart('mixed')}>
+        <button
+          className="begin"
+          type="button"
+          onClick={() => begin('mixed')}
+          disabled={loading || total === 0}
+        >
           <span className="begin__label">
             <span aria-hidden="true">▼ </span>
             {CATEGORY_LABELS.mixed} dive
             <span aria-hidden="true"> ▼</span>
           </span>
-          <span className="begin__meta">All categories, {bank.length} questions</span>
+          <span className="begin__meta">
+            {loading ? 'Loading questions…' : `All categories, ${total} questions`}
+          </span>
         </button>
 
         <ul className="category-grid">
@@ -45,8 +66,8 @@ export function HomeScreen({ bank, roundLength, onStart }: HomeScreenProps) {
               <button
                 className="category-card"
                 type="button"
-                onClick={() => onStart(category)}
-                disabled={counts[category] === 0}
+                onClick={() => begin(category)}
+                disabled={loading || counts[category] === 0}
               >
                 <span className="category-card__name">{CATEGORY_LABELS[category]}</span>
                 <span className="category-card__meta">
@@ -57,6 +78,12 @@ export function HomeScreen({ bank, roundLength, onStart }: HomeScreenProps) {
             </li>
           ))}
         </ul>
+
+        {loadError && (
+          <p className="home__status" role="alert">
+            {loadError}
+          </p>
+        )}
 
         <p className="home__footer">Any valid answer counts. Less common answers score more.</p>
       </section>
