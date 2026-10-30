@@ -22,6 +22,7 @@ from typing import Any, Literal
 
 from pydantic import ValidationError
 
+from .ai_generate import SAMPLES, ai_input_hash, build_sample_messages, generate_ai_question
 from .generate import GenerationResult, build_messages, generate_question, input_hash
 from .llm import LLM, OpenAILLM
 from .promote import BankRejected, PromoteError, promote
@@ -103,7 +104,12 @@ def _parser() -> argparse.ArgumentParser:
     run = commands.add_parser("run", help="generate one candidate question")
     run.add_argument("--category", required=True, choices=CATEGORY_NAMES)
     run.add_argument("--id", required=True, dest="question_id", help="question id, e.g. space-saturn-moons")
-    run.add_argument("--page", required=True, action="append", help="Wikipedia article title (repeatable)")
+    run.add_argument("--page", action="append", default=[], help="Wikipedia article title (repeatable)")
+    run.add_argument(
+        "--ai-knowledge",
+        action="store_true",
+        help="write from model memory with no sources (memes, hoaxes); uses several LLM calls",
+    )
     run.add_argument("--brief", required=True, help="what the question should ask about")
     common(run)
 
@@ -171,8 +177,9 @@ def _config_error(s: Settings) -> str | None:
 
 
 def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -> Outcome:
-    """Fetch, generate, ground-check and gate ONE topic. Never raises for expected failures."""
+    """Fetch, generate, check and gate ONE topic. Never raises for expected failures."""
     out = s.out
+    ai = topic.mode == "ai-knowledge"
     documents: list[Document] = []
     for title in topic.pages:
         try:
@@ -184,10 +191,14 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
         flag = "  (TRUNCATED)" if doc.truncated else ""
         out(f"fetched {doc.title!r}: {len(doc.text):,} chars, revision {doc.version}{flag}")
 
-    prompt_tokens = sum(
-        _approx_tokens(m["content"]) for m in build_messages(topic.brief, topic.category, documents)
+    messages = (
+        build_sample_messages(topic.brief, topic.category)
+        if ai
+        else build_messages(topic.brief, topic.category, documents)
     )
-    out(f"prompt is about {prompt_tokens:,} tokens")
+    prompt_tokens = sum(_approx_tokens(m["content"]) for m in messages)
+    calls = f" x {SAMPLES} samples + 1 verifier call" if ai else ""
+    out(f"prompt is about {prompt_tokens:,} tokens{calls}")
     if s.dry_run:
         out("dry run: no LLM call made")
         return Outcome(topic.id, "dry-run", 0)
@@ -198,8 +209,13 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
         return Outcome(topic.id, "error", 2)
     model = s.model_override or s.env["PRILLION_OPENAI_MODEL"]
 
+    wanted = (
+        ai_input_hash(model, topic.brief, topic.category)
+        if ai
+        else input_hash(model, topic.brief, topic.category, documents)
+    )
     target = s.out_dir / f"{topic.id}.json"
-    if not s.force and _already_done(target, input_hash(model, topic.brief, topic.category, documents)):
+    if not s.force and _already_done(target, wanted):
         out(f"up to date: {target} was generated from identical inputs (use --force to regenerate)")
         return Outcome(topic.id, "skipped", 0)
     if not allow_generation:
@@ -207,16 +223,24 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
         return Outcome(topic.id, "deferred", 0)
 
     llm = (s.llm_factory or OpenAILLM)(model)
-    out(f"generating with {model} (up to {s.max_attempts} attempts)...")
-    result = generate_question(
-        llm,
-        documents,
-        brief=topic.brief,
-        category=topic.category,
-        question_id=topic.id,
-        today=s.today,
-        max_attempts=s.max_attempts,
-    )
+    if ai:
+        out(f"generating from AI knowledge with {model} (no sources; consensus + verifier)...")
+        result = generate_ai_question(
+            llm, brief=topic.brief, category=topic.category, question_id=topic.id, today=s.today
+        )
+        what, unit = "consensus and verification", "sample(s)"
+    else:
+        out(f"generating with {model} (up to {s.max_attempts} attempts)...")
+        result = generate_question(
+            llm,
+            documents,
+            brief=topic.brief,
+            category=topic.category,
+            question_id=topic.id,
+            today=s.today,
+            max_attempts=s.max_attempts,
+        )
+        what, unit = "grounding", "attempt(s)"
 
     for issue in result.issues:
         out(f"  {issue}")
@@ -224,13 +248,13 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
     if not result.ok or result.question is None:
         if result.question is not None:
             _write(failed, result)
-            out(f"FAILED grounding after {result.attempts} attempt(s); inspect {failed}")
+            out(f"FAILED {what} after {result.attempts} {unit}; inspect {failed}")
         else:
-            out(f"FAILED after {result.attempts} attempt(s): no question produced")
+            out(f"FAILED after {result.attempts} {unit}: no question produced")
         return Outcome(topic.id, "failed", 1)
 
     _write(target, result)
-    out(f"grounding passed after {result.attempts} attempt(s); wrote {target}")
+    out(f"{what} passed after {result.attempts} {unit}; wrote {target}")
 
     passed, report = s.gate(target)
     out(report)
@@ -240,6 +264,8 @@ def process_topic(topic: Topic, s: Settings, *, allow_generation: bool = True) -
         out(f"web quality gate FAILED: not publishable as-is; kept for inspection at {failed}")
         return Outcome(topic.id, "failed", 1)
     out("web quality gate passed: ready for human review")
+    if ai:
+        out("note: AI-knowledge candidate. Check EVERY answer yourself before promoting it.")
     return Outcome(topic.id, "generated", 0)
 
 
@@ -333,9 +359,15 @@ def main(
     if args.command == "run-all":
         return _run_all(args, settings)
     try:
-        topic = Topic(id=args.question_id, category=args.category, pages=args.page, brief=args.brief)
+        topic = Topic(
+            id=args.question_id,
+            category=args.category,
+            mode="ai-knowledge" if args.ai_knowledge else "sourced",
+            pages=args.page,
+            brief=args.brief,
+        )
     except ValidationError as exc:
-        problems = "; ".join(f"{'.'.join(map(str, e['loc']))}: {e['msg']}" for e in exc.errors())
+        problems = "; ".join(e["msg"] for e in exc.errors())
         out(f"error: invalid arguments: {problems}")
         return 2
     return process_topic(topic, settings).code

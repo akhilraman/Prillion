@@ -8,7 +8,7 @@ import json
 from pathlib import Path
 from typing import Literal
 
-from pydantic import BaseModel, ConfigDict, Field, ValidationError
+from pydantic import BaseModel, ConfigDict, Field, ValidationError, model_validator
 
 CATEGORY_NAMES = ("tollywood", "space", "us-pop")  # keep in step with web/src/domain/types.ts CATEGORIES
 
@@ -22,8 +22,20 @@ class Topic(BaseModel):
 
     id: str = Field(pattern=r"^[a-z0-9]+(-[a-z0-9]+)*$", description="question id; also the output filename")
     category: Literal["tollywood", "space", "us-pop"]
-    pages: list[str] = Field(min_length=1, description="Wikipedia article titles to read")
+    mode: Literal["sourced", "ai-knowledge"] = Field(
+        default="sourced",
+        description="sourced: grounded in Wikipedia pages. ai-knowledge: model memory, no sources",
+    )
+    pages: list[str] = Field(default_factory=list, description="Wikipedia titles to read (sourced only)")
     brief: str = Field(min_length=1, description="what the question should ask about")
+
+    @model_validator(mode="after")
+    def _pages_match_mode(self) -> Topic:
+        if self.mode == "sourced" and not self.pages:
+            raise ValueError("a sourced topic needs at least one page")
+        if self.mode == "ai-knowledge" and self.pages:
+            raise ValueError("an ai-knowledge topic has no pages (it has no sources)")
+        return self
 
 
 class TopicsFile(BaseModel):

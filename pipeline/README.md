@@ -62,6 +62,18 @@ Flags: `--page` is repeatable, `--model` overrides the env var, `--force` regene
 
 Outputs: `candidates/<id>.json` on success. `candidates/<id>.failed.json` if grounding or the web gate rejected it (kept for inspection).
 
+### AI-knowledge topics (memes, trolls, hoaxes)
+
+Some good questions have no page that lists the answers. Set `"mode": "ai-knowledge"` on a topic (and give it no `pages`) to write it from the model's memory:
+
+```json
+{ "id": "us-pop-memes", "category": "us-pop", "mode": "ai-knowledge", "brief": "Name a famous internet meme." }
+```
+
+or run one directly: `prillion-pipeline run --ai-knowledge --category us-pop --id us-pop-memes --brief "..."`.
+
+Each topic makes **3 sampling calls (run in parallel) + 1 verifier call** (small prompts, no documents, so cheap, but 4x the calls of one sourced topic; `--max-new` still counts topics). An answer survives only if at least 2 of the 3 samples named it **and** a strict fact-checker prompt calls it `correct`. The candidate has `basis: "ai-knowledge"` and no sources, and `provenance` shows each answer's votes, what was dropped, and every verdict. The web gate then requires an open set with criteria and rejects sensitive terms. Passing all of this means "plausible", not "true": check every answer yourself, then promote with `--allow-ai-knowledge`.
+
 ### Working through the topic queue
 
 `topics.json` is the reviewed list of what the pipeline may generate (id, category, Wikipedia pages, brief). Edit it in a PR; nothing else decides topics yet. **Order matters:** `run-all` works through the file top to bottom and `--max-new` stops after N, so keep the queue interleaved across categories to make each batch balanced.
