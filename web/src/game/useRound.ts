@@ -27,13 +27,13 @@ export interface RoundNotice {
  *   - records play history as a side effect
  * Components receive plain callbacks and never touch time, storage or selection.
  */
-export function useRound(bank: readonly Question[], roundLength: number = DEFAULT_ROUND_LENGTH) {
+export function useRound(validIds: ReadonlySet<string>, roundLength: number = DEFAULT_ROUND_LENGTH) {
   const [state, dispatch] = useReducer(reduce, initialRoundState);
   const [notice, setNotice] = useState<RoundNotice | null>(null);
-  const [history] = useState(() => createHistoryStore(getBrowserStorage(), new Set(bank.map((q) => q.id))));
+  const [history] = useState(() => createHistoryStore(getBrowserStorage(), validIds));
 
   const start = useCallback(
-    (selection: CategorySelection) => {
+    (selection: CategorySelection, bank: readonly Question[]) => {
       const result = selectQuestions({ bank, selection, count: roundLength, history: history.get() });
       setNotice({
         shortfall: result.shortfall,
@@ -43,7 +43,7 @@ export function useRound(bank: readonly Question[], roundLength: number = DEFAUL
       });
       dispatch({ type: 'START', questions: result.questions, nowMs: clock() });
     },
-    [bank, roundLength, history],
+    [roundLength, history],
   );
 
   const submit = useCallback((text: string) => dispatch({ type: 'SUBMIT', text, nowMs: clock() }), []);

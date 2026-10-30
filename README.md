@@ -13,7 +13,7 @@ web/                    React + TypeScript + Vite frontend
   src/domain/           Pure game logic (no React, no browser APIs) + tests
   src/game/             React glue: round hook, deadline timer
   src/storage/          localStorage play history
-  src/content/          Question bank (JSON) + validated loader
+  src/content/          Question bank (JSON) + lazy per-category loader
   src/ui/               Screens and components
 docs/ARCHITECTURE.md    Design, data flow, trade-offs, roadmap
 .env.example            Environment variables (pipeline only: OPENAI_API_KEY, PRILLION_OPENAI_MODEL)
@@ -36,6 +36,7 @@ docs/ARCHITECTURE.md    Design, data flow, trade-offs, roadmap
 | `npm run typecheck`    | Strict TypeScript check                             |
 | `npm run lint`         | oxlint                                              |
 | `npm run format`       | Format with Prettier                                |
+| `npm run split-bank`   | Write per-category JSON from `seed-bank.json` (also run by dev/check/build) |
 | `npm run check`        | Typecheck + lint + format check + tests (CI-style)  |
 | `npm run dev`          | Dev server at http://localhost:5173                 |
 | `npm run build`        | Typecheck + production build into `web/dist`        |

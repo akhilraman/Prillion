@@ -326,7 +326,7 @@ def _promote(args: argparse.Namespace, bank_gate: GateRunner, today: date, out: 
         out(f"dry run: the resulting bank passed the web gate; {args.bank} was NOT changed")
     else:
         out(f"wrote {args.bank}")
-        out("next: review `git diff`, run `npm run check` in web/, then open a PR")
+        out("next: review `git diff`, run `npm run check` in web/ (that splits the bank), then open a PR")
         out("      (this changes what players see)")
     return 0
 

@@ -105,7 +105,7 @@ body {
 
   /* World scale: how many pixels one metre of depth takes on screen. */
   --px-per-m: 1.8px; /* was 1.1: a longer scroll, so even a Tier 1 answer feels like real progress */
-  --depth: min(1, calc(var(--metres) / 1600));
+  --depth: min(1, calc(var(--metres) / 8000)); /* fully dark around two Tier 4 answers */
   /* The diver sinks from the waterline, then holds at 44% of the screen while the world scrolls. */
   --you-y: min(calc(var(--waterline) + var(--metres) * var(--px-per-m)), max(44vh, var(--waterline)));
   /* Where the surface (the 0 m line) currently is on screen. */
@@ -563,6 +563,11 @@ body {
   text-transform: uppercase;
   color: var(--text-muted);
 }
+.home__status {
+  margin: 0.4rem 0 0;
+  text-align: center;
+  color: var(--pink);
+}
 .home__footer {
   margin: 0.4rem 0 0;
   text-align: center;
@@ -588,8 +593,12 @@ body {
     0 0 0 3px rgb(79 216 238 / 0.18),
     0 5px 0 #14566a;
 }
-.begin:hover {
+.begin:hover:not(:disabled) {
   background: rgb(10 36 72 / 0.95);
+}
+.begin:disabled {
+  opacity: 0.55;
+  cursor: wait;
 }
 .begin:active {
   transform: translateY(3px);

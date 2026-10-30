@@ -10,8 +10,11 @@
 ## Data flow (current)
 
 ```
-seed-bank.json ──validate──▶ QuestionBank ──selectQuestions(history, rng)──▶ Question[]
-                                                                               │
+seed-bank.json ──split-bank──▶ banks/<category>.json ──validate──▶ QuestionBank
+bank-index.json (counts, ids) ──home screen
+        │
+        └── on dive start: loadCategories(selection) ──selectQuestions(history, rng)──▶ Question[]
+                                                                                         │
  player text ──▶ roundReducer(SUBMIT) ──▶ matchAnswer ──▶ scoreAnswer ──▶ QuestionResult
                     ▲  (nowMs injected)         │               │
                     │                       normalize      rarity tier + points
@@ -24,7 +27,7 @@ seed-bank.json ──validate──▶ QuestionBank ──selectQuestions(histor
 ui/            React components. Render state, forward events. No logic, no time, no storage.
 game/          useRound (reducer + clock + randomness + history side effect), deadlineTimer.
 storage/       localStorage play history, validated on read, failure-tolerant.
-content/       loadBank: validate untrusted JSON, return a result (never throws).
+content/       loadBank: tiny index at startup; per-category JSON lazy-loaded on dive start. Validates untrusted JSON, returns a result (never throws).
 domain/        Pure rules. Imports nothing from the layers above.
 ```
 
@@ -72,11 +75,14 @@ The deadline is an absolute timestamp stored in state. The UI countdown is deriv
 ### Selection
 Freshness beats category balance: never-played questions are exhausted (balanced across categories) before any replay; replays go least-recently-played first.
 
+### Lazy category loading
+The pipeline still writes one `seed-bank.json` (the quality gate and `promote` keep a single file). `web/scripts/split-bank.ts` then writes one JSON file per category plus a tiny `bank-index.json` (counts and ids only). The home screen ships the index; choosing a dive dynamically imports that category (mixed imports all three in parallel). Vite puts each file in its own hashed chunk, so the initial JS no longer contains every answer list. Generated files are gitignored and rebuilt by `dev` / `typecheck` / `test` / `build`.
+
 ### Timer (UI)
 `Timer` owns its own tick state so only it re-renders ~5x/second; the question panel and the answer input never re-render because of the countdown. It uses `performance.now()` (monotonic: unaffected by the user changing the system clock) and re-checks on `visibilitychange`/`focus`. The reducer, not the UI, decides whether a submit beat the deadline.
 
 ### Visual layer (pixel ocean)
-- **One number drives the scene: metres.** `Scene` wraps every screen and is always mounted. It receives the diver's depth in metres from `ui/scene/depth.ts`, which is derived from score (`METRES_PER_POINT = 2`: a common answer sinks 200 m, a legendary one 1000 m), so rarity is visible in the world, not just in a number. CSS derives everything else from `--metres`: sea colour, the sky and boat scrolling away, light rays fading, coral appearing, depth landmarks ("the twilight zone begins", decorative real facts) and the scrolling depth ruler with a pink YOU marker. `--metres` is registered with `@property` and given a `transition`, so one cheap state change animates the whole world; browsers without `@property` just jump. The diver sinks from the waterline to 44% of the screen height and then holds there while the world scrolls past.
+- **One number drives the scene: metres.** `Scene` wraps every screen and is always mounted. It receives the diver's depth in metres from `ui/scene/depth.ts`, which is derived from the answer's tier (`TIER_METRES`: Tier 1 800 m, Tier 2 1500 m, Tier 3 2500 m, Tier 4 4000 m), so rarity is visible in the world, not just in a number. CSS derives everything else from `--metres`: sea colour, the sky and boat scrolling away, light rays fading, coral appearing, depth landmarks ("the twilight zone begins", decorative real facts) and the scrolling depth ruler with a pink YOU marker. `--metres` is registered with `@property` and given a `transition`, so one cheap state change animates the whole world; browsers without `@property` just jump. The diver sinks from the waterline to 44% of the screen height and then holds there while the world scrolls past.
 - **Wrong answers retry, they do not end the question.** The reducer keeps the state `answering` on a miss and records the attempt in `misses`; only a match or the clock ends the question. A question therefore has two outcomes, `correct` and `timeout`, and the UI shows `"<text>": no signal. try again` (text kept and selected, so a typo is one keystroke to fix). Misses are stored on the result so an open-set miss can still be reviewed later as a candidate answer. Trade-off: unlimited retries allow guess-spam; the 25 s clock is the only limit (a cap would be one constant in the reducer).
 - **The reveal is choreographed, not a form of results.** After a correct answer the prompt folds away, the typed answer drops out as a stamp, the world scrolls down and a sticker for the answer's rarity tier appears (random among that tier's stickers in `ui/scene/tierImages.ts`; the pixel creatures remain as a fallback) with the tier named plainly (Tier 1 / Tier 2 / Tier 3 / Tier 4, from most to least common; a miss shows "Hit" crossed off by an animated line, leaving "Miss"). Timing is modelled on a measured Krillion round (about 3 s of sinking, the tier landing at ~3.3 s, the Descend button at ~4.2 s); instead of slowing it, the world scrolls further per point (`--px-per-m` 1.8) so even a Tier 1 answer feels like progress: `SINK_MS` in `ui/scene/depth.ts` and `transition: --metres` in `index.css` must stay in step, and the reveal delays in `index.css` hang off the same figure. A miss skips the long wait. The accepted-answer list, explanation and sources sit in a collapsible so they never crowd the moment. Everything is CSS animation with staggered delays; the HUD numbers count up in a small `requestAnimationFrame` hook (`useCountUp`). Reduced motion removes the animation and the delays, so the reveal is instant. A screen-reader status line announces the outcome and focus moves to the Descend button.
 - **Art is code, not image files.** Sprites are rows of characters plus a palette (`ui/scene/sprites.ts`) rendered as one SVG path per colour (`PixelSprite`). That keeps art reviewable in a diff, crisp at any scale, and recolourable by CSS (`currentColor` for silhouettes). All scene layers are `aria-hidden` and `pointer-events: none`; the layout is the real UI.
@@ -97,7 +103,7 @@ The first seed bank had 2-4 valid answers per question, so most priors landed in
 
 | Area | Prototype now | Production would |
 | --- | --- | --- |
-| Content storage | Static JSON in the bundle | PostgreSQL (Supabase) with a review workflow |
+| Content storage | Static JSON, split per category and lazy-loaded | PostgreSQL (Supabase) with a review workflow |
 | Scoring/validation | Client-side | Server-authoritative (required before multiplayer/leaderboards) |
 | Answers in the bundle | Shipped to the client | Withheld; checked via an API |
 | Play history | localStorage (per browser, forgeable) | Per-user rows |

@@ -113,7 +113,7 @@ describe('playing a full round through the UI', () => {
       // Reveal: rank for the answer's rarity, points, accepted answers, explanation.
       // Focus moves to the continue button so Enter keeps the dive going.
       expect(screen.getByRole('heading', { level: 2, name: 'Tier 1' })).toBeInTheDocument();
-      expect(screen.getByText('+100 PTS · sink 200m')).toBeInTheDocument();
+      expect(screen.getByText('+100 PTS · sink 800m')).toBeInTheDocument();
       expect(screen.getByText('All accepted answers')).toBeInTheDocument();
       expect(screen.getByText('test explanation')).toBeInTheDocument();
       const nextButton = screen.getByRole('button', { name: i === N ? 'See results' : 'Descend' });

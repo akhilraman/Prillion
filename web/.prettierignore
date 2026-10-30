@@ -3,3 +3,5 @@ dist
 coverage
 package-lock.json
 src/content/seed-bank.json
+src/content/bank-index.json
+src/content/banks
