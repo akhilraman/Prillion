@@ -34,6 +34,7 @@ select = ["E", "F", "I", "B", "UP", "SIM"]
 [tool.ruff.lint.per-file-ignores]
 # The system prompt is prose; wrapping it would change the text the model sees.
 "src/prillion_pipeline/generate.py" = ["E501"]
+"src/prillion_pipeline/ai_generate.py" = ["E501"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

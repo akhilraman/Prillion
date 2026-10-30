@@ -192,7 +192,7 @@ def test_candidate_passes_through_the_real_web_gate_script_contract(tmp_path: Pa
     } <= set(written["question"])
 
 
-@pytest.mark.parametrize("flag", ["--category", "--id", "--page", "--brief"])
+@pytest.mark.parametrize("flag", ["--category", "--id", "--brief"])
 def test_required_arguments(flag: str, tmp_path: Path) -> None:
     argv = ["run", "--category", "space", "--id", "q", "--page", "p", "--brief", "b"]
     i = argv.index(flag)

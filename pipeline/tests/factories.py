@@ -1,5 +1,9 @@
 """Test builders shared across test modules."""
 
+import threading
+
+from pydantic import BaseModel
+
 from prillion_pipeline.candidate import GeneratedAnswer, GeneratedQuestion
 from prillion_pipeline.llm import LLMError, Message
 from prillion_pipeline.sources.base import Document
@@ -58,13 +62,20 @@ class FakeLLM:
 
     model = "fake-model"
 
-    def __init__(self, *responses: GeneratedQuestion | LLMError) -> None:
+    def __init__(self, *responses: BaseModel | LLMError) -> None:
         self._responses = list(responses)
         self.calls: list[list[Message]] = []
+        self._lock = threading.Lock()  # AI samples are requested from several threads
 
-    def generate(self, messages: list[Message]) -> GeneratedQuestion:
-        self.calls.append(messages)
-        response = self._responses.pop(0)
+    def parse(self, messages: list[Message], schema: type = BaseModel) -> BaseModel:
+        with self._lock:
+            self.calls.append(messages)
+            response = self._responses.pop(0)
         if isinstance(response, LLMError):
             raise response
+        return response
+
+    def generate(self, messages: list[Message]) -> GeneratedQuestion:
+        response = self.parse(messages, GeneratedQuestion)
+        assert isinstance(response, GeneratedQuestion)
         return response

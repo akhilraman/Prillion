@@ -5,9 +5,13 @@ change touches only this file.
 """
 
 import os
-from typing import Protocol
+from typing import Protocol, TypeVar
+
+from pydantic import BaseModel
 
 from .candidate import GeneratedQuestion
+
+T = TypeVar("T", bound=BaseModel)
 
 Message = dict[str, str]
 """{"role": "system" | "user" | "assistant", "content": "..."}"""
@@ -21,7 +25,11 @@ class LLM(Protocol):
     model: str
 
     def generate(self, messages: list[Message]) -> GeneratedQuestion:
-        """Return a schema-valid question or raise LLMError."""
+        """Return a schema-valid grounded question or raise LLMError."""
+        ...
+
+    def parse(self, messages: list[Message], schema: type[T]) -> T:
+        """Return an object of any schema we define (AI-knowledge samples, verdicts) or raise LLMError."""
         ...
 
 
@@ -39,11 +47,14 @@ class OpenAILLM:
         self._client = OpenAI(api_key=key)
 
     def generate(self, messages: list[Message]) -> GeneratedQuestion:
+        return self.parse(messages, GeneratedQuestion)
+
+    def parse(self, messages: list[Message], schema: type[T]) -> T:
         try:
             response = self._client.responses.parse(
                 model=self.model,
                 input=messages,  # type: ignore[arg-type]
-                text_format=GeneratedQuestion,
+                text_format=schema,
                 store=False,  # don't retain our prompts server-side
             )
         except Exception as exc:  # SDK raises many types; callers only need "it failed"

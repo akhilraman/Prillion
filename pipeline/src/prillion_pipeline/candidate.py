@@ -63,12 +63,16 @@ def answer_id(canonical: str, taken: set[str]) -> str:
     return candidate
 
 
-def shares_from_tiers(question: GeneratedQuestion) -> list[float]:
+def shares_from_tier_names(tiers: list[str], answer_set: str) -> list[float]:
     """Tier weights normalised to a share per answer (sums to 1, or OPEN_SET_COVERAGE if open)."""
-    weights = [TIER_WEIGHTS[a.familiarity_tier] for a in question.answers]
+    weights = [TIER_WEIGHTS[t] for t in tiers]
     total = sum(weights)
-    scale = OPEN_SET_COVERAGE if question.answer_set == "open" else 1.0
+    scale = OPEN_SET_COVERAGE if answer_set == "open" else 1.0
     return [round(w / total * scale, 4) for w in weights]
+
+
+def shares_from_tiers(question: GeneratedQuestion) -> list[float]:
+    return shares_from_tier_names([a.familiarity_tier for a in question.answers], question.answer_set)
 
 
 def to_bank_question(
